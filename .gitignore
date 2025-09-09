@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Local env / secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
