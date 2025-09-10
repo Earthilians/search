@@ -23,6 +23,31 @@ try {
 } catch (err) {
   console.error('DEBUG: failed creating last-index file:', err && err.message ? err.message : err);
 }
+// DEBUG BLOCK - put this right after your constants
+console.log('DEBUG __dirname:', __dirname);
+console.log('DEBUG process.cwd():', process.cwd());
+console.log('DEBUG resolved LAST_INDEX_FILE:', path.resolve(LAST_INDEX_FILE));
+
+try {
+  // ensure directory exists and create visible file next to this script
+  const p1 = path.resolve(__dirname, 'last_indexed.json');
+  if (!fs.existsSync(path.dirname(p1))) fs.mkdirSync(path.dirname(p1), { recursive: true });
+  fs.writeFileSync(p1, JSON.stringify({}, null, 2), 'utf8');
+  console.log('DEBUG: created last_indexed.json at __dirname path:', p1);
+} catch (err) {
+  console.error('DEBUG: failed creating at __dirname path:', err && err.message ? err.message : err);
+}
+
+try {
+  // ALSO create in the current working directory (where you probably run node from)
+  const p2 = path.resolve(process.cwd(), 'crawler', 'last_indexed.json');
+  if (!fs.existsSync(path.dirname(p2))) fs.mkdirSync(path.dirname(p2), { recursive: true });
+  fs.writeFileSync(p2, JSON.stringify({}, null, 2), 'utf8');
+  console.log('DEBUG: created last_indexed.json at process.cwd path:', p2);
+} catch (err) {
+  console.error('DEBUG: failed creating at process.cwd path:', err && err.message ? err.message : err);
+}
+
 const USER_AGENT = 'EarthiliansCrawler/1.0 (+mailto:you@example.com)';
 
 const CONFIG = {
