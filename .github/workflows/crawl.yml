@@ -1,7 +1,7 @@
 name: scheduled-index
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours (edit if needed)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -9,18 +9,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-      - name: Install
-        run: |
-          cd crawler
-          npm ci
+          cache: 'npm'
+
+      - name: Install dependencies
+        working-directory: ./crawler
+        run: npm install --no-audit --no-fund
+
       - name: Run indexer
-        run: |
-          cd crawler
-          node generate_index.js
+        run: node crawler/generate_index.js
+
       - name: Commit generated index
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
