@@ -122,7 +122,7 @@ jobs:
           SHARD=${{ matrix.shard }}
           SHARD_COUNT=${{ needs.prepare.outputs.shard_count }}
           echo "Running shard $SHARD of $SHARD_COUNT"
-          node crawler/generate_index_shard.js \
+          node crawler/generate_index.js \
             --shardIndex=$SHARD --shardCount=$SHARD_COUNT \
             --domains=./crawler/domains.csv \
             --out=shard-output-$SHARD.json \
