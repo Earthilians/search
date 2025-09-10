@@ -1,0 +1,41 @@
+{
+  "example.com": {
+    "lastAt": 1757482633475,
+    "urls": [
+      "https://example.com/"
+    ]
+  },
+  "another-site.example": {
+    "lastAt": 1757482635884,
+    "urls": []
+  },
+  "google.com": {
+    "lastAt": 1757482640069,
+    "urls": [
+      "https://www.google.com/intl/lt/gmail/about/policy/",
+      "https://google.com/",
+      "https://www.google.com/intl/lv/gmail/about/",
+      "https://www.google.com/intl/lt/gmail/about/for-work/",
+      "https://www.google.com/intl/lv/gmail/about/for-work/",
+      "https://www.google.com/intl/lv/gmail/about/policy/",
+      "https://www.google.com/intl/ml_in/gmail/about/policy/",
+      "https://www.google.com/intl/ml_in/gmail/about/",
+      "https://www.google.com/intl/ml_in/gmail/about/for-work/",
+      "https://www.google.com/intl/mr_in/gmail/about/policy/",
+      "https://www.google.com/intl/mr_in/gmail/about/",
+      "https://www.google.com/intl/ms/gmail/about/",
+      "https://www.google.com/intl/ms/gmail/about/for-work/",
+      "https://www.google.com/intl/mr_in/gmail/about/for-work/"
+    ]
+  },
+  "amazon.com": {
+    "lastAt": 1757482655860,
+    "urls": []
+  },
+  "facebook.com": {
+    "lastAt": 1757482660009,
+    "urls": [
+      "https://facebook.com/"
+    ]
+  }
+}
