@@ -1,1 +1,188 @@
-{}
+{
+  "google.com": {
+    "lastAt": 1757532800952,
+    "urls": [
+      "https://www.google.com/intl/am/gmail/about/policy/",
+      "https://google.com/",
+      "https://www.google.com/intl/am/gmail/about/",
+      "https://www.google.com/intl/ar/gmail/about/",
+      "https://www.google.com/intl/am/gmail/about/for-work/",
+      "https://www.google.com/intl/ar/gmail/about/policy/",
+      "https://www.google.com/intl/bg/gmail/about/",
+      "https://www.google.com/intl/ar/gmail/about/for-work/",
+      "https://www.google.com/intl/bg/gmail/about/for-work/",
+      "https://www.google.com/intl/bg/gmail/about/policy/"
+    ]
+  },
+  "mail.ru": {
+    "lastAt": 1757532807256,
+    "urls": [
+      "https://mail.ru/"
+    ]
+  },
+  "microsoft.com": {
+    "lastAt": 1757532887712,
+    "urls": [
+      "https://microsoft.com/"
+    ]
+  },
+  "facebook.com": {
+    "lastAt": 1757532891263,
+    "urls": []
+  },
+  "amazonaws.com": {
+    "lastAt": 1757532894534,
+    "urls": []
+  },
+  "googleapis.com": {
+    "lastAt": 1757532898015,
+    "urls": []
+  },
+  "dzen.ru": {
+    "lastAt": 1757532956698,
+    "urls": [
+      "https://dzen.ru/",
+      "https://dzen.ru/b/Y3S7Enn_WmvobK9_",
+      "https://dzen.ru/b/ZqkEhTlXzTYLeAY5",
+      "https://dzen.ru/b/ZRBJwhqhEEpB8ijP",
+      "https://dzen.ru/b/ZgPtqqRwAjJG421s",
+      "https://dzen.ru/b/ZXLtWTRTy1zNu9Or",
+      "https://dzen.ru/b/Y6KLttv6TkyNfSN8",
+      "https://dzen.ru/b/Y4cu1lPsP22nnwJh",
+      "https://dzen.ru/b/Z9065Os0JXSS3665",
+      "https://dzen.ru/b/Zu0sy4HWGBnsA7zX"
+    ]
+  },
+  "cloudflare.com": {
+    "lastAt": 1757532960117,
+    "urls": [
+      "https://www.cloudflare.com/network/",
+      "https://www.cloudflare.com/education/",
+      "https://www.cloudflare.com/campaigns/",
+      "https://www.cloudflare.com/network-services/products/network-interconnect/",
+      "https://cloudflare.com/",
+      "https://www.cloudflare.com/network-onramp-partners/",
+      "https://www.cloudflare.com/application-services/products/china-network/",
+      "https://www.cloudflare.com/application-services/products/ddos-for-web/",
+      "https://www.cloudflare.com/endpoint-partners/",
+      "https://www.cloudflare.com/network-services/products/magic-wan/"
+    ]
+  },
+  "youtube.com": {
+    "lastAt": 1757532962389,
+    "urls": [
+      "https://www.youtube.com/ads/",
+      "https://www.youtube.com/ads/brandconnect/",
+      "https://www.youtube.com/ads/abcds-of-effective-video-ads/",
+      "https://www.youtube.com/ads/how-it-works/create-a-video-ad/",
+      "https://www.youtube.com/ads/how-it-works/measure-your-results/",
+      "https://www.youtube.com/ads/how-it-works/set-up-a-campaign/",
+      "https://www.youtube.com/ads/how-it-works/set-up-a-campaign/action/",
+      "https://www.youtube.com/ads/how-it-works/set-up-a-campaign/audience/",
+      "https://youtube.com/",
+      "https://www.youtube.com/ads/how-it-works/set-up-a-campaign/awareness/"
+    ]
+  },
+  "apple.com": {
+    "lastAt": 1757532968838,
+    "urls": [
+      "https://apple.com/"
+    ]
+  },
+  "instagram.com": {
+    "lastAt": 1757532972575,
+    "urls": [
+      "https://instagram.com/"
+    ]
+  },
+  "akamai.net": {
+    "lastAt": 1757532975709,
+    "urls": []
+  },
+  "gstatic.com": {
+    "lastAt": 1757532978736,
+    "urls": []
+  },
+  "twitter.com": {
+    "lastAt": 1757532980011,
+    "urls": [
+      "https://twitter.com/"
+    ]
+  },
+  "akamaiedge.net": {
+    "lastAt": 1757532983055,
+    "urls": []
+  },
+  "office.com": {
+    "lastAt": 1757532984359,
+    "urls": [
+      "https://office.com/"
+    ]
+  },
+  "live.com": {
+    "lastAt": 1757532985902,
+    "urls": [
+      "https://live.com/"
+    ]
+  },
+  "linkedin.com": {
+    "lastAt": 1757532987810,
+    "urls": [
+      "https://linkedin.com/"
+    ]
+  },
+  "googlevideo.com": {
+    "lastAt": 1757532990746,
+    "urls": []
+  },
+  "azure.com": {
+    "lastAt": 1757532992220,
+    "urls": [
+      "https://azure.com/"
+    ]
+  },
+  "ax-msedge.net": {
+    "lastAt": 1757532995066,
+    "urls": []
+  },
+  "googletagmanager.com": {
+    "lastAt": 1757532998221,
+    "urls": []
+  },
+  "fbcdn.net": {
+    "lastAt": 1757533001707,
+    "urls": []
+  },
+  "amazon.com": {
+    "lastAt": 1757533029548,
+    "urls": []
+  },
+  "akadns.net": {
+    "lastAt": 1757533032413,
+    "urls": []
+  },
+  "microsoftonline.com": {
+    "lastAt": 1757533035259,
+    "urls": []
+  },
+  "workers.dev": {
+    "lastAt": 1757533036188,
+    "urls": [
+      "https://workers.dev/"
+    ]
+  },
+  "wikipedia.org": {
+    "lastAt": 1757533037594,
+    "urls": [
+      "https://wikipedia.org/"
+    ]
+  },
+  "windowsupdate.com": {
+    "lastAt": 1757533040449,
+    "urls": []
+  },
+  "googleusercontent.com": {
+    "lastAt": 1757533043433,
+    "urls": []
+  }
+}
