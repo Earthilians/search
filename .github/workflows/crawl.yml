@@ -25,7 +25,7 @@ jobs:
       - name: Run indexer
         working-directory: ./crawler
         env:
-          CRAWL_DOMAINS_PER_RUN: '30'
+          CRAWL_DOMAINS_PER_RUN: '500'
           CRAWL_PAGES_PER_DOMAIN: '10'
           CRAWL_DAYS_NO_CHECK: '4'
         run: node generate_index.js
