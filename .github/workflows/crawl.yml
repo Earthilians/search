@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # extend timeout if necessary (minutes)
     timeout-minutes: 360
     steps:
       - name: Checkout repo
@@ -21,17 +20,14 @@ jobs:
 
       - name: Install dependencies (crawler)
         working-directory: ./crawler
-        run: npm ci --no-audit --no-fund
+        run: npm install --no-audit --no-fund
 
       - name: Run indexer
         working-directory: ./crawler
         env:
-          CRAWL_DOMAINS_PER_RUN: '3000'
+          CRAWL_DOMAINS_PER_RUN: '30'
           CRAWL_PAGES_PER_DOMAIN: '10'
           CRAWL_DAYS_NO_CHECK: '4'
-          # optional tuning
-          CRAWL_CONCURRENCY: '5'
-          CRAWL_RATE_MS: '200'
         run: node generate_index.js
 
       - name: Commit generated index
