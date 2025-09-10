@@ -38,7 +38,7 @@
 name: scheduled-index
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'   # change to '0 * * * *' for hourly
   workflow_dispatch:
 
 permissions:
@@ -62,20 +62,11 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps (if any)
-        run: |
-          cd crawler || exit 0
-          if [ -f package.json ]; then
-            npm install --no-audit --no-fund
-          else
-            echo "no package.json, skipping npm install"
-          fi
-
       - name: Build shard list
         id: make
         run: |
-          # tune this env var or pass it via workflow_dispatch inputs
-          SHARD_COUNT=${SHARD_COUNT:-50}
+          # sensible default shard count (tune this)
+          SHARD_COUNT=${SHARD_COUNT:-10}
           echo "Using SHARD_COUNT=$SHARD_COUNT"
 
           arr="["
@@ -96,7 +87,7 @@ jobs:
       matrix:
         shard: ${{ fromJson(needs.prepare.outputs.shard_list) }}
     runs-on: ubuntu-latest
-    timeout-minutes: 270
+    timeout-minutes: 120
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -118,23 +109,24 @@ jobs:
           fi
 
       - name: Run shard crawler
+        env:
+          NODE_OPTIONS: '--max_old_space_size=3072'
         run: |
           SHARD=${{ matrix.shard }}
           SHARD_COUNT=${{ needs.prepare.outputs.shard_count }}
           echo "Running shard $SHARD of $SHARD_COUNT"
-          node crawler/generate_index.js \
+          node crawler/generate_index_shard.js \
             --shardIndex=$SHARD --shardCount=$SHARD_COUNT \
             --domains=./crawler/domains.csv \
             --out=shard-output-$SHARD.json \
             --last=shard-last-$SHARD.json \
             --globalLast=./site/last_indexed.json \
-            --maxDomainsPerShard=2000 \
-            --concurrency=10 \
+            --maxDomainsPerShard=300 \
+            --concurrency=6 \
             --maxPages=10 \
+            --rateMs=200 \
             --daysNoCheck=4 \
             --verbose
-        env:
-          NODE_OPTIONS: '--max_old_space_size=1024'
 
       - name: Upload shard artifact
         uses: actions/upload-artifact@v4
@@ -159,21 +151,12 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps (if any)
-        run: |
-          cd crawler || exit 0
-          if [ -f package.json ]; then
-            npm install --no-audit --no-fund
-          else
-            echo "no package.json, skipping npm install"
-          fi
-
       - name: Download shard artifacts
         uses: actions/download-artifact@v4
         with:
           path: shard_artifacts
 
-      - name: Merge shards
+      - name: Merge shards (JSON)
         run: |
           node crawler/merge_shards.js shard_artifacts site/index.json site/last_indexed.json
 
