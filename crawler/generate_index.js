@@ -276,6 +276,7 @@
 //   --out=shard-output-0.json --last=shard-last-0.json --globalLast=./site/last_indexed.json \
 //   --maxDomainsPerShard=2000 --concurrency=12 --maxPages=10 --daysNoCheck=4 --verbose
 
+// crawler/generate_index_shard.js
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
@@ -286,6 +287,9 @@ const { XMLParser } = require('fast-xml-parser');
 const fetch = require('node-fetch');
 const { URL } = require('url');
 
+//
+// CLI helpers
+//
 function parseArgInt(name, def) {
   const p = process.argv.find(a => a.startsWith(`--${name}=`));
   if (!p) return def;
@@ -326,6 +330,13 @@ const USER_AGENT = 'EarthiliansCrawler/1.0 (+mailto:you@example.com)';
 function log(...args){ if (VERBOSE) console.log(...args); }
 function nowMs(){ return Date.now(); }
 function daysToMs(d){ return d * 24 * 60 * 60 * 1000; }
+
+process.on('unhandledRejection', (reason, p) => {
+  console.error('[UNHANDLED REJECTION]', reason && reason.stack ? reason.stack : reason);
+});
+process.on('uncaughtException', err => {
+  console.error('[UNCAUGHT EXCEPTION]', err && err.stack ? err.stack : err);
+});
 
 const httpAgent = new http.Agent({ keepAlive: true, maxSockets: CONFIG.concurrency });
 const httpsAgent = new https.Agent({ keepAlive: true, maxSockets: CONFIG.concurrency });
@@ -376,116 +387,33 @@ function parseSitemapXmlText(xml) {
   }
 }
 
-async function expandSitemap(sitemapUrl, seen) {
-  const q = [sitemapUrl]; const pages = [];
-  while (q.length) {
-    const s = q.shift(); if (!s || seen.has(s)) continue; seen.add(s);
-    try {
-      const xml = await fetchSitemapText(s);
-      const locs = parseSitemapXmlText(xml);
-      for (const l of locs) {
-        let norm;
-        try { norm = new URL(l).toString(); } catch (e) { try { norm = new URL(l, s).toString(); } catch (e2) { continue; } }
-        if (norm.toLowerCase().endsWith('.xml') || norm.toLowerCase().endsWith('.xml.gz')) q.push(norm);
-        else pages.push(norm);
-      }
-    } catch (e) {
-      log('[WARN] sitemap fetch fail', sitemapUrl, e && e.message ? e.message : e);
-    }
-    await new Promise(r => setTimeout(r, CONFIG.rateMs));
-    if (pages.length >= CONFIG.maxPages) break;
-  }
-  return pages.slice(0, CONFIG.maxPages);
-}
-
-// async function fetchHtml(url) {
-//   let attempt = 0;
-//   while (true) {
-//     try {
-//       const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
-//       if (!res.ok) throw new Error('HTTP ' + res.status);
-//       const ct = (res.headers.get('content-type') || '').toLowerCase();
-//       if (!ct.includes('html')) throw new Error('non-html ' + ct);
-//       const html = await res.text();
-//       const dom = new JSDOM(html);
-//       const doc = dom.window.document;
-//       const title = doc.querySelector('title')?.textContent?.trim() || '';
-//       const rawMeta = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
-//       const metaDesc = rawMeta.slice(0, 100);
-//       const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
-//       const text = ps.join('\n').slice(0, 120000);
-//       return { title, description: metaDesc, text };
-//     } catch (e) {
-//       attempt++;
-//       if (attempt > CONFIG.retries) return null;
-//       await new Promise(r => setTimeout(r, CONFIG.retryBackoffMs * Math.pow(2, attempt - 1)));
-//     }
-//   }
-// }
-
-// REPLACE your existing fetchHtml with this version
-async function fetchHtml(url) {
-  let attempt = 0;
-  while (true) {
-    try {
-      const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
-      if (!res.ok) {
-        // non-2xx -> skip
-        log('[SKIP NON-OK]', url, 'status=', res.status);
-        return null;
-      }
-
-      const ct = (res.headers.get('content-type') || '').toLowerCase();
-      if (!ct.includes('html')) {
-        log('[SKIP NON-HTML]', url, 'content-type=', ct);
-        return null;
-      }
-
-      // get raw HTML
-      let html = await res.text();
-
-      // sanitize to avoid jsdom CSS parsing errors
-      html = html.replace(/<style[\s\S]*?>[\s\S]*?<\/style\s*>/gi, '');
-      html = html.replace(/<link[^>]+rel=(["']?)stylesheet\1[^>]*>/gi, '');
-      html = html.replace(/\sstyle=(["'])(.*?)\1/gi, '');
-
-      // parse with JSDOM; if JSDOM throws, skip page
-      let dom;
-      try {
-        dom = new JSDOM(html);
-      } catch (jsErr) {
-        log('[SKIP JSDOM-ERR]', url, jsErr && jsErr.message ? jsErr.message : jsErr);
-        return null;
-      }
-
-      const doc = dom.window.document;
-
-      // Required fields
-      const title = doc.querySelector('title')?.textContent?.trim() || '';
-      const metaDesc = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
-      // Collect paragraph text (join, but require some text)
-      const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
-      const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
-
-      // Enforce your rule: all must be present and non-empty
-      if (!title)      { log('[SKIP MISSING TITLE]', url); return null; }
-      if (!metaDesc)   { log('[SKIP MISSING META]', url); return null; }
-      if (!text)       { log('[SKIP MISSING TEXT]', url); return null; }
-
-      // success: return trimmed meta to 100 chars per your earlier req
-      return { title, description: metaDesc.slice(0, 100), text };
-    } catch (e) {
-      attempt++;
-      if (attempt > CONFIG.retries) {
-        log('[ERR FETCH GIVING UP]', url, e && e.message ? e.message : e);
-        return null;
-      }
-      // backoff then retry
-      await new Promise(r => setTimeout(r, CONFIG.retryBackoffMs * Math.pow(2, attempt - 1)));
-    }
+//
+// Robust URL helpers
+//
+function safeNewUrl(input, base) {
+  try {
+    if (base) return new URL(input, base);
+    return new URL(input);
+  } catch (e) {
+    return null;
   }
 }
 
+function normalizeDomainCandidate(raw) {
+  if (!raw) return null;
+  const s = raw.trim();
+  if (!s) return null;
+  if (/^https?:\/\//i.test(s)) {
+    const u = safeNewUrl(s);
+    if (!u) return null;
+    return u.origin;
+  }
+  const hostOnly = s.replace(/^\/+|\/+$/g, '').split(/\s+/)[0];
+  if (!hostOnly) return null;
+  const cand = 'https://' + hostOnly;
+  const u = safeNewUrl(cand);
+  return u ? u.origin : null;
+}
 
 function hashHost(s) {
   let h = 5381;
@@ -502,6 +430,93 @@ function atomicWrite(p, obj) {
   fs.renameSync(tmp, p);
 }
 
+//
+// SITEMAP expand — using safe URL resolution
+//
+async function expandSitemap(sitemapUrl, seen) {
+  const q = [sitemapUrl]; const pages = [];
+  while (q.length) {
+    const s = q.shift(); if (!s || seen.has(s)) continue; seen.add(s);
+    try {
+      const xml = await fetchSitemapText(s);
+      const locs = parseSitemapXmlText(xml);
+      for (const l of locs) {
+        let normObj = safeNewUrl(l);
+        if (!normObj) normObj = safeNewUrl(l, s);
+        if (!normObj) continue;
+        const norm = normObj.toString();
+        if (norm.toLowerCase().endsWith('.xml') || norm.toLowerCase().endsWith('.xml.gz')) q.push(norm);
+        else pages.push(norm);
+      }
+    } catch (e) {
+      log('[WARN] sitemap fetch fail', sitemapUrl, e && e.message ? e.message : e);
+    }
+    await new Promise(r => setTimeout(r, CONFIG.rateMs));
+    if (pages.length >= CONFIG.maxPages) break;
+  }
+  return pages.slice(0, CONFIG.maxPages);
+}
+
+//
+// Strict fetchHtml: use JSDOM and require title + meta + paragraphs; skip otherwise.
+// Any parse/fetch error => return null (skip).
+//
+async function fetchHtml(url) {
+  let attempt = 0;
+  while (true) {
+    try {
+      const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
+      if (!res.ok) {
+        log('[SKIP NON-OK]', url, 'status=', res.status);
+        return null;
+      }
+
+      const ct = (res.headers.get('content-type') || '').toLowerCase();
+      if (!ct.includes('html')) {
+        log('[SKIP NON-HTML]', url, 'content-type=', ct);
+        return null;
+      }
+
+      let html = await res.text();
+
+      // remove stylesheets and inline styles to avoid CSS parser crashes in JSDOM
+      html = html.replace(/<style[\s\S]*?>[\s\S]*?<\/style\s*>/gi, '');
+      html = html.replace(/<link[^>]+rel=(["']?)stylesheet\1[^>]*>/gi, '');
+      html = html.replace(/\sstyle=(["'])(.*?)\1/gi, '');
+
+      let dom;
+      try {
+        dom = new JSDOM(html);
+      } catch (jsErr) {
+        log('[SKIP JSDOM-ERR]', url, jsErr && jsErr.message ? jsErr.message : jsErr);
+        return null;
+      }
+
+      const doc = dom.window.document;
+      const title = doc.querySelector('title')?.textContent?.trim() || '';
+      const metaDesc = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
+      const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
+      const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
+
+      if (!title)      { log('[SKIP MISSING TITLE]', url); return null; }
+      if (!metaDesc)   { log('[SKIP MISSING META]', url); return null; }
+      if (!text)       { log('[SKIP MISSING TEXT]', url); return null; }
+
+      return { title, description: metaDesc.slice(0, 100), text };
+    } catch (e) {
+      attempt++;
+      if (attempt > CONFIG.retries) {
+        log('[ERR FETCH GIVING UP]', url, e && e.message ? e.message : e);
+        return null;
+      }
+      await new Promise(r => setTimeout(r, CONFIG.retryBackoffMs * Math.pow(2, attempt - 1)));
+    }
+  }
+}
+
+//
+// MAIN
+//
 (async function main() {
   console.log('Shard', SHARD_INDEX, 'start: domainsCsv=', DOMAINS_CSV, 'shardCount=', SHARD_COUNT, 'maxDomainsPerShard=', CONFIG.maxDomainsPerShard);
 
@@ -512,6 +527,7 @@ function atomicWrite(p, obj) {
 
   const globalLast = loadJsonSafe(GLOBAL_LAST_FILE) || {};
 
+  // safe CSV streaming & shard selection
   const selected = [];
   const rs = fs.createReadStream(DOMAINS_CSV, { encoding: 'utf8' });
   let buf = '';
@@ -524,28 +540,46 @@ function atomicWrite(p, obj) {
       buf = buf.slice(idx + 1);
       if (!line) continue;
       totalSeen++;
-      // USE SECOND CSV COLUMN (index 1). If missing, fallback to first column (index 0).
+
       const cols = line.split(',');
       const domainCandidate = (cols[1] && cols[1].trim()) || (cols[0] && cols[0].trim());
       if (!domainCandidate) continue;
-      let host;
-      try { host = (new URL(domainCandidate)).host; } catch (e) { host = domainCandidate.replace(/^https?:\/\//, '').replace(/\/.*$/, ''); }
+
+      const normalizedBase = normalizeDomainCandidate(domainCandidate);
+      if (!normalizedBase) {
+        log('[SKIP INVALID DOMAIN LINE]', domainCandidate);
+        continue;
+      }
+
+      const host = safeNewUrl(normalizedBase)?.host;
+      if (!host) {
+        log('[SKIP BAD HOST]', normalizedBase);
+        continue;
+      }
+
       const h = hashHost(host);
       if ((h % SHARD_COUNT) === SHARD_INDEX) {
-        selected.push({ raw: domainCandidate, host });
+        selected.push({ raw: normalizedBase, host });
         if (CONFIG.maxDomainsPerShard > 0 && selected.length >= CONFIG.maxDomainsPerShard) break;
       }
     }
     if (CONFIG.maxDomainsPerShard > 0 && selected.length >= CONFIG.maxDomainsPerShard) break;
   }
+  // leftover last line
   if ((CONFIG.maxDomainsPerShard === 0 || selected.length < CONFIG.maxDomainsPerShard) && buf.trim()) {
     const cols = buf.trim().split(',');
     const domainCandidate = (cols[1] && cols[1].trim()) || (cols[0] && cols[0].trim());
     if (domainCandidate) {
-      let host;
-      try { host = (new URL(domainCandidate)).host; } catch (e) { host = domainCandidate.replace(/^https?:\/\//, '').replace(/\/.*$/, ''); }
-      const h = hashHost(host);
-      if ((h % SHARD_COUNT) === SHARD_INDEX) selected.push({ raw: domainCandidate, host });
+      const normalizedBase = normalizeDomainCandidate(domainCandidate);
+      if (normalizedBase) {
+        const host = safeNewUrl(normalizedBase)?.host;
+        if (host) {
+          const h = hashHost(host);
+          if ((h % SHARD_COUNT) === SHARD_INDEX) selected.push({ raw: normalizedBase, host });
+        }
+      } else {
+        log('[SKIP INVALID DOMAIN LINE]', domainCandidate);
+      }
     }
   }
 
@@ -560,72 +594,91 @@ function atomicWrite(p, obj) {
       const i = idx++;
       if (i >= selected.length) break;
       const item = selected[i];
-      const host = item.host;
-      const rec = globalLast[host] || { lastAt: 0, urls: [] };
-      const recently = !FORCE && rec.lastAt && ((nowMs() - rec.lastAt) < daysToMs(CONFIG.daysNoCheck));
-      if (recently) {
-        log('[SKIP-RECENT]', host);
-        shardLast[host] = { lastAt: rec.lastAt, urls: Array.from(new Set(rec.urls || [])) };
-        continue;
-      }
 
-      const domainSitemaps = new Set();
       try {
-        const base = item.raw.startsWith('http') ? item.raw : ('https://' + item.raw.replace(/\/+$/, ''));
-        const robotsUrl = new URL('/robots.txt', base).toString();
-        const r = await fetchWithTimeout(robotsUrl, { headers: { 'User-Agent': USER_AGENT } }, 6000).catch(() => null);
-        if (r && r.ok) {
-          const txt = await r.text().catch(() => '');
-          for (const line of txt.split(/\r?\n/)) {
-            if (line.toLowerCase().startsWith('sitemap:')) {
-              const sm = line.split(':').slice(1).join(':').trim();
-              try { domainSitemaps.add(new URL(sm, base).toString()); } catch (_) { domainSitemaps.add(sm); }
+        const host = item.host;
+        const rec = globalLast[host] || { lastAt: 0, urls: [] };
+        const recently = !FORCE && rec.lastAt && ((nowMs() - rec.lastAt) < daysToMs(CONFIG.daysNoCheck));
+        if (recently) {
+          log('[SKIP-RECENT]', host);
+          shardLast[host] = { lastAt: rec.lastAt, urls: Array.from(new Set(rec.urls || [])) };
+          continue;
+        }
+
+        // guarded robots + fallback sitemap collection
+        const domainSitemaps = new Set();
+        try {
+          const baseOrigin = item.raw;
+          const robotsUrlObj = safeNewUrl('/robots.txt', baseOrigin);
+          if (robotsUrlObj) {
+            const r = await fetchWithTimeout(robotsUrlObj.toString(), { headers: { 'User-Agent': USER_AGENT } }, 6000).catch(() => null);
+            if (r && r.ok) {
+              const txt = await r.text().catch(() => '');
+              for (const line of txt.split(/\r?\n/)) {
+                if (line.toLowerCase().startsWith('sitemap:')) {
+                  const smRaw = line.split(':').slice(1).join(':').trim();
+                  const smObj = safeNewUrl(smRaw, robotsUrlObj.toString());
+                  if (smObj) domainSitemaps.add(smObj.toString());
+                  else log('[WARN] ignored invalid sitemap URL in robots:', smRaw, 'for', host);
+                }
+              }
             }
           }
+        } catch (e) {
+          log('[WARN] robots handling failed', item.host, e && e.message ? e.message : e);
         }
-      } catch (e) {
-        log('[WARN] robots error', host, e && e.message ? e.message : e);
-      }
-      try {
-        const fallbackBase = item.raw.startsWith('http') ? (new URL(item.raw)).origin : ('https://' + host);
-        domainSitemaps.add(new URL('/sitemap.xml', fallbackBase).toString());
-      } catch (e) {}
 
-      let pageUrls = [];
-      const seenSitemaps = new Set();
-      for (const sm of domainSitemaps) {
+        // always add fallback sitemap
+        const fallbackSitemap = safeNewUrl('/sitemap.xml', item.raw);
+        if (fallbackSitemap) domainSitemaps.add(fallbackSitemap.toString());
+
+        // expand sitemaps
+        let pageUrls = [];
+        const seenSitemaps = new Set();
+        for (const sm of domainSitemaps) {
+          try {
+            const pages = await expandSitemap(sm, seenSitemaps);
+            for (const p of pages) if (!pageUrls.includes(p)) pageUrls.push(p);
+          } catch (e) { log('[WARN] sitemap expand fail', item.host, e && e.message ? e.message : e); }
+          if (pageUrls.length >= 1000) break;
+        }
+
+        // ensure homepage is first
+        const homepage = safeNewUrl('/', item.raw)?.toString() || (item.raw.endsWith('/') ? item.raw : item.raw + '/');
+        if (!pageUrls.includes(homepage)) pageUrls.unshift(homepage);
+
+        const already = new Set(rec.urls || []);
+        const candidates = pageUrls.filter(u => !already.has(u)).slice(0, CONFIG.maxPages);
+
+        if (candidates.length === 0) {
+          shardLast[item.host] = { lastAt: nowMs(), urls: Array.from(new Set(rec.urls || [])) };
+          log('[NO-NEW]', item.host);
+          continue;
+        }
+
+        const got = [];
+        for (const url of candidates) {
+          await new Promise(r => setTimeout(r, CONFIG.rateMs));
+          const info = await fetchHtml(url).catch(e => { log('[ERR FETCH]', url, e && e.message ? e.message : e); return null; });
+          if (!info) continue;
+          outPages.push({ id: url, url, title: info.title, description: info.description, text: info.text });
+          got.push(url);
+          if (got.length >= CONFIG.maxPages) break;
+        }
+
+        const mergedUrls = Array.from(new Set([...(rec.urls || []), ...got]));
+        if (mergedUrls.length > CONFIG.maxUrlsPerHost) mergedUrls.splice(CONFIG.maxUrlsPerHost);
+
+        shardLast[item.host] = { lastAt: nowMs(), urls: mergedUrls };
+        log('[DONE]', item.host, 'added', got.length);
+
+      } catch (domainErr) {
+        console.error('[ERROR] domain worker error for', item && item.host ? item.host : item, domainErr && domainErr.stack ? domainErr.stack : domainErr);
         try {
-          const pages = await expandSitemap(sm, seenSitemaps);
-          for (const p of pages) if (!pageUrls.includes(p)) pageUrls.push(p);
-        } catch (e) { log('[WARN] sitemap expand fail', host, e && e.message ? e.message : e); }
-        if (pageUrls.length >= 1000) break;
-      }
-      const homepage = (item.raw.startsWith('http') ? (new URL(item.raw)).origin : ('https://' + host)) + '/';
-      if (!pageUrls.includes(homepage)) pageUrls.unshift(homepage);
-
-      const already = new Set(rec.urls || []);
-      const candidates = pageUrls.filter(u => !already.has(u)).slice(0, CONFIG.maxPages);
-      if (candidates.length === 0) {
-        shardLast[host] = { lastAt: nowMs(), urls: Array.from(new Set(rec.urls || [])) };
-        log('[NO-NEW]', host);
+          shardLast[item.host || ('bad-host-' + i)] = { lastAt: nowMs(), urls: (shardLast[item.host] && shardLast[item.host].urls) || [] };
+        } catch (e) {}
         continue;
       }
-
-      const got = [];
-      for (const url of candidates) {
-        await new Promise(r => setTimeout(r, CONFIG.rateMs));
-        const info = await fetchHtml(url).catch(e => { log('[ERR FETCH]', url, e && e.message ? e.message : e); return null; });
-        if (!info) continue;
-        outPages.push({ id: url, url, title: info.title, description: info.description, text: info.text });
-        got.push(url);
-        if (got.length >= CONFIG.maxPages) break;
-      }
-
-      const mergedUrls = Array.from(new Set([...(rec.urls || []), ...got]));
-      if (mergedUrls.length > CONFIG.maxUrlsPerHost) mergedUrls.splice(CONFIG.maxUrlsPerHost);
-
-      shardLast[host] = { lastAt: nowMs(), urls: mergedUrls };
-      log('[DONE]', host, 'added', got.length);
     }
   }
 
