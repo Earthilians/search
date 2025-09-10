@@ -1,28 +1,171 @@
+# name: scheduled-index
+# on:
+#   schedule:
+#     - cron: '0 */6 * * *'
+#   workflow_dispatch:
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repo
+#         uses: actions/checkout@v4
+
+#       - name: Setup Node 18
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: '18'
+
+#       - name: Install dependencies (crawler)
+#         working-directory: ./crawler
+#         run: npm install --no-audit --no-fund
+
+#       - name: Run indexer
+#         working-directory: ./crawler
+#         run: node generate_index.js
+
+#       - name: Commit generated index
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         run: |
+#           git config user.name "github-actions"
+#           git config user.email "actions@github.com"
+#           git add site/index.json || true
+#           git add site/last_indexed.json || true
+#           git commit -m "Update index" || echo "no changes to commit"
+#           git push
+
+
 name: scheduled-index
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+permissions:
+  contents: write
 
-      - name: Setup Node 18
+jobs:
+  prepare:
+    name: Prepare shards
+    runs-on: ubuntu-latest
+    outputs:
+      shard_list: ${{ steps.make.outputs.shard_list }}
+      shard_count: ${{ steps.make.outputs.shard_count }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: 18
 
-      - name: Install dependencies (crawler)
-        working-directory: ./crawler
-        run: npm install --no-audit --no-fund
+      - name: Install deps
+        run: |
+          cd crawler || exit 0
+          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
 
-      - name: Run indexer
-        working-directory: ./crawler
-        run: node generate_index.js
+      - name: Build shard list
+        id: make
+        run: |
+          # tune this environment variable or set it in the workflow_dispatch UI
+          SHARD_COUNT=${SHARD_COUNT:-50}
+          echo "Using SHARD_COUNT=$SHARD_COUNT"
+
+          # create JSON array ["0","1",...]
+          arr="["
+          for i in $(seq 0 $((SHARD_COUNT-1))); do
+            arr="${arr}\"${i}\""
+            if [ "$i" -lt $((SHARD_COUNT-1)) ]; then arr="${arr},"; fi
+          done
+          arr="${arr}]"
+
+          echo "shard_list=${arr}" >> $GITHUB_OUTPUT
+          echo "shard_count=${SHARD_COUNT}" >> $GITHUB_OUTPUT
+
+  crawl:
+    name: Crawl shards
+    needs: prepare
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.prepare.outputs.shard_list) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 270
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install deps
+        run: |
+          cd crawler || exit 0
+          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
+
+      - name: Run shard crawler
+        run: |
+          SHARD=${{ matrix.shard }}
+          SHARD_COUNT=${{ needs.prepare.outputs.shard_count }}
+          echo "Running shard $SHARD of $SHARD_COUNT"
+          node crawler/generate_index_shard.js \
+            --shardIndex=$SHARD --shardCount=$SHARD_COUNT \
+            --domains=./crawler/domains.csv \
+            --out=shard-output-$SHARD.json \
+            --last=shard-last-$SHARD.json \
+            --globalLast=./site/last_indexed.json \
+            --maxDomainsPerShard=2000 \
+            --concurrency=10 \
+            --maxPages=10 \
+            --daysNoCheck=4 \
+            --verbose
+        env:
+          NODE_OPTIONS: '--max_old_space_size=1024'
+
+      - name: Upload shard artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: shard-${{ matrix.shard }}
+          path: |
+            shard-output-${{ matrix.shard }}.json
+            shard-last-${{ matrix.shard }}.json
+
+  merge:
+    name: Merge shards and commit
+    needs: crawl
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install deps
+        run: |
+          cd crawler || exit 0
+          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
+
+      - name: Download shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: shard_artifacts
+
+      - name: Merge shards
+        run: |
+          node crawler/merge_shards.js shard_artifacts site/index.json site/last_indexed.json
 
       - name: Commit generated index
         env:
@@ -30,7 +173,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add site/index.json || true
-          git add site/last_indexed.json || true
+          git add site/index.json site/last_indexed.json || true
           git commit -m "Update index" || echo "no changes to commit"
           git push
