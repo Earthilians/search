@@ -31,5 +31,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add site/index.json || true
+          git add site/last_indexed.json || true
           git commit -m "Update index" || echo "no changes to commit"
           git push
