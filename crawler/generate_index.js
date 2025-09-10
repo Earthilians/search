@@ -89,7 +89,7 @@ const { XMLParser } = require('fast-xml-parser');
 const { URL } = require('url');
 
 const DOMAINS_FILE = './domains.txt';
-const OUT = './site/index.json';
+const OUT = '../site/index.json';
 const USER_AGENT = 'EarthiliansCrawler/1.0 (+mailto:you@example.com)';
 
 const CONFIG = {
