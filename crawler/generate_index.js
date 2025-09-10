@@ -1,7 +1,5 @@
 // crawler/generate_index.js
-// CommonJS version that avoids ESM-only deps (no p-limit require).
-// Uses native fetch (Node 18+). Uses csv-parse, jsdom, fast-xml-parser.
-// Minimal concurrency limiter implemented inline.
+// CommonJS-only — no p-limit, no p-retry. Uses native fetch (Node 18+).
 
 const fs = require('fs');
 const path = require('path');
@@ -9,7 +7,6 @@ const { parse } = require('csv-parse/sync');
 const { JSDOM } = require('jsdom');
 const zlib = require('zlib');
 const { XMLParser } = require('fast-xml-parser');
-const pRetry = require('p-retry'); // p-retry is CommonJS-compatible in most versions
 const { URL } = require('url');
 
 // files
@@ -31,7 +28,7 @@ const CONFIG = {
   retries: Number(process.env.CRAWL_RETRIES || 2),
   retryBackoffMs: Number(process.env.CRAWL_RETRY_BACKOFF_MS || 600),
   daysNoCheck: Number(process.env.CRAWL_DAYS_NO_CHECK || 4),
-  batchSize: Number(process.env.CRAWL_BATCH_SIZE || 3000) // safety cap for domains processed
+  batchSize: Number(process.env.CRAWL_BATCH_SIZE || 3000)
 };
 
 function log(...args) {
@@ -67,9 +64,27 @@ function loadDomainsFromCsv(p) {
   return out;
 }
 
-// Minimal concurrency limiter factory (CommonJS-friendly).
-// Usage: const limiter = createLimiter(concurrency);
-// await limiter(() => asyncWork());
+// small retry helper (replaces p-retry)
+async function retry(fn, opts = {}) {
+  const retries = typeof opts.retries === 'number' ? opts.retries : 2;
+  const factor = typeof opts.factor === 'number' ? opts.factor : 2;
+  const minTimeout = typeof opts.minTimeout === 'number' ? opts.minTimeout : 100;
+  const maxTimeout = typeof opts.maxTimeout === 'number' ? opts.maxTimeout : 20000;
+
+  let attempt = 0;
+  while (true) {
+    try {
+      return await fn();
+    } catch (err) {
+      attempt++;
+      if (attempt > retries) throw err;
+      const backoff = Math.min(maxTimeout, Math.round(minTimeout * Math.pow(factor, attempt - 1)));
+      await new Promise(r => setTimeout(r, backoff));
+    }
+  }
+}
+
+// minimal concurrency limiter (replaces p-limit)
 function createLimiter(concurrency) {
   let active = 0;
   const queue = [];
@@ -94,13 +109,13 @@ function createLimiter(concurrency) {
         }
       };
       queue.push(job);
-      // try to start jobs immediately
+      // trigger
       next();
     });
   };
 }
 
-// fetch with timeout using global fetch (Node 18+)
+// fetch with timeout using global fetch (Node 18+). If Node <18, install node-fetch and replace.
 async function fetchWithTimeout(url, opts = {}, timeout = CONFIG.fetchTimeoutMs) {
   const controller = new AbortController();
   const id = setTimeout(() => controller.abort(), timeout);
@@ -115,7 +130,7 @@ async function fetchWithTimeout(url, opts = {}, timeout = CONFIG.fetchTimeoutMs)
 }
 
 async function fetchSitemapText(url) {
-  return await pRetry(async () => {
+  return await retry(async () => {
     const res = await fetchWithTimeout(url, { headers: { 'User-Agent': CONFIG.USER_AGENT } }, CONFIG.fetchTimeoutMs);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const buf = Buffer.from(await res.arrayBuffer());
@@ -124,7 +139,7 @@ async function fetchSitemapText(url) {
       try { return zlib.gunzipSync(buf).toString('utf8'); } catch (e) { return buf.toString('utf8'); }
     }
     return buf.toString('utf8');
-  }, { retries: 1 });
+  }, { retries: 1, minTimeout: CONFIG.retryBackoffMs });
 }
 
 function parseSitemapXmlText(xml) {
@@ -173,7 +188,7 @@ async function expandSitemap(sitemapUrl, seen, domainAllowed, maxPagesPerDomain)
 }
 
 async function fetchHtml(url) {
-  return await pRetry(async () => {
+  return await retry(async () => {
     const res = await fetchWithTimeout(url, { headers: { 'User-Agent': CONFIG.USER_AGENT } }, CONFIG.fetchTimeoutMs);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const ct = (res.headers.get('content-type') || '').toLowerCase();
@@ -187,14 +202,14 @@ async function fetchHtml(url) {
     const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
     const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
     return { title, description: metaDesc, text };
-  }, { retries: CONFIG.retries });
+  }, { retries: CONFIG.retries, minTimeout: CONFIG.retryBackoffMs });
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 function loadJsonSafe(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return null; } }
 
 (async function main() {
-  log('Starting crawler run (no p-limit)');
+  log('Starting crawler run (no ESM deps)');
 
   const domains = loadDomainsFromCsv(DOMAINS_CSV);
   log('Loaded domains count=', domains.length);

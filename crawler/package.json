@@ -9,8 +9,6 @@
   "dependencies": {
     "csv-parse": "^5.4.0",
     "fast-xml-parser": "^4.2.4",
-    "jsdom": "^22.1.0",
-    "p-limit": "^4.0.0",
-    "p-retry": "^5.1.0"
+    "jsdom": "^22.1.0"
   }
 }
