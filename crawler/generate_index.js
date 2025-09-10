@@ -226,7 +226,7 @@ const { URL } = require('url');
 
 const DOMAINS_FILE = path.join(__dirname, 'domains.txt');
 const OUT = path.join(__dirname, '..', 'site', 'index.json');
-const LAST_INDEX_FILE = path.join(__dirname, '.last_indexed.json');
+const LAST_INDEX_FILE = path.join(__dirname, 'last_indexed.json');
 const USER_AGENT = 'EarthiliansCrawler/1.0 (+mailto:you@example.com)';
 
 const CONFIG = {
