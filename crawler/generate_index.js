@@ -398,30 +398,94 @@ async function expandSitemap(sitemapUrl, seen) {
   return pages.slice(0, CONFIG.maxPages);
 }
 
+// async function fetchHtml(url) {
+//   let attempt = 0;
+//   while (true) {
+//     try {
+//       const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
+//       if (!res.ok) throw new Error('HTTP ' + res.status);
+//       const ct = (res.headers.get('content-type') || '').toLowerCase();
+//       if (!ct.includes('html')) throw new Error('non-html ' + ct);
+//       const html = await res.text();
+//       const dom = new JSDOM(html);
+//       const doc = dom.window.document;
+//       const title = doc.querySelector('title')?.textContent?.trim() || '';
+//       const rawMeta = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
+//       const metaDesc = rawMeta.slice(0, 100);
+//       const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
+//       const text = ps.join('\n').slice(0, 120000);
+//       return { title, description: metaDesc, text };
+//     } catch (e) {
+//       attempt++;
+//       if (attempt > CONFIG.retries) return null;
+//       await new Promise(r => setTimeout(r, CONFIG.retryBackoffMs * Math.pow(2, attempt - 1)));
+//     }
+//   }
+// }
+
+// REPLACE your existing fetchHtml with this version
 async function fetchHtml(url) {
   let attempt = 0;
   while (true) {
     try {
       const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
-      if (!res.ok) throw new Error('HTTP ' + res.status);
+      if (!res.ok) {
+        // non-2xx -> skip
+        log('[SKIP NON-OK]', url, 'status=', res.status);
+        return null;
+      }
+
       const ct = (res.headers.get('content-type') || '').toLowerCase();
-      if (!ct.includes('html')) throw new Error('non-html ' + ct);
-      const html = await res.text();
-      const dom = new JSDOM(html);
+      if (!ct.includes('html')) {
+        log('[SKIP NON-HTML]', url, 'content-type=', ct);
+        return null;
+      }
+
+      // get raw HTML
+      let html = await res.text();
+
+      // sanitize to avoid jsdom CSS parsing errors
+      html = html.replace(/<style[\s\S]*?>[\s\S]*?<\/style\s*>/gi, '');
+      html = html.replace(/<link[^>]+rel=(["']?)stylesheet\1[^>]*>/gi, '');
+      html = html.replace(/\sstyle=(["'])(.*?)\1/gi, '');
+
+      // parse with JSDOM; if JSDOM throws, skip page
+      let dom;
+      try {
+        dom = new JSDOM(html);
+      } catch (jsErr) {
+        log('[SKIP JSDOM-ERR]', url, jsErr && jsErr.message ? jsErr.message : jsErr);
+        return null;
+      }
+
       const doc = dom.window.document;
+
+      // Required fields
       const title = doc.querySelector('title')?.textContent?.trim() || '';
-      const rawMeta = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
-      const metaDesc = rawMeta.slice(0, 100);
+      const metaDesc = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
+      // Collect paragraph text (join, but require some text)
       const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
-      const text = ps.join('\n').slice(0, 120000);
-      return { title, description: metaDesc, text };
+      const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
+
+      // Enforce your rule: all must be present and non-empty
+      if (!title)      { log('[SKIP MISSING TITLE]', url); return null; }
+      if (!metaDesc)   { log('[SKIP MISSING META]', url); return null; }
+      if (!text)       { log('[SKIP MISSING TEXT]', url); return null; }
+
+      // success: return trimmed meta to 100 chars per your earlier req
+      return { title, description: metaDesc.slice(0, 100), text };
     } catch (e) {
       attempt++;
-      if (attempt > CONFIG.retries) return null;
+      if (attempt > CONFIG.retries) {
+        log('[ERR FETCH GIVING UP]', url, e && e.message ? e.message : e);
+        return null;
+      }
+      // backoff then retry
       await new Promise(r => setTimeout(r, CONFIG.retryBackoffMs * Math.pow(2, attempt - 1)));
     }
   }
 }
+
 
 function hashHost(s) {
   let h = 5381;
