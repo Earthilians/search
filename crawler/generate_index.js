@@ -1,5 +1,6 @@
 // crawler/generate_index.js
 // CommonJS-only — no p-limit, no p-retry. Uses native fetch (Node 18+).
+// Enforces 100-character limit on title/description/text (CONFIG.maxFieldChars).
 
 const fs = require('fs');
 const path = require('path');
@@ -24,12 +25,19 @@ const CONFIG = {
   maxPagesPerDomain: Number(process.env.CRAWL_PAGES_PER_DOMAIN || 10),
   maxDomainsPerRun: Number(process.env.CRAWL_DOMAINS_PER_RUN || 3000),
   maxTotalPages: Number(process.env.CRAWL_MAX_TOTAL_PAGES || 3000 * 10),
-  maxTextChars: Number(process.env.CRAWL_MAX_TEXT_CHARS || 120000),
+  maxTextChars: Number(process.env.CRAWL_MAX_TEXT_CHARS || 120000), // used for initial paragraph aggregation
+  maxFieldChars: Number(process.env.CRAWL_MAX_FIELD_CHARS || 100), // <=100 chars for title/description/text output
   retries: Number(process.env.CRAWL_RETRIES || 2),
   retryBackoffMs: Number(process.env.CRAWL_RETRY_BACKOFF_MS || 600),
   daysNoCheck: Number(process.env.CRAWL_DAYS_NO_CHECK || 4),
   batchSize: Number(process.env.CRAWL_BATCH_SIZE || 3000)
 };
+
+function truncate(s, n) {
+  if (!s) return '';
+  const str = String(s);
+  return str.length <= n ? str : str.slice(0, n);
+}
 
 function log(...args) {
   const line = new Date().toISOString() + ' ' + args.map(a => (typeof a === 'string' ? a : JSON.stringify(a))).join(' ');
@@ -196,12 +204,17 @@ async function fetchHtml(url) {
     const html = await res.text();
     const dom = new JSDOM(html);
     const doc = dom.window.document;
-    const title = doc.querySelector('title')?.textContent?.trim() || '';
+    const titleRaw = doc.querySelector('title')?.textContent?.trim() || '';
     const rawMeta = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
-    const metaDesc = rawMeta.slice(0, 200);
     const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
-    const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
-    return { title, description: metaDesc, text };
+    const textRaw = ps.join('\n').slice(0, CONFIG.maxTextChars);
+
+    // enforce field length limits
+    const title = truncate(titleRaw, CONFIG.maxFieldChars);
+    const description = truncate(rawMeta, CONFIG.maxFieldChars);
+    const text = truncate(textRaw, CONFIG.maxFieldChars);
+
+    return { title, description, text };
   }, { retries: CONFIG.retries, minTimeout: CONFIG.retryBackoffMs });
 }
 
@@ -209,7 +222,7 @@ function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 function loadJsonSafe(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return null; } }
 
 (async function main() {
-  log('Starting crawler run (no ESM deps)');
+  log('Starting crawler run (100-char field limits enforced)');
 
   const domains = loadDomainsFromCsv(DOMAINS_CSV);
   log('Loaded domains count=', domains.length);
@@ -318,10 +331,15 @@ function loadJsonSafe(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); 
       try {
         const info = await fetchHtml(url);
         if (!info) return;
-        out.push({ id: url, url, title: info.title, description: info.description, text: info.text });
+        // ensure final truncation before push (belt-and-suspenders)
+        const title = truncate(info.title, CONFIG.maxFieldChars);
+        const description = truncate(info.description, CONFIG.maxFieldChars);
+        const text = truncate(info.text, CONFIG.maxFieldChars);
+
+        out.push({ id: url, url, title, description, text });
         newUrlsForHost.push(url);
         total++;
-        log('[KEEP]', url, 'title-len=', (info.title || '').length, 'meta-len=', (info.description || '').length);
+        log('[KEEP]', url, 'title-len=', (title || '').length, 'meta-len=', (description || '').length);
       } catch (e) {
         log('[ERR FETCH]', url, e && e.message ? e.message : e);
       }
@@ -340,8 +358,12 @@ function loadJsonSafe(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); 
   for (const e of existingOut) {
     if (!e || !e.url) continue;
     if (seen.has(e.url)) continue;
+    // truncate existing entries too (in case)
+    const title = truncate(e.title || '', CONFIG.maxFieldChars);
+    const description = truncate(e.description || '', CONFIG.maxFieldChars);
+    const text = truncate(e.text || '', CONFIG.maxFieldChars);
     seen.add(e.url);
-    merged.push(e);
+    merged.push({ ...e, title, description, text });
   }
   for (const r of out) {
     if (!r || !r.url) continue;
