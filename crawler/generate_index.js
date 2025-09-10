@@ -361,4 +361,3 @@ async function parseSitemap(surl) {
     console.warn('[WARN] failed to write', LAST, e && e.message);
   }
 })();
-JS
