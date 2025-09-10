@@ -34,11 +34,11 @@
 #           git add site/last_indexed.json || true
 #           git commit -m "Update index" || echo "no changes to commit"
 #           git push
-
 name: scheduled-index
+
 on:
   schedule:
-    - cron: '0 */6 * * *'   # change to '0 * * * *' for hourly
+    - cron: '0 */6 * * *'   # runs every 6 hours; change to '0 * * * *' for hourly
   workflow_dispatch:
 
 permissions:
@@ -65,7 +65,7 @@ jobs:
       - name: Build shard list
         id: make
         run: |
-          # sensible default shard count (tune this)
+          # tune shard count as needed (or pass SHARD_COUNT via workflow_dispatch env)
           SHARD_COUNT=${SHARD_COUNT:-10}
           echo "Using SHARD_COUNT=$SHARD_COUNT"
 
@@ -87,7 +87,7 @@ jobs:
       matrix:
         shard: ${{ fromJson(needs.prepare.outputs.shard_list) }}
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180          # increase if your shards take longer
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -103,7 +103,7 @@ jobs:
         run: |
           cd crawler || exit 0
           if [ -f package.json ]; then
-            npm install --no-audit --no-fund
+            npm ci --no-audit --no-fund
           else
             echo "no package.json, skipping npm install"
           fi
@@ -155,6 +155,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           path: shard_artifacts
+
+      - name: Debug - list downloaded artifacts (optional)
+        run: |
+          echo "Listing shard_artifacts contents"
+          ls -la shard_artifacts || true
+          echo "Show a sample file:"
+          for f in shard_artifacts/*; do echo "=== $f ==="; head -n 5 "$f"; break; done
 
       - name: Merge shards (JSON)
         run: |
