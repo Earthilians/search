@@ -121,7 +121,7 @@ jobs:
             --out=shard-output-$SHARD.json \
             --last=shard-last-$SHARD.json \
             --globalLast=./site/last_indexed.json \
-            --maxDomainsPerShard=300 \
+            --maxDomainsPerShard=30 \
             --concurrency=6 \
             --maxPages=10 \
             --rateMs=200 \
