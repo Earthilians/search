@@ -493,16 +493,28 @@ async function fetchHtml(url) {
       }
 
       const doc = dom.window.document;
-      const title = doc.querySelector('title')?.textContent?.trim() || '';
-      const metaDesc = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
+      // get raw values
+      let title = doc.querySelector('title')?.textContent?.trim() || '';
+      let metaDesc = doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || '';
       const ps = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
-      const text = ps.join('\n').slice(0, CONFIG.maxTextChars);
+      let text = ps.join('\n').slice(0, CONFIG.maxTextChars);
 
-      if (!title)      { log('[SKIP MISSING TITLE]', url); return null; }
-      if (!metaDesc)   { log('[SKIP MISSING META]', url); return null; }
-      if (!text)       { log('[SKIP MISSING TEXT]', url); return null; }
+      // enforce presence
+      if (!title)      { log('[SKIP MISSING TITLE]', url); try { dom.window.close(); } catch(e){}; return null; }
+      if (!metaDesc)   { log('[SKIP MISSING META]', url); try { dom.window.close(); } catch(e){}; return null; }
+      if (!text)       { log('[SKIP MISSING TEXT]', url); try { dom.window.close(); } catch(e){}; return null; }
 
-      return { title, description: metaDesc.slice(0, 100), text };
+      // TRIM ALL TO FIRST 100 CHARACTERS (per your request)
+      title = title.slice(0, 100);
+      metaDesc = metaDesc.slice(0, 100);
+      text = text.slice(0, 100);
+
+      // cleanup dom to free memory
+      try { if (dom && dom.window && dom.window.close) dom.window.close(); } catch (e) {}
+      dom = null;
+      html = null;
+
+      return { title, description: metaDesc, text };
     } catch (e) {
       attempt++;
       if (attempt > CONFIG.retries) {
@@ -661,7 +673,11 @@ async function fetchHtml(url) {
           await new Promise(r => setTimeout(r, CONFIG.rateMs));
           const info = await fetchHtml(url).catch(e => { log('[ERR FETCH]', url, e && e.message ? e.message : e); return null; });
           if (!info) continue;
-          outPages.push({ id: url, url, title: info.title, description: info.description, text: info.text });
+          // ensure stored values are already trimmed in fetchHtml, but safe-guard here too
+          const outTitle = (info.title || '').slice(0, 100);
+          const outDesc = (info.description || '').slice(0, 100);
+          const outText = (info.text || '').slice(0, 100);
+          outPages.push({ id: url, url, title: outTitle, description: outDesc, text: outText });
           got.push(url);
           if (got.length >= CONFIG.maxPages) break;
         }
