@@ -35,7 +35,6 @@
 #           git commit -m "Update index" || echo "no changes to commit"
 #           git push
 
-
 name: scheduled-index
 on:
   schedule:
@@ -63,19 +62,22 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps
+      - name: Install deps (if any)
         run: |
           cd crawler || exit 0
-          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
+          if [ -f package.json ]; then
+            npm install --no-audit --no-fund
+          else
+            echo "no package.json, skipping npm install"
+          fi
 
       - name: Build shard list
         id: make
         run: |
-          # tune this environment variable or set it in the workflow_dispatch UI
+          # tune this env var or pass it via workflow_dispatch inputs
           SHARD_COUNT=${SHARD_COUNT:-50}
           echo "Using SHARD_COUNT=$SHARD_COUNT"
 
-          # create JSON array ["0","1",...]
           arr="["
           for i in $(seq 0 $((SHARD_COUNT-1))); do
             arr="${arr}\"${i}\""
@@ -106,10 +108,14 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps
+      - name: Install deps (if any)
         run: |
           cd crawler || exit 0
-          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
+          if [ -f package.json ]; then
+            npm install --no-audit --no-fund
+          else
+            echo "no package.json, skipping npm install"
+          fi
 
       - name: Run shard crawler
         run: |
@@ -153,10 +159,14 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps
+      - name: Install deps (if any)
         run: |
           cd crawler || exit 0
-          if [ -f package.json ]; then npm ci --no-audit --no-fund; fi
+          if [ -f package.json ]; then
+            npm install --no-audit --no-fund
+          else
+            echo "no package.json, skipping npm install"
+          fi
 
       - name: Download shard artifacts
         uses: actions/download-artifact@v4
