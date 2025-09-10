@@ -1,9 +1,16 @@
 {
-  "name": "simple-indexer",
+  "name": "earthilians-crawler",
   "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node generate_index.js"
+  },
   "dependencies": {
-    "fast-xml-parser": "^4.4.0",
-    "node-fetch": "^2.6.7",
-    "jsdom": "^22.1.0"
+    "csv-parse": "^5.4.0",
+    "fast-xml-parser": "^4.2.4",
+    "jsdom": "^22.1.0",
+    "p-limit": "^4.0.0",
+    "p-retry": "^5.1.0"
   }
 }
