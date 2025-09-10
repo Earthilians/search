@@ -18,8 +18,11 @@ function saveJSONAtomic(p, obj){
 }
 
 const artifactsDir = process.argv[2] || './shard_artifacts';
-const outIndex = process.argv[3] || './site/index.json';
-const outLast = process.argv[4] || './site/last_indexed.json';
+const outIndex = path.join(__dirname, '..', 'site', 'index.json');
+const outLast = path.join(__dirname, '..', 'site', 'last_indexed.json');
+// const OUT = path.join(__dirname, '..', 'site', 'index.json');
+// const LAST_INDEX_FILE =path.join(__dirname, '..', 'site', 'last_indexed.json')
+
 const MAX_URLS_PER_HOST = 10000;
 
 if (!fs.existsSync(artifactsDir)) {
