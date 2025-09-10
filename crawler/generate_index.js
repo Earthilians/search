@@ -277,6 +277,9 @@
 //   --maxDomainsPerShard=2000 --concurrency=12 --maxPages=10 --daysNoCheck=4 --verbose
 
 // crawler/generate_index_shard.js
+// crawler/generate_index_shard.js
+// Defensive shard crawler with per-domain timeout and robust fetch cleanup.
+
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
@@ -320,7 +323,8 @@ const CONFIG = {
   retries: parseArgInt('retries', 2),
   retryBackoffMs: parseArgInt('retryBackoffMs', 600),
   daysNoCheck: parseArgInt('daysNoCheck', 4),
-  maxUrlsPerHost: parseArgInt('maxUrlsPerHost', 10000)
+  maxUrlsPerHost: parseArgInt('maxUrlsPerHost', 10000),
+  domainTimeoutMs: parseArgInt('domainTimeoutMs', 30 * 1000) // per-domain timeout default 30 seconds
 };
 
 const VERBOSE = hasFlag('verbose');
@@ -331,7 +335,12 @@ function log(...args){ if (VERBOSE) console.log(...args); }
 function nowMs(){ return Date.now(); }
 function daysToMs(d){ return d * 24 * 60 * 60 * 1000; }
 
-process.on('unhandledRejection', (reason, p) => {
+// global progress watchdog
+let lastProgressAt = nowMs();
+function touchProgress(){ lastProgressAt = nowMs(); }
+
+// basic process-level handlers
+process.on('unhandledRejection', (reason) => {
   console.error('[UNHANDLED REJECTION]', reason && reason.stack ? reason.stack : reason);
 });
 process.on('uncaughtException', err => {
@@ -341,24 +350,37 @@ process.on('uncaughtException', err => {
 const httpAgent = new http.Agent({ keepAlive: true, maxSockets: CONFIG.concurrency });
 const httpsAgent = new https.Agent({ keepAlive: true, maxSockets: CONFIG.concurrency });
 
+// global watchdog to avoid infinite runs (30 minutes default, configurable via env WATCHDOG_MINUTES)
+const WATCHDOG_MINUTES = Number(process.env.WATCHDOG_MINUTES || 30);
+const WATCHDOG_MS = WATCHDOG_MINUTES * 60 * 1000;
+setInterval(() => {
+  if (nowMs() - lastProgressAt > WATCHDOG_MS) {
+    console.error(`[FATAL] No progress for ${WATCHDOG_MINUTES} minutes — exiting`);
+    try { httpAgent.destroy(); } catch (e) {}
+    try { httpsAgent.destroy(); } catch (e) {}
+    process.exit(1);
+  }
+}, 60 * 1000);
+
 async function fetchWithTimeout(url, opts = {}, timeout = CONFIG.fetchTimeoutMs) {
   const controller = new AbortController();
-  const id = setTimeout(() => controller.abort(), timeout);
+  const id = setTimeout(() => {
+    try { controller.abort(); } catch (e) {}
+  }, timeout);
+
   try {
     const u = new URL(url);
     const agent = u.protocol === 'http:' ? httpAgent : httpsAgent;
     const res = await fetch(url, { ...opts, agent, signal: controller.signal });
-    clearTimeout(id);
     return res;
-  } catch (e) {
+  } finally {
     clearTimeout(id);
-    throw e;
   }
 }
 
 async function fetchSitemapText(url) {
   const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
-  if (!res.ok) throw new Error('HTTP ' + res.status);
+  if (!res || !res.ok) throw new Error('HTTP ' + (res ? res.status : 'NORES'));
   const buf = Buffer.from(await res.arrayBuffer());
   const ct = (res.headers.get('content-type') || '').toLowerCase();
   if (url.toLowerCase().endsWith('.gz') || ct.includes('gzip')) {
@@ -466,8 +488,8 @@ async function fetchHtml(url) {
   while (true) {
     try {
       const res = await fetchWithTimeout(url, { headers: { 'User-Agent': USER_AGENT } }, CONFIG.fetchTimeoutMs);
-      if (!res.ok) {
-        log('[SKIP NON-OK]', url, 'status=', res.status);
+      if (!res || !res.ok) {
+        log('[SKIP NON-OK]', url, 'status=', res ? res.status : 'NORES');
         return null;
       }
 
@@ -514,6 +536,7 @@ async function fetchHtml(url) {
       dom = null;
       html = null;
 
+      touchProgress();
       return { title, description: metaDesc, text };
     } catch (e) {
       attempt++;
@@ -530,7 +553,7 @@ async function fetchHtml(url) {
 // MAIN
 //
 (async function main() {
-  console.log('Shard', SHARD_INDEX, 'start: domainsCsv=', DOMAINS_CSV, 'shardCount=', SHARD_COUNT, 'maxDomainsPerShard=', CONFIG.maxDomainsPerShard);
+  console.log('Shard', SHARD_INDEX, 'start: domainsCsv=', DOMAINS_CSV, 'shardCount=', SHARD_COUNT, 'maxDomainsPerShard=', CONFIG.maxDomainsPerShard, 'domainTimeoutMs=', CONFIG.domainTimeoutMs);
 
   if (!fs.existsSync(DOMAINS_CSV)) {
     console.error('domains CSV missing:', DOMAINS_CSV);
@@ -601,6 +624,91 @@ async function fetchHtml(url) {
   const outPages = [];
   const shardLast = {};
 
+  async function processDomainItem(item) {
+    const host = item.host;
+    const rec = globalLast[host] || { lastAt: 0, urls: [] };
+    const recently = !FORCE && rec.lastAt && ((nowMs() - rec.lastAt) < daysToMs(CONFIG.daysNoCheck));
+    if (recently) {
+      log('[SKIP-RECENT]', host);
+      shardLast[host] = { lastAt: rec.lastAt, urls: Array.from(new Set(rec.urls || [])) };
+      return;
+    }
+
+    // guarded robots + fallback sitemap collection
+    const domainSitemaps = new Set();
+    try {
+      const baseOrigin = item.raw;
+      const robotsUrlObj = safeNewUrl('/robots.txt', baseOrigin);
+      if (robotsUrlObj) {
+        const r = await fetchWithTimeout(robotsUrlObj.toString(), { headers: { 'User-Agent': USER_AGENT } }, 6000).catch(() => null);
+        if (r && r.ok) {
+          const txt = await r.text().catch(() => '');
+          for (const line of txt.split(/\r?\n/)) {
+            if (line.toLowerCase().startsWith('sitemap:')) {
+              const smRaw = line.split(':').slice(1).join(':').trim();
+              const smObj = safeNewUrl(smRaw, robotsUrlObj.toString());
+              if (smObj) domainSitemaps.add(smObj.toString());
+              else log('[WARN] ignored invalid sitemap URL in robots:', smRaw, 'for', host);
+            }
+          }
+        }
+      }
+    } catch (e) {
+      log('[WARN] robots handling failed', item.host, e && e.message ? e.message : e);
+    }
+
+    // always add fallback sitemap
+    const fallbackSitemap = safeNewUrl('/sitemap.xml', item.raw);
+    if (fallbackSitemap) domainSitemaps.add(fallbackSitemap.toString());
+
+    // expand sitemaps
+    let pageUrls = [];
+    const seenSitemaps = new Set();
+    for (const sm of domainSitemaps) {
+      try {
+        const pages = await expandSitemap(sm, seenSitemaps);
+        for (const p of pages) if (!pageUrls.includes(p)) pageUrls.push(p);
+      } catch (e) { log('[WARN] sitemap expand fail', item.host, e && e.message ? e.message : e); }
+      if (pageUrls.length >= 1000) break;
+    }
+
+    // ensure homepage is first
+    const homepage = safeNewUrl('/', item.raw)?.toString() || (item.raw.endsWith('/') ? item.raw : item.raw + '/');
+    if (!pageUrls.includes(homepage)) pageUrls.unshift(homepage);
+
+    const already = new Set(rec.urls || []);
+    const candidates = pageUrls.filter(u => !already.has(u)).slice(0, CONFIG.maxPages);
+
+    if (candidates.length === 0) {
+      shardLast[item.host] = { lastAt: nowMs(), urls: Array.from(new Set(rec.urls || [])) };
+      log('[NO-NEW]', item.host);
+      touchProgress();
+      return;
+    }
+
+    const got = [];
+    for (const url of candidates) {
+      await new Promise(r => setTimeout(r, CONFIG.rateMs));
+      const info = await fetchHtml(url).catch(e => { log('[ERR FETCH]', url, e && e.message ? e.message : e); return null; });
+      if (!info) continue;
+      // ensure stored values are trimmed
+      const outTitle = (info.title || '').slice(0, 100);
+      const outDesc = (info.description || '').slice(0, 100);
+      const outText = (info.text || '').slice(0, 100);
+      outPages.push({ id: url, url, title: outTitle, description: outDesc, text: outText });
+      got.push(url);
+      touchProgress();
+      if (got.length >= CONFIG.maxPages) break;
+    }
+
+    const mergedUrls = Array.from(new Set([...(rec.urls || []), ...got]));
+    if (mergedUrls.length > CONFIG.maxUrlsPerHost) mergedUrls.splice(CONFIG.maxUrlsPerHost);
+
+    shardLast[item.host] = { lastAt: nowMs(), urls: mergedUrls };
+    log('[DONE]', item.host, 'added', got.length);
+    touchProgress();
+  }
+
   async function worker() {
     while (true) {
       const i = idx++;
@@ -608,91 +716,40 @@ async function fetchHtml(url) {
       const item = selected[i];
 
       try {
-        const host = item.host;
-        const rec = globalLast[host] || { lastAt: 0, urls: [] };
-        const recently = !FORCE && rec.lastAt && ((nowMs() - rec.lastAt) < daysToMs(CONFIG.daysNoCheck));
-        if (recently) {
-          log('[SKIP-RECENT]', host);
-          shardLast[host] = { lastAt: rec.lastAt, urls: Array.from(new Set(rec.urls || [])) };
-          continue;
-        }
+        // run domain processing with timeout
+        const domainPromise = processDomainItem(item);
+        const timeoutMs = CONFIG.domainTimeoutMs;
+        const timeoutPromise = new Promise((_, rej) =>
+          setTimeout(() => rej(new Error('DOMAIN_TIMEOUT')), timeoutMs)
+        );
 
-        // guarded robots + fallback sitemap collection
-        const domainSitemaps = new Set();
         try {
-          const baseOrigin = item.raw;
-          const robotsUrlObj = safeNewUrl('/robots.txt', baseOrigin);
-          if (robotsUrlObj) {
-            const r = await fetchWithTimeout(robotsUrlObj.toString(), { headers: { 'User-Agent': USER_AGENT } }, 6000).catch(() => null);
-            if (r && r.ok) {
-              const txt = await r.text().catch(() => '');
-              for (const line of txt.split(/\r?\n/)) {
-                if (line.toLowerCase().startsWith('sitemap:')) {
-                  const smRaw = line.split(':').slice(1).join(':').trim();
-                  const smObj = safeNewUrl(smRaw, robotsUrlObj.toString());
-                  if (smObj) domainSitemaps.add(smObj.toString());
-                  else log('[WARN] ignored invalid sitemap URL in robots:', smRaw, 'for', host);
-                }
-              }
-            }
-          }
+          await Promise.race([domainPromise, timeoutPromise]);
         } catch (e) {
-          log('[WARN] robots handling failed', item.host, e && e.message ? e.message : e);
+          if (e && e.message === 'DOMAIN_TIMEOUT') {
+            console.warn('[TIMEOUT] domain processing exceeded', timeoutMs, 'ms for', item.host, '- skipping');
+            try {
+              shardLast[item.host] = { lastAt: nowMs(), urls: (shardLast[item.host] && shardLast[item.host].urls) || [] };
+            } catch (ex) {}
+            touchProgress();
+            continue;
+          } else {
+            // other domain-level error
+            console.error('[ERROR] domain worker error for', item && item.host ? item.host : item, e && e.stack ? e.stack : e);
+            try {
+              shardLast[item.host || ('bad-host-' + i)] = { lastAt: nowMs(), urls: (shardLast[item.host] && shardLast[item.host].urls) || [] };
+            } catch (ee) {}
+            touchProgress();
+            continue;
+          }
         }
-
-        // always add fallback sitemap
-        const fallbackSitemap = safeNewUrl('/sitemap.xml', item.raw);
-        if (fallbackSitemap) domainSitemaps.add(fallbackSitemap.toString());
-
-        // expand sitemaps
-        let pageUrls = [];
-        const seenSitemaps = new Set();
-        for (const sm of domainSitemaps) {
-          try {
-            const pages = await expandSitemap(sm, seenSitemaps);
-            for (const p of pages) if (!pageUrls.includes(p)) pageUrls.push(p);
-          } catch (e) { log('[WARN] sitemap expand fail', item.host, e && e.message ? e.message : e); }
-          if (pageUrls.length >= 1000) break;
-        }
-
-        // ensure homepage is first
-        const homepage = safeNewUrl('/', item.raw)?.toString() || (item.raw.endsWith('/') ? item.raw : item.raw + '/');
-        if (!pageUrls.includes(homepage)) pageUrls.unshift(homepage);
-
-        const already = new Set(rec.urls || []);
-        const candidates = pageUrls.filter(u => !already.has(u)).slice(0, CONFIG.maxPages);
-
-        if (candidates.length === 0) {
-          shardLast[item.host] = { lastAt: nowMs(), urls: Array.from(new Set(rec.urls || [])) };
-          log('[NO-NEW]', item.host);
-          continue;
-        }
-
-        const got = [];
-        for (const url of candidates) {
-          await new Promise(r => setTimeout(r, CONFIG.rateMs));
-          const info = await fetchHtml(url).catch(e => { log('[ERR FETCH]', url, e && e.message ? e.message : e); return null; });
-          if (!info) continue;
-          // ensure stored values are already trimmed in fetchHtml, but safe-guard here too
-          const outTitle = (info.title || '').slice(0, 100);
-          const outDesc = (info.description || '').slice(0, 100);
-          const outText = (info.text || '').slice(0, 100);
-          outPages.push({ id: url, url, title: outTitle, description: outDesc, text: outText });
-          got.push(url);
-          if (got.length >= CONFIG.maxPages) break;
-        }
-
-        const mergedUrls = Array.from(new Set([...(rec.urls || []), ...got]));
-        if (mergedUrls.length > CONFIG.maxUrlsPerHost) mergedUrls.splice(CONFIG.maxUrlsPerHost);
-
-        shardLast[item.host] = { lastAt: nowMs(), urls: mergedUrls };
-        log('[DONE]', item.host, 'added', got.length);
 
       } catch (domainErr) {
-        console.error('[ERROR] domain worker error for', item && item.host ? item.host : item, domainErr && domainErr.stack ? domainErr.stack : domainErr);
+        console.error('[ERROR] unexpected domain worker error for', item && item.host ? item.host : item, domainErr && domainErr.stack ? domainErr.stack : domainErr);
         try {
           shardLast[item.host || ('bad-host-' + i)] = { lastAt: nowMs(), urls: (shardLast[item.host] && shardLast[item.host].urls) || [] };
         } catch (e) {}
+        touchProgress();
         continue;
       }
     }
@@ -706,10 +763,17 @@ async function fetchHtml(url) {
   atomicWrite(LAST_OUT_FILE, shardLast);
   console.log('Shard', SHARD_INDEX, 'wrote', OUT_FILE, 'pages=', outPages.length, 'hosts=', Object.keys(shardLast).length);
 
-  httpAgent.destroy();
-  httpsAgent.destroy();
-  process.exit(0);
+  try { httpAgent.destroy(); } catch (e) {}
+  try { httpsAgent.destroy(); } catch (e) {}
+
+  // small grace then exit
+  setTimeout(() => {
+    console.log('Shard exiting cleanly.');
+    process.exit(0);
+  }, 800);
 })().catch(err => {
   console.error('FATAL', err && err.stack ? err.stack : err);
+  try { httpAgent.destroy(); } catch (e) {}
+  try { httpsAgent.destroy(); } catch (e) {}
   process.exit(1);
 });
