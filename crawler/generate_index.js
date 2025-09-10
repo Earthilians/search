@@ -344,7 +344,7 @@ async function fetchHtmlPage(url) {
       }
     }
 
-    // start workers
+    // start workers hello
     for (let w=0; w<CONFIG.concurrency; w++) tasks.push(worker());
     await Promise.all(tasks);
 
