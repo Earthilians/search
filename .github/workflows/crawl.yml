@@ -8,19 +8,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node 18
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
 
-      - name: Install dependencies
+      - name: Install dependencies (crawler)
         working-directory: ./crawler
         run: npm install --no-audit --no-fund
 
       - name: Run indexer
+        working-directory: ./
         run: node crawler/generate_index.js
 
       - name: Commit generated index
