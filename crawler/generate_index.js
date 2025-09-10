@@ -9,44 +9,7 @@ const { URL } = require('url');
 
 const DOMAINS_FILE = path.join(__dirname, 'domains.txt');
 const OUT = path.join(__dirname, '..', 'site', 'index.json');
-const LAST_INDEX_FILE = path.join(__dirname, 'last_indexed.json');
-// --- debug: force-create the last-index file immediately so we can see where it goes ---
-try {
-  const p = path.resolve(LAST_INDEX_FILE);
-  console.log('DEBUG: will create last-index file at:', p);
-  // ensure directory exists (should be crawler/)
-  const dir = path.dirname(p);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  // write an initial object if file missing
-  if (!fs.existsSync(p)) fs.writeFileSync(p, JSON.stringify({}, null, 2), 'utf8');
-  console.log('DEBUG: last-index file is present (or created).');
-} catch (err) {
-  console.error('DEBUG: failed creating last-index file:', err && err.message ? err.message : err);
-}
-// DEBUG BLOCK - put this right after your constants
-console.log('DEBUG __dirname:', __dirname);
-console.log('DEBUG process.cwd():', process.cwd());
-console.log('DEBUG resolved LAST_INDEX_FILE:', path.resolve(LAST_INDEX_FILE));
-
-try {
-  // ensure directory exists and create visible file next to this script
-  const p1 = path.resolve(__dirname, 'last_indexed.json');
-  if (!fs.existsSync(path.dirname(p1))) fs.mkdirSync(path.dirname(p1), { recursive: true });
-  fs.writeFileSync(p1, JSON.stringify({}, null, 2), 'utf8');
-  console.log('DEBUG: created last_indexed.json at __dirname path:', p1);
-} catch (err) {
-  console.error('DEBUG: failed creating at __dirname path:', err && err.message ? err.message : err);
-}
-
-try {
-  // ALSO create in the current working directory (where you probably run node from)
-  const p2 = path.resolve(process.cwd(), 'crawler', 'last_indexed.json');
-  if (!fs.existsSync(path.dirname(p2))) fs.mkdirSync(path.dirname(p2), { recursive: true });
-  fs.writeFileSync(p2, JSON.stringify({}, null, 2), 'utf8');
-  console.log('DEBUG: created last_indexed.json at process.cwd path:', p2);
-} catch (err) {
-  console.error('DEBUG: failed creating at process.cwd path:', err && err.message ? err.message : err);
-}
+const LAST_INDEX_FILE = path.resolve(process.cwd(), 'crawler', 'last_indexed.json');
 
 const USER_AGENT = 'EarthiliansCrawler/1.0 (+mailto:you@example.com)';
 
