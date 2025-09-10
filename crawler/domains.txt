@@ -1,2 +1,5 @@
 https://example.com
 https://another-site.example
+https://google.com
+https://amazon.com
+https://facebook.com
