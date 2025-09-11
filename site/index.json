@@ -2182,5 +2182,649 @@
     "title": "VK.com | VK",
     "description": "",
     "text": "This may cause VK to work slowly or experience errors.Update your browser or install one of the foll"
+  },
+  {
+    "id": "9b0707f56d189ba8ad937357b06649bd189dd4bc",
+    "url": "https://telekom.de/",
+    "title": "Telekom | Mobilfunk, Festnetz & Internet, TV Angebote",
+    "description": "Aktuelle Telekom Angebote für Mobilfunk (5G/LTE), Festnetz und Internet, TV & mehr. Alles aus einer ",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "49c06d39d86d569d32ba69903cc3e7b83a5fd226",
+    "url": "https://www.telekom.de/datenschutzhinweise",
+    "title": "Telekom Datenschutzhinweise",
+    "description": "",
+    "text": "Wir möchten Sie darüber informieren, wie wir Ihre persönlichen Daten verarbeiten:"
+  },
+  {
+    "id": "f57ddd43008e8bc46a13223b9246031be6c2f030",
+    "url": "https://www.telekom.de/e-mail",
+    "title": "E-Mail: mit @magenta.de sicher mailen | Telekom",
+    "description": "Wir bieten mit Telekom E-Mail hohe Sicherheitsstandards, 1 GB E-Mail-Speicher, Domain-Endung @magent",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "690c795a3e29753c5da614e96ae31f2b0748243e",
+    "url": "https://www.telekom.de/e-mail/e-mail-center",
+    "title": "E-Mail Center| Telekom",
+    "description": "Login E-Mail Center",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "c3faa4193fb47904dbf2c7272304cbb784296129",
+    "url": "https://www.telekom.de/e-mail/e-mail-made-in-germany",
+    "title": "E-Mail made in Germany | Telekom",
+    "description": "Erleben Sie sichere Kommunikation, deutsche Datenspeicherung & automatische Verschlüsselung mit unse",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "7b1ab57016d41b7dddedeb2ca9f4e319864606a0",
+    "url": "https://www.telekom.de/e-mail/e-mail-siegel",
+    "title": "E-Mail-Siegel: Schutz vor Spam und Phishing | Telekom",
+    "description": "Mit dem E-Mail-Siegel der Telekom erkennen Sie vertrauenswürdige E-Mails auf einen Blick und schütze",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "7297b234965cf5556957eb8604ccfbd955f97c9e",
+    "url": "https://www.telekom.de/apps/voicemail",
+    "title": "| Telekom Hilfe",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "64d1ed0b609032ebd900255c703b0fbffa15052e",
+    "url": "https://www.telekom.de/apps",
+    "title": "| Telekom Hilfe",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "531c2085384ed6d62f0c3c2ade3f32e9a1785dfb",
+    "url": "https://www.telekom.de/e-mail/mail-m",
+    "title": "Mail M: Cloud Speicher inklusive | Telekom",
+    "description": "Mit dem Mail M Paket genießen Sie: individuellen Spamfilter, mitwachsenden Postfachspeicher und stre",
+    "text": "Mobilfunk\nDieser Warenkorb enthält {{ITEMS_COUNT}} Artikel.\nZum Warenkorb\nFestnetz & TV\nDieser Waren"
+  },
+  {
+    "id": "846f865b217b9397f2749d132446cc691ab9baa6",
+    "url": "https://www.telekom.de/apps/meinmagenta-app",
+    "title": "| Telekom Hilfe",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d662987654fe603235c18dd2bc9a2d9be5b949f8",
+    "url": "https://apache.org/",
+    "title": "Welcome to The Apache Software Foundation",
+    "description": "Home page of The Apache Software Foundation",
+    "text": "ASF’s open source software is used ubiquitously around the world with more than 9750 committers cont"
+  },
+  {
+    "id": "7a0938d7d19f0779c2c7e6db17db3fa491966642",
+    "url": "https://www.one.com/en/",
+    "title": "Domain Names | Web Hosting | Websites | Email | WordPress",
+    "description": "Grow your business online with our one-stop solution to build a stunning website. Register your doma",
+    "text": "Products\nDomain registration\nRegister the perfect domain name for your business or idea.\nTransfer do"
+  },
+  {
+    "id": "ba6e4c83bb353c3687a3be3e9559aa5ea6d04aa6",
+    "url": "https://www.one.com/it/",
+    "title": "Domini | Hosting Web | Siti Web | E-mail | WordPress",
+    "description": "Con la nostra soluzione one-stop costruisci un sito Web/espandi la tua attività online! Registra ora",
+    "text": "Prodotti\nRegistrazione dominio\nRegistra il nome di dominio perfetto per la tua attività o la tua ide"
+  },
+  {
+    "id": "50e5f9a6e1a9a491e1892aacf853c4ff85c489e2",
+    "url": "https://www.one.com/pt/",
+    "title": "Nomes de Domínio | Alojamento Web | Sites | Email | WordPress",
+    "description": "O seu negócio cresce online com a nossa solução one-stop para criar um site. Registe já o seu nome d",
+    "text": "Produtos\nRegisto de domínios\nRegiste o nome de domínio perfeito para a sua empresa ou ideia.\nTransfe"
+  },
+  {
+    "id": "fed8b5cf15d87e5498c675601c7026920d8cbe46",
+    "url": "https://www.one.com/",
+    "title": "Domain Names | Web Hosting | Websites | Email | WordPress",
+    "description": "Grow your business online with our one-stop solution to build a stunning website. Register your doma",
+    "text": "Products\nDomain registration\nRegister the perfect domain name for your business or idea.\nTransfer do"
+  },
+  {
+    "id": "0ea96bf8fd72405f5bac6a66b28a2bb2019e4741",
+    "url": "https://one.one/",
+    "title": "Domain Names | Web Hosting | Websites | Email | WordPress",
+    "description": "Grow your business online with our one-stop solution to build a stunning website. Register your doma",
+    "text": "Products\nDomain registration\nRegister the perfect domain name for your business or idea.\nTransfer do"
+  },
+  {
+    "id": "5b9ae0cd95b8e6c7656516acfb732d92d7613c81",
+    "url": "https://www.one.com/fr/",
+    "title": "Domaines | Hébergement Web | Sites Web | E-mail | WordPress",
+    "description": "Notre solution inclut e-mail personnel, SSL, assistance 24/7, etc., pour réaliser votre site et boos",
+    "text": "Produits\nEnregistrement de domaine\nEnregistrez le nom de domaine parfait pour votre entreprise ou vo"
+  },
+  {
+    "id": "4aedf66fc1bdd508b6a89ec6adaa456e88eb9355",
+    "url": "https://www.one.com/da/om-os",
+    "title": "Om os - one.com",
+    "description": "Med one.com er det nemt at få din virksomhed til at blomstre, selv om du ikke har de store tekniske ",
+    "text": "Produkter\nDomæneregistrering\nRegistrer det perfekte domæne for din forretningsidé\nOverfør domæne\nNem"
+  },
+  {
+    "id": "34c061909b8e70ab2ac15865d88a3d61e8be4320",
+    "url": "https://www.one.com/es/",
+    "title": "Dominios | Alojamiento web | Correo electrónico | WordPress",
+    "description": "Haga crecer su negocio en Internet con nuestra solución integral para sitios web. ¡Registre hoy mism",
+    "text": "Productos\nRegistro de dominios\nRegistra el dominio perfecto para tu negocio o idea.\nTransferencia de"
+  },
+  {
+    "id": "7173a8f2c52e6cbcc1bc2999c813870d1a71b675",
+    "url": "https://www.one.com/pt/sobre-nos",
+    "title": "O seu parceiro online número um | one.com",
+    "description": "As soluções online nunca devem ser confusas ou difíceis. Com a one.com, é fácil começar a fazer cres",
+    "text": "Produtos\nRegisto de domínios\nRegiste o nome de domínio perfeito para a sua empresa ou ideia.\nTransfe"
+  },
+  {
+    "id": "7b742699b38b0611fad70e125246244fdd7f1904",
+    "url": "https://www.one.com/fr/apropos",
+    "title": "À propos de nous | one.com",
+    "description": "En 2002, alors qu’Internet en était encore à ses débuts et concernait moins de 10 % de la population",
+    "text": "Produits\nEnregistrement de domaine\nEnregistrez le nom de domaine parfait pour votre entreprise ou vo"
+  },
+  {
+    "id": "0a7ccbe1086b868bc91dfd2cac6403ed4f98a807",
+    "url": "https://github.io/",
+    "title": "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just",
+    "description": "Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, an",
+    "text": "Head over to GitHub and create a new public repository named username.github.io, where username is y"
+  },
+  {
+    "id": "af017eca93020f600e5c447ecc4f62da09cf9e29",
+    "url": "https://www.criteo.com/blog/",
+    "title": "Digital Advertising Blog | Criteo",
+    "description": "Stay informed and up to date on the most important topics in digital advertising. Dive into research",
+    "text": "Trends, strategies, perspectives, and more from our commerce media experts. Explore our extensive co"
+  },
+  {
+    "id": "586147f9386afc1bfcd2b65a0eef23fb0f07667f",
+    "url": "https://www.criteo.com/blog/will-retailers-brand-utilize-omnichannel/",
+    "title": "How Will Retailers and Brands Utilize Omnichannel? | Criteo",
+    "description": "",
+    "text": "By nature, omnichannel retailers and brands are user-centric businesses that put the customer experi"
+  },
+  {
+    "id": "a6cf6d512fc2a9aac33fd5dab381f8a6e8546ff6",
+    "url": "https://www.criteo.com/blog/difference-will-omnichannel-make-shoppers/",
+    "title": "What Difference Will Omnichannel Make for Shoppers? | Criteo",
+    "description": "",
+    "text": "Imagine setting foot into a department store. You’re a member of their rewards program, and you carr"
+  },
+  {
+    "id": "83b69145edc33c7c28430ad37f248555b6cbefc8",
+    "url": "https://www.criteo.com/blog/omnichannel-hot-right-now/",
+    "title": "Why Omnichannel is So Hot Right Now | Criteo",
+    "description": "",
+    "text": "If you’re a digital marketer, you’ve likely seen and heard a lot about omnichannel recently. But wha"
+  },
+  {
+    "id": "9eb850f6ddb7fed43ad047024e28208134761d85",
+    "url": "https://www.criteo.com/blog/unconventional-solutions-unconventional-new-world-order-open-letter-worlds-retailers-brands/",
+    "title": "An Open Letter to the World’s Retailers and Brands | Criteo",
+    "description": "",
+    "text": "After 23 years, Amazon has finally made the inevitable move into physical retail with the purchase o"
+  },
+  {
+    "id": "3de36f01e44864382f4712237f9c6e1400b083d7",
+    "url": "https://www.criteo.com/blog/incorporate-ad-viewability-kpis-data-series-part-3/",
+    "title": "Why to Incorporate Ad Viewability Into Your KPIs | Criteo",
+    "description": "",
+    "text": "In part three of this four-part series, learn what ad viewability has to do with your KPIs.\nThe curr"
+  },
+  {
+    "id": "ccf3fb44805fd42254c12ddec139c0d727f9c18e",
+    "url": "https://criteo.com/",
+    "title": "The Commerce Media Platform for the Open Internet | Criteo",
+    "description": "Activate the world’s largest set of commerce data to bring richer experiences to consumers with our ",
+    "text": "From awareness to conversion and video to retail media, our solutions enable full-funnel, outcomes-d"
+  },
+  {
+    "id": "051de9f780b903a8c623ef717df72da5e180cd46",
+    "url": "https://www.criteo.com/blog/smart-marketers-guide-google-shopping/",
+    "title": "The Smart Marketer’s Guide to Google Shopping | Criteo",
+    "description": "Google Shopping is an undeniably effective—and challenging—tool for retailers. Here’s how smart mark",
+    "text": "Google Shopping has made it easier for consumers to find what they want, when they want it, and is a"
+  },
+  {
+    "id": "8d49ca0fee9996d8c077a9509aafa51c5766f086",
+    "url": "https://www.criteo.com/blog/global-commerce-review-q3-2017-brazil-br/",
+    "title": "Digital Advertising Blog | Criteo",
+    "description": "Stay informed and up to date on the most important topics in digital advertising. Dive into research",
+    "text": "Trends, strategies, perspectives, and more from our commerce media experts. Explore our extensive co"
+  },
+  {
+    "id": "a8b41f122e9d463e0b417313b193dc7e0ee84c17",
+    "url": "https://www.criteo.com/blog/amazon-goes-offline/",
+    "title": "Amazon Goes Offline, Walmart Goes Online: Why Data & Collaboration Matter | Criteo",
+    "description": "Collaboration and access to large-scale data assets is increasingly important for brands and retaile",
+    "text": "The retail industry is undergoing a big transformation with new services and initiatives being launc"
+  },
+  {
+    "id": "847eaa86742e05e60d1aadf0d6f157636c2f9487",
+    "url": "https://nist.gov/",
+    "title": "National Institute of Standards and Technology",
+    "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, stand",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "228fb66ad037f747fa6269b06dc81dfa044f1bd7",
+    "url": "https://dropbox.com/",
+    "title": "Dropbox.com",
+    "description": "Discover Dropbox – secure, easy cloud storage for file sharing and collaboration. With Dash, save ti",
+    "text": "Find, organize, and protect your work with Dropbox Dash. Now with advanced search for video, images,"
+  },
+  {
+    "id": "c93adad2924bc9bd76e9ac4ad236da1545cb9e1c",
+    "url": "https://www.dropbox.com/it/business/solutions",
+    "title": "Soluzioni business",
+    "description": "Soluzioni business",
+    "text": "Il tuo tempo è prezioso. Implementa Dropbox nei flussi di lavoro della tua azienda per valorizzare o"
+  },
+  {
+    "id": "ff4cbe59a0f1996fb281522a66cfc0bd65707f92",
+    "url": "https://www.dropbox.com/es_ES/business/tour/cloud-security-control",
+    "title": "Security With Dropbox - Dropbox",
+    "description": "See how Dropbox provides the administrative control and visibility features that empower IT to effec",
+    "text": "Dropbox provides the control and visibility features that IT admins need. Behind the scenes is a sec"
+  },
+  {
+    "id": "b4e8607814d4d1e9eb649d1ba74289a34e03a2f6",
+    "url": "https://www.dropbox.com/es_ES/business/tour/administrative-tools",
+    "title": "Dropbox.com",
+    "description": "Discover Dropbox – secure, easy cloud storage for file sharing and collaboration. With Dash, save ti",
+    "text": "Find, organize, and protect your work with Dropbox Dash. Now with advanced search for video, images,"
+  },
+  {
+    "id": "aaedecdd0fd0e7cbaf2edd7c0e463beab391f478",
+    "url": "https://www.dropbox.com/ko/business/tour/online-backup",
+    "title": "What Is an Online Incremental Backup? - Dropbox",
+    "description": "With company files, it's important to know what type of backup solution is best for your organizatio",
+    "text": "5 min read\n•\nMar 5, 2025\nAn incremental backup is a backup type that only updates the changes made t"
+  },
+  {
+    "id": "2e3e22ba2213e7f12f4d8d16923f9c7207a97819",
+    "url": "https://www.dropbox.com/guide/business/highlights/three-advanced-features",
+    "title": "How to use Dropbox as a team member | Dropbox learn",
+    "description": "Learn how to use Dropbox for business and team collaboration. See how to download Dropbox, create an",
+    "text": "20 minute read\nYou should have received an email invite to join your team on a Dropbox corporate acc"
+  },
+  {
+    "id": "24f3911c2d71da541f3808a417603ad47f668603",
+    "url": "https://www.dropbox.com/ja/business/app-integrations",
+    "title": "Dropbox App Integrations",
+    "description": "Get even more value from Dropbox with app integrations that supercharge workflows for creators and d",
+    "text": "Get even more value from Dropbox with integrations that supercharge workflows for creators and distr"
+  },
+  {
+    "id": "8b7764e9f3a4e1869f14863f8a32c648b87234b0",
+    "url": "https://www.dropbox.com/de/business/trust",
+    "title": "Sicherheit, Compliance und Datenschutz mit Dropbox – Dropbox",
+    "description": "Das Fundament unserer Geschäftsbeziehungen lautet Vertrauen. Das Vertrauen, das Millionen von Mensch",
+    "text": "Vertrauen ist der Grund, warum wir mit mehr als 575.000 Teams auf der ganzen Welt zusammenarbeiten. "
+  },
+  {
+    "id": "a2879c069ffd100a0acee7910dadc024fb13e87a",
+    "url": "https://www.dropbox.com/ja/business/faqs",
+    "title": "Dropbox のよくある質問",
+    "description": "Dropbox のライセンス取得、購入方法、料金、または製品の詳細に関する質問への回答が見つかります。",
+    "text": "無料トライアル\nユーザーとは、固有のメール アドレスを所有する、チーム内の個人を指します。チーム メンバー 1 人につき、1 ライセンスが必要です。各ユーザーは Dropbox アカウントを自分の複数"
+  },
+  {
+    "id": "c00f50b44d9004f687301e43f2ded604dec1ebca",
+    "url": "https://www.dropbox.com/pt_BR/business/technology-partners",
+    "title": "Dropbox Partners Program",
+    "description": "Dropbox partners and resellers get access to invaluable customer insights, marketing support, and fu",
+    "text": "The secret is starting to get out: Dropbox resellers and channel partners get invaluable access to c"
+  },
+  {
+    "id": "7cae054bec78b97373503f2534d28dd3c20b26cc",
+    "url": "https://gravatar.com/",
+    "title": "Your Free Avatar, Profile, and Link In Bio | Gravatar",
+    "description": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcas",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "d6fef20b452b54eca41a645aa1bbb0fe73fc7356",
+    "url": "https://gravatar.com/link-in-bio",
+    "title": "The Original Link-in-bio | Gravatar",
+    "description": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcas",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "c95290b1f4aa19443197c9230a2b5487426f1909",
+    "url": "https://gravatar.com/custom-domains",
+    "title": "Own Your Name With A Custom Domain | Gravatar",
+    "description": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcas",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "2476efbfbd60362bb19eee826a9acae79e163697",
+    "url": "https://gravatar.com/plugin",
+    "title": "Engaging Avatars & Profiles for WordPress | Gravatar",
+    "description": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcas",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "c88a6a13bfa050fcee56bde2b4406cb08609df98",
+    "url": "https://gravatar.com/teams",
+    "title": "Your Free Avatar, Profile, and Link In Bio | Gravatar",
+    "description": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcas",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "5e5e45eb9e47189b7162c66cb576fa4c9896c5c8",
+    "url": "https://gravatar.com/site/translations",
+    "title": "Gravatar - Globally Recognized Avatars",
+    "description": "Your email address becomes your passport to the digital world, empowering you with complete control ",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "05bb2af2a1975c8e1e2746f8553970bde86bb293",
+    "url": "https://gravatar.com/site/check",
+    "title": "Gravatar - Globally Recognized Avatars",
+    "description": "Your email address becomes your passport to the digital world, empowering you with complete control ",
+    "text": "Create a new Gravatar profile and make it your go to place on the web.\nCreate a new Gravatar profile"
+  },
+  {
+    "id": "04a385929016b35aaddffb3e58615dd0582a38eb",
+    "url": "https://www.adriver.ru/articles_845/",
+    "title": "Programmatic-закупки и адаптивная формула AdRiver – Adriver",
+    "description": "",
+    "text": "В конце 2014 года руководитель направления компании Rubicon Project опубликовал статью про эффективн"
+  },
+  {
+    "id": "549e9adabe5a804160856e8ee78f735efc428eb9",
+    "url": "https://www.adriver.ru/articles_856/",
+    "title": "Шпаргалка: виды программатик закупок – Adriver",
+    "description": "",
+    "text": "Предлагаем вашему вниманию перевод статьи “Шпаргалка: виды программатик закупок“.\nАвтор – Джастин Ре"
+  },
+  {
+    "id": "d51759528ff1735bbfa549f23a476d5f8cb5bcf6",
+    "url": "https://www.adriver.ru/articles_849/",
+    "title": "Итоги 2014 и планы разработки на 2015 для издателей – Adriver",
+    "description": "",
+    "text": "Уважаемые издатели!\nВ прошлом году мы активно работали для вас и добавили в систему AdRiver много но"
+  },
+  {
+    "id": "a478372a4b1e56358313a33cbf5c1ba872e06bc2",
+    "url": "https://www.adriver.ru/news/news_500/",
+    "title": "Хранение и аудит видеоразмещений – Adriver",
+    "description": "",
+    "text": "По ожиданиям экспертов, рост рынка видеорекламы в этом году составит 15-20%. Чтобы не приходилось по"
+  },
+  {
+    "id": "ef77df87c22b6cbd761082616d40e6fbfaaf30d8",
+    "url": "https://adriver.ru/",
+    "title": "Adriver – Система управления и аудита интернет-рекламы",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e348df96169b326d959b0f99cdf61e715f02c257",
+    "url": "https://www.adriver.ru/viewability/",
+    "title": "Viewability рекламы – Adriver",
+    "description": "",
+    "text": "В этой статье хотим поговорить с вами о новом тренде в области рекламы — о Viewability. AdRiver не м"
+  },
+  {
+    "id": "f5369f4b1159ca5d4ffee192d3ca7e7e3d95c824",
+    "url": "https://www.adriver.ru/news/news_501/",
+    "title": "Пакетная загрузка баннеров и другие новые возможности – Adriver",
+    "description": "",
+    "text": "Пакетная загрузка баннеров\nНе надо тратить часы, подгружая каждый креатив в отдельный формат – закач"
+  },
+  {
+    "id": "f3532282db4731e54f33ee4217c3cf41351bff04",
+    "url": "https://www.adriver.ru/news/news_502/",
+    "title": "Интеграция с исследовательскими панелями в AdRiver – Adriver",
+    "description": "",
+    "text": "Чтобы оценить динамику изменений метрик узнаваемости, данные AdRiver о взаимодействии с рекламным со"
+  },
+  {
+    "id": "36c173b18405e1804f76bfcacc2b0dcf00589fd8",
+    "url": "https://www.adriver.ru/news/news_504/",
+    "title": "Google vs Flash – Adriver",
+    "description": "",
+    "text": "Напоминаем, что скоро начнется новый раунд войны против Flash: 1 июня 2017 года Google прекратит под"
+  },
+  {
+    "id": "519a6310ddeb306c5e77883f81ad6bd461970ad4",
+    "url": "https://www.adriver.ru/news/news_506",
+    "title": "Комитет IAB Russia по online branding презентовали Fraud & Brand Safety White Paper – Adriver",
+    "description": "",
+    "text": "Первый документ, который дает определения показателей Fraud и Brand Safety для российского рынка, пр"
+  },
+  {
+    "id": "9085932a10c375965d04457380f915b22848026e",
+    "url": "https://tumblr.com/",
+    "title": "Trending topics on Tumblr",
+    "description": "Explore trending topics on Tumblr. See all of the GIFs, fan art, and general conversation about the ",
+    "text": ""
+  },
+  {
+    "id": "c731fb37e76db6956c7979c59bd2c61e167e1916",
+    "url": "https://www.applovin.com/blog/",
+    "title": "AppLovin Blog | Mobile app growth & performance marketing",
+    "description": "Learn all about our products and capabilities, plus insights on digital advertising and performance ",
+    "text": "AI-powered recommendation engine\nAcquire your ideal users\nMonetize your app\nCreate ads that perform\n"
+  },
+  {
+    "id": "70f8426c7587876fcea0496b7e88289c31b978b4",
+    "url": "https://www.applovin.com/ja/blog/%e5%8a%b9%e6%9e%9c%e7%9a%84%e3%81%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b9%e3%83%88%e3%82%a2%e3%81%ae%e8%aa%ac%e6%98%8e%e6%96%87%e3%81%ae%e6%9b%b8%e3%81%8d%e6%96%b9%e3%81%a8%e3%81%af%ef%bc%9f/",
+    "title": "効果的なアプリストアの説明文の書き方とは？ | AppLovin",
+    "description": "アプリに突出した存在感を生み出せるようなアプリストアの説明文を書く方法はあるのでしょうか？今回は、アプリストアの説明文を、ユーザーのインストールを促せるような魅力的なものにする方法を考えます。",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "9ca0c3ba0679ddfdd18fa7f105a70d6e55056bae",
+    "url": "https://www.applovin.com/ja/blog/max-user-journey%ef%bc%9a%e4%b8%8d%e9%81%a9%e5%88%87%e5%ba%83%e5%91%8a%e3%81%b8%e3%81%ae%e5%af%be%e7%ad%96%e3%82%92%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e9%9d%a9%e6%96%b0%e7%9a%84/",
+    "title": "MAX User Journey: Innovation in Stopping Bad Ads | AppLovin",
+    "description": "MAX Ad Review's new User Journey feature hands publishers a unique and more efficient way to stop pr",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "b700604fe0bba439d11c8dd9124174e57029a11b",
+    "url": "https://www.applovin.com/ja/blog/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e7%8d%b2%e5%be%97%e5%8a%a0%e9%80%9f%e3%81%ab%e5%90%91%e3%81%91%e3%81%a6%e6%96%b0%e3%81%9f%e3%81%aa%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%82%92/",
+    "title": "7 Do’s and Don’ts for Testing New Networks to Drive UA | AppLovin",
+    "description": "アプリのユーザー獲得を加速させる最善策とは何でしょうか？それはソーシャルメディアというのが、ここ何年にもわたっての答えでした。しかし時を経るにつれ、ソーシャルメディアを通じたユーザー獲得は大幅にコスト",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "7e736252e8459ed9d1d752a96dbc9346f613be34",
+    "url": "https://applovin.com/",
+    "title": "AppLovin | Connect to audiences in-app, on mobile devices, and across streaming TV",
+    "description": "AppLovin connects you to audiences in-app, on mobile devices, across streaming TV, and beyond. Our a",
+    "text": "AI-powered recommendation engine\nAcquire your ideal users\nMonetize your app\nCreate ads that perform\n"
+  },
+  {
+    "id": "39bd90c1d5aa7127e42d2cb9732adf204b73ae0c",
+    "url": "https://www.applovin.com/ja/blog/%e4%b8%8d%e6%ad%a3%e9%98%b2%e6%ad%a2%e3%81%a8-ecpm-%e5%90%91%e4%b8%8a%ef%bc%9a%e3%82%a2%e3%83%97%e3%83%aa%e3%81%ab-app-ads-txt-%e3%82%92%e5%ae%9f%e8%a3%85%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95/",
+    "title": "不正防止と eCPM 向上：アプリに app-ads.txt を実装する方法 | AppLovin",
+    "description": "認定販売者宣言システム（Authorized Sellers for Apps）または app-ads.txt とは、IAB Tech Lab が推進するイニシアチブで、承認されたチャネルでのみアプリ",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "53a1a37e66e44ce41626410d906679ea7a61c52b",
+    "url": "https://www.applovin.com/ja/blog/%e3%82%a2%e3%83%97%e3%83%aa%e5%8f%8e%e7%9b%8a%e5%8c%96%e3%81%ab%e6%9c%80%e3%82%82%e5%8a%b9%e6%9e%9c%e7%9a%84%e3%81%aa%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%a8%e3%81%9d%e3%81%ae/",
+    "title": "アプリ収益化に最も効果的なソフトウェアとその機能 | AppLovin",
+    "description": "アプリ収益化プラットフォームを利用することは、パブリッシャーが広告戦略を最適化し、最終的に収益を増加させるための包括的な方法です。",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "cfc2a3e4156ba6515c92bc339813bae082fcd728",
+    "url": "https://www.applovin.com/ja/blog/%e5%8f%8e%e7%9b%8a%e5%8c%96%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%ef%bc%9a3%e7%a4%be%e3%81%ae%e6%88%90%e5%8a%9f%e4%be%8b/",
+    "title": "収益化のオートメーション：3社の成功例",
+    "description": "モバイル広告では、収益化を自動化するタイミングを見極めることが、コスト削減への一番の近道となるでしょう。この記事では、AppLovin で効率的に収益化のオートメーションを成功させた3つのアプリを紹介",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "6aad0580375ff921e0d4c0f4b586c0fc8fb5e2bf",
+    "url": "https://www.applovin.com/ja/blog/%e5%b9%b4%e6%9c%ab%e5%95%86%e6%88%a6%e3%81%a7%e3%82%a2%e3%83%97%e3%83%aa%e3%81%ae%e5%ba%83%e5%91%8a%e5%8f%8e%e7%9b%8a%e3%82%92%e5%a2%97%e3%82%84%e3%81%99%e3%81%9f%e3%82%81%e3%81%ae6%e3%81%a4%e3%81%ae/",
+    "title": "年末商戦でアプリの広告収益を増やすための6つのステップ | AppLovin",
+    "description": "Q4 presents a huge opportunity to boost app ad revenue through the holiday season and beyond. Here a",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "5878dc1d91ea1717a84d59fe4e715582c2b487ff",
+    "url": "https://www.applovin.com/ja/blog/max-pro-tips-1%ef%bc%9a%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%bc%e3%83%95%e3%83%86%e3%82%a3/",
+    "title": "MAX Pro Tips 1：ブランドセーフティ | AppLovin",
+    "description": "AppLovin のメディエーションプラットフォームである MAX は、業界最大規模かつトップクラスの多様性を誇るデマンドソースと堅牢な機能により、パブリッシャーが収益化の取り組みを強化、最適化するの",
+    "text": "AIベースのレコメンドエンジン\nビジネス成長\nマネタイズ\nクリエイティブスタジオ\nより多くのユーザーにリーチ\nで収益機会を最大化\nマーケティング効果測定\nストリーミングTV ソリューション\nAIベース"
+  },
+  {
+    "id": "8ecf4d989319d9135c7946ca9665af3774c64751",
+    "url": "https://yandex.ru/legal",
+    "title": "Яндекс.Справка",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "dfb8ccc6e52be965576660a82e7f5cba4b813378",
+    "url": "https://yandex.ru/support/id/ru/troubleshooting/forgot-password",
+    "title": "Не помню пароль | Яндекс ID",
+    "description": "Если при входе в аккаунт появилось сообщение о неверном пароле, убедитесь, что: у вас не зажата клав",
+    "text": "Если при входе в аккаунт появилось сообщение о неверном пароле, убедитесь, что:\nу вас не зажата клав"
+  },
+  {
+    "id": "7c02308d46bf1c9d74a6e8152425b5fe7a46b92a",
+    "url": "https://yandex.ru/",
+    "title": "Вы не робот?",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "6177071db0cd29dba8288138711dcc93b1cab9ec",
+    "url": "https://amazonvideo.com/",
+    "title": "Amazon.com Sign up for Prime Video",
+    "description": "Enjoy The Lord of the Rings: The Rings of Power and other Amazon Originals, popular movies, and hit ",
+    "text": "© 1996-2025, Amazon.com, Inc. or its affiliates"
+  },
+  {
+    "id": "092f50a2d722b80d5fad80fefb89559d0c56b3e2",
+    "url": "https://archive.org/",
+    "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5cbe8f8ae8faba2a7b0f77bfa41f78c0bfdcda49",
+    "url": "https://archive.org/details/soundcloud-586083063",
+    "title": "Ep 44 | Testicleless Millennials vs. Birth Strike : Chewing the Fat with Jeff Fisher : Free Download",
+    "description": "Jeffy brings you the news you'll never see covered like testicle man donates to Bernie Sanders and m",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "53a320117a9848708e2da8ad5bc1656302d7976b",
+    "url": "https://archive.org/details/maninuniversesom00brow",
+    "title": "Man in the universe; some continuities in Indian thought [by] W. Norman Brown : Brown, W. Norman (Wi",
+    "description": "Bibliographical references included in Notes: (p.[109]-111 )",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "480a0fd9ae64ea94cb9a295ce043324ac452dd48",
+    "url": "https://archive.org/details/sim_united-states-national-bureau-of-standards-section-b_july-september-1966_70b_3",
+    "title": "United States. National Bureau of Standards. Journal of Research of the National Bureau of Standards",
+    "description": "United States. National Bureau of Standards. Journal of Research of the National Bureau of Standards",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "1426e8dc1da26f8b6ed6d9b14c0bc492b8598d92",
+    "url": "https://archive.org/details/applebaumsgarage00will_0",
+    "title": "Applebaum's garage : Williams, Karen Lynn : Free Download, Borrow, and Streaming : Internet Archive",
+    "description": "168 p. ; 22 cm",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "cf0067e3739cff44e9452bd989524c6bf96467d4",
+    "url": "https://archive.org/details/mindbodydeceptio00dubo",
+    "title": "Mind-body deceptions : Steven L. Dubovsky : Free Download, Borrow, and Streaming : Internet Archive",
+    "description": "",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "00f530d58081d16830973cce24264ec928faa360",
+    "url": "https://archive.org/details/sim_united-states-national-museum-proceedings_1968_124_3631",
+    "title": "United States National Museum Proceedings  1968: Vol 124 Iss 3631 : Free Download, Borrow, and Strea",
+    "description": "United States National Museum Proceedings 1968: Volume 124, Issue 3631.Digitized from IA1630222-05.P",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "2cd46832b7c1931f72b9d25c71ffaebe69d47285",
+    "url": "https://archive.org/details/sim_united-states-national-museum-proceedings_1967_121_3584",
+    "title": "United States National Museum Proceedings  1967: Vol 121 Iss 3584 : Free Download, Borrow, and Strea",
+    "description": "United States National Museum Proceedings 1967: Volume 121, Issue 3584.Digitized from IA1630222-05.P",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "15274752c35f75f405479e5519ae8b6f2d146ead",
+    "url": "https://archive.org/details/marketingexecuti00howa",
+    "title": "Marketing: executive and buyer behavior : Howard, John A : Free Download, Borrow, and Streaming : In",
+    "description": "Includes bibliography",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "30729e95a34c77052e22808008a4410c5482208c",
+    "url": "https://archive.org/details/appetitefordeath0000laur",
+    "title": "Appetite for death : Laurence, Janet : Free Download, Borrow, and Streaming : Internet Archive",
+    "description": "408 pages ; 23 cm",
+    "text": "Ask the publishers to restore access to 500,000+ books.\nSearch the history of over __WB_PAGES_ARCHIV"
+  },
+  {
+    "id": "e296af35bd1a4a8d89270139c37fcb5af64b6630",
+    "url": "https://pki.goog/",
+    "title": "Google Trust Services | Home",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nWe are excited to announce that we now offer publicly-"
+  },
+  {
+    "id": "6e6151921378a14aada91a127f362e1d9b7b2d1a",
+    "url": "https://pki.goog/faq/",
+    "title": "Google Trust Services | FAQ and contact",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nGoogle certificates are issued by different CAs depend"
+  },
+  {
+    "id": "4bd7440e6a542f78da4ffd0ac59d8d696b28c33c",
+    "url": "https://pki.goog/repository/",
+    "title": "Google Trust Services | Repository",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nGoogle Trust Services operates a number of CAs in acco"
+  },
+  {
+    "id": "6c0861a6be1c07f5df971f72da0330e973cfd6d5",
+    "url": "https://pki.goog/services/",
+    "title": "Google Trust Services | Services",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nGoogle Trust Services provides Transport Layer Securit"
+  },
+  {
+    "id": "3f529a4fe6fb819c01ca91d08db2d3f721e89fc4",
+    "url": "https://pki.goog/oids/",
+    "title": "Google OIDs",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bdf320a67a38d3234287bb0f21a1118e397fff5e",
+    "url": "https://pki.goog/testing/",
+    "title": "Google Trust Services | Testing",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nGoogle Trust Services strives to provide the most comp"
+  },
+  {
+    "id": "a4a9054a1209d6c4741a3f3c2288391a519242b4",
+    "url": "https://pki.goog/updates/",
+    "title": "Google Trust Services | Updates",
+    "description": "Google Trust Services",
+    "text": "Trust Services\nJump to Content\nTrust Services\nMay 2023:\n          Google Trust Services - ACME endpo"
   }
 ]

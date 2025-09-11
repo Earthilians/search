@@ -853,5 +853,232 @@
   "okcdn.ru": {
     "lastAt": 1757568271667,
     "urls": []
+  },
+  "telekom.de": {
+    "lastAt": 1757572424919,
+    "urls": [
+      "https://telekom.de/",
+      "https://www.telekom.de/datenschutzhinweise",
+      "https://www.telekom.de/e-mail",
+      "https://www.telekom.de/e-mail/e-mail-center",
+      "https://www.telekom.de/e-mail/e-mail-made-in-germany",
+      "https://www.telekom.de/e-mail/e-mail-siegel",
+      "https://www.telekom.de/apps/voicemail",
+      "https://www.telekom.de/apps",
+      "https://www.telekom.de/e-mail/mail-m",
+      "https://www.telekom.de/apps/meinmagenta-app"
+    ]
+  },
+  "apache.org": {
+    "lastAt": 1757572426056,
+    "urls": [
+      "https://apache.org/"
+    ]
+  },
+  "one.one": {
+    "lastAt": 1757572429113,
+    "urls": [
+      "https://www.one.com/en/",
+      "https://www.one.com/it/",
+      "https://www.one.com/pt/",
+      "https://www.one.com/",
+      "https://one.one/",
+      "https://www.one.com/fr/",
+      "https://www.one.com/da/om-os",
+      "https://www.one.com/es/",
+      "https://www.one.com/pt/sobre-nos",
+      "https://www.one.com/fr/apropos"
+    ]
+  },
+  "app-measurement.com": {
+    "lastAt": 1757572432315,
+    "urls": []
+  },
+  "github.io": {
+    "lastAt": 1757572432941,
+    "urls": [
+      "https://github.io/"
+    ]
+  },
+  "outlook.com": {
+    "lastAt": 1757572472564,
+    "urls": []
+  },
+  "criteo.com": {
+    "lastAt": 1757572478771,
+    "urls": [
+      "https://www.criteo.com/blog/",
+      "https://www.criteo.com/blog/will-retailers-brand-utilize-omnichannel/",
+      "https://www.criteo.com/blog/difference-will-omnichannel-make-shoppers/",
+      "https://www.criteo.com/blog/omnichannel-hot-right-now/",
+      "https://www.criteo.com/blog/unconventional-solutions-unconventional-new-world-order-open-letter-worlds-retailers-brands/",
+      "https://www.criteo.com/blog/incorporate-ad-viewability-kpis-data-series-part-3/",
+      "https://criteo.com/",
+      "https://www.criteo.com/blog/smart-marketers-guide-google-shopping/",
+      "https://www.criteo.com/blog/global-commerce-review-q3-2017-brazil-br/",
+      "https://www.criteo.com/blog/amazon-goes-offline/"
+    ]
+  },
+  "nist.gov": {
+    "lastAt": 1757572484489,
+    "urls": [
+      "https://nist.gov/"
+    ]
+  },
+  "dropbox.com": {
+    "lastAt": 1757572489645,
+    "urls": [
+      "https://dropbox.com/",
+      "https://www.dropbox.com/it/business/solutions",
+      "https://www.dropbox.com/es_ES/business/tour/cloud-security-control",
+      "https://www.dropbox.com/es_ES/business/tour/administrative-tools",
+      "https://www.dropbox.com/ko/business/tour/online-backup",
+      "https://www.dropbox.com/guide/business/highlights/three-advanced-features",
+      "https://www.dropbox.com/ja/business/app-integrations",
+      "https://www.dropbox.com/de/business/trust",
+      "https://www.dropbox.com/ja/business/faqs",
+      "https://www.dropbox.com/pt_BR/business/technology-partners"
+    ]
+  },
+  "gravatar.com": {
+    "lastAt": 1757572490877,
+    "urls": [
+      "https://gravatar.com/",
+      "https://gravatar.com/link-in-bio",
+      "https://gravatar.com/custom-domains",
+      "https://gravatar.com/plugin",
+      "https://gravatar.com/teams",
+      "https://gravatar.com/site/translations",
+      "https://gravatar.com/site/check"
+    ]
+  },
+  "adriver.ru": {
+    "lastAt": 1757572495096,
+    "urls": [
+      "https://www.adriver.ru/articles_845/",
+      "https://www.adriver.ru/articles_856/",
+      "https://www.adriver.ru/articles_849/",
+      "https://www.adriver.ru/news/news_500/",
+      "https://adriver.ru/",
+      "https://www.adriver.ru/viewability/",
+      "https://www.adriver.ru/news/news_501/",
+      "https://www.adriver.ru/news/news_502/",
+      "https://www.adriver.ru/news/news_504/",
+      "https://www.adriver.ru/news/news_506"
+    ]
+  },
+  "rbxcdn.com": {
+    "lastAt": 1757572498371,
+    "urls": []
+  },
+  "adnxs.com": {
+    "lastAt": 1757572501372,
+    "urls": []
+  },
+  "cdn77.org": {
+    "lastAt": 1757572504286,
+    "urls": []
+  },
+  "xiaomi.com": {
+    "lastAt": 1757572513343,
+    "urls": []
+  },
+  "app-analytics-services.com": {
+    "lastAt": 1757572516909,
+    "urls": []
+  },
+  "tumblr.com": {
+    "lastAt": 1757572518154,
+    "urls": [
+      "https://tumblr.com/"
+    ]
+  },
+  "3gppnetwork.org": {
+    "lastAt": 1757572521128,
+    "urls": []
+  },
+  "applovin.com": {
+    "lastAt": 1757572527872,
+    "urls": [
+      "https://www.applovin.com/blog/",
+      "https://www.applovin.com/ja/blog/%e5%8a%b9%e6%9e%9c%e7%9a%84%e3%81%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b9%e3%83%88%e3%82%a2%e3%81%ae%e8%aa%ac%e6%98%8e%e6%96%87%e3%81%ae%e6%9b%b8%e3%81%8d%e6%96%b9%e3%81%a8%e3%81%af%ef%bc%9f/",
+      "https://www.applovin.com/ja/blog/max-user-journey%ef%bc%9a%e4%b8%8d%e9%81%a9%e5%88%87%e5%ba%83%e5%91%8a%e3%81%b8%e3%81%ae%e5%af%be%e7%ad%96%e3%82%92%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e9%9d%a9%e6%96%b0%e7%9a%84/",
+      "https://www.applovin.com/ja/blog/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e7%8d%b2%e5%be%97%e5%8a%a0%e9%80%9f%e3%81%ab%e5%90%91%e3%81%91%e3%81%a6%e6%96%b0%e3%81%9f%e3%81%aa%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%82%92/",
+      "https://applovin.com/",
+      "https://www.applovin.com/ja/blog/%e4%b8%8d%e6%ad%a3%e9%98%b2%e6%ad%a2%e3%81%a8-ecpm-%e5%90%91%e4%b8%8a%ef%bc%9a%e3%82%a2%e3%83%97%e3%83%aa%e3%81%ab-app-ads-txt-%e3%82%92%e5%ae%9f%e8%a3%85%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95/",
+      "https://www.applovin.com/ja/blog/%e3%82%a2%e3%83%97%e3%83%aa%e5%8f%8e%e7%9b%8a%e5%8c%96%e3%81%ab%e6%9c%80%e3%82%82%e5%8a%b9%e6%9e%9c%e7%9a%84%e3%81%aa%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%a8%e3%81%9d%e3%81%ae/",
+      "https://www.applovin.com/ja/blog/%e5%8f%8e%e7%9b%8a%e5%8c%96%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%ef%bc%9a3%e7%a4%be%e3%81%ae%e6%88%90%e5%8a%9f%e4%be%8b/",
+      "https://www.applovin.com/ja/blog/%e5%b9%b4%e6%9c%ab%e5%95%86%e6%88%a6%e3%81%a7%e3%82%a2%e3%83%97%e3%83%aa%e3%81%ae%e5%ba%83%e5%91%8a%e5%8f%8e%e7%9b%8a%e3%82%92%e5%a2%97%e3%82%84%e3%81%99%e3%81%9f%e3%82%81%e3%81%ae6%e3%81%a4%e3%81%ae/",
+      "https://www.applovin.com/ja/blog/max-pro-tips-1%ef%bc%9a%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%bc%e3%83%95%e3%83%86%e3%82%a3/"
+    ]
+  },
+  "spov-msedge.net": {
+    "lastAt": 1757572530759,
+    "urls": []
+  },
+  "steamserver.net": {
+    "lastAt": 1757572534325,
+    "urls": []
+  },
+  "tiktokcdn-us.com": {
+    "lastAt": 1757572537451,
+    "urls": []
+  },
+  "yandex.ru": {
+    "lastAt": 1757572550297,
+    "urls": [
+      "https://yandex.ru/legal",
+      "https://yandex.ru/support/id/ru/troubleshooting/forgot-password",
+      "https://yandex.ru/"
+    ]
+  },
+  "trbcdn.net": {
+    "lastAt": 1757572555524,
+    "urls": []
+  },
+  "ggpht.com": {
+    "lastAt": 1757572558439,
+    "urls": []
+  },
+  "epicgames.com": {
+    "lastAt": 1757572562580,
+    "urls": []
+  },
+  "amazonvideo.com": {
+    "lastAt": 1757572564447,
+    "urls": [
+      "https://amazonvideo.com/"
+    ]
+  },
+  "archive.org": {
+    "lastAt": 1757572569985,
+    "urls": [
+      "https://archive.org/",
+      "https://archive.org/details/soundcloud-586083063",
+      "https://archive.org/details/maninuniversesom00brow",
+      "https://archive.org/details/sim_united-states-national-bureau-of-standards-section-b_july-september-1966_70b_3",
+      "https://archive.org/details/applebaumsgarage00will_0",
+      "https://archive.org/details/mindbodydeceptio00dubo",
+      "https://archive.org/details/sim_united-states-national-museum-proceedings_1968_124_3631",
+      "https://archive.org/details/sim_united-states-national-museum-proceedings_1967_121_3584",
+      "https://archive.org/details/marketingexecuti00howa",
+      "https://archive.org/details/appetitefordeath0000laur"
+    ]
+  },
+  "pki.goog": {
+    "lastAt": 1757572570838,
+    "urls": [
+      "https://pki.goog/",
+      "https://pki.goog/faq/",
+      "https://pki.goog/repository/",
+      "https://pki.goog/services/",
+      "https://pki.goog/oids/",
+      "https://pki.goog/testing/",
+      "https://pki.goog/updates/"
+    ]
+  },
+  "miit.gov.cn": {
+    "lastAt": 1757572577733,
+    "urls": []
   }
 }
