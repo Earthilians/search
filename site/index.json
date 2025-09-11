@@ -6830,5 +6830,670 @@
     "title": "Apple",
     "description": "",
     "text": "Get to know the next generation of iPhone — iPhone 17 Pro, iPhone 17, and the all-new iPhone Air. Ex"
+  },
+  {
+    "id": "96b2294a95e4091264a81bb66297c25e15aa803d",
+    "url": "https://www.tradingview.com/etf-screener/",
+    "title": "ETF Screener: Browse Exchange-Traded Funds — TradingView",
+    "description": "Use our ETF screener to filter exchange-traded funds by country, net asset value, and other key stat",
+    "text": ""
+  },
+  {
+    "id": "064ff0a0521ebb08be8e15f8a622ccebc65890c1",
+    "url": "https://www.tradingview.com/bond-screener/",
+    "title": "Bond Screener: Explore Fixed Income Opportunities — TradingView",
+    "description": "Browse world's government and corporate bonds from the convenience of our Bond Screener. Scan prices",
+    "text": ""
+  },
+  {
+    "id": "7e2f2b280ffa36526f176463074e5e9ce4466b5c",
+    "url": "https://www.tradingview.com/cex-screener/",
+    "title": "CEX Screener: Centralized Exchanges Pairs — TradingView",
+    "description": "Browse crypto pairs traded on centralized exchanges: BTCUSD, ETHUSD, etc. Analyze price dynamics, ch",
+    "text": ""
+  },
+  {
+    "id": "57b3cf43c3f77ad84df96ad1f1a6226219f5cdc2",
+    "url": "https://www.tradingview.com/dex-screener/",
+    "title": "DEX Screener: Scan Decentralized Finance — TradingView",
+    "description": "See crypto pairs traded on decentralized exchanges in our screener. Find those with the most transac",
+    "text": ""
+  },
+  {
+    "id": "9877bdbe0eee2f36e797d6ab388465cf7d4b67f7",
+    "url": "https://tradingview.com/",
+    "title": "TradingView — Track All Markets",
+    "description": "Where the world charts, chats, and trades markets. We're a supercharged super-charting platform and ",
+    "text": "The best trades require research, then commitment.\nJoin 100 million traders and investors taking the"
+  },
+  {
+    "id": "4afe9c7fc1361095b9fc3276b424c798659fc565",
+    "url": "https://www.tradingview.com/forex-screener/",
+    "title": "Forex Screener: Find Best Trading Opportunities — TradingView",
+    "description": "Forex Screener lets you scan the Forex market to find best trading opportunities.",
+    "text": ""
+  },
+  {
+    "id": "6eda85191acb52b54e2d3b57094770e5a21732b7",
+    "url": "https://www.tradingview.com/pine-screener/",
+    "title": "Pine Screener — Scan Markets with Your Scripts — TradingView",
+    "description": "Boost your research with the Pine Screener: scan assets with pre-built indicators or use your own sc",
+    "text": ""
+  },
+  {
+    "id": "f5d2c9deaa0ff95448e5ad19c1f60f9da24bd59a",
+    "url": "https://www.tradingview.com/heatmap/etf/",
+    "title": "ETF Heatmap — Exchange-Traded Funds — TradingView",
+    "description": "Use our ETF Heatmap to view AUM and performance of all exchange-traded funds. Filter them by dividen",
+    "text": ""
+  },
+  {
+    "id": "d4184feec321445bd4a434d99119025bc78a8a72",
+    "url": "https://www.tradingview.com/heatmap/stock/",
+    "title": "Stock Heatmap — TradingView",
+    "description": "Get the detailed view of the world stocks included into S&P 500, Dow Jones, or local indices. Group ",
+    "text": ""
+  },
+  {
+    "id": "246b542112a98280c758ff1ff47fa4bec28108f2",
+    "url": "https://www.tradingview.com/heatmap/crypto/",
+    "title": "Cryptocurrency Heatmap — TradingView",
+    "description": "Watch the heatmap of cryptocurrencies with their market capitalization. Track available coins and tr",
+    "text": ""
+  },
+  {
+    "id": "2f7e64d54273fe1d86daec1a1570c6553aa69af6",
+    "url": "https://www.sharethrough.com/",
+    "title": "Sharethrough — Human-Centric Programmatic Advertising",
+    "description": "Sharethrough is an omnichannel supply side platform underpinned by advanced RTB tech & enhanced ad e",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "8994ce6234a24d95da4501e6606d0817d742e070",
+    "url": "https://www.sharethrough.com/infographics/10-facts-strategies-for-back-to-school",
+    "title": "[Infographic] 10 Facts & Strategies For Back-to-School — Sharethrough",
+    "description": "We've compiled helpful stats and strategies for brands to reach their target audience for back-to-sc",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "cfa515134e4ae1bd3a1feb87df2b0bead5bfcbc6",
+    "url": "https://www.sharethrough.com/blog",
+    "title": "Blog — Sharethrough",
+    "description": "The Sharethrough Blog allows you to stay up-to-date on our last product updates, case studies and ma",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "de4a7c9141835775c54a35f7d4a7f255dbb2ada8",
+    "url": "https://www.sharethrough.com/campaigns/1-most-reliable-ssp-against-malvertising",
+    "title": "#1 SSP Against Malvertising — Sharethrough",
+    "description": "Sharethrough is recognized by latest Confiant Inc Malvertising Ad Quality Benchmark Report as the mo",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "70b0ca8e21617c48adf6de05baddc47d27a8aef8",
+    "url": "https://sharethrough.com/",
+    "title": "Sharethrough — Human-Centric Programmatic Advertising",
+    "description": "Sharethrough is an omnichannel supply side platform underpinned by advanced RTB tech & enhanced ad e",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "b2c788b478d5c0385216279367261a91f9b91818",
+    "url": "https://www.sharethrough.com/cannes-2022",
+    "title": "Cannes 2022 — Sharethrough",
+    "description": "The countdown to Cannes 2022 is on! Meet the Sharethrough team on location during a 1-hr boat ride i",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "e4420e2b06b99113c74a672ecfe91efb28a6d51d",
+    "url": "https://www.sharethrough.com/calibrate",
+    "title": "Calibrate — Sharethrough",
+    "description": "Calibrate is a yearly conference hosted by Sharethrough for new engineering managers hosted by seaso",
+    "text": "A conference for new engineering leaders hosted by seasoned engineering leaders.\n\"It was invaluable "
+  },
+  {
+    "id": "d9dd7bffa02e42e2a1a53455d2eae4a837151e95",
+    "url": "https://www.sharethrough.com/cannes-2023",
+    "title": "Cannes 2023 — Sharethrough",
+    "description": "The countdown to Cannes 2023 is on! The Sharethrough team is once again excited to return to Cannes ",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "bbd81adb8c549e2ef8ca9c9707251d9b342e7119",
+    "url": "https://www.sharethrough.com/carbon-emissions-estimator",
+    "title": "Carbon Emissions Estimator — Sharethrough",
+    "description": "The carbon emissions estimator is a tool that provides you with an estimation of CO2 emissions gener",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "243ee361dad07245452b85586b8eb8246240cb7c",
+    "url": "https://www.sharethrough.com/careers/career-opportunities",
+    "title": "Career Opportunities — Sharethrough",
+    "description": "We’re always looking for more hands on deck. Learn more about our available job opportunities to joi",
+    "text": "Achieve your campaign goals with enhanced ads that deliver better performance across our direct and "
+  },
+  {
+    "id": "82bc1a36a8b1d7072bb5eb2eb2a2442446754c1c",
+    "url": "https://alibaba.com/",
+    "title": "Alibaba.com: Manufacturers, Suppliers, Exporters & Importers from the world's largest online B2B mar",
+    "description": "Find quality Manufacturers, Suppliers, Exporters, Importers, Buyers, Wholesalers, Products and Trade",
+    "text": "Founded in 1999, Alibaba.com is the leading B2B e-commerce platform for simplified global sourcing.\n"
+  },
+  {
+    "id": "faef134eb1438c2a1cfbd46c71a61abe4d48d373",
+    "url": "https://php.net/",
+    "title": "PHP",
+    "description": "",
+    "text": "A popular general-purpose scripting language that is especially suited to web development.Fast, flex"
+  },
+  {
+    "id": "7b7e59024cca20136573a9998e010dca99e94f52",
+    "url": "http://php.net/archive/",
+    "title": "PHP: News Archive - 2025",
+    "description": "",
+    "text": "Here are the most important news items we have published in 2025 on PHP.net.\nPHPKonf 2025 will take "
+  },
+  {
+    "id": "3a29525d929363b0843d8e9ae12e652d59bf10d6",
+    "url": "http://php.net/cal.php",
+    "title": "PHP: Events: September 2025",
+    "description": "",
+    "text": "If you would like to suggest an upcoming event to be listed on this\n  calendar, you can use our even"
+  },
+  {
+    "id": "de0fae28c6baf3e67a5cac8a8f4d94d05bea8a6f",
+    "url": "http://php.net/",
+    "title": "PHP",
+    "description": "",
+    "text": "A popular general-purpose scripting language that is especially suited to web development.Fast, flex"
+  },
+  {
+    "id": "643d3a5943855853ee123dd71aa8a8d333e986ff",
+    "url": "http://php.net/ChangeLog-5.php",
+    "title": "PHP: PHP 5 ChangeLog",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ec3a4e8802cd9e4505e16817458f7b0d8f030e09",
+    "url": "http://php.net/ChangeLog-4.php",
+    "title": "PHP: PHP 4 ChangeLog",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c7d754c955c2f03de54a5b72da695ae6195bf075",
+    "url": "http://php.net/ChangeLog-7.php",
+    "title": "PHP: PHP 7 ChangeLog",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "53db0b62a9926062e544a2a8da30cb243a4372bf",
+    "url": "http://php.net/conferences/",
+    "title": "PHP: PHP Conferences around the world",
+    "description": "",
+    "text": "PHPKonf 2025 will take place on October 26, 2025 in Baku, Azerbaijan, bringing together PHP develope"
+  },
+  {
+    "id": "63fba73629171a821d81a76d473fc48336f96b86",
+    "url": "http://php.net/contact.php",
+    "title": "PHP: Contact",
+    "description": "",
+    "text": "The maintainers of PHP.net are definitely not interested in graphical\n banner or text ad placement d"
+  },
+  {
+    "id": "f5ce6b426767f36f55d5e69ecda6276f0f44c517",
+    "url": "http://php.net/copyright.php",
+    "title": "PHP: Copyright",
+    "description": "",
+    "text": "The code, text, PHP logo, and graphical elements on this website\n and the mirror websites (the \"Site"
+  },
+  {
+    "id": "4dae0666bb4bd2d0ec7aae112fccbdd122684898",
+    "url": "https://ys7.com/",
+    "title": "萤石商城-智能家居-摄像机-视频锁-智能机器人-萤石云服务",
+    "description": "萤石商城是萤石旗下自营电商品牌，提供萤石摄像机、智能锁、猫眼门铃、网关传感、儿童陪护、生活电器、智能照明、全屋方案等智能家居产品和服务",
+    "text": "￥499 起\n￥399 起\n￥599 起\n￥399 起\n￥499 起\n￥179 起\n￥309 起\n￥799\n￥299 起\n￥219 起\n￥399 起\n￥1899\n￥2199\n￥2999\n￥1599 起"
+  },
+  {
+    "id": "1b3d2fc0ddf1d4ee9d92b78aaaf74acfc59b16b4",
+    "url": "https://www.opendns.com/",
+    "title": "Cloud Delivered Enterprise Security by OpenDNS",
+    "description": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service",
+    "text": "OpenDNS is now part of Cisco  Learn More\nCisco Umbrella provides protection against threats on the i"
+  },
+  {
+    "id": "3fe826c5ffd828c5f86a42cc4b1204f3155182ad",
+    "url": "https://www.opendns.com/opendns-smartcache/",
+    "title": "SmartCache | OpenDNS",
+    "description": "SmartCache is a DNS record handling technology invented by OpenDNS that allows users of our service ",
+    "text": "OpenDNS is now part of Cisco  Learn More\nSmartCache is a DNS record handling technology invented by "
+  },
+  {
+    "id": "ed407157e2b2d888558c65a9d43c3ecccf6161b7",
+    "url": "https://www.opendns.com/home-internet-security/",
+    "title": "Home Internet Security | OpenDNS",
+    "description": "OpenDNS is the easiest way to make your Internet safer, faster and more reliable. Protect your famil",
+    "text": "OpenDNS is now part of Cisco  Learn More\nThe easiest way to make your internet faster, safer, and mo"
+  },
+  {
+    "id": "c7fc580d2717d9d75130a7bcb832fe268e736bfb",
+    "url": "https://opendns.com/",
+    "title": "Cloud Delivered Enterprise Security by OpenDNS",
+    "description": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service",
+    "text": "OpenDNS is now part of Cisco  Learn More\nCisco Umbrella provides protection against threats on the i"
+  },
+  {
+    "id": "7d627ebee04671e44e343753acc4088b0ff2c409",
+    "url": "https://www.opendns.com/data-center-locations/",
+    "title": "Data Center Locations | OpenDNS",
+    "description": "Our global data centers help secure businesses and homes, delivering the fastest, most reliable DNS ",
+    "text": "OpenDNS is now part of Cisco  Learn More\nOur geographically distributed data centers enforce securit"
+  },
+  {
+    "id": "b80c9e9b6e197c458ddb203ba552c08393e358fa",
+    "url": "https://www.opendns.com/cisco-opendns/ceo-letter-to-employees/",
+    "title": "Letter to Employees | OpenDNS",
+    "description": "Team – You’re going to read in the news this morning (or afternoon for the London team) that we’ve e",
+    "text": "OpenDNS is now part of Cisco  Learn More\nTeam –\nYou’re going to read in the news this morning (or af"
+  },
+  {
+    "id": "999c8302a0ebc243c88887865dc02cc8c22f7bd5",
+    "url": "https://www.opendns.com/support/",
+    "title": "OpenDNS Support",
+    "description": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service",
+    "text": "OpenDNS is now part of Cisco  Learn More\nPopular topics:\n\t\t\t\t\t\tConfiguring a Router for OpenDNS,\n\t\t\t"
+  },
+  {
+    "id": "0528f948badec9036791ff75a0935c318b737602",
+    "url": "https://www.opendns.com/support-search/",
+    "title": "Support Search | OpenDNS",
+    "description": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service",
+    "text": "OpenDNS is now part of Cisco  Learn More\n© OpenDNS, 2025208.67.222.222 · 208.67.220.220"
+  },
+  {
+    "id": "959a663da0230c99241fe3344915b9abb3d0bce2",
+    "url": "https://www.opendns.com/search/",
+    "title": "Search | OpenDNS",
+    "description": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service",
+    "text": "OpenDNS is now part of Cisco  Learn More\n© OpenDNS, 2025208.67.222.222 · 208.67.220.220"
+  },
+  {
+    "id": "4c34d4978a42e0e9327609668c68e8fbff4a4391",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/efl",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "408b01d87b01b683e02f8073a222673daa929d60",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/mode-reward-changes",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "c0b50ae298008f54816172eeba4410017d3c70fc",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/saudi-pro-league",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "08cd453190711b440dcdf34e9cb72946f4110d4a",
+    "url": "https://ea.com/",
+    "title": "Electronic Arts Home Page - Official EA Site",
+    "description": "We exist to inspire the world through Play. Electronic Arts is a leading publisher of games on Conso",
+    "text": "The Club is Yours up to 7 days early, get FC Points and more when you pre-order EA SPORTS FC™ 26 Ult"
+  },
+  {
+    "id": "0f2a5af55fb01709d083c9eaa4592a676c78b63b",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/serie-a-tim",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "b03dd9caf2d1269e0f6d70c6ed35ee180512e0b7",
+    "url": "https://www.ea.com/ar-sa/games/f1/f1-23/pc-system-requirements",
+    "title": "سلسلة F1®‎ - لعبة الفيديو الرسمية لبطولة FIA Formula One World Championship™‎",
+    "description": "سلسلة F1®‎ الحائزة على الجوائز هي لعبة الفيديو الرسمية لبطولة FIA Formula One World Championship™‎، ",
+    "text": "سلسلة F1®‎ الحائزة على الجوائز هي لعبة الفيديو الرسمية لبطولة FIA Formula One World Championship™‎، "
+  },
+  {
+    "id": "bb4ac5243b5fa1280e4433b4ca48351209a5f201",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/bundesliga",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "4c986b7ceda119e088cc64e7efb826b337a9c4e0",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/eredivisie",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "ceefd34928c75b17ea27b937b5c23d2aeedbe6fd",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/laliga-santander",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "a953395dad5e1eba922b7ca6ed803b15d778cc9e",
+    "url": "https://www.go.com/",
+    "title": "Go.com | The Walt Disney Company",
+    "description": "Go.com is the top-level home on the Internet to the online properties of The Walt Disney Company.",
+    "text": "Menu\nMy Disney Experience - Walt Disney Resort\nDiscover the tools to plan and share your Disney Worl"
+  },
+  {
+    "id": "0f4f484d8c44eb2e13d338906fd8709595552f8f",
+    "url": "https://go.com/",
+    "title": "Go.com | The Walt Disney Company",
+    "description": "Go.com is the top-level home on the Internet to the online properties of The Walt Disney Company.",
+    "text": "Menu\nMy Disney Experience - Walt Disney Resort\nDiscover the tools to plan and share your Disney Worl"
+  },
+  {
+    "id": "3455433e69f6f49a1fa5f083027a073a0c3c7262",
+    "url": "https://www.dailymotion.com/video/x8jggli",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5d892424995e7887ecf674f326265d00461033fd",
+    "url": "https://www.dailymotion.com/video/x8q3dek",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2d44ca7a3556bc06b61379ac2d2992a6fae0b399",
+    "url": "https://www.dailymotion.com/video/x8u0pkg",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5c672733d562c02b49f6d99c68a32550ec6537dc",
+    "url": "https://dailymotion.com/",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "cf42a7698b848f131529eb924df5815bd5587b38",
+    "url": "https://www.dailymotion.com/video/x95vk9c",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ba6916defac74a8789ebee84b8c5b96d1a8c6f9c",
+    "url": "https://www.dailymotion.com/video/x9657nw",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4f7d652058948ce0feb316b6a52347782f9a7650",
+    "url": "https://www.dailymotion.com/video/x960yrk",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "182c7dd1904968b0a47de7bcba4524d558cc3f60",
+    "url": "https://www.dailymotion.com/video/x969gne",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3f1b9a3514235d817d14176a495864c443806115",
+    "url": "https://www.dailymotion.com/video/x98dj1q",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "9095980dbb141977f7a5799ce15ba3afa96e9191",
+    "url": "https://www.dailymotion.com/video/x98pagg",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d4331fd6b710ad158afb55e833f8fb408d4f8512",
+    "url": "https://booking.com/",
+    "title": "Booking.com | Official site | The best hotels, flights, car rentals & accommodations",
+    "description": "Explore the world with Booking.com. Big savings on homes, hotels, flights, car rentals, taxis, and a",
+    "text": "From cozy bed & breakfasts to luxury hotels\nFREE cancellation on most rooms\nHotels, guest houses, ap"
+  },
+  {
+    "id": "3562d5fd6ed9b4149e5ea8b6c8f20e4f14b7ecc3",
+    "url": "https://www.booking.com/airport/us/ord.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Quốc tế Chicago O'Hare (ORD) | Booking.com",
+    "description": "Các khách sạn gần Sân bay Quốc tế Chicago O'Hare ORD, us. Tiết kiệm đến 75% cho viêc đặt phòng của b",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Rosemont\n( 30 m)\nLocat"
+  },
+  {
+    "id": "84fe8898126f5798baf84e7269a5cce14d197e5e",
+    "url": "https://www.booking.com/airport/us/lax.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Quốc tế Los Angeles (LAX) | Booking.com",
+    "description": "Các khách sạn gần Sân bay Quốc tế Los Angeles LAX, us. Tiết kiệm đến 75% cho viêc đặt phòng của bạn.",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở LAX Area, Los Angeles\n"
+  },
+  {
+    "id": "66cf857a2b3c827312c36cf841b606a357c2a205",
+    "url": "https://www.booking.com/airport/us/atl.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Quốc tế Hartsfield-Jackson (ATL), Atlanta | Booking.com",
+    "description": "Các khách sạn gần Sân bay Quốc tế Hartsfield-Jackson ATL, us. Tiết kiệm đến 75% cho viêc đặt phòng c",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Atlanta\n( 1,5 km)\nNext"
+  },
+  {
+    "id": "e5368ad3932b256338225efcf83b663613e6817e",
+    "url": "https://www.booking.com/airport/gb/lhr.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay London Heathrow (LHR) | Booking.com",
+    "description": "Các khách sạn gần Sân bay London Heathrow LHR, gb. Tiết kiệm đến 75% cho viêc đặt phòng của bạn. Đặt",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Hillingdon\n( 0,2 km)\nH"
+  },
+  {
+    "id": "8f3b8015b78af46be89073552395d1a0d11beb63",
+    "url": "https://www.booking.com/airport/jp/hnd.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Haneda (HND), Tokyo | Booking.com",
+    "description": "Các khách sạn gần Sân bay Haneda HND, jp. Tiết kiệm đến 75% cho viêc đặt phòng của bạn. Đặt phòng tr",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Quận Ota, Tokyo\n( 1,1 "
+  },
+  {
+    "id": "7af6935aaf53336dab5087c7156d75b517a4c31f",
+    "url": "https://www.booking.com/airport/de/fra.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Frankfurt (FRA), Frankfurt am Main | Booking.com",
+    "description": "Các khách sạn gần Sân bay Frankfurt FRA, de. Tiết kiệm đến 75% cho viêc đặt phòng của bạn. Đặt phòng",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Frankfurt Airport Area"
+  },
+  {
+    "id": "8e18603bc1fb10506d7e6e75793756223b926615",
+    "url": "https://www.booking.com/airport/us/dfw.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Quốc tế Dallas-Fort Worth (DFW) | Booking.com",
+    "description": "Các khách sạn gần Sân bay Quốc tế Dallas-Fort Worth DFW, us. Tiết kiệm đến 75% cho viêc đặt phòng củ",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Irving\n( 0,2 km)\nFeatu"
+  },
+  {
+    "id": "446fa3957475579c02e67a5c79bd77f0a4411540",
+    "url": "https://www.booking.com/airport/nl/ams.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Schiphol (AMS), Amsterdam | Booking.com",
+    "description": "Các khách sạn gần Sân bay Schiphol AMS, nl. Tiết kiệm đến 75% cho viêc đặt phòng của bạn. Đặt phòng ",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Schiphol\n( 0,2 km)\nYOT"
+  },
+  {
+    "id": "88fd20222c89f8014621c515751fedcd784209d2",
+    "url": "https://www.booking.com/airport/fr/cdg.vi.html",
+    "title": "10 khách sạn gần nhất tới Sân bay Paris - Charles de Gaulle (CDG) | Booking.com",
+    "description": "Các khách sạn gần Sân bay Paris - Charles de Gaulle CDG, fr. Tiết kiệm đến 75% cho viêc đặt phòng củ",
+    "text": "Xem giá và ưu đãi mới nhất bằng cách chọn ngày lưu trú. Chọn ngày\nKhách sạn ở Roissy-en-France\n( 0,4"
+  },
+  {
+    "id": "430500c1ac37d75455f8d3b07f0328c3788e5401",
+    "url": "https://aol.com/",
+    "title": "News, Politics, Sports, Mail & Latest Headlines - AOL.com",
+    "description": "Discover the latest breaking news in the U.S. and around the world — politics, weather, entertainmen",
+    "text": "For premium support please call:\nFor premium support please call:\nAdvertisement\nTV Insider\nEntertain"
+  },
+  {
+    "id": "5e9c5708e3b465b80234ae12a2a5b245b0bf95d2",
+    "url": "https://www.aol.com/article/entertainment/2018/06/14/world-cup-robbie-williams-flips-off-the-camera-at-the-opening-ceremony/23459343/",
+    "title": "Robbie Williams flips off the camera at the World Cup",
+    "description": "Robbie Williams showed the entire world his middle finger while performing at the World Cup opening ",
+    "text": "For premium support please call:\nFor premium support please call:\nGiving the world the middle finger"
+  },
+  {
+    "id": "a48c71ae5dfa8bef743fc6067f0662cd8bd80c74",
+    "url": "https://www.aol.com/article/2016/03/09/people-in-asia-are-paying-24-000-a-year-to-work-out-at-these-la/21325223/",
+    "title": "People in Asia are paying $24,000 a year to work out at these lavish gyms -- here's what they look l",
+    "description": "With 24 locations in Vietnam, Centuryon memberships start at $8,000 and can go up to $24,000, depend",
+    "text": "For premium support please call:\nFor premium support please call:\nIn Asia, people are paying as much"
+  },
+  {
+    "id": "59557096feae00a07b70e67332fc56c71420599c",
+    "url": "https://www.aol.com/article/news/2017/04/12/kansas-republican-wins-congressional-seat-in-special-election/22036954/",
+    "title": "Kansas Republican wins congressional seat in special election",
+    "description": "Ron Estes defeated James Thompson to win a Congressional seat in a race that became an unlikely test",
+    "text": "For premium support please call:\nFor premium support please call:\nKANSAS CITY, Kan. April 11 (Reuter"
+  },
+  {
+    "id": "62762a6bdf76978118053b7922763c75e94da3f9",
+    "url": "https://www.aol.com/article/lifestyle/2017/11/21/melania-trump-kicks-off-the-holiday-season-at-the-white-house-in-casual-calvin-klein-look/23284305/",
+    "title": "Melania Trump kicks off the holiday season at the White House in casual Calvin Klein look",
+    "description": "Melania Trump and her 11-year-old son Barron stepped out on Monday for the arrival of the official W",
+    "text": "For premium support please call:\nFor premium support please call:\nThe first family is already gettin"
+  },
+  {
+    "id": "d81dd61fbc1824d59c9b31a0e451adbe1e7e3dd1",
+    "url": "https://www.aol.com/2013/05/01/2-different-formulas-for-gold-miners/",
+    "title": "2 Different Formulas for Gold Miners",
+    "description": "With all of the hoopla surrounding gold's price collapse over the past seven months, miners have bee",
+    "text": "For premium support please call:\nFor premium support please call:\nWith all of the hoopla surrounding"
+  },
+  {
+    "id": "15f2ae8a5d87c834445ba822dcd553c1e696fe3f",
+    "url": "https://www.aol.com/article/lifestyle/2018/11/04/over-20-stylish-pairs-of-jeans-youll-love-at-every-price-point/23531298/",
+    "title": "Over 20 stylish pairs of jeans you'll love at every price point",
+    "description": "From brands like Joe's, American Eagle and Everlane, these are the coolest jeans of the season.",
+    "text": "For premium support please call:\nFor premium support please call:\nWhen we think of fall, we think of"
+  },
+  {
+    "id": "5d86f9812d577923815fb3455352da1ef1d497dc",
+    "url": "https://www.aol.com/article/entertainment/2019/02/24/oscars-2019-jennifer-lopez-wears-mirrored-gown-alongside-alex-rodriguez-on-at-the-91st-academy-awards/23676986/",
+    "title": "Oscars 2019: Jennifer Lopez wears mirrored gown alongside Alex Rodriguez on at the 91st Academy Awar",
+    "description": "Jennifer Lopez and boyfriend Alex Rodrigez were the power couple of the night at the 2019 Academy Aw",
+    "text": "For premium support please call:\nFor premium support please call:\nYou don't have to be nominated for"
+  },
+  {
+    "id": "6a9d48cf36d5366a76506ed42dfe9efba6078799",
+    "url": "https://www.aol.com/article/2016/03/16/13-celebrities-who-are-actually-irish/21328984/",
+    "title": "13 celebrities who are actually Irish",
+    "description": "Call it the luck o' the Irish for these famous faces who struck gold with successful careers in Holl",
+    "text": "For premium support please call:\nFor premium support please call:\nCall it the luck o' the Irish for "
+  },
+  {
+    "id": "c6f269bd0d622b620363194d5ee4b6db317a10a0",
+    "url": "https://www.aol.com/article/finance/2016/09/07/starbucks-ceo-endorses-hillary-clinton/21467285/",
+    "title": "Starbucks CEO endorses Hillary Clinton",
+    "description": "Schultz has long been outspoken about his political and social views, but this is the first time he ",
+    "text": "For premium support please call:\nFor premium support please call:\nStarbucks CEO Howard Schultz has e"
+  },
+  {
+    "id": "2d3ecb0ca9856aff54f60ab66e066dcf11e226ac",
+    "url": "https://smartadserver.com/",
+    "title": "Equativ — The Global End-to-End Media Platform",
+    "description": "From signal to outcomes, at scale. Equativ brings together advanced technology, consumer research, a",
+    "text": "Add value to your campaigns through our advanced solutions and performance-driven platforms:\nAs an a"
+  },
+  {
+    "id": "54fa40d0193aef9bd59095032a57b7521d89355f",
+    "url": "https://www.forter.com/blog/",
+    "title": "Blog – Forter",
+    "description": "The Forter blog is your resource for everything digital commerce from customer identity and lifetime",
+    "text": ""
+  },
+  {
+    "id": "ba807a18e4e6c673a186685bc951d5e1cce780ab",
+    "url": "https://www.forter.com/blog/2015-03-the-post-emv-fraud-tsunami-101-guide-for-online-retailers/",
+    "title": "CNP Fraud Prevention: 101 Guide for Online Retailers – Forter",
+    "description": "",
+    "text": "The payments world has been talking about EMV adoption for years. The UK adopted EMV back in the ear"
+  },
+  {
+    "id": "a38b7ffd8ad1d79507b955e9c86a0edb3bbf3008",
+    "url": "https://www.forter.com/blog/2015-03-the-changing-face-of-fraudsters/",
+    "title": "Fraudsters: Who Are They? – Forter",
+    "description": "",
+    "text": "Fraudsters aren’t what you think.\nMost people have an image in their minds when they talk about prof"
+  },
+  {
+    "id": "70694a865e6ec39675ef19e42a9813141875f400",
+    "url": "https://www.forter.com/blog/2015-03-fraud-in-50-states/",
+    "title": "Fraud in the United States: Location Matters – Forter",
+    "description": "",
+    "text": "Does the state you live in impact your closeness to fraud? Yes, it does – and generally for clear an"
+  },
+  {
+    "id": "93e485f70dae5c078a83b3f6651789b5a35b5b87",
+    "url": "https://forter.com/",
+    "title": "Forter – Identity Intelligence for the AI Era",
+    "description": "Forter is the leader in Identity Intelligence. We help brands stop fraud and approve more payments w",
+    "text": "Stop fraud and abuse, approve more payments, and improve customer experiences"
+  },
+  {
+    "id": "08cc6f44484df9a269210f71f9e4b3c102f00710",
+    "url": "https://www.forter.com/blog/2015-05-fraud-around-the-world-the-global-perspective/",
+    "title": "Global Fraud: The International Perspective – Forter",
+    "description": "",
+    "text": "Fraud Around the World\nIt’s all too common for US online retailers to avoid encouraging internationa"
+  },
+  {
+    "id": "85eebf8a2afab83379725e8343e3fb5d2be6dd45",
+    "url": "https://www.forter.com/blog/2015-04-why-do-criminals-like-elite-cards/",
+    "title": "What Do Fraudsters Look For? Elite Brands Are at Risk – Forter",
+    "description": "",
+    "text": "Who do you ask if you want to know about fraudsters? Well, you could try talking to one, but you cou"
+  },
+  {
+    "id": "eeb2202e49e2611e09f8457002ab374a3e9e51df",
+    "url": "https://www.forter.com/blog/2015-06-how-to-be-a-fraud-analyst/",
+    "title": "Fraud Analyst: What Do They Do? – Forter",
+    "description": "",
+    "text": "Lifehacker recently published a great interview with one of our wonderful fraud analysts, Gilit Sapo"
+  },
+  {
+    "id": "cc3b48f5e699aaafa5817dec25686be132e2622d",
+    "url": "https://www.forter.com/blog/2015-06-caas-in-action-crime-as-a-service/",
+    "title": "Online Fraud: No Technical Ability Required – Forter",
+    "description": "",
+    "text": "Earlier this year, there were a lot of reports about FraudFox, a piece of software developed to allo"
+  },
+  {
+    "id": "3cc79033c09cbd7006a6abc39c66775572a262bd",
+    "url": "https://www.forter.com/blog/2015-08-mobile-fraud-prevention-the-dark-side-of-m-commerce/",
+    "title": "Mobile Fraud Prevention & The Dark Side of M-Commerce – Forter",
+    "description": "",
+    "text": "Mobile commerce now represents 30% of all U.S. e-commerce, and it is predicted that in 2015 m-commer"
+  },
+  {
+    "id": "652c1b3e4b1552bcf626b1546ad3f5d69c3f17aa",
+    "url": "https://debian.org/",
+    "title": "Debian -- The Universal Operating System",
+    "description": "",
+    "text": "Skip Quicknav\nWho we are and what we do\nWhy we do it, and how we do it\nHow you can join us!\nAddition"
+  },
+  {
+    "id": "1c30b791197d2f57da3b6d5c8cd2797ebfc682e7",
+    "url": "https://lijit.com/",
+    "title": "Lijit is an ad serving domain owned by Sovrn Holdings, Inc.",
+    "description": "",
+    "text": "If you have questions about the purpose of this domain, or about Sovrn, please read our support docu"
   }
 ]
