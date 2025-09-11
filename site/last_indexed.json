@@ -422,5 +422,250 @@
   "whatsapp.com": {
     "lastAt": 1757559926005,
     "urls": []
+  },
+  "msn.com": {
+    "lastAt": 1757564834825,
+    "urls": [
+      "https://www.msn.com/en-us/play",
+      "https://www.msn.com/en-us/play/bubble",
+      "https://www.msn.com/en-us/play/arcade",
+      "https://msn.com/",
+      "https://www.msn.com/en-us/play/adventure",
+      "https://www.msn.com/en-us/play/card",
+      "https://www.msn.com/en-us/play/casino",
+      "https://www.msn.com/en-us/play/classics",
+      "https://www.msn.com/en-us/play/family",
+      "https://www.msn.com/en-us/play/match"
+    ]
+  },
+  "goo.gl": {
+    "lastAt": 1757564837535,
+    "urls": [
+      "https://goo.gl/"
+    ]
+  },
+  "adobe.com": {
+    "lastAt": 1757564880852,
+    "urls": [
+      "https://adobe.com/",
+      "https://www.adobe.com/ie/metaverse.html",
+      "https://www.adobe.com/id_en/products/catalog.html",
+      "https://www.adobe.com/at/products/catalog.html",
+      "https://www.adobe.com/sk/products/catalog.html",
+      "https://www.adobe.com/cl/metaverse.html",
+      "https://www.adobe.com/africa/creativecloud/plans.html",
+      "https://www.adobe.com/pt/metaverse.html"
+    ]
+  },
+  "spotify.com": {
+    "lastAt": 1757564885190,
+    "urls": [
+      "https://www.spotify.com/us/signup",
+      "https://www.spotify.com/ae-en/signup",
+      "https://www.spotify.com/ad/signup",
+      "https://www.spotify.com/ad-ca/signup",
+      "https://spotify.com/",
+      "https://www.spotify.com/ae-ar/signup",
+      "https://www.spotify.com/ag/signup",
+      "https://www.spotify.com/al/signup",
+      "https://www.spotify.com/am/signup",
+      "https://www.spotify.com/ao-pt/signup"
+    ]
+  },
+  "vimeo.com": {
+    "lastAt": 1757564888886,
+    "urls": [
+      "https://vimeo.com/",
+      "https://vimeo.com/blog",
+      "https://vimeo.com/about",
+      "https://vimeo.com/blog/author/aleksabrownvimeocom",
+      "https://vimeo.com/blog/author/alexanderboswell",
+      "https://vimeo.com/blog/author/alexdwyer",
+      "https://vimeo.com/blog/author/alliedecker",
+      "https://vimeo.com/blog/author/alyshaparker",
+      "https://vimeo.com/blog/author/ambervm",
+      "https://vimeo.com/blog/author/amyhorton"
+    ]
+  },
+  "ln-msedge.net": {
+    "lastAt": 1757564891754,
+    "urls": []
+  },
+  "tiktok.com": {
+    "lastAt": 1757564895022,
+    "urls": [
+      "https://www.tiktok.com/following",
+      "https://www.tiktok.com/about",
+      "https://www.tiktok.com/",
+      "https://tiktok.com/",
+      "https://www.tiktok.com/coin",
+      "https://www.tiktok.com/transparency",
+      "https://www.tiktok.com/legal/privacy-policy-row",
+      "https://www.tiktok.com/legal/terms-of-service",
+      "https://www.tiktok.com/forgood"
+    ]
+  },
+  "cloudfront.net": {
+    "lastAt": 1757564898207,
+    "urls": []
+  },
+  "tiktokv.com": {
+    "lastAt": 1757564902979,
+    "urls": []
+  },
+  "x.com": {
+    "lastAt": 1757564904064,
+    "urls": [
+      "https://x.com/"
+    ]
+  },
+  "gvt2.com": {
+    "lastAt": 1757564906968,
+    "urls": []
+  },
+  "gvt1.com": {
+    "lastAt": 1757564909867,
+    "urls": []
+  },
+  "akam.net": {
+    "lastAt": 1757564912941,
+    "urls": []
+  },
+  "gandi.net": {
+    "lastAt": 1757564915754,
+    "urls": [
+      "https://www.gandi.net/en",
+      "https://www.gandi.net/en/simple-hosting/wordpress",
+      "https://www.gandi.net/en/simple-hosting/prestashop",
+      "https://www.gandi.net/en/simple-hosting",
+      "https://gandi.net/",
+      "https://www.gandi.net/en/domain",
+      "https://www.gandi.net/en/simple-hosting/nextcloud",
+      "https://www.gandi.net/en/domain/email",
+      "https://www.gandi.net/en/domain/tld",
+      "https://www.gandi.net/en/domain/tld?prefix=a"
+    ]
+  },
+  "a-msedge.net": {
+    "lastAt": 1757564918613,
+    "urls": []
+  },
+  "bit.ly": {
+    "lastAt": 1757564940414,
+    "urls": [
+      "https://bit.ly/"
+    ]
+  },
+  "ytimg.com": {
+    "lastAt": 1757564943387,
+    "urls": []
+  },
+  "office365.com": {
+    "lastAt": 1757565006220,
+    "urls": []
+  },
+  "edgekey.net": {
+    "lastAt": 1757565009234,
+    "urls": []
+  },
+  "nic.ru": {
+    "lastAt": 1757565012007,
+    "urls": [
+      "https://nic.ru/"
+    ]
+  },
+  "cloudflare.net": {
+    "lastAt": 1757565015001,
+    "urls": []
+  },
+  "yandex.net": {
+    "lastAt": 1757565018731,
+    "urls": [
+      "https://yandex.net/"
+    ]
+  },
+  "qq.com": {
+    "lastAt": 1757565027543,
+    "urls": [
+      "https://news.qq.com/rain/a/20250911V03ELI00",
+      "https://news.qq.com/rain/a/20250911V039BM00",
+      "https://news.qq.com/rain/a/20250911A03CCL00",
+      "https://news.qq.com/rain/a/20250911A03EL700",
+      "https://news.qq.com/rain/a/20250911A03EL500",
+      "https://news.qq.com/rain/a/20250911V038HI00",
+      "https://news.qq.com/rain/a/20250911A03F0D00",
+      "https://news.qq.com/rain/a/20250911A03F0W00",
+      "https://news.qq.com/rain/a/20250911V03D8S00",
+      "https://qq.com/"
+    ]
+  },
+  "wordpress.com": {
+    "lastAt": 1757565030788,
+    "urls": [
+      "https://wordpress.com/",
+      "https://gd.wordpress.com/",
+      "https://wordpress.com/go/",
+      "https://wordpress.com/go/content-blogging/how-often-should-i-post-find-your-rhythm/",
+      "https://wordpress.com/go/web-design/anatomy-of-a-website/",
+      "https://wordpress.com/go/content-blogging/to-use-self-hosted-video-or-third-party-video-that-is-the-question/",
+      "https://wordpress.com/go/tutorials/how-to-resize-an-image/",
+      "https://wordpress.com/go/website-building/wordpress-free-website-builder/",
+      "https://wordpress.com/go/web-design/what-is-css/",
+      "https://wordpress.com/go/website-building/pop-up-forms/"
+    ]
+  },
+  "zoom.us": {
+    "lastAt": 1757565032907,
+    "urls": [
+      "https://zoom.us/download",
+      "https://zoom.us/join",
+      "https://zoom.us/partners/registration",
+      "https://zoom.us/billing/pbx/rates",
+      "https://zoom.us/",
+      "https://zoom.us/pricing/events",
+      "https://zoom.us/pricing",
+      "https://zoom.us/pricing/education",
+      "https://zoom.us/pricing/healthcare",
+      "https://zoom.us/pricing/zoom-contact-center"
+    ]
+  },
+  "opera.com": {
+    "lastAt": 1757565040900,
+    "urls": [
+      "https://www.opera.com/",
+      "https://www.opera.com/features",
+      "https://www.opera.com/cs/features",
+      "https://opera.com/",
+      "https://www.opera.com/pl/features",
+      "https://www.opera.com/de/features",
+      "https://www.opera.com/es/features",
+      "https://www.opera.com/es-419/features",
+      "https://www.opera.com/fr/features",
+      "https://www.opera.com/pt/features"
+    ]
+  },
+  "samsung.com": {
+    "lastAt": 1757565110947,
+    "urls": [
+      "https://samsung.com/"
+    ]
+  },
+  "google-analytics.com": {
+    "lastAt": 1757565112133,
+    "urls": [
+      "https://google-analytics.com/"
+    ]
+  },
+  "baidu.com": {
+    "lastAt": 1757565117836,
+    "urls": [
+      "https://baidu.com/"
+    ]
+  },
+  "cloudflare-dns.com": {
+    "lastAt": 1757565119113,
+    "urls": [
+      "https://cloudflare-dns.com/"
+    ]
   }
 }
