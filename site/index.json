@@ -5927,5 +5927,908 @@
     "title": "",
     "description": "",
     "text": ""
+  },
+  {
+    "id": "8213989475afe0c245f524cad2519bd6519ee170",
+    "url": "https://crashlytics.com/",
+    "title": "Firebase Crashlytics | Track, prioritize, and fix app crashes faster",
+    "description": "Explore how Firebase Crashlytics provides realtime app crash &amp; stability reporting for iOS, Andr",
+    "text": "Crashlytics starts capturing crashes right out of the box and groups them into manageable issues bas"
+  },
+  {
+    "id": "8eecbd88b983eb479b97e48fad8454a71d572a9c",
+    "url": "https://www.drom.ru/catalog/acura/",
+    "title": "��������� ��� Acura ������������ � ����. ����������� �������������� Acura (�����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Acura. �������� ��������� ��",
+    "text": ""
+  },
+  {
+    "id": "58d186265927b1b3ded71c3c4eacd79bf04e33ee",
+    "url": "https://www.drom.ru/catalog/alpina/",
+    "title": "��������� ��� Alpina ������������ � ����. ����������� �������������� Alpina (�������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Alpina. �������� ��������� �",
+    "text": ""
+  },
+  {
+    "id": "526e76eedf0df34091a07599957fe71eb0c982b0",
+    "url": "https://www.drom.ru/catalog/alfa_romeo/",
+    "title": "��������� ��� Alfa Romeo ������������ � ����. ����������� �������������� Alfa Romeo (����� �����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Alfa Romeo. �������� �������",
+    "text": ""
+  },
+  {
+    "id": "1c5d2fc45b34054665b2c36b55b0d8b460731c02",
+    "url": "https://www.drom.ru/catalog/aston_martin/",
+    "title": "��������� ��� Aston Martin ������������ � ����. ����������� �������������� Aston Martin (����� �����",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Aston Martin. �������� �����",
+    "text": ""
+  },
+  {
+    "id": "525aed84d22e22eb2a44439c92edf66bd5d65aa3",
+    "url": "https://www.drom.ru/catalog/audi/",
+    "title": "��������� ��� Audi ������������ � ����. ����������� �������������� Audi (����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Audi. �������� ��������� ���",
+    "text": ""
+  },
+  {
+    "id": "d1dd2cadf05e03cb9e51d1daef03fa50cb8b1003",
+    "url": "https://drom.ru/",
+    "title": "Дром - цены на машины",
+    "description": "Автомобили и запчасти: продажа новых и б/у авто, каталог, отзывы автовладельцев, форумы, ремонт и эк",
+    "text": ""
+  },
+  {
+    "id": "29dd69e0776846a59ecde7193475ddf5336631d1",
+    "url": "https://www.drom.ru/catalog/brilliance/",
+    "title": "��������� ��� Brilliance ������������ � ����. ����������� �������������� Brilliance (���������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Brilliance. �������� �������",
+    "text": ""
+  },
+  {
+    "id": "bac8e3a2f3d25a6c8bf7586532c29ef542ec42da",
+    "url": "https://www.drom.ru/catalog/bentley/",
+    "title": "��������� ��� Bentley ������������ � ����. ����������� �������������� Bentley (������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Bentley. �������� ��������� ",
+    "text": ""
+  },
+  {
+    "id": "96b28432bf8b2c920aabb81b8fc97a49ea321dfa",
+    "url": "https://www.drom.ru/catalog/bmw/",
+    "title": "��������� ��� BMW ������������ � ����. ����������� �������������� BMW (���)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� BMW. �������� ��������� ����",
+    "text": ""
+  },
+  {
+    "id": "f0ed280740bddea91a1abadcadf415421c7d48a6",
+    "url": "https://www.drom.ru/catalog/bugatti/",
+    "title": "��������� ��� Bugatti ������������ � ����. ����������� �������������� Bugatti (�������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Bugatti. �������� ��������� ",
+    "text": ""
+  },
+  {
+    "id": "270a3c21d601e526ac19a973c5a9e8a38e43234f",
+    "url": "https://launchdarkly.com/",
+    "title": "LaunchDarkly: Feature Flags, Feature Management, and Experimentation",
+    "description": "Maximize the value of every software feature through automation and feature management.",
+    "text": "Let’s talk about the future of risk and resilience in software development! Join us on September 30."
+  },
+  {
+    "id": "7fd99707e970e0d7c8aed20d29b8ebf7f1125b8a",
+    "url": "https://launchdarkly.com/events-webinars/",
+    "title": "Events & Webinars | LaunchDarkly",
+    "description": "LaunchDarkly provides simple, scalable feature flag, toggle management (feature management) & experi",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "943a875bcd65b87ab92ede90b351c9da2baedaa2",
+    "url": "https://launchdarkly.com/why-launchdarkly/",
+    "title": "Why LaunchDarkly? | LaunchDarkly",
+    "description": "Learn why teams at enterprises like Square, Intuit, and NBC choose LaunchDarkly for feature manageme",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "817610d8a673b4bf276866122b419b8d4b28bf45",
+    "url": "https://launchdarkly.com/compare/launchdarkly-vs-cloudbees/",
+    "title": "LaunchDarkly vs Rollout.io | LaunchDarkly",
+    "description": "LaunchDarkly is a Rollout.io alternative built for modern development workflows. With unmatched scal",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "251a154a1a22ce1b4bc32f6beeabd21c33dd9d65",
+    "url": "https://launchdarkly.com/solutions/enterprise/",
+    "title": "Feature management for the enterprise | LaunchDarkly",
+    "description": "Learn how LaunchDarkly helps Fortune 100s and other enterprises enable modern development, reduce ri",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "ce309d9c526e32db93b319f6f1653d2818668076",
+    "url": "https://launchdarkly.com/benefits/",
+    "title": "Benefits | LaunchDarkly",
+    "description": "LaunchDarkly provides simple, scalable feature flag, toggle management (feature management) & experi",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "40356e3c41ba89c1cc2cf343a7830fb6eefe5ff8",
+    "url": "https://launchdarkly.com/use-cases/",
+    "title": "Feature flag use cases | LaunchDarkly",
+    "description": "Integrate release, deployment, and operational management into your software development life cycles",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "6411c51a4eac5a4df30535b731932d53e8cad0fe",
+    "url": "https://launchdarkly.com/pricing/",
+    "title": "Pricing | LaunchDarkly",
+    "description": "Find the right feature flag management platform price package for you needs. LaunchDarkly provides f",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "f5c1b6e88a7210892a9b426c17f43f6b7c246050",
+    "url": "https://launchdarkly.com/integrations/jira/",
+    "title": "Jira Integration | LaunchDarkly",
+    "description": "Jira and LaunchDarkly together give teams more visibility and great control over feature releases, s",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "e2a09d6801a87c19ae623d459b20e211a9b47e45",
+    "url": "https://launchdarkly.com/pricing/archive-sept2025/",
+    "title": "Pricing | LaunchDarkly",
+    "description": "Find the right feature flag management platform price package for you needs. LaunchDarkly provides f",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "b2562e6aa425f5075d788e56aad141353867f7a1",
+    "url": "https://www.grammarly.com/",
+    "title": "Grammarly: Free AI Writing Assistance",
+    "description": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generatio",
+    "text": "By signing up, you agree to the Terms and Conditions and Privacy Policy. California residents, see o"
+  },
+  {
+    "id": "2ca2d0d3d427b761f63d818b3373312bdb960825",
+    "url": "https://www.grammarly.com/signup",
+    "title": "Sign Up – Create a Free Account | Grammarly",
+    "description": "Create a free Grammarly account and start eliminating writing mistakes in seconds. It’s fast and fre",
+    "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of ServiceOpens a new wi"
+  },
+  {
+    "id": "26c9685c6aeae2b7f2bdee69055ec866366f5016",
+    "url": "https://www.grammarly.com/plans",
+    "title": "Grammarly Prices and Plans | Grammarly",
+    "description": "Looking for Grammarly price and plan information? Check out all available Grammarly plans and choose",
+    "text": "Trusted by over 40 million people and 50,000 organizations\n“I used to spend 20–30 hours a week revie"
+  },
+  {
+    "id": "5baa9f703ef1456e37aa097574e598b657d4ebd0",
+    "url": "https://grammarly.com/",
+    "title": "Grammarly: Free AI Writing Assistance",
+    "description": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generatio",
+    "text": "By signing up, you agree to the Terms and Conditions and Privacy Policy. California residents, see o"
+  },
+  {
+    "id": "620aa49973304efc51f50ee3f1e6628908966a97",
+    "url": "https://www.grammarly.com/samsung",
+    "title": "Grammarly-AI Writing Assistant - Apps on Google Play",
+    "description": "AI proofreader - English grammar, spelling, punctuation, vocabulary, and fluency",
+    "text": "Play Pass\nPlay Points\nGift cards\nRedeem\nRefund policy\nParent Guide\nFamily sharing\nTerms of Service\nP"
+  },
+  {
+    "id": "03a690dcaa4a966b0d4ddd5100c930c5766507a7",
+    "url": "https://www.grammarly.com/signin",
+    "title": "Login | Grammarly",
+    "description": "Log in to your Grammarly and start writing something amazing.",
+    "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of ServiceOpens a new wi"
+  },
+  {
+    "id": "cca3412a6932e2fcf067755b8974fc3baacba46e",
+    "url": "https://www.grammarly.com/plagiarism-checker",
+    "title": "Plagiarism Checker | Grammarly",
+    "description": "Instant plagiarism check for essays and documents. Detect plagiarism, fix grammar errors, and improv",
+    "text": "Step 1: Add your text or upload a file.\nStep 2: Click to scan for plagiarism.\nStep 3: Review the res"
+  },
+  {
+    "id": "c647bda8920b2413577fb949ff466cba61df1f70",
+    "url": "https://www.grammarly.com/jobs",
+    "title": "Explore Opportunities at Grammarly",
+    "description": "Explore Grammarly Careers now! Shape the future of communication with our dynamic team.",
+    "text": "© 2025 Grammarly, Inc."
+  },
+  {
+    "id": "27b20d3b376b7ab454bac78dbdb224fbc32249fe",
+    "url": "https://www.grammarly.com/business",
+    "title": "Grammarly for Business | AI Writing Assistance for Teams of all Sizes",
+    "description": "Grammarly's AI writing assistance helps businesses of all sizes communicate effectively while keepin",
+    "text": "Jump to section: Features For Teams Enterprise Solution\nLearn more\nLearn more\nLearn more\nLearn more\n"
+  },
+  {
+    "id": "f7fbfe2b259286b7cfb07fe62c841b062c295733",
+    "url": "https://www.grammarly.com/terms",
+    "title": "Terms of Service | Grammarly",
+    "description": "Grammarly’s free writing app will make sure your messages, documents, and social media posts are cle",
+    "text": "© 2025 Grammarly, Inc."
+  },
+  {
+    "id": "cbd813a00ad7c7382e965c820d238cb96233cc12",
+    "url": "https://www.ivi.ru/collections/oscar",
+    "title": "Премия «Оскар» смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Каждый год миллионы зрителей по всему миру с замиранием сердца смотрят трансляцию вручения премии",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "18abdfc25e755e06de72e0e5d4a25494cc160ef3",
+    "url": "https://www.ivi.ru/collections/vampires",
+    "title": "Лучшие фильмы про вампиров смотреть онлайн",
+    "description": "<p>Вампиры – бессмертные могущественные и жестокие существа, не один век будоражащие воображение пис",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "81824068781f3980db807a9bb0b8ee7c57ca88be",
+    "url": "https://www.ivi.ru/collections/klassika-uzhasov",
+    "title": "Классика ужасов смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Истинный ценитель хорроров рано или поздно обращается к классике жанра. Сегодня многие фильмы ужа",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "d7b79087bff73b363005f6be4efa07585a3f87ff",
+    "url": "https://www.ivi.ru/collections/zvezdnyie_rezhisseryi",
+    "title": "Звездные режиссеры смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Есть режиссеры, которые за всю свою творческую жизнь снимают один-два ярких фильма. А есть плодов",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "9b10ea21641b9a8c62b9417cc9a7f1759c83c46d",
+    "url": "https://www.ivi.ru/collections/topkp",
+    "title": "Фильмы Топ-250 КиноПоиска смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>«КиноПоиск» – незаменимый источник информации для тех, кто ценит, любит и уважает хорошее кино. З",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "0db5350eb30c3332f70708e66c50944724d48a75",
+    "url": "https://ivi.ru/",
+    "title": "Онлайн-кинотеатр Иви - фильмы, сериалы и мультфильмы смотреть онлайн бесплатно в хорошем качестве",
+    "description": "Устройте кинотеатр у себя дома! Смотрите онлайн фильмы хорошего качества в приятной домашней обстано",
+    "text": "Смотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»\nHBO ® and related service mar"
+  },
+  {
+    "id": "0cbb00885d0b981783c43990b4e7edb392c6433f",
+    "url": "https://www.ivi.ru/collections/brutalnoe-kino",
+    "title": "Брутальное кино смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Пуленепробиваемый взгляд, железная сила воли и стальные мышцы – вот такие они, брутальные герои. ",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "cbb895c0ba07e34aaa1efa1cf06ec3a1d4eabddb",
+    "url": "https://www.ivi.ru/collections/black-humour",
+    "title": "Лучшие черные комедии смотреть онлайн",
+    "description": "<p>Все оттенки черного можно рассмотреть в нашей подборке, предназначенной для ценителей нестандартн",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "8ea04a91a3f4d62521144c9a41b2f0bf277ac107",
+    "url": "https://www.ivi.ru/collections/musicals",
+    "title": "Фильмы про танцы смотреть онлайн",
+    "description": "<p>Что может быть лучше музыкального фильма? Только фильмы про танцы. На всех танцующих героев можно",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "94b0f055c84e4c31a58a3510ed395938223fd9b7",
+    "url": "https://www.ivi.ru/collections/love-triangle",
+    "title": "Фильмы про любовные треугольники смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Что такое любовный треугольник? Классическая ситуация, в которой муж изменяет, жена страдает, а л",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "d5e4447ff92b821269d85b3c3509f8a505bc90f4",
+    "url": "https://agency.nota.media/",
+    "title": "Digital-агентство Notamedia в Москве: разработка сайтов, мобильных приложений, брендинг и айдентика",
+    "description": "Digital-агентство полного цикла Notamedia — одни из признанных лидеров рынка в области разработки ве",
+    "text": "20 лет помогаем бизнесу и государству улучшать взаимодействие с пользователями в цифровой среде\nотпр"
+  },
+  {
+    "id": "483eeae713c9465c07e8a07f4cfd4279a6285914",
+    "url": "https://agency.nota.media/company/",
+    "title": "О Digital-агентстве Notamedia: разработка корпоративных сайтов, мобильных приложений, услуги дизайна",
+    "description": "Знаем, как создавать цифровые сервисы, которые действительно решают ваши задачи. Можем учесть интере",
+    "text": "Реализуем проекты для госструктур, крупного и среднего бизнеса. Входим в состав холдинга Notamedia в"
+  },
+  {
+    "id": "5d32285a1004c190489f31e8877a5afa04538208",
+    "url": "https://agency.nota.media/application/",
+    "title": "Заполнить заявку по услугам digital-агентства Notamedia",
+    "description": "Заполните короткую заявку для обсуждения вашего проекта. Мы свяжемся с вами в ближайшее время.",
+    "text": "Наш менеджер свяжется с вами в ближайшее время\n© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nО"
+  },
+  {
+    "id": "db25eb2c7f11ba5d03d3e34a8d7f122798ef731d",
+    "url": "https://agency.nota.media/blog/",
+    "title": "Блог digital-агентства Notamedia",
+    "description": "В нашем блоге мы публикуем актуальную информацию о веб-разработке, ui/ux дизайне, аналитике, маркети",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "378f1ce70f723608d2b58bcb89cd7152a1ba98ee",
+    "url": "https://agency.nota.media/contacts/",
+    "title": "Контакты Digital-агентства Notamedia",
+    "description": "Notamedia — лидер в создании цифровых сервисов и digital-экосистем для бизнеса и госструктур",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "52a1e38091df01cd69e8a8555ea69151ad563503",
+    "url": "https://agency.nota.media/partners/",
+    "title": "Партнерская программа Digital-агентства Notamedia",
+    "description": "Партнерская программа для разработчиков сайтов и интернет-магазинов от Digital-агентства Notamedia",
+    "text": "Часто клиенты сами просят порекомендовать агентства, которые смогут решить их задачу. Польза агентст"
+  },
+  {
+    "id": "3c8609493285bd8c3846228df3d5a297e7756b15",
+    "url": "https://agency.nota.media/career/",
+    "title": "Вакансии Digital-агентства Notamedia",
+    "description": "Мы быстро растем, у нас все время появляются новые задачи и направления — и значит, нам часто требую",
+    "text": "Аналитик данных (отдел маркетинга)\nГрафический дизайнер\nUX/UI дизайнер (middle, senior)\nЕсли вы не н"
+  },
+  {
+    "id": "840d680c7e44e1847eeda6e84579ee210673dd6a",
+    "url": "https://notamedia.ru/",
+    "title": "Digital-агентство Notamedia в Москве: разработка сайтов, мобильных приложений, брендинг и айдентика",
+    "description": "Digital-агентство полного цикла Notamedia — одни из признанных лидеров рынка в области разработки ве",
+    "text": "20 лет помогаем бизнесу и государству улучшать взаимодействие с пользователями в цифровой среде\nотпр"
+  },
+  {
+    "id": "4995a44e3fb2c8c680165fd6e50e247a8bf0e1d0",
+    "url": "https://agency.nota.media/rules/",
+    "title": "Политика ООО «НОТАМЕДИА» в отношении обработки персональный данных",
+    "description": "Настоящая политика описывает принципы и порядок обработки персональных данных Обществом с ограниченн",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "86b5fb01fe6c6e6e91afd3b08a76b1431d60ea36",
+    "url": "https://agency.nota.media/portfolio/",
+    "title": "Портфолио Digital-агентства Notamedia",
+    "description": "За 20 лет мы реализовали свыше 600 проектов. У нас на сайте представлены некоторые из наших работ.",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "5007d700e6998ad432d1a2e0b768acf3dd822b05",
+    "url": "https://stripe.com/legal/ssa",
+    "title": "Stripe Services Agreement - United States",
+    "description": "",
+    "text": "Read more about the changes made November 11, 2024 here.\nWelcome to Stripe!\nThis Stripe Services Agr"
+  },
+  {
+    "id": "a0ff1f3c00e30b68588871532b861e721ea7d3f0",
+    "url": "https://stripe.com/ssa",
+    "title": "Stripe Services Agreement - United States",
+    "description": "",
+    "text": "Read more about the changes made November 11, 2024 here.\nWelcome to Stripe!\nThis Stripe Services Agr"
+  },
+  {
+    "id": "11704d2401a5f86b4df3d7188ac87f350f8672af",
+    "url": "https://stripe.com/legal",
+    "title": "Stripe Services Agreement - United States",
+    "description": "",
+    "text": "Read more about the changes made November 11, 2024 here.\nWelcome to Stripe!\nThis Stripe Services Agr"
+  },
+  {
+    "id": "86adff4da786253974c54497f5e2a35465ede8b3",
+    "url": "https://stripe.com/connect/legal",
+    "title": "Stripe Connect Platform Agreement",
+    "description": "",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "3a839780ab4b8a05f98741f5d8bbd0ccde0b48f9",
+    "url": "https://stripe.com/legal/connect-account",
+    "title": "Stripe Connected Account Agreement",
+    "description": "",
+    "text": "The Stripe Services Agreement was updated on November 11, 2024. Read more about the changes here.\nLa"
+  },
+  {
+    "id": "933d4564da40dc65eb605df9a27cc61d1d715088",
+    "url": "https://stripe.com/legal/vault-and-forward",
+    "title": "Stripe Vault and Forward",
+    "description": "Stripe Vault and Forward",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "ac8cbd1400b949136dc685f354b999ee133866e5",
+    "url": "https://stripe.com/connect-account/legal",
+    "title": "Stripe Connected Account Agreement",
+    "description": "",
+    "text": "The Stripe Services Agreement was updated on November 11, 2024. Read more about the changes here.\nLa"
+  },
+  {
+    "id": "182fb9b992b1eb52cf1e8276fb4ed942b1a17f50",
+    "url": "https://stripe.com/climate/legal",
+    "title": "Stripe Climate Terms",
+    "description": "",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "90272164d1297bc6e375f9027dcd1d29a5df535c",
+    "url": "https://stripe.com/legal/connect",
+    "title": "Stripe Connect Platform Agreement",
+    "description": "",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "dade65b82f7a684d869ae000eb2b6af6e9c38420",
+    "url": "https://stripe.com/legal/data-pipeline",
+    "title": "Stripe Data Pipeline",
+    "description": "",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "7781f75369c1d700a686bcdec291c4c6de49f90c",
+    "url": "https://www.inmobi.com/",
+    "title": "Redefining the mobile experience for consumers",
+    "description": "AI and Consumer-first technology to provide amazing experiences and the joy of discovery on your sma",
+    "text": "Forever evolving our consumer and advertising platforms to redefine digital experiences\nDiscover eve"
+  },
+  {
+    "id": "e715363984bde62aed88e0f0985145b8ab5e99c7",
+    "url": "https://www.inmobi.com/company/leadership",
+    "title": "InMobi’s Leadership Team and Board | InMobi",
+    "description": "InMobi is the world’s leading provider of enterprise platforms for marketers, offering cutting-edge ",
+    "text": "Founder & CEO, InMobi & Glance\nCo-Founder, InMobi & CEO, InMobi Advertising\nCo-Founder & CTO, InMobi"
+  },
+  {
+    "id": "d726bc62cf05bd94c4354ebcf128bfbe8c1bf1fb",
+    "url": "https://www.inmobi.com/company/contact",
+    "title": "InMobi | Contact Us | Get Started",
+    "description": "We help advertisers and app publishers reach premium audiences. Get in touch with us and get your mo",
+    "text": "For support questions on your ad campaign, please  click here"
+  },
+  {
+    "id": "1b7d9f14ed4837a0b9af18c94dcf3cd81c23ea4e",
+    "url": "https://www.inmobi.com/company/careers",
+    "title": "Hiring | Careers | InMobi",
+    "description": "InMobi | Global Mobile Advertising Leader. Our solutions for Agencies and Advertisers help engage a ",
+    "text": "Sorry! We couldn’t find any job related for your search\nInMobi is an equal opportunity employer that"
+  },
+  {
+    "id": "8d3cc87463d0b0e2ad839b80d3a22e20251bcfba",
+    "url": "https://inmobi.com/",
+    "title": "Redefining the mobile experience for consumers",
+    "description": "AI and Consumer-first technology to provide amazing experiences and the joy of discovery on your sma",
+    "text": "Forever evolving our consumer and advertising platforms to redefine digital experiences\nDiscover eve"
+  },
+  {
+    "id": "343465864a78eb2e972e2b74d11d8a4e00a50ee7",
+    "url": "https://www.inmobi.com/company/leadership/naveen-tewari",
+    "title": "Naveen Tewari | Founder & CEO | InMobi & Glance",
+    "description": "Naveen is the founder of InMobi. His philosophy of constant innovation and disruption is embedded de",
+    "text": "Naveen Tewari\nFounder & CEO, InMobi & Glance\nNaveen is the founder of InMobi. His philosophy of cons"
+  },
+  {
+    "id": "2998a9306fd77f26dc08322d49d1cc37983fa772",
+    "url": "https://www.inmobi.com/company/leadership/abhay-singhal",
+    "title": "Abhay Singhal | Co-Founder, InMobi | CEO, InMobi Advertising",
+    "description": "Abhay is a Co-Founder of InMobi and the CEO, InMobi Advertising, a company whose mission is to power",
+    "text": "Abhay Singhal\nCo-Founder, InMobi & CEO, InMobi Advertising\nAbhay is a Co-Founder of InMobi and the C"
+  },
+  {
+    "id": "f29fbe592f9754474ec80ed2ade4b299990190f4",
+    "url": "https://www.inmobi.com/company/leadership/piyush-shah",
+    "title": "Piyush Shah | Co-Founder, InMobi | President, Glance",
+    "description": "Piyush is a Co-founder at InMobi Group, and President at Glance, an AI-driven lock screen platform.",
+    "text": "Piyush Shah\nCo-Founder, InMobi & President, Glance\nPiyush is a Co-founder at InMobi, and President &"
+  },
+  {
+    "id": "e6695dfd17dbb3923a2db85d5347b29b51fa4d43",
+    "url": "https://www.inmobi.com/company/leadership/marc-steifman",
+    "title": "Marc Steifman | CFO | InMobi",
+    "description": "Marc is the Chief Financial Officer. Marc oversees all financial aspects at InMobi including M&A dec",
+    "text": "Marc Steifman\nCFO, InMobi\nMarc is the Chief Financial Officer. Marc oversees all financial aspects a"
+  },
+  {
+    "id": "8e7059d6061ada07cf27921b54809c2cc4fc2213",
+    "url": "https://www.inmobi.com/company/leadership/amit-chauhan",
+    "title": "Amit Chauhan | Chief Legal Officer | InMobi",
+    "description": "Amit is responsible for the global legal function, including privacy and data protection.",
+    "text": "Amit Chauhan\nChief Legal Officer, InMobi\nAmit is responsible for the global legal function, includin"
+  },
+  {
+    "id": "a9489cf67b95b65351442a4a514790ef02846713",
+    "url": "https://launchpad.net/",
+    "title": "Launchpad",
+    "description": "",
+    "text": "One place to track bugs across project boundaries and tools\nEasy for anyone to get your project's co"
+  },
+  {
+    "id": "2ce560b4fccb0859a3f816e3a5ab6854e944d71d",
+    "url": "https://ampproject.org/",
+    "title": "AMP - a web component framework to easily create user-first web experiences - amp.dev",
+    "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes ",
+    "text": "Don't want to miss any of the great stuff that happens around AMP? Then always be first in line and "
+  },
+  {
+    "id": "4d83f2a4ad53e57f8134cda186845a434f5c120a",
+    "url": "https://quickconnect.to/",
+    "title": "Synology QuickConnect",
+    "description": "Synology QuickConnect allows you to access your Synology NAS anytime, anywhere, from any device and ",
+    "text": "To continue using our network services, please sign in to account.synology.cn and bind your phone nu"
+  },
+  {
+    "id": "440db505e4d948163779170f97c590ac1ccd26e6",
+    "url": "https://issuu.com/",
+    "title": "Issuu | Create Interactive Flipbooks on our Digital Publishing Platform",
+    "description": "Issuu converts PDFs and documents into an interactive flipbook and marketing assets. Embed flipbooks",
+    "text": "Show submenu for \"Read\" sectionRead\nArticles\nBrowse short-form content that's perfect for a quick re"
+  },
+  {
+    "id": "d4264db54bef888fa822a74c2af463efb0287b10",
+    "url": "https://issuu.com/about",
+    "title": "About Issuu - Connecting content to people.",
+    "description": "A truly modern media company, Issuu gives anyone with digitally bound content the ability to upload ",
+    "text": "Show submenu for \"Read\" sectionRead\nArticles\nBrowse short-form content that's perfect for a quick re"
+  },
+  {
+    "id": "3c42edb9e13ebd04b21e1cc164dd6c2f98da8b2b",
+    "url": "https://issuu.com/about/people",
+    "title": "About Issuu - Connecting content to people.",
+    "description": "A truly modern media company, Issuu gives anyone with digitally bound content the ability to upload ",
+    "text": "Show submenu for \"Read\" sectionRead\nArticles\nBrowse short-form content that's perfect for a quick re"
+  },
+  {
+    "id": "64a65fc4cf77cb783512041bbb2a8972587c2603",
+    "url": "https://issuu.com/careers",
+    "title": "Careers at Issuu",
+    "description": "With great people, unique ideas and stunning technology, we’re changing the future of publishing tod",
+    "text": "Show submenu for \"Read\" sectionRead\nArticles\nBrowse short-form content that's perfect for a quick re"
+  },
+  {
+    "id": "f9464d3eb64d781b881c5f19ceca0af02551e2a1",
+    "url": "https://issuu.com/features",
+    "title": "Elevate any document with Issuu's interactive features",
+    "description": "Browse our entire collection of product features that will simplify your digital publishing and cont",
+    "text": "Show submenu for \"Read\" sectionRead\nArticles\nBrowse short-form content that's perfect for a quick re"
+  },
+  {
+    "id": "52f620fa98d3342cbc8e05c8b9d3584fa01e79c5",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "8b9b6f96543eef9c4c204256f9c9fce5a482e2e5",
+    "url": "https://www.ibm.com/certified-used-equipment",
+    "title": "IBM Certified Pre-Owned servers and storage",
+    "description": "Explore IBM used servers and storage with certified genuine parts that are configured to meet busine",
+    "text": "IBM Certified Pre-Owned can help lower TCO, and help free up cash for other strategic initiatives.\nI"
+  },
+  {
+    "id": "569275f558a7438384e6223da9461dd21687f9a4",
+    "url": "https://www.ibm.com/content/adobe-cms/us/en",
+    "title": "IBM",
+    "description": "For more than a century, IBM has been a global technology innovator, leading advances in AI, automat",
+    "text": "IBM helps you use AI to change how you do business\nIBM Addresses the AI Adoption Gap with \"Let's cre"
+  },
+  {
+    "id": "1843b058e12575d2969dd07c5e4ae67516b5ef50",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations/charlie-hill",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "fa8d665e03fd04298ce4883b12e229462d3af40f",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations/chieko-asakawa",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "58561676af547adbc776ebd28c942cbcad310005",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations/ajay-royyuru-cancer-research",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "bc3f2d265ad5148480d69efa2c4768f08d780835",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations/cimon-ai-in-space",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "b14b073a81c0720798d2062b2268f999a7dc4f89",
+    "url": "https://www.ibm.com/thought-leadership/innovation-explanations/dario-gil-quantum-computing",
+    "title": "Think | IBM",
+    "description": "Experience an integrated media property for tech workers—latest news, explainers and market insights",
+    "text": "10 Sep\nArtificial intelligence\nFrom pilots to production: Why AI in finance often stalls—and how to "
+  },
+  {
+    "id": "406038f69fb1d61bcbfa288c47b6cb09b4a05fd9",
+    "url": "https://www.media.net/",
+    "title": "Media.net | The Sell Side Platform for Greater Outcomes",
+    "description": "We help brands and publishers leverage the best of programmatic, to achieve their goals across every",
+    "text": "Scale of the open web. Performance opportunities of the walled gardens.\nAnd a stellar team that help"
+  },
+  {
+    "id": "5cff6886f7ea89bc21272c0e9968540bfbc2ff2e",
+    "url": "https://media.net/",
+    "title": "Media.net | The Sell Side Platform for Greater Outcomes",
+    "description": "We help brands and publishers leverage the best of programmatic, to achieve their goals across every",
+    "text": "Scale of the open web. Performance opportunities of the walled gardens.\nAnd a stellar team that help"
+  },
+  {
+    "id": "918c12fba7ba173f7cd7c3e352c3732e86671e18",
+    "url": "https://www.media.net/aboutus/",
+    "title": "About Media.net",
+    "description": "We help brands and publishers leverage the best of programmatic, to achieve their goals across every",
+    "text": ""
+  },
+  {
+    "id": "32dfa77bb5d41637687221b301d85067583b148c",
+    "url": "https://www.media.net/contextual-search-signals/",
+    "title": "The Industry's Best Contextual Platform | Media.net",
+    "description": "The first and only search insights-driven contextual engine in ad tech.",
+    "text": ""
+  },
+  {
+    "id": "d916e2a99c2947d334b0008dd6bace4e174095ed",
+    "url": "https://www.media.net/resources/",
+    "title": "Press & Resources | Advertising Technology | Media.net",
+    "description": "News & updates from one of the largest ad tech companies in the world",
+    "text": "For media inquiries, reach us at press@media.net\nApril 23, 2025\nNew integration combines Media.net's"
+  },
+  {
+    "id": "6fc0a69b58517ddde96a786e6122bccad26b5533",
+    "url": "https://www.media.net/contact/",
+    "title": "Contact Us at Media.net",
+    "description": "Get in touch with the Media.net team for your programmatic needs.",
+    "text": ""
+  },
+  {
+    "id": "540573468617a75f63563459bc3f0355dee4c5ff",
+    "url": "https://www.media.net/optout/",
+    "title": "Opt Out | Media.net",
+    "description": "",
+    "text": "Media.net takes your privacy extremely seriously and hence shall never use personally identifiable i"
+  },
+  {
+    "id": "0a1fe55fd7489a700c2113be0cd5690793f0c0ea",
+    "url": "https://www.media.net/legal/inventorypolicies/",
+    "title": "Inventory Policies | Legal | Media.net",
+    "description": "Inventory Policies",
+    "text": "Media.net is committed to providing a fair value exchange between buyers, sellers and users and to t"
+  },
+  {
+    "id": "f6c407c362b544720116d802b35d5e83f70985c1",
+    "url": "https://www.media.net/privacy-policy/",
+    "title": "Privacy Policy | Media.net",
+    "description": "Everything you would like to know about our user privacy policies, data collection and usage, as wel",
+    "text": "Last Updated and Effective as of July 01, 2025\nPrevious Policy\nMedia.Net Advertising FZ-LLC, working"
+  },
+  {
+    "id": "ebb3562c8b333078a076fd803e46f1019c4da5f3",
+    "url": "https://www.media.net/legal/tos/",
+    "title": "Terms of Service | Legal | Media.net",
+    "description": "All our publishers must be able to comply and abide with terms and conditions laid out",
+    "text": "Last Updated and Effective as of May 22, 2025\nThis Website terms of use (“Terms”) determine the term"
+  },
+  {
+    "id": "36a07c51e79a3826b8d8ca5059cfef42f055aa7f",
+    "url": "https://3lift.com/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "73ca65f3e46ad14f4c06296530226ed06cfb1d41",
+    "url": "https://www.weebly.com/",
+    "title": "Free Website Builder: Build a Free Website or Online Store | Weebly",
+    "description": "Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customi",
+    "text": "Get access to customizable webpage designs and useful tools to build your website and grow your idea"
+  },
+  {
+    "id": "37f65bc8a1fff0518ad901b17ef55dacee9affd8",
+    "url": "https://www.weebly.com/guides",
+    "title": "Weebly Guides",
+    "description": "High quality guides for entrepreneurs",
+    "text": "Products\nWebsites\nOnline Stores\nDomains\nFeatures\nThemes\nPricing\nApp Center\nMobile Apps\nResources\nBlo"
+  },
+  {
+    "id": "54bed45c54ec21ee96dbe691c9cc8c9a2dcea335",
+    "url": "https://www.weebly.com/blog",
+    "title": "Free Website Builder: Build a Free Website or Online Store | Weebly",
+    "description": "Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customi",
+    "text": "Get access to customizable webpage designs and useful tools to build your website and grow your idea"
+  },
+  {
+    "id": "dcda95fcea8f6f514bffd98d64992305488986ed",
+    "url": "https://www.weebly.com/inspiration",
+    "title": "Free Website Builder: Build a Free Website or Online Store | Weebly",
+    "description": "Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customi",
+    "text": "Get access to customizable webpage designs and useful tools to build your website and grow your idea"
+  },
+  {
+    "id": "1c58f474891ee32f2c8bc31d39c4b4408bfd5377",
+    "url": "https://weebly.com/",
+    "title": "Free Website Builder: Build a Free Website or Online Store | Weebly",
+    "description": "Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customi",
+    "text": "Get access to customizable webpage designs and useful tools to build your website and grow your idea"
+  },
+  {
+    "id": "229b19aca5caa137272e86b59ca07172d8ee1458",
+    "url": "https://www.weebly.com/online-store",
+    "title": "Weebly eCommerce: Get Way More Than an Online Store",
+    "description": "Everything you need to build, market and grow your online store. Join thousands of successful busine",
+    "text": "Have the freedom to launch and grow your online store wherever, whenever.\nChoose a unique online sto"
+  },
+  {
+    "id": "e1f1b9fe3111b4eec14418e5c42ed13af61623fc",
+    "url": "https://www.weebly.com/features",
+    "title": "Weebly Drag and Drop Website Builder - Try it Free Today",
+    "description": "Over 40 million entrepreneurs and small businesses have built a website with Weebly. Create a powerf",
+    "text": "Tell your story with a beautiful website, online store or blog. With Weebly’s drag and drop website "
+  },
+  {
+    "id": "992d6ecfc163760aa2af1b80e369977424973d00",
+    "url": "https://www.weebly.com/websites",
+    "title": "Create a Website with Weebly's Powerful Website Builder",
+    "description": "The freedom to make a website limited only by your imagination. All the tools you need to create a r",
+    "text": "Beautiful themes created by top designers make your website look polished and professional on any de"
+  },
+  {
+    "id": "18a6d6f9396e1750a2c34eccdf9f247f964585d2",
+    "url": "https://www.weebly.com/marketing",
+    "title": "Weebly Email Marketing Platform: Email Integrated with Your Website",
+    "description": "Email marketing connected directly to your website. Includes social media marketing, SEO, branding a",
+    "text": "Drag and drop to create emails, announcements and promotions that look great on any device.\nwant to "
+  },
+  {
+    "id": "26ab18433c902428608fc63f2746ac85ac2ab674",
+    "url": "https://www.weebly.com/features/mobile-website",
+    "title": "Mobile Website Builder - Create Stunning Mobile Sites with Weebly",
+    "description": "View and edit the mobile version of your website with the Weebly Mobile Editor for seamless integrat",
+    "text": "Make mobile work with responsive themes and device preview.\nCreating a mobile website has never been"
+  },
+  {
+    "id": "f0e3223b4f005f61d998368d7d5e0f49991c8238",
+    "url": "https://www.harvard.edu/",
+    "title": "Harvard University",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing l",
+    "text": "On our campus, world-class faculty and talented students come together to create a better world thro"
+  },
+  {
+    "id": "d601299b27f6aae884c8fedadda41aa698498b48",
+    "url": "https://www.harvard.edu/2024/05/22/conferral-of-degrees/",
+    "title": "Conferral of Degrees - Harvard University",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing l",
+    "text": "In accordance with the University statutes, the President and Fellows of Harvard College are respons"
+  },
+  {
+    "id": "1f1e0c4941d31ecdc2a18216d5cfe7e1d14015a1",
+    "url": "https://www.harvard.edu/2024/01/02/statement-from-the-harvard-corporation-president-gay/",
+    "title": "Statement from the Harvard Corporation: President Gay - Harvard University",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing l",
+    "text": "Dear Members of the Harvard Community,\nWith great sadness, we write in light of President Claudine G"
+  },
+  {
+    "id": "db2090eb525edd4c8a3a0360c4fd380478abaec2",
+    "url": "https://harvard.edu/",
+    "title": "Harvard University",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing l",
+    "text": "On our campus, world-class faculty and talented students come together to create a better world thro"
+  },
+  {
+    "id": "cd843d564f25c9b2d235bda3ccd90fc655eb0f11",
+    "url": "https://www.harvard.edu/2023/12/12/statement-from-the-harvard-corporation-our-president/",
+    "title": "Statement from the Harvard Corporation: Our President - Harvard University",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing l",
+    "text": "Dear Members of the Harvard Community,\nAs members of the Harvard Corporation, we today reaffirm our "
+  },
+  {
+    "id": "cde9d840b5b27e18ce903b5c84cba4754ae71ca0",
+    "url": "https://www.harvard.edu/about/history/nobel-laureates/literature/",
+    "title": "Nobel Laureates in Literature - Harvard University",
+    "description": "Harvard faculty honored with the Nobel Prize acknowledging outstanding contributions to the field of",
+    "text": "1995\nFor poetic works of lyrical beauty and ethical depth, which exalt everyday miracles and the liv"
+  },
+  {
+    "id": "9d11fe1089d58b63ff923923336344237f879957",
+    "url": "https://www.harvard.edu/about/history/nobel-laureates/peace/",
+    "title": "Nobel Laureates in Peace - Harvard University",
+    "description": "Harvard faculty honored with the Nobel Prize awarded for promoting world peace.",
+    "text": "1985\nFounded in Boston in June of 1980 by four Harvard physicians, Bernard Lown of Harvard School of"
+  },
+  {
+    "id": "46476d38b06b2efda41d7ae3f19f4ed2fb91277a",
+    "url": "https://www.harvard.edu/about/history/nobel-laureates/chemistry/",
+    "title": "Nobel Laureates in Chemistry - Harvard University",
+    "description": "Harvard faculty honored with the Nobel Prize acknowledging outstanding contributions to the field of",
+    "text": "2013\n“for the development of multiscale models for complex chemical systems.”\nMartin Karplus, the Th"
+  },
+  {
+    "id": "d99800e7fafa9194beea14a668756de690405449",
+    "url": "https://www.harvard.edu/copyright-issue/",
+    "title": "Copyright issue - Harvard University",
+    "description": "Harvard has designated an agent to receive notification of alleged copyright infringement occurring ",
+    "text": "In accordance with the Digital Millennium Copyright Act (“DMCA”), Pub. L. 105-304, Harvard has desig"
+  },
+  {
+    "id": "b30df87d0d82bf32a369934f0e9964b6b397d05e",
+    "url": "https://www.harvard.edu/security-issue/",
+    "title": "Security issue - Harvard University",
+    "description": "If you believe you have discovered a vulnerability or have a security incident to report, please con",
+    "text": "If you believe you have discovered a vulnerability or have a security incident to report, please rep"
+  },
+  {
+    "id": "01f7ac0c92559c5f2299417e98cdb01d8dd91955",
+    "url": "https://www.gov.uk/",
+    "title": "Welcome to GOV.UK",
+    "description": "GOV.UK - The best place to find government services and information.",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "2e980d0b3df8965ecbe93d06e93abac2514b62ea",
+    "url": "https://www.gov.uk/world/organisations/british-embassy-podgorica/about/media-enquiries",
+    "title": "Media enquiries - GOV.UK",
+    "description": "If you have a media query or you’re a journalist wanting to join our mailing list, contact our commu",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "920c3aa0047e53d21bc13a2fd77b8f43dd7728d2",
+    "url": "https://www.gov.uk/world/organisations/british-embassy-phnom-penh/about/complaints-procedure",
+    "title": "Complaints procedure - GOV.UK",
+    "description": "The Foreign, Commonwealth & Development Office is committed to providing a high-quality service to e",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "4930f4abbdbce909168ae3e0f7eb71081c5da586",
+    "url": "https://www.gov.uk/world/organisations/british-embassy-tehran/about/complaints-procedure",
+    "title": "Complaints procedure - GOV.UK",
+    "description": "The Foreign, Commonwealth & Development Office is committed to providing a high-quality service to e",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "ab83934932b70db9c9216515915880c1cacc8fcd",
+    "url": "https://www.gov.uk/world/st-helena-ascension-and-tristan-da-cunha/news",
+    "title": "St Helena, Ascension and Tristan da Cunha and the UK - GOV.UK",
+    "description": "Updates, news and events from the UK government in St Helena, Ascension and Tristan da Cunha",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "08c66b53830a8676f58f321c0853b09d03862337",
+    "url": "https://www.gov.uk/world/vanuatu/news",
+    "title": "Vanuatu and the UK - GOV.UK",
+    "description": "Updates, news and events from the UK government in Vanuatu",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "cbb88d2b469eb8a1af4ecb0545281791fd5cc427",
+    "url": "https://www.gov.uk/world/south-georgia-and-the-south-sandwich-islands/news",
+    "title": "South Georgia and the South Sandwich Islands and the UK - GOV.UK",
+    "description": "Updates, news and events from the UK government in South Georgia and the South Sandwich Islands",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "1e999d2525754805c0653011587098d233a09e51",
+    "url": "https://www.gov.uk/world/organisations/british-high-commission-ottawa/about/complaints-procedure",
+    "title": "Complaints procedure - GOV.UK",
+    "description": "The Foreign, Commonwealth & Development Office is committed to providing a high-quality service to e",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "c464e599786d1068c49d88f456cb86e783de6386",
+    "url": "https://www.gov.uk/world/organisations/british-consulate-general-wuhan/about/complaints-procedure",
+    "title": "Complaints procedure - GOV.UK",
+    "description": "The Foreign, Commonwealth & Development Office is committed to providing a high-quality service to e",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "30a65d3d637bfc7cf716cd09c6513bb285f3e743",
+    "url": "https://www.gov.uk/world/organisations/department-for-business-and-trade-austria/about/recruitment",
+    "title": "Working for Austria-UK trade: export and investment guidance and support - GOV.UK",
+    "description": "Information on current work opportunities at the British Embassy in Vienna and requirements for appl",
+    "text": "We use some essential cookies to make this website work.\nWe’d like to set additional cookies to unde"
+  },
+  {
+    "id": "d1423859b6a068d9220d7b06cd9f989c55bcfc1d",
+    "url": "https://mzstatic.com/",
+    "title": "Apple",
+    "description": "",
+    "text": "Get to know the next generation of iPhone — iPhone 17 Pro, iPhone 17, and the all-new iPhone Air. Ex"
   }
 ]
