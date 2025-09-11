@@ -1845,5 +1845,232 @@
     "urls": [
       "https://imgsmail.ru/"
     ]
+  },
+  "rocket-cdn.com": {
+    "lastAt": 1757586174451,
+    "urls": []
+  },
+  "openai.com": {
+    "lastAt": 1757586180821,
+    "urls": []
+  },
+  "googleblog.com": {
+    "lastAt": 1757586183349,
+    "urls": [
+      "https://googleblog.com/"
+    ]
+  },
+  "linktr.ee": {
+    "lastAt": 1757586185976,
+    "urls": [
+      "https://linktr.ee/discover/profile-directory/c/business/page-1/",
+      "https://linktr.ee/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-2/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-3/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-5/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-4/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-6/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-7/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-8/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-9/"
+    ]
+  },
+  "steampowered.com": {
+    "lastAt": 1757586188308,
+    "urls": [
+      "https://steampowered.com/"
+    ]
+  },
+  "youtube-nocookie.com": {
+    "lastAt": 1757586191359,
+    "urls": []
+  },
+  "wixsite.com": {
+    "lastAt": 1757586194435,
+    "urls": []
+  },
+  "ttdns2.com": {
+    "lastAt": 1757586197579,
+    "urls": []
+  },
+  "doi.org": {
+    "lastAt": 1757586199618,
+    "urls": [
+      "https://www.doi.org/the-identifier/resources/logos/",
+      "https://doi.org/",
+      "https://www.doi.org/more-info/",
+      "https://www.doi.org/the-identifier/resources/handbook/",
+      "https://www.doi.org/the-identifier/",
+      "https://www.doi.org/the-identifier/resources/faqs/",
+      "https://www.doi.org/the-identifier/resources/doi-in-the-news/",
+      "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-cloudflare-old/",
+      "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-cloudflare/",
+      "https://www.doi.org/the-identifier/resources/news/"
+    ]
+  },
+  "hubspot.com": {
+    "lastAt": 1757586203044,
+    "urls": [
+      "https://hubspot.com/",
+      "https://www.hubspot.com/blog/bid/31882/hubspot-launches-new-conversion-assists-report",
+      "https://www.hubspot.com/company-news/hubspots-inbound-2013-conference-kicks-off-today-in-downtown-boston",
+      "https://www.hubspot.com/case-studies/triaster",
+      "https://www.hubspot.com/sales-hub-for-events",
+      "https://www.hubspot.com/company-news/hubspot-launches-new-community-for-black-business-professionals",
+      "https://www.hubspot.com/startups/magazine",
+      "https://www.hubspot.com/partner-news/april-2018-tier-promotions",
+      "https://www.hubspot.com/blog/bid/5284/hubspot-authors-create-book-grader-to-track-success-of-inbound-marketing-book",
+      "https://www.hubspot.com/pt/roi-calculator-embed-test"
+    ]
+  },
+  "mikrotik.com": {
+    "lastAt": 1757586207756,
+    "urls": [
+      "https://mikrotik.com/",
+      "https://mikrotik.com/support",
+      "https://mikrotik.com/software",
+      "https://mikrotik.com/training/",
+      "https://mikrotik.com/training/next",
+      "https://mikrotik.com/download/",
+      "https://mikrotik.com/buy/",
+      "https://mikrotik.com/customers",
+      "https://mikrotik.com/training/partners",
+      "https://mikrotik.com/consultants"
+    ]
+  },
+  "wikimedia.org": {
+    "lastAt": 1757586209297,
+    "urls": [
+      "https://wikimedia.org/"
+    ]
+  },
+  "cloud.microsoft": {
+    "lastAt": 1757586210844,
+    "urls": [
+      "https://cloud.microsoft/"
+    ]
+  },
+  "omtrdc.net": {
+    "lastAt": 1757586213764,
+    "urls": []
+  },
+  "appsflyer.com": {
+    "lastAt": 1757586216134,
+    "urls": [
+      "https://www.appsflyer.com/blog/topic/remarketing/",
+      "https://www.appsflyer.com/company/newsroom/pr/global-app-spending-habits-report/",
+      "https://appsflyer.com/",
+      "https://www.appsflyer.com/use-cases/marketing-analytics/cohort-analysis-data-insights/",
+      "https://www.appsflyer.com/blog/topic/ios-14/",
+      "https://www.appsflyer.com/blog/ceo/aggregated-advanced-privacy/",
+      "https://www.appsflyer.com/blog/measurement-analytics/app-campaigns-marketing-analytics/",
+      "https://www.appsflyer.com/blog/mobile-marketing/app-discovery/",
+      "https://www.appsflyer.com/glossary/pltv/",
+      "https://www.appsflyer.com/resources/reports/mma-consumer/"
+    ]
+  },
+  "moe.video": {
+    "lastAt": 1757586219781,
+    "urls": [
+      "https://moe.video/"
+    ]
+  },
+  "nr-data.net": {
+    "lastAt": 1757586222742,
+    "urls": []
+  },
+  "vkontakte.ru": {
+    "lastAt": 1757586229049,
+    "urls": [
+      "https://vkontakte.ru/"
+    ]
+  },
+  "mts.ru": {
+    "lastAt": 1757586245403,
+    "urls": [
+      "https://moskva.mts.ru/personal",
+      "https://mts.ru/",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mobile-tv-inet",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/telefon",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/satellite-tv",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-proshche",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/watches-and-modems",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-junior-catalog",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mobile",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_izhs/moskva"
+    ]
+  },
+  "byteoversea.net": {
+    "lastAt": 1757586248530,
+    "urls": []
+  },
+  "hp.com": {
+    "lastAt": 1757586326082,
+    "urls": [
+      "https://hp.com/"
+    ]
+  },
+  "mtgglobals.com": {
+    "lastAt": 1757586329352,
+    "urls": []
+  },
+  "amazon.co.uk": {
+    "lastAt": 1757586335139,
+    "urls": []
+  },
+  "tinyurl.com": {
+    "lastAt": 1757586343659,
+    "urls": [
+      "https://tinyurl.com/",
+      "https://tinyurl.com/app/features/custom-links",
+      "https://tinyurl.com/app/features/link-management",
+      "https://tinyurl.com/app/pricing",
+      "https://tinyurl.com/app",
+      "https://tinyurl.com/app/features/link-analytics",
+      "https://tinyurl.com/app/features/how-tinyurl-works",
+      "https://tinyurl.com/app/features/branded-domains",
+      "https://tinyurl.com/app/features/about-us"
+    ]
+  },
+  "who.int": {
+    "lastAt": 1757586353922,
+    "urls": [
+      "https://who.int/"
+    ]
+  },
+  "adtrafficquality.google": {
+    "lastAt": 1757586355757,
+    "urls": [
+      "https://adtrafficquality.google/"
+    ]
+  },
+  "facebook.net": {
+    "lastAt": 1757586358870,
+    "urls": []
+  },
+  "samsungcloud.com": {
+    "lastAt": 1757586361895,
+    "urls": []
+  },
+  "avast.com": {
+    "lastAt": 1757586368186,
+    "urls": [
+      "https://www.avast.com/cs-cz/about",
+      "https://www.avast.com/ar-sa/about",
+      "https://www.avast.com/cs-sk/about",
+      "https://www.avast.com/ar-ww/about",
+      "https://www.avast.com/da-dk/about",
+      "https://www.avast.com/de-ch/about",
+      "https://avast.com/",
+      "https://www.avast.com/en-ae/about",
+      "https://www.avast.com/el-gr/about",
+      "https://www.avast.com/de-de/about"
+    ]
+  },
+  "openx.net": {
+    "lastAt": 1757586369581,
+    "urls": [
+      "https://openx.net/"
+    ]
   }
 }
