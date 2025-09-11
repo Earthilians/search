@@ -14537,5 +14537,607 @@
     "title": "Google",
     "description": "Search the world's information, including webpages, images, videos and more. Google has many special",
     "text": "© 2025 - Privacy - Terms"
+  },
+  {
+    "id": "950b51c6f29e6c955b458e639be82078357a693b",
+    "url": "https://newrelic.com/",
+    "title": "New Relic | Monitor, Debug and Improve Your Entire Stack",
+    "description": "Sign up for free, no credit card required with New Relic the all-in-one observability platform for e",
+    "text": "Maximize business uptime and drive engineering excellence in the AI era.\nResolve issues 5x faster wi"
+  },
+  {
+    "id": "e3793fe37b33fc96757c6a702a153110cf6dfc8f",
+    "url": "https://newrelic.com/blog/nerdlog/unify-monitoring-across-the-entire-sap-landscape",
+    "title": "Unify monitoring across the entire SAP landscape | New Relic",
+    "description": "New Relic, the intelligent observability platform, supports RISE With SAP to help enterprises accele",
+    "text": "By Samir Ahuja, Senior Director, Growth Engineering\nRISE With SAP is an offering from SAP that helps"
+  },
+  {
+    "id": "19db5d6d603cdd775bf5eadad6d29559096c3cb6",
+    "url": "https://newrelic.com/press-release/20170222",
+    "title": "Kristy Friedrichs Joins New Relic as Chief People Officer | New Relic",
+    "description": "",
+    "text": "---\nDigital Intelligence leader New Relic, Inc. (NYSE: NEWR) announced that Kristy Friedrichs has jo"
+  },
+  {
+    "id": "598cd14441a9882b0e972179e92909931e0827e0",
+    "url": "https://newrelic.com/blog/how-to-relic/ai-in-observability",
+    "title": "AI in observability: Advancing system monitoring and performance | New Relic",
+    "description": "Explore how AI revolutionizes observability, from automated anomaly detection to advanced monitoring",
+    "text": "By Mehreen Tahir, Software Engineer\nAs modern IT environments grow increasingly complex, maintaining"
+  },
+  {
+    "id": "7ea16bbdf753aa8306548537fb21e228e7de09c3",
+    "url": "https://newrelic.com/blog/nerdlog/enhance-your-internet-observability-with-amazon-cloudwatch-internet-monitor-integration-with-new",
+    "title": "Enhance your internet observability with Amazon CloudWatch Internet Monitor integration with New Rel",
+    "description": "New Relic integrates with Amazon CloudWatch Internet Monitor to provide a unified solution for monit",
+    "text": "By Kiran Hew, Principal Program Manager\nBy Anupam Anand, Senior Product Manager\nBy Nava Ajay Kanth K"
+  },
+  {
+    "id": "dba0f3844f12d1e6765a3ff1e4c77ee22ba86929",
+    "url": "https://newrelic.com/blog/nerdlog/sap-business-app-support-teams-optimize-process-flows-with-new-relic",
+    "title": "SAP business app support teams optimize process flows with New Relic | New Relic",
+    "description": "SAP business analysts optimize SAP Fiori end-user experiences with New Relic observability",
+    "text": "By Samir Ahuja, Senior Director, Growth Engineering\nBusiness processes that rely on SAP infrastructu"
+  },
+  {
+    "id": "0d44dbc2a2fedefc501fa0f0e82104157a8b5584",
+    "url": "https://newrelic.com/press-release/20170125",
+    "title": "New Relic Helps Global Enterprises Accelerate DevOps Success Through Measurement Across the Applicat",
+    "description": "New Relic Helps Global Enterprises Accelerate DevOps Success Through Measurement Across the Applicat",
+    "text": "Concur, Irish Distillers, and WOW air Improve Customer Experiences and Drive Digital Business Succes"
+  },
+  {
+    "id": "4b64f7974d18d46d61d331242fe2a7d7ff1fc9ec",
+    "url": "https://newrelic.com/press-release/20240911",
+    "title": "New Relic’s Best-of-Breed Observability Platform Unifies Monitoring Across the Entire SAP Landscape ",
+    "description": "New Relic’s Best-of-Breed Observability Platform Unifies Monitoring Across the Entire SAP Landscape ",
+    "text": "Supports RISE With SAP to accelerate and future-proof cloud transformation\nOffers the only built-in "
+  },
+  {
+    "id": "a36c66aa5cc88012319f0df61143f8d50224d8e5",
+    "url": "https://newrelic.com/press-release/20161223",
+    "title": "New Relic Recognized as a Leader in Gartner’s Magic Quadrant for Application Performance Monitoring ",
+    "description": "",
+    "text": "---\nDigital intelligence leader New Relic, Inc. (NYSE: NEWR) announced that the company has been rec"
+  },
+  {
+    "id": "281a952a09be351ea10b877480aa0bbcd34f8d6e",
+    "url": "https://newrelic.com/blog/how-to-relic/observability-as-code-ai-apps-new-relic-pulumi",
+    "title": "Observability as code for AI apps with New Relic and Pulumi | New Relic",
+    "description": "Discover how to streamline AI observability with New Relic and Pulumi. Learn how to automate AI app ",
+    "text": "By Diana Esteves (Pulumi), Solutions Architect\nBy Harry Kimpel, Principal Developer Relations Engine"
+  },
+  {
+    "id": "49c2acc0f3cb6e6ff3e617c030c08a80025797cc",
+    "url": "https://aboutads.info/",
+    "title": "YourAdChoices.com | Welcome to YourAdChoices.com",
+    "description": "",
+    "text": "When you click on the YourAdChoices Icon, you get control over how information about your interests "
+  },
+  {
+    "id": "2ec34bd6cfb2c8ecb6a83a40bf626f2d3fd2dcf3",
+    "url": "https://xerox.com/",
+    "title": "Workplace and Digital Printing Solutions | Xerox",
+    "description": "Workplace solutions, document management and digital printing technologies to help organizations com",
+    "text": "Printers & Products\nSoftware\nServices\nSolutions\nPartners\nSupport\nWe make work, work.\nWe’re excited t"
+  },
+  {
+    "id": "88055ec5ea22387cea724cd3b231169f502ed0db",
+    "url": "https://he.net/",
+    "title": "Hurricane Electric Internet Services - Internet Backbone and Colocation Provider",
+    "description": "",
+    "text": "Our Global Internet Backbone provides IP Transit with low latency, access to thousands of networks, "
+  },
+  {
+    "id": "e91be57e51e061b501bcf56dae0250f4353f3851",
+    "url": "https://w3schools.com/",
+    "title": "W3Schools Online Web Tutorials",
+    "description": "",
+    "text": "W3Schools offers a wide range of services and products for\n                beginners and professiona"
+  },
+  {
+    "id": "dbea661509bf8be2cda27751b6f86f7a3e6317d6",
+    "url": "https://elpais.com/",
+    "title": "EL PAÍS Edición US: el periódico global",
+    "description": "Noticias de última hora de Estados Unidos y la actualidad internacional: política, economía, deporte",
+    "text": "El líder MAGA falleció de un balazo en el cuello en un acto en un campus en Utah. Las autoridades cr"
+  },
+  {
+    "id": "9d7c6132e36548446b472c17188dc5d5af250a55",
+    "url": "https://pinimg.com/",
+    "title": "Pinterest",
+    "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+    "text": ""
+  },
+  {
+    "id": "6cbb1cf834cdab34fdd94166b48e14865182e857",
+    "url": "https://www.pinterest.com/ideas/big-hole-charm-beads/908317145438/",
+    "title": "Big Hole Charm Beads",
+    "description": "Find and save ideas about big hole charm beads on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "e28ed984a1e3bd5b7f512396de1586f254a68b17",
+    "url": "https://www.pinterest.com/ideas/minimalist-scribble-design/902907112656/",
+    "title": "Minimalist Scribble Design",
+    "description": "Find and save ideas about minimalist scribble design on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "dcbcb9c003638a1445b47a49c31b3fab9f567c35",
+    "url": "https://www.pinterest.com/ideas/how-to-make-maurice-salad/947306051707/",
+    "title": "How to Make Maurice Salad",
+    "description": "Find and save ideas about how to make maurice salad on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "e385d27bfef6ef921bd3eb85d7a08a0994dd3286",
+    "url": "https://www.pinterest.com/ideas/green-vegetarian-emblem/915699387808/",
+    "title": "Green Vegetarian Emblem",
+    "description": "Find and save ideas about green vegetarian emblem on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "fd9d59958b56a115640dccd92a16b6bea24ddc28",
+    "url": "https://www.pinterest.com/ideas/how-to-make-peach-whiskey-chili/962065069088/",
+    "title": "How to Make Peach Whiskey Chili",
+    "description": "Find and save ideas about how to make peach whiskey chili on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "c530707636ef712d334ae10cbba1dfb8b04385c3",
+    "url": "https://www.pinterest.com/ideas/how-to-replace-mascarpone-in-recipes/894287030998/",
+    "title": "How to Replace Mascarpone in Recipes",
+    "description": "Find and save ideas about how to replace mascarpone in recipes on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "efdbdb077d8424c0d1014104df7b42f7e200bdf6",
+    "url": "https://www.pinterest.com/ideas/unique-snack-serving-ideas/897995033264/",
+    "title": "Unique Snack Serving Ideas",
+    "description": "Find and save ideas about unique snack serving ideas on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "2f2d8189cfc8a2bde46e347197358f4652bc999f",
+    "url": "https://www.pinterest.com/ideas/yellow-moccamaster-coffee-maker/941638249125/",
+    "title": "Yellow Moccamaster Coffee Maker",
+    "description": "Find and save ideas about yellow moccamaster coffee maker on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "ff8f54557f67e8d6b68e9421a1d3185328bc0005",
+    "url": "https://www.pinterest.com/ideas/seasonal-reflection-quotes/949217800332/",
+    "title": "Seasonal Reflection Quotes",
+    "description": "Find and save ideas about seasonal reflection quotes on Pinterest.",
+    "text": ""
+  },
+  {
+    "id": "afacb2687a3c5a9f6acc5edf4edb756c9fdcffa4",
+    "url": "https://www.jotform.com/workflow-templates/",
+    "title": "200+ Free Workflow Templates | Jotform",
+    "description": "Create automated workflow flows. Drag and drop to customize. No coding. Respond in a single click on",
+    "text": "The Equipment Purchase Request Workflow Template is designed to streamline the process of requesting"
+  },
+  {
+    "id": "596e01ea00756b56fc41163350a76d616c9e4016",
+    "url": "https://jotform.com/",
+    "title": "Free Online Form Builder & Form Creator | Jotform",
+    "description": "Create forms and surveys for free with Jotform’s drag-and-drop form builder. Start collecting regist",
+    "text": "Get a dedicated support team with Jotform Enterprise.\nWe believe the right form makes all the differ"
+  },
+  {
+    "id": "833bd8224740fd521c03a6b925e526b1cf19c118",
+    "url": "https://www.jotform.com/workflow-templates/category/application",
+    "title": "Application Workflow Process Templates | Jotform",
+    "description": "Automate your application process with Jotform’s free application workflow templates. Easy to custom",
+    "text": "The Internship Approval Workflow Template is designed to efficiently manage and streamline the proce"
+  },
+  {
+    "id": "13c46cf9769f2ed7f9dfa12489d393d500686bd9",
+    "url": "https://www.jotform.com/workflow-templates/category/administration",
+    "title": "Administration Workflow Process Templates | Jotform",
+    "description": "Save time by automating your administration workflow tasks. Easy-to-customize online workflow templa",
+    "text": "The Training Workflow Template is designed to streamline the organization and management of employee"
+  },
+  {
+    "id": "363daf0c921ad5ccba1ef0c9e60c0226105d7f0b",
+    "url": "https://www.jotform.com/workflow-templates/category/approvals",
+    "title": "Approval Workflow Templates | Jotform",
+    "description": "Save time by automating all the approvals tasks of your department. Easy-to-customize online approva",
+    "text": "Manage approvals for your creative agency. Free automated approval flow template. Add project leads "
+  },
+  {
+    "id": "cde55ac148cfe4c755597c86c8a0777a4b4568c2",
+    "url": "https://www.jotform.com/workflow-templates/category/education",
+    "title": "Workflow Templates for Education | Jotform",
+    "description": "Automate your school’s all workflows with Jotform. Easy-to-customize automated workflow templates. S",
+    "text": "The Field Trip Request Approval Workflow Template is designed to help schools, educators, and admini"
+  },
+  {
+    "id": "91bf35176c87eafa52d33bacfb1c2a7cc84ea6e5",
+    "url": "https://www.jotform.com/workflow-templates/category/finance",
+    "title": "Workflow Templates for Finance | Jotform",
+    "description": "Automate your finance department’s workflow processes. Free, easy-to-customize workflow templates. R",
+    "text": "The Business Trip Approval Workflow Template is designed to automate and streamline the process of r"
+  },
+  {
+    "id": "a450be051343d60ec323773b874823e1d0499708",
+    "url": "https://www.jotform.com/workflow-templates/category/it",
+    "title": "Workflow Templates for IT | Jotform",
+    "description": "Process IT requests with ease from any device. Free automated online workflow templates. Easy to cus",
+    "text": "The Equipment Purchase Request Workflow Template is designed to streamline the process of requesting"
+  },
+  {
+    "id": "9a09eb05622abd358a9dedc50962ba3525fc3b4b",
+    "url": "https://www.jotform.com/workflow-templates/category/healthcare",
+    "title": "Workflow Templates for Healthcare | Jotform",
+    "description": "Free online healthcare workflow templates. Respond to requests on any device. Automate your organiza",
+    "text": "The Consent Approval Workflow Template is designed to simplify and automate the process of obtaining"
+  },
+  {
+    "id": "9d466ba39bffcf44830a2bba2aa92bc58df913d9",
+    "url": "https://www.jotform.com/workflow-templates/category/human-resources",
+    "title": "Workflow Templates for Human Resources | Jotform",
+    "description": "Free automated workflow templates for HR departments. Great for job applications, PTO and leave requ",
+    "text": "The Employee Onboarding Workflow Template is designed to automate and streamline the onboarding proc"
+  },
+  {
+    "id": "7931c492ece5633cd67727191b834826a3a01843",
+    "url": "https://www.pendo.io/",
+    "title": "#1 Global Software Experience Management Platform | Pendo.io",
+    "description": "Increase revenue, cut costs, and reduce risk with Pendo’s Software Experience Management platform. O",
+    "text": "Pendo is the only Software Experience Management (SXM) platform that helps you analyze and improve h"
+  },
+  {
+    "id": "46af787c4e7f8bea112dd4984d9c22804042922c",
+    "url": "https://pendo.io/",
+    "title": "#1 Global Software Experience Management Platform | Pendo.io",
+    "description": "Increase revenue, cut costs, and reduce risk with Pendo’s Software Experience Management platform. O",
+    "text": "Pendo is the only Software Experience Management (SXM) platform that helps you analyze and improve h"
+  },
+  {
+    "id": "09811032f99a0a3cc3596fd0203f5073634bb2b6",
+    "url": "https://www.pendo.io/news-media/",
+    "title": "Press Center | Pendo.io",
+    "description": "Stay up to date with Pendo's latest news, press releases, and media coverage.",
+    "text": ""
+  },
+  {
+    "id": "6afc4a2310fead37ec1de6ddd010852582af8623",
+    "url": "https://www.pendo.io/resources/",
+    "title": "Resource Pages Archive | Pendo.io",
+    "description": "",
+    "text": "SaaS + AI solutions for the Agentic era\nThe Roomba creator nearly doubled in-app engagement while cu"
+  },
+  {
+    "id": "ed6823855b8a783d747161f3802abaf9e02028ff",
+    "url": "https://www.pendo.io/solutions/",
+    "title": "Pendo for product teams and beyond | Improve software with Pendo",
+    "description": "Drive product growth with Pendo. Track user behavior, reduce churn, and make data-driven roadmap dec",
+    "text": ".css-1qggkls{outline:none;}.css-1qggkls p:first-of-type,.css-1qggkls .builder-paragraph:first-of-typ"
+  },
+  {
+    "id": "c5ed30a9e5712471e096733100e1ce5cc06345c0",
+    "url": "https://www.pendo.io/product/features/retention-analytics/",
+    "title": "Pendo Analytics | Product Analytics Tool - Product Analytics Software",
+    "description": "Pendo Analytics helps you identify invisible friction, uncover features your users love (or ignore),",
+    "text": "Know how your software is really used—and which features deliver the most value.\nTrack and compare h"
+  },
+  {
+    "id": "639c3aed3fb41ffde11f64b1cd98c295bb5e7d86",
+    "url": "https://www.pendo.io/product/features/",
+    "title": "Why Pendo | Pendo.io",
+    "description": "Create digital experiences users love with an integrated suite of tools for your products—with analy",
+    "text": ".css-1qggkls{outline:none;}.css-1qggkls p:first-of-type,.css-1qggkls .builder-paragraph:first-of-typ"
+  },
+  {
+    "id": "cea510ea06e6f4746312d58c0aa390f7e9e463b7",
+    "url": "https://www.pendo.io/mobile-app-personalization/",
+    "title": "Pendo for Mobile: Make every mobile moment matter | Pendo.io",
+    "description": "With Pendo for mobile, you can understand and guide your users through a seamless product journey, a",
+    "text": "Pendo for Mobile\nMake every mobile moment matter\nUnify your customer journey across mobile and deskt"
+  },
+  {
+    "id": "9bf806f4f3d90f7adab2cd3b02f3e7713c7ced6c",
+    "url": "https://www.pendo.io/product/nps/",
+    "title": "Measure and increase customer happiness, in-app | Pendo.io",
+    "description": "See how your product experience drives customer satisfaction with in-app NPS, and combine scores wit",
+    "text": "Pendo NPS\nMeasure and increase customer happiness\nSee how your product experience drives customer sa"
+  },
+  {
+    "id": "c16c34d96934a9112085c230e8381fe7f218ba14",
+    "url": "https://www.pendo.io/careers-old/product-team/",
+    "title": "The Pendo Product Team | Pendo.io",
+    "description": "Join the team behind the product for product people. The product department at Pendo is collaborativ",
+    "text": "SaaS + AI solutions for the Agentic era\nThe Roomba creator nearly doubled in-app engagement while cu"
+  },
+  {
+    "id": "554f791022dd0b680a11bab72fab3328535137fd",
+    "url": "https://yieldmo.com/ttd-deal-set-up-easy-proposal-api/",
+    "title": "TTD Deal Set Up - Easy Proposal API - Yieldmo",
+    "description": "",
+    "text": "The YMax Platform\nInventory & Audience Curation\nFor Publishers\nCreative Gallery\nVideo & CTV\nCustom C"
+  },
+  {
+    "id": "44ccdd1a15cf420e8a739a77d6fa220db67d61e1",
+    "url": "https://yieldmo.com/ttd-activate-yieldmo-supply/",
+    "title": "TTD - Activate Yieldmo Supply - Yieldmo",
+    "description": "",
+    "text": "The YMax Platform\nInventory & Audience Curation\nFor Publishers\nCreative Gallery\nVideo & CTV\nCustom C"
+  },
+  {
+    "id": "ea8f1d731126f1a75975bb9a0e9b9d864f11a99a",
+    "url": "https://yieldmo.com/how-2-local-companies-are-keeping-pace-with-the-evolution-of-ai/",
+    "title": "How 2 Local Companies Are Keeping Pace With the Evolution of AI | Built In NYC",
+    "description": "Learn how AI is a catalyst for positive change at Upside and Yieldmo, where the technology fosters p",
+    "text": "For technologists at Upside and Yieldmo, AI has been a catalyst for positive change, leading to prod"
+  },
+  {
+    "id": "db50323917635054b66fb4adee922132e473b1ad",
+    "url": "https://yieldmo.com/62-ad-execs-embrace-ai-in-creativity-but-need-more-guidance-yieldmo/",
+    "title": "62% Ad Execs Embrace AI in Creativity, But Need More Guidance: Yieldmo",
+    "description": "Yieldmo, a advertising platform helping brands improve digital ad experiences , released new researc",
+    "text": "Yieldmo, a leading advertising platform helping brands improve digital ad experiences through creati"
+  },
+  {
+    "id": "65826273f51719115943a51c50285988bbb575ee",
+    "url": "https://yieldmo.com/yieldmo-strengthens-executive-leadership-team-with-two-new-appointments/",
+    "title": "Yieldmo Strengthens Executive Leadership Team with Two New",
+    "description": "New Roles Create More Opportunities to Enhance Digital Advertising Outcomes and Experiences with AI.",
+    "text": "October 03, 2024 09:00 ET\n        \n\n        \n             | Source:\n            \n\n                Yi"
+  },
+  {
+    "id": "9035d870a39b5c0f74cd86b97801b9c815b1e3a6",
+    "url": "https://yieldmo.com/the-industry-pullback-from-cookie-based-tech-proves-cookies-are-already-dead/",
+    "title": "The Industry Pullback From Cookie-Based Tech Proves Cookies Are Already Dead | AdExchanger",
+    "description": "We should welcome the opportunity to be part of identity’s path forward, now that we’ve released our",
+    "text": "By Mark McEachran, Yieldmo\nThe cookie is already gone. The budgets have shifted. All the howlers scr"
+  },
+  {
+    "id": "64941279768b401bcb1e7795a8ed76d81f1f2255",
+    "url": "https://yieldmo.com/the-robots-are-coming-the-robots-are-coming/",
+    "title": "The Robots are Coming!  The Robots are Coming! – Advertising Week",
+    "description": "",
+    "text": "if (!window.AdButler){(function(){var s = document.createElement(\"script\"); s.async = true; s.type ="
+  },
+  {
+    "id": "8cd8a8c6ab35134c53fa86f2456a56d11b7d70ce",
+    "url": "https://yieldmo.com/ttd-find-partner-seat-id/",
+    "title": "TTD - Find Partner Seat ID - Yieldmo",
+    "description": "",
+    "text": "The YMax Platform\nInventory & Audience Curation\nFor Publishers\nCreative Gallery\nVideo & CTV\nCustom C"
+  },
+  {
+    "id": "586bbd83ce5f462358d6cbc9a69a40382f848cab",
+    "url": "https://brave.com/learn/using-chrome-extensions-in-brave/",
+    "title": "Can I use extensions in Brave? | Brave",
+    "description": "The Brave browser is packed with great out-of-the box features, including a powerful ad blocker. But",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "26fa72984069b559b283c5ff74f28a1594f362ff",
+    "url": "https://brave.com/whats-new/playlist/",
+    "title": "A whole new Brave Playlist | Brave",
+    "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to ",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "ae1dc32ac109125ecfe0578fd98a265694628d5c",
+    "url": "https://brave.com/whats-new/tab-split-view/",
+    "title": "Tab split view | Brave",
+    "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to ",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "40b73a2529aea781777d25a0a287e0dfd44479e6",
+    "url": "https://brave.com/whats-new/quick-search-engines/",
+    "title": "Quick search engines | Brave",
+    "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to ",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "5f82759b28ce1680cdc82f6bfd6fba816ecece75",
+    "url": "https://brave.com/learn/what-is-a-choice-screen/",
+    "title": "How Choice Screens Affect Your Browsing & Search Experience | Brave",
+    "description": "Choice screens let users select a default search engine and browser on their device. Learn how these",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "33fab0da523c459e400e1dcb623cbe9ad7e2341c",
+    "url": "https://brave.com/glossary/passkey/",
+    "title": "Passkey Meaning & Definition | Brave",
+    "description": "Online privacy can be confusing. In this easy-to-read list, you'll find short definitions of essenti",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "d37f4fd005c9da9024d018b889ad13c341aae121",
+    "url": "https://brave.com/glossary/penetration-testing/",
+    "title": "Penetration testing Meaning & Definition | Brave",
+    "description": "Online privacy can be confusing. In this easy-to-read list, you'll find short definitions of essenti",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "e75540a729bb2324ec90868da59db0509139514c",
+    "url": "https://brave.com/learn/how-to-block-ads-on-youtube/",
+    "title": "How to block ads on YouTube | Brave",
+    "description": "YouTube ads can be a major annoyance, and interrupt your streaming. In this article, we'll discuss t",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "d924fbec85f13c9f18bbce7f9b25ec601f284014",
+    "url": "https://brave.com/learn/what-is-vpn/",
+    "title": "What is a VPN? | Brave",
+    "description": "A virtual private network (VPN) enables data to be sent from your device over the Internet (e.g. to ",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "f5a045782f9a77b5b2b810093b41e9d09460c069",
+    "url": "https://brave.com/ai/intro-to-large-language-models/",
+    "title": "An intro to large language models (LLMs) | Brave",
+    "description": "Large language models, or LLMs, are powerful AI models specially designed to understand, use, and ge",
+    "text": "Privacy, extensions, and the best option for every platform.\nCrypto, NFTs, and all things blockchain"
+  },
+  {
+    "id": "7816720b3397f15b75899336cf96c7b83768d498",
+    "url": "https://www.livejournal.com/abuse/policy-en.bml",
+    "title": "Abuse Prevention Team Policies and Procedures",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nCon"
+  },
+  {
+    "id": "f4ed9ff15f7cbe3b46b46c317312b6c22cfe63d2",
+    "url": "https://www.livejournal.com/abuse/policy-ru.bml",
+    "title": "Правила работы Конфликтной комиссии",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nАкк"
+  },
+  {
+    "id": "4ccb7b8531c753c3bf5d8bf10093bf5f3e48fe2c",
+    "url": "https://www.livejournal.com/legal/tos-en.bml",
+    "title": "User Agreement",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nAut"
+  },
+  {
+    "id": "8765df9b66414ac040ea58720594d4f66ccf6aba",
+    "url": "https://www.livejournal.com/legal/tos-ru.bml",
+    "title": "Пользовательское соглашение",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nАвт"
+  },
+  {
+    "id": "1ed3421a728744acead6d2d012db2498736ce32e",
+    "url": "https://www.livejournal.com/bots/index.bml",
+    "title": "LiveJournal Bot Policy",
+    "description": "",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nAll"
+  },
+  {
+    "id": "25b5d5072152cb81e7837136e35bf43605fb2e3e",
+    "url": "https://livejournal.com/",
+    "title": "LiveJournal: Discover global communities of bloggers who share your unique passions and interests.",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nSho"
+  },
+  {
+    "id": "382632eda32288dbc1363317dee02d114a6665c5",
+    "url": "https://www.livejournal.com/shop/",
+    "title": "LJ Shop",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nPro"
+  },
+  {
+    "id": "d0b23e9481d9635f477b9f1f59a6dfd296ca550b",
+    "url": "https://www.livejournal.com/interesting/",
+    "title": "Interesting",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nThe"
+  },
+  {
+    "id": "8633479ab014eb0453d5259b436a2fbe94a3b284",
+    "url": "https://www.livejournal.com/interests",
+    "title": "Interests",
+    "description": "",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nv.8"
+  },
+  {
+    "id": "f68fa1485cb77fd292ea89ed06884195cbbd5a3b",
+    "url": "https://www.livejournal.com/site/",
+    "title": "Site Map",
+    "description": "Your life is the best story! Just start your blog today!",
+    "text": "By logging in to LiveJournal using a third-party service you accept LiveJournal's User agreement\nv.8"
+  },
+  {
+    "id": "03383829e1b91565fa00f99f9e0a3bd663477a16",
+    "url": "https://gm.com/",
+    "title": "Site Maintenance",
+    "description": "",
+    "text": "Please contact your administrator with the error code: 0.1353d117.1757633059.da824f1"
+  },
+  {
+    "id": "8de4f25b1117539f7119c7037de1da0b3573b5c8",
+    "url": "https://warnerbros.com/",
+    "title": "WarnerBros.com | Home of WB Movies, TV, Games, and more!",
+    "description": "Home of Warner Bros Movies, TV Shows and Video Games including Harry Potter, DC Comics and more!",
+    "text": ""
+  },
+  {
+    "id": "f0aeca6ea48d9c0deb2021a01317e030b9108ddd",
+    "url": "https://techcrunch.com/",
+    "title": "TechCrunch | Startup and Technology News",
+    "description": "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "03838100387be83878eeef96da56b0e1cf4aecf2",
+    "url": "https://techcrunch.com/newsletters/strictlyvc/",
+    "title": "StrictlyVC | TechCrunch",
+    "description": "",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "752a695c7dfb95220f8203d1bd84d27aa044089e",
+    "url": "https://techcrunch.com/newsletters/advertising-partnerships/",
+    "title": "TechCrunch Advertising & Partnerships | TechCrunch",
+    "description": "Learn more about TechCrunch partnership opportunities that stretch across our site and IRL events li",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "c28c72f3dbd25f6a90ffc9debb87a6e7f679c6e9",
+    "url": "https://techcrunch.com/newsletters/startup-battlefield-200/",
+    "title": "Startup Battlefield 200 Newsletter | TechCrunch",
+    "description": "Sign up to be the first to know when Startup Battlefield 200 applications open, and which early-stag",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "e63b248172777203c9527624b5eb9af60c96e653",
+    "url": "https://techcrunch.com/newsletters/techcrunch-ai/",
+    "title": "TechCrunch AI Newsletter | TechCrunch",
+    "description": "Each week, TechCrunch’s resident experts Kyle Wiggers and Devin Coldewey cover the latest AI develop",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "9905a8fae36b7d0391998e13293ec87e2d51c74e",
+    "url": "https://techcrunch.com/newsletters/promotions/",
+    "title": "Promotions | TechCrunch",
+    "description": "",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "e99e3e9774e161f831f4faea1bcb24e4df283236",
+    "url": "https://techcrunch.com/newsletters/techcrunch-mobility/",
+    "title": "TechCrunch Mobility Newsletter | TechCrunch",
+    "description": "TechCrunch Mobility is your destination for news and insights on the future of transportation, broug",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "5005cab5a5afd4a532c544ec087ad09725b43b89",
+    "url": "https://techcrunch.com/newsletters/techcrunch-fintech/",
+    "title": "TechCrunch FinTech Newsletter | TechCrunch",
+    "description": "Mary Ann Azevedo is at the forefront of the FinTech startup community, and you can get her newslette",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "11c78559082402b2198025cdd10f443d521908e8",
+    "url": "https://techcrunch.com/newsletters/startups-weekly/",
+    "title": "Startups Weekly Newsletter | TechCrunch",
+    "description": "Startups are the core of TechCrunch, so get our best coverage delivered weekly with additional insig",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "06991a6d06e89fc0c55d035d7c130baedeb8d388",
+    "url": "https://techcrunch.com/newsletters/techcrunch-week-in-review/",
+    "title": "TechCrunch Week in Review Newsletter | TechCrunch",
+    "description": "Every Saturday, get a rundown of the best of the TechCrunch team's reporting across startup news, ex",
+    "text": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintec"
+  },
+  {
+    "id": "410cf57f85a17be02954691499fa04de049dab0a",
+    "url": "https://telekom.net/",
+    "title": "Corporate Website: Information about the Group | Deutsche Telekom",
+    "description": "Deutsche Telekom is one of the world's leading integrated telecommunications companies. Find informa",
+    "text": "CR Report\nExperience AI\nThe Digital X was presented as Focus Edition AI under the motto “Ready for A"
   }
 ]
