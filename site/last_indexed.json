@@ -1600,5 +1600,250 @@
       "https://www.bbc.co.uk/sport/golf",
       "https://www.bbc.co.uk/sport/snooker"
     ]
+  },
+  "bbc.com": {
+    "lastAt": 1757582598792,
+    "urls": [
+      "https://bbc.com/",
+      "https://www.bbc.com/arabic/multimedia/2009/08/090827_sf_nayyefattempt_tc2",
+      "https://www.bbc.com/arabic/learningenglish/2009/08/090826_banglapolice_tc2",
+      "https://www.bbc.com/urdu/pakistan/2009/04/090414_baloch_killing_fz",
+      "https://www.bbc.com/arabic/multimedia/2009/08/090826_gn_argentina_drugs_tc2",
+      "https://www.bbc.com/arabic/tvandradio/2009/08/090827_edin",
+      "https://www.bbc.com/arabic/worldnews/2009/08/090824_az_call_for_libya_to_pay_ira_victims_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/08/090828_af_khan_nuclear_tc2",
+      "https://www.bbc.com/arabic/sports/2009/08/090822_mek_egypt_football_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/08/090827_me_pakistan_explosion_tc2"
+    ]
+  },
+  "slack.com": {
+    "lastAt": 1757582600947,
+    "urls": [
+      "https://slack.com/",
+      "https://slack.com//trust/data-requests",
+      "https://slack.com/about",
+      "https://slack.com//help",
+      "https://slack.com/about/slack-for-good",
+      "https://slack.com/acceptable-use-policy",
+      "https://slack.com/accessibility-plan",
+      "https://slack.com/affiliates",
+      "https://slack.com/accessibility",
+      "https://slack.com/ai-agents"
+    ]
+  },
+  "sourceforge.net": {
+    "lastAt": 1757582603784,
+    "urls": [
+      "https://sourceforge.net/top",
+      "https://sourceforge.net/",
+      "https://sourceforge.net/about",
+      "https://sourceforge.net/about/leadership",
+      "https://sourceforge.net/create/",
+      "https://sourceforge.net/support",
+      "https://sourceforge.net/user/registration",
+      "https://sourceforge.net/user/registration_business",
+      "https://sourceforge.net/software/reviews/",
+      "https://sourceforge.net/user/newsletters"
+    ]
+  },
+  "root-servers.net": {
+    "lastAt": 1757582606818,
+    "urls": []
+  },
+  "weather.com": {
+    "lastAt": 1757582611793,
+    "urls": [
+      "https://weather.com/",
+      "https://weather.com/apps",
+      "https://weather.com/maps/ussatellitemap",
+      "https://weather.com/maps/health/achesandpains/24hourtempchange",
+      "https://weather.com/maps/southeastdopplerradar/2100mile",
+      "https://weather.com/photos/collection/ugc/travel",
+      "https://weather.com/maps/satellite/caribbeanweathermap",
+      "https://weather.com/maps/satellite/pacificoceanweathermap",
+      "https://weather.com/maps/current-wind-chill",
+      "https://weather.com/maps/ustemperaturemap"
+    ]
+  },
+  "netangels.ru": {
+    "lastAt": 1757582615312,
+    "urls": [
+      "https://www.netangels.ru/blog/",
+      "https://www.netangels.ru/company/",
+      "https://www.netangels.ru/company/news/",
+      "https://www.netangels.ru/company/vacancies/",
+      "https://www.netangels.ru/company/data-center/",
+      "https://www.netangels.ru/company/oferta/",
+      "https://netangels.ru/",
+      "https://www.netangels.ru/company/contract/",
+      "https://www.netangels.ru/company/how-to-pay/",
+      "https://www.netangels.ru/company/how-to-pay/bank-transfer/"
+    ]
+  },
+  "azurewebsites.net": {
+    "lastAt": 1757582618172,
+    "urls": []
+  },
+  "roku.com": {
+    "lastAt": 1757582621231,
+    "urls": [
+      "https://www.roku.com/",
+      "https://www.roku.com/en-gb/",
+      "https://roku.com/",
+      "https://www.roku.com/fr-fr/",
+      "https://www.roku.com/es-mx/",
+      "https://www.roku.com/es-ar/",
+      "https://www.roku.com/en-ca/",
+      "https://www.roku.com/fr-ca/",
+      "https://www.roku.com/es-cl/",
+      "https://www.roku.com/es-co/"
+    ]
+  },
+  "scorecardresearch.com": {
+    "lastAt": 1757582622693,
+    "urls": [
+      "https://scorecardresearch.com/"
+    ]
+  },
+  "webex.com": {
+    "lastAt": 1757582626477,
+    "urls": []
+  },
+  "ebay.com": {
+    "lastAt": 1757582633223,
+    "urls": [
+      "https://www.ebay.com/itm/326765290243",
+      "https://www.ebay.com/itm/146819987615",
+      "https://www.ebay.com/itm/116773168642",
+      "https://www.ebay.com/itm/226964673887",
+      "https://www.ebay.com/itm/326764445694",
+      "https://www.ebay.com/itm/277368032683",
+      "https://www.ebay.com/itm/297600236405",
+      "https://www.ebay.com/itm/157309063287",
+      "https://www.ebay.com/itm/397037505158"
+    ]
+  },
+  "salesforce.com": {
+    "lastAt": 1757582643425,
+    "urls": [
+      "https://www.salesforce.com/",
+      "https://salesforce.com/",
+      "https://www.salesforce.com/products/secure-development-environments/",
+      "https://www.salesforce.com/design/",
+      "https://www.salesforce.com/partners/",
+      "https://www.salesforce.com/communities/",
+      "https://www.salesforce.com/resources/industries/",
+      "https://www.salesforce.com/resources/roles/",
+      "https://www.salesforce.com/resources/topics/",
+      "https://www.salesforce.com/products/expert-guidance-and-support/"
+    ]
+  },
+  "comcast.net": {
+    "lastAt": 1757582646483,
+    "urls": []
+  },
+  "wsdvs.com": {
+    "lastAt": 1757582649566,
+    "urls": []
+  },
+  "ubuntu.com": {
+    "lastAt": 1757582652382,
+    "urls": [
+      "https://ubuntu.com/",
+      "https://ubuntu.com/pricing",
+      "https://ubuntu.com/pricing/pro",
+      "https://ubuntu.com/pricing/contact-us",
+      "https://ubuntu.com/pricing/desktop",
+      "https://ubuntu.com/pricing/devices",
+      "https://ubuntu.com/training",
+      "https://ubuntu.com/training/contact-us",
+      "https://ubuntu.com/rfp",
+      "https://ubuntu.com/telco/cnf"
+    ]
+  },
+  "mit.edu": {
+    "lastAt": 1757582654573,
+    "urls": [
+      "https://mit.edu/"
+    ]
+  },
+  "ksyuncdn.com": {
+    "lastAt": 1757582664013,
+    "urls": []
+  },
+  "oracle.com": {
+    "lastAt": 1757582667686,
+    "urls": []
+  },
+  "vecdnlb.com": {
+    "lastAt": 1757582670986,
+    "urls": []
+  },
+  "sciencedirect.com": {
+    "lastAt": 1757582676533,
+    "urls": [
+      "https://sciencedirect.com/"
+    ]
+  },
+  "kwai-pro.com": {
+    "lastAt": 1757582679835,
+    "urls": []
+  },
+  "cpanel.net": {
+    "lastAt": 1757582682320,
+    "urls": [
+      "https://www.cpanel.net/blog/",
+      "https://www.cpanel.net/blog/tips-and-tricks/3-cpanel-plugins-for-added-server-security/",
+      "https://www.cpanel.net/blog/tips-and-tricks/hosting-101-vps-vs-dedicated/",
+      "https://www.cpanel.net/blog/tips-and-tricks/starting-with-strace/",
+      "https://cpanel.net/",
+      "https://www.cpanel.net/blog/products/free-cp-starter-style/",
+      "https://www.cpanel.net/blog/products/password-reset-v56/",
+      "https://www.cpanel.net/blog/products/announcing-cpanel-whms-official-lets-encrypt-with-autossl-plugin/",
+      "https://www.cpanel.net/blog/products/managing-zone-editing-permissions-in-cpanel/",
+      "https://www.cpanel.net/blog/products/wordpress-manager/"
+    ]
+  },
+  "cisco.com": {
+    "lastAt": 1757582707180,
+    "urls": [
+      "https://cisco.com/"
+    ]
+  },
+  "adsrvr.org": {
+    "lastAt": 1757582708346,
+    "urls": [
+      "https://adsrvr.org/"
+    ]
+  },
+  "canva.com": {
+    "lastAt": 1757582713634,
+    "urls": []
+  },
+  "imdb.com": {
+    "lastAt": 1757582716317,
+    "urls": [
+      "https://imdb.com/"
+    ]
+  },
+  "reg.ru": {
+    "lastAt": 1757582718030,
+    "urls": [
+      "https://reg.ru/"
+    ]
+  },
+  "researchgate.net": {
+    "lastAt": 1757582721296,
+    "urls": []
+  },
+  "my.com": {
+    "lastAt": 1757582725706,
+    "urls": []
+  },
+  "imgsmail.ru": {
+    "lastAt": 1757582730715,
+    "urls": [
+      "https://imgsmail.ru/"
+    ]
   }
 }
