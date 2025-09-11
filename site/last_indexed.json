@@ -2570,5 +2570,205 @@
   "nease.net": {
     "lastAt": 1757594967669,
     "urls": []
+  },
+  "weibo.com": {
+    "lastAt": 1757597204441,
+    "urls": [
+      "https://weibo.com/"
+    ]
+  },
+  "fastly-edge.com": {
+    "lastAt": 1757597207455,
+    "urls": []
+  },
+  "autodesk.com": {
+    "lastAt": 1757597210998,
+    "urls": []
+  },
+  "vedsalb.com": {
+    "lastAt": 1757597216561,
+    "urls": []
+  },
+  "wiley.com": {
+    "lastAt": 1757597220005,
+    "urls": [
+      "https://www.wiley.com/en-us/Herding+Chickens%3A+Innovative+Techniques+for+Project+Management-p-9780782150575",
+      "https://wiley.com/",
+      "https://www.wiley.com/en-us/The+Twelve+Keys+Leaders'+Guide+-p-9780787938703",
+      "https://www.wiley.com/en-us/Cognitive+Engineering+for+Next+Generation+Computing%3A+A+Practical+Analytical+Approach-p-9781119711292",
+      "https://www.wiley.com/en-us/Grant+Proposal+Makeover%3A+Transform+Your+Request+from+No+to+Yes-p-9780787994198",
+      "https://www.wiley.com/en-us/Community-Based+Health+Interventions-p-9780470575086",
+      "https://www.wiley.com/en-us/Warren+Buffett%3A+Inside+the+Ultimate+Money+Mind-p-9781119714644",
+      "https://www.wiley.com/en-us/The+Predictable+Failure+of+Educational+Reform%3A+Can+We+Change+Course+Before+It's+Too+Late%3F-p-9781555426231",
+      "https://www.wiley.com/en-us/Statistical+Intervals%3A+A+Guide+for+Practitioners+and+Researchers%2C+2nd+Edition-p-9781118595169",
+      "https://www.wiley.com/en-us/Overcoming+Dyslexia%3A+A+Practical+Handbook+for+the+Classroom%2C+2nd+Edition-p-9781861562586"
+    ]
+  },
+  "nature.com": {
+    "lastAt": 1757597227107,
+    "urls": [
+      "https://www.nature.com/articles/s41387-025-00388-5",
+      "https://www.nature.com/articles/s41387-025-00386-7",
+      "https://www.nature.com/articles/s41387-025-00391-w",
+      "https://nature.com/",
+      "https://www.nature.com/articles/s41387-025-00389-4",
+      "https://www.nature.com/articles/s41387-025-00382-x",
+      "https://www.nature.com/articles/s41387-025-00387-6",
+      "https://www.nature.com/articles/s41387-025-00385-8",
+      "https://www.nature.com/articles/s41387-025-00390-x",
+      "https://www.nature.com/articles/s41387-025-00379-6"
+    ]
+  },
+  "appcenter.ms": {
+    "lastAt": 1757597229107,
+    "urls": [
+      "https://appcenter.ms/"
+    ]
+  },
+  "adsafeprotected.com": {
+    "lastAt": 1757597231699,
+    "urls": []
+  },
+  "adobe.net": {
+    "lastAt": 1757597237357,
+    "urls": []
+  },
+  "washingtonpost.com": {
+    "lastAt": 1757597449138,
+    "urls": []
+  },
+  "kaspersky-labs.com": {
+    "lastAt": 1757597452253,
+    "urls": []
+  },
+  "cdc.gov": {
+    "lastAt": 1757597463592,
+    "urls": [
+      "https://www.cdc.gov/contact/accessibility.html",
+      "https://www.cdc.gov/covidtreatment/index.html",
+      "https://www.cdc.gov/cancerscreening/index.html",
+      "https://www.cdc.gov/covid19-school-testing/index.html",
+      "https://www.cdc.gov/other/accessibility.html",
+      "https://www.cdc.gov/covidvaccines/index.html",
+      "https://www.cdc.gov/other/agencymaterials.html",
+      "https://www.cdc.gov/other/archived-content.html",
+      "https://www.cdc.gov/other/about_cdcgov.html",
+      "https://cdc.gov/"
+    ]
+  },
+  "pages.dev": {
+    "lastAt": 1757597464538,
+    "urls": [
+      "https://pages.dev/"
+    ]
+  },
+  "mynetname.net": {
+    "lastAt": 1757597468774,
+    "urls": []
+  },
+  "dailymail.co.uk": {
+    "lastAt": 1757597473431,
+    "urls": [
+      "https://www.dailymail.co.uk/news/article-15088457/Silk-Road-Charlie-Kirk-pardon.html",
+      "https://www.dailymail.co.uk/travel/article-15088233/Brit-living-Thailand-expenses-cheaper-UK-rent.html",
+      "https://www.dailymail.co.uk/news/article-15088593/Max-Belter-terrorism-offences-Brisbane.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15088441/Madeleine-West-gruesome-injury-bushwalking.html",
+      "https://dailymail.co.uk/",
+      "https://www.dailymail.co.uk/news/article-15088637/donald-Trump-Melania-Charlie-Kirk-assassination.html",
+      "https://www.dailymail.co.uk/media/article-15085533/whoopi-goldberg-view-Iryna-zarutska.html",
+      "https://www.dailymail.co.uk/media/article-15088487/Jimmy-Kimmel-reacts-Charlie-Kirk-death.html",
+      "https://www.dailymail.co.uk/news/article-15088683/Wet-Wipe-Island-Diggers-rubbish-mountain-Thames.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15088501/Victoria-Beckham-goes-braless-white-T-shirt-grey-midi-skirt-steps-shopping-spree-NYC-release-date-announced-Netflix-show.html"
+    ]
+  },
+  "wsj.com": {
+    "lastAt": 1757597480164,
+    "urls": []
+  },
+  "heytapmobile.com": {
+    "lastAt": 1757597483299,
+    "urls": []
+  },
+  "etsy.com": {
+    "lastAt": 1757597934087,
+    "urls": []
+  },
+  "checkpoint.com": {
+    "lastAt": 1757597936287,
+    "urls": [
+      "https://checkpoint.com/",
+      "https://www.checkpoint.com/infinity/threatcloud-ai/brand-spoofing-prevention/",
+      "https://www.checkpoint.com/solutions/iot-security/",
+      "https://www.checkpoint.com/mind/cisosecrets/",
+      "https://www.checkpoint.com/comparison/check-point-vs-trellix/",
+      "https://www.checkpoint.com/infinity/zero-day-protection/threat-extraction/",
+      "https://www.checkpoint.com/security-in-action/",
+      "https://www.checkpoint.com/quantum/",
+      "https://www.checkpoint.com/",
+      "https://www.checkpoint.com/industry/government-federal-security/grants-office-program/"
+    ]
+  },
+  "gosuslugi.ru": {
+    "lastAt": 1757597995097,
+    "urls": []
+  },
+  "cmediahub.ru": {
+    "lastAt": 1757597999687,
+    "urls": []
+  },
+  "cedexis.net": {
+    "lastAt": 1757598002562,
+    "urls": []
+  },
+  "rambler.ru": {
+    "lastAt": 1757598008344,
+    "urls": [
+      "https://rambler.ru/"
+    ]
+  },
+  "springer.com": {
+    "lastAt": 1757598009735,
+    "urls": [
+      "https://springer.com/"
+    ]
+  },
+  "id5-sync.com": {
+    "lastAt": 1757598018167,
+    "urls": [
+      "https://id5-sync.com/"
+    ]
+  },
+  "fb-t-msedge.net": {
+    "lastAt": 1757598021072,
+    "urls": []
+  },
+  "bloomberg.com": {
+    "lastAt": 1757598028544,
+    "urls": []
+  },
+  "ok.ru": {
+    "lastAt": 1757598041240,
+    "urls": [
+      "https://ok.ru/"
+    ]
+  },
+  "myshopify.com": {
+    "lastAt": 1757598044849,
+    "urls": []
+  },
+  "telegraph.co.uk": {
+    "lastAt": 1757598054078,
+    "urls": [
+      "https://telegraph.co.uk/",
+      "https://www.telegraph.co.uk/wrestling/2021/04/08/wrestling-artistic-should-funded-like-theatre-opera-mps-say/",
+      "https://www.telegraph.co.uk/wrestling/2020/01/13/bt-sport-offers-late-night-fix-epic-stories-grapplin/",
+      "https://www.telegraph.co.uk/wrestling/2021/11/09/california-women-gave-birth-others-babies-ivf-horror-mix-up/",
+      "https://www.telegraph.co.uk/wrestling/2020/09/09/ioc-must-kick-iran-olympics-wrestler-navid-afkari-executed/",
+      "https://www.telegraph.co.uk/wrestling/2019/05/12/silver-king-wrestler-starred-film-nacho-libre-dies-collapsing/",
+      "https://www.telegraph.co.uk/wrestling/2019/06/20/british-wrestling-star-lionheart-adrian-mccallum-dies-aged-36/",
+      "https://www.telegraph.co.uk/wrestling/2019/05/16/wwe-uk-tv-rights-heading-bt-sport/",
+      "https://www.telegraph.co.uk/wrestling/2018/07/27/spandex-divas-good-versus-evil-wrestling-back/",
+      "https://www.telegraph.co.uk/wrestling/2017/12/10/legendary-wrestler-ric-flair-hero-millions-80s-suffered-poignant/"
+    ]
   }
 }
