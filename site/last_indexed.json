@@ -1325,5 +1325,280 @@
   "cdn-apple.com": {
     "lastAt": 1757575697115,
     "urls": []
+  },
+  "cnn.com": {
+    "lastAt": 1757579375822,
+    "urls": [
+      "https://cnn.com/",
+      "https://www.cnn.com/videos/tv/2024/05/15/an-travel-market-spotlights-middle-east-tourism-spc-intl.cnn",
+      "https://www.cnn.com/videos/world/2024/05/15/ukraine-withdraws-troops-kharkiv-russia-digvid.cnn",
+      "https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html",
+      "https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-14-24/index.html",
+      "https://www.cnn.com/videos/spanish/2024/05/15/secretario-blinken-canta-rock-kyiv-trax-ush.cnn",
+      "https://www.cnn.com/videos/tv/2024/05/15/think-big-ev-conversion-intl.cnn",
+      "https://www.cnn.com/videos/spanish/2024/05/15/incendios-zombi-canada-trax.cnn",
+      "https://www.cnn.com/videos/spanish/2024/05/15/camionero-peru-choca-policia-trax.cnn",
+      "https://www.cnn.com/videos/spanish/2024/05/15/carlos-vives-gabriel-garcia-marquez-aracataca-espera-showbiz-tv-orix.cnn"
+    ]
+  },
+  "android.com": {
+    "lastAt": 1757579377913,
+    "urls": [
+      "https://www.android.com/",
+      "https://android.com/",
+      "https://www.android.com/intl/en_au/",
+      "https://www.android.com/intl/de_de/",
+      "https://www.android.com/intl/da_dk/",
+      "https://www.android.com/intl/en_ca/",
+      "https://www.android.com/intl/en_hk/",
+      "https://www.android.com/intl/en_ie/",
+      "https://www.android.com/intl/en_in/",
+      "https://www.android.com/intl/en_nz/"
+    ]
+  },
+  "myfritz.net": {
+    "lastAt": 1757579380719,
+    "urls": [
+      "https://www.myfritz.net/about",
+      "https://myfritz.net/",
+      "https://www.myfritz.net/legal-notice",
+      "https://www.myfritz.net/terms"
+    ]
+  },
+  "nflxso.net": {
+    "lastAt": 1757579383765,
+    "urls": []
+  },
+  "meraki.com": {
+    "lastAt": 1757579392891,
+    "urls": [
+      "https://meraki.cisco.com/",
+      "https://meraki.cisco.com/collateral/",
+      "https://meraki.com/",
+      "https://meraki.cisco.com/fr-ca/collateral/",
+      "https://meraki.cisco.com/fr-ca/partner/",
+      "https://meraki.cisco.com/pt-br/collateral/",
+      "https://meraki.cisco.com/es-co/collateral/",
+      "https://meraki.cisco.com/fr-ca/freesm/",
+      "https://meraki.cisco.com/fr-ca/industries/",
+      "https://meraki.cisco.com/pt-br/industries/"
+    ]
+  },
+  "w3.org": {
+    "lastAt": 1757579394758,
+    "urls": [
+      "https://w3.org/"
+    ]
+  },
+  "taboola.com": {
+    "lastAt": 1757579400031,
+    "urls": [
+      "https://www.taboola.com/",
+      "https://taboola.com/",
+      "https://www.taboola.com/taboola-choice",
+      "https://www.taboola.com/pl/about",
+      "https://www.taboola.com/de/about",
+      "https://www.taboola.com/ru/about",
+      "https://www.taboola.com/it/about",
+      "https://www.taboola.com/tr/about",
+      "https://www.taboola.com/fr/thank-you-contact",
+      "https://www.taboola.com/es/thank-you-contact"
+    ]
+  },
+  "example.com": {
+    "lastAt": 1757579401877,
+    "urls": [
+      "https://example.com/"
+    ]
+  },
+  "t.co": {
+    "lastAt": 1757579403223,
+    "urls": [
+      "https://t.co/"
+    ]
+  },
+  "theguardian.com": {
+    "lastAt": 1757579406832,
+    "urls": [
+      "https://theguardian.com/",
+      "https://www.theguardian.com/politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
+      "https://www.theguardian.com/business/live/2025/sep/11/john-lewis-deeper-loss-london-tube-strike-fourth-day-ecb-interest-rates-us-inflation-business-live-news-updates",
+      "https://www.theguardian.com/world/live/2025/sep/11/europe-live-news-updates-poland-russia-drones-ukraine-war-latest",
+      "https://www.theguardian.com/us-news/live/2025/sep/11/charlie-kirk-shot-latest-news-updates-utah-university-donald-trump",
+      "https://www.theguardian.com/australia-news/2025/sep/11/tasmanian-museum-kept-and-displayed-177-human-remains-without-the-families-knowing-report-finds-ntwnfb",
+      "https://www.theguardian.com/australia-news/2025/sep/11/terry-irving-wrongful-imprisonment-compensation-queensland",
+      "https://www.theguardian.com/music/2025/sep/11/welsh-national-opera-adele-thomas-sarah-crabtree-interview",
+      "https://www.theguardian.com/commentisfree/2025/sep/11/france-rachel-reeves-bond-market-britain-labour-economic-orthodoxy",
+      "https://www.theguardian.com/film/2025/sep/11/dreaming-of-you-the-making-of-the-coral-review"
+    ]
+  },
+  "doubleverify.com": {
+    "lastAt": 1757579410425,
+    "urls": [
+      "https://doubleverify.com/doubleverify%e3%81%8c-adchan-tokyo2020-%e3%81%ab%e5%8f%82%e5%8a%a0/",
+      "https://doubleverify.com/adweek-apac/",
+      "https://doubleverify.com/e4m-realtime-programmatic-advertising-awards-mumbai/",
+      "https://doubleverify.com/dv-helps-global-cpg-brand-improve-media-quality-and-operational-efficiencies/",
+      "https://doubleverify.com/imedia-brand-summit-goa/",
+      "https://doubleverify.com/protecting-your-brand-in-todays-evolving-news-cycle-jp/",
+      "https://doubleverify.com/insights/thought-leadership/",
+      "https://doubleverify.com/all-that-matters/",
+      "https://doubleverify.com/doubleverify-philippines-summit/",
+      "https://doubleverify.com/doubleverify-at-dmexco-2022/"
+    ]
+  },
+  "capcutapi.com": {
+    "lastAt": 1757579413598,
+    "urls": []
+  },
+  "vungle.com": {
+    "lastAt": 1757579418847,
+    "urls": [
+      "https://vungle.com/news/vungle-appears-in-forbes-must-read-tips-from-the-best-minds-in-mobile/",
+      "https://vungle.com/",
+      "https://vungle.com/news/vungle-in-forbes-common-sense-approach-to-gdpr/",
+      "https://vungle.com/news/pocketgamer-vungle-launches-global-self-serve-platform-for-advertisers/",
+      "https://vungle.com/news/venturebeat-vungle-takes-marketing-platform-to-samsung-galaxy-apps-store/",
+      "https://vungle.com/blog/the-vungalow-meet-steve-director-of-engineering/",
+      "https://vungle.com/blog/vungle-ranks-high-in-singulars-2019-roi-index/",
+      "https://vungle.com/blog/singular-ranks-vungle-one-of-the-most-secure-ad-networks/",
+      "https://vungle.com/blog/meet-our-new-vp-of-finance-business-operations/"
+    ]
+  },
+  "registrar-servers.com": {
+    "lastAt": 1757579421964,
+    "urls": []
+  },
+  "dnsowl.com": {
+    "lastAt": 1757579424971,
+    "urls": []
+  },
+  "b-cdn.net": {
+    "lastAt": 1757579427151,
+    "urls": [
+      "https://b-cdn.net/"
+    ]
+  },
+  "ttvnw.net": {
+    "lastAt": 1757579430296,
+    "urls": []
+  },
+  "akamaized.net": {
+    "lastAt": 1757579433248,
+    "urls": []
+  },
+  "pubmatic.com": {
+    "lastAt": 1757579439784,
+    "urls": [
+      "https://pubmatic.com/",
+      "https://pubmatic.com/landing-page/",
+      "https://pubmatic.com/upcoming-events/",
+      "https://pubmatic.com/past-events/",
+      "https://pubmatic.com/jsonwebinar/",
+      "https://pubmatic.com/past-pubacademy/",
+      "https://pubmatic.com/upcoming-pubacademy/",
+      "https://pubmatic.com/connectioncounts/",
+      "https://pubmatic.com/connectionmatters-test/",
+      "https://pubmatic.com/covid-19/"
+    ]
+  },
+  "gmail.com": {
+    "lastAt": 1757579442416,
+    "urls": [
+      "https://www.google.com/intl/de/gmail/about/policy/",
+      "https://www.google.com/intl/el/gmail/about/",
+      "https://www.google.com/intl/de/gmail/about/",
+      "https://www.google.com/intl/de/gmail/about/for-work/",
+      "https://www.google.com/intl/el/gmail/about/policy/",
+      "https://www.google.com/intl/en_in/gmail/about/",
+      "https://www.google.com/intl/el/gmail/about/for-work/",
+      "https://www.google.com/intl/en_in/gmail/about/policy/",
+      "https://gmail.com/",
+      "https://www.google.com/intl/en_in/gmail/about/for-work/"
+    ]
+  },
+  "azurefd.net": {
+    "lastAt": 1757579445277,
+    "urls": []
+  },
+  "forbes.com": {
+    "lastAt": 1757579449767,
+    "urls": [
+      "https://www.forbes.com/sites/tomsanderson/2025/09/11/this-decisive-talk-convinced-fc-barcelona-star-to-stay-at-club/",
+      "https://www.forbes.com/sites/olliebarder/2025/09/11/daemon-x-machina-titanic-scion-brings-back-old-boss-for-a-new-event/",
+      "https://www.forbes.com/sites/jamiecartereurope/2025/09/11/life-on-mars-nasa-rover-finds-compelling-clues-in-rock-sample/",
+      "https://forbes.com/",
+      "https://www.forbes.com/sites/zakdoffman/2025/09/11/microsofts-surface-pro-mistake---the-ultimate-ad-for-apples-ipad/",
+      "https://www.forbes.com/sites/jamiecartereurope/2025/09/11/meet-planet-y-as-new-evidence-suggests-secret-world-beyond-neptune/",
+      "https://www.forbes.com/sites/lanceeliot/2025/09/11/formulating-an-artificial-general-intelligence-ethics-checklist-for-the-upcoming-rise-of-advanced-ai/",
+      "https://www.forbes.com/sites/davidphelan/2025/09/11/apple-iphone-17-release-date-full-schedule-of-last-minute-updates/",
+      "https://www.forbes.com/sites/davidphelan/2025/09/11/apple-suddenly-extends-new-free-offer-to-all-iphone-14-and-iphone-15-users/",
+      "https://www.forbes.com/sites/brianmazique/2025/09/11/wwe-wrestlepalooza--john-cena-vs-brock-lesnar--date-time--how-to-watch/"
+    ]
+  },
+  "godaddy.com": {
+    "lastAt": 1757579453140,
+    "urls": []
+  },
+  "demdex.net": {
+    "lastAt": 1757579456026,
+    "urls": []
+  },
+  "mangosip.ru": {
+    "lastAt": 1757579514882,
+    "urls": []
+  },
+  "twitch.tv": {
+    "lastAt": 1757579516883,
+    "urls": [
+      "https://www.twitch.tv/annual-recap",
+      "https://www.twitch.tv/directory/gaming",
+      "https://www.twitch.tv/directory/irl",
+      "https://twitch.tv/",
+      "https://www.twitch.tv/directory/creative",
+      "https://www.twitch.tv/directory/music",
+      "https://www.twitch.tv/directory/esports",
+      "https://www.twitch.tv/directory",
+      "https://www.twitch.tv/directory/category/irl",
+      "https://www.twitch.tv/directory/category/league-of-legends"
+    ]
+  },
+  "jomodns.com": {
+    "lastAt": 1757579520777,
+    "urls": []
+  },
+  "creativecommons.org": {
+    "lastAt": 1757579527900,
+    "urls": [
+      "https://creativecommons.org/",
+      "https://creativecommons.org/2015/03/25/celebrate-creative-commons-with-a-limited-edition-tee/",
+      "https://creativecommons.org/2015/03/25/creative-commons-launches-special-edition-commemorative-tee/",
+      "https://creativecommons.org/2019/12/13/cc-vocabulary-web-design-system/",
+      "https://creativecommons.org/2015/03/25/a-masterwork-in-simplicity-the-story-of-the-cc-logo/",
+      "https://creativecommons.org/2019/12/16/share-your-thoughts-and-experiences-of-the-cc-global-network/",
+      "https://creativecommons.org/2019/12/17/celebrate-public-domain-day-with-events-around-the-world/",
+      "https://creativecommons.org/2020/01/06/cc-search-browser-extension/",
+      "https://creativecommons.org/2020/01/23/introducing-the-linked-commons/",
+      "https://creativecommons.org/2020/01/27/the-new-cc-license-chooser/"
+    ]
+  },
+  "edgecdn.ru": {
+    "lastAt": 1757579532702,
+    "urls": []
+  },
+  "bbc.co.uk": {
+    "lastAt": 1757579538097,
+    "urls": [
+      "https://www.bbc.co.uk/sport",
+      "https://www.bbc.co.uk/sport/formula1",
+      "https://www.bbc.co.uk/sport/cricket",
+      "https://www.bbc.co.uk/sport/football",
+      "https://www.bbc.co.uk/sport/rugby-union",
+      "https://bbc.co.uk/",
+      "https://www.bbc.co.uk/sport/tennis",
+      "https://www.bbc.co.uk/sport/football/premier-league",
+      "https://www.bbc.co.uk/sport/golf",
+      "https://www.bbc.co.uk/sport/snooker"
+    ]
   }
 }
