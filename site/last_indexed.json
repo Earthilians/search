@@ -3464,5 +3464,222 @@
   "npr.org": {
     "lastAt": 1757608516288,
     "urls": []
+  },
+  "statista.com": {
+    "lastAt": 1757611202162,
+    "urls": [
+      "https://statista.com/"
+    ]
+  },
+  "behance.net": {
+    "lastAt": 1757611209274,
+    "urls": [
+      "https://behance.net/"
+    ]
+  },
+  "xiaomi.net": {
+    "lastAt": 1757611216945,
+    "urls": []
+  },
+  "cdn20.com": {
+    "lastAt": 1757611220243,
+    "urls": []
+  },
+  "nflximg.com": {
+    "lastAt": 1757611279056,
+    "urls": []
+  },
+  "entrust.net": {
+    "lastAt": 1757611283313,
+    "urls": []
+  },
+  "verisign.com": {
+    "lastAt": 1757611285205,
+    "urls": [
+      "https://www.verisign.com/en_US/domain-names/index.xhtml",
+      "https://www.verisign.com/en_US/",
+      "https://www.verisign.com/en_US/domain-names/what-does-com-mean/index.xhtml",
+      "https://verisign.com/",
+      "https://www.verisign.com/en_US/domain-names/what-does-net-mean/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/cc-domain-names/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/name-domains/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/international-domains/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/domain-name-search/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/domain-registry/index.xhtml"
+    ]
+  },
+  "live-video.net": {
+    "lastAt": 1757611288350,
+    "urls": []
+  },
+  "tds.net": {
+    "lastAt": 1757611289580,
+    "urls": [
+      "https://tds.net/"
+    ]
+  },
+  "eset.com": {
+    "lastAt": 1757611297900,
+    "urls": [
+      "https://www.eset.com/za/beta/",
+      "https://www.eset.com/za/beta/form/",
+      "https://www.eset.com/za/about/contact/",
+      "https://www.eset.com/za/",
+      "https://eset.com/",
+      "https://www.eset.com/za/about/careers/",
+      "https://www.eset.com/za/about/careers/culture/",
+      "https://www.eset.com/za/about/newsroom/",
+      "https://www.eset.com/za/about/newsroom/press-kit/",
+      "https://www.eset.com/za/about/newsroom/corporate-blog/"
+    ]
+  },
+  "comcast.com": {
+    "lastAt": 1757611300936,
+    "urls": []
+  },
+  "hichina.com": {
+    "lastAt": 1757611304947,
+    "urls": []
+  },
+  "giphy.com": {
+    "lastAt": 1757611306240,
+    "urls": [
+      "https://giphy.com/"
+    ]
+  },
+  "speedtest.net": {
+    "lastAt": 1757611308547,
+    "urls": [
+      "https://www.speedtest.net/apps/desktop",
+      "https://www.speedtest.net/about",
+      "https://speedtest.net/",
+      "https://www.speedtest.net/",
+      "https://www.speedtest.net/audience-landing",
+      "https://www.speedtest.net/help",
+      "https://www.speedtest.net/mobile",
+      "https://www.speedtest.net/mobile/amazon",
+      "https://www.speedtest.net/mobile/ios",
+      "https://www.speedtest.net/mobile/android"
+    ]
+  },
+  "addtoany.com": {
+    "lastAt": 1757611309932,
+    "urls": [
+      "https://addtoany.com/"
+    ]
+  },
+  "wired.com": {
+    "lastAt": 1757611314637,
+    "urls": [
+      "https://wired.com/"
+    ]
+  },
+  "outbrain.com": {
+    "lastAt": 1757611316200,
+    "urls": [
+      "https://www.outbrain.com/",
+      "https://outbrain.com/",
+      "https://www.outbrain.com/advertisers/guidelines/",
+      "https://www.outbrain.com/advertisers/",
+      "https://www.outbrain.com/advertisers/ad-formats/",
+      "https://www.outbrain.com/advertisers/buying-options/",
+      "https://www.outbrain.com/advertisers/brand-studio/",
+      "https://www.outbrain.com/publishers/guidelines/",
+      "https://www.outbrain.com/publishers/",
+      "https://www.outbrain.com/publishers/solutions/"
+    ]
+  },
+  "google.co.uk": {
+    "lastAt": 1757611318361,
+    "urls": [
+      "https://www.google.com/intl/et/gmail/about/",
+      "https://www.google.com/intl/eu_es/gmail/about/",
+      "https://google.co.uk/",
+      "https://www.google.com/intl/et/gmail/about/for-work/",
+      "https://www.google.com/intl/et/gmail/about/policy/",
+      "https://www.google.com/intl/eu_es/gmail/about/policy/",
+      "https://www.google.com/intl/eu_es/gmail/about/for-work/",
+      "https://www.google.com/intl/fa/gmail/about/",
+      "https://www.google.com/intl/fa/gmail/about/policy/",
+      "https://www.google.com/intl/fa/gmail/about/for-work/"
+    ]
+  },
+  "rzone.de": {
+    "lastAt": 1757611321875,
+    "urls": []
+  },
+  "line.me": {
+    "lastAt": 1757611324277,
+    "urls": [
+      "https://line.me/"
+    ]
+  },
+  "wb.ru": {
+    "lastAt": 1757611329864,
+    "urls": []
+  },
+  "wbbasket.ru": {
+    "lastAt": 1757611333723,
+    "urls": []
+  },
+  "icloud-content.com": {
+    "lastAt": 1757611334605,
+    "urls": [
+      "https://icloud-content.com/"
+    ]
+  },
+  "s-msedge.net": {
+    "lastAt": 1757611337483,
+    "urls": []
+  },
+  "slideshare.net": {
+    "lastAt": 1757611344150,
+    "urls": [
+      "https://slideshare.net/",
+      "https://de.slideshare.net/slideshow/class-5/5884",
+      "https://de.slideshare.net/onitrix/klinischtherapeutische-studien-ebm-dim",
+      "https://de.slideshare.net/slideshow/systematische-personalentwicklung-mit-ontologiebasierten-kompetenzkatalogen-konzepte-erfahrungen-visionen/6322",
+      "https://de.slideshare.net/PatrickD/wikipedia-trift-bibliothek-visionen-der-zusammenarbeit",
+      "https://de.slideshare.net/slideshow/marktforschung/6508",
+      "https://de.slideshare.net/slideshow/ontologiebasiertes-kompetenzmanagement-fr-die-bildungsbedarfsplanung-in-der-krankenpflege/6326",
+      "https://de.slideshare.net/slideshow/keynote-forum-mnchen-2005/6540",
+      "https://de.slideshare.net/slideshow/perspektiven-der-wissensarbeit/6742",
+      "https://de.slideshare.net/eguy24/keyhote-herbstforen"
+    ]
+  },
+  "mega.co.nz": {
+    "lastAt": 1757611346395,
+    "urls": [
+      "https://mega.co.nz/"
+    ]
+  },
+  "beian.gov.cn": {
+    "lastAt": 1757611351384,
+    "urls": []
+  },
+  "dns-parking.com": {
+    "lastAt": 1757611354418,
+    "urls": []
+  },
+  "timeweb.ru": {
+    "lastAt": 1757611357507,
+    "urls": [
+      "https://timeweb.ru/"
+    ]
+  },
+  "eventbrite.com": {
+    "lastAt": 1757611365005,
+    "urls": [
+      "https://eventbrite.com/",
+      "https://www.eventbrite.com/d/pa--blairsville/singles/",
+      "https://www.eventbrite.com/d/fl--celebration/summer-town-hall/",
+      "https://www.eventbrite.com/d/il--highland-park/chakra-sound-bath/",
+      "https://www.eventbrite.com/d/de--georgetown/millsboro-de/",
+      "https://www.eventbrite.com/d/france--montsoult/culture/",
+      "https://www.eventbrite.com/d/ga--fort-valley/fo/",
+      "https://www.eventbrite.com/d/ga--oconee/kinchafoonie-cowboys/",
+      "https://www.eventbrite.com/d/md--spring-ridge/kids/",
+      "https://www.eventbrite.com/d/wi--bristol/angel-pool-party/"
+    ]
   }
 }
