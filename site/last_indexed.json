@@ -667,5 +667,191 @@
     "urls": [
       "https://cloudflare-dns.com/"
     ]
+  },
+  "windows.com": {
+    "lastAt": 1757568117245,
+    "urls": [
+      "https://www.microsoft.com/en-us/windows/apps-for-windows",
+      "https://www.microsoft.com/en-us/windows/ai-features",
+      "https://www.microsoft.com/en-us/windows/copilot-plus-pcs",
+      "https://www.microsoft.com/en-us/windows/end-of-support",
+      "https://www.microsoft.com/en-us/windows/accessibility-features",
+      "https://windows.com/",
+      "https://www.microsoft.com/en-us/windows/default.aspx",
+      "https://www.microsoft.com/en-us/windows/comprehensive-security",
+      "https://www.microsoft.com/en-us/windows/view-all-devices",
+      "https://www.microsoft.com/en-us/windows/compare-devices"
+    ]
+  },
+  "nginx.org": {
+    "lastAt": 1757568123688,
+    "urls": [
+      "https://nginx.org/"
+    ]
+  },
+  "edgesuite.net": {
+    "lastAt": 1757568126955,
+    "urls": []
+  },
+  "cdninstagram.com": {
+    "lastAt": 1757568130291,
+    "urls": []
+  },
+  "googleadservices.com": {
+    "lastAt": 1757568133453,
+    "urls": []
+  },
+  "mozilla.org": {
+    "lastAt": 1757568135370,
+    "urls": [
+      "https://mozilla.org/"
+    ]
+  },
+  "wa.me": {
+    "lastAt": 1757568139954,
+    "urls": []
+  },
+  "reddit.com": {
+    "lastAt": 1757568143000,
+    "urls": []
+  },
+  "a2z.com": {
+    "lastAt": 1757568145985,
+    "urls": []
+  },
+  "ui.com": {
+    "lastAt": 1757568150394,
+    "urls": [
+      "https://ui.com/"
+    ]
+  },
+  "unity3d.com": {
+    "lastAt": 1757568154852,
+    "urls": [
+      "https://unity.com/blog",
+      "https://unity.com/fr/blog",
+      "https://unity3d.com/",
+      "https://unity.com/es/blog",
+      "https://unity.com/de/blog",
+      "https://unity.com/pt/blog",
+      "https://unity.com/ru/blog",
+      "https://unity.com/cn/blog",
+      "https://unity.com/ja/blog",
+      "https://unity.com/kr/blog"
+    ]
+  },
+  "wac-msedge.net": {
+    "lastAt": 1757568157735,
+    "urls": []
+  },
+  "vk.com": {
+    "lastAt": 1757568160420,
+    "urls": [
+      "https://vk.com/"
+    ]
+  },
+  "googledomains.com": {
+    "lastAt": 1757568160976,
+    "urls": [
+      "https://googledomains.com/"
+    ]
+  },
+  "snapchat.com": {
+    "lastAt": 1757568166226,
+    "urls": [
+      "https://www.snapchat.com/",
+      "https://www.snapchat.com/captcha",
+      "https://snapchat.com/",
+      "https://www.snapchat.com/community/onboarding",
+      "https://www.snapchat.com/cookie-settings",
+      "https://www.snapchat.com/download",
+      "https://www.snapchat.com/plus",
+      "https://www.snapchat.com/recap",
+      "https://www.snapchat.com/scan",
+      "https://www.snapchat.com/beta"
+    ]
+  },
+  "nginx.com": {
+    "lastAt": 1757568169496,
+    "urls": [
+      "https://nginx.com/"
+    ]
+  },
+  "msedge.net": {
+    "lastAt": 1757568228306,
+    "urls": []
+  },
+  "blogspot.com": {
+    "lastAt": 1757568229740,
+    "urls": [
+      "https://blogspot.com/"
+    ]
+  },
+  "vedcdnlb.com": {
+    "lastAt": 1757568234973,
+    "urls": []
+  },
+  "sentry.io": {
+    "lastAt": 1757568237666,
+    "urls": [
+      "https://sentry.io/",
+      "https://sentry.io/about/press-releases/sentry-acquires-emerge-tools-to-enhance-its-mobile-app-monitoring-solution/",
+      "https://sentry.io/about/press-releases/new-unified-sdk-for-android/",
+      "https://sentry.io/about/press-releases/sentry-acquires-analytics-firm-specto-to-add-continuous-profiling-to-mobile-application-monitoring/",
+      "https://sentry.io/about/press-releases/sentry-acquires-codecov/",
+      "https://sentry.io/about/press-releases/sentry-adds-google-web-vitals-performance-monitoring-sdks-for-php-node-ruby-and-serverless/",
+      "https://sentry.io/about/press-releases/sentry-adds-performance-monitoring-for-react-native-android-and-xamarin-updates-flutter-sdk/",
+      "https://sentry.io/about/press-releases/sentry-announces-16m-series-b-round-with-nea-and-accel/",
+      "https://sentry.io/about/press-releases/sentry-announces-additional-functionality-to-its-developer-first-performance-monitoring-platform-to-address-developer-actionability-gaps/",
+      "https://sentry.io/about/press-releases/sentry-announces-enhancements-to-performance-driving-faster-time-to-resolution-while-increasing-affordability/"
+    ]
+  },
+  "t.me": {
+    "lastAt": 1757568239691,
+    "urls": [
+      "https://t.me/"
+    ]
+  },
+  "amazon-adsystem.com": {
+    "lastAt": 1757568243417,
+    "urls": []
+  },
+  "aiv-cdn.net": {
+    "lastAt": 1757568246573,
+    "urls": []
+  },
+  "intuit.com": {
+    "lastAt": 1757568253011,
+    "urls": []
+  },
+  "europa.eu": {
+    "lastAt": 1757568255298,
+    "urls": [
+      "https://europa.eu/"
+    ]
+  },
+  "dns.google": {
+    "lastAt": 1757568256441,
+    "urls": [
+      "https://dns.google/"
+    ]
+  },
+  "bytefcdn-oversea.com": {
+    "lastAt": 1757568259828,
+    "urls": []
+  },
+  "msftncsi.com": {
+    "lastAt": 1757568262695,
+    "urls": []
+  },
+  "userapi.com": {
+    "lastAt": 1757568266594,
+    "urls": [
+      "https://userapi.com/"
+    ]
+  },
+  "okcdn.ru": {
+    "lastAt": 1757568271667,
+    "urls": []
   }
 }
