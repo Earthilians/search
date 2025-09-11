@@ -182,5 +182,245 @@
   "googleusercontent.com": {
     "lastAt": 1757555196041,
     "urls": []
+  },
+  "doubleclick.net": {
+    "lastAt": 1757559757862,
+    "urls": [
+      "https://doubleclick.net/",
+      "https://www.google.com/intl/bn/gmail/about/policy/",
+      "https://www.google.com/intl/bn/gmail/about/",
+      "https://www.google.com/intl/cs/gmail/about/",
+      "https://www.google.com/intl/bn/gmail/about/for-work/",
+      "https://www.google.com/intl/cs/gmail/about/policy/",
+      "https://www.google.com/intl/da/gmail/about/",
+      "https://www.google.com/intl/cs/gmail/about/for-work/",
+      "https://www.google.com/intl/da/gmail/about/policy/",
+      "https://www.google.com/intl/da/gmail/about/for-work/"
+    ]
+  },
+  "t-msedge.net": {
+    "lastAt": 1757559760726,
+    "urls": []
+  },
+  "github.com": {
+    "lastAt": 1757559762006,
+    "urls": [
+      "https://github.com/"
+    ]
+  },
+  "bing.com": {
+    "lastAt": 1757559764185,
+    "urls": [
+      "https://www.bing.com/",
+      "https://ar.bing.com/",
+      "https://bing.com/",
+      "https://at.bing.com/",
+      "https://au.bing.com/",
+      "https://be.bing.com/",
+      "https://br.bing.com/",
+      "https://ch.bing.com/",
+      "https://ca.bing.com/",
+      "https://cl.bing.com/"
+    ]
+  },
+  "office.net": {
+    "lastAt": 1757559767108,
+    "urls": []
+  },
+  "whatsapp.net": {
+    "lastAt": 1757559770673,
+    "urls": []
+  },
+  "fastly.net": {
+    "lastAt": 1757559775741,
+    "urls": [
+      "https://www.fastly.com/network-map",
+      "https://www.fastly.com/customers/bending-spoons",
+      "https://www.fastly.com/customers/watch-duty",
+      "https://fastly.net/",
+      "https://www.fastly.com/customers/green-man-gaming",
+      "https://www.fastly.com/cdn-maturity-assessment",
+      "https://www.fastly.com/customers/yelp",
+      "https://www.fastly.com/customers/edgee",
+      "https://www.fastly.com/customers/1stdibs",
+      "https://www.fastly.com/customers/mastodon"
+    ]
+  },
+  "e2ro.com": {
+    "lastAt": 1757559779262,
+    "urls": []
+  },
+  "trafficmanager.net": {
+    "lastAt": 1757559782111,
+    "urls": []
+  },
+  "netflix.com": {
+    "lastAt": 1757559800942,
+    "urls": [
+      "https://netflix.com/"
+    ]
+  },
+  "wordpress.org": {
+    "lastAt": 1757559805509,
+    "urls": [
+      "https://wordpress.org/about/privacy/cookies/",
+      "https://wordpress.org/about/privacy/data-export-request/",
+      "https://wordpress.org/about/privacy/data-erasure-request/",
+      "https://wordpress.org/download/",
+      "https://wordpress.org/download/beta-nightly/",
+      "https://wordpress.org/",
+      "https://wordpress.org/download/source/",
+      "https://wordpress.org/download/counter/",
+      "https://wordpress.org/enterprise/",
+      "https://wordpress.org/download/releases/"
+    ]
+  },
+  "aaplimg.com": {
+    "lastAt": 1757559808392,
+    "urls": []
+  },
+  "appsflyersdk.com": {
+    "lastAt": 1757559811322,
+    "urls": []
+  },
+  "youtu.be": {
+    "lastAt": 1757559812391,
+    "urls": [
+      "https://youtu.be/"
+    ]
+  },
+  "dual-s-msedge.net": {
+    "lastAt": 1757559815247,
+    "urls": []
+  },
+  "icloud.com": {
+    "lastAt": 1757559816524,
+    "urls": [
+      "https://www.icloud.com/calendar",
+      "https://icloud.com/",
+      "https://www.icloud.com/",
+      "https://www.icloud.com/find",
+      "https://www.icloud.com/contacts",
+      "https://www.icloud.com/iclouddrive",
+      "https://www.icloud.com/keynote",
+      "https://www.icloud.com/icloudplus",
+      "https://www.icloud.com/mail",
+      "https://www.icloud.com/invites"
+    ]
+  },
+  "apple-dns.net": {
+    "lastAt": 1757559819401,
+    "urls": []
+  },
+  "digicert.com": {
+    "lastAt": 1757559823523,
+    "urls": [
+      "https://www.digicert.com/",
+      "https://www.digicert.com/resource-center",
+      "https://www.digicert.com/resource-center/reports",
+      "https://digicert.com/",
+      "https://www.digicert.com/resource-center/datasheets",
+      "https://www.digicert.com/resource-center/whitepapers",
+      "https://www.digicert.com/resource-center/e-books",
+      "https://www.digicert.com/tls-ssl/compare-single-domain-certificates",
+      "https://www.digicert.com/resource-center/solution-briefs",
+      "https://www.digicert.com/tls-ssl/tls-ssl-certificates"
+    ]
+  },
+  "pinterest.com": {
+    "lastAt": 1757559828540,
+    "urls": [
+      "https://pinterest.com/",
+      "https://www.pinterest.com/ideas/traditional-polish-gulasz/948853720619/",
+      "https://www.pinterest.com/ideas/tuna-mousse-canape/904076690226/",
+      "https://www.pinterest.com/ideas/apartments-in-houston-texas/952965066057/",
+      "https://www.pinterest.com/ideas/best-pinot-noir-for-dinner/908813614736/",
+      "https://www.pinterest.com/ideas/pier-1-lamp/904952705280/",
+      "https://www.pinterest.com/ideas/vintage-bee-emblem/951977995359/",
+      "https://www.pinterest.com/ideas/hammer-pattern-wallpaper/918715111667/",
+      "https://www.pinterest.com/ideas/fireplace-with-oven-insert/898079735219/",
+      "https://www.pinterest.com/ideas/how-to-make-a-tool-themed-card/957334476420/"
+    ]
+  },
+  "sharepoint.com": {
+    "lastAt": 1757559897348,
+    "urls": []
+  },
+  "gtld-servers.net": {
+    "lastAt": 1757559900583,
+    "urls": []
+  },
+  "tiktokcdn.com": {
+    "lastAt": 1757559903771,
+    "urls": []
+  },
+  "yahoo.com": {
+    "lastAt": 1757559908402,
+    "urls": [
+      "https://www.yahoo.com/news/weather/united-states/virginia/abingdon-2351607",
+      "https://www.yahoo.com/news/weather/united-states/oregon/gleneden-beach-2411148",
+      "https://www.yahoo.com/news/weather/united-states/pennsylvania/abington-2351614",
+      "https://www.yahoo.com/news/weather/united-states/massachusetts/abington-2351611",
+      "https://yahoo.com/",
+      "https://www.yahoo.com/news/weather/united-states/connecticut/pomfret-center-2474858",
+      "https://www.yahoo.com/news/weather/united-states/indiana/richmond-2480895",
+      "https://www.yahoo.com/news/weather/united-states/alabama/birmingham-2364559",
+      "https://www.yahoo.com/news/weather/united-states/georgia/snellville-2495284",
+      "https://www.yahoo.com/news/weather/united-states/california/yolo-2524801"
+    ]
+  },
+  "windows.net": {
+    "lastAt": 1757559912419,
+    "urls": []
+  },
+  "googlesyndication.com": {
+    "lastAt": 1757559913869,
+    "urls": [
+      "https://googlesyndication.com/"
+    ]
+  },
+  "roblox.com": {
+    "lastAt": 1757559916205,
+    "urls": [
+      "https://www.roblox.com/",
+      "https://www.roblox.com/charts",
+      "https://www.roblox.com/login",
+      "https://roblox.com/",
+      "https://www.roblox.com/catalog",
+      "https://www.roblox.com/giftcards",
+      "https://www.roblox.com/download",
+      "https://www.roblox.com/redeem",
+      "https://www.roblox.com/upgrades/robux",
+      "https://www.roblox.com/premium/membership"
+    ]
+  },
+  "domaincontrol.com": {
+    "lastAt": 1757559919344,
+    "urls": []
+  },
+  "skype.com": {
+    "lastAt": 1757559920353,
+    "urls": [
+      "https://skype.com/"
+    ]
+  },
+  "ntp.org": {
+    "lastAt": 1757559922684,
+    "urls": [
+      "https://www.ntp.org/support/securitynotice/ntpbug3806/",
+      "https://www.ntp.org/reflib/enhancements/suggestions-protocol-and-security-enhancements-ntp/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3767/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3807/",
+      "https://ntp.org/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3808/",
+      "https://www.ntp.org/support/securitynotice/4_2_8p15-release-announcement/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3661/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3592/",
+      "https://www.ntp.org/support/securitynotice/4_2_8p14-release-announcement/"
+    ]
+  },
+  "whatsapp.com": {
+    "lastAt": 1757559926005,
+    "urls": []
   }
 }
