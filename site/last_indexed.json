@@ -5644,5 +5644,264 @@
   "githubusercontent.com": {
     "lastAt": 1757645944992,
     "urls": []
+  },
+  "usgovcloudapi.net": {
+    "lastAt": 1757647881033,
+    "urls": []
+  },
+  "airbnb.com": {
+    "lastAt": 1757647886139,
+    "urls": [
+      "https://www.airbnb.com/airbnb-friendly/apartments/towson-md",
+      "https://www.airbnb.com/airbnb-friendly/apartments/petaluma-ca",
+      "https://www.airbnb.com/airbnb-friendly/apartments/detroit-mi",
+      "https://www.airbnb.com/",
+      "https://airbnb.com/",
+      "https://www.airbnb.com/airbnb-friendly/apartments/nashville-tn",
+      "https://www.airbnb.com/airbnb-friendly/apartments/sarasota-fl",
+      "https://www.airbnb.com/airbnb-friendly/apartments/oakland-ca",
+      "https://www.airbnb.com/airbnb-friendly/apartments/tulsa-ok",
+      "https://www.airbnb.com/airbnb-friendly/apartments/indianapolis-in"
+    ]
+  },
+  "hihonorcloud.com": {
+    "lastAt": 1757647888669,
+    "urls": [
+      "https://hihonorcloud.com/"
+    ]
+  },
+  "miwifi.com": {
+    "lastAt": 1757647895496,
+    "urls": []
+  },
+  "discordapp.com": {
+    "lastAt": 1757647896944,
+    "urls": [
+      "https://discordapp.com/"
+    ]
+  },
+  "bestbuy.com": {
+    "lastAt": 1757647971961,
+    "urls": [
+      "https://bestbuy.com/",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=15&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=14&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=13&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=12&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=16&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=18&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=11&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
+    ]
+  },
+  "mixpanel.com": {
+    "lastAt": 1757647982349,
+    "urls": [
+      "https://mixpanel.com/about/",
+      "https://mixpanel.com/",
+      "https://mixpanel.com/best-product-analytics/",
+      "https://mixpanel.com/acquire/",
+      "https://mixpanel.com/benchmarks/",
+      "https://mixpanel.com/contact-us/sales/",
+      "https://mixpanel.com/contact-us/thank-you/",
+      "https://mixpanel.com/contact-us/demo-request/",
+      "https://mixpanel.com/customers/",
+      "https://mixpanel.com/customers/all/"
+    ]
+  },
+  "contextweb.com": {
+    "lastAt": 1757647983563,
+    "urls": [
+      "https://contextweb.com/"
+    ]
+  },
+  "xiaohongshu.com": {
+    "lastAt": 1757647987054,
+    "urls": [
+      "https://xiaohongshu.com/"
+    ]
+  },
+  "webmd.com": {
+    "lastAt": 1757647988984,
+    "urls": [
+      "https://webmd.com/"
+    ]
+  },
+  "google.cn": {
+    "lastAt": 1757647990859,
+    "urls": [
+      "https://www.google.com/intl/gl_es/gmail/about/policy/",
+      "https://www.google.com/intl/gu_in/gmail/about/",
+      "https://www.google.com/intl/gl_es/gmail/about/",
+      "https://www.google.com/intl/gl_es/gmail/about/for-work/",
+      "https://google.cn/",
+      "https://www.google.com/intl/hi/gmail/about/",
+      "https://www.google.com/intl/gu_in/gmail/about/for-work/",
+      "https://www.google.com/intl/gu_in/gmail/about/policy/",
+      "https://www.google.com/intl/hi/gmail/about/policy/",
+      "https://www.google.com/intl/hi/gmail/about/for-work/"
+    ]
+  },
+  "everesttech.net": {
+    "lastAt": 1757648049673,
+    "urls": []
+  },
+  "disqus.com": {
+    "lastAt": 1757648050806,
+    "urls": [
+      "https://disqus.com/platform/moderation/",
+      "https://disqus.com/",
+      "https://disqus.com/platform/overview/",
+      "https://disqus.com/platform/audience/",
+      "https://disqus.com/platform/engagement/",
+      "https://disqus.com/pricing/",
+      "https://disqus.com/platform/monetization/",
+      "https://disqus.com/landing/disqus-pro/",
+      "https://disqus.com/api/docs/",
+      "https://disqus.com/landing/disqus-business/"
+    ]
+  },
+  "perfectdomain.com": {
+    "lastAt": 1757648053891,
+    "urls": []
+  },
+  "latimes.com": {
+    "lastAt": 1757648063711,
+    "urls": [
+      "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-walter-rothwell-19191025-story.html",
+      "https://www.latimes.com/local/obituaries/archives/la-me-john-muir-19141225-story.html",
+      "https://www.latimes.com/local/obituaries/archives/la-me-ac-bilicke-19150508-story.html",
+      "https://www.latimes.com/local/obituaries/archives/la-me-sarah-bernhardt-19230328-story.html",
+      "https://latimes.com/",
+      "https://www.latimes.com/la-me-harry-houdinis-death-20151026-htmlstory.html",
+      "https://www.latimes.com/local/obituaries/archives/la-me-harry-houdini-19261101-story.html",
+      "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-walter-rothwell-obit-19270313-story.html",
+      "https://www.latimes.com/local/obituaries/archives/la-me-isadora-duncan-19270915-story.html",
+      "https://www.latimes.com/la-isadora-duncans-death-20141120-htmlstory.html"
+    ]
+  },
+  "datadoghq.com": {
+    "lastAt": 1757648065420,
+    "urls": [
+      "https://datadoghq.com/",
+      "https://www.datadoghq.com/summit/london25/agenda/lunch/",
+      "https://www.datadoghq.com/summit/london24/agenda/leveraging_observability_for_enhanced_iot_development_at_electrolux/",
+      "https://www.datadoghq.com/summit/london24/agenda/datadog_on/",
+      "https://www.datadoghq.com/summit/london24/agenda/lunch/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_opening_remarks/",
+      "https://www.datadoghq.com/summit/london24/agenda/registration/",
+      "https://www.datadoghq.com/summit/london25/agenda/expo_activities_1/",
+      "https://www.datadoghq.com/summit/london25/agenda/expo_activities_2/",
+      "https://www.datadoghq.com/summit/london25/agenda/registration/"
+    ]
+  },
+  "fiverr.com": {
+    "lastAt": 1757648075194,
+    "urls": []
+  },
+  "sagepub.com": {
+    "lastAt": 1757648078272,
+    "urls": [
+      "https://www.sagepub.com/journals/information-for-authors/submitting-your-manuscript",
+      "https://www.sagepub.com/journals/information-for-reviewers/what-is-peer-review",
+      "https://sagepub.com/",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/hellenic-academic-libraries-link-heal",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/carolina-consortium",
+      "https://www.sagepub.com/about-us/our-impact/dei",
+      "https://www.sagepub.com/journals/permissions/sages-author-archiving-and-re-use-guidelines",
+      "https://www.sagepub.com/journals/member-subscription/emerging-adulthood-print-subscription-for-ssea-members",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-prepaid-accounts",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/universidad-del-pais-vasco-agreement"
+    ]
+  },
+  "shopee.com.br": {
+    "lastAt": 1757648079050,
+    "urls": [
+      "https://shopee.com.br/"
+    ]
+  },
+  "amazon.in": {
+    "lastAt": 1757648083912,
+    "urls": []
+  },
+  "ipify.org": {
+    "lastAt": 1757648085007,
+    "urls": [
+      "https://www.ipify.org/",
+      "https://ipify.org/"
+    ]
+  },
+  "prnewswire.com": {
+    "lastAt": 1757648136633,
+    "urls": [
+      "https://www.prnewswire.com/resources/",
+      "https://www.prnewswire.com/resources/case-studies/How-the-National-Association-of-REALTORS-Boosted-Earned-Media-and-Audience-Engagement-with-a-New-Content-Strategy/",
+      "https://www.prnewswire.com/resources/target-influencers/",
+      "https://prnewswire.com/",
+      "https://www.prnewswire.com/resources/case-studies/michelle-damico-communications/",
+      "https://www.prnewswire.com/resources/case-studies/National-Safety-Council-MultiVu-Increase-Awareness-on-Critical-Issue-of-Distracted-Driving/",
+      "https://www.prnewswire.com/resources/case-studies/Lavu-Generates-Quality-Leads-and-Increases-Brand-Awareness-A-Multimedia-News-Release-Case-Study/",
+      "https://www.prnewswire.com/resources/case-studies/St-Baldricks-Changes-Narrative-Surrounding-Childhood-Cancers-with-Multichannel-Content-Campaign/",
+      "https://www.prnewswire.com/resources/?sortCategory=case-studies",
+      "https://www.prnewswire.com/resources/case-studies/censhare-cmk/"
+    ]
+  },
+  "rakuten.com": {
+    "lastAt": 1757648140801,
+    "urls": [
+      "https://www.rakuten.com/",
+      "https://www.rakuten.com/shop/reissonline",
+      "https://www.rakuten.com/shop/converse",
+      "https://www.rakuten.com/shop/bananarepublic",
+      "https://rakuten.com/",
+      "https://www.rakuten.com/help/article/boost-bonus-terms-7-days-50-cap-20416064094355",
+      "https://www.rakuten.com/shop/timberland",
+      "https://www.rakuten.com/shop/madewell",
+      "https://www.rakuten.com/help/article/signing-into-my-account-115009256128",
+      "https://www.rakuten.com/home-garden"
+    ]
+  },
+  "nbcnews.com": {
+    "lastAt": 1757648145609,
+    "urls": [
+      "https://nbcnews.com/",
+      "https://www.nbcnews.com/select/shopping/shark-air-purifier-max-deal-of-the-day-2025-rcna230699",
+      "https://www.nbcnews.com/select/shopping/best-high-chairs-rcna230484",
+      "https://www.nbcnews.com/select/shopping/best-at-home-teeth-whitening-products-rcna201604",
+      "https://www.nbcnews.com/select/shopping/waterpik-water-flosser-deal-of-the-day-2025-rcna230679",
+      "https://www.nbcnews.com/select/shopping/best-matcha-products-rcna199702",
+      "https://www.nbcnews.com/select/shopping/best-mouthwashes-rcna190988",
+      "https://www.nbcnews.com/select/shopping/how-get-rid-fleas-ncna1262654",
+      "https://www.nbcnews.com/select/shopping/fda-approved-blood-pressure-monitors-rcna230090"
+    ]
+  },
+  "curseforge.com": {
+    "lastAt": 1757648147003,
+    "urls": [
+      "https://curseforge.com/"
+    ]
+  },
+  "life360.com": {
+    "lastAt": 1757648150210,
+    "urls": []
+  },
+  "a-mo.net": {
+    "lastAt": 1757648151684,
+    "urls": [
+      "https://a-mo.net/"
+    ]
+  },
+  "criteo.net": {
+    "lastAt": 1757648155164,
+    "urls": []
+  },
+  "amazon.es": {
+    "lastAt": 1757648159637,
+    "urls": []
+  },
+  "iso.org": {
+    "lastAt": 1757648164589,
+    "urls": []
   }
 }
