@@ -34816,5 +34816,873 @@
     "title": "BATOTO - Read Manga Online",
     "description": "A manga reader for manga fans.",
     "text": ""
+  },
+  {
+    "id": "57e174ad340a2f03023d18ea811278048ab3e8de",
+    "url": "https://navitime.co.jp/",
+    "title": "NAVITIME - 地図・ルート検索",
+    "description": "NAVITIMEでは、電車・バス・車・徒歩のルート検索や時刻表、乗換案内、旅行プランニングまで、移動に必要な情報を一括でサポート。快適な移動を実現します！",
+    "text": ""
+  },
+  {
+    "id": "ca244d81f0b9efae3068c87d63e2ae9af646869a",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=AOJ&arrival=CTS",
+    "title": "青森空港 → [札幌]新千歳空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "青森空港 → [札幌]新千歳空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、空",
+    "text": ""
+  },
+  {
+    "id": "6a33a607b914343dfe8ac74a3d707c0c5146ad62",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=AKJ&arrival=HND",
+    "title": "旭川空港 → [東京]羽田空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "旭川空港 → [東京]羽田空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、空港",
+    "text": ""
+  },
+  {
+    "id": "2550349b28277efbd4410c9c38f15dfaab8c611c",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=AOJ&arrival=HND",
+    "title": "青森空港 → [東京]羽田空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "青森空港 → [東京]羽田空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、空港",
+    "text": ""
+  },
+  {
+    "id": "4ef2521eda772b54cbbbf6d2620649a08909b16e",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=AKJ&arrival=NGO",
+    "title": "旭川空港 → [名古屋]中部国際空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "旭川空港 → [名古屋]中部国際空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報",
+    "text": ""
+  },
+  {
+    "id": "cbdac3aee2c1a45ca85c938c33010a9d1ab1b4c9",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=AOJ&arrival=ITM",
+    "title": "青森空港 → [大阪]伊丹空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "青森空港 → [大阪]伊丹空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、空港",
+    "text": ""
+  },
+  {
+    "id": "5e5790fa0283a97996b0f478dfe929a967bea2b2",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=ITM",
+    "title": "奄美大島空港 → [大阪]伊丹空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "奄美大島空港 → [大阪]伊丹空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、",
+    "text": ""
+  },
+  {
+    "id": "f931ac2177cf034ac3d70e275099d465bc6a896f",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=HND",
+    "title": "奄美大島空港 → [東京]羽田空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "奄美大島空港 → [東京]羽田空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、",
+    "text": ""
+  },
+  {
+    "id": "bbe0098f54a69967b450618d61000db217b4456a",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KIX",
+    "title": "奄美大島空港 → [大阪]関西空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "奄美大島空港 → [大阪]関西空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、",
+    "text": ""
+  },
+  {
+    "id": "513ef501dcf88a291226bfffbf9fe983ed4f15e1",
+    "url": "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KKX",
+    "title": "奄美大島空港 → 喜界島空港 - 飛行機時刻表/予約〔国内線〕 - NAVITIME",
+    "description": "奄美大島空港 → 喜界島空港の飛行機時刻表/予約情報です。時刻表のほかに、空席照会～航空券予約まで可能。航空券とホテルがセットになったお得なプランの予約、通常価格と比較して割安な格安航空券情報、空港周",
+    "text": ""
+  },
+  {
+    "id": "6c7f0964faba2611d6f1658b390c9dc2f3658e73",
+    "url": "https://purepeople.com/",
+    "title": "Actus people - News people du jour - Actus des stars, photos & vidéos sur Purepeople",
+    "description": "Purepeople.com : L'actualité 100% people en continu ! Toutes les infos sur vos stars préférées en fr",
+    "text": "Copyright © 2008 - 2025  Webedia - Tous droits réservés"
+  },
+  {
+    "id": "81fa5261f87875438e520fce0491935224c35a99",
+    "url": "https://www.khabaronline.ir/news/2114037/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AE%D8%A7%D9%84-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D9%88-%D8%B2%DA%AF%DB%8C%D9%84-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A2%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF%D9%86-%D8%B2%DA%AF%DB%8C%D9%84-%D8%A8%D8%A7-%D9%86%D8%A7%D8%AE%D9%86%DA%AF%DB%8C%D8%B1-%DB%8C%D8%A7-%D8%A8%D8%B3%D8%AA%D9%86",
+    "title": "تفاوت خال گوشتی و زگیل چیست؟/ آیا کندن  زگیل با ناخنگیر یا بستن نخ خطرناک است؟ - خبرآنلاین",
+    "description": "به گفته یک دکترای صلاحیت حرفه ای پوست و مو، برخلاف باور عامه مردم، خال گوشتی و زگیل از نظر ماهیت و د",
+    "text": "به گفته یک دکترای صلاحیت حرفه ای پوست و مو، برخلاف باور عامه مردم، خال گوشتی و زگیل از نظر ماهیت و د"
+  },
+  {
+    "id": "cf40fcefe7c4535f35d14f8e18d1dd14554a8cba",
+    "url": "https://www.khabaronline.ir/news/2114552/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%88-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B2%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%B1%D8%AF%D8%B5%D9%84%D8%A7%D8%AD%DB%8C%D8%AA-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%D9%87%D8%A7%DB%8C",
+    "title": "درخواست از رئیس جمهور و وزیر بهداشت: زیر بار ردصلاحیت نامزدهای نظام پزشکی نروید - خبرآنلاین",
+    "description": "تعداد قابل ملاحظه‌ای از پزشکان مورد احترام نیز برای انتخاب شدن در سازمان نظام پزشکی ردصلاحیت شده‌اند",
+    "text": "تعداد قابل ملاحظه‌ای از پزشکان مورد احترام نیز برای انتخاب شدن در سازمان نظام پزشکی ردصلاحیت شده‌اند"
+  },
+  {
+    "id": "c739570acfbf65e7d0114226e7c2fcd28366b896",
+    "url": "https://www.khabaronline.ir/news/2114568/%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B9%D8%A8%D8%AF%DB%8C-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%DB%8C%D8%AF-%D9%88-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF",
+    "title": "عباس عبدی خطاب به پزشکیان: فقط مشکلات را می گویید و راه حل ندارید/ با این وفاق  دردی درمان نمی شود/چ",
+    "description": "از سخنان و جلسات آقای پزشکیان در هفته‌های اخیر دقیقا استنباط می‌کنیم که با وضعیت کنونی هیچ کدام از م",
+    "text": "از سخنان و جلسات آقای پزشکیان در هفته‌های اخیر دقیقا استنباط می‌کنیم که با وضعیت کنونی هیچ کدام از م"
+  },
+  {
+    "id": "3a4296ac09768faba36203e1b1b230913a5f87a7",
+    "url": "https://www.khabaronline.ir/news/2114556/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DA%86%D8%B1%D8%A7-%D8%A8%D8%B1%D8%AE%D9%84%D8%A7%D9%81-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D8%AD%DB%8C%D8%B1-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%DA%A9%D8%B1%D8%AF",
+    "title": "قیمت دلار چرا برخلاف انتظار در روزهای احیر عقب نشینی کرد؟ - خبرآنلاین",
+    "description": "قیمت هر دلار آمریکا در پایان هفته در بازار آزاد ارز ایران به زیر 100هزار تومان رسید و 99هزار و 300تو",
+    "text": "قیمت هر دلار آمریکا در پایان هفته در بازار آزاد ارز ایران به زیر 100هزار تومان رسید و 99هزار و 300تو"
+  },
+  {
+    "id": "a2a264e309ccbd1635126d08b0c8ec142689489b",
+    "url": "https://www.khabaronline.ir/news/2114572/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-%D8%A8%D8%B1%D8%AF-%DA%A9%D9%88%D9%BE%D8%B1-%D8%A8%D9%87-%D8%AF%D9%84%DB%8C%D9%84",
+    "title": "احمد الشرع با فرمانده جدید سنتکام دیدار کرد/برد کوپر به دلیل مبارزه دولت سوریه با داعش تشکر کرد! - خ",
+    "description": "«احمد الشرع» رئیس دولت موقت سوریه و ژنرال «برد کوپر» فرمانده جدید فرماندهی مرکزی آمریکا در خاورمیانه",
+    "text": "«احمد الشرع» رئیس دولت موقت سوریه و ژنرال «برد کوپر» فرمانده جدید فرماندهی مرکزی آمریکا در خاورمیانه"
+  },
+  {
+    "id": "8723adf7d369323883d8ac9ee0a0d6a983524d47",
+    "url": "https://www.khabaronline.ir/news/2114569/%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D9%BE%D8%B3%D8%AA-%D9%85%D9%88%D8%B3%D8%A7%D8%AF-%DB%8C%DA%A9-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%A7%D8%B1%DA%A9-%D8%AF%DB%8C%D8%AF%D9%87",
+    "title": "افشاگری واشنگتن‌پست:موساد یک عملیات زمینی را علیه قطر تدارک دیده بود - خبرآنلاین",
+    "description": "روزنامه واشنگتن پست به نقل از منابع اسرائیلی ادعا کرد که «موساد» یک عملیات زمینی را علیه رهبران حماس",
+    "text": "روزنامه واشنگتن پست به نقل از منابع اسرائیلی ادعا کرد که «موساد» یک عملیات زمینی را علیه رهبران حماس"
+  },
+  {
+    "id": "0d095e726060851cf5b821cc19be76e66e17f2f0",
+    "url": "https://www.khabaronline.ir/news/2114095/%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7-%DA%86%D9%87-%D8%A8%D9%88%D8%AF",
+    "title": "جمع‌آوری نوعی بستنی از بازار آمریکا/ ماجرا چه بود؟ - خبرآنلاین",
+    "description": "کارخانه‌ای در آمریکا در حال جمع‌آوری نوعی بستنی از تولیدات خود که ماده حساسیت‌زای «بادام زمینی» در ت",
+    "text": "کارخانه‌ای در آمریکا در حال جمع‌آوری نوعی بستنی از تولیدات خود که ماده حساسیت‌زای «بادام زمینی» در ت"
+  },
+  {
+    "id": "b78987ccde399bc6a274f1fd5fa2901e53cc9ad6",
+    "url": "https://www.khabaronline.ir/news/2114565/%D9%85%D8%B3%D8%AA-%D8%A8%D9%88%D8%AF%D9%85-%DA%AF%D9%85%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D9%85-%D9%BE%D8%B3%D8%B1%DB%8C-%DA%A9%D9%87-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%85%D8%B3%D8%A7%DB%8C%D9%87-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DA%AF%D8%A7%D8%B1",
+    "title": "مست بودم؛گمان کردم پسری که در مقابل خانه همسایه ایستاده خواستگار دختر آنهاست، او را کشتم - خبرآنلاین",
+    "description": "چند روز قبل زن جوانی هراسان با پلیس تماس گرفت و از قتل همسرش خبر داد.",
+    "text": "چند روز قبل زن جوانی هراسان با پلیس تماس گرفت و از قتل همسرش خبر داد.\nبه گزارش خبرآنلاین روزنامه ایر"
+  },
+  {
+    "id": "ae82b287fc55e2308f831a67ca81cfd49fb2b311",
+    "url": "https://www.khabaronline.ir/news/2114436/%D8%AA%D8%A8%D8%B9%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%86%D9%87-%D8%A8%D9%88%D8%AF-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B9%D8%B6%D9%88-%D9%87%DB%8C%D8%A6%D8%AA-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%DA%A9%D9%86%D9%86%D8%AF%D9%87",
+    "title": "تبعات تسخیر سفارت آمریکا برای ایران چه بود؛ روایت عضو هیئت مذاکره‌کننده‌ قطعنامه‌ ۵۹۸ چیست؟ - خبرآنل",
+    "description": "عضو هیئت مذاکره‌کننده‌ قطعنامه‌ ۵۹۸ می گوید طول کشیدن ماجرای تسخیر سفارت تبعات سنگینی برای ایران داش",
+    "text": "عضو هیئت مذاکره‌کننده‌ قطعنامه‌ ۵۹۸ می گوید طول کشیدن ماجرای تسخیر سفارت تبعات سنگینی برای ایران داش"
+  },
+  {
+    "id": "fcf02f9ce3532b29d150ddc8ced66145c396623a",
+    "url": "https://khabaronline.ir/",
+    "title": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
+    "description": "به‌روزترین و جامع‌ترین اخبار ، تحلیل‌ و فیلم ها در حوزه سیاست ، اقتصاد ، فرهنگی ، اجتماعی ، سلامت ، ",
+    "text": "داخل کشور خودما کلاس زبان میرفتن اقایون\nدرمورد ولایت‌فقیه علیهم‌السلام،مجلس خبرگان رهبری تصمیم می‌گی"
+  },
+  {
+    "id": "ebbfd4229583bc4267c6e2d91e3aa73b1630fb6c",
+    "url": "https://jut.su/",
+    "title": "����� ������ ������: ��� ����� ������",
+    "description": "���� ����� � ������ �������, ����������� ������� ������. ��� ������ � ����� �����, � ����� ������� �",
+    "text": "���� ������ ��� �� ����� ������� - ����� ���� ��� �������� ��� ������� ����������� ��������� �������"
+  },
+  {
+    "id": "ec70ab8b6b0a4b01f1ad629b21edc1f920c2ec78",
+    "url": "https://otomoto.pl/",
+    "title": "OTOMOTO - nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.",
+    "description": "OTOMOTO - nowe i używane samochody i motocykle w Polska",
+    "text": "Finansowanie\nFacebook\nInstagram\nYouTube\nTikTok\nTelefon: +48 61 880 32 21, 48 539 146 861.ooa-1u6va8i"
+  },
+  {
+    "id": "590a58a74d060e760cbc569a2badb9c948239f66",
+    "url": "https://www.otomoto.pl/ciezarowe/Autosan/",
+    "title": "Autosan - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe Autosan - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 7\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 7\nJak pozycjonowan"
+  },
+  {
+    "id": "0bf9cf686f153f34dda7c590346fcb481f87d7b8",
+    "url": "https://www.otomoto.pl/ciezarowe/Bova/",
+    "title": "Bova - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe Bova - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 7\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 7\nJak pozycjonowan"
+  },
+  {
+    "id": "b34ec36e4bfe72b7dd28176ca8bea4783839e6e5",
+    "url": "https://www.otomoto.pl/ciezarowe/DAF/",
+    "title": "DAF - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe DAF - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 1 512\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 1 512\nJak pozy"
+  },
+  {
+    "id": "750ff979c418495cf0ade04c208193fb8bae681b",
+    "url": "https://www.otomoto.pl/ciezarowe/Citro%C3%ABn/",
+    "title": "Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 12 749\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 12 749\nJak po"
+  },
+  {
+    "id": "db7cda47c6049ee8a33622d1ab625f506522b7fa",
+    "url": "https://www.otomoto.pl/ciezarowe/FOTON/",
+    "title": "FOTON - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe FOTON - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 7\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 7\nJak pozycjonowan"
+  },
+  {
+    "id": "2058634c8d3a6af980887d3970b2d4bba7f078b8",
+    "url": "https://www.otomoto.pl/ciezarowe/Fiat/",
+    "title": "Fiat - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe Fiat - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 28\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 28\nJak pozycjonow"
+  },
+  {
+    "id": "14b9a8f44e77cb5c8771a541c3e1cc4f46c6f402",
+    "url": "https://www.otomoto.pl/ciezarowe/Ford/",
+    "title": "Ford - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe Ford - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 94\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 94\nJak pozycjonow"
+  },
+  {
+    "id": "991b47b673dd0a8b5e0a73208e3187414914778c",
+    "url": "https://www.otomoto.pl/ciezarowe/FUSO/",
+    "title": "FUSO - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe FUSO - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 47\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 47\nJak pozycjonow"
+  },
+  {
+    "id": "55886f96ca2d1b373a88a74506538c434c752fe7",
+    "url": "https://www.otomoto.pl/ciezarowe/Inny/",
+    "title": "Inny - Ciężarowe - Otomoto.pl",
+    "description": "Ciężarowe Inny - Przeglądaj oferty nowych i używanych pojazdów na sprzedaż w Otomoto.pl.",
+    "text": "Finansowanie\nLiczba ogłoszeń: 103\nJak pozycjonowane są ogłoszenia?\nLiczba ogłoszeń: 103\nJak pozycjon"
+  },
+  {
+    "id": "3bf993f033323cdf213de4ecfd93b6ca8d55aa87",
+    "url": "https://beboo.ru/",
+    "title": "���������� Beboo - ���� ��������� ��� ����������� ���������",
+    "description": "���� ��������� ��� ����������� - ����� ����� �������� ��� ������, ��������� ���������, �������� ����",
+    "text": "������������ ������ � ���������� ��� �����������, ������ ����� ���������� � �������� ��������!\n�����"
+  },
+  {
+    "id": "33c492bb04f8ce82845b8818769276f0ef94538f",
+    "url": "https://beboo.ru/znakomstva",
+    "title": "��������� � ����� ������!",
+    "description": "���� ��������� � ����� ������. �������������, ������� ��� ��� ���� �������� � ��������� ����� ������",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������������ Beboo\n���� �������������\n����� ���������"
+  },
+  {
+    "id": "573c6e6e3b4d4482ddb2e94f138ec37d92ec14f1",
+    "url": "https://beboo.ru/znakomstva/russia",
+    "title": "���������� ������, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ ������ ��� �������!  ���������� ��� ����������� ��� ��������� ��������� ",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n����� �� ���������"
+  },
+  {
+    "id": "f6f6e6c2d8edd3aac40ea78e3bb858a8a25a1007",
+    "url": "https://beboo.ru/sayty-znakomstv",
+    "title": "������� ������ ���������",
+    "description": "�������� ������ ���������",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n© ���� ��������� Beboo 2010-2025\n��� ����, ����� ����"
+  },
+  {
+    "id": "983f497216d569810e762a8bd3efa611a4079dae",
+    "url": "https://beboo.ru/stati",
+    "title": "������ � �����������",
+    "description": "������ ������ � �����������",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n© ���� ��������� Beboo 2010-2025\n��� ����, ����� ����"
+  },
+  {
+    "id": "b3def99ce97e83ede39ad1455f7dce2b2b5ca2f1",
+    "url": "https://beboo.ru/znakomstva/novyy-sochi",
+    "title": "���������� deleted, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ deleted ��� �������!  ���������� ��� ����������� ��� ��������� ���������",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n© ���� ��������� B"
+  },
+  {
+    "id": "82f29d746b1dbeb088b079e2091f38c9e06bf5bf",
+    "url": "https://beboo.ru/znakomstva/abaza-",
+    "title": "���������� �����, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ ����� ��� �������!  ���������� ��� ����������� ��� ��������� ��������� �",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n© ���� ��������� B"
+  },
+  {
+    "id": "606085710102bddb78c88a10dd3cc11f877177f5",
+    "url": "https://beboo.ru/znakomstva/abaza",
+    "title": "���������� �����, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ ����� ��� �������!  ���������� ��� ����������� ��� ��������� ��������� �",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n© ���� ��������� B"
+  },
+  {
+    "id": "3cf8f4594e3c15e1c83093fb12fd899ae5278df7",
+    "url": "https://beboo.ru/znakomstva/abakan",
+    "title": "���������� ������, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ ������ ��� �������!  ���������� ��� ����������� ��� ��������� ��������� ",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n© ���� ��������� B"
+  },
+  {
+    "id": "9f4c55858326706dd77f90280cf341bb442f4283",
+    "url": "https://beboo.ru/znakomstva/abakan-krasnoyarskiy-kray",
+    "title": "���������� ������, ���������� ���� ��������� ��� �����������",
+    "description": "����� ����� ������ � ������ ������ ��� �������!  ���������� ��� ����������� ��� ��������� ��������� ",
+    "text": "����� �������� ��� ������  - ������� �����\n���\n������\n������\n�����\n����\n�������\n—\n��� ������, ��� ��"
+  },
+  {
+    "id": "2afc6ad4a4a350c6b99818d447fdac327d26eeff",
+    "url": "https://www.jutarnji.hr/dobrahrana/price/kako-izgleda-jedan-dan-u-berbi-u-biodinamickom-vinogradu-obitelji-tomac-ova-je-berba-jedna-od-najboljih-koje-pamtim-15617906",
+    "title": "Dobra Hrana - Kako izgleda jedan dan u berbi u biodinamičkom vinogradu obitelji Tomac: \"Ova je jedna",
+    "description": "Predvodnici ekološke revolucije u plešivičkom vinogorju ugostili su nas usred berbe, počastili domać",
+    "text": "Komentari\n0\nBerba 2025. u vinogradima obitelji Tomac na Plešivici počela je iznenada. Iako na isti d"
+  },
+  {
+    "id": "789025e9b171522ad4cd718040fa71c52e9532d7",
+    "url": "https://jutarnji.hr/",
+    "title": "Jutarnji list - Najnovije vijesti iz Hrvatske i svijeta",
+    "description": "Jutarnji list – vodeći hrvatski dnevni portal s najnovijim vijestima iz politike, sporta, kulture i ",
+    "text": "U\nŽ\nI\nV\nO"
+  },
+  {
+    "id": "3cdd645e7f8a55503606086a48058c6f3010ead6",
+    "url": "https://www.jutarnji.hr/domidizajn/savjeti/zasto-second-hand-znalci-stavljaju-odjecu-i-knjige-u-zamrzivac-15618098",
+    "title": "Dom i dizajn - Kupovali ste u second hand trgovini? Ove tri stvari odmah stavite u zamrzivač!",
+    "description": "To je jedan od načina da se riješite sićušnih nametnika, bez kemikalija i bez oštećenja predmeta",
+    "text": "Komentari\n0\nKupnja u second hand dućanima, vintage trgovinama, na sajmovima i buvljacima, odavno je "
+  },
+  {
+    "id": "52a297ba759616231e374c4e146d27487cd9a6f0",
+    "url": "https://www.jutarnji.hr/vaumijau/aktualno/pridneno-kocarenje-unistava-bioraznolikost-sredozemlja-15618097",
+    "title": "Jutarnji list - Novo istražvanje otkriva: Pridneno koćarenje uništava bioraznolikost Sredozemlja",
+    "description": "Ribolovne metode i okolišni čimbenici, još jednom je potvrđeno, oblikuju život na morskom dnu",
+    "text": "Komentari\n0\nPpridneno koćarenje svugdje ima negativan učinak – ograničava prisutnost ranjivih vrsta "
+  },
+  {
+    "id": "82861897f9b40052c9937449077f2ea95f57aed7",
+    "url": "https://www.jutarnji.hr/vijesti/hrvatska/ustavnom-sudu-prijeti-blokada-pocinje-zestoka-bitka-separovic-odlazi-naslijediti-bi-ga-mogao-covjek-koji-je-vodio-covid-predmete-15618102",
+    "title": "Jutarnji list - Ustavnom sudu prijeti blokada, počinje žestoka bitka. Šeparović odlazi, naslijediti ",
+    "description": "Mandati Šeparoviću, Arloviću i Selancu produžit će se za 6 mjeseci, ali bez dogovora HDZ-a i oporbe ",
+    "text": "Komentari\n0\nMiroslav Šeparović\nSredinom ovog tjedna, 3. rujna, bit će objavljen javni poziv za tri n"
+  },
+  {
+    "id": "af4680b8b827cda8d0f37d1c796cd6fef09d1cd3",
+    "url": "https://www.jutarnji.hr/domidizajn/savjeti/rucnicima-opskrbljuju-hotele-vec-130-godina-i-tvrde-samo-ovako-vam-mogu-dugo-ostati-mekani-poput-novih-15618105",
+    "title": "Dom i dizajn - Ručnicima opskrbljuju hotele već 130 godina i tvrde 'Samo ovako vam mogu dugo ostati ",
+    "description": "Svaki novi ručnik na početku je mekan, mirisan i ugodan na dodir, ali već nakon nekoliko pranja, ruč",
+    "text": "Komentari\n0\nSvaki novi ručnik na početku je mekan, mirisan i ugodan na dodir, ali već nakon nekoliko"
+  },
+  {
+    "id": "c6ef97483005398258a1f3b4c405c256c80c2f6f",
+    "url": "https://www.jutarnji.hr/vijesti/svijet/zelenski-uhitili-smo-osumnjicenog-za-ubojstvo-bivseg-sefa-parlamaneta-15618106",
+    "title": "Jutarnji list - Zelenski: 'Uhitili smo osumnjičenog za ubojstvo bivšeg šefa parlamaneta'",
+    "description": "Ukrajinski zastupnik i bivši predsjednik parlamenta ubijen je u subotu u Lavovu vatrenim oružjem",
+    "text": "Komentari\n0\nUkrajinski predsjednik Volodimir Zelenski objavio je u ponedjeljak na aplikaciji Telegra"
+  },
+  {
+    "id": "a16f09610e6ff8a069f9b7e4f6ea41d4b1e56198",
+    "url": "https://www.jutarnji.hr/vaumijau/divlje-zivotinje/riba-s-prozirnom-glavom-skriva-iznenadujucu-moc-u-dubinama-oceana-15618096",
+    "title": "Jutarnji list - U dubinama oceana živi nevjerojatna riba: Glava joj je prozirna, a razlog tome je - ",
+    "description": "Stvorenje je to koje je svojim neobičnim izgledom i sposobnostima očaralo brojne znanstvenike",
+    "text": "Komentari\n0\nAko se uzmu u obzir sve čudne i prekrasne prilagodbe koje su se dogodile u svjetskim oce"
+  },
+  {
+    "id": "3d823451ba4389500a6cb110ebbca038cd6e8d56",
+    "url": "https://www.jutarnji.hr/scena/strane-zvijezde/cijeli-hollywood-suskao-je-o-velikoj-svadi-zvijezda-avangersa-sada-je-o-svemu-progovorio-izvor-sa-seta-15618103",
+    "title": "Jutarnji list - Cijeli Hollywood šuškao je o velikoj svađi zvijezda 'Avengersa', sada je o svemu pro",
+    "description": "Posljednjih je mjeseci javna slika glumca u sjeni pravne bitke koju on i supruga vode protiv Justina",
+    "text": "Komentari\n0\nRyan Reynolds\nIzvori su demantirali glasine da su se glumačke zvijezde Robert Downey Jr."
+  },
+  {
+    "id": "f0e0844658b3835508ccc2d413a5a1a4562f5618",
+    "url": "https://www.jutarnji.hr/web-static/cuvajte-se-mokrih-banana-u-supermarketima-cesto-cete-na-takve-naletjeti-a-evo-zasto-morate-bjezati-od-njih-15618104",
+    "title": "Jutarnji list - Čuvajte se mokrih banana u supermarketima! Često ćete na takve naletjeti, a evo zašt",
+    "description": "Ako želite živjeti zdravo, trebali biste redovito jesti voće i povrće. Međutim, treba ga pažljivo is",
+    "text": "Komentari\n0\nILUSTRACIJA\nAko želite živjeti zdravo, trebali biste redovito jesti voće i povrće. Međut"
+  },
+  {
+    "id": "c8edf1958794c36e8ab3f023d870eeb4f89ce065",
+    "url": "https://gelbooru.com/",
+    "title": "Gelbooru | Anime Art & Hentai Gallery - Free to Explore",
+    "description": "Browse millions of anime, manga, videos, and video game themed images on Gelbooru. Discover art with",
+    "text": ""
+  },
+  {
+    "id": "8c07e3e472c7757403ee0a49895e7f76f9899ef5",
+    "url": "https://ficbook.net/",
+    "title": "Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов",
+    "description": "Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов. Рассказы о героях известных",
+    "text": "Для зарегистрированных пользователей:\nили Войти с помощью Логина и Пароля"
+  },
+  {
+    "id": "4070f5a53e2a0123858fbecffae40a2d30bdb772",
+    "url": "https://www.blic.rs/vesti/drustvo/nesebar-je-najjeftinije-letovaliste-u-evropi-nalazi-se-na-samo-nekoliko-sati-od/k3f9736",
+    "title": "Nesebar je najjeftinije letovalište u Evropi nalazi se na samo nekoliko sati od Beograda - Blic",
+    "description": "Jedno od ove godine manje popularnih letovališta koje je ove godine ponelo titulu najpovoljnijeg u E",
+    "text": "Bugarsko letovalište Nesebar je proglašeno za najpovoljnije letovalište u Evropi\nNesebar se nalazi n"
+  },
+  {
+    "id": "759803226c17ea9694cc762cda5b72fc4d9af7e5",
+    "url": "https://www.blic.rs/vesti/svet/policajac-imigracione-sluzbe-ubio-muskarca-u-cikagu-tokom-pokusaja-hapsenja/lph87nv",
+    "title": "Policajac imigracione službe ubio muškarca u Čikagu tokom pokušaja hapšenja - Blic",
+    "description": "Agent američke Imigracione i carinske službe (ICE) ubio je muškarca dok su policajci pokušavali da g",
+    "text": "Tramp razmatra mogućnost slanja Nacionalne garde u više gradova zbog kriminala i protesta.\nAdministr"
+  },
+  {
+    "id": "c70ce89bf393f076b8c15af3c81adbb8d1d6879e",
+    "url": "https://www.blic.rs/slobodno-vreme/u-japanu-skoro-100000-stogodisnjaka-zene-dugovecnije-i-brojnije/68yzpgh",
+    "title": "U Japanu skoro 100.000 stogodišnjaka: Žene dugovečnije i brojnije - Blic",
+    "description": "<strong>U Japanu trenutno živi 99.763 stogodišnjaka, što je novi rekord, saopštilo je Ministartsvo z",
+    "text": "Najstarija osoba u Japanu je Šigeko Kagava sa 114 godina.\nNajstariji muškarac u Japanu je Kijotaka M"
+  },
+  {
+    "id": "3eefa2adc296e4d9df116dec26453b6d04e93260",
+    "url": "https://blic.rs/",
+    "title": "Blic | Vesti dana iz Srbije, regiona i sveta",
+    "description": "Pročitajte najnovije vesti dana iz sveta, politike, društva, ekonomije, zabave, sporta, kulture na B",
+    "text": ""
+  },
+  {
+    "id": "c7254e4bb3a078ed7ea77a99bc5354ca3277d02e",
+    "url": "https://www.blic.rs/slobodno-vreme/astronomi-gasic-i-simonovic-objasnjavaju-kakvi-znaci-zivota-su-pronadjeni-na-marsu/b8ddmrl",
+    "title": "Astronomi Gašić i Simonović objašnjavaju kakvi znaci života su pronađeni na Marsu - Blic",
+    "description": "Astronom Vladimir Gašić izjavio je da najnoviji uzorak koji je prikupio rover Perseverens predstavlj",
+    "text": "Astronom Vladimir Gašić rekao je da uzorak nije direktan dokaz života, već pokazatelj mogućih biološ"
+  },
+  {
+    "id": "3164b8bef1d41f109881277b0ec5c23a060870d7",
+    "url": "https://www.blic.rs/vesti/svet/oglasila-se-erika-kirk-erika-kirks-niko-nikada-nece-zaboraviti-ime-mog-muza/re0rekd",
+    "title": "Oglasila se Erika Kirk (Erika Kirk’s): Niko nikada neće zaboraviti ime mog muža - Blic",
+    "description": "Erika Kirk (Erika Kirk’s), udovica konzervativnog aktiviste Čarlija Kirka, koji je ubijen u sredu, b",
+    "text": "Erika je istakla veru i posvećenost njenog muža hrišćanskoj veri, porodici i političkom aktivizmu.\nS"
+  },
+  {
+    "id": "8fdaaa51cbde63a2e6672e1c652c7ba265283d9c",
+    "url": "https://www.blic.rs/biznis/vesti/svajcarske-banke-odbile-svaki-treci-zahtev-za-potrosacki-kredit/c4j6pfs",
+    "title": "Švajcarske banke odbile svaki treći zahtev za potrošački kredit",
+    "description": "Švajcarske banke beleže rekordno visok procenat odbijenih zahteva za potrošačke kredite od čak 35,5 ",
+    "text": "Tržište postaje selektivnije i smanjuje obim transakcija.\nUkupna vrednost aktivnih ugovora o krediti"
+  },
+  {
+    "id": "0fbaed100471f327f023296ecfa488be82347db7",
+    "url": "https://www.blic.rs/vesti/hronika/policija-kod-maloletnika-pronasla-marihuana-kod-mladica-23-amfetamin/b6k5bj8",
+    "title": "Policija kod maloletnika pronašla marihuana, kod mladića (23) amfetamin - Blic",
+    "description": "Policijski službenici Regionalnog centra bezbednosti „Zapad“, Odeljenja bezbednosti Pljevlja su vrši",
+    "text": "Ova akcija ima za cilj jačanje borbe protiv upotrebe narkotika u zajednici.\nProtiv počinilaca podnet"
+  },
+  {
+    "id": "bf61f98b373d14246d7a25cf60dc2c5b6bd61600",
+    "url": "https://www.blic.rs/vesti/svet/gasenje-interneta-u-rusiji-zbog-dronova-ekonomija-i-zivoti-pod-pritiskom-izazova/fy38zn9",
+    "title": "Gašenje interneta u Rusiji zbog dronova: Ekonomija i životi pod pritiskom izazova - Blic",
+    "description": "Sve intenzivniji ukrajinski napadi dronovima na ciljeve duboko unutar ruske teritorije podstakli su ",
+    "text": "Ukrajinski napadi dronovima unutar ruske teritorije izazvali su gašenja interneta u vojnim oblastima"
+  },
+  {
+    "id": "7bd16ee6069a6ac47ed8d07775b957d59d482ea6",
+    "url": "https://www.blic.rs/biznis/vesti/vucic-poseticu-japan-i-srpski-paviljon-na-expo-u-osaki-15-septembra/c15jchr",
+    "title": "Vučić: Posetiću Japan i srpski paviljon na Expo u Osaki 15. septembra",
+    "description": "Predsednik Srbije Aleksandar Vučić najavio je moguću posetu Japanu i srpskom paviljonu na EXPO u Osa",
+    "text": "Planirano je potpisivanje Sporazuma o podsticaju i zaštiti investicija između Srbije i Japana.\nSpora"
+  },
+  {
+    "id": "a77a1b081c0b8e07bb63cff29e3d2e38120f4935",
+    "url": "https://rajasthan.gov.in/",
+    "title": "State Portal | Govt of Rajasthan",
+    "description": "State Portal | Govt of Rajasthan",
+    "text": ""
+  },
+  {
+    "id": "f1fb998e521488e41a0a680432387384701aa2d6",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h/",
+    "title": "レクサス CT200h の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h車カタログでお気に入りの装備がきっと見つかる。レクサスCT200hの装備に関するスペックやクチコミ情報をゲット！リクルートが運営する中古車の情報サイト「カーセンサーnet」！",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200hの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細\n中古車の情報は、ランダム"
+  },
+  {
+    "id": "7c9e7bf7a51004e628174f691de91b2912ae1a05",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/",
+    "title": "レクサス CT200h Fスポーツ の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h Fスポーツ車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h Fスポーツの装備に関するスペックやクチコミ情報をゲット！リクルートが運営する中古車の情報サイト「カー",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h Fスポーツの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細\n中古車の情報"
+  },
+  {
+    "id": "5f816ba47b0e3816584c4d1dea44ae9322507c64",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3L/",
+    "title": "レクサス CT200h バージョンL の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h バージョンL車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h バージョンLの装備に関するスペックやクチコミ情報をゲット！リクルートが運営する中古車の情報サイト「",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h バージョンLの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細\n中古車の情"
+  },
+  {
+    "id": "8e7ce1a8773c19555b315f475bc0340456e353fe",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3C/",
+    "title": "レクサス CT200h バージョンC の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h バージョンC車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h バージョンCの装備に関するスペックやクチコミ情報をゲット！リクルートが運営する中古車の情報サイト「",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h バージョンCの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細\n中古車の情"
+  },
+  {
+    "id": "73e2c12ba51ef77b3062a3968c6a3f2483dae62a",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96+%E3%83%86%E3%82%AD%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB+%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2/",
+    "title": "レクサス CT200h クリエイティブ テキスタイル インテリア の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h クリエイティブ テキスタイル インテリア車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h クリエイティブ テキスタイル インテリアの装備に関するスペックやクチコ",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h クリエイティブ テキスタイル インテリアの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハ"
+  },
+  {
+    "id": "055aae8d3e3a3592ad13f2304b1309d767b0113e",
+    "url": "https://carsensor.net/",
+    "title": "中古車・中古車情報なら【カーセンサーnet】",
+    "description": "中古車検索や中古車販売などの中古車情報なら「カーセンサーnet」！リクルートが運営する中古車情報のサイトです。全国の中古車が様々な条件で検索可能です。人気の中古車ランキングや中古自動車の相場表も完備！",
+    "text": "サイトマップ\nログイン\n中古車を探す\n掲載台数507,930台　09月13日更新\n国産中古車\nすべて見る\nレクサス\nトヨタ\nホンダ\n日産\nスズキ\nダイハツ\nマツダ\nスバル\n三菱\n輸入中古車\nすべて見る"
+  },
+  {
+    "id": "9f43c371e62e0f93024d2d9ce7c253f354a99cdf",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3/",
+    "title": "レクサス CT200h Fスポーツ クロスライン の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h Fスポーツ クロスライン車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h Fスポーツ クロスラインの装備に関するスペックやクチコミ情報をゲット！リクルートが運営",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h Fスポーツ クロスラインの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細"
+  },
+  {
+    "id": "0c568f548c4101d036d7ee75b2e70514d1e3b08e",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%82%AF%E3%83%BC%E3%83%AB+%E3%83%84%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/",
+    "title": "レクサス CT200h クール ツーリング スタイル の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h クール ツーリング スタイル車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h クール ツーリング スタイルの装備に関するスペックやクチコミ情報をゲット！リクルー",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h クール ツーリング スタイルの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n"
+  },
+  {
+    "id": "97054457f683a46f26b387f7cc6d3530e02504b6",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%81%E3%82%A7%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88+%E3%83%84%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "title": "レクサス CT200h チェリッシュト ツーリング の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h チェリッシュト ツーリング車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h チェリッシュト ツーリングの装備に関するスペックやクチコミ情報をゲット！リクルートが",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h チェリッシュト ツーリングの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳"
+  },
+  {
+    "id": "0cf90943a955dad1dfd5d0baeeec1040478d0272",
+    "url": "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF+%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B9/",
+    "title": "レクサス CT200h ブラック シークエンス の装備情報｜中古車なら【カーセンサーnet】",
+    "description": "レクサスCT200h ブラック シークエンス車カタログでお気に入りの装備がきっと見つかる。レクサスCT200h ブラック シークエンスの装備に関するスペックやクチコミ情報をゲット！リクルートが運営する",
+    "text": "総額表示No.1 お得・納得！中古車探し\nCT 200h ブラック シークエンスの中古車を探す\n生産期間\n新車時価格\n乗車定員\nドア数\n燃費\n排気量(cc)\n駆動方式\nミッション\nハンドル位置\n詳細\n"
+  },
+  {
+    "id": "9b87838bed3f5d3905bb6ae439121431d93317cf",
+    "url": "https://ssstik.io/download-tiktok-stories",
+    "title": "Download TikTok Story and photo online - TikTok Story Downloader",
+    "description": "You can use our TikTok Story Viewer on any page of the site. Download TikTok stories or slideshow in",
+    "text": "Download Story from TikTok\nOur TikTok story download app will allow you to view and download TikTok "
+  },
+  {
+    "id": "6c62d2c12abda6cfe5d901158f7320ca73c56136",
+    "url": "https://ssstik.io/",
+    "title": "TikTok Downloader - Download TikTok Video Without Watermark",
+    "description": "Fastest TikTok video downloader! Save TikTok videos in HD with two taps, fast and free. With or with",
+    "text": "Unlimited\nNo Watermark!\nMP4 and MP3\nSSSTik.io is the most popular tiktok video downloader allowing y"
+  },
+  {
+    "id": "b6777c5c56bf1d8c2995e3795697354bbb57d955",
+    "url": "https://ssstik.io/apk",
+    "title": "TikTok video downloader without watermark apk for Android",
+    "description": "✅ Install sssTikTok application for Android mobile devices and download TikTok videos right to your ",
+    "text": "Save your favourite TikTok videos directly to Android Gallery for free and watch them whenever you w"
+  },
+  {
+    "id": "fd2bd3634c4e898cbcb6f5e3979a252a87e39669",
+    "url": "https://ssstik.io/contacts",
+    "title": "Something went wrong? - Contact us - www.ssstik.io",
+    "description": "Reach out to us and we will respond as soon as possible. Saw a bug? Something is wrong with the vide",
+    "text": "Your contact email\nMessage or bugreport\nWe are here to answer any questions or inquiries that you ma"
+  },
+  {
+    "id": "25b259e780a7e9fd982b0503bc82a0a515cb41e7",
+    "url": "https://ssstik.io/download-tiktok-mp3",
+    "title": "Download TikTok MP3 online with Free Tik Tok mp3 downloader",
+    "description": "Download TikTok MP3 or MP4 for free, no watermark, no registration! Save videos or audio fast and ea",
+    "text": "If you want to download TikTok audio, paste the TT link on this page and then press the button.\nTikT"
+  },
+  {
+    "id": "423efeef856bd8c727ea0e8f0fbc159421d1ced0",
+    "url": "https://ssstik.io/tiktok-viewer",
+    "title": "Watch TikTok Anonymously - Free TikTok Viewer & Story Viewer Online",
+    "description": "View TikTok videos, profiles, and stories anonymously without logging in. Use our free TikTok anonym",
+    "text": "Unlimited\nAnonymous\nSafe View\nOpen the TikTok app or website. Find the video, Story, or public profi"
+  },
+  {
+    "id": "668ed12ad902a4710e2483c9dbf4e77e207b1f39",
+    "url": "https://ssstik.io/id",
+    "title": "Download Video TikTok Tanpa Watermark HD - TikTok Downloader",
+    "description": "TikTok downloader membantu Anda download video TikTok tanpa watermark gratis dalam mp4 atau mp3 onli",
+    "text": "Akses Tanpa Batas\nUnduh Tanpa Watermark\nMP4 dan MP3 Dalam HD\nSSS TikTok download mp4 adalah salah sa"
+  },
+  {
+    "id": "20e05f6d93116101400d8526ad6093846ff9c14b",
+    "url": "https://ssstik.io/de",
+    "title": "TikTok video Downloader ohne wasserzeichen online - TikTok download",
+    "description": "Schnellster TikTok Video Downloader! Speichern Ihre Videos in zwei Schritten, schnell und kostenlos ",
+    "text": "Unbegrenzt\nKein watermark!\nMP4 und MP3\nSSS TikTok ist eine der beliebtesten Apps für Tik Tok video d"
+  },
+  {
+    "id": "b6b64faa67d93424cbf1fa4f0e90e23ac7287cc7",
+    "url": "https://ssstik.io/es",
+    "title": "Descargar videos de TikTok sin marca de agua con TikTok video downloader",
+    "description": "Descargar videos de TikTok sin marca de agua en unos simples pasos y de forma gratuita. Sin límites ",
+    "text": "Descargas ilimitadas\nSin marca de agua en los videos\nCompatible con MP4 y MP3\nEste método es lo más "
+  },
+  {
+    "id": "f3cc8bc03ba845abddb96bf6908a73d34511ef09",
+    "url": "https://ssstik.io/fr",
+    "title": "Telecharger video TikTok sans filigrane avec TikTok downloader",
+    "description": "Telecharger videos TikTok sans filigrane en MP3 ou MP4 ! Enregistrez-les en deux clics, rapide, faci",
+    "text": "Illimités\nAucun filigrane!\nMP4 et MP3\nsss TikTok downloader est un outil en ligne pour telecharger v"
+  },
+  {
+    "id": "3be86485fa4d0b73a69cc930b2473b2c0ab489ec",
+    "url": "https://betway.co.za/",
+    "title": "Betway",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ea7b644fcc1eb39af81deb105737e83c6637dfd4",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.90",
+    "title": "Auto-, vene- ja moottoripyörätarvikkeet | Myydään\n | Tori",
+    "description": "Torista löydät 219 882 ilmoitusta kategoriassa Auto-, vene- ja moottoripyörätarvikkeet. Katso ensin ",
+    "text": "Hanki auto-, vene- ja moottoripyörätarvikkeet netistä! Torista löydät 219 882 ilmoitusta. Katso käyt"
+  },
+  {
+    "id": "f9a84d9445793ab5298fde47511a06a41f1974c8",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.77",
+    "title": "Eläimet ja eläintarvikkeet | Myydään\n | Tori",
+    "description": "Torista löydät 32 355 ilmoitusta kategoriassa Eläimet ja eläintarvikkeet. Katso ensin Torista!",
+    "text": "Torista löydät kaikenlaisia lemmikkieläimiä ja tarvikkeita lemmikeiden hoitoon - nytkin löydät näist"
+  },
+  {
+    "id": "1287991d1f19b35733c536cbe00a51a8c7dcf052",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.76",
+    "title": "Antiikki ja taide | Myydään\n | Tori",
+    "description": "Torista löydät 57 658 ilmoitusta kategoriassa Antiikki ja taide. Katso ensin Torista!",
+    "text": "Hanki antiikkia ja taidetta netistä! Torista löydät 57 658 ilmoitusta, joissa myydään tai ostetaan n"
+  },
+  {
+    "id": "8fe88baa2da1e05b152e1020211969fd0bfca8bd",
+    "url": "https://tori.fi/",
+    "title": "Tori.fi - Osta ja myy helposti uutta ja käytettyä",
+    "description": "Torista löydät parhaat diilit ja myyt helposti kaiken ylimääräisen. Ilmainen ilmoitus, nopeat kaupat",
+    "text": ""
+  },
+  {
+    "id": "d167c14b3cb3c5b3fed1cb85a21794dc7458c76f",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.91",
+    "title": "Liiketoiminta ja palvelut | Myydään\n | Tori",
+    "description": "Torista löydät 32 008 ilmoitusta kategoriassa Liiketoiminta ja palvelut. Katso ensin Torista!",
+    "text": "Etsitpä sitten tarvikkeita maatalouden tarpeisiin, ammattikeittiöön, toimistolle tai myymälään, löyd"
+  },
+  {
+    "id": "3912b8dbe4fc393ab9d46989bb131795e3e07810",
+    "url": "https://www.tori.fi/recommerce/forsale/search",
+    "title": "Tori - Osta ja myy helposti kaikkea uutta ja käytettyä | Tori",
+    "description": "Torista löydät parhaat diilit ja myyt helposti kaiken ylimääräisen. Ilmainen ilmoitus, nopeat kaupat",
+    "text": ""
+  },
+  {
+    "id": "219195062e47c50ef597188dda2afc6cf0bc2322",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.93",
+    "title": "Elektroniikka ja kodinkoneet | Myydään\n | Tori",
+    "description": "Torista löydät 129 909 ilmoitusta kategoriassa Elektroniikka ja kodinkoneet. Katso ensin Torista!",
+    "text": "Torissa on 129 909 ilmoitusta elektroniikkaa ja kodinkoneita - osta itsellesi sopiva laite tai laita"
+  },
+  {
+    "id": "e41ec727430f7f9f4542f6f5a9b40167341c0642",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.86",
+    "title": "Viihde ja harrastukset | Myydään\n | Tori",
+    "description": "Torista löydät 339 412 ilmoitusta kategoriassa Viihde ja harrastukset. Katso ensin Torista!",
+    "text": "Hanki kaikki viihde- ja harrastustarpeisiin käytettynä Torista! Nytkin Torissa on 339 412 ilmoitusta"
+  },
+  {
+    "id": "811432da07555ed728332aaa1a0502e2e23cc06a",
+    "url": "https://www.tori.fi/recommerce/forsale/search?trade_type=2",
+    "title": "Annetaan | Tori",
+    "description": "Torista löydät 18 477 Annetaan-ilmoitusta. Katso ensin Torista ja koe löytämisen ilo!",
+    "text": ""
+  },
+  {
+    "id": "9e8d68988674bcceeecd6f6e230bddd90fd45431",
+    "url": "https://www.tori.fi/recommerce/forsale/search?category=0.69",
+    "title": "Urheilu ja ulkoilu | Myydään\n | Tori",
+    "description": "Torista löydät 139 323 ilmoitusta kategoriassa Urheilu ja ulkoilu. Katso ensin Torista!",
+    "text": "Urheilu ja ulkoilu tekevät ihmiselle hyvää! Torista voit löytää sopivat välineet esimerkiksi pallope"
+  },
+  {
+    "id": "faea65c3952433370abacd7fc832c6bd3853cc47",
+    "url": "https://www.inven.co.kr/",
+    "title": "인벤 - No.1 게임 미디어 플랫폼",
+    "description": "인벤은 온라인과 모바일, PC, 콘솔 등 모든 플랫폼의 게임 소식을 다루며, 최신 뉴스와 게임 공략, 게임 순위 등 다양한 정보를 게이머들에게 제공합니다.",
+    "text": "엔씨소프트는 PC UI 개선 약속, 던전 텔레포트 방식 변경 이유, 키나 거래 확정 등 '아이온2' 관련 질문에 답변했다. 자동 전투는 없으며, 어비스는 랭킹 시스템과 삼파전 구도"
+  },
+  {
+    "id": "d44acba6e8b3b8c7d729a797c56be365a321dcf0",
+    "url": "https://friends.inven.co.kr/",
+    "title": "인벤 프렌즈",
+    "description": "",
+    "text": "명칭: 주식회사 인벤 | 등록번호: 경기 아51514 | 등록연월일: 2009. 12. 14 | 제호: 인벤(INVEN)\n발행인: 박규상 | 편집인: 강민우 | 발행소: 경기도 성"
+  },
+  {
+    "id": "a242b87656e25f97c7e35bbc43d10544630eecde",
+    "url": "https://pick.inven.co.kr/",
+    "title": "인벤 사전예약 Pick",
+    "description": "인벤, 사전예약, 쿠폰, 한정 쿠폰, 이벤트, Pick 게임 사전예약, 사전등록",
+    "text": "AION2\n[1000이니, 100베니]\n                                                공식 홈페이지를 참고하세요\n25년 11월\n리니지M\n[1"
+  },
+  {
+    "id": "14b3bceec55c718e00e732ba2451e8036b917c49",
+    "url": "https://inven.co.kr/",
+    "title": "인벤 - No.1 게임 미디어 플랫폼",
+    "description": "인벤은 온라인과 모바일, PC, 콘솔 등 모든 플랫폼의 게임 소식을 다루며, 최신 뉴스와 게임 공략, 게임 순위 등 다양한 정보를 게이머들에게 제공합니다.",
+    "text": "엔씨소프트는 PC UI 개선 약속, 던전 텔레포트 방식 변경 이유, 키나 거래 확정 등 '아이온2' 관련 질문에 답변했다. 자동 전투는 없으며, 어비스는 랭킹 시스템과 삼파전 구도"
+  },
+  {
+    "id": "61b0b8e2019b54cb6aa54acc58d498276b934308",
+    "url": "https://it.inven.co.kr/",
+    "title": "게이머를 위한 IT 미디어. IT인벤",
+    "description": "게이머를 위한 IT 미디어. IT인벤",
+    "text": "로그인하고출석보상 받으세요!\n리뷰\n로지텍+무선+LED의 아름다움!'G522 LIGHTSPEED' 헤드셋\n기획\n내 배그 생애 첫 치킨!스틸시리즈 키보드와 함께!\n리뷰\n고가의 게이밍 "
+  },
+  {
+    "id": "391a35e937f445c469c374abccdb42353471d6e4",
+    "url": "https://gstar.inven.co.kr/",
+    "title": "GSTAR 2024 인벤",
+    "description": "인벤은 온라인과 모바일, PC, 콘솔 등 모든 플랫폼의 게임 소식을 다루며, 최신 뉴스와 게임 공략, 게임 순위 등 다양한 정보를 게이머들에게 제공합니다.",
+    "text": "부스 위치 확인하기\n지스타 바로가기\n2019 지스타 인벤 바로가기\n2021 지스타 인벤 바로가기\n2022 지스타 인벤 바로가기\n2023 지스타 인벤 바로가기"
+  },
+  {
+    "id": "0edc2af50f1a37a2053e83daec1e1244c9721153",
+    "url": "https://imart.inven.co.kr/",
+    "title": "아이마트 인벤 - 이니, 베니, 제니와 함께하는 즐거운 인벤 라이프!",
+    "description": "인벤 포인트 경품 이벤트, 이벤트 진행 안내, 유저 문의 게시판 운영",
+    "text": "아이마트 알림\n아이마트 베니샵\n포인트로 도전하는 즐거움! 아이마트 포인트 경품\n자주하는 질문\n신규 아이콘\n내 포인트\n로그인을 해주세요.\n알립니다\n명칭: 주식회사 인벤 | 등록번호:"
+  },
+  {
+    "id": "704d5fe319dc291c8db8cb0f7692d21d74f85c3b",
+    "url": "https://imart.inven.co.kr/shop/",
+    "title": "아이마트 인벤 - 인벤 상점",
+    "description": "인벤 포인트 경품 이벤트, 이벤트 진행 안내, 유저 문의 게시판 운영",
+    "text": "내 포인트\n로그인을 해주세요.\n명칭: 주식회사 인벤 | 등록번호: 경기 아51514 | 등록연월일: 2009. 12. 14 | 제호: 인벤(INVEN)\n발행인: 박규상 | 편집인:"
+  },
+  {
+    "id": "ceb0d2731838b8f418a2929a615ef6f74384f02e",
+    "url": "https://console.inven.co.kr/",
+    "title": "콘솔 인벤",
+    "description": "콘솔,ps4,switch",
+    "text": "로그인하고출석보상 받으세요!\n[리뷰] 혼자여도, IP 몰라도 만끽하는 유대감과 모험의 로망\n[리뷰] 걸작의 재단장, 페르소나3 리로드\n[리뷰] 시리즈 최대 볼륨, 하와이로 떠나는 "
+  },
+  {
+    "id": "bfd9a73e2ed33de14a43ee59bd03d1558a4c0e8d",
+    "url": "https://3bmeteo.com/",
+    "title": "3BMETEO.com ▷ Meteo e Previsioni del tempo in Italia",
+    "description": "METEO ☀ Italia: 13 settembre 2025. Inizialmente stabile e soleggiato, ma dal pomeriggio peggiora al ",
+    "text": "Equinozio di settembre, l'inizio astronomico dell'autunno: tutto quello che c'è da sapere\nLa Niña st"
+  },
+  {
+    "id": "9d9aa39d90bf68a0186c76a40eac13132af69baa",
+    "url": "https://ekstrabladet.dk/",
+    "title": "Nyheder, sport og underholdning",
+    "description": "Danmarks største nyhedssite. Vi er først med nyheder, sport og underholdning. Døgnet rundt. Velkomme",
+    "text": "Vækker\nopsigt\nVækker\nopsigt\nVækker\nopsigt\nSvinede Charlie Kirk:\nTrækker\ni land\nTrækker\ni land\nTrække"
+  },
+  {
+    "id": "f6800f26bf01ff0633c7e6678b934f2895270a44",
+    "url": "https://gamewith.jp/p5x/512736",
+    "title": "【ペルソナ5X】椎名悠美のシナジーと選択肢まとめ【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の椎名悠美のシナジーと選択肢まとめです。ペルソナ5X椎名悠美のシナジーを効率的に進めるための会話選択肢やプレゼントはもちろん、シナジー解放条件や好きなものもまとめて掲載。",
+    "text": "0\nペルソナ5X(P5X)の椎名悠美のシナジーと選択肢まとめです。ペルソナ5X椎名悠美のシナジーを効率的に進めるための会話選択肢やプレゼントはもちろん、シナジー解放条件や好きなものもまとめて掲載。\n目"
+  },
+  {
+    "id": "207c7b914febd132ef5b1eafa8922e640bafc1f3",
+    "url": "https://gamewith.jp/p5x/",
+    "title": "ペルソナ5X攻略｜P5X - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の攻略サイトです。ペルソナ5Xのリセマラやガチャの攻略はもちろん、最強キャラや交換コードなども掲載。P5X攻略はゲームウィズにお任せ下さい。",
+    "text": "ペルソナ5X(P5X)の攻略サイトです。ペルソナ5Xのリセマラやガチャの攻略はもちろん、最強キャラや交換コードなども掲載。P5X攻略はゲームウィズにお任せ下さい。\n覚醒の好機イベントの開催が発表されま"
+  },
+  {
+    "id": "2068d472405f374035ad36940964953bb6e01190",
+    "url": "https://gamewith.jp/p5x/514349",
+    "title": "【ペルソナ5X】坂井綾香のシナジー選択肢まとめ【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の坂井綾香のシナジーと選択肢まとめです。ペルソナ5X坂井綾香のシナジーを効率的に進めるための会話選択肢やプレゼントはもちろん、シナジー解放条件や好きなものもまとめて掲載。",
+    "text": "0\nペルソナ5X(P5X)の坂井綾香のシナジーと選択肢まとめです。ペルソナ5X坂井綾香のシナジーを効率的に進めるための会話選択肢やプレゼントはもちろん、シナジー解放条件や好きなものもまとめて掲載。\n目"
+  },
+  {
+    "id": "09686ee101a69f880cbef37e89c1b5f04aa0a9e5",
+    "url": "https://gamewith.jp/p5x/504819",
+    "title": "【ペルソナ5X】富山佳代(オキャン)の評価と凸効果・おすすめ啓示【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の富山佳代(オキャン)の評価です。ペルソナ5X富山佳代の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X富山佳代の参考にど",
+    "text": "0\nペルソナ5X(P5X)の富山佳代(オキャン)の評価です。ペルソナ5X富山佳代の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X富山佳代の参考"
+  },
+  {
+    "id": "59492556d142a616ac58bc439451e2e178edd92a",
+    "url": "https://gamewith.jp/",
+    "title": "ゲームウィズ - 日本最大級のゲームレビュー・攻略サイト",
+    "description": "日本最大級のゲーム総合情報サイト。Switch・PS5・PS4・PC・スマホアプリのおすすめゲームや新作ゲームのランキング、評価、レビュー、ゲーム攻略の最新情報を毎日お届け。ゲーム探しはゲームウィズ！",
+    "text": "GameWithで今、人気のゲームを毎日更新！\n各ゲームの販売本数と作品注目度などをもとに毎週更新！\n各ゲームの販売本数と作品注目度などをもとに毎週更新！\n各ゲームの販売本数と作品注目度などをもとに毎"
+  },
+  {
+    "id": "8d99ba6a084cbe07b7be56dee68809f26b5650ca",
+    "url": "https://gamewith.jp/p5x/505255",
+    "title": "【ペルソナ5X】コウリュウの評価と性能【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5Xのコウリュウの評価と性能です。P5Xコウリュウの強みや、スキル、弱点耐性についても掲載しています。",
+    "text": "0\nペルソナ5Xのコウリュウの評価と性能です。P5Xコウリュウの強みや、スキル、弱点耐性についても掲載しています。\n目次\nユーザー登録(無料)することで、この機能を使うことができます。\nP5X攻略班\n"
+  },
+  {
+    "id": "20c7cddfd53fcfa8f62e9966c71d5b6b17f932e3",
+    "url": "https://gamewith.jp/p5x/504681",
+    "title": "【ペルソナ5X】リセマラのやり方と終了ライン【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)のリセマラのやり方と終了ラインです。ペルソナ5Xリセマラの効率的な方法や時間、終了ラインを掲載。Steamの情報やリセマラ上限を調べる際にお役立て下さい。",
+    "text": "0\nペルソナ5X(P5X)のリセマラのやり方と終了ラインです。ペルソナ5Xリセマラの効率的な方法や時間、終了ラインを掲載。Steamの情報やリセマラ上限を調べる際にお役立て下さい。\n目次\nペルソナ5X"
+  },
+  {
+    "id": "536ed1cee17b5e1a6a5683aac051406ab19cfac0",
+    "url": "https://gamewith.jp/p5x/504834",
+    "title": "【ペルソナ5X】高巻杏(パンサー)の評価と凸効果・おすすめ啓示【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の高巻杏(パンサー)の評価です。ペルソナ5X高巻杏の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X高巻杏の参考にどうぞ。",
+    "text": "0\nペルソナ5X(P5X)の高巻杏(パンサー)の評価です。ペルソナ5X高巻杏の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X高巻杏の参考にどう"
+  },
+  {
+    "id": "8bb2685b1b2fba485917158f1650eb3328736ec8",
+    "url": "https://gamewith.jp/p5x/506756",
+    "title": "【ペルソナ5X】宮下美波(マリアン)の評価と凸効果・おすすめ啓示【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)の宮下美波(マリアン)の評価です。ペルソナ5X宮下美波の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X宮下美波の参考にど",
+    "text": "0\nペルソナ5X(P5X)の宮下美波(マリアン)の評価です。ペルソナ5X宮下美波の評価やペルソナ性能、凸効果、おすすめ啓示・パーティ編成、武器、潜在能力、プロフィールや声優も掲載。P5X宮下美波の参考"
+  },
+  {
+    "id": "d94c7a845ed5a7d8affd949d87d38ff086707e69",
+    "url": "https://gamewith.jp/p5x/503918",
+    "title": "【ペルソナ5X】ガチャのおすすめ｜どれを引くべき？【P5X】 - ゲームウィズ",
+    "description": "ペルソナ5X(P5X)のガチャのおすすめです。ペルソナ5Xガチャの開催予定(スケジュール)やどれを引くべきか、天井の仕組み、解放タイミングについても掲載しています。",
+    "text": "0\nペルソナ5X(P5X)のガチャのおすすめです。ペルソナ5Xガチャの開催予定(スケジュール)やどれを引くべきか、天井の仕組み、解放タイミングについても掲載しています。\n目次\nコード(坂井綾香)は、ハ"
+  },
+  {
+    "id": "ff294b9c765eb03e5cb5fcfb05233fefec1e60a7",
+    "url": "https://snaptik.app/douyin-downloader",
+    "title": "Download Douyin Video - The Fastest Douyin Video Download Tool - SnapTik",
+    "description": "Download Video Douyin without logo for free with SnapTik. FULL HD Douyin Video Downloader. No Accoun",
+    "text": "SnapTik provides douyin video download app (TikTok in China) without logo, watermark, high quality, "
+  },
+  {
+    "id": "1e37929fe98a01d8c8ec763f3aa65bd4206b7c2a",
+    "url": "https://snaptik.app/download-story-tiktok",
+    "title": "Download Tik Tok Story - Free & HD TikTok Story Downloader",
+    "description": "Use SnapTik to download TikTok stories without watermark and in HD quality. Our TikTok story downloa",
+    "text": "SnapTik provides a complete solution for saving TikTok content to your device, including TikTok vide"
+  },
+  {
+    "id": "eff8bf4b53a5372dd95ec92208b3f1ea3e75b48f",
+    "url": "https://snaptik.app/en2",
+    "title": "Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik",
+    "description": "TikTok Video Downloader - SnapTik.App is one of the best free Download video Tiktok No Watermark too",
+    "text": "I now provide an app for downloading TikTok videos. It is fast, easy, with no watermark and HD quali"
+  },
+  {
+    "id": "1376556a3f97b39c82e6740b7413f034c5c79025",
+    "url": "https://snaptik.app/download-tiktok-slide",
+    "title": "Download TikTok slideshow without watermark - Free TikTok slideshow downloader SnapTik.App",
+    "description": "TikTok slideshow download with SnapTik. Download the TikTok slideshow with synced music or individua",
+    "text": "Contents served on TikTok are not limited to just short-form videos. The popular social platform now"
+  },
+  {
+    "id": "6af8893b93b9f76b33d65c20b7035fe8985e6a73",
+    "url": "https://snaptik.app/",
+    "title": "Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik",
+    "description": "TikTok Video Downloader - SnapTik.App is one of the best free Download video Tiktok No Watermark too",
+    "text": "I now provide an app for downloading TikTok videos. It is fast, easy, with no watermark and HD quali"
+  },
+  {
+    "id": "1516a7f6bc64b73a89f5e111cdadb0ab894bbefe",
+    "url": "https://snaptik.app/how-to-download-video-tiktok",
+    "title": "How to Use Snaptik to Download TikTok Videos on iOS/Android Phones and Computers",
+    "description": "How to Use Snaptik to Download TikTok Videos on iOS/Android Phones and Computers",
+    "text": "With TikTok's global popularity, the demand for downloading videos from this platform has been growi"
+  },
+  {
+    "id": "77cabf195c63bc810c0cd8c2ed5691cab263b0d2",
+    "url": "https://snaptik.app/tiktok-notes-downloader",
+    "title": "Download TikTok Notes Photos And SlideShows Free, No Watermark - SnapTik",
+    "description": "Download TikTok Notes photos and slideshows without watermarks. The best online TikTok Notes downloa",
+    "text": "I now provide an app for downloading TikTok videos. It is fast, easy, with no watermark and HD quali"
   }
 ]
