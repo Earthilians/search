@@ -20175,5 +20175,300 @@
   "nejm.org": {
     "lastAt": 1757863485422,
     "urls": []
+  },
+  "protechts.net": {
+    "lastAt": 1757866986371,
+    "urls": []
+  },
+  "schwab.com": {
+    "lastAt": 1757866987711,
+    "urls": [
+      "https://schwab.com/"
+    ]
+  },
+  "permutive.com": {
+    "lastAt": 1757866992843,
+    "urls": [
+      "https://permutive.com/",
+      "http://permutive.com/how-publishers-can-reclaim-their-rightful-place-in-the-advertising-contract",
+      "http://permutive.com/announcing-our-partnership-with-openx",
+      "http://permutive.com/why-privacy-fuels-possibilities-for-publishers",
+      "http://permutive.com/announcing-our-collaboration-with-xandr-to-restore-reachability",
+      "http://permutive.com/why-we-need-to-focus-on-data-ethics-in-advertising",
+      "http://permutive.com/the-ethical-use-of-consumer-data",
+      "http://permutive.com/conversation-makes-it-possible-unlocking-empathy-during-covid",
+      "http://permutive.com/identity-is-important-but-its-not-the-cure-all-solution",
+      "http://permutive.com/people-want-scale-but-no-one-knows-what-scale-is-why-the-guardian-is-focusing-on-quality-not-volume"
+    ]
+  },
+  "windy.com": {
+    "lastAt": 1757866993559,
+    "urls": [
+      "https://windy.com/"
+    ]
+  },
+  "thehill.com": {
+    "lastAt": 1757867000046,
+    "urls": []
+  },
+  "cpanel.com": {
+    "lastAt": 1757867002877,
+    "urls": [
+      "https://www.cpanel.net/blog/products/blocking-attacks-with-easyapache-4s-mod_evasive/",
+      "https://www.cpanel.net/blog/products/coming-very-soon-dnsonly-server-licenses/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-create-a-spam-filter/",
+      "https://www.cpanel.net/blog/tips-and-tricks/avoiding-a-not-secure-warning-in-chrome-heres-how/",
+      "https://cpanel.com/",
+      "https://www.cpanel.net/blog/tips-and-tricks/pointing-two-urls-to-the-same-website/",
+      "https://www.cpanel.net/blog/products/getting-started-with-cpanel-whm-on-microsoft-azure/",
+      "https://www.cpanel.net/blog/products/the-death-of-squirrelmail/",
+      "https://www.cpanel.net/blog/products/git-version-control-series-setting-up-git/",
+      "https://www.cpanel.net/blog/products/moving-your-wordpress-site-to-cpanel/"
+    ]
+  },
+  "umd.edu": {
+    "lastAt": 1757867006980,
+    "urls": [
+      "https://umd.edu/",
+      "https://umd.edu/about",
+      "https://umd.edu/about/landmarks",
+      "https://umd.edu/about/university-presidents",
+      "https://umd.edu/about/history",
+      "https://umd.edu/about/athletics-and-events",
+      "https://umd.edu/about/songs",
+      "https://umd.edu/about/traditions-of-the-past",
+      "https://umd.edu/about/signature-events",
+      "https://umd.edu/about/mission"
+    ]
+  },
+  "ey.com": {
+    "lastAt": 1757867017037,
+    "urls": [
+      "https://www.ey.com/en_gl",
+      "https://ey.com/",
+      "https://www.ey.com/en_gl/people/aaron-perryman",
+      "https://www.ey.com/en_gl/people/abdulaziz-al-sowailim",
+      "https://www.ey.com/en_gl/people/aabid-abbasi",
+      "https://www.ey.com/en_gl/people/aaron-smith",
+      "https://www.ey.com/en_gl/people/abhay-bangi",
+      "https://www.ey.com/en_gl/people/abhi-ahuja",
+      "https://www.ey.com/en_gl/people/abhishek-madhok",
+      "https://www.ey.com/en_gl/people/abhishek-sinha"
+    ]
+  },
+  "home-assistant.io": {
+    "lastAt": 1757867019104,
+    "urls": [
+      "https://www.home-assistant.io/dashboards/button/",
+      "https://home-assistant.io/",
+      "https://www.home-assistant.io/dashboards/calendar/",
+      "https://www.home-assistant.io/dashboards/area/",
+      "https://www.home-assistant.io/dashboards/alarm-panel/",
+      "https://www.home-assistant.io/dashboards/conditional/",
+      "https://www.home-assistant.io/dashboards/energy/",
+      "https://www.home-assistant.io/dashboards/clock/",
+      "https://www.home-assistant.io/dashboards/entities/",
+      "https://www.home-assistant.io/dashboards/entity-filter/"
+    ]
+  },
+  "microsoftazuread-sso.com": {
+    "lastAt": 1757867022082,
+    "urls": []
+  },
+  "hyatt.com": {
+    "lastAt": 1757867025985,
+    "urls": []
+  },
+  "theglobeandmail.com": {
+    "lastAt": 1757867028916,
+    "urls": [
+      "https://theglobeandmail.com/"
+    ]
+  },
+  "samsungpositioning.com": {
+    "lastAt": 1757867032069,
+    "urls": []
+  },
+  "so.com": {
+    "lastAt": 1757867047563,
+    "urls": [
+      "https://so.com/"
+    ]
+  },
+  "lazada.com": {
+    "lastAt": 1757867062260,
+    "urls": [
+      "https://lazada.com/"
+    ]
+  },
+  "ny.gov": {
+    "lastAt": 1757867065477,
+    "urls": [
+      "https://ny.gov/"
+    ]
+  },
+  "xxpkg.com": {
+    "lastAt": 1757867073067,
+    "urls": []
+  },
+  "qz.com": {
+    "lastAt": 1757867078178,
+    "urls": [
+      "https://qz.com/search",
+      "https://qz.com/latest",
+      "https://qz.com/about",
+      "https://qz.com/business-news",
+      "https://qz.com/series",
+      "https://qz.com/tech-innovation",
+      "https://qz.com/series/quartz-obsession-podcast",
+      "https://qz.com/tech-innovation/ai"
+    ]
+  },
+  "crazyegg.com": {
+    "lastAt": 1757867081447,
+    "urls": [
+      "https://www.crazyegg.com/about-us",
+      "https://www.crazyegg.com/",
+      "https://www.crazyegg.com/ab-testing",
+      "https://crazyegg.com/",
+      "https://www.crazyegg.com/about",
+      "https://www.crazyegg.com/agencies",
+      "https://www.crazyegg.com/careers",
+      "https://www.crazyegg.com/case-studies",
+      "https://www.crazyegg.com/confetti",
+      "https://www.crazyegg.com/cookies"
+    ]
+  },
+  "braze.eu": {
+    "lastAt": 1757867084185,
+    "urls": [
+      "https://www.braze.com/partners/technology-partners/notify-ai",
+      "https://www.braze.com/partners/technology-partners/optimizely",
+      "https://www.braze.com/resources/videos/testimonial-compareclub",
+      "https://www.braze.com/partners/braze-amplifiers/phiture",
+      "https://www.braze.com/partners/solutions-partners/jakala",
+      "https://www.braze.com/partners/braze-amplifiers/ogilvy-one",
+      "https://braze.eu/",
+      "https://www.braze.com/test-for-engineering",
+      "https://www.braze.com/resources/videos/braze-shopify",
+      "https://www.braze.com/resources/webinars-and-events/october-2024-new-product-release"
+    ]
+  },
+  "opera-api2.com": {
+    "lastAt": 1757867142998,
+    "urls": []
+  },
+  "yg5sjx5kzy.com": {
+    "lastAt": 1757867153602,
+    "urls": [
+      "https://yg5sjx5kzy.com/",
+      "https://hola.org/access/popular/belarus",
+      "https://hola.org/access/popular/belgium",
+      "https://hola.org/access/popular/belize",
+      "https://hola.org/access/popular/bermuda",
+      "https://hola.org/access/popular/benin",
+      "https://hola.org/access/popular/bhutan",
+      "https://hola.org/access/popular/bolivia",
+      "https://hola.org/access/popular/bonaire-caribbean-netherlands"
+    ]
+  },
+  "accenture.com": {
+    "lastAt": 1757867158667,
+    "urls": [
+      "https://accenture.com/",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13549494_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00286326_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13551879_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00283147_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00284706_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13583785_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00284689_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00284694_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13355342_en"
+    ]
+  },
+  "imoim.net": {
+    "lastAt": 1757867161734,
+    "urls": []
+  },
+  "customer.io": {
+    "lastAt": 1757867164953,
+    "urls": [
+      "https://customer.io/",
+      "https://customer.io/partners",
+      "https://customer.io/solutions/fintech",
+      "https://customer.io/solutions/startups",
+      "https://customer.io/solutions/enterprise",
+      "https://customer.io/platform/journeys",
+      "https://customer.io/platform",
+      "https://customer.io/solutions/activation",
+      "https://customer.io/security"
+    ]
+  },
+  "unc.edu": {
+    "lastAt": 1757867171026,
+    "urls": [
+      "https://www.unc.edu/posts/2014/03/19/a-peoples-theatre/",
+      "https://www.unc.edu/posts/2014/03/21/dance-marathon-2014/",
+      "https://www.unc.edu/posts/2015/05/05/whats-your-major-2/",
+      "https://www.unc.edu/posts/2014/09/25/carolina-research-award-total-climbs/",
+      "https://unc.edu/",
+      "https://www.unc.edu/posts/2015/01/25/5-sayings-from-your-mother-that-will-keep-you-and-your-loved-ones-healthy-this-winter/",
+      "https://www.unc.edu/posts/2015/02/08/carolinas-dean-smith-passes-away-age-83/",
+      "https://www.unc.edu/posts/2014/02/28/how-big-is-carolina/",
+      "https://www.unc.edu/posts/2015/08/14/carolina-welcomes-nearly-7000-new-students/",
+      "https://www.unc.edu/posts/2015/08/06/an-alternative-college-prep-2/"
+    ]
+  },
+  "last.fm": {
+    "lastAt": 1757867179148,
+    "urls": [
+      "https://www.last.fm/music/Pink+Butter;T3+of+Slum+Village/Can+We+Go+Back",
+      "https://last.fm/",
+      "https://www.last.fm/music/V+&+Seo+Minna/Cheek+To+Cheek",
+      "https://www.last.fm/music/Opening+Credits/Sharon+Blackie",
+      "https://www.last.fm/music/%E3%83%A6%E3%83%83%E3%82%B9%E3%83%BC%E3%83%BB%E3%83%B3%E3%83%89%E3%82%A5%E3%83%BC%E3%83%AB/Africa+%2F+Deebeub,+Vol.+9",
+      "https://www.last.fm/music/Fun2desi.com/Bollywood+LoFi+Dj+Remix+Mp3+Song+-+2025+-+Fun2Desi.Com",
+      "https://www.last.fm/music/A+JULEZ!/A$AP+ROCKY!",
+      "https://www.last.fm/music/Ultra+Dark+Radio+-+Compilation+III/Ultra+Dark+Radio:+Compilation+III+-+Mensch+und+Maschine",
+      "https://www.last.fm/music/Fun2desi.com/Bollywood+DJ+Remix+Mp3+Songs+-+2025+-+Fun2Desi.Com",
+      "https://www.last.fm/music/Pierre+Boulez/Debussy+&+Stravinsky"
+    ]
+  },
+  "iubenda.com": {
+    "lastAt": 1757867181723,
+    "urls": [
+      "https://iubenda.com/"
+    ]
+  },
+  "bizjournals.com": {
+    "lastAt": 1757867185476,
+    "urls": [
+      "https://www.bizjournals.com/albany",
+      "https://www.bizjournals.com/albany/news",
+      "https://bizjournals.com/",
+      "https://www.bizjournals.com/albany/news/banking-and-financial-services",
+      "https://www.bizjournals.com/albany/news/commercial-real-estate",
+      "https://www.bizjournals.com/albany/news/education",
+      "https://www.bizjournals.com/albany/news/energy",
+      "https://www.bizjournals.com/albany/news/health-care",
+      "https://www.bizjournals.com/albany/news/career-and-workplace",
+      "https://www.bizjournals.com/albany/news/professional-services"
+    ]
+  },
+  "delfi.lt": {
+    "lastAt": 1757867195372,
+    "urls": [
+      "https://delfi.lt/",
+      "https://www.delfi.lt/news/daily/world/valdzia-persikele-i-discord-30-mln-gyventoju-salyje-beprecedente-situacija-120148141",
+      "https://www.delfi.lt/news/daily/world/the-times-varsuva-ruosiasi-galimam-konfliktui-su-maskva-120148519",
+      "https://www.delfi.lt/news/daily/world/es-diplomatijos-vadove-nepriimtina-kad-rusijos-dronai-pazeidzia-rumunijos-oro-erdve-120148514",
+      "https://www.delfi.lt/news/daily/politics/sam-pradeti-kompensuoti-enteriniai-misiniai-120148518",
+      "https://www.delfi.lt/news/daily/lithuania/naujosios-kartos-narkomafija-i-lietuviskojo-eskobaro-vaidmeni-isijautusiam-tauragiskiui-sebro-isdavyste-120146219",
+      "https://www.delfi.lt/news/daily/world/po-didziausios-demonstracijos-jk-istorijoje-tyla-nutrauke-ir-starmeris-120148481",
+      "https://www.delfi.lt/news/daily/crime/naujojoje-vilnioje-nesuvaldytas-bmw-rezesi-i-slaita-120148501",
+      "https://www.delfi.lt/news/daily/world/buves-jk-premjeras-johnsonas-papriekaistavo-suomijos-prezidentui-del-isaldytu-aktyvu-ir-pajegu-siuntimo-i-ukraina-120148497",
+      "https://www.delfi.lt/news/daily/world/namiseda-tapes-trumpas-apreke-sodo-darbininka-sis-epizodas-pasako-kur-kas-daugiau-120147160"
+    ]
   }
 }
