@@ -21793,5 +21793,258 @@
   "p-msedge.net": {
     "lastAt": 1757884871962,
     "urls": []
+  },
+  "tencentclb.com": {
+    "lastAt": 1757888355593,
+    "urls": []
+  },
+  "opensource.org": {
+    "lastAt": 1757888361211,
+    "urls": [
+      "https://opensource.org/session05-mp4",
+      "https://opensource.org/session06-mp4",
+      "https://opensource.org/session03-mp4",
+      "https://opensource.org/session04-mp4",
+      "https://opensource.org/session07-mp4",
+      "https://opensource.org/session11-mp4",
+      "https://opensource.org/session08-mp4",
+      "https://opensource.org/session09-mp4",
+      "https://opensource.org/session10-mp4",
+      "https://opensource.org/session12-mp4"
+    ]
+  },
+  "adguard.com": {
+    "lastAt": 1757888366164,
+    "urls": [
+      "https://adguard.com/en/license.html",
+      "https://adguard.com/en/blog/index.html",
+      "https://adguard.com/",
+      "https://adguard.com/en/welcome.html",
+      "https://adguard.com/en/contacts.html",
+      "https://adguard.com/en/removal.html",
+      "https://adguard.com/en/awards.html",
+      "https://adguard.com/en/get-adguard-for-free.html",
+      "https://adguard.com/en/rewards.html",
+      "https://adguard.com/en/contribute.html"
+    ]
+  },
+  "postman.com": {
+    "lastAt": 1757888368270,
+    "urls": [
+      "https://www.postman.com/category/app-security",
+      "https://www.postman.com/category/travel-apis",
+      "https://www.postman.com/category/artificial-intelligence",
+      "https://www.postman.com/category/financial-services",
+      "https://postman.com/",
+      "https://www.postman.com/category/payments",
+      "https://www.postman.com/category/developer-productivity",
+      "https://www.postman.com/category/communication",
+      "https://www.postman.com/category/devops",
+      "https://www.postman.com/category/e-signature-apis"
+    ]
+  },
+  "tizen.org": {
+    "lastAt": 1757888373427,
+    "urls": [
+      "https://www.tizen.org/blogs/dawnfoster/2011/welcome-to-tizen/",
+      "https://www.tizen.org/blogs/tsg/2012/an-early-look-at-tizen/",
+      "https://www.tizen.org/blogs/tsg/2012/tizen-sdk-beta-and-source-code-updates/",
+      "https://www.tizen.org/blogs/amyleeland/2012/call-for-papers-and-registration-are-now-open-for-tizen-conference-in-may/",
+      "https://www.tizen.org/blogs/amyleeland/2012/tizen-conference-cfp-has-been-extended/",
+      "https://www.tizen.org/blogs/amyleeland/2012/tizen-developer-conference-agenda/",
+      "https://tizen.org/",
+      "https://www.tizen.org/blogs/tsg/2012/tizen-1-0-larkspur-sdk-and-source-code-release/",
+      "https://www.tizen.org/blogs/bdub/2012/what-to-expect-at-the-2012-tizen-developer-conference/",
+      "https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-by-intel/"
+    ]
+  },
+  "tmz.com": {
+    "lastAt": 1757888380840,
+    "urls": [
+      "https://www.tmz.com/2025/09/14/nate-bargatze-good-genes-or-good-docs/",
+      "https://www.tmz.com/2025/09/14/polka-dot-fashion/",
+      "https://www.tmz.com/2025/09/13/chris-martin-tells-fans-send-love-someone-mentions-charlie-kirk-family/",
+      "https://www.tmz.com/2025/09/14/shaquille-oneal-master-p-sac-state-new-orleans-bet/",
+      "https://tmz.com/",
+      "https://www.tmz.com/2025/09/14/womens-org-demands-tyreek-hill-suspension/",
+      "https://www.tmz.com/2025/09/14/emmys-celebrity-scramble-guess-who/",
+      "https://www.tmz.com/2025/09/14/salli-richardson-dondre-whitfield-bronny-james-dating-daughter/",
+      "https://www.tmz.com/2025/09/14/ricky-hatton-dead/",
+      "https://www.tmz.com/2025/09/14/morgan-wallen-honors-charlie-kirk-widow-concert/"
+    ]
+  },
+  "aptrinsic.com": {
+    "lastAt": 1757888394547,
+    "urls": [
+      "https://aptrinsic.com/"
+    ]
+  },
+  "ctfassets.net": {
+    "lastAt": 1757888397819,
+    "urls": []
+  },
+  "colorado.edu": {
+    "lastAt": 1757888399726,
+    "urls": [
+      "https://colorado.edu/",
+      "http://www.colorado.edu/academics",
+      "http://www.colorado.edu/",
+      "http://www.colorado.edu/academics/bs-aerospace-engineering",
+      "http://www.colorado.edu/404",
+      "http://www.colorado.edu/academics/academic-resources",
+      "http://www.colorado.edu/academics/programs/certificates",
+      "http://www.colorado.edu/academics/programs",
+      "http://www.colorado.edu/academics/programs/minors",
+      "http://www.colorado.edu/academics/programs/majors"
+    ]
+  },
+  "ti.com": {
+    "lastAt": 1757888404000,
+    "urls": [
+      "https://ti.com/",
+      "https://www.ti.com/document-viewer/lit/html/gera008",
+      "https://www.ti.com/document-viewer/lit/html/gera005",
+      "https://www.ti.com/document-viewer/lit/html/gera007",
+      "https://www.ti.com/document-viewer/lit/html/gera006",
+      "https://www.ti.com/document-viewer/lit/html/gera009",
+      "https://www.ti.com/document-viewer/lit/html/gera018",
+      "https://www.ti.com/document-viewer/lit/html/gera021",
+      "https://www.ti.com/document-viewer/lit/html/gera016",
+      "https://www.ti.com/document-viewer/lit/html/gera014"
+    ]
+  },
+  "ksyna.net": {
+    "lastAt": 1757888417397,
+    "urls": []
+  },
+  "safedk.com": {
+    "lastAt": 1757888420686,
+    "urls": []
+  },
+  "msftstatic.com": {
+    "lastAt": 1757888424034,
+    "urls": []
+  },
+  "emb-api.com": {
+    "lastAt": 1757888427152,
+    "urls": []
+  },
+  "tokopedia.com": {
+    "lastAt": 1757889160924,
+    "urls": []
+  },
+  "auth0.com": {
+    "lastAt": 1757889165014,
+    "urls": [
+      "https://auth0.com/availability-trust",
+      "https://auth0.com/app-modernization",
+      "https://auth0.com/ai",
+      "https://auth0.com/auth0-vs-auth0",
+      "https://auth0.com/b2b-enterprise-identity-management",
+      "https://auth0.com/",
+      "https://auth0.com/b2c-customer-identity-management",
+      "https://auth0.com/b2e-identity-management-for-employees",
+      "https://auth0.com/ccpa",
+      "https://auth0.com/b2b-saas"
+    ]
+  },
+  "watchguard.com": {
+    "lastAt": 1757889169918,
+    "urls": [
+      "https://watchguard.com/"
+    ]
+  },
+  "anchor.fm": {
+    "lastAt": 1757889170997,
+    "urls": [
+      "https://anchor.fm/"
+    ]
+  },
+  "capitalone.com": {
+    "lastAt": 1757889175716,
+    "urls": [
+      "https://www.capitalone.com/",
+      "https://www.capitalone.com/cars/calculator",
+      "https://www.capitalone.com/about/doing-business/purchasing-orders-invoicing/",
+      "https://www.capitalone.com/about/doing-business/",
+      "https://capitalone.com/",
+      "https://www.capitalone.com/about/doing-business/supplier-diversity/meet-our-cpo/",
+      "https://www.capitalone.com/about/doing-business/supplier-diversity/mwbe-development/",
+      "https://www.capitalone.com/about/corporate-information/diverse-supplier-registration/",
+      "https://www.capitalone.com/about/doing-business/supplier-diversity",
+      "https://www.capitalone.com/about/doing-business/code-of-conduct/"
+    ]
+  },
+  "ucweb.com": {
+    "lastAt": 1757889182706,
+    "urls": [
+      "https://www.ucweb.com/id",
+      "https://www.ucweb.com/",
+      "https://www.ucweb.com/id/feature/best-vpn-service",
+      "https://www.ucweb.com/feature/best-vpn-service",
+      "https://www.ucweb.com/feature/free-video-downloads",
+      "https://ucweb.com/",
+      "https://www.ucweb.com/id/feature/free-video-downloads",
+      "https://www.ucweb.com/feature/free-video-player",
+      "https://www.ucweb.com/id/feature/free-video-player",
+      "https://www.ucweb.com/blog/watch-crows-zero"
+    ]
+  },
+  "adguard-vpn.online": {
+    "lastAt": 1757889185823,
+    "urls": []
+  },
+  "msappproxy.net": {
+    "lastAt": 1757889188702,
+    "urls": []
+  },
+  "iz.ru": {
+    "lastAt": 1757889195616,
+    "urls": []
+  },
+  "spb.ru": {
+    "lastAt": 1757889200527,
+    "urls": []
+  },
+  "alfabank.ru": {
+    "lastAt": 1757889204992,
+    "urls": []
+  },
+  "phantom.app": {
+    "lastAt": 1757889235402,
+    "urls": [
+      "https://phantom.com/learn/crypto-101/app-spotlight-tensor",
+      "https://phantom.com/learn/blog/message-simulation",
+      "https://phantom.app/",
+      "https://phantom.com/learn/crypto-101/usdc-payments",
+      "https://phantom.com/learn/crypto-101/wen-coin-token",
+      "https://phantom.com/learn/crypto-101/parcl-airdrop",
+      "https://phantom.com/learn/crypto-101/magic-eden-me-token-airdrop",
+      "https://phantom.com/learn/crypto-101/dogwifhat-WIF",
+      "https://phantom.com/learn/blog/introducing-instant-sell",
+      "https://phantom.com/learn/crypto-101/jeo-boden-memecoin"
+    ]
+  },
+  "npmjs.com": {
+    "lastAt": 1757889236489,
+    "urls": [
+      "https://npmjs.com/"
+    ]
+  },
+  "tq-tungsten.com": {
+    "lastAt": 1757889239802,
+    "urls": []
+  },
+  "dalyfeds.com": {
+    "lastAt": 1757889244006,
+    "urls": [
+      "https://dalyfeds.com/"
+    ]
+  },
+  "ifeng.com": {
+    "lastAt": 1757889248950,
+    "urls": [
+      "https://ifeng.com/"
+    ]
   }
 }
