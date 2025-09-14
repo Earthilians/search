@@ -58609,5 +58609,992 @@
     "title": "URL Shortener",
     "description": "ShortURL is a tool to shorten a long link and create a short URL easy to share on sites, chat and em",
     "text": "ShortURL is a free tool to shorten URLs and generate short linksURL shortener allows to create a sho"
+  },
+  {
+    "id": "992500bc985ee9a5f46f05acc7a57b4fa78066b0",
+    "url": "https://semrush.com/",
+    "title": "Semrush: Data-Driven Marketing Tools to Grow Your Business",
+    "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for eve",
+    "text": "Your browser or operating system is out of date and Semrush might not be displayed correctly. Please"
+  },
+  {
+    "id": "eba1cf93398729c3f4e3a2a1842a5f5f4264b73a",
+    "url": "https://itu.int/",
+    "title": "ITU: Connecting the world and beyond",
+    "description": "The United Nations agency for digital technologies",
+    "text": "You are here \n\t\tITU > Homepage\nShare\n​ITU Secretary-General Doreen Bogdan-Martin highlights the huma"
+  },
+  {
+    "id": "c028434ca280f5e507c8409c09d4669aee2d69f2",
+    "url": "https://www.usa.gov/",
+    "title": "Making government services easier to find | USAGov",
+    "description": "Find government benefits, services, agencies, and information at USA.gov. Contact elected officials.",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "86b731ade8a9c461505609524a6daec0d1756919",
+    "url": "https://usa.gov/",
+    "title": "Making government services easier to find | USAGov",
+    "description": "Find government benefits, services, agencies, and information at USA.gov. Contact elected officials.",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "2880fedd5177f31aafc621b0e9463f950b687e85",
+    "url": "https://www.usa.gov/laws-and-legal-issues",
+    "title": "Laws and legal issues | USAGov",
+    "description": "Replace vital documents, find a lawyer, get child support help, and learn who to notify when someone",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "0a4db154398cb9a1361c6a23d201038a2366a729",
+    "url": "https://www.usa.gov/es/",
+    "title": "Información del Gobierno de Estados Unidos a su alcance | USAGov",
+    "description": "Encuentre información sobre los beneficios, servicios y agencias del Gobierno de los Estados Unidos ",
+    "text": "Un sitio oficial del Gobierno de Estados Unidos\nAsí es como usted puede verificarlo\nLos sitios web o"
+  },
+  {
+    "id": "cde79bef13b839cf46652a8fff32213e1a8da617",
+    "url": "https://www.usa.gov/replace-vital-documents",
+    "title": "How to replace lost or stolen ID cards | USAGov",
+    "description": "Learn how to replace lost or stolen vital documents including birth certificate, driver's license, a",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "ff68c5d579ee4fd5d3454adff3c592c1cddb38fd",
+    "url": "https://www.usa.gov/elected-officials",
+    "title": "Find and contact elected officials | USAGov",
+    "description": "Use USAGov’s Contact Your Elected Officials tool to get contact information for your members of Cong",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "1e2ed0632cedcf79a2d47a9cdf1d3db3edc88aac",
+    "url": "https://www.usa.gov/marriage-certificate",
+    "title": "How to get a copy of a marriage certificate or a marriage license | USAGov",
+    "description": "Learn the difference between a marriage license and a marriage certificate. Know how to get copies w",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "f925b04cca4e5aba6dba8ba3a54db2b19eec157a",
+    "url": "https://www.usa.gov/legal-aid",
+    "title": "Find a lawyer for affordable legal aid | USAGov",
+    "description": "Get free legal advice and find a free or low-cost lawyer. Get legal help if you are in the military ",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "268fbfc96b06c90d76327b8cfed6e62518f8b15a",
+    "url": "https://www.usa.gov/request-documents",
+    "title": "Get copies of vital records and ID cards | USAGov",
+    "description": "Find out how to replace vital documents such as birth and death certificates, Social Security cards,",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "9ad13a2a2b243e785f41dae2f86948ead52b6e3e",
+    "url": "https://www.usa.gov/es/reportar-una-muerte",
+    "title": "Cómo reportar la muerte de alguien y cerrar sus cuentas y beneficios | USAGov",
+    "description": "Averigüe cómo reportar una muerte a las agencias del Gobierno, cómo cerrar las cuentas y cancelar lo",
+    "text": "Un sitio oficial del Gobierno de Estados Unidos\nAsí es como usted puede verificarlo\nLos sitios web o"
+  },
+  {
+    "id": "02c4c9df9884766ffe62b2e6c0039552ebbf209c",
+    "url": "https://www.rfc-editor.org/about/",
+    "title": "About Us » RFC Editor",
+    "description": "",
+    "text": "The RFC series (ISSN 2070-1721) was originated in 1969 by Steve Crocker of UCLA, to organize the wor"
+  },
+  {
+    "id": "a62a203161a33ff38cc17898570298da42de529a",
+    "url": "https://www.rfc-editor.org/about/governing/",
+    "title": "Governing RFCs » RFC Editor",
+    "description": "",
+    "text": "The RFC Editor function is currently defined and governed by the following RFCs:\nThe following RFCs "
+  },
+  {
+    "id": "4cca24b90053247b911103b2d1ae1c58e1c1aa75",
+    "url": "https://www.rfc-editor.org/about/independent/",
+    "title": "Independent Submissions » RFC Editor",
+    "description": "",
+    "text": "The Independent Submission Stream allows RFC publication for some documents that are outside the off"
+  },
+  {
+    "id": "61a6e7eb6e005300f31a76e6703e1c5586cbb533",
+    "url": "https://rfc-editor.org/",
+    "title": "» RFC Editor",
+    "description": "",
+    "text": "The RFC Series (ISSN 2070-1721) contains technical and organizational documents about the Internet, "
+  },
+  {
+    "id": "6491bb18d9279f1d4c31f287036889e93ffdf3d0",
+    "url": "https://www.rfc-editor.org/about/iseb/",
+    "title": "Independent Submissions Editorial Board » RFC Editor",
+    "description": "",
+    "text": "The Independent Submissions Editorial Board (ISEB) provides reviews of independent submissions and o"
+  },
+  {
+    "id": "90a0c7df13620f3aa4fdfb77aea12a2f0728e529",
+    "url": "https://www.rfc-editor.org/retrieve/",
+    "title": "Document Retrieval » RFC Editor",
+    "description": "",
+    "text": "In addition to searching, you can browse and download RFCs as follows.\nSee RFC 6410 for more informa"
+  },
+  {
+    "id": "f4d98fcd03df32a237597f777123bf830d835c1d",
+    "url": "https://www.rfc-editor.org/retrieve/bulk/",
+    "title": "Downloading RFCs » RFC Editor",
+    "description": "",
+    "text": "The RFC Editor supports the rsync program, which can efficiently maintain a local copy of various su"
+  },
+  {
+    "id": "b46405a3a06cb047a20427b04956e8739ff97232",
+    "url": "https://www.rfc-editor.org/retrieve/rsync/",
+    "title": "How to use rsync to download RFCs » RFC Editor",
+    "description": "",
+    "text": "type rsync rsync.rfc-editor.org::\nThis will return results as follows:\nType rsync -avz --delete rsyn"
+  },
+  {
+    "id": "a4ddbfa83d7fdcf5dad07a246afab1737988bb27",
+    "url": "https://www.rfc-editor.org/errata.php",
+    "title": "RFC Errata » RFC Editor",
+    "description": "",
+    "text": "Published RFCs never change.  Although every published RFC has been submitted to \ncareful proofreadi"
+  },
+  {
+    "id": "8d7efa09dfef3b20a99e1deaf3951a8840ef9f95",
+    "url": "https://www.rfc-editor.org/how-to-report/",
+    "title": "How to Report Errata » RFC Editor",
+    "description": "",
+    "text": "The following instructions apply to the use of the RFC Errata page.\nTip: If you are uncertain which "
+  },
+  {
+    "id": "d46aaa7dbbf0bf534d2b77fdfaa5730b69eb1080",
+    "url": "https://duke.edu/",
+    "title": "Duke University",
+    "description": "",
+    "text": "See how it matters.Learn More »\n\n@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi"
+  },
+  {
+    "id": "0e05535f11f63631f0e30071331c1d3871a183a1",
+    "url": "https://www.investing.com/economic-calendar/interest-rate-decision-168",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "description": "Get the Fed Interest Rate Decision results in real time as they're announced and see the immediate g",
+    "text": "Please try another search\nFed Interest Rate Decision\nFrequency\nDelivery Method\nWebsite popup\nMobile "
+  },
+  {
+    "id": "a3644bc0fec25502cf871937f52d20189af028ce",
+    "url": "https://www.investing.com/economic-calendar/lithuania-gdp-1254",
+    "title": "Lithuania Gross Domestic Product (GDP) YoY",
+    "description": "Get the Lithuania GDP (YoY) results in real time as they're announced and see the immediate global m",
+    "text": "Please try another search\nLithuania Gross Domestic Product (GDP) YoY\nFrequency\nDelivery Method\nWebsi"
+  },
+  {
+    "id": "a5c1859a38719ff7a1a90301d731e5807511cbdf",
+    "url": "https://www.investing.com/economic-calendar/interest-rate-decision-165",
+    "title": "Japan Interest Rate Decision",
+    "description": "Get the BoJ Interest Rate Decision results in real time as they're announced and see the immediate g",
+    "text": "Please try another search\nJapan Interest Rate Decision\nFrequency\nDelivery Method\nWebsite popup\nMobil"
+  },
+  {
+    "id": "eecd853de1323bd0d2c66da61fccdaa6cee0e885",
+    "url": "https://www.investing.com/economic-calendar/opec-monthly-report-1673",
+    "title": "OPEC Monthly Report",
+    "description": "Get the OPEC Monthly Report results in real time as they're announced and see the immediate global m",
+    "text": "Please try another search\nInvesting.com - Oil prices climbed in European trading on Tuesday, erasing"
+  },
+  {
+    "id": "b686055562b4bc4126e5f2e688c6ee9d416b0b4e",
+    "url": "https://investing.com/",
+    "title": "Investing.com - Stock Market Quotes & Financial News",
+    "description": "Real-time quotes, charts, news & tools from Investing.com. Get AI analysis & premium data with Inves",
+    "text": "Discover stocks trading under $10 per share with recent price momentum.\nIdentify small-cap stocks wi"
+  },
+  {
+    "id": "af6a9aeaf2de6bc443702a5a12c98e9f3a576fd3",
+    "url": "https://www.investing.com/economic-calendar/estonian-unemployment-rate-772",
+    "title": "Estonia Unemployment Rate YoY",
+    "description": "Get the Estonian Unemployment Rate (YoY) results in real time as they're announced and see the immed",
+    "text": "Please try another search\nEstonia Unemployment Rate YoY\nFrequency\nDelivery Method\nWebsite popup\nMobi"
+  },
+  {
+    "id": "372360026627e5a3a82cd69746efd88d1a2aed3f",
+    "url": "https://www.investing.com/economic-calendar/czech-retail-sales-813",
+    "title": "Czech Republic Retail Sales YoY",
+    "description": "Get the Retail Sales (YoY) results in real time as they're announced and see the immediate global ma",
+    "text": "Please try another search\nCzech Republic Retail Sales YoY\nFrequency\nDelivery Method\nWebsite popup\nMo"
+  },
+  {
+    "id": "27ee6c2572a95bb2eee715bdf3550c5def21e188",
+    "url": "https://www.investing.com/economic-calendar/brazilian-trade-balance-412",
+    "title": "Brazil Trade Balance",
+    "description": "Get the Trade Balance results in real time as they're announced and see the immediate global market ",
+    "text": "Please try another search\nBrazil Trade Balance\nFrequency\nDelivery Method\nWebsite popup\nMobile App no"
+  },
+  {
+    "id": "5c3137d62b15a1674409ac955ade0b8e0532b3ca",
+    "url": "https://www.investing.com/economic-calendar/construction-pmi-44",
+    "title": "United Kingdom Construction Purchasing Managers Index (PMI)",
+    "description": "Get the S&P Global Construction PMI results in real time as they're announced and see the immediate ",
+    "text": "Please try another search\nU.K. Construction Purchasing Managers Index (PMI)\nFrequency\nDelivery Metho"
+  },
+  {
+    "id": "2f6deb2a32c9b535b500d2ff83a3c63f92b4d611",
+    "url": "https://www.investing.com/economic-calendar/french-ihs-s-p-global-construction-pmi-2110",
+    "title": "France - HCOB Construction PMI",
+    "description": "Get the HCOB France Construction PMI (MoM) results in real time as they're announced and see the imm",
+    "text": "Please try another search\nFrance - HCOB Construction PMI\nFrequency\nDelivery Method\nWebsite popup\nMob"
+  },
+  {
+    "id": "5a392c87af5946905e03db9641668f332ab96632",
+    "url": "https://cutt.ly/",
+    "title": "URL Shortener, Branded Short Links & More | Cuttly",
+    "description": "Cuttly is a custom URL shortener and Link Management Platform. Use link shortener to create, brand a",
+    "text": "By using Cuttly URL Shortener, you accept the Terms of Service and Privacy Policy.\nTake advantage of"
+  },
+  {
+    "id": "ef9cbd22a8da10eb82730b72acd8388f72d5aace",
+    "url": "https://cutt.ly/privacy",
+    "title": "Privacy Policy - Cuttly",
+    "description": "Read Cuttly’s privacy policy to understand how we handle your personal data. Learn about our data co",
+    "text": "Updated: March 21, 2024\nURL Shortener, Branded Short Links & More | Cuttly\n© 2025 cutt.ly | Made by"
+  },
+  {
+    "id": "1603946e3ac7ba5f338462cf3914f42589931ed3",
+    "url": "https://cutt.ly/terms",
+    "title": "Terms of Service - Cuttly | Link Management Platform",
+    "description": "Review the Terms of Service for using Cuttly, a platform for shortening and managing links. Learn ab",
+    "text": "Updated: March 21, 2024\nURL Shortener, Branded Short Links & More | Cuttly\n© 2025 cutt.ly | Made by"
+  },
+  {
+    "id": "6a442927e3fc19d61912ff536dd741839f46641a",
+    "url": "https://cutt.ly/contact",
+    "title": "Contact Us - Get Support for Cuttly Services",
+    "description": "Need help with Cuttly? Contact our support team for assistance with URL shortening, link management,",
+    "text": "Cuttly is your go-to platform for shortening and managing links. As a powerful URL shortener, it als"
+  },
+  {
+    "id": "bf2b1e3869d6196e628611daeb160f97617b3397",
+    "url": "https://cutt.ly/verify",
+    "title": "Unshorten and Verify Shortened URLs | Cuttly",
+    "description": "Unshorten and verify the destination of shortened links with Cutt.ly. Ensure safe browsing by expand",
+    "text": "By using Cuttly URL Shortener, you accept the Terms of Service and Privacy Policy.\nIf you want to ch"
+  },
+  {
+    "id": "c5c6f1f30af37c569e12a86df99d80d014df03a5",
+    "url": "https://cutt.ly/unsubscribe",
+    "title": "Unsubscribe from Cuttly Newsletter | Manage Your Preferences",
+    "description": "Easily unsubscribe from Cuttly’s newsletters. Manage your email preferences and stop receiving furth",
+    "text": "Consider further subscription our newsletter, we try to send content that is appropriate to our topi"
+  },
+  {
+    "id": "aa1403ae500a0a9d49803f972df3e74100686f26",
+    "url": "https://cutt.ly/preview",
+    "title": "Preview Shortened URLs - Check Before You Click | Cuttly",
+    "description": "Use Cuttly’s preview mode to check the destination URL before you click it. Ensure safe browsing by ",
+    "text": "What is preview mode? Cutt.ly - URL Shortener - preview mode gives you the opportunity to check the "
+  },
+  {
+    "id": "4068f6c8ca9aa9bec3411e9fcadff84313c68bbd",
+    "url": "https://cutt.ly/pro-pricing",
+    "title": "Cuttly - Pricing & Features",
+    "description": "Upgrade your URL shortening with Cuttly Pro. Unlock advanced features such as analytics, custom doma",
+    "text": "Engage your target audience with customized short links, QR Codes, and link in bio that capture thei"
+  },
+  {
+    "id": "fddc7d903258abd3e81f1e7e4c80a4a2c5660881",
+    "url": "https://cutt.ly/cutt-url-button",
+    "title": "Cutt URL Button - Simplify & Shorten URLs with Cuttly",
+    "description": "Easily shorten and manage your URLs with the Cutt URL Button. Drag it to your browser’s toolbar and ",
+    "text": "Drag the button to your browser’s toolbar and start to use it just like that. Now when browsing any "
+  },
+  {
+    "id": "c99b02b886c27b07a43f913afabb4e20d8d434fe",
+    "url": "https://cutt.ly/pl",
+    "title": "Cuttly: Skracacz linków, krótkie linki, darmowy skracacz adresów URL",
+    "description": "Cuttly to skracacz linków i platforma zarządzania linkami. Darmowy skracacz linków z niestandardową ",
+    "text": "Korzystając z naszej usługi, akceptujesz Regulamin serwisu oraz Politykę prywatności.\nWykorzystaj wi"
+  },
+  {
+    "id": "a86df8bca05092abdac4c59b49bec3f2af251139",
+    "url": "https://webpkgcache.com/",
+    "title": "Signed Exchanges on Google Search | Google Search Central  |  Documentation  |  Google for Developer",
+    "description": "Learn about specific requirements for signed exchanges and how they allow Google Search to prefetch ",
+    "text": "Signed exchanges (SXG) allow\n  Google Search to prefetch your content while preserving the user's pr"
+  },
+  {
+    "id": "182edd9e455782b3fc96e87fac35689e91eb541c",
+    "url": "https://adsmoloco.com/",
+    "title": "Moloco - Grow, scale, and monetize with AI Advertising",
+    "description": "Moloco provides machine learning-based advertising solutions to drive growth for businesses of all s",
+    "text": "Moloco’s planet-scale machine learning systems are the foundation of Moloco’s three distinct product"
+  },
+  {
+    "id": "22848ca343d24c91059a9a9be830571a97bb1f4d",
+    "url": "https://meitu.com/",
+    "title": "Meitu Inc.",
+    "description": "",
+    "text": "Founded in 2008, Meitu is an AI-driven technology company that carries \"beauty\" as its core ideal. T"
+  },
+  {
+    "id": "c4fb4d6a8767ae1ee31e038005c7e890a6369a66",
+    "url": "https://indiegogo.com/",
+    "title": "Crowdfund Innovations & Support Entrepreneurs | Indiegogo",
+    "description": "Crowdfund innovations in tech and design before they go mainstream and support entrepreneurs that ar",
+    "text": ""
+  },
+  {
+    "id": "2733b2e3a6c6389c7ecedb18b227dbd3c3aa351d",
+    "url": "https://www.indiegogo.com/projects/tapestries-of-hope",
+    "title": "Tapestries of Hope | Indiegogo",
+    "description": "Two activists from two corners of the world take on a government and an urban myth to protect young ",
+    "text": ""
+  },
+  {
+    "id": "4b21c4f416474d1be04e34e863a39cbeff38f4e7",
+    "url": "https://www.indiegogo.com/projects/fruit-of-the-tree",
+    "title": "Fruit of the Tree | Indiegogo",
+    "description": "Forgive...but never forget. | Check out 'Fruit of the Tree' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "d99e35bb0b89ed6041b1647e20d84f652d371d44",
+    "url": "https://www.indiegogo.com/projects/changing-the-world-on-vacation-ngo-s-and-the-politics-of-compassion",
+    "title": "Changing the World on Vacation - NGO's and The Politics of Compassion | Indiegogo",
+    "description": "When changing lives becomes a grassroots adventure  | Check out 'Changing the World on Vacation - NG",
+    "text": ""
+  },
+  {
+    "id": "cefc0b41bf2bfec87aafe5942b33129a6bc8ed63",
+    "url": "https://www.indiegogo.com/projects/the-lilliput",
+    "title": "The Lilliput | Indiegogo",
+    "description": "Jewish dwarf hides in garbage cans to survive the Holocaust | Check out 'The Lilliput' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "2ca064565c1bc871d8430af7c02baff3d100c291",
+    "url": "https://www.indiegogo.com/projects/delivered--3",
+    "title": "DELIVERED | Indiegogo",
+    "description": "Driven by a promise, Fueled by revenge | Check out 'DELIVERED' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "c91fea4127ebdf82047b42c9a45e8ec352be27a8",
+    "url": "https://www.indiegogo.com/projects/if-you-could-say-it-in-words",
+    "title": "If You Could Say It In Words | Indiegogo",
+    "description": "an unflinching romance. | Check out 'If You Could Say It In Words' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "bc6f9dcb78fba950a4246c91db70db489ac11346",
+    "url": "https://www.indiegogo.com/projects/without",
+    "title": "WITHOUT | Indiegogo",
+    "description": "What happens when you meet the man who's carrying a piece of your soul? | Check out 'WITHOUT' on Ind",
+    "text": ""
+  },
+  {
+    "id": "291805797c92d7b197d15acf7fac56113562d102",
+    "url": "https://www.indiegogo.com/projects/hard-a-true-story",
+    "title": "Hard... A True Story | Indiegogo",
+    "description": "So Hard | Check out 'Hard... A True Story' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "d138b9e45e0b87be16f38ee0b6426a72d98780de",
+    "url": "https://www.indiegogo.com/projects/for-thousands-of-miles",
+    "title": "For Thousands of Miles | Indiegogo",
+    "description": "a documentary about leaving everything behind | Check out 'For Thousands of Miles' on Indiegogo.",
+    "text": ""
+  },
+  {
+    "id": "fb32ccd00f6bd5e04e78b4c8d3bcc393e0eb31dd",
+    "url": "https://chartbeat.com/",
+    "title": "Chartbeat",
+    "description": "Chartbeat provides solutions combining instant real-time insights, rich engagement data, and powerfu",
+    "text": "Smarter insights. Sharper content.\nIntuitive website analytics and optimization tools designed for m"
+  },
+  {
+    "id": "4a4b7aa82024395ea8e53c4820c0042bbddd584c",
+    "url": "https://chartbeat.com/company/",
+    "title": "About Chartbeat - Chartbeat",
+    "description": "",
+    "text": "Chartbeat, the content intelligence platform for publishers, empowers media companies to build loyal"
+  },
+  {
+    "id": "5077824dbd5e5208375076ca4fa777866c71f259",
+    "url": "https://chartbeat.com/products/reporting/",
+    "title": "Reporting - Chartbeat",
+    "description": "",
+    "text": "REPORTING\nREPORTS\nAnalysis straight to your inbox.\nStart each day with relevant site, section, and a"
+  },
+  {
+    "id": "91798d0a1bc1324e051a9db4b7fa09d2cf723756",
+    "url": "https://chartbeat.com/products/dashboards/",
+    "title": "Dashboards - Chartbeat",
+    "description": "",
+    "text": "Dashboards\nREAL-TIME DASHBOARD\nFind your best readers.\nUnderstand how your audience is connecting wi"
+  },
+  {
+    "id": "2751b727bebb9c6081876697e280e826c9b75ddb",
+    "url": "https://chartbeat.com/careers/",
+    "title": "Chartbeat | Careers",
+    "description": "Join Chartbeat’s growing team and discover your next opportunity to create simple, actionable soluti",
+    "text": "Welcome to Chartbeat! We're excited you're considering working with us. You'll be\n\t\t\t\t\t\tjoining an i"
+  },
+  {
+    "id": "b4ddb26587335f19e95033b8077624c2cc2cb142",
+    "url": "https://chartbeat.com/team/",
+    "title": "Team - Chartbeat",
+    "description": "",
+    "text": "The Chartbeat team is made up of smart, fun, open and diverse people working toprovide the industry "
+  },
+  {
+    "id": "4bddf21aa12b9c422b0f6a54f640d0e544aa633a",
+    "url": "https://chartbeat.com/contact-us/",
+    "title": "Content Analytics and Insights for Digital Publishing | Chartbeat",
+    "description": "Improve audience engagement, inform editorial decisions, and increase readership. Chartbeat delivers",
+    "text": "Improve audience engagement, inform editorial decisions, and increase loyalty. Chartbeat delivers re"
+  },
+  {
+    "id": "29b974579de070d06aacd9606a9ba881aecce479",
+    "url": "https://chartbeat.com/press/",
+    "title": "Press - Chartbeat",
+    "description": "Chartbeat and our data is regularly included in publishing industry stories. Read the latest press m",
+    "text": "Chartbeat, the content intelligence platform for publishers, believes that today’s content creators "
+  },
+  {
+    "id": "04ec511a6f7abedc29f1e545d52176c7ade28eaa",
+    "url": "https://trellix.com/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "634203cf6431cb88873e5af498b3360611315291",
+    "url": "https://www.trellix.com/about/events/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2e9880577e68b377b1e8b1badabe046a5cd7400d",
+    "url": "https://www.trellix.com/about/csr-sustainability/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f1aeadeb0bee938e46c2d94f50180819ec7583d7",
+    "url": "https://www.trellix.com/about/events/2022/trellix-xpand-live-2022/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "30637d936a9d555c84b3e95ba6cc064d54e6502f",
+    "url": "https://www.trellix.com/about/events/2022/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f057b9325ff0ac2d89128d7a68aaea0f533908cf",
+    "url": "https://www.trellix.com/about/events/2022/trellix-xpand-live-2022/endpoint-security/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "da57cab30b57a376fedfca13970b07531b694e1e",
+    "url": "https://www.trellix.com/about/events/2022/trellix-xpand-live-2022/secops-platform/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "76329ebd2d0bc07a48e1db6c56dc9efca5bf9e97",
+    "url": "https://www.trellix.com/about/events/2022/trellix-xpand-live-2022/network-security/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f4d7cf177447b8b57b7497f316087c54886d0f18",
+    "url": "https://www.trellix.com/about/events/2022/trellix-xpand-live-2022/thank-you/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d77c2b18294a180756c1065f69cdb21166da6cb2",
+    "url": "https://www.trellix.com/about/events/2022/are-you-getting-the-most-value-out-of-your-xdr-solution/",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "cddbe24498d7a0d1f4afc3ba51495faa36b4b5ea",
+    "url": "https://hse.ru/",
+    "title": "HSE University",
+    "description": "HSE is one of the top universities in Russia and the leader in Eastern Europe and Eurasia in economi",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "22d1f807bace1e1e559b3f76b126cf804b8ebbe2",
+    "url": "https://www.hse.ru/intpartners/contacts",
+    "title": "International Partnerships Office – International Partnerships – HSE University",
+    "description": "",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "2e71f6bdcbfa7bb053669e3652296189eccbf888",
+    "url": "https://www.hse.ru/ru/intpartners/news/533612003.html",
+    "title": "Announcement of the Erasmus+ 2022 competition – News – International Partnerships – HSE University",
+    "description": "The Erasmus+ 2022 competition has been announced in a number of areas",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "ecead8aa5bd7b4eeb59ff4507c9e333e96237fe1",
+    "url": "https://www.hse.ru/intpartners/promo",
+    "title": "HSE University Promo Materials – International Partnerships – HSE University",
+    "description": "Links and materials for our international partners.",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "6a36a172330a08854307993f83ada174833d559b",
+    "url": "https://www.hse.ru/intpartners/events",
+    "title": "Calendar of scientific events – International Partnerships – HSE University",
+    "description": "",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "e6a84c1c3e26078443675761e56e6190e8afad77",
+    "url": "https://www.hse.ru/neuroling/news/516287415.html",
+    "title": "14 октября в 16:00 в рамках ErasmusDays 2021 Диана Мезьер сделает онлайн-доклад в Центре языка и моз",
+    "description": "14 октября в 16.00 по Московскому времени в Центре языка и мозга ВШЭ в рамках ErasmusDays 2021 выпус",
+    "text": "Мы используем файлы cookies для улучшения работы сайта НИУ ВШЭ и большего удобства его использования"
+  },
+  {
+    "id": "9ef4509d5d2451a564f7f728720d15240c287a4f",
+    "url": "https://www.hse.ru/ru/intpartners/news/137672879.html",
+    "title": "The HSE Faculty of Logistics signed a cooperation agreement with Lappeenranta University of Technolo",
+    "description": "The HSE Faculty of Logistics signed a cooperation agreement with Lappeenranta University of Technolo",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "b109a7bf368a61c559185bb6274f0ce17f2476d4",
+    "url": "https://www.hse.ru/ru/intpartners/news/377489909.html",
+    "title": "ITG in Economics BRICS NU Meeting – News – International Partnerships – HSE University",
+    "description": "The meeting was held in an online format on the Zoom platform.",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "3fd479128e9eb749580a64c54308251db332d254",
+    "url": "https://www.hse.ru/our/news/425976890.html",
+    "title": "«Жизнь слишком коротка, чтобы тратить ее на дела, не приносящие радости» – Новости – Вышка для своих",
+    "description": "Принципы Эрика Маскина",
+    "text": "Мы используем файлы cookies для улучшения работы сайта НИУ ВШЭ и большего удобства его использования"
+  },
+  {
+    "id": "862ce7f2a33fe4018db77de14604c267ad9ace97",
+    "url": "https://www.hse.ru/intpartners/news/",
+    "title": "News – International Partnerships – HSE University",
+    "description": "",
+    "text": "We use cookies in order to improve the quality and usability of the HSE website. More information ab"
+  },
+  {
+    "id": "64624313bedde3b64f1f552ea878fd710b32276c",
+    "url": "https://fliphtml5.com/",
+    "title": "Top FlipBook Maker & Digital Publishing Platform - FlipHTML5",
+    "description": "FlipHTML5 converts your PDF, PPT, Word & images to flipbook online, perfect for creating digital pub",
+    "text": "Upload File(s) or Create from Templates\nUpload PDF/PPT/Word/Images, or choose from hundreds of templ"
+  },
+  {
+    "id": "23a72ac0b79f7b5ccfa54d40df6092bdb698246c",
+    "url": "https://fliphtml5.com/homepage/ujlw/newstarchj4/",
+    "title": "newstarchj4 Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with newstarchj4's  latest publications on FlipHTML5! Explore newstarchj4's  author pro",
+    "text": ""
+  },
+  {
+    "id": "611923a7e1f121211c3ef0a260abf83bb98e9d3a",
+    "url": "https://fliphtml5.com/homepage/sdza/wanqing-huang/",
+    "title": "Wanqing Huang Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with Wanqing Huang's  latest publications on FlipHTML5! Explore Wanqing Huang's  author",
+    "text": ""
+  },
+  {
+    "id": "c6cff2a22faa4325f77e90497f60539933cc876a",
+    "url": "https://fliphtml5.com/homepage/307224832/zky/",
+    "title": "zky Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with zky's  latest publications on FlipHTML5! Explore zky's  author profile and discove",
+    "text": "Latest upload\n球场使用收费登记表\n球场使用收费登记表\ngood"
+  },
+  {
+    "id": "ff8f9a46cd5f0b8b62af8a52dc08df823a063c46",
+    "url": "https://fliphtml5.com/homepage/izsz/lindy.ak/",
+    "title": "lindy.ak Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with lindy.ak's  latest publications on FlipHTML5! Explore lindy.ak's  author profile a",
+    "text": "Latest upload\nflipbook (undefined description)\nSlide 1"
+  },
+  {
+    "id": "b76fa77537c9c93c95b3eb74e923966d20527539",
+    "url": "https://fliphtml5.com/homepage/rvdp/winston.zhang/",
+    "title": "winston.zhang Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with winston.zhang's  latest publications on FlipHTML5! Explore winston.zhang's  author",
+    "text": "Latest upload"
+  },
+  {
+    "id": "dda1163836b690cb83cb2e354827251079e2b375",
+    "url": "https://fliphtml5.com/homepage/mpue/harsha.cg/",
+    "title": "harsha.cg Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with harsha.cg's  latest publications on FlipHTML5! Explore harsha.cg's  author profile",
+    "text": "Latest upload"
+  },
+  {
+    "id": "4fc0cd9de5dc2754fe5385de545dd0c9bc23811c",
+    "url": "https://fliphtml5.com/homepage/sexb/1345173550/",
+    "title": "1345173550 Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with 1345173550's  latest publications on FlipHTML5! Explore 1345173550's  author profi",
+    "text": "Latest upload"
+  },
+  {
+    "id": "b953418061375506f843f191777a48c7d1f88c16",
+    "url": "https://fliphtml5.com/homepage/xqyr/chris.huchingson/",
+    "title": "chris.huchingson Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with chris.huchingson's  latest publications on FlipHTML5! Explore chris.huchingson's  ",
+    "text": "Latest upload"
+  },
+  {
+    "id": "c4c639bcdc10eb8404989966a204d4fd199fc5a8",
+    "url": "https://fliphtml5.com/homepage/jgwj/piet.boekhoudt/",
+    "title": "piet.boekhoudt Author Profile | FlipHTML5 Publisher",
+    "description": "Stay updated with piet.boekhoudt's  latest publications on FlipHTML5! Explore piet.boekhoudt's  auth",
+    "text": "Latest upload"
+  },
+  {
+    "id": "33259f7d8026fbcfe545bb89edd338952c52a780",
+    "url": "https://evergage.com/",
+    "title": "Marketing Personalization Software | Salesforce",
+    "description": "With Marketing Cloud’s personalization engine, gain insights about your customers. Use AI to engage ",
+    "text": "Say hello to Marketing Cloud Next. The agentic marketing platform built for what’s next.\nDeliver rea"
+  },
+  {
+    "id": "e12556f1e5daa079560bbced8f95a86a9deacfb3",
+    "url": "https://ford.com/",
+    "title": "Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars",
+    "description": "Ford® is Built for America. Discover the latest lineup in new Ford vehicles! Explore hybrid & electr",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "5894022ec3ee92fe95e767c1007936b736353131",
+    "url": "https://www.ford.com/product/20152025-mustang-front-strut-mount-adj-camber-p2935370274",
+    "title": "MUSTANG FRONT STRUT MOUNT - ADJ CAMBER | Accessories | Ford.com",
+    "description": "Shop MUSTANG FRONT STRUT MOUNT - ADJ CAMBER M18183MDH online at ford.com. Browse original Ford parts",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "b9ec7f4f74cd89f8cec584aa4b3124316bdfc379",
+    "url": "https://www.ford.com/cl/accessories/electronics/remote-start-and-vehicle-security/lincoln/continental/2017",
+    "title": "2017 Lincoln Continental Remote Start and Vehicle Security | Accessories | Ford.com",
+    "description": "Shop 2017 Lincoln Continental Remote Start and Vehicle Security Accessories from the official Ford® ",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "8f67cc8c3418ae7735d3f6aab707b32c1c65958a",
+    "url": "https://www.ford.com/cl/accessories/electronics/remote-start-and-vehicle-security/lincoln/continental/2019",
+    "title": "2019 Lincoln Continental Remote Start and Vehicle Security | Accessories | Ford.com",
+    "description": "Shop 2019 Lincoln Continental Remote Start and Vehicle Security Accessories from the official Ford® ",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "f2d268ffb2f5493e45848c8876f15357958ffa46",
+    "url": "https://www.ford.com/product/bronco-m210-front-drive-unit-470-ratio-p2970885694",
+    "title": "Bronco 2021-2023 M210 Front Drive Unit 4.70 Ratio | Accessories | Ford.com",
+    "description": "Shop Bronco 2021-2023 M210 Front Drive Unit 4.70 Ratio M3002470BF online at ford.com. Browse origina",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "febd6d42ff68ca29f0b1894cb890cf8a97c44ab9",
+    "url": "https://www.ford.com/support/vehicle/mustang-mach-e/2021/discover-your-ford/ford-technology/how-do-i-turn-off-automatic-software-updates/overview/",
+    "title": "",
+    "description": "",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "1e33bf489182dcf190605cd413efd8fc6decf92c",
+    "url": "https://www.ford.com/cl/performance-parts/appearance/flares/ford/bronco",
+    "title": "Ford Bronco Flares | Performance Parts | Ford.com",
+    "description": "Shop  Ford Bronco Flares Accessories from the official Ford® Accessories store. Find custom products",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "8bdd4e73ee46212ac1c844650886daddd844be4b",
+    "url": "https://www.ford.com/product/20152024-mustang-ford-performance-sill-plate-set-p2836036832",
+    "title": "Mustang 2015-2024 Ford Performance Sill Plate Set | Accessories | Ford.com",
+    "description": "Shop Mustang 2015-2024 Ford Performance Sill Plate Set M1613208A online at ford.com. Browse original",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "4721e1214c28b5fe22352d42315cb0af098cf26a",
+    "url": "https://www.ford.com/product/spare-tire-cover-bronco-66-opaque-white-ink-for-32-inch-tire-p2929644921",
+    "title": "Bronco 2021-2025 Bronco '66 32in Spare Tire Cover | Accessories | Ford.com",
+    "description": "Shop Bronco 2021-2025 Bronco '66 32in Spare Tire Cover M2DZ9945026B online at ford.com. Browse origi",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "a939589d62122a994e41fdbebe00a184ea75491a",
+    "url": "https://www.ford.com/cl/performance-parts/appearance/floor-mats/ford/f150/2019",
+    "title": "2019 Ford F-150 Floor Mats | Performance Parts | Ford.com",
+    "description": "Shop 2019 Ford F-150 Floor Mats Accessories from the official Ford® Accessories store. Find custom p",
+    "text": "Who leaves ratings and reviews?\nRatings and reviews are provided by customers who have either purcha"
+  },
+  {
+    "id": "717401624b2c84f2dab1cd5dee5b7094f7f94bc5",
+    "url": "https://www.chartboost.com/",
+    "title": "Chartboost - LoopMe | The global leader in brand performance",
+    "description": "Acquired by LoopMe in 2024, Chartboost is a leading in-app monetization and programmatic advertising",
+    "text": "Chartboost is a leading in-app monetization and programmatic advertising platform.\nEmpowering app de"
+  },
+  {
+    "id": "bfe318666f433a1132b4daef0479df780396c2c8",
+    "url": "https://chartboost.com/",
+    "title": "Chartboost - LoopMe | The global leader in brand performance",
+    "description": "Acquired by LoopMe in 2024, Chartboost is a leading in-app monetization and programmatic advertising",
+    "text": "Chartboost is a leading in-app monetization and programmatic advertising platform.\nEmpowering app de"
+  },
+  {
+    "id": "0bf76528ce26e9f861cbdc22b730dbabd1702d58",
+    "url": "https://www.chartboost.com/legal/",
+    "title": "Legal - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "6e2f71f299c674e0b8361fe439322abfe87ea591",
+    "url": "https://www.chartboost.com/legal/privacy-policy/",
+    "title": "Privacy Policy - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "d6ab6ec2c21311217eba43cdfd5fa1faaa81b11e",
+    "url": "https://www.chartboost.com/products/",
+    "title": "Products - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "39d895bece22752dc82404cebf1d5320f544f350",
+    "url": "https://www.chartboost.com/legal/terms-of-service/",
+    "title": "Terms of service - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "c943fa4fea835937e1100123fb385cec329b3e1c",
+    "url": "https://www.chartboost.com/for-teams/",
+    "title": "Solutions For Teams - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "0cb4b0f8aa1de77b59ad1c17fb129354352320a1",
+    "url": "https://www.chartboost.com/for-teams/ad-monetization/",
+    "title": "Best Platform for Gaming Ad Monetization Teams | Chartboost",
+    "description": "Read how our gaming ad monetization platform can help your ad monetization teams achieve higher aver",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "176e52cb616a5e527483e9573aabb908c49dcab5",
+    "url": "https://www.chartboost.com/products/monetization/",
+    "title": "Gaming In-App Monetization Platform by Chartboost",
+    "description": "Learn how Chartboost's gaming in-app monetization platform allows developers & publishers to tap int",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "409c30f5af69e68c1d0e2f87fc1fd9c934dcb6eb",
+    "url": "https://www.chartboost.com/success-stories/",
+    "title": "Success Stories - Chartboost",
+    "description": "",
+    "text": "LoopMe acquires Chartboost from Zynga, accelerating its mission to power brand advertising across th"
+  },
+  {
+    "id": "21f89ed1436921b5d59294cb2af7250bdd1188b7",
+    "url": "https://www.clickagy.com/",
+    "title": "Clickagy",
+    "description": "Clickagy is a data intelligence company that works with leading marketers to anonymously identify an",
+    "text": ""
+  },
+  {
+    "id": "066372dc1ac5b28b0af6f578fed80a44eb885d26",
+    "url": "https://www.clickagy.com/privacy-center/request/",
+    "title": "Request Access | Privacy Center | Clickagy",
+    "description": "Request Access | Privacy Center",
+    "text": "Clickagy Privacy Center\nWant to learn about the data Clickagy has collected about you? Once we’ve ve"
+  },
+  {
+    "id": "6290fb65b18867a55d0c777a9af41658e5bb3177",
+    "url": "https://www.clickagy.com/privacy-center/",
+    "title": "Privacy Center | Clickagy",
+    "description": "Privacy Center",
+    "text": "Please review the following important information before making your request:\nWant to learn about th"
+  },
+  {
+    "id": "5c4adcf5a0330d510ee5a46c8348986987afef6f",
+    "url": "https://www.clickagy.com/privacy-center/delete/",
+    "title": "Request Access | Privacy Center | Clickagy",
+    "description": "Request Access | Privacy Center",
+    "text": "Clickagy Privacy Center\nWant to delete the linkage between your browser and device and any behaviora"
+  },
+  {
+    "id": "18260d6f5c1c365eca71c4b293df434c7f1a7605",
+    "url": "https://clickagy.com/",
+    "title": "Clickagy",
+    "description": "Clickagy is a data intelligence company that works with leading marketers to anonymously identify an",
+    "text": ""
+  },
+  {
+    "id": "cbbdbd7ed02bf9803b64a907d9a876d0ac31c0b3",
+    "url": "https://www.clickagy.com/privacy-center/no-resell/",
+    "title": "Request Access | Privacy Center | Clickagy",
+    "description": "Request Access | Privacy Center",
+    "text": "Clickagy Privacy Center\nWant to prevent any data we have about your browser or device from being sol"
+  },
+  {
+    "id": "9f87110388bdf3e1cec011e0c171384665c82d88",
+    "url": "https://www.clickagy.com/privacy/",
+    "title": "Privacy Policy | Clickagy",
+    "description": "Clickagy Privacy Policy",
+    "text": "Clickagy, Clickagy.com and Clickagy, LLC\n(“Clickagy,\" “we,”\n\"us,\" or \"our\") is a data intelligence\nc"
+  },
+  {
+    "id": "7709ec65bc8b40753f151ce5e552b903a075f071",
+    "url": "https://www.screenconnect.com/blog/privileged-users",
+    "title": "Privileged Users Guide: Assigning & Managing | ScreenConnect",
+    "description": "Keep your company secure with effective privileged access management. Learn best practices for assig",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "696be53a1ab915bb8b78ccb94e9cb7a7b7c0d2c7",
+    "url": "https://www.screenconnect.com/blog/ios-remote-support",
+    "title": "iOS Remote Support: How To Set Up For Success | ScreenConnect",
+    "description": "Learn how iOS remote support will benefit your team and how to set yourself up for success from the ",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "771a644877a8591a3fe6606e1421d74874b15f31",
+    "url": "https://www.screenconnect.com/blog/remote-desktop-linux",
+    "title": "Remote Desktop On Linux Best Practices | ScreenConnect",
+    "description": "Learn best practices for remote desktop on Linux to easily set up, secure and maintain your remote d",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "3a71ad895a6158e546569289ee1cb7f46a505665",
+    "url": "https://screenconnect.com/",
+    "title": "Remote Support & Access Solutions | ScreenConnect",
+    "description": "Instantly access any device, fix IT issues faster and increase productivity with ScreenConnect's rem",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "48cb770e06e6475313a912e084d6479d5b7fd295",
+    "url": "https://www.screenconnect.com/blog/vnc-vs-rdp",
+    "title": "VNC Vs RDP: What’s Better For Remote Access? | ScreenConnect",
+    "description": "Compare VNC vs RDP to determine which remote desktop solution is best for your needs. Learn how each",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "d09b91fb838f8bc6e66da7302c51af9944163bc2",
+    "url": "https://www.screenconnect.com/blog/remote-desktop-file-transfer",
+    "title": "Remote Desktop File Transfer: Easy Solutions | ScreenConnect",
+    "description": "Learn trusted methods and best practices for remote desktop file transfer. Discover how to improve y",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "7ff570dd3527853212acfe5af6dc9465ad8d4f73",
+    "url": "https://www.screenconnect.com/blog/secure-remote-access-protocols",
+    "title": "Secure Remote Access Protocols Complete Guide | ScreenConnect",
+    "description": "Everything you need to know about secure remote access protocols. Learn all the types and best pract",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "d9ed715cb5ab77cd22056ae1b031ae5544d86b4b",
+    "url": "https://www.screenconnect.com/blog/uam-security",
+    "title": "UAM Security, Benefits, and Best Practices | ScreenConnect",
+    "description": "Learn about UAM security and other benefits. Discover best practices for secure user access manageme",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "d134146e647ba5facfa241582db493abeb10752f",
+    "url": "https://www.screenconnect.com/blog/self-hosted-remote-support",
+    "title": "Self-Hosted Remote Support Vs. Cloud-Based | ScreenConnect",
+    "description": "Key features, best practices and use cases of self-hosted remote support and how it compares to clou",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "9d0ee60ff54a302cc1b7f6ba3ced9d39e2455ece",
+    "url": "https://www.screenconnect.com/secure-remote-access",
+    "title": "Secure Remote Access Definition & Best Practices | ScreenConnect",
+    "description": "Discover what secure remote access is, explore top technologies and strategies, and learn best pract",
+    "text": "Deliver fast, secure remote support to any device, anytime, anywhere. Instantly connect and resolve "
+  },
+  {
+    "id": "6411affc688a0f96ff3ce98ae6e49a62a8c020a1",
+    "url": "https://c6gj-static.net/",
+    "title": "Hola | Fast, Secure, and Reliable Proxy Unblocker & VPN",
+    "description": "Wish you could access worldwide content anytime, anywhere? With Hola you can! Experience uninterrupt",
+    "text": "Premium\nVPN Locations\nSupport\nHola lives in your browser!\nHelps you go beyond your location\nSo you c"
+  },
+  {
+    "id": "d7438cc9470bc8ce76cab47111718bca5336aa63",
+    "url": "https://hola.org/access/popular/austria",
+    "title": "Popular sites in Austria - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nWell hello there!\nWe're in the process of giving our website anew look"
+  },
+  {
+    "id": "ea983b4d9839523b8d36cad1de72207c297cbdd9",
+    "url": "https://hola.org/access/popular/australia",
+    "title": "Popular sites in Australia - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nWell hello there!\nWe're in the process of giving our website anew look"
+  },
+  {
+    "id": "793357944e4f6ddfbf82f07879672047c8bd1142",
+    "url": "https://hola.org/access/popular/azerbaijan",
+    "title": "Popular sites in Azerbaijan - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nThis page was automatically generated by a third-party user's use of H"
+  },
+  {
+    "id": "cc30cb551a93326f0ce34f311bdc4e974361e6f3",
+    "url": "https://hola.org/access/popular/bahamas",
+    "title": "Popular sites in Bahamas - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nThis page was automatically generated by a third-party user's use of H"
+  },
+  {
+    "id": "3fbe24574c5b942b966c99eb7996462100f6d1c1",
+    "url": "https://hola.org/access/popular/bahrain",
+    "title": "Popular sites in Bahrain - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nThis page was automatically generated by a third-party user's use of H"
+  },
+  {
+    "id": "6cf24043be5471091ecc1fcc548e264d786d7797",
+    "url": "https://hola.org/access/popular/bailiwick-of-jersey",
+    "title": "Popular sites in Bailiwick of Jersey - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nThis page was automatically generated by a third-party user's use of H"
+  },
+  {
+    "id": "786d0214795d7579cf64fda0e31fbe25783ba425",
+    "url": "https://hola.org/access/popular/bangladesh",
+    "title": "Popular sites in Bangladesh - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nWell hello there!\nWe're in the process of giving our website anew look"
+  },
+  {
+    "id": "d3521d4895588de660e70d347981dc625b2bce30",
+    "url": "https://hola.org/access/popular/barbados",
+    "title": "Popular sites in Barbados - accessible using Hola",
+    "description": "Stream, shop, play - no matter where in the world you are!",
+    "text": "Premium\nVPN Locations\nSupport\nThis page was automatically generated by a third-party user's use of H"
   }
 ]
