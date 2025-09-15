@@ -2215,7 +2215,7 @@
     ]
   },
   "sourceforge.net": {
-    "lastAt": 1757582603784,
+    "lastAt": 1757931870861,
     "urls": [
       "https://sourceforge.net/top",
       "https://sourceforge.net/",
@@ -2226,15 +2226,25 @@
       "https://sourceforge.net/user/registration",
       "https://sourceforge.net/user/registration_business",
       "https://sourceforge.net/software/reviews/",
-      "https://sourceforge.net/user/newsletters"
+      "https://sourceforge.net/user/newsletters",
+      "https://sourceforge.net/software/vendors/roicalculator/",
+      "https://sourceforge.net/software/vendors/inquire",
+      "https://sourceforge.net/software/vendors/pricing/",
+      "https://sourceforge.net/projects/htc-plugin-i18n/",
+      "https://sourceforge.net/software/vendors/new",
+      "https://sourceforge.net/projects/htc-plugin-i18n/reviews/",
+      "https://sourceforge.net/projects/htc-plugin-i18n/support",
+      "https://sourceforge.net/projects/gamepuzzle/",
+      "https://sourceforge.net/projects/gamepuzzle/reviews/",
+      "https://sourceforge.net/projects/gamepuzzle/support"
     ]
   },
   "root-servers.net": {
-    "lastAt": 1757582606818,
+    "lastAt": 1757931874045,
     "urls": []
   },
   "weather.com": {
-    "lastAt": 1757582611793,
+    "lastAt": 1757931882500,
     "urls": [
       "https://weather.com/",
       "https://weather.com/apps",
@@ -2245,11 +2255,20 @@
       "https://weather.com/maps/satellite/caribbeanweathermap",
       "https://weather.com/maps/satellite/pacificoceanweathermap",
       "https://weather.com/maps/current-wind-chill",
-      "https://weather.com/maps/ustemperaturemap"
+      "https://weather.com/maps/ustemperaturemap",
+      "https://weather.com/maps/tendayforecast",
+      "https://weather.com/maps/ussouthwestdopplerradar",
+      "https://weather.com/maps/health/achesandpains",
+      "https://weather.com/maps/severewatches",
+      "https://weather.com/maps/uswestcentraldopplerradar",
+      "https://weather.com/photos/collection/ugc",
+      "https://weather.com/maps/currentusweather",
+      "https://weather.com/forecast",
+      "https://weather.com/photos/collection/ugc/weather/storms"
     ]
   },
   "netangels.ru": {
-    "lastAt": 1757582615312,
+    "lastAt": 1757931886524,
     "urls": [
       "https://www.netangels.ru/blog/",
       "https://www.netangels.ru/company/",
@@ -2260,15 +2279,25 @@
       "https://netangels.ru/",
       "https://www.netangels.ru/company/contract/",
       "https://www.netangels.ru/company/how-to-pay/",
-      "https://www.netangels.ru/company/how-to-pay/bank-transfer/"
+      "https://www.netangels.ru/company/how-to-pay/bank-transfer/",
+      "https://www.netangels.ru/company/press/",
+      "https://www.netangels.ru/company/panel/",
+      "https://www.netangels.ru/partners/ourpartners/",
+      "https://www.netangels.ru/partners/",
+      "https://www.netangels.ru/support/",
+      "https://www.netangels.ru/",
+      "https://www.netangels.ru/domains/",
+      "https://www.netangels.ru/hosting/",
+      "https://www.netangels.ru/hosting/wordpress/",
+      "https://www.netangels.ru/hosting/bitrix/"
     ]
   },
   "azurewebsites.net": {
-    "lastAt": 1757582618172,
+    "lastAt": 1757931889417,
     "urls": []
   },
   "roku.com": {
-    "lastAt": 1757582621231,
+    "lastAt": 1757931892287,
     "urls": [
       "https://www.roku.com/",
       "https://www.roku.com/en-gb/",
@@ -2279,21 +2308,31 @@
       "https://www.roku.com/en-ca/",
       "https://www.roku.com/fr-ca/",
       "https://www.roku.com/es-cl/",
-      "https://www.roku.com/es-co/"
+      "https://www.roku.com/es-co/",
+      "https://www.roku.com/es-cr/",
+      "https://www.roku.com/es-gt/",
+      "https://www.roku.com/es-sv/",
+      "https://www.roku.com/es-ni/",
+      "https://www.roku.com/es-hn/",
+      "https://www.roku.com/es-pa/",
+      "https://www.roku.com/pt-br/",
+      "https://www.roku.com/es-us/",
+      "https://www.roku.com/es-pe/",
+      "https://www.roku.com/de-de/"
     ]
   },
   "scorecardresearch.com": {
-    "lastAt": 1757582622693,
+    "lastAt": 1757931893208,
     "urls": [
       "https://scorecardresearch.com/"
     ]
   },
   "webex.com": {
-    "lastAt": 1757582626477,
+    "lastAt": 1757931897025,
     "urls": []
   },
   "ebay.com": {
-    "lastAt": 1757582633223,
+    "lastAt": 1757931903538,
     "urls": [
       "https://www.ebay.com/itm/326765290243",
       "https://www.ebay.com/itm/146819987615",
@@ -2303,11 +2342,20 @@
       "https://www.ebay.com/itm/277368032683",
       "https://www.ebay.com/itm/297600236405",
       "https://www.ebay.com/itm/157309063287",
-      "https://www.ebay.com/itm/397037505158"
+      "https://www.ebay.com/itm/397037505158",
+      "https://www.ebay.com/itm/205718803974",
+      "https://www.ebay.com/itm/277374924335",
+      "https://www.ebay.com/itm/127369888898",
+      "https://www.ebay.com/itm/267402307582",
+      "https://www.ebay.com/itm/267402186279",
+      "https://www.ebay.com/itm/388963648995",
+      "https://www.ebay.com/itm/306495532883",
+      "https://www.ebay.com/itm/397051122707",
+      "https://www.ebay.com/itm/116778798200"
     ]
   },
   "salesforce.com": {
-    "lastAt": 1757582643425,
+    "lastAt": 1757931912813,
     "urls": [
       "https://www.salesforce.com/",
       "https://salesforce.com/",
@@ -2318,19 +2366,29 @@
       "https://www.salesforce.com/resources/industries/",
       "https://www.salesforce.com/resources/roles/",
       "https://www.salesforce.com/resources/topics/",
-      "https://www.salesforce.com/products/expert-guidance-and-support/"
+      "https://www.salesforce.com/products/expert-guidance-and-support/",
+      "https://www.salesforce.com/company/our-brands/",
+      "https://www.salesforce.com/resources/content-type/",
+      "https://www.salesforce.com/company/our-values/",
+      "https://www.salesforce.com/blog-hub/",
+      "https://www.salesforce.com/campaign/formula1/",
+      "https://www.salesforce.com/sales/cloud/",
+      "https://www.salesforce.com/sales/",
+      "https://www.salesforce.com/sales/revenue-intelligence/",
+      "https://www.salesforce.com/sales/ai/",
+      "https://www.salesforce.com/sales/performance-management/"
     ]
   },
   "comcast.net": {
-    "lastAt": 1757582646483,
+    "lastAt": 1757931916007,
     "urls": []
   },
   "wsdvs.com": {
-    "lastAt": 1757582649566,
+    "lastAt": 1757931919040,
     "urls": []
   },
   "ubuntu.com": {
-    "lastAt": 1757582652382,
+    "lastAt": 1757931966729,
     "urls": [
       "https://ubuntu.com/",
       "https://ubuntu.com/pricing",
@@ -2341,39 +2399,49 @@
       "https://ubuntu.com/training",
       "https://ubuntu.com/training/contact-us",
       "https://ubuntu.com/rfp",
-      "https://ubuntu.com/telco/cnf"
+      "https://ubuntu.com/telco/cnf",
+      "https://ubuntu.com/engage/cloud-native-infrastructure",
+      "https://ubuntu.com/engage/redis-valkey",
+      "https://ubuntu.com/engage/world-of-open-source-europe-2025",
+      "https://ubuntu.com/engage/webinar-security-ubuntu-ibm-linuxone",
+      "https://ubuntu.com/engage/super-protocol-confidential-ai-case-study",
+      "https://ubuntu.com/engage/reseller-connect-dubai-2025",
+      "https://ubuntu.com/engage/datacenter-network-routing-on-the-host-at-scale",
+      "https://ubuntu.com/engage/ubuntu-20-04-eol-for-devices",
+      "https://ubuntu.com/engage/lxd-pure-storage",
+      "https://ubuntu.com/engage/building-a-homelab-with-microcloud"
     ]
   },
   "mit.edu": {
-    "lastAt": 1757582654573,
+    "lastAt": 1757931967795,
     "urls": [
       "https://mit.edu/"
     ]
   },
   "ksyuncdn.com": {
-    "lastAt": 1757582664013,
+    "lastAt": 1757931972065,
     "urls": []
   },
   "oracle.com": {
-    "lastAt": 1757582667686,
+    "lastAt": 1757931975808,
     "urls": []
   },
   "vecdnlb.com": {
-    "lastAt": 1757582670986,
+    "lastAt": 1757931979228,
     "urls": []
   },
   "sciencedirect.com": {
-    "lastAt": 1757582676533,
+    "lastAt": 1757931984814,
     "urls": [
       "https://sciencedirect.com/"
     ]
   },
   "kwai-pro.com": {
-    "lastAt": 1757582679835,
+    "lastAt": 1757931988319,
     "urls": []
   },
   "cpanel.net": {
-    "lastAt": 1757582682320,
+    "lastAt": 1757931993787,
     "urls": [
       "https://www.cpanel.net/blog/",
       "https://www.cpanel.net/blog/tips-and-tricks/3-cpanel-plugins-for-added-server-security/",
@@ -2384,57 +2452,67 @@
       "https://www.cpanel.net/blog/products/password-reset-v56/",
       "https://www.cpanel.net/blog/products/announcing-cpanel-whms-official-lets-encrypt-with-autossl-plugin/",
       "https://www.cpanel.net/blog/products/managing-zone-editing-permissions-in-cpanel/",
-      "https://www.cpanel.net/blog/products/wordpress-manager/"
+      "https://www.cpanel.net/blog/products/wordpress-manager/",
+      "https://www.cpanel.net/blog/products/when-php-went-pear-shaped-the-php-pear-compromise/",
+      "https://www.cpanel.net/blog/products/lets-talk-multiphp/",
+      "https://www.cpanel.net/blog/products/easyapache-4-and-mod_lsapi/",
+      "https://www.cpanel.net/blog/products/introducing-cpanel-analytics/",
+      "https://www.cpanel.net/blog/products/upgrading-mysql-or-mariadb/",
+      "https://www.cpanel.net/blog/products/plus-addressing-in-cpanel/",
+      "https://www.cpanel.net/blog/products/imunifyav-on-cpanel-whm-servers/",
+      "https://www.cpanel.net/blog/products/force-https-redirection/",
+      "https://www.cpanel.net/blog/products/cpanel-application-manager-and-app-deployment-101/",
+      "https://www.cpanel.net/blog/products/supporting-open-source/"
     ]
   },
   "cisco.com": {
-    "lastAt": 1757582707180,
+    "lastAt": 1757932019811,
     "urls": [
       "https://cisco.com/"
     ]
   },
   "adsrvr.org": {
-    "lastAt": 1757582708346,
+    "lastAt": 1757932020775,
     "urls": [
       "https://adsrvr.org/"
     ]
   },
   "canva.com": {
-    "lastAt": 1757582713634,
+    "lastAt": 1757932026123,
     "urls": []
   },
   "imdb.com": {
-    "lastAt": 1757582716317,
+    "lastAt": 1757932027408,
     "urls": [
       "https://imdb.com/"
     ]
   },
   "reg.ru": {
-    "lastAt": 1757582718030,
+    "lastAt": 1757932028875,
     "urls": [
       "https://reg.ru/"
     ]
   },
   "researchgate.net": {
-    "lastAt": 1757582721296,
+    "lastAt": 1757932032073,
     "urls": []
   },
   "my.com": {
-    "lastAt": 1757582725706,
+    "lastAt": 1757932036107,
     "urls": []
   },
   "imgsmail.ru": {
-    "lastAt": 1757582730715,
+    "lastAt": 1757932039641,
     "urls": [
       "https://imgsmail.ru/"
     ]
   },
   "rocket-cdn.com": {
-    "lastAt": 1757586174451,
+    "lastAt": 1757932046391,
     "urls": []
   },
   "openai.com": {
-    "lastAt": 1757586180821,
+    "lastAt": 1757932052389,
     "urls": []
   },
   "googleblog.com": {
