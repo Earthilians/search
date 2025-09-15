@@ -1820,7 +1820,7 @@
     ]
   },
   "myfritz.net": {
-    "lastAt": 1757579380719,
+    "lastAt": 1757928389789,
     "urls": [
       "https://www.myfritz.net/about",
       "https://myfritz.net/",
@@ -1829,11 +1829,11 @@
     ]
   },
   "nflxso.net": {
-    "lastAt": 1757579383765,
+    "lastAt": 1757928392984,
     "urls": []
   },
   "meraki.com": {
-    "lastAt": 1757579392891,
+    "lastAt": 1757928401624,
     "urls": [
       "https://meraki.cisco.com/",
       "https://meraki.cisco.com/collateral/",
@@ -1844,17 +1844,27 @@
       "https://meraki.cisco.com/es-co/collateral/",
       "https://meraki.cisco.com/fr-ca/freesm/",
       "https://meraki.cisco.com/fr-ca/industries/",
-      "https://meraki.cisco.com/pt-br/industries/"
+      "https://meraki.cisco.com/pt-br/industries/",
+      "https://meraki.cisco.com/es-co/industries/",
+      "https://meraki.cisco.com/pt-br/partner/",
+      "https://meraki.cisco.com/ja-jp/partner/",
+      "https://meraki.cisco.com/ja-jp/industries/",
+      "https://meraki.cisco.com/ja-jp/collateral/",
+      "https://meraki.cisco.com/de-de/industries/",
+      "https://meraki.cisco.com/fr-fr/collateral/",
+      "https://meraki.cisco.com/fr-fr/industries/",
+      "https://meraki.cisco.com/de-de/collateral/",
+      "https://meraki.cisco.com/fr-fr/freesm/"
     ]
   },
   "w3.org": {
-    "lastAt": 1757579394758,
+    "lastAt": 1757928402871,
     "urls": [
       "https://w3.org/"
     ]
   },
   "taboola.com": {
-    "lastAt": 1757579400031,
+    "lastAt": 1757928407100,
     "urls": [
       "https://www.taboola.com/",
       "https://taboola.com/",
@@ -1865,23 +1875,33 @@
       "https://www.taboola.com/it/about",
       "https://www.taboola.com/tr/about",
       "https://www.taboola.com/fr/thank-you-contact",
-      "https://www.taboola.com/es/thank-you-contact"
+      "https://www.taboola.com/es/thank-you-contact",
+      "https://www.taboola.com/pt/thank-you-contact",
+      "https://www.taboola.com/ko/thank-you-contact",
+      "https://www.taboola.com/zh-hans/thank-you-contact",
+      "https://www.taboola.com/it/thank-you-contact",
+      "https://www.taboola.com/ru/thank-you-contact",
+      "https://www.taboola.com/resources",
+      "https://www.taboola.com/zh-hant/thank-you-contact",
+      "https://www.taboola.com/tr/thank-you-contact",
+      "https://www.taboola.com/pl/thank-you-contact",
+      "https://www.taboola.com/fr/demo"
     ]
   },
   "example.com": {
-    "lastAt": 1757579401877,
+    "lastAt": 1757928414122,
     "urls": [
       "https://example.com/"
     ]
   },
   "t.co": {
-    "lastAt": 1757579403223,
+    "lastAt": 1757928415140,
     "urls": [
       "https://t.co/"
     ]
   },
   "theguardian.com": {
-    "lastAt": 1757579406832,
+    "lastAt": 1757928419114,
     "urls": [
       "https://theguardian.com/",
       "https://www.theguardian.com/politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
@@ -1892,11 +1912,21 @@
       "https://www.theguardian.com/australia-news/2025/sep/11/terry-irving-wrongful-imprisonment-compensation-queensland",
       "https://www.theguardian.com/music/2025/sep/11/welsh-national-opera-adele-thomas-sarah-crabtree-interview",
       "https://www.theguardian.com/commentisfree/2025/sep/11/france-rachel-reeves-bond-market-britain-labour-economic-orthodoxy",
-      "https://www.theguardian.com/film/2025/sep/11/dreaming-of-you-the-making-of-the-coral-review"
+      "https://www.theguardian.com/film/2025/sep/11/dreaming-of-you-the-making-of-the-coral-review",
+      "https://www.theguardian.com/us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
+      "https://www.theguardian.com/environment/2025/sep/15/bali-worst-floods-decade-landslides-rain-india-pakistan-australia",
+      "https://www.theguardian.com/politics/live/2025/sep/15/keir-starmer-peter-mandelson-labour-reform-tories-uk-politics-live-news-updates",
+      "https://www.theguardian.com/sport/live/2025/sep/15/surrey-v-nottinghamshire-sussex-v-yorkshire-and-more-county-cricket-day-one-live",
+      "https://www.theguardian.com/business/live/2025/sep/15/uk-house-prices-drop-tax-budget-rents-financial-markets-business-live-news-updates",
+      "https://www.theguardian.com/world/live/2025/sep/15/russia-ukraine-romania-poland-drone-trump-tariffs-europe-live-news-updates",
+      "https://www.theguardian.com/world/2025/sep/15/spains-pm-criticised-after-vuelta-a-espana-race-abandoned-over-pro-palestinian-protests",
+      "https://www.theguardian.com/australia-news/2025/sep/15/porepunkah-victorian-government-support-package-tourism-small-business-ntwnfb",
+      "https://www.theguardian.com/world/2025/sep/15/conor-mcgregor-pulls-out-of-ireland-presidential-race",
+      "https://www.theguardian.com/world/video/2025/sep/15/nothing-was-left-at-all-devastating-fire-displaces-more-than-1100-families-in-manila-video"
     ]
   },
   "doubleverify.com": {
-    "lastAt": 1757579410425,
+    "lastAt": 1757928424380,
     "urls": [
       "https://doubleverify.com/doubleverify%e3%81%8c-adchan-tokyo2020-%e3%81%ab%e5%8f%82%e5%8a%a0/",
       "https://doubleverify.com/adweek-apac/",
@@ -1907,15 +1937,25 @@
       "https://doubleverify.com/insights/thought-leadership/",
       "https://doubleverify.com/all-that-matters/",
       "https://doubleverify.com/doubleverify-philippines-summit/",
-      "https://doubleverify.com/doubleverify-at-dmexco-2022/"
+      "https://doubleverify.com/doubleverify-at-dmexco-2022/",
+      "https://doubleverify.com/doubleverify-at-advertising-week-new-york/",
+      "https://doubleverify.com/doubleverify-returns-to-614-brand-safety-summit-new-york/",
+      "https://doubleverify.com/dv-helped-improve-video-viewability-and-vcpm-on-snapchat-for-major-telecom-brand/",
+      "https://doubleverify.com/doubleverify-returns-to-programmatic-i-o-new-york/",
+      "https://doubleverify.com/allianz-france-achieves-38-greater-cost-per-lead-efficiency-using-doubleverifys-contextual-solution/",
+      "https://doubleverify.com/allianz-france-achieves-38-greater-cost-per-lead-efficiency-using-doubleverifys-contextual-solution-jp/",
+      "https://doubleverify.com/doubleverify-returns-to-ces-2023/",
+      "https://doubleverify.com/doubleverify-apac-trendspotting-2023/",
+      "https://doubleverify.com/make-an-impact-with-dvs-contextual-solutions-jp/",
+      "https://doubleverify.com/dv-authentic-attention-enabled-a-leading-automotive-brand-to-identify-top-performing-ad-creatives-inventory/"
     ]
   },
   "capcutapi.com": {
-    "lastAt": 1757579413598,
+    "lastAt": 1757928427672,
     "urls": []
   },
   "vungle.com": {
-    "lastAt": 1757579418847,
+    "lastAt": 1757928431885,
     "urls": [
       "https://vungle.com/news/vungle-appears-in-forbes-must-read-tips-from-the-best-minds-in-mobile/",
       "https://vungle.com/",
@@ -1925,33 +1965,43 @@
       "https://vungle.com/blog/the-vungalow-meet-steve-director-of-engineering/",
       "https://vungle.com/blog/vungle-ranks-high-in-singulars-2019-roi-index/",
       "https://vungle.com/blog/singular-ranks-vungle-one-of-the-most-secure-ad-networks/",
-      "https://vungle.com/blog/meet-our-new-vp-of-finance-business-operations/"
+      "https://vungle.com/blog/meet-our-new-vp-of-finance-business-operations/",
+      "https://vungle.com/news/martech-advisor-vungle-top-ten-media-options-for-mobile-advertising/",
+      "https://vungle.com/news/vungle-self-serve-platform-announced-for-in-app-videos/",
+      "https://vungle.com/news/marketwatch-vungle-appoints-howard-warner-vp-finance-business-operations/",
+      "https://vungle.com/news/martech-series-tech-bytes-with-jeremy-bondy/",
+      "https://vungle.com/blog/why-everyone-loves-rewarded-ads/",
+      "https://vungle.com/blog/the-vungalow-meet-nic-production-manager-for-vungle-creative-labs/",
+      "https://vungle.com/event/gdc2019/",
+      "https://vungle.com/event/mau/",
+      "https://vungle.com/blog/vungle-ceo-rick-tallman-explains-why-we-rebranded/",
+      "https://vungle.com/blog/the-6-rules-of-a-hit-puzzle-game/"
     ]
   },
   "registrar-servers.com": {
-    "lastAt": 1757579421964,
+    "lastAt": 1757928435156,
     "urls": []
   },
   "dnsowl.com": {
-    "lastAt": 1757579424971,
+    "lastAt": 1757928438399,
     "urls": []
   },
   "b-cdn.net": {
-    "lastAt": 1757579427151,
+    "lastAt": 1757928439504,
     "urls": [
       "https://b-cdn.net/"
     ]
   },
   "ttvnw.net": {
-    "lastAt": 1757579430296,
+    "lastAt": 1757928442604,
     "urls": []
   },
   "akamaized.net": {
-    "lastAt": 1757579433248,
+    "lastAt": 1757928445609,
     "urls": []
   },
   "pubmatic.com": {
-    "lastAt": 1757579439784,
+    "lastAt": 1757928451416,
     "urls": [
       "https://pubmatic.com/",
       "https://pubmatic.com/landing-page/",
@@ -1962,11 +2012,21 @@
       "https://pubmatic.com/upcoming-pubacademy/",
       "https://pubmatic.com/connectioncounts/",
       "https://pubmatic.com/connectionmatters-test/",
-      "https://pubmatic.com/covid-19/"
+      "https://pubmatic.com/covid-19/",
+      "https://pubmatic.com/leadingthroughchange-mobile-scn/",
+      "https://pubmatic.com/leadingthroughchange-spo/",
+      "https://pubmatic.com/ltc-openwrap-test-old/",
+      "https://pubmatic.com/leadingthroughchange-mobile-kr/",
+      "https://pubmatic.com/leadingthroughchange-openwrap/",
+      "https://pubmatic.com/ltc-test/",
+      "https://pubmatic.com/hackathon-2021/",
+      "https://pubmatic.com/audience-addressability-it/",
+      "https://pubmatic.com/emea-ctv-research/",
+      "https://pubmatic.com/audience-addressability-de/"
     ]
   },
   "gmail.com": {
-    "lastAt": 1757579442416,
+    "lastAt": 1757928452651,
     "urls": [
       "https://www.google.com/intl/de/gmail/about/policy/",
       "https://www.google.com/intl/el/gmail/about/",
@@ -1981,11 +2041,11 @@
     ]
   },
   "azurefd.net": {
-    "lastAt": 1757579445277,
+    "lastAt": 1757928455552,
     "urls": []
   },
   "forbes.com": {
-    "lastAt": 1757579449767,
+    "lastAt": 1757928477792,
     "urls": [
       "https://www.forbes.com/sites/tomsanderson/2025/09/11/this-decisive-talk-convinced-fc-barcelona-star-to-stay-at-club/",
       "https://www.forbes.com/sites/olliebarder/2025/09/11/daemon-x-machina-titanic-scion-brings-back-old-boss-for-a-new-event/",
@@ -1996,23 +2056,33 @@
       "https://www.forbes.com/sites/lanceeliot/2025/09/11/formulating-an-artificial-general-intelligence-ethics-checklist-for-the-upcoming-rise-of-advanced-ai/",
       "https://www.forbes.com/sites/davidphelan/2025/09/11/apple-iphone-17-release-date-full-schedule-of-last-minute-updates/",
       "https://www.forbes.com/sites/davidphelan/2025/09/11/apple-suddenly-extends-new-free-offer-to-all-iphone-14-and-iphone-15-users/",
-      "https://www.forbes.com/sites/brianmazique/2025/09/11/wwe-wrestlepalooza--john-cena-vs-brock-lesnar--date-time--how-to-watch/"
+      "https://www.forbes.com/sites/brianmazique/2025/09/11/wwe-wrestlepalooza--john-cena-vs-brock-lesnar--date-time--how-to-watch/",
+      "https://www.forbes.com/sites/siladityaray/2025/09/15/tribute-to-my-friend-vance-will-host-charlie-kirks-show-today/",
+      "https://www.forbes.com/sites/manasipathak-1/2025/09/15/american-17-year-old-iva-jovic-becomes-youngest-champion-this-season/",
+      "https://www.forbes.com/sites/zakdoffman/2025/09/15/google-confirms-gmail-warning---new-attack-hacks-your-email/",
+      "https://www.forbes.com/sites/tristanlavalette/2025/09/15/india-and-pakistan-crickets-biggest-rivalry-is-at-boiling-point-after-controversy/",
+      "https://www.forbes.com/sites/davidprosser/2025/09/15/hala-raises-157-million-to-support-saudi-micro-businesses/",
+      "https://www.forbes.com/sites/greatspeculations/2025/09/15/bitcoin-escaped-nvidias-clutches-is-ai-next/",
+      "https://www.forbes.com/sites/brucelee/2025/09/15/joe-burrow-suffers-turf-toe-injury-heres-what-that-is/",
+      "https://www.forbes.com/sites/ywang/2025/09/15/pop-mart-founder-wang-nings-net-worth-drops-6-billion-as-labubu-demand-cools/",
+      "https://www.forbes.com/sites/brucedorminey/2025/09/15/photosynthesis-may-limit-complex-life-around-red-dwarf-stars/",
+      "https://www.forbes.com/sites/jamiecartereurope/2025/09/15/saturn-glows-and-a-diamond-in-the-sky-the-night-sky-this-week/"
     ]
   },
   "godaddy.com": {
-    "lastAt": 1757579453140,
+    "lastAt": 1757928482051,
     "urls": []
   },
   "demdex.net": {
-    "lastAt": 1757579456026,
+    "lastAt": 1757928485036,
     "urls": []
   },
   "mangosip.ru": {
-    "lastAt": 1757579514882,
+    "lastAt": 1757928543894,
     "urls": []
   },
   "twitch.tv": {
-    "lastAt": 1757579516883,
+    "lastAt": 1757928546382,
     "urls": [
       "https://www.twitch.tv/annual-recap",
       "https://www.twitch.tv/directory/gaming",
@@ -2023,15 +2093,25 @@
       "https://www.twitch.tv/directory/esports",
       "https://www.twitch.tv/directory",
       "https://www.twitch.tv/directory/category/irl",
-      "https://www.twitch.tv/directory/category/league-of-legends"
+      "https://www.twitch.tv/directory/category/league-of-legends",
+      "https://www.twitch.tv/directory/all",
+      "https://www.twitch.tv/kaicenat",
+      "https://www.twitch.tv/directory/category/just-chatting",
+      "https://www.twitch.tv/directory/category/dota-2",
+      "https://www.twitch.tv/directory/category/grand-theft-auto-v",
+      "https://www.twitch.tv/directory/category/valorant",
+      "https://www.twitch.tv/directory/category/counter-strike",
+      "https://www.twitch.tv/directory/following",
+      "https://www.twitch.tv/directory/category/path-of-exile-2",
+      "https://www.twitch.tv/ishowspeed"
     ]
   },
   "jomodns.com": {
-    "lastAt": 1757579520777,
+    "lastAt": 1757928551018,
     "urls": []
   },
   "creativecommons.org": {
-    "lastAt": 1757579527900,
+    "lastAt": 1757928557563,
     "urls": [
       "https://creativecommons.org/",
       "https://creativecommons.org/2015/03/25/celebrate-creative-commons-with-a-limited-edition-tee/",
@@ -2042,15 +2122,25 @@
       "https://creativecommons.org/2019/12/17/celebrate-public-domain-day-with-events-around-the-world/",
       "https://creativecommons.org/2020/01/06/cc-search-browser-extension/",
       "https://creativecommons.org/2020/01/23/introducing-the-linked-commons/",
-      "https://creativecommons.org/2020/01/27/the-new-cc-license-chooser/"
+      "https://creativecommons.org/2020/01/27/the-new-cc-license-chooser/",
+      "https://creativecommons.org/2020/09/03/welcome-to-the-new-cc-chapter-in-peru/",
+      "https://creativecommons.org/2020/06/16/german-public-broadcaster-zdf-releases-dozens-of-videos-under-cc-licenses/",
+      "https://creativecommons.org/2020/10/21/making-the-cc-network-work-better/",
+      "https://creativecommons.org/2020/11/02/cc-open-source-website/",
+      "https://creativecommons.org/2020/11/02/updates-to-the-creative-commons-catalog/",
+      "https://creativecommons.org/2020/11/04/the-linked-commons-2-0-whats-new/",
+      "https://creativecommons.org/2020/12/02/introducing-the-newest-cc-chapter-cc-czech-republic/",
+      "https://creativecommons.org/2020/12/03/explore-the-new-cc-legal-database-site/",
+      "https://creativecommons.org/2020/12/15/the-improved-cc-search/",
+      "https://creativecommons.org/2020/12/07/new-improvements-in-the-cc-search-browser-extension/"
     ]
   },
   "edgecdn.ru": {
-    "lastAt": 1757579532702,
+    "lastAt": 1757928562253,
     "urls": []
   },
   "bbc.co.uk": {
-    "lastAt": 1757579538097,
+    "lastAt": 1757928567780,
     "urls": [
       "https://www.bbc.co.uk/sport",
       "https://www.bbc.co.uk/sport/formula1",
@@ -2061,11 +2151,21 @@
       "https://www.bbc.co.uk/sport/tennis",
       "https://www.bbc.co.uk/sport/football/premier-league",
       "https://www.bbc.co.uk/sport/golf",
-      "https://www.bbc.co.uk/sport/snooker"
+      "https://www.bbc.co.uk/sport/snooker",
+      "https://www.bbc.co.uk/sport/football/scottish",
+      "https://www.bbc.co.uk/sport/cycling",
+      "https://www.bbc.co.uk/sport/football/championship",
+      "https://www.bbc.co.uk/sport/rugby-league",
+      "https://www.bbc.co.uk/sport/football/european",
+      "https://www.bbc.co.uk/sport/boxing",
+      "https://www.bbc.co.uk/sport/horse-racing",
+      "https://www.bbc.co.uk/sport/athletics",
+      "https://www.bbc.co.uk/sport/scotland",
+      "https://www.bbc.co.uk/sport/american-football"
     ]
   },
   "bbc.com": {
-    "lastAt": 1757582598792,
+    "lastAt": 1757928583677,
     "urls": [
       "https://bbc.com/",
       "https://www.bbc.com/arabic/multimedia/2009/08/090827_sf_nayyefattempt_tc2",
@@ -2076,11 +2176,21 @@
       "https://www.bbc.com/arabic/worldnews/2009/08/090824_az_call_for_libya_to_pay_ira_victims_tc2",
       "https://www.bbc.com/arabic/worldnews/2009/08/090828_af_khan_nuclear_tc2",
       "https://www.bbc.com/arabic/sports/2009/08/090822_mek_egypt_football_tc2",
-      "https://www.bbc.com/arabic/middleeast/2009/08/090827_me_pakistan_explosion_tc2"
+      "https://www.bbc.com/arabic/middleeast/2009/08/090827_me_pakistan_explosion_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090625_sf_tamim_verdict_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090624_me_inpictures_brazil_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090623_sf_france_burqa_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090623_iz_tp_books_tpc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090620_mz_iran_rallies2_tc2",
+      "https://www.bbc.com/arabic/business/2009/06/090623_iz_world_bank_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090623_sf_civilian_victims_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090625_af_hisham_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090620_mz_kirkuk_blast_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090620_mz_jafari_itv_tc2"
     ]
   },
   "slack.com": {
-    "lastAt": 1757582600947,
+    "lastAt": 1757928585457,
     "urls": [
       "https://slack.com/",
       "https://slack.com//trust/data-requests",
@@ -2091,7 +2201,17 @@
       "https://slack.com/accessibility-plan",
       "https://slack.com/affiliates",
       "https://slack.com/accessibility",
-      "https://slack.com/ai-agents"
+      "https://slack.com/ai-agents",
+      "https://slack.com/beta/android",
+      "https://slack.com/beta/ios",
+      "https://slack.com/atlas",
+      "https://slack.com/ai-agents/contact-sales",
+      "https://slack.com/ai-agents/demo",
+      "https://slack.com/beta/mac",
+      "https://slack.com/beta/windows",
+      "https://slack.com/blog",
+      "https://slack.com/blog/collaboration",
+      "https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture"
     ]
   },
   "sourceforge.net": {
