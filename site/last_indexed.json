@@ -4694,35 +4694,35 @@
     "urls": []
   },
   "statista.com": {
-    "lastAt": 1757611202162,
+    "lastAt": 1757961211056,
     "urls": [
       "https://statista.com/"
     ]
   },
   "behance.net": {
-    "lastAt": 1757611209274,
+    "lastAt": 1757961217775,
     "urls": [
       "https://behance.net/"
     ]
   },
   "xiaomi.net": {
-    "lastAt": 1757611216945,
+    "lastAt": 1757961224898,
     "urls": []
   },
   "cdn20.com": {
-    "lastAt": 1757611220243,
+    "lastAt": 1757961228520,
     "urls": []
   },
   "nflximg.com": {
-    "lastAt": 1757611279056,
+    "lastAt": 1757961287331,
     "urls": []
   },
   "entrust.net": {
-    "lastAt": 1757611283313,
+    "lastAt": 1757961291962,
     "urls": []
   },
   "verisign.com": {
-    "lastAt": 1757611285205,
+    "lastAt": 1757961294914,
     "urls": [
       "https://www.verisign.com/en_US/domain-names/index.xhtml",
       "https://www.verisign.com/en_US/",
@@ -4733,21 +4733,31 @@
       "https://www.verisign.com/en_US/domain-names/name-domains/index.xhtml",
       "https://www.verisign.com/en_US/domain-names/international-domains/index.xhtml",
       "https://www.verisign.com/en_US/domain-names/domain-name-search/index.xhtml",
-      "https://www.verisign.com/en_US/domain-names/domain-registry/index.xhtml"
+      "https://www.verisign.com/en_US/domain-names/domain-registry/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnib/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnssec/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/domain-registrar/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnssec/dnssec-test/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnssec/how-dnssec-works/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnssec/dnssec-implementation/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnib/domain-name-industry-brief-reports/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/dnssec/what-is-dnssec/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/internet-resolution/index.xhtml",
+      "https://www.verisign.com/en_US/domain-names/internet-resolution/ixp/index.xhtml"
     ]
   },
   "live-video.net": {
-    "lastAt": 1757611288350,
+    "lastAt": 1757961297877,
     "urls": []
   },
   "tds.net": {
-    "lastAt": 1757611289580,
+    "lastAt": 1757961299401,
     "urls": [
       "https://tds.net/"
     ]
   },
   "eset.com": {
-    "lastAt": 1757611297900,
+    "lastAt": 1757961309189,
     "urls": [
       "https://www.eset.com/za/beta/",
       "https://www.eset.com/za/beta/form/",
@@ -4758,25 +4768,35 @@
       "https://www.eset.com/za/about/careers/culture/",
       "https://www.eset.com/za/about/newsroom/",
       "https://www.eset.com/za/about/newsroom/press-kit/",
-      "https://www.eset.com/za/about/newsroom/corporate-blog/"
+      "https://www.eset.com/za/about/newsroom/corporate-blog/",
+      "https://www.eset.com/za/about/newsroom/highlights/",
+      "https://www.eset.com/za/about/newsroom/press-releases-za/",
+      "https://www.eset.com/za/about/why-eset/",
+      "https://www.eset.com/za/about/why-eset/industry-analyst-recognition/",
+      "https://www.eset.com/za/about/technology/",
+      "https://www.eset.com/za/about/why-eset/awards/",
+      "https://www.eset.com/za/business/customer-stories/",
+      "https://www.eset.com/za/business/",
+      "https://www.eset.com/za/business/security-packs/",
+      "https://www.eset.com/za/business/security-packs/download-home-office/"
     ]
   },
   "comcast.com": {
-    "lastAt": 1757611300936,
+    "lastAt": 1757961312580,
     "urls": []
   },
   "hichina.com": {
-    "lastAt": 1757611304947,
+    "lastAt": 1757961316682,
     "urls": []
   },
   "giphy.com": {
-    "lastAt": 1757611306240,
+    "lastAt": 1757961317655,
     "urls": [
       "https://giphy.com/"
     ]
   },
   "speedtest.net": {
-    "lastAt": 1757611308547,
+    "lastAt": 1757961319471,
     "urls": [
       "https://www.speedtest.net/apps/desktop",
       "https://www.speedtest.net/about",
@@ -4787,23 +4807,33 @@
       "https://www.speedtest.net/mobile",
       "https://www.speedtest.net/mobile/amazon",
       "https://www.speedtest.net/mobile/ios",
-      "https://www.speedtest.net/mobile/android"
+      "https://www.speedtest.net/mobile/android",
+      "https://www.speedtest.net/mobile/windowsphone",
+      "https://www.speedtest.net/settings",
+      "https://www.speedtest.net/login",
+      "https://www.speedtest.net/privacy",
+      "https://www.speedtest.net/terms",
+      "https://www.speedtest.net/de/about",
+      "https://www.speedtest.net/de",
+      "https://www.speedtest.net/de/apps/desktop",
+      "https://www.speedtest.net/de/help",
+      "https://www.speedtest.net/de/audience-landing"
     ]
   },
   "addtoany.com": {
-    "lastAt": 1757611309932,
+    "lastAt": 1757961320580,
     "urls": [
       "https://addtoany.com/"
     ]
   },
   "wired.com": {
-    "lastAt": 1757611314637,
+    "lastAt": 1757961333521,
     "urls": [
       "https://wired.com/"
     ]
   },
   "outbrain.com": {
-    "lastAt": 1757611316200,
+    "lastAt": 1757961336427,
     "urls": [
       "https://www.outbrain.com/",
       "https://outbrain.com/",
@@ -4814,11 +4844,21 @@
       "https://www.outbrain.com/advertisers/brand-studio/",
       "https://www.outbrain.com/publishers/guidelines/",
       "https://www.outbrain.com/publishers/",
-      "https://www.outbrain.com/publishers/solutions/"
+      "https://www.outbrain.com/publishers/solutions/",
+      "https://www.outbrain.com/publishers/smartfeed/",
+      "https://www.outbrain.com/publishers/optimization-engine/",
+      "https://www.outbrain.com/publishers/new-media/",
+      "https://www.outbrain.com/publishers/smartlogic/",
+      "https://www.outbrain.com/publishers/video/",
+      "https://www.outbrain.com/about/",
+      "https://www.outbrain.com/publishers/native-ad-server/",
+      "https://www.outbrain.com/affiliate-marketing-strategy/",
+      "https://www.outbrain.com/about/company/",
+      "https://www.outbrain.com/about/team/"
     ]
   },
   "google.co.uk": {
-    "lastAt": 1757611318361,
+    "lastAt": 1757961339654,
     "urls": [
       "https://www.google.com/intl/et/gmail/about/",
       "https://www.google.com/intl/eu_es/gmail/about/",
@@ -4829,39 +4869,49 @@
       "https://www.google.com/intl/eu_es/gmail/about/for-work/",
       "https://www.google.com/intl/fa/gmail/about/",
       "https://www.google.com/intl/fa/gmail/about/policy/",
-      "https://www.google.com/intl/fa/gmail/about/for-work/"
+      "https://www.google.com/intl/fa/gmail/about/for-work/",
+      "https://www.google.com/intl/el/forms/about/",
+      "https://www.google.com/intl/sv/forms/about/",
+      "https://www.google.com/intl/vi/forms/about/",
+      "https://www.google.com/intl/tr/forms/about/",
+      "https://www.google.com/intl/bg/forms/about/",
+      "https://www.google.com/intl/sr/forms/about/",
+      "https://www.google.com/intl/ru/forms/about/",
+      "https://www.google.com/intl/mn/forms/about/",
+      "https://www.google.com/intl/uk/forms/about/",
+      "https://www.google.com/intl/ka/forms/about/"
     ]
   },
   "rzone.de": {
-    "lastAt": 1757611321875,
+    "lastAt": 1757961343095,
     "urls": []
   },
   "line.me": {
-    "lastAt": 1757611324277,
+    "lastAt": 1757961344976,
     "urls": [
       "https://line.me/"
     ]
   },
   "wb.ru": {
-    "lastAt": 1757611329864,
+    "lastAt": 1757961351714,
     "urls": []
   },
   "wbbasket.ru": {
-    "lastAt": 1757611333723,
+    "lastAt": 1757961355748,
     "urls": []
   },
   "icloud-content.com": {
-    "lastAt": 1757611334605,
+    "lastAt": 1757961356735,
     "urls": [
       "https://icloud-content.com/"
     ]
   },
   "s-msedge.net": {
-    "lastAt": 1757611337483,
+    "lastAt": 1757961359593,
     "urls": []
   },
   "slideshare.net": {
-    "lastAt": 1757611344150,
+    "lastAt": 1757961367684,
     "urls": [
       "https://slideshare.net/",
       "https://de.slideshare.net/slideshow/class-5/5884",
@@ -4872,31 +4922,41 @@
       "https://de.slideshare.net/slideshow/ontologiebasiertes-kompetenzmanagement-fr-die-bildungsbedarfsplanung-in-der-krankenpflege/6326",
       "https://de.slideshare.net/slideshow/keynote-forum-mnchen-2005/6540",
       "https://de.slideshare.net/slideshow/perspektiven-der-wissensarbeit/6742",
-      "https://de.slideshare.net/eguy24/keyhote-herbstforen"
+      "https://de.slideshare.net/eguy24/keyhote-herbstforen",
+      "https://de.slideshare.net/slideshow/boyermoorealgorithmus/8102",
+      "https://de.slideshare.net/slideshow/quo-vadis-blogging-geldmaschine-oder-lustiges-hobby/7702",
+      "https://de.slideshare.net/slideshow/agel-dreamteam-network/7726",
+      "https://de.slideshare.net/slideshow/maschinelles-lernen/8104",
+      "https://de.slideshare.net/slideshow/der-30minutenusabilitytest-fr-jedermann/8014",
+      "https://de.slideshare.net/slideshow/pizzabestellung/8264",
+      "https://de.slideshare.net/slideshow/german-verb-flash-cards/8450",
+      "https://de.slideshare.net/slideshow/nadin-dring/8608",
+      "https://de.slideshare.net/bigfellow/what-do-you-see",
+      "https://de.slideshare.net/mebner/einfuehrung-in-das-bau-und-vermessungwesen"
     ]
   },
   "mega.co.nz": {
-    "lastAt": 1757611346395,
+    "lastAt": 1757961369722,
     "urls": [
       "https://mega.co.nz/"
     ]
   },
   "beian.gov.cn": {
-    "lastAt": 1757611351384,
+    "lastAt": 1757961374738,
     "urls": []
   },
   "dns-parking.com": {
-    "lastAt": 1757611354418,
+    "lastAt": 1757961377807,
     "urls": []
   },
   "timeweb.ru": {
-    "lastAt": 1757611357507,
+    "lastAt": 1757961381172,
     "urls": [
       "https://timeweb.ru/"
     ]
   },
   "eventbrite.com": {
-    "lastAt": 1757611365005,
+    "lastAt": 1757961388614,
     "urls": [
       "https://eventbrite.com/",
       "https://www.eventbrite.com/d/pa--blairsville/singles/",
