@@ -4364,7 +4364,7 @@
     "urls": []
   },
   "dnsmadeeasy.com": {
-    "lastAt": 1757608068156,
+    "lastAt": 1757956743359,
     "urls": [
       "https://dnsmadeeasy.com/resources/unlock-the-power-of-dns-txt-records",
       "https://dnsmadeeasy.com/resources/subnet-mask-cheat-sheet",
@@ -4375,15 +4375,25 @@
       "https://dnsmadeeasy.com/resources/advanced-dns-troubleshooting-with-windows-command-prompt-and-powershell",
       "https://dnsmadeeasy.com/resources/what-is-dns-forwarding",
       "https://dnsmadeeasy.com/resources/securing-the-foundations-the-critical-role-of-dns-for-banks-and-financial-organizations",
-      "https://dnsmadeeasy.com/resources/what-is-a-vpn"
+      "https://dnsmadeeasy.com/resources/what-is-a-vpn",
+      "https://dnsmadeeasy.com/resources/what-is-a-dns-zone",
+      "https://dnsmadeeasy.com/resources/guide-to-understanding-dns-record-types",
+      "https://dnsmadeeasy.com/resources/what-is-dns-hosting",
+      "https://dnsmadeeasy.com/resources/dnssec-explained-security-for-domains",
+      "https://dnsmadeeasy.com/resources/dns-propagation-troubleshooting-domain-connection-issues",
+      "https://dnsmadeeasy.com/resources/streamlining-dns-management-for-cost-savings-with-digicert-dns-trust-manager",
+      "https://dnsmadeeasy.com/resources/understanding-the-key-differences-between-authoritative-dns-and-recursive-dns",
+      "https://dnsmadeeasy.com/resources/global-dns-network-benefits",
+      "https://dnsmadeeasy.com/resources/what-is-primary-dns",
+      "https://dnsmadeeasy.com/resources/dns-propagation-why-doesnt-my-domain-work"
     ]
   },
   "sfx.ms": {
-    "lastAt": 1757608071056,
+    "lastAt": 1757956746311,
     "urls": []
   },
   "ngenix.net": {
-    "lastAt": 1757608080315,
+    "lastAt": 1757956753744,
     "urls": [
       "https://ngenix.net/",
       "https://ngenix.net/company/",
@@ -4394,33 +4404,43 @@
       "https://ngenix.net/ecp/video-streaming/",
       "https://ngenix.net/ecp/active-health-check/",
       "https://ngenix.net/ecp/dns/",
-      "https://ngenix.net/ecp/cdn/"
+      "https://ngenix.net/ecp/cdn/",
+      "https://ngenix.net/cookie-policy/",
+      "https://ngenix.net/ecp/image-optimization/",
+      "https://ngenix.net/ecp/access-control/",
+      "https://ngenix.net/ecp/ssl/",
+      "https://ngenix.net/pricing/compare/",
+      "https://ngenix.net/ecp/cloud-waf/",
+      "https://ngenix.net/ecp/bot-management/",
+      "https://ngenix.net/career/",
+      "https://ngenix.net/press/",
+      "https://ngenix.net/pricing/"
     ]
   },
   "kwai.net": {
-    "lastAt": 1757608139168,
+    "lastAt": 1757956812604,
     "urls": []
   },
   "foxnews.com": {
-    "lastAt": 1757608145187,
+    "lastAt": 1757956818039,
     "urls": [
       "https://foxnews.com/"
     ]
   },
   "avcdn.net": {
-    "lastAt": 1757608148478,
+    "lastAt": 1757956821129,
     "urls": []
   },
   "tiktokv.eu": {
-    "lastAt": 1757608152331,
+    "lastAt": 1757956824209,
     "urls": []
   },
   "qlivecdn.com": {
-    "lastAt": 1757608155817,
+    "lastAt": 1757956827328,
     "urls": []
   },
   "teamviewer.com": {
-    "lastAt": 1757608178872,
+    "lastAt": 1757956850374,
     "urls": [
       "https://www.teamviewer.cn/cn/",
       "https://www.teamviewer.cn/cn/global/",
@@ -4430,15 +4450,24 @@
       "https://www.teamviewer.cn/cn/enterprise/",
       "https://www.teamviewer.cn/cn/global/company/press/",
       "https://www.teamviewer.cn/cn/global/company/press/2018/",
-      "https://www.teamviewer.cn/cn/global/company/investors/"
+      "https://www.teamviewer.cn/cn/global/company/investors/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-now-integrated-freshservice-freshdesk/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-releases-major-spring-feature-update/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-is-now-integrated-into-ptcs-thingworx/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-launches-new-global-channel-partner-programme-accelerate-growth-profitability/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-supports-remote-access-synology-nas-devices/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-integrates-microsoft-dynamics-365/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-adds-new-feature-blizz-dedicated-online-meeting-web-conferencing-solution/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-reaffirms-commitment-japan-opening-first-tokyo-based-office/",
+      "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-appoints-karl-markgraf-as-cio/"
     ]
   },
   "amazon.de": {
-    "lastAt": 1757608183992,
+    "lastAt": 1757956856764,
     "urls": []
   },
   "duolingo.com": {
-    "lastAt": 1757608187566,
+    "lastAt": 1757956861727,
     "urls": [
       "https://www.duolingo.com/course/ar/en/Learn-Arabic",
       "https://duolingo.com/",
@@ -4448,11 +4477,20 @@
       "https://www.duolingo.com/course/el/en/Learn-Greek",
       "https://www.duolingo.com/course/de/en/Learn-German",
       "https://www.duolingo.com/course/en/en/Learn-English",
-      "https://www.duolingo.com/course/eo/en/Learn-Esperanto"
+      "https://www.duolingo.com/course/eo/en/Learn-Esperanto",
+      "https://www.duolingo.com/course/es/en/Learn-Spanish",
+      "https://www.duolingo.com/course/fi/en/Learn-Finnish",
+      "https://www.duolingo.com/course/ga/en/Learn-Irish",
+      "https://www.duolingo.com/course/fr/en/Learn-French",
+      "https://www.duolingo.com/course/gd/en/Learn-Scottish-Gaelic",
+      "https://www.duolingo.com/course/he/en/Learn-Hebrew",
+      "https://www.duolingo.com/course/hi/en/Learn-Hindi",
+      "https://www.duolingo.com/course/ht/en/Learn-Haitian-Creole",
+      "https://www.duolingo.com/course/hu/en/Learn-Hungarian"
     ]
   },
   "plesk.com": {
-    "lastAt": 1757608200525,
+    "lastAt": 1757956876137,
     "urls": [
       "https://www.plesk.com/blog/product-technology/schedule-automatic-backups-cloud-storage/",
       "https://www.plesk.com/blog/product-technology/my-plesk-user-experience-1-easy-starts-common-issues/",
@@ -4463,21 +4501,31 @@
       "https://www.plesk.com/blog/plesk-news-announcements/plesk-12-0-and-plesk-12-5-reach-eol/",
       "https://www.plesk.com/blog/product-technology/my-plesk-user-experience-2-lessons-learned-testing-plesk-onyx/",
       "https://www.plesk.com/blog/various/server-ddos-protection-need-know-best-techniques/",
-      "https://www.plesk.com/blog/plesk-news-announcements/thanks-2018-year-review-video/"
+      "https://www.plesk.com/blog/plesk-news-announcements/thanks-2018-year-review-video/",
+      "https://www.plesk.com/blog/learning/become-plesk-support-engineer/",
+      "https://www.plesk.com/blog/plesk-news-announcements/plesk-lifecycle-policy-update/",
+      "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-november/",
+      "https://www.plesk.com/blog/business-industry/what-can-go-wrong-without-best-hosting-platform/",
+      "https://www.plesk.com/blog/security-alerts/automate-server-protection-imunify-products-family/",
+      "https://www.plesk.com/blog/various/scalability-in-cloud-hosting/",
+      "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-3-decentralized-cloud-storage/",
+      "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-2-masternodes-enterprise-hosting/",
+      "https://www.plesk.com/blog/security-alerts/partner-sucuri-saves-val-from-hacking/",
+      "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-1-hosters-cloud-providers-plesk/"
     ]
   },
   "online-metrix.net": {
-    "lastAt": 1757608203413,
+    "lastAt": 1757956879079,
     "urls": []
   },
   "telegram.me": {
-    "lastAt": 1757608205190,
+    "lastAt": 1757956881420,
     "urls": [
       "https://telegram.me/"
     ]
   },
   "cnbc.com": {
-    "lastAt": 1757608215464,
+    "lastAt": 1757956891864,
     "urls": [
       "https://cnbc.com/",
       "https://www.cnbc.com/asia-markets/",
@@ -4488,23 +4536,33 @@
       "https://www.cnbc.com/supply-chain-management/",
       "https://www.cnbc.com/asia-news/",
       "https://www.cnbc.com/energy/",
-      "https://www.cnbc.com/europe-economy/"
+      "https://www.cnbc.com/europe-economy/",
+      "https://www.cnbc.com/latest/",
+      "https://www.cnbc.com/2025/09/15/5-fintechs-that-could-ipo-after-klarna.html",
+      "https://www.cnbc.com/europe-politics/",
+      "https://www.cnbc.com/alibaba-gateway/",
+      "https://www.cnbc.com/cnbc-latest-video-news--cnbc/",
+      "https://www.cnbc.com/us-news/",
+      "https://www.cnbc.com/technology-video/",
+      "https://www.cnbc.com/latest-video/",
+      "https://www.cnbc.com/europe-video/",
+      "https://www.cnbc.com/asia-video/"
     ]
   },
   "mcafee.com": {
-    "lastAt": 1757608284271,
+    "lastAt": 1757956960674,
     "urls": []
   },
   "firetvcaptiveportal.com": {
-    "lastAt": 1757608343081,
+    "lastAt": 1757957019483,
     "urls": []
   },
   "imcmdb.net": {
-    "lastAt": 1757608401898,
+    "lastAt": 1757957078298,
     "urls": []
   },
   "zendesk.com": {
-    "lastAt": 1757608405111,
+    "lastAt": 1757957083922,
     "urls": [
       "https://www.zendesk.com/marketplace/",
       "https://www.zendesk.com/marketplace/partners/",
@@ -4515,11 +4573,21 @@
       "https://www.zendesk.com/marketplace/apps/support/170176/quickie/",
       "https://www.zendesk.com/marketplace/apps/sell/849563/whatsapp-connector-for-sell-by-respira/",
       "https://www.zendesk.com/marketplace/apps/support/849563/whatsapp-connector-by-respira/",
-      "https://www.zendesk.com/marketplace/apps/support/1076286/calendar/"
+      "https://www.zendesk.com/marketplace/apps/support/1076286/calendar/",
+      "https://www.zendesk.com/marketplace/apps/support/24475/jira/",
+      "https://www.zendesk.com/marketplace/apps/support/120364/import--help-desk-migration/",
+      "https://www.zendesk.com/marketplace/apps/support/105600/split-n-close/",
+      "https://www.zendesk.com/marketplace/apps/support/102131/download-all-attachments/",
+      "https://www.zendesk.com/marketplace/apps/support/257891/ticket-pdf-download/",
+      "https://www.zendesk.com/marketplace/apps/support/190090/bulk-user-export/",
+      "https://www.zendesk.com/marketplace/apps/support/833704/attentive/",
+      "https://www.zendesk.com/marketplace/apps/support/976803/hide-ticket-fields/",
+      "https://www.zendesk.com/marketplace/apps/support/976805/notify/",
+      "https://www.zendesk.com/marketplace/apps/support/849231/stylo-assist/"
     ]
   },
   "goodreads.com": {
-    "lastAt": 1757608411510,
+    "lastAt": 1757957091182,
     "urls": [
       "https://goodreads.com/",
       "https://www.goodreads.com/author/show/3.W_Frederick_Zimmerman",
@@ -4530,21 +4598,31 @@
       "https://www.goodreads.com/author/show/14.Mark_Watson",
       "https://www.goodreads.com/author/show/17.Luther_Butler",
       "https://www.goodreads.com/author/show/4.Douglas_Adams",
-      "https://www.goodreads.com/author/show/16.Edith_Wharton"
+      "https://www.goodreads.com/author/show/16.Edith_Wharton",
+      "https://www.goodreads.com/author/show/21.Marc_R_Schloss",
+      "https://www.goodreads.com/author/show/20.Dale_Peck",
+      "https://www.goodreads.com/author/show/18.Gary_Paulsen",
+      "https://www.goodreads.com/author/show/23.Angela_Knight",
+      "https://www.goodreads.com/author/show/24.Delia_Sherman",
+      "https://www.goodreads.com/author/show/25.Patricia_A_McKillip",
+      "https://www.goodreads.com/author/show/27.Zilpha_Keatley_Snyder",
+      "https://www.goodreads.com/author/show/26.Anne_McCaffrey",
+      "https://www.goodreads.com/author/show/28.Ian_Lemke",
+      "https://www.goodreads.com/author/show/29.Kate_Horsley"
     ]
   },
   "walmart.com": {
-    "lastAt": 1757608426416,
+    "lastAt": 1757957108361,
     "urls": [
       "https://walmart.com/"
     ]
   },
   "b-msedge.net": {
-    "lastAt": 1757608429291,
+    "lastAt": 1757957111260,
     "urls": []
   },
   "cookiedatabase.org": {
-    "lastAt": 1757608435478,
+    "lastAt": 1757957116975,
     "urls": [
       "https://cookiedatabase.org/sitemap.html",
       "https://cookiedatabase.org/service/404-solution/",
@@ -4555,23 +4633,33 @@
       "https://cookiedatabase.org/service/addthis/",
       "https://cookiedatabase.org/service/addtoany/",
       "https://cookiedatabase.org/service/adform/",
-      "https://cookiedatabase.org/service/adkernel/"
+      "https://cookiedatabase.org/service/adkernel/",
+      "https://cookiedatabase.org/service/admin/",
+      "https://cookiedatabase.org/service/adobe-marketing-cloud/",
+      "https://cookiedatabase.org/service/adobefonts/",
+      "https://cookiedatabase.org/service/adobe-analytics/",
+      "https://cookiedatabase.org/service/adobeexperiencecloud/",
+      "https://cookiedatabase.org/service/adroll/",
+      "https://cookiedatabase.org/service/adthrive/",
+      "https://cookiedatabase.org/service/advanced-ads/",
+      "https://cookiedatabase.org/service/advanced-custom-fields/",
+      "https://cookiedatabase.org/service/adyen/"
     ]
   },
   "g.page": {
-    "lastAt": 1757608437254,
+    "lastAt": 1757957117856,
     "urls": [
       "https://g.page/"
     ]
   },
   "indexww.com": {
-    "lastAt": 1757608438636,
+    "lastAt": 1757957119418,
     "urls": [
       "https://indexww.com/"
     ]
   },
   "calendly.com": {
-    "lastAt": 1757608442554,
+    "lastAt": 1757957124364,
     "urls": [
       "https://calendly.com/solutions/financial-services",
       "https://calendly.com/notetaker",
@@ -4582,17 +4670,27 @@
       "https://calendly.com/solutions/revenue-operations",
       "https://calendly.com/features",
       "https://calendly.com/solutions/small-business",
-      "https://calendly.com/solutions/individuals"
+      "https://calendly.com/solutions/individuals",
+      "https://calendly.com/",
+      "https://calendly.com/solutions/sales",
+      "https://calendly.com/scheduling/automated-communication",
+      "https://calendly.com/features/browser-extensions",
+      "https://calendly.com/scheduling",
+      "https://calendly.com/pricing",
+      "https://calendly.com/solutions/enterprise",
+      "https://calendly.com/security",
+      "https://calendly.com/solutions/financial-services/insurance",
+      "https://calendly.com/solutions/financial-services/asset-management"
     ]
   },
   "taobao.com": {
-    "lastAt": 1757608447482,
+    "lastAt": 1757957128482,
     "urls": [
       "https://taobao.com/"
     ]
   },
   "npr.org": {
-    "lastAt": 1757608516288,
+    "lastAt": 1757957197291,
     "urls": []
   },
   "statista.com": {
@@ -23628,5 +23726,15 @@
       "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/overview",
       "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawl-budget"
     ]
+  },
+  "ispot.tv": {
+    "lastAt": 1757957202680,
+    "urls": [
+      "https://ispot.tv/"
+    ]
+  },
+  "sacdnssedge.com": {
+    "lastAt": 1757957205803,
+    "urls": []
   }
 }

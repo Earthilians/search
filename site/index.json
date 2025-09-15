@@ -77313,5 +77313,698 @@
     "title": "DuckDuckGo New !Bang",
     "description": "Submit a new !bang to DuckDucGo, or update an existing !bang.",
     "text": ""
+  },
+  {
+    "id": "00f65db7ebb03b05c9b4e641259896aabc9a89a0",
+    "url": "https://dnsmadeeasy.com/resources/what-is-a-dns-zone",
+    "title": "What is a DNS Zone?",
+    "description": "Learn about DNS zones, zone files, and types like primary, secondary, and stub zones. Understand how",
+    "text": "BLOG\n‍The domain name system (DNS) is separated into several zones. Each zone is meant to differenti"
+  },
+  {
+    "id": "155cf099bdcde3ba3dbe636fde49001dc5db58b4",
+    "url": "https://dnsmadeeasy.com/resources/guide-to-understanding-dns-record-types",
+    "title": "Guide to Understanding DNS Record Types",
+    "description": "Understand DNS record types like A, AAAA, MX, CNAME, and more. Learn how they power the internet and",
+    "text": "BLOG\nIn the vast landscape of the internet, where billions of devices communicate with each other, t"
+  },
+  {
+    "id": "208c8debff13e690adea0b6a9876c6e760821cf0",
+    "url": "https://dnsmadeeasy.com/resources/what-is-dns-hosting",
+    "title": "What is DNS Hosting",
+    "description": "Understand the difference between DNS and DNS hosting. Learn why premium DNS offers better speed, re",
+    "text": "BLOG\nIf you’re confused about this topic or want to learn more about DNS in general, keep reading!\nD"
+  },
+  {
+    "id": "019b1bc6959351a3b95119f2c7c086aa2739c71d",
+    "url": "https://dnsmadeeasy.com/resources/dnssec-explained-security-for-domains",
+    "title": "DNSSEC Explained: Security for Domains",
+    "description": "Secure your domain with DNSSEC, protecting against spoofing and hijacking. Learn how cryptographic s",
+    "text": "BLOG\nThe domain name system (DNS) is one of those technologies that no one really thinks about—unles"
+  },
+  {
+    "id": "ce3fad3043ec0af66988a512b5389297564a71aa",
+    "url": "https://dnsmadeeasy.com/resources/dns-propagation-troubleshooting-domain-connection-issues",
+    "title": "DNS Propagation: Troubleshooting Domain Connection Issues",
+    "description": "Resolve DNS propagation delays with smart troubleshooting. Learn how TTL settings, caching, and DNS ",
+    "text": "BLOG\nHave you encountered difficulties with your domain not functioning as expected after making cha"
+  },
+  {
+    "id": "b296d59bb090eca41e28b06e496986bfb3d5bdfe",
+    "url": "https://dnsmadeeasy.com/resources/streamlining-dns-management-for-cost-savings-with-digicert-dns-trust-manager",
+    "title": "Streamlining DNS Management for Cost Savings with DNS Made Easy",
+    "description": "Optimize DNS management with DNS Made Easy to cut costs, enhance security, and improve efficiency. S",
+    "text": "BLOG\nOptimizing operations and reducing costs are paramount for organizations in today’s competitive"
+  },
+  {
+    "id": "b31d862ab4e3c7f0bc8092dd10e9ebd5f79047d5",
+    "url": "https://dnsmadeeasy.com/resources/understanding-the-key-differences-between-authoritative-dns-and-recursive-dns",
+    "title": "Understanding the Key Differences Between Authoritative DNS and Recursive DNS",
+    "description": "Explore the differences between authoritative and recursive DNS, why authoritative DNS matters, and ",
+    "text": "BLOG\nIn the vast networking and domain management landscape, the Domain Name System (DNS) plays a cr"
+  },
+  {
+    "id": "e94cc33e4d51b8b3061dacb21e6bfbc0393e7fc5",
+    "url": "https://dnsmadeeasy.com/resources/global-dns-network-benefits",
+    "title": "Global DNS Network Benefits",
+    "description": "Learn how a global DNS network improves speed, reliability, and resilience—ensuring users can access",
+    "text": "BLOG\nOnline availability and speed aren’t just nice to have—they’re essential. Whether you’re servin"
+  },
+  {
+    "id": "6b55228af33f81824cd3231470d2b04cca4892d7",
+    "url": "https://dnsmadeeasy.com/resources/what-is-primary-dns",
+    "title": "What is Primary DNS?",
+    "description": "Ensure maximum uptime and performance with DNS Made Easy. Get reliable Primary DNS, built-in redunda",
+    "text": "BLOG\nEvery time a person accesses the Internet and types an address or search term into their browse"
+  },
+  {
+    "id": "4b2f664be05fc4e9378ceacf3d577a5fd5dd72ad",
+    "url": "https://dnsmadeeasy.com/resources/dns-propagation-why-doesnt-my-domain-work",
+    "title": "DNS Propagation: Why Doesn’t My Domain Work?",
+    "description": "Avoid downtime and DNS errors with DNS Made Easy—reliable DNS management, smart routing, and faster ",
+    "text": "BLOG\nThe Domain Name System (DNS) is what makes the internet go ‘round. Without it, websites, email,"
+  },
+  {
+    "id": "ce19dd6e836fa6cac42d83df88dce7d445bc2d34",
+    "url": "https://ngenix.net/cookie-policy/",
+    "title": "Политика NGENIX в отношении файлов cookie",
+    "description": "При использовании веб-сайта пользователь подтверждает свое согласие на использование файлов cookie в",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\n1.1."
+  },
+  {
+    "id": "af99475e651fbb299367c487e1415a91d9da1755",
+    "url": "https://ngenix.net/ecp/image-optimization/",
+    "title": "Оптимизация изображений | NGENIX",
+    "description": "Преобразование изображений в формат WebP и сжатие изображений на 30%. Ускорение загрузки страниц. Ул",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nУлуч"
+  },
+  {
+    "id": "76db71c75f3f2cfcc761f44232ebe3e71c80bd16",
+    "url": "https://ngenix.net/ecp/access-control/",
+    "title": "Управление доступом к данным | NGENIX",
+    "description": "Проверка запросов к сайту по 25+ критериям. Блокировка по IP, геопризнаку, признакам бот-активности ",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nНаст"
+  },
+  {
+    "id": "16f3cc9253f63b136d00bb634113c1222cb016f1",
+    "url": "https://ngenix.net/ecp/ssl/",
+    "title": "SSL | NGENIX",
+    "description": "Управление SSL-сертификатами и безопасное хранение сертификатов в зашифрованном виде. Поддержка ГОСТ",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nПовы"
+  },
+  {
+    "id": "773a0a571785d5f4a569d2ae1798e0814b0eb8c2",
+    "url": "https://ngenix.net/pricing/compare/",
+    "title": "Сравнить тарифы NGENIX",
+    "description": "Защита от DDoS, защита от ботов, WAF, защита DNS, ускорение и доступность сайта. Сравните тарифы NGE",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nЧем "
+  },
+  {
+    "id": "ad3bfc7208866fc6d9b5392cce84de59b85894a1",
+    "url": "https://ngenix.net/ecp/cloud-waf/",
+    "title": "Облачный WAF | NGENIX",
+    "description": "Защита от взлома и эксплуатации уязвимостей. Облачный WAF, интегрированный в эшелонированную систему",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nЗащи"
+  },
+  {
+    "id": "790c244123959a57efcbd301794d93df34410d86",
+    "url": "https://ngenix.net/ecp/bot-management/",
+    "title": "Защита от ботов | NGENIX",
+    "description": "Анализ и профилирование трафика. Защита от парсеров, смс-бомберов и других вредоносных ботов. Блокир",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nЗабл"
+  },
+  {
+    "id": "06e7ebb7efff4b3e542feed3a7610b05b0fa9736",
+    "url": "https://ngenix.net/career/",
+    "title": "Карьера в NGENIX",
+    "description": "Открытые вакансии и развитие карьеры в NGENIX. Присоединяйся к команде, которая помогает Рунету рабо",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nFron"
+  },
+  {
+    "id": "2bcabe3645ef2a3756cb62ef17b1b2a416cefb50",
+    "url": "https://ngenix.net/press/",
+    "title": "Пресса о нас – NGENIX",
+    "description": "Статьи и публикации в СМИ о компании NGENIX – обзоры решений, экспертные мнения, интересные кейсы и ",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nЧем "
+  },
+  {
+    "id": "289637320d10051400e72e81b1f6356e29ba3fac",
+    "url": "https://ngenix.net/pricing/",
+    "title": "Тарифы NGENIX",
+    "description": "Защита от DDoS, защита от ботов, WAF, отказоустойчивый DNS, ускорение и доступность сайта. Выберите ",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nМожн"
+  },
+  {
+    "id": "5620f330c9d13d83f73cfcc44f27404720dea883",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-now-integrated-freshservice-freshdesk/",
+    "title": "TeamViewer Now Integrated with Freshservice and Freshdesk",
+    "description": "",
+    "text": "2018年4月10日\nLondon, UK, April 10th, 2018 – TeamViewer®, a leading global software provider for IoT, c"
+  },
+  {
+    "id": "bfc28e30b28d4537aefcbc8c92275177169448d8",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-releases-major-spring-feature-update/",
+    "title": "TeamViewer releases major spring feature update",
+    "description": "",
+    "text": "2018年3月20日\nLondon, UK, March 20th, 2018 – TeamViewer®, a leading global software provider for IoT, c"
+  },
+  {
+    "id": "ee313372042869843922e3c2902283b9a4ae2d06",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-is-now-integrated-into-ptcs-thingworx/",
+    "title": "TeamViewer is Now Integrated into PTC’s ThingWorx®",
+    "description": "",
+    "text": "2018年5月8日\nLondon, UK, May 8, 2018 – TeamViewer®, a leading global software provider for IoT, connect"
+  },
+  {
+    "id": "b387d52573a3d78faeb75d154cf62c52d326b63a",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-launches-new-global-channel-partner-programme-accelerate-growth-profitability/",
+    "title": "TeamViewer launches new global channel partner programme to accelerate growth and profitability",
+    "description": "",
+    "text": "2018年2月22日\nLondon, UK, 22nd February 2018 – TeamViewer®, a leading global software provider for IoT,"
+  },
+  {
+    "id": "e0c25ec86869840ebfae41ee99c680ea3e1b21c5",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-supports-remote-access-synology-nas-devices/",
+    "title": "TeamViewer Supports Remote Access to Synology NAS Devices",
+    "description": "",
+    "text": "2018年5月22日\nLondon, UK, May 22, 2018 – TeamViewer®, a leading global software provider for IoT, conne"
+  },
+  {
+    "id": "2c3ecc2d761f0d2d396ae47a379a2f185f671709",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-integrates-microsoft-dynamics-365/",
+    "title": "TeamViewer Integrates with Microsoft Dynamics 365",
+    "description": "",
+    "text": "2018年5月23日\nLondon, UK, May 23, 2018 – TeamViewer®, a leading global software provider for IoT, conne"
+  },
+  {
+    "id": "0ee7bd8ac32c2821dfdacb7f96647ac19c2798d2",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-adds-new-feature-blizz-dedicated-online-meeting-web-conferencing-solution/",
+    "title": "TeamViewer Adds New Feature to Blizz, its Dedicated Online Meeting and Web Conferencing Solution",
+    "description": "",
+    "text": "2018年6月13日\nLondon, UK, June 13, 2018 – TeamViewer®, a leading global software provider for IoT, conn"
+  },
+  {
+    "id": "086ecd27f0cd62f594cd0ff3290accd6290ecac1",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-reaffirms-commitment-japan-opening-first-tokyo-based-office/",
+    "title": "TeamViewer reaffirms its commitment to Japan by opening its first Tokyo-based office",
+    "description": "",
+    "text": "2018年5月30日\nTokyo, May 30 2018 – TeamViewer®, a leading global software provider for IoT, connectivit"
+  },
+  {
+    "id": "f83bbddd7d71973712fcd9472d0fb403022282b9",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-appoints-karl-markgraf-as-cio/",
+    "title": "TeamViewer appoints Karl Markgraf as CIO",
+    "description": "",
+    "text": "2018年6月19日\nGöppingen, June 19, 2018 – TeamViewer®, leading global software provider for IoT, connect"
+  },
+  {
+    "id": "0305aaa7ed46e6e84151b7a583601a3cbadd8afb",
+    "url": "https://www.duolingo.com/course/es/en/Learn-Spanish",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Spanish with bite-size lessons based ",
+    "text": ""
+  },
+  {
+    "id": "d52a140c635d954409f0eb008139b8269c92f0f8",
+    "url": "https://www.duolingo.com/course/fi/en/Learn-Finnish",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Finnish with bite-size lessons based ",
+    "text": ""
+  },
+  {
+    "id": "13eb8db49986a10cee4ac4a356d88f94260a4c24",
+    "url": "https://www.duolingo.com/course/ga/en/Learn-Irish",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Irish with bite-size lessons based on",
+    "text": ""
+  },
+  {
+    "id": "26c6ed217f097afb608a40804b6778ed6e9ffbf9",
+    "url": "https://www.duolingo.com/course/fr/en/Learn-French",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn French with bite-size lessons based o",
+    "text": ""
+  },
+  {
+    "id": "6d28e1fadabb6e1500833a19180fd1182a73134e",
+    "url": "https://www.duolingo.com/course/gd/en/Learn-Scottish-Gaelic",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Scottish Gaelic with bite-size lesson",
+    "text": ""
+  },
+  {
+    "id": "fd28978c2e1dae3ec0f7e1926eb004584d429569",
+    "url": "https://www.duolingo.com/course/he/en/Learn-Hebrew",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Hebrew with bite-size lessons based o",
+    "text": ""
+  },
+  {
+    "id": "3433bd75ed63bc15b9c6c02e27b2286da881b3ef",
+    "url": "https://www.duolingo.com/course/hi/en/Learn-Hindi",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Hindi with bite-size lessons based on",
+    "text": ""
+  },
+  {
+    "id": "844ba18efb1edb57edcbafa0a658b4c5c8e70873",
+    "url": "https://www.duolingo.com/course/ht/en/Learn-Haitian-Creole",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Haitian Creole with bite-size lessons",
+    "text": ""
+  },
+  {
+    "id": "a6d3adc43c91ee62a3ab831ecf9026923c03f0e1",
+    "url": "https://www.duolingo.com/course/hu/en/Learn-Hungarian",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Hungarian with bite-size lessons base",
+    "text": ""
+  },
+  {
+    "id": "59ab8def37d0e9e02e6270c91f34c397f403e274",
+    "url": "https://www.plesk.com/blog/learning/become-plesk-support-engineer/",
+    "title": "How to become a Plesk Support Engineer - Plesk Team",
+    "description": "Here's the process of how we onboard our Plesk Support Engineers. Interested in joining as a Plesk h",
+    "text": "See all Extensions\nSo, you applied to become a Plesk Support Engineer and after a series of intervie"
+  },
+  {
+    "id": "d4f642ea5d6883ef81fb189eecebf8bfd6d993ed",
+    "url": "https://www.plesk.com/blog/plesk-news-announcements/plesk-lifecycle-policy-update/",
+    "title": "Plesk stops providing updates and patches for instances running on non-supported operating systems -",
+    "description": "",
+    "text": "See all Extensions\nAccording to the Plesk lifecycle policy, Plesk only provides software patches and"
+  },
+  {
+    "id": "11ae707a8f2d6621c2f168aa10c17da5f33e748e",
+    "url": "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-november/",
+    "title": "Hosting News of the month: November | Latest Plesk News",
+    "description": "We’re looking at the significant updates and developments from the hosting industry reported in Nove",
+    "text": "See all Extensions\nIn our latest edition of web hosting news, we see which city has the largest data"
+  },
+  {
+    "id": "8cc79c4fc2b2bc3a558cfb1b9d650ea5b83f491d",
+    "url": "https://www.plesk.com/blog/business-industry/what-can-go-wrong-without-best-hosting-platform/",
+    "title": "What can go wrong without the best web hosting platform? - Plesk",
+    "description": "With 30,000 websites hacked every day, picking the best web hosting platform to protect your server ",
+    "text": "See all Extensions\nWithout the right host for your website, a lot can go wrong for your business. Re"
+  },
+  {
+    "id": "6d140c0d8da8d4e36184a073cb1e13f60c08011d",
+    "url": "https://www.plesk.com/blog/security-alerts/automate-server-protection-imunify-products-family/",
+    "title": "How to automate server protection with the Imunify Products Family - Plesk",
+    "description": "Here's why the Imunify Products Family is your one-stop solution for all your server security needs.",
+    "text": "See all Extensions\nRunning a web hosting business is … challenging. You need to host sites implement"
+  },
+  {
+    "id": "b0e1d6c38ffd5661ee6f511d4cefc3013fa03191",
+    "url": "https://www.plesk.com/blog/various/scalability-in-cloud-hosting/",
+    "title": "All about Scalability in cloud hosting - Plesk Stories",
+    "description": "What kind of impact did scalability in cloud hosting have on the world? See what kind of options it ",
+    "text": "See all Extensions\nWebsites used to be simple, as was hosting them. There was no such thing as scala"
+  },
+  {
+    "id": "0fb6725693f73dac0162f929959c2be293921339",
+    "url": "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-3-decentralized-cloud-storage/",
+    "title": "Hidden Blockchain Opportunities (3): Decentralized Cloud Storage - Plesk",
+    "description": "Blockchain Series Part 3 of 3: Lukas Hertig talks about Decentralized Cloud Storage opportunities fo",
+    "text": "See all Extensions\nDecentralized Cloud Storage is one use case that’s growing very fast and aims to "
+  },
+  {
+    "id": "89e90c82b0e9ad1773574d8c8bb05fa44ff8c04f",
+    "url": "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-2-masternodes-enterprise-hosting/",
+    "title": "Hidden Blockchain Opportunities (2): Masternodes & Enterprise Hosting",
+    "description": "Blockchain Opportunities Series Part 2 of 3: Lukas Hertig talks about the Masternodes and Enterprise",
+    "text": "See all Extensions\nIf you remember the concept of “Proof of Stake” (e.g. no “mining” with special ha"
+  },
+  {
+    "id": "9d60ed8e8ef71f2fae4c5d191cf40b4a14a70c4e",
+    "url": "https://www.plesk.com/blog/security-alerts/partner-sucuri-saves-val-from-hacking/",
+    "title": "Plesk partner Sucuri saves Val from hacking ordeal #WCSEA - Plesk",
+    "description": "",
+    "text": "See all Extensions\nValentin Vesa is part of the great Sucuri team, the widely-used website security "
+  },
+  {
+    "id": "5250bcfc2dbb125d7ce1deba5d2c695dbb8c0c3d",
+    "url": "https://www.plesk.com/blog/product-technology/hidden-blockchain-opportunities-1-hosters-cloud-providers-plesk/",
+    "title": "Hidden Blockchain Opportunities (1): Hosters, Cloud Providers & Plesk",
+    "description": "Blockchain Series Part 1 of 3: Lucas Hertig talks about hidden Blockchain opportunities at different",
+    "text": "See all Extensions\nCryptocurrencies lost a chunk of their value in the last nine months – and I lost"
+  },
+  {
+    "id": "9b52e3fac1b51a235c6c1aed8e1a900101abbfc2",
+    "url": "https://www.cnbc.com/latest/",
+    "title": "Latest News",
+    "description": "Read the latest business headlines and today's market news coverage from CNBC.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "dcc9679ccc721560adb9aaaf5ccae62c9e1dab87",
+    "url": "https://www.cnbc.com/2025/09/15/5-fintechs-that-could-ipo-after-klarna.html",
+    "title": "5 fintechs that could IPO after Klarna",
+    "description": "Klarna's bumper IPO has got investors wondering about which fintech names could be next to go public",
+    "text": "In this article\nAfter Swedish payments group Klarna's $17 billion initial public offering, investors"
+  },
+  {
+    "id": "b666e040991a22e50086e6f231f60608457c394c",
+    "url": "https://www.cnbc.com/europe-politics/",
+    "title": "European Politics and Elections",
+    "description": "The latest on European and EU politics, elections and political parties.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "d3650ecd48c0a7ebdd7dec9e3a0cd791bd2e6591",
+    "url": "https://www.cnbc.com/alibaba-gateway/",
+    "title": "Alibaba Gateway",
+    "description": "Alibaba Group Holding Limited is a holding company. Through its subsidiaries, the Company is engaged",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "0e6812a6543900c8c4014e6b5cf11c534cf822f3",
+    "url": "https://www.cnbc.com/cnbc-latest-video-news--cnbc/",
+    "title": "CNBC Latest Video News — CNBC",
+    "description": "autoplay",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "ce719ab6d43a914efcddf88e6bf2b16de1c6773a",
+    "url": "https://www.cnbc.com/us-news/",
+    "title": "U.S. Latest Business and Regional News - CNBC",
+    "description": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining t",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "5b394a6e04f87a6da73fc96a38d2057815e301f3",
+    "url": "https://www.cnbc.com/technology-video/",
+    "title": "Technology: Video",
+    "description": "Technology: Video",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "b6d2ce055bf61e55af80d272c30787bbe9784af7",
+    "url": "https://www.cnbc.com/latest-video/",
+    "title": "CNBC Latest Video News & Clips",
+    "description": "View our CNBC video gallery to find news clips on the stock market and more! Play live videos and fi",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "8a73d4c0ef24bedd6653fb5a7a872b8742584167",
+    "url": "https://www.cnbc.com/europe-video/",
+    "title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "b21359390ecb7cb7898cd87496d0d0d7648ca999",
+    "url": "https://www.cnbc.com/asia-video/",
+    "title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "9fe462b6772efd5d80c6f2e12386f5a20214c745",
+    "url": "https://www.zendesk.com/marketplace/apps/support/24475/jira/",
+    "title": "JIRA App Integration with Zendesk Support",
+    "description": "Integrate the JIRA app into Zendesk Support. Unite your support and engineering teams",
+    "text": "Unite your support and engineering teams\nApps install directly into your account\nFind out what it ta"
+  },
+  {
+    "id": "c11b07d5df7430b918e83c90e8bc9edadf4a7373",
+    "url": "https://www.zendesk.com/marketplace/apps/support/120364/import--help-desk-migration/",
+    "title": "Import | Help Desk Migration App Integration with Zendesk Support",
+    "description": "Integrate the Import | Help Desk Migration app into Zendesk Support. Use our Zendesk migration tool ",
+    "text": "Use our Zendesk migration tool to transfer data from any help desk software\nFind out what it takes t"
+  },
+  {
+    "id": "cd318d27d88cf965257fee2830af8cf76bdeebd3",
+    "url": "https://www.zendesk.com/marketplace/apps/support/105600/split-n-close/",
+    "title": "Split ‘n’ Close App Integration with Zendesk Support",
+    "description": "Integrate the Split ‘n’ Close app into Zendesk Support. Split and Close Tickets",
+    "text": "Split and Close Tickets\nApps install directly into your account\nNever pay a thing\nFree plan features"
+  },
+  {
+    "id": "afab77e8634f6eb8e73aeeba0da882c8027d468c",
+    "url": "https://www.zendesk.com/marketplace/apps/support/102131/download-all-attachments/",
+    "title": "Download All Attachments App Integration with Zendesk Support",
+    "description": "Integrate the Download All Attachments app into Zendesk Support. Download a ticket's attachments in ",
+    "text": "Download a ticket's attachments in one click\nApps install directly into your account\nFind out what i"
+  },
+  {
+    "id": "8bcb24d7ff52d6fe7cba4d8cf219258f613bf423",
+    "url": "https://www.zendesk.com/marketplace/apps/support/257891/ticket-pdf-download/",
+    "title": "Ticket PDF Download App Integration with Zendesk Support",
+    "description": "Integrate the Ticket PDF Download app into Zendesk Support. This application allows the user to down",
+    "text": "This application allows the user to download tickets as PDF.\nApps install directly into your account"
+  },
+  {
+    "id": "84db2ae8446d926482490d2bbc62b9de8c4eb958",
+    "url": "https://www.zendesk.com/marketplace/apps/support/190090/bulk-user-export/",
+    "title": "Bulk User Export App Integration with Zendesk Support",
+    "description": "Integrate the Bulk User Export app into Zendesk Support. Now Easily Export User Data on single click",
+    "text": "Now Easily Export User Data on single click into various export formats like excel,CSV,PDF,Copy etc."
+  },
+  {
+    "id": "2e3a60df219c8e62a880e7755f1031a0a968ad93",
+    "url": "https://www.zendesk.com/marketplace/apps/support/833704/attentive/",
+    "title": "Attentive App Integration with Zendesk Support",
+    "description": "Integrate the Attentive app into Zendesk Support. Enable your customer support team to directly answ",
+    "text": "Enable your customer support team to directly answer customers' text messages.\nFind out what it take"
+  },
+  {
+    "id": "cc537a66cc8ac8232c11906b7711de83133063db",
+    "url": "https://www.zendesk.com/marketplace/apps/support/976803/hide-ticket-fields/",
+    "title": "Hide Ticket Fields App Integration with Zendesk Support",
+    "description": "Integrate the Hide Ticket Fields app into Zendesk Support. Simply choose which ticket fields to hide",
+    "text": "Simply choose which ticket fields to hide from agents\nApps install directly into your account\nFind o"
+  },
+  {
+    "id": "bd709ab0d03ba58737bd9eab85529676a902b2a1",
+    "url": "https://www.zendesk.com/marketplace/apps/support/976805/notify/",
+    "title": "Notify App Integration with Zendesk Support",
+    "description": "Integrate the Notify app into Zendesk Support. Pop-up notification feed for ticket events inside the",
+    "text": "Pop-up notification feed for ticket events inside the agent interface\nApps install directly into you"
+  },
+  {
+    "id": "4263004db391530a503add89eab0e73f6884a5d8",
+    "url": "https://www.zendesk.com/marketplace/apps/support/849231/stylo-assist/",
+    "title": "Stylo Assist App Integration with Zendesk Support",
+    "description": "Integrate the Stylo Assist app into Zendesk Support. Empower your agents. Automate the repetitive.",
+    "text": "Empower your agents. Automate the repetitive.\nApps install directly into your account\nFind out what "
+  },
+  {
+    "id": "129747321a534ec4f1b0f05efe61de832caeb514",
+    "url": "https://www.goodreads.com/author/show/21.Marc_R_Schloss",
+    "title": "Marc R. Schloss (Author of The Hatchet's Blood)",
+    "description": "Marc R. Schloss is a cultural anthropologist who received his Ph.D. from the  University of Virginia",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "bdeeb6f8fa2a62b4910aa1026397ed8d0ddd2864",
+    "url": "https://www.goodreads.com/author/show/20.Dale_Peck",
+    "title": "Dale Peck (Author of Sprout)",
+    "description": "Dale Peck (born 1967 on Long Island, New York) is an American novelist, critic, and columnist. His 2",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "2121964295c431b6b9f5a41a0bd1d0f7db2821b3",
+    "url": "https://www.goodreads.com/author/show/18.Gary_Paulsen",
+    "title": "Gary Paulsen (Author of Hatchet)",
+    "description": "About Gary Paulsen: Gary James Paulsen was an American writer of children's and young adult fiction,",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "c99cd6cb3e3e3da8ebad4decca8e3cf6bbd951c5",
+    "url": "https://www.goodreads.com/author/show/23.Angela_Knight",
+    "title": "Angela Knight (Author of Shifter)",
+    "description": "Angela Knight is the author of Shifter (4.08 avg rating, 8326 ratings, 286 reviews, published 2008),",
+    "text": "DearReader:\nMynew book is out on pre-order today! It’s the first in a new series, and I’mboth excite"
+  },
+  {
+    "id": "70f1a882be56bf001f81fee811af3ab9ac3280f7",
+    "url": "https://www.goodreads.com/author/show/24.Delia_Sherman",
+    "title": "Delia Sherman (Author of The Evil Wizard Smallbone)",
+    "description": "Delia Sherman (born 1951) is a fantasy writer and editor. Her novel The Porcelain Dove won the Mytho",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "10a7141f8746dccce2aef866bcaa0cc974eb4029",
+    "url": "https://www.goodreads.com/author/show/25.Patricia_A_McKillip",
+    "title": "Patricia A. McKillip (Author of The Forgotten Beasts of Eld)",
+    "description": "About Patricia A. McKillip: Patricia Anne McKillip was an American author of fantasy and science fic",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "56dae332002ce2e06906ab2f0305291b9655b5bc",
+    "url": "https://www.goodreads.com/author/show/27.Zilpha_Keatley_Snyder",
+    "title": "Zilpha Keatley Snyder (Author of The Egypt Game)",
+    "description": "Zilpha Keatley Snyder was an American author of books for children and young adults. Three of Snyder",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "6612e2f25d9b0dced6bc65dc2c580cd404a364ec",
+    "url": "https://www.goodreads.com/author/show/26.Anne_McCaffrey",
+    "title": "Anne McCaffrey (Author of Dragonflight)",
+    "description": "About Anne McCaffrey: Anne Inez McCaffrey was an American writer known for the Dragonriders of Pern ",
+    "text": "Dear Ms. McCaffrey:\nFor many years I have enjoyed your books. I have lived among the dragons and the"
+  },
+  {
+    "id": "f5b5bfe5a7cfde7d987eb42388fd9f78ab18c270",
+    "url": "https://www.goodreads.com/author/show/28.Ian_Lemke",
+    "title": "Ian Lemke (Translator of Swedish Cults)",
+    "description": "Ian Lemke is a game developer for  Green Ronin Publishing and is responsible for The Expanse Rolepla",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "c24aaccbe1a795f837e2243459b2cb40cf69ff5e",
+    "url": "https://www.goodreads.com/author/show/29.Kate_Horsley",
+    "title": "Kate Horsley (Author of Confessions of a Pagan Nun)",
+    "description": "Born in Richmond, Virginia, in 1952, Kate Horsley Parker, the youngest of five children, loved to re",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "29b4755e784474b059140885c93dea361ddf9b00",
+    "url": "https://cookiedatabase.org/service/admin/",
+    "title": "Admin - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Admin and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "36743b0f8d884226134313a89a5c2fadf5c92055",
+    "url": "https://cookiedatabase.org/service/adobe-marketing-cloud/",
+    "title": "Adobe Marketing Cloud - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adobe Marketing Cloud and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "808c107c2de469a3550ec34b56e900a9421da4dc",
+    "url": "https://cookiedatabase.org/service/adobefonts/",
+    "title": "Adobe Fonts - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adobe Fonts and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "7e917d8d1e94338cd6e4204d39c423a7bf692b0f",
+    "url": "https://cookiedatabase.org/service/adobe-analytics/",
+    "title": "Adobe Analytics - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adobe Analytics and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "42e5f742f78f9725cd00de1e301a2377509c1cfd",
+    "url": "https://cookiedatabase.org/service/adobeexperiencecloud/",
+    "title": "Adobe experience cloud - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adobe experience cloud and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "dd5925dfa32c5a5e28b42c16510b6903cfe4fedd",
+    "url": "https://cookiedatabase.org/service/adroll/",
+    "title": "Adroll - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adroll and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "e2dab724d721898a6c658379f6ba5846f7530c2f",
+    "url": "https://cookiedatabase.org/service/adthrive/",
+    "title": "AdThrive - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about AdThrive and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "5b9be7681ddd360e02c9cac34ab36e1a3354077a",
+    "url": "https://cookiedatabase.org/service/advanced-ads/",
+    "title": "Advanced Ads - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Advanced Ads and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "38c1e74a9d2b82d4de3a412845e841b12c5c57a1",
+    "url": "https://cookiedatabase.org/service/advanced-custom-fields/",
+    "title": "Advanced Custom Fields - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Advanced Custom Fields and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "c293c041b3893b474efe263ec55f0363d7749147",
+    "url": "https://cookiedatabase.org/service/adyen/",
+    "title": "Adyen - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Adyen and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "d9511e9bbd51fe8c7561f2dac424405367fc167d",
+    "url": "https://calendly.com/",
+    "title": "Free Online Appointment Scheduling Software | Calendly",
+    "description": "Calendly is the modern scheduling platform that makes “finding time” a breeze. When connecting is ea",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "7f12e26b315c8e3a1797c239d700064fdc03ba64",
+    "url": "https://calendly.com/solutions/sales",
+    "title": "Sales Scheduling Software Solution | Calendly",
+    "description": "Close more deals faster by engaging with promising leads right away. Qualified leads can schedule ri",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "817669b50fb48ab7266f6ba9b1026133da72fc8e",
+    "url": "https://calendly.com/scheduling/automated-communication",
+    "title": "Workflows | Calendly",
+    "description": "Increase meeting show rates and decrease busywork by automating routine communications like reminder",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "9288d9dfe4d5b1c69102268f61a91a7389f23381",
+    "url": "https://calendly.com/features/browser-extensions",
+    "title": "Browser Extensions | Calendly",
+    "description": "Adjust your scheduling availability and share your Calendly link easily, without needing to switch t",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "a163f72d3d8c79b247d9f0eb720127cbd0cb264d",
+    "url": "https://calendly.com/scheduling",
+    "title": "Automated scheduling software | Calendly",
+    "description": "Simplify your scheduling with automation: Share your availability and manage your calendars easily w",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "a3fa8ff07f83d98793bb15b0488479e662f4d702",
+    "url": "https://calendly.com/pricing",
+    "title": "Pricing | Calendly",
+    "description": "Use Calendly for FREE or upgrade to one of our powerful plans. Choose the right Calendly for your te",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "3f2360bc1b8b515ae034f05ca65b08fcb709104c",
+    "url": "https://calendly.com/solutions/enterprise",
+    "title": "Enterprise scheduling solution | Calendly",
+    "description": "Solve external scheduling for enterprise. Calendly powers scheduling for over 4 out of 5 Fortune 500",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "3986309dd271a1a3565e45c3d332db7ebf7254a3",
+    "url": "https://calendly.com/security",
+    "title": "Security | Calendly",
+    "description": "Trust Calendly to keep your data secure with enterprise-grade admin management, security integration",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "5b1f16ee1438a211e304994fc1cc23fe884b35cf",
+    "url": "https://calendly.com/solutions/financial-services/insurance",
+    "title": "Insurance | Calendly",
+    "description": "Increase profitability with automated scheduling. Connect with clients before a competitor does, boo",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "7b5634cef1314be28e326c7658bb7bfeb65f18da",
+    "url": "https://calendly.com/solutions/financial-services/asset-management",
+    "title": "Asset Management | Calendly",
+    "description": "Grow assets under management with simplified client scheduling. Streamline the complex process of co",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "e6c24dbeb61f25fc85fc7304e43fdbb78d835797",
+    "url": "https://ispot.tv/",
+    "title": "iSpot: The New Standard for TV Ad Measurement",
+    "description": "Struggling to prove and optimize TV ad performance? Fast, accurate and actionable measurement across",
+    "text": "Unification matters. Know the impact of creatives and media on outcomes, with iSpot.\nLearn More\nDoub"
   }
 ]
