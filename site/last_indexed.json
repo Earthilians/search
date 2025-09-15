@@ -2813,11 +2813,11 @@
     ]
   },
   "2mdn.net": {
-    "lastAt": 1757589476084,
+    "lastAt": 1757940517730,
     "urls": []
   },
   "drom.ru": {
-    "lastAt": 1757589482341,
+    "lastAt": 1757940524319,
     "urls": [
       "https://www.drom.ru/catalog/acura/",
       "https://www.drom.ru/catalog/alpina/",
@@ -2828,19 +2828,29 @@
       "https://www.drom.ru/catalog/brilliance/",
       "https://www.drom.ru/catalog/bentley/",
       "https://www.drom.ru/catalog/bmw/",
-      "https://www.drom.ru/catalog/bugatti/"
+      "https://www.drom.ru/catalog/bugatti/",
+      "https://www.drom.ru/catalog/byd/",
+      "https://www.drom.ru/catalog/cadillac/",
+      "https://www.drom.ru/catalog/changan/",
+      "https://www.drom.ru/catalog/chevrolet/",
+      "https://www.drom.ru/catalog/chery/",
+      "https://www.drom.ru/catalog/chrysler/",
+      "https://www.drom.ru/catalog/daewoo/",
+      "https://www.drom.ru/catalog/citroen/",
+      "https://www.drom.ru/catalog/daihatsu/",
+      "https://www.drom.ru/catalog/datsun/"
     ]
   },
   "safebrowsing.apple": {
-    "lastAt": 1757589486482,
+    "lastAt": 1757940528015,
     "urls": []
   },
   "media-amazon.com": {
-    "lastAt": 1757589489561,
+    "lastAt": 1757940530961,
     "urls": []
   },
   "launchdarkly.com": {
-    "lastAt": 1757589491696,
+    "lastAt": 1757940558305,
     "urls": [
       "https://launchdarkly.com/",
       "https://launchdarkly.com/events-webinars/",
@@ -2851,11 +2861,21 @@
       "https://launchdarkly.com/use-cases/",
       "https://launchdarkly.com/pricing/",
       "https://launchdarkly.com/integrations/jira/",
-      "https://launchdarkly.com/pricing/archive-sept2025/"
+      "https://launchdarkly.com/pricing/archive-sept2025/",
+      "https://launchdarkly.com/feature-flags-javascript/",
+      "https://launchdarkly.com/pricing/archive/",
+      "https://launchdarkly.com/feature-flags-node-js/",
+      "https://launchdarkly.com/feature-flags-python/",
+      "https://launchdarkly.com/feature-flags-react/",
+      "https://launchdarkly.com/implementation/",
+      "https://launchdarkly.com/use-cases/migration/",
+      "https://launchdarkly.com/features/analytics/",
+      "https://launchdarkly.com/feature-flags-ruby/",
+      "https://launchdarkly.com/pricing/archive-apr2025/"
     ]
   },
   "grammarly.com": {
-    "lastAt": 1757589501910,
+    "lastAt": 1757940568282,
     "urls": [
       "https://www.grammarly.com/",
       "https://www.grammarly.com/signup",
@@ -2866,23 +2886,32 @@
       "https://www.grammarly.com/plagiarism-checker",
       "https://www.grammarly.com/jobs",
       "https://www.grammarly.com/business",
-      "https://www.grammarly.com/terms"
+      "https://www.grammarly.com/terms",
+      "https://www.grammarly.com/contact",
+      "https://www.grammarly.com/business/hr",
+      "https://www.grammarly.com/jobs/openings",
+      "https://www.grammarly.com/business/pricing",
+      "https://www.grammarly.com/premium",
+      "https://www.grammarly.com/business/sales",
+      "https://www.grammarly.com/contact/sales",
+      "https://www.grammarly.com/jobs/life",
+      "https://www.grammarly.com/business/marketing"
     ]
   },
   "samsungqbe.com": {
-    "lastAt": 1757589505080,
+    "lastAt": 1757940571359,
     "urls": []
   },
   "static.microsoft": {
-    "lastAt": 1757589507944,
+    "lastAt": 1757940574295,
     "urls": []
   },
   "cdngslb.com": {
-    "lastAt": 1757589566789,
+    "lastAt": 1757940633172,
     "urls": []
   },
   "ivi.ru": {
-    "lastAt": 1757589573435,
+    "lastAt": 1757940641432,
     "urls": [
       "https://www.ivi.ru/collections/oscar",
       "https://www.ivi.ru/collections/vampires",
@@ -2893,11 +2922,21 @@
       "https://www.ivi.ru/collections/brutalnoe-kino",
       "https://www.ivi.ru/collections/black-humour",
       "https://www.ivi.ru/collections/musicals",
-      "https://www.ivi.ru/collections/love-triangle"
+      "https://www.ivi.ru/collections/love-triangle",
+      "https://www.ivi.ru/collections/beasts-and-mosters",
+      "https://www.ivi.ru/collections/all-about-sex",
+      "https://www.ivi.ru/collections/geroi-boevikov",
+      "https://www.ivi.ru/collections/hollywood-stars",
+      "https://www.ivi.ru/collections/twisted-storyline",
+      "https://www.ivi.ru/collections/elections",
+      "https://www.ivi.ru/collections/movies-romantic",
+      "https://www.ivi.ru/collections/cosmos",
+      "https://www.ivi.ru/collections/new-wave",
+      "https://www.ivi.ru/collections/zhenschinyi_rezhisseryi"
     ]
   },
   "notamedia.ru": {
-    "lastAt": 1757589588841,
+    "lastAt": 1757940648837,
     "urls": [
       "https://agency.nota.media/",
       "https://agency.nota.media/company/",
@@ -2908,11 +2947,21 @@
       "https://agency.nota.media/career/",
       "https://notamedia.ru/",
       "https://agency.nota.media/rules/",
-      "https://agency.nota.media/portfolio/"
+      "https://agency.nota.media/portfolio/",
+      "https://agency.nota.media/services/",
+      "https://agency.nota.media/career/response/",
+      "https://agency.nota.media/services/branding/",
+      "https://agency.nota.media/services/startup/",
+      "https://agency.nota.media/services/seo/",
+      "https://agency.nota.media/blog/check-list-for-developers/",
+      "https://agency.nota.media/services/mobile-development/",
+      "https://agency.nota.media/blog/loyalnost-sotrudnikov/",
+      "https://agency.nota.media/blog/kak-stavit-zadachu-razrabotchikam-sayta/",
+      "https://agency.nota.media/services/web-development/"
     ]
   },
   "stripe.com": {
-    "lastAt": 1757589595949,
+    "lastAt": 1757940656617,
     "urls": [
       "https://stripe.com/legal/ssa",
       "https://stripe.com/ssa",
@@ -2923,11 +2972,21 @@
       "https://stripe.com/connect-account/legal",
       "https://stripe.com/climate/legal",
       "https://stripe.com/legal/connect",
-      "https://stripe.com/legal/data-pipeline"
+      "https://stripe.com/legal/data-pipeline",
+      "https://stripe.com/legal/multi-currency-accounts",
+      "https://stripe.com/legal/stripe-treasury-cash-accept-connected-accounts",
+      "https://stripe.com/legal/stripe-treasury-cash-accept-platform",
+      "https://stripe.com/partners/legal",
+      "https://stripe.com/atlas/legal",
+      "https://stripe.com/legal/global-payouts",
+      "https://stripe.com/legal/financial-accounts",
+      "https://stripe.com/legal/stablecoin-payments",
+      "https://stripe.com/legal/issuing/lead-bank/apple-payment-platform-program-manager-customer-terms-and-conditions",
+      "https://stripe.com/legal/cpi-terms"
     ]
   },
   "inmobi.com": {
-    "lastAt": 1757589597535,
+    "lastAt": 1757940662809,
     "urls": [
       "https://www.inmobi.com/",
       "https://www.inmobi.com/company/leadership",
@@ -2938,47 +2997,52 @@
       "https://www.inmobi.com/company/leadership/abhay-singhal",
       "https://www.inmobi.com/company/leadership/piyush-shah",
       "https://www.inmobi.com/company/leadership/marc-steifman",
-      "https://www.inmobi.com/company/leadership/amit-chauhan"
+      "https://www.inmobi.com/company/leadership/amit-chauhan",
+      "https://www.inmobi.com/company/leadership/dr-subi-chaturvedi",
+      "https://www.inmobi.com/company/leadership/shefali-rai"
     ]
   },
   "launchpad.net": {
-    "lastAt": 1757589612872,
+    "lastAt": 1757940679475,
     "urls": [
       "https://launchpad.net/"
     ]
   },
   "ipv4only.arpa": {
-    "lastAt": 1757589671680,
+    "lastAt": 1757940738285,
     "urls": []
   },
   "ampproject.org": {
-    "lastAt": 1757589673928,
+    "lastAt": 1757940739933,
     "urls": [
       "https://ampproject.org/"
     ]
   },
   "shalltry.com": {
-    "lastAt": 1757589678459,
+    "lastAt": 1757940744716,
     "urls": []
   },
   "quickconnect.to": {
-    "lastAt": 1757589679844,
+    "lastAt": 1757940745555,
     "urls": [
       "https://quickconnect.to/"
     ]
   },
   "issuu.com": {
-    "lastAt": 1757593554533,
+    "lastAt": 1757940756974,
     "urls": [
       "https://issuu.com/",
       "https://issuu.com/about",
       "https://issuu.com/about/people",
       "https://issuu.com/careers",
-      "https://issuu.com/features"
+      "https://issuu.com/features",
+      "https://issuu.com/features/add-links-old",
+      "https://issuu.com/features/articles",
+      "https://issuu.com/features/cloud-storage"
     ]
   },
   "ibm.com": {
-    "lastAt": 1757593559959,
+    "lastAt": 1757940763321,
     "urls": [
       "https://www.ibm.com/thought-leadership/innovation-explanations",
       "https://www.ibm.com/certified-used-equipment",
@@ -2987,15 +3051,23 @@
       "https://www.ibm.com/thought-leadership/innovation-explanations/chieko-asakawa",
       "https://www.ibm.com/thought-leadership/innovation-explanations/ajay-royyuru-cancer-research",
       "https://www.ibm.com/thought-leadership/innovation-explanations/cimon-ai-in-space",
-      "https://www.ibm.com/thought-leadership/innovation-explanations/dario-gil-quantum-computing"
+      "https://www.ibm.com/thought-leadership/innovation-explanations/dario-gil-quantum-computing",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/mike-abbink",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/mukesh-khare-on-smaller-transistors-analytics",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/david-chambliss-on-food-safety-analytics",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/pin-yu-chen",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/rajasekar-krishnamurthy",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/sekou-remy",
+      "https://www.ibm.com/thought-leadership/passion-projects",
+      "https://www.ibm.com/thought-leadership/innovation-explanations/tanveer-syeda-mahmood-medical-imaging"
     ]
   },
   "samsungcloudsolution.com": {
-    "lastAt": 1757593563342,
+    "lastAt": 1757940766454,
     "urls": []
   },
   "media.net": {
-    "lastAt": 1757593565430,
+    "lastAt": 1757940768433,
     "urls": [
       "https://www.media.net/",
       "https://media.net/",
@@ -3006,17 +3078,22 @@
       "https://www.media.net/optout/",
       "https://www.media.net/legal/inventorypolicies/",
       "https://www.media.net/privacy-policy/",
-      "https://www.media.net/legal/tos/"
+      "https://www.media.net/legal/tos/",
+      "https://www.media.net/ad-quality-policy/",
+      "https://www.media.net/publishers/",
+      "https://www.media.net/deals-desk/",
+      "https://www.media.net/advertiser/",
+      "https://www.media.net/select-curation-platform"
     ]
   },
   "3lift.com": {
-    "lastAt": 1757593566827,
+    "lastAt": 1757940769667,
     "urls": [
       "https://3lift.com/"
     ]
   },
   "weebly.com": {
-    "lastAt": 1757593569218,
+    "lastAt": 1757940772390,
     "urls": [
       "https://www.weebly.com/",
       "https://www.weebly.com/guides",
@@ -3027,11 +3104,21 @@
       "https://www.weebly.com/features",
       "https://www.weebly.com/websites",
       "https://www.weebly.com/marketing",
-      "https://www.weebly.com/features/mobile-website"
+      "https://www.weebly.com/features/mobile-website",
+      "https://www.weebly.com/features/free-web-hosting",
+      "https://www.weebly.com/features/ssl-and-more",
+      "https://www.weebly.com/features/website-builder",
+      "https://www.weebly.com/features/website-template",
+      "https://www.weebly.com/features/seo",
+      "https://www.weebly.com/features/form-builder",
+      "https://www.weebly.com/features/ecommerce-website",
+      "https://www.weebly.com/features/free-domain-hosting",
+      "https://www.weebly.com/features/slideshow-maker",
+      "https://www.weebly.com/features/video-hosting"
     ]
   },
   "harvard.edu": {
-    "lastAt": 1757593580649,
+    "lastAt": 1757940785316,
     "urls": [
       "https://www.harvard.edu/",
       "https://www.harvard.edu/2024/05/22/conferral-of-degrees/",
@@ -3042,11 +3129,21 @@
       "https://www.harvard.edu/about/history/nobel-laureates/peace/",
       "https://www.harvard.edu/about/history/nobel-laureates/chemistry/",
       "https://www.harvard.edu/copyright-issue/",
-      "https://www.harvard.edu/security-issue/"
+      "https://www.harvard.edu/security-issue/",
+      "https://www.harvard.edu/about/history/nobel-laureates/economic-sciences/",
+      "https://www.harvard.edu/about/history/nobel-laureates/physics/",
+      "https://www.harvard.edu/degree-verification/",
+      "https://www.harvard.edu/about/history/nobel-laureates/medicine/",
+      "https://www.harvard.edu/denamingproposals/arthur-m-sackler-building-and-museum/",
+      "https://www.harvard.edu/visit/tour-providers/",
+      "https://www.harvard.edu/contact-harvard/",
+      "https://www.harvard.edu/conflict-response/",
+      "https://www.harvard.edu/about/history/shields/",
+      "https://www.harvard.edu/about/history/nobel-laureates/"
     ]
   },
   "www.gov.uk": {
-    "lastAt": 1757593583496,
+    "lastAt": 1757940789087,
     "urls": [
       "https://www.gov.uk/",
       "https://www.gov.uk/world/organisations/british-embassy-podgorica/about/media-enquiries",
@@ -3057,25 +3154,35 @@
       "https://www.gov.uk/world/south-georgia-and-the-south-sandwich-islands/news",
       "https://www.gov.uk/world/organisations/british-high-commission-ottawa/about/complaints-procedure",
       "https://www.gov.uk/world/organisations/british-consulate-general-wuhan/about/complaints-procedure",
-      "https://www.gov.uk/world/organisations/department-for-business-and-trade-austria/about/recruitment"
+      "https://www.gov.uk/world/organisations/department-for-business-and-trade-austria/about/recruitment",
+      "https://www.gov.uk/world/organisations/british-deputy-high-commission-chandigarh/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/department-for-business-and-trade-bolivia",
+      "https://www.gov.uk/world/organisations/british-embassy-yerevan/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/department-for-business-and-trade-mozambique",
+      "https://www.gov.uk/world/palau/news",
+      "https://www.gov.uk/world/organisations/british-consulate-general-hong-kong/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/british-embassy-riyadh/about/complaints-procedure",
+      "https://www.gov.uk/world/st-vincent-and-the-grenadines/news",
+      "https://www.gov.uk/world/organisations/british-embassy-kyiv/about/complaints-procedure",
+      "https://www.gov.uk/world/reunion/news"
     ]
   },
   "alibabadns.com": {
-    "lastAt": 1757593587280,
+    "lastAt": 1757940792578,
     "urls": []
   },
   "mzstatic.com": {
-    "lastAt": 1757593588308,
+    "lastAt": 1757940793243,
     "urls": [
       "https://mzstatic.com/"
     ]
   },
   "heytapdl.com": {
-    "lastAt": 1757594680502,
+    "lastAt": 1757940796230,
     "urls": []
   },
   "tiktokv.us": {
-    "lastAt": 1757594683541,
+    "lastAt": 1757940799303,
     "urls": []
   },
   "tradingview.com": {
