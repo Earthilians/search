@@ -5727,17 +5727,17 @@
     "urls": []
   },
   "byteglb.com": {
-    "lastAt": 1757622066120,
+    "lastAt": 1757971188815,
     "urls": []
   },
   "force.com": {
-    "lastAt": 1757622070166,
+    "lastAt": 1757971191268,
     "urls": [
       "https://force.com/"
     ]
   },
   "cnet.com": {
-    "lastAt": 1757622077965,
+    "lastAt": 1757971199313,
     "urls": [
       "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-you-can-keep-chicken-in-the-fridge/",
       "https://www.cnet.com/deals/walmart-deals-of-the-day-september-11/",
@@ -5748,23 +5748,33 @@
       "https://www.cnet.com/tech/mobile/turn-your-iphone-17-into-a-pro-cinema-rig-with-blackmagics-new-prodock/",
       "https://www.cnet.com/home/smart-home/best-smart-displays/",
       "https://www.cnet.com/tech/mobile/the-iphone-air-reminds-me-that-im-just-not-a-skinny-phone-girl/",
-      "https://www.cnet.com/health/sleep/best-mattresses/"
+      "https://www.cnet.com/health/sleep/best-mattresses/",
+      "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/",
+      "https://www.cnet.com/tech/services-and-software/ios-26-is-live-now-heres-your-cheat-sheet-for-the-update/",
+      "https://www.cnet.com/home/kitchen-and-household/want-clean-air-in-your-home-try-these-10-houseplants/",
+      "https://www.cnet.com/tech/mobile/how-to-get-a-stronger-signal-on-any-phone-anywhere/",
+      "https://www.cnet.com/home/upgrade-your-home-security-from-safe-ish-to-safe-with-adt/",
+      "https://www.cnet.com/home/smart-home/the-ai-label-is-on-everything-now-thats-a-problem-for-buyers-and-home-brands-alike/",
+      "https://www.cnet.com/deals/best-laptop-deals/",
+      "https://www.cnet.com/deals/best-pixel-9-deals/",
+      "https://www.cnet.com/tech/services-and-software/expressvpn-adds-siri-widgets-and-shortcuts-to-its-ios-app/",
+      "https://www.cnet.com/tech/mobile/best-wireless-earbuds/"
     ]
   },
   "name-services.com": {
-    "lastAt": 1757622081027,
+    "lastAt": 1757971202427,
     "urls": []
   },
   "amazon.co.jp": {
-    "lastAt": 1757622107082,
+    "lastAt": 1757971224138,
     "urls": []
   },
   "yahoodns.net": {
-    "lastAt": 1757622110124,
+    "lastAt": 1757971227325,
     "urls": []
   },
   "target.com": {
-    "lastAt": 1757622116027,
+    "lastAt": 1757971233243,
     "urls": [
       "https://www.target.com/s/1+inch+curling+iron",
       "https://www.target.com/s/1+ounce+mason+jars",
@@ -5775,15 +5785,25 @@
       "https://www.target.com/s/10+cu+ft+refrigerator",
       "https://www.target.com/s/1+piece+adult+snowsuit",
       "https://www.target.com/s/10+drawer+rolling+cart",
-      "https://www.target.com/s/10+gallon+igloo+cooler"
+      "https://www.target.com/s/10+gallon+igloo+cooler",
+      "https://www.target.com/s/10+qt+crock+pot",
+      "https://www.target.com/s/10+oz+canning+jars",
+      "https://www.target.com/s/10+inch+tube+pan",
+      "https://www.target.com/s/10+quart+slow+cooker",
+      "https://www.target.com/s/10+oz+glasses+libby",
+      "https://www.target.com/s/100+cotton+bath+robes",
+      "https://www.target.com/s/100+cotton+nightgowns",
+      "https://www.target.com/s/100+cotton+sheets",
+      "https://www.target.com/s/100+cotton+socks+women",
+      "https://www.target.com/s/100+cotton+pajamas"
     ]
   },
   "alicdn.com": {
-    "lastAt": 1757622174873,
+    "lastAt": 1757971292098,
     "urls": []
   },
   "dynatrace.com": {
-    "lastAt": 1757622181343,
+    "lastAt": 1757971296747,
     "urls": [
       "https://www.dynatrace.com/",
       "https://dynatrace.com/",
@@ -5794,17 +5814,27 @@
       "https://www.dynatrace.com/customers/bmo/",
       "https://www.dynatrace.com/customers/state-of-minnesota/",
       "https://www.dynatrace.com/info/cio-research-report/",
-      "https://www.dynatrace.com/customers/mitchells-and-butlers/"
+      "https://www.dynatrace.com/customers/mitchells-and-butlers/",
+      "https://www.dynatrace.com/customers/pasco-county/",
+      "https://www.dynatrace.com/customers/spirit-airlines/",
+      "https://www.dynatrace.com/customers/wgu/",
+      "https://www.dynatrace.com/customers/loandepot/",
+      "https://www.dynatrace.com/customers/vivint/",
+      "https://www.dynatrace.com/customers/photobox/",
+      "https://www.dynatrace.com/customers/xxxlutz/",
+      "https://www.dynatrace.com/customers/skyworks/",
+      "https://www.dynatrace.com/customers/bnz/",
+      "https://www.dynatrace.com/customers/usi/"
     ]
   },
   "sina.com.cn": {
-    "lastAt": 1757622189086,
+    "lastAt": 1757971303688,
     "urls": [
       "https://sina.com.cn/"
     ]
   },
   "intercom.io": {
-    "lastAt": 1757622193336,
+    "lastAt": 1757971307304,
     "urls": [
       "https://www.intercom.com/suite",
       "https://www.intercom.com/pricing",
@@ -5814,15 +5844,24 @@
       "https://www.intercom.com/support-for-agents/phone",
       "https://www.intercom.com/test-product-page",
       "https://www.intercom.com/i2y2-boilerplate-product-page",
-      "https://www.intercom.com/2025-fintech-customer-service-transformation-report"
+      "https://www.intercom.com/2025-fintech-customer-service-transformation-report",
+      "https://www.intercom.com/intercom-hackireland-2025",
+      "https://www.intercom.com/solution-partner-program",
+      "https://www.intercom.com/suite/helpdesk/help-center",
+      "https://www.intercom.com/suite/helpdesk/inbox",
+      "https://www.intercom.com/suite/helpdesk/omnichannel",
+      "https://www.intercom.com/suite/helpdesk/knowledge-hub",
+      "https://www.intercom.com/suite/helpdesk/reporting",
+      "https://www.intercom.com/suite/helpdesk/tickets",
+      "https://www.intercom.com/customers/3commas"
     ]
   },
   "hicloud.com": {
-    "lastAt": 1757622196718,
+    "lastAt": 1757971310573,
     "urls": []
   },
   "playstation.com": {
-    "lastAt": 1757622201659,
+    "lastAt": 1757971313411,
     "urls": [
       "https://www.playstation.com/es-ar/ps5/buy-now/",
       "https://www.playstation.com/es-ar/ps5/",
@@ -5833,11 +5872,21 @@
       "https://www.playstation.com/es-ar/ps5/ps5-pro/",
       "https://www.playstation.com/es-ar/accessories/",
       "https://www.playstation.com/es-ar/ps5/ghost-of-yotei-limited-edition-ps5-bundle-and-accessories/",
-      "https://www.playstation.com/es-ar/ps5/ps5-features/"
+      "https://www.playstation.com/es-ar/ps5/ps5-features/",
+      "https://www.playstation.com/es-ar/accessories/dualsense-wireless-controller/",
+      "https://www.playstation.com/es-ar/accessories/dualshock-4-back-button-attachment/",
+      "https://www.playstation.com/es-ar/accessories/playstation-camera/",
+      "https://www.playstation.com/es-ar/accessories/media-remote/",
+      "https://www.playstation.com/es-ar/accessories/pulse-3d-wireless-headset/",
+      "https://www.playstation.com/es-ar/accessories/playstation-move-motion-controller/",
+      "https://www.playstation.com/es-ar/accessories/playlink/",
+      "https://www.playstation.com/es-ar/accessories/gold-wireless-headset/",
+      "https://www.playstation.com/es-ar/accessories/hd-camera/",
+      "https://www.playstation.com/es-ar/accessories/playstation-vr-aim-controller/"
     ]
   },
   "docker.com": {
-    "lastAt": 1757622210495,
+    "lastAt": 1757971321191,
     "urls": [
       "https://docker.com/",
       "https://www.docker.com/blog/",
@@ -5848,29 +5897,39 @@
       "https://www.docker.com/blog/mcp-misconceptions-tools-agents-not-api/",
       "https://www.docker.com/blog/blog-sonarqube-copilot-docker-mcp-toolkit/",
       "https://www.docker.com/blog/docker-desktop-updates-every-two-weeks/",
-      "https://www.docker.com/blog/how-to-build-an-ai-tutor-with-model-runner/"
+      "https://www.docker.com/blog/how-to-build-an-ai-tutor-with-model-runner/",
+      "https://www.docker.com/blog/ai-poc-success-rules/",
+      "https://www.docker.com/blog/gpt5-api-deprecation-ai-app-failure/",
+      "https://www.docker.com/blog/remocal-minimum-viable-models-ai/",
+      "https://www.docker.com/blog/why-changing-ai-workflows-still-feels-like-duct-tape/",
+      "https://www.docker.com/blog/building-ai-agents-with-goose-and-docker/",
+      "https://www.docker.com/blog/build-a-recipe-ai-agent-with-koog-and-docker/",
+      "https://www.docker.com/blog/how-to-make-ai-chatbot-from-scratch/",
+      "https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/",
+      "https://www.docker.com/blog/mcp-horror-stories-the-supply-chain-attack/",
+      "https://www.docker.com/blog/genai-vs-agentic-ai/"
     ]
   },
   "360safe.com": {
-    "lastAt": 1757622269344,
+    "lastAt": 1757971380048,
     "urls": []
   },
   "awswaf.com": {
-    "lastAt": 1757622272240,
+    "lastAt": 1757971383065,
     "urls": []
   },
   "worldnic.com": {
-    "lastAt": 1757622331099,
+    "lastAt": 1757971441924,
     "urls": []
   },
   "163.com": {
-    "lastAt": 1757622334972,
+    "lastAt": 1757971445513,
     "urls": [
       "https://163.com/"
     ]
   },
   "tplinkcloud.com": {
-    "lastAt": 1757622337109,
+    "lastAt": 1757971446496,
     "urls": [
       "https://www.tplinkcloud.com/",
       "https://www.tplinkcloud.com/forgotpassword.php",
@@ -5879,13 +5938,13 @@
     ]
   },
   "rakuten.co.jp": {
-    "lastAt": 1757622362238,
+    "lastAt": 1757971465264,
     "urls": [
       "https://rakuten.co.jp/"
     ]
   },
   "hotjar.com": {
-    "lastAt": 1757622366337,
+    "lastAt": 1757971472497,
     "urls": [
       "https://www.hotjar.com/404-not-found/",
       "https://www.hotjar.com/",
@@ -5895,11 +5954,12 @@
       "https://www.hotjar.com/fr/404-not-found/",
       "https://www.hotjar.com/pt-BR/404-not-found/",
       "https://www.hotjar.com/it/404-not-found/",
-      "https://www.hotjar.com/es/404-not-found/"
+      "https://www.hotjar.com/es/404-not-found/",
+      "https://www.hotjar.com/ja/404-not-found/"
     ]
   },
   "newsweek.com": {
-    "lastAt": 1757622369424,
+    "lastAt": 1757971476113,
     "urls": [
       "https://www.newsweek.com/sports/nfl/vikings-kevin-oconnell-announces-major-life-update-jj-mccarthy-2128557",
       "https://www.newsweek.com/trumps-tricky-balancing-act-responding-charlie-kirks-assassination-2128558",
@@ -5910,11 +5970,21 @@
       "https://www.newsweek.com/gen-z-conservative-what-charlie-kirk-meant-my-generation-opinion-2128419",
       "https://www.newsweek.com/sports/wrestling/nikki-bella-reacts-aj-lees-wwe-return-2128542",
       "https://www.newsweek.com/sports/mlb/anthony-rizzo-makes-bold-proclamation-about-former-team-2128530",
-      "https://www.newsweek.com/sports/nba/kevin-durant-heat-miami-reportedly-interested-superstar-if-he-hits-free-agency-2128522"
+      "https://www.newsweek.com/sports/nba/kevin-durant-heat-miami-reportedly-interested-superstar-if-he-hits-free-agency-2128522",
+      "https://www.newsweek.com/sports/nfl/tom-brady-end-competitive-retirement-flag-football-tournament-2130310",
+      "https://www.newsweek.com/sports/racing/f1-insider-asks-isack-hadjar-refuse-highly-risky-red-bull-promotion-2130056",
+      "https://www.newsweek.com/sports/racing/red-bull-insider-describes-christian-horner-replacement-right-decision-2130109",
+      "https://www.newsweek.com/sports/racing/cadillac-f1-wraps-2026-prototype-car-testing-probably-first-team-2129979",
+      "https://www.newsweek.com/clean-tech-leaders-headline-newsweeks-climate-week-nyc-event-2130257",
+      "https://www.newsweek.com/sports/nfl/packers-receive-new-christian-watson-injury-update-2130294",
+      "https://www.newsweek.com/sports/racing/massive-nhra-dragster-wreck-flips-tony-stewarts-car-terrifying-scene-2129899",
+      "https://www.newsweek.com/sports/racing/gordon-ramsay-loses-it-liam-lawson-over-pineapple-pizza-you-muppet-2129954",
+      "https://www.newsweek.com/expert-explains-senior-dog-intense-dreams-2117843",
+      "https://www.newsweek.com/sports/betting/spread-em-ashley-haas-nfl-week-2-recap-best-bets-mnf-2130284"
     ]
   },
   "squarespace.com": {
-    "lastAt": 1757622372868,
+    "lastAt": 1757971479551,
     "urls": [
       "https://www.squarespace.com/",
       "https://squarespace.com/",
@@ -5925,17 +5995,27 @@
       "https://www.squarespace.com/templates/browse/topic/popular-designs/type/services",
       "https://www.squarespace.com/templates/browse/topic/weddings/type/services",
       "https://www.squarespace.com/templates/browse/topic/restaurants/type/services",
-      "https://www.squarespace.com/templates/browse/topic/nature-animals/type/online-store"
+      "https://www.squarespace.com/templates/browse/topic/nature-animals/type/online-store",
+      "https://www.squarespace.com/templates/browse/topic/professional-services/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/restaurants/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/professional-services/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/nature-animals/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/personal-cv/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/home-decor/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/nature-animals/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/fashion/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/fashion/type/services",
+      "https://www.squarespace.com/templates/browse/topic/health-beauty/type/scheduling"
     ]
   },
   "rt.ru": {
-    "lastAt": 1757622378504,
+    "lastAt": 1757971483563,
     "urls": [
       "https://rt.ru/"
     ]
   },
   "buzzfeed.com": {
-    "lastAt": 1757622394933,
+    "lastAt": 1757971500512,
     "urls": [
       "https://www.buzzfeed.com/buzz/Scotts_Favorite_Trends_of_2007",
       "https://www.buzzfeed.com/buzz/Peggys_Favorite_Trends_of_2007",
@@ -5946,17 +6026,27 @@
       "https://www.buzzfeed.com/buzz/Kumari_Fulbright",
       "https://www.buzzfeed.com/buzz/We_Live_In_Public",
       "https://www.buzzfeed.com/buzz/Robot_Love",
-      "https://www.buzzfeed.com/buzz/LibiGel"
+      "https://www.buzzfeed.com/buzz/LibiGel",
+      "https://www.buzzfeed.com/buzz/The_Wire_Season_5",
+      "https://www.buzzfeed.com/buzz/Cocaine_Vaccine",
+      "https://www.buzzfeed.com/buzz/Maxim_Prime_Restaurants",
+      "https://www.buzzfeed.com/buzz/The_Strike_Beard",
+      "https://www.buzzfeed.com/buzz/Love_Mattress",
+      "https://www.buzzfeed.com/buzz/Jay-Z_And_Apple",
+      "https://www.buzzfeed.com/buzz/What_the_Buck",
+      "https://www.buzzfeed.com/buzz/Tennis_Cocaine_Ban",
+      "https://www.buzzfeed.com/buzz/Haute_Barnyard",
+      "https://www.buzzfeed.com/buzz/Gurney_Ride"
     ]
   },
   "amazontrust.com": {
-    "lastAt": 1757622425996,
+    "lastAt": 1757971531316,
     "urls": [
       "https://amazontrust.com/"
     ]
   },
   "surveymonkey.com": {
-    "lastAt": 1757622433679,
+    "lastAt": 1757971539972,
     "urls": [
       "https://www.surveymonkey.com/customers/woom/",
       "https://www.surveymonkey.com/customers/yu-ai-kai/",
@@ -5967,17 +6057,27 @@
       "https://www.surveymonkey.com/customers/womens-march-global/",
       "https://www.surveymonkey.com/customers/warriors/",
       "https://www.surveymonkey.com/customers/tweezerman/",
-      "https://www.surveymonkey.com/customers/together-labs/"
+      "https://www.surveymonkey.com/customers/together-labs/",
+      "https://www.surveymonkey.com/templates/child-myspace-usage-safety-survey-template/",
+      "https://www.surveymonkey.com/templates/parent-self-efficacy-survey-template/",
+      "https://www.surveymonkey.com/templates/project-retrospective-template/",
+      "https://www.surveymonkey.com/templates/employee-write-up-form/",
+      "https://www.surveymonkey.com/templates/sandwich-order-form-template/",
+      "https://www.surveymonkey.com/templates/bakery-order-form-template/",
+      "https://www.surveymonkey.com/templates/change-request-order-form-template/",
+      "https://www.surveymonkey.com/templates/pledge-form/",
+      "https://www.surveymonkey.com/templates/job-fair-registration-form-template/",
+      "https://www.surveymonkey.com/templates/payment-receipt-form/"
     ]
   },
   "ezvizlife.com": {
-    "lastAt": 1757622435834,
+    "lastAt": 1757971541008,
     "urls": [
       "https://ezvizlife.com/"
     ]
   },
   "uk.com": {
-    "lastAt": 1757622436615,
+    "lastAt": 1757971541569,
     "urls": [
       "https://uk.com/",
       "https://uk.com/privacy-policy",
@@ -5987,12 +6087,16 @@
     ]
   },
   "okta.com": {
-    "lastAt": 1757622445878,
+    "lastAt": 1757971550826,
     "urls": [
       "https://okta.com/",
       "https://www.okta.com/jp/",
       "https://www.okta.com/jp/initiatives/workforce-identity/move-to-the-cloud/",
-      "https://www.okta.com/jp/blog/author/hector-aguilar/"
+      "https://www.okta.com/jp/blog/author/hector-aguilar/",
+      "https://www.okta.com/jp/blog/author/ivan-dwyer/",
+      "https://www.okta.com/jp/blog/author/jack-shepherd/",
+      "https://www.okta.com/jp/blog/author/james-fang/",
+      "https://www.okta.com/jp/blog/author/james-flores/"
     ]
   },
   "spaceweb.pro": {
