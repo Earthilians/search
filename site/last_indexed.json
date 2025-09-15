@@ -928,43 +928,43 @@
     ]
   },
   "edgesuite.net": {
-    "lastAt": 1757568126955,
+    "lastAt": 1757918163322,
     "urls": []
   },
   "cdninstagram.com": {
-    "lastAt": 1757568130291,
+    "lastAt": 1757918166634,
     "urls": []
   },
   "googleadservices.com": {
-    "lastAt": 1757568133453,
+    "lastAt": 1757918169856,
     "urls": []
   },
   "mozilla.org": {
-    "lastAt": 1757568135370,
+    "lastAt": 1757918171459,
     "urls": [
       "https://mozilla.org/"
     ]
   },
   "wa.me": {
-    "lastAt": 1757568139954,
+    "lastAt": 1757918175697,
     "urls": []
   },
   "reddit.com": {
-    "lastAt": 1757568143000,
+    "lastAt": 1757918178840,
     "urls": []
   },
   "a2z.com": {
-    "lastAt": 1757568145985,
+    "lastAt": 1757918181746,
     "urls": []
   },
   "ui.com": {
-    "lastAt": 1757568150394,
+    "lastAt": 1757918185052,
     "urls": [
       "https://ui.com/"
     ]
   },
   "unity3d.com": {
-    "lastAt": 1757568154852,
+    "lastAt": 1757918188851,
     "urls": [
       "https://unity.com/blog",
       "https://unity.com/fr/blog",
@@ -975,27 +975,37 @@
       "https://unity.com/ru/blog",
       "https://unity.com/cn/blog",
       "https://unity.com/ja/blog",
-      "https://unity.com/kr/blog"
+      "https://unity.com/kr/blog",
+      "https://unity.com/ja/blog/games/neon",
+      "https://unity.com/blog/gdc-2025-recap",
+      "https://unity.com/blog/what-is-arpdau",
+      "https://unity.com/kr/blog/games/neon",
+      "https://unity.com/fr/blog/esri-arcgis",
+      "https://unity.com/es/blog/esri-arcgis",
+      "https://unity.com/pt/blog/esri-arcgis",
+      "https://unity.com/de/blog/esri-arcgis",
+      "https://unity.com/ru/blog/esri-arcgis",
+      "https://unity.com/cn/blog/esri-arcgis"
     ]
   },
   "wac-msedge.net": {
-    "lastAt": 1757568157735,
+    "lastAt": 1757918191712,
     "urls": []
   },
   "vk.com": {
-    "lastAt": 1757568160420,
+    "lastAt": 1757918193318,
     "urls": [
       "https://vk.com/"
     ]
   },
   "googledomains.com": {
-    "lastAt": 1757568160976,
+    "lastAt": 1757918193695,
     "urls": [
       "https://googledomains.com/"
     ]
   },
   "snapchat.com": {
-    "lastAt": 1757568166226,
+    "lastAt": 1757918198099,
     "urls": [
       "https://www.snapchat.com/",
       "https://www.snapchat.com/captcha",
@@ -1006,31 +1016,40 @@
       "https://www.snapchat.com/plus",
       "https://www.snapchat.com/recap",
       "https://www.snapchat.com/scan",
-      "https://www.snapchat.com/beta"
+      "https://www.snapchat.com/beta",
+      "https://www.snapchat.com/vote",
+      "https://www.snapchat.com/lens",
+      "https://www.snapchat.com/lens/unlock",
+      "https://www.snapchat.com/lens/5f2752f411d54fa588987b858f819d47",
+      "https://www.snapchat.com/lens/34207f3936154f06be8d83ee419f6add",
+      "https://www.snapchat.com/lens/9e560e06815e4241b39a33289ef2f44b",
+      "https://www.snapchat.com/lens/0e8d9faf61c14b7b8a8c2c0c2d6eafe5",
+      "https://www.snapchat.com/lens/404c091c3bc749a0aa19e7904f4cd9f6",
+      "https://www.snapchat.com/lens/94830efff23c4917bc960032a1c01a2d"
     ]
   },
   "nginx.com": {
-    "lastAt": 1757568169496,
+    "lastAt": 1757918200991,
     "urls": [
       "https://nginx.com/"
     ]
   },
   "msedge.net": {
-    "lastAt": 1757568228306,
+    "lastAt": 1757918259800,
     "urls": []
   },
   "blogspot.com": {
-    "lastAt": 1757568229740,
+    "lastAt": 1757918260752,
     "urls": [
       "https://blogspot.com/"
     ]
   },
   "vedcdnlb.com": {
-    "lastAt": 1757568234973,
+    "lastAt": 1757918265107,
     "urls": []
   },
   "sentry.io": {
-    "lastAt": 1757568237666,
+    "lastAt": 1757918267559,
     "urls": [
       "https://sentry.io/",
       "https://sentry.io/about/press-releases/sentry-acquires-emerge-tools-to-enhance-its-mobile-app-monitoring-solution/",
@@ -1041,59 +1060,69 @@
       "https://sentry.io/about/press-releases/sentry-adds-performance-monitoring-for-react-native-android-and-xamarin-updates-flutter-sdk/",
       "https://sentry.io/about/press-releases/sentry-announces-16m-series-b-round-with-nea-and-accel/",
       "https://sentry.io/about/press-releases/sentry-announces-additional-functionality-to-its-developer-first-performance-monitoring-platform-to-address-developer-actionability-gaps/",
-      "https://sentry.io/about/press-releases/sentry-announces-enhancements-to-performance-driving-faster-time-to-resolution-while-increasing-affordability/"
+      "https://sentry.io/about/press-releases/sentry-announces-enhancements-to-performance-driving-faster-time-to-resolution-while-increasing-affordability/",
+      "https://sentry.io/about/press-releases/sentry-announces-error-monitoring-for-gaming-consoles/",
+      "https://sentry.io/about/press-releases/sentry-announces-eu-data-region-significant-upgrades-to-its-performance-monitoring-platform-and-expansion-of-ecosystem-support/",
+      "https://sentry.io/about/press-releases/sentry-application-monitoring-achieves-200-increase-in-enterprise-growth/",
+      "https://sentry.io/about/press-releases/sentry-bolsters-enterprise-offering-with-custom-dashboards-and-automated-ticket-creation/",
+      "https://sentry.io/about/press-releases/sentry-brings-performance-monitoring-to-the-developer/",
+      "https://sentry.io/about/press-releases/sentry-delivers-full-suite-of-application-monitoring-capabilities-to-javaScript-developers/",
+      "https://sentry.io/about/press-releases/sentry-expands-capabilities-as-demand-increases-for-mobile-application-monitoring/",
+      "https://sentry.io/about/press-releases/sentry-expands-code-observability-for-nextjs/",
+      "https://sentry.io/about/press-releases/sentry-expands-platform-capabilities-to-improve-developer-workflows/",
+      "https://sentry.io/about/press-releases/sentry-is-now-available-to-all-nintendo-switch-developers-to-help-battle-game-crashes/"
     ]
   },
   "t.me": {
-    "lastAt": 1757568239691,
+    "lastAt": 1757918269056,
     "urls": [
       "https://t.me/"
     ]
   },
   "amazon-adsystem.com": {
-    "lastAt": 1757568243417,
+    "lastAt": 1757918271980,
     "urls": []
   },
   "aiv-cdn.net": {
-    "lastAt": 1757568246573,
+    "lastAt": 1757918275512,
     "urls": []
   },
   "intuit.com": {
-    "lastAt": 1757568253011,
+    "lastAt": 1757918281997,
     "urls": []
   },
   "europa.eu": {
-    "lastAt": 1757568255298,
+    "lastAt": 1757918283556,
     "urls": [
       "https://europa.eu/"
     ]
   },
   "dns.google": {
-    "lastAt": 1757568256441,
+    "lastAt": 1757918284514,
     "urls": [
       "https://dns.google/"
     ]
   },
   "bytefcdn-oversea.com": {
-    "lastAt": 1757568259828,
+    "lastAt": 1757918287821,
     "urls": []
   },
   "msftncsi.com": {
-    "lastAt": 1757568262695,
+    "lastAt": 1757918290696,
     "urls": []
   },
   "userapi.com": {
-    "lastAt": 1757568266594,
+    "lastAt": 1757918293430,
     "urls": [
       "https://userapi.com/"
     ]
   },
   "okcdn.ru": {
-    "lastAt": 1757568271667,
+    "lastAt": 1757918299854,
     "urls": []
   },
   "telekom.de": {
-    "lastAt": 1757572424919,
+    "lastAt": 1757918303995,
     "urls": [
       "https://telekom.de/",
       "https://www.telekom.de/datenschutzhinweise",
@@ -1104,11 +1133,21 @@
       "https://www.telekom.de/apps/voicemail",
       "https://www.telekom.de/apps",
       "https://www.telekom.de/e-mail/mail-m",
-      "https://www.telekom.de/apps/meinmagenta-app"
+      "https://www.telekom.de/apps/meinmagenta-app",
+      "https://www.telekom.de/erleben/shop",
+      "https://www.telekom.de/erleben",
+      "https://www.telekom.de/festnetz/tarife-und-optionen/treueaktion-magenta-zuhause",
+      "https://www.telekom.de/festnetz/tarife-und-optionen/treueangebot-magenta-zuhause",
+      "https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete",
+      "https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung",
+      "https://www.telekom.de/for-friends/kontakt",
+      "https://www.telekom.de/festnetz/tarife-und-optionen/magenta-zuhause-hybrid-5g",
+      "https://www.telekom.de/for-friends/teilnahmebedingungen",
+      "https://www.telekom.de/for-friends/pdf"
     ]
   },
   "apache.org": {
-    "lastAt": 1757572426056,
+    "lastAt": 1757918304949,
     "urls": [
       "https://apache.org/"
     ]
