@@ -3777,37 +3777,37 @@
     ]
   },
   "sberbank.ru": {
-    "lastAt": 1757600542640,
+    "lastAt": 1757949903436,
     "urls": [
       "https://sberbank.ru/"
     ]
   },
   "vkuser.net": {
-    "lastAt": 1757600601500,
+    "lastAt": 1757949962288,
     "urls": []
   },
   "sc-cdn.net": {
-    "lastAt": 1757600604442,
+    "lastAt": 1757949965329,
     "urls": []
   },
   "dropcatch.com": {
-    "lastAt": 1757600605755,
+    "lastAt": 1757949966346,
     "urls": [
       "https://dropcatch.com/"
     ]
   },
   "liadm.com": {
-    "lastAt": 1757600609321,
+    "lastAt": 1757949969873,
     "urls": []
   },
   "mozilla.com": {
-    "lastAt": 1757600611069,
+    "lastAt": 1757949971671,
     "urls": [
       "https://mozilla.com/"
     ]
   },
   "gnu.org": {
-    "lastAt": 1757600640937,
+    "lastAt": 1757949982826,
     "urls": [
       "http://www.gnu.org/keepingup.de.html",
       "http://www.gnu.org/keepingup.html",
@@ -3818,27 +3818,37 @@
       "http://www.gnu.org/keepingup.ru.html",
       "http://www.gnu.org/keepingup.pt-br.html",
       "http://www.gnu.org/keepingup.fr.html",
-      "https://gnu.org/"
+      "https://gnu.org/",
+      "http://www.gnu.org/accessibility/accessibility.html",
+      "http://www.gnu.org/keepingup.zh-cn.html",
+      "http://www.gnu.org/keepingup.uk.html",
+      "http://www.gnu.org/accessibility/accessibility.en.html",
+      "http://www.gnu.org/keepingup.sq.html",
+      "http://www.gnu.org/accessibility/accessibility.ar.html",
+      "http://www.gnu.org/accessibility/accessibility.fr.html",
+      "http://www.gnu.org/accessibility/accessibility.de.html",
+      "http://www.gnu.org/accessibility/accessibility.it.html",
+      "http://www.gnu.org/accessibility/accessibility.ja.html"
     ]
   },
   "un.org": {
-    "lastAt": 1757600645130,
+    "lastAt": 1757949985411,
     "urls": [
       "https://un.org/"
     ]
   },
   "aliyun.com": {
-    "lastAt": 1757600669555,
+    "lastAt": 1757950011295,
     "urls": [
       "https://aliyun.com/"
     ]
   },
   "inner-active.mobi": {
-    "lastAt": 1757600684406,
+    "lastAt": 1757950035369,
     "urls": []
   },
   "wp.com": {
-    "lastAt": 1757600689448,
+    "lastAt": 1757950039722,
     "urls": [
       "https://wordpress.com/features/",
       "https://wp.com/",
@@ -3849,87 +3859,98 @@
       "https://wordpress.com/free/",
       "https://wordpress.com/compare/medium/",
       "https://wordpress.com/compare/squarespace/",
-      "https://wordpress.com/compare/weebly/"
+      "https://wordpress.com/compare/weebly/",
+      "https://wordpress.com/professional-email/",
+      "https://wordpress.com/careers/",
+      "https://wordpress.com/p2/journal/",
+      "https://wordpress.com/domains/",
+      "https://wordpress.com/website-builder/",
+      "https://wordpress.com/gumroad/",
+      "https://wordpress.com/compare/wordpress-vs-wp-engine/",
+      "https://wordpress.com/compare/wordpress-vs-siteground/",
+      "https://wordpress.com/compare/wordpress-vs-kinsta/",
+      "https://wordpress.com/compare/wordpress-vs-godaddy/"
     ]
   },
   "azureedge.net": {
-    "lastAt": 1757600692303,
+    "lastAt": 1757950042585,
     "urls": []
   },
   "1c.ru": {
-    "lastAt": 1757600695036,
+    "lastAt": 1757950044287,
     "urls": [
       "https://1c.ru/"
     ]
   },
   "xboxlive.com": {
-    "lastAt": 1757600702257,
+    "lastAt": 1757950049626,
     "urls": []
   },
   "mediatek.com": {
-    "lastAt": 1757600704434,
+    "lastAt": 1757950051787,
     "urls": [
       "https://mediatek.com/"
     ]
   },
   "mi.com": {
-    "lastAt": 1757600709494,
+    "lastAt": 1757950057824,
     "urls": []
   },
   "espn.com": {
-    "lastAt": 1757600714315,
+    "lastAt": 1757950061708,
     "urls": [
       "https://espn.com/"
     ]
   },
   "tripadvisor.com": {
-    "lastAt": 1757600730027,
+    "lastAt": 1757950075010,
     "urls": []
   },
   "stanford.edu": {
-    "lastAt": 1757600730984,
+    "lastAt": 1757950075933,
     "urls": [
       "https://stanford.edu/"
     ]
   },
   "tiktokrow-cdn.com": {
-    "lastAt": 1757600734508,
+    "lastAt": 1757950079318,
     "urls": []
   },
   "tp-link.com": {
-    "lastAt": 1757600736623,
+    "lastAt": 1757950080316,
     "urls": [
       "https://tp-link.com/"
     ]
   },
   "globo.com": {
-    "lastAt": 1757600746753,
+    "lastAt": 1757950083947,
     "urls": [
       "https://globo.com/",
       "http://www.globo.com/todos-os-sites",
-      "http://www.globo.com/"
+      "http://www.globo.com/",
+      "https://www.globo.com/"
     ]
   },
   "vivoglobal.com": {
-    "lastAt": 1757600749502,
+    "lastAt": 1757950087232,
     "urls": [
       "https://vivoglobal.com/"
     ]
   },
   "gcdn.co": {
-    "lastAt": 1757600754133,
+    "lastAt": 1757950091087,
     "urls": []
   },
   "sc-gw.com": {
-    "lastAt": 1757600757051,
+    "lastAt": 1757950094207,
     "urls": []
   },
   "arubanetworks.com": {
-    "lastAt": 1757600760866,
+    "lastAt": 1757950097398,
     "urls": []
   },
   "fandom.com": {
-    "lastAt": 1757600764739,
+    "lastAt": 1757950101953,
     "urls": [
       "https://www.fandom.com/",
       "https://fandom.com/",
@@ -3940,11 +3961,20 @@
       "https://www.fandom.com/explore-fr",
       "https://www.fandom.com/explore-it",
       "https://www.fandom.com/explore-ja",
-      "https://www.fandom.com/explore-pl"
+      "https://www.fandom.com/explore-pl",
+      "https://www.fandom.com/explore-zh",
+      "https://www.fandom.com/getting-started-contribution-tool",
+      "https://www.fandom.com/explore-pt-br",
+      "https://www.fandom.com/explore-zh-tw",
+      "https://www.fandom.com/explore-ru",
+      "https://www.fandom.com/about",
+      "https://www.fandom.com/careers",
+      "https://www.fandom.com/press",
+      "https://www.fandom.com/mediakit"
     ]
   },
   "businessinsider.com": {
-    "lastAt": 1757600775138,
+    "lastAt": 1757950105990,
     "urls": [
       "https://businessinsider.com/",
       "https://www.businessinsider.com/klarna-ipo-stock-price-investors-2025-9",
@@ -3955,17 +3985,27 @@
       "https://www.businessinsider.com/gen-z-how-i-bought-home-new-york-city-apartment-2025-9",
       "https://www.businessinsider.com/exercise-trends-treadmill-fads-running-walking-health-fitness-2025-9",
       "https://www.businessinsider.com/inflation-august-cpi-consumer-price-index-federal-reserve-interest-rates-2025-9",
-      "https://www.businessinsider.com/terra-innovatum-nuclear-spac-boom-2025-9"
+      "https://www.businessinsider.com/terra-innovatum-nuclear-spac-boom-2025-9",
+      "https://www.businessinsider.com/us-recession-odds-outlook-building-permits-mark-zandi-rate-cuts-2025-9",
+      "https://www.businessinsider.com/bozoma-saint-john-daily-routine-real-housewives-jimmy-fallon-2025-9",
+      "https://www.businessinsider.com/cathy-pedrayes-online-safety-tips-for-parents-2025-9",
+      "https://www.businessinsider.com/alphabet-market-cap-stock-price-goog-antitrust-nvda-msft-aapl-2025-9",
+      "https://www.businessinsider.com/teslas-share-price-jumps-after-elon-musk-buys-shares-2025-9",
+      "https://www.businessinsider.com/internship-career-break-returner-tech-raise-son-2025-9",
+      "https://www.businessinsider.com/chinese-airline-selling-tickets-for-worlds-longest-direct-flight-2025-9",
+      "https://www.businessinsider.com/fed-rate-cut-this-week-fomc-powell-stock-market-outlook-2025-9",
+      "https://www.businessinsider.com/real-life-lumon-severance-bell-works-office-new-jersey-2025-3",
+      "https://www.businessinsider.com/best-food-walmart-from-employee-working-there-2025-9"
     ]
   },
   "deepintent.com": {
-    "lastAt": 1757604044894,
+    "lastAt": 1757950107089,
     "urls": [
       "https://deepintent.com/"
     ]
   },
   "sohu.com": {
-    "lastAt": 1757604051331,
+    "lastAt": 1757950114202,
     "urls": [
       "https://sohu.com/"
     ]
