@@ -588,7 +588,7 @@
     ]
   },
   "adobe.com": {
-    "lastAt": 1757564880852,
+    "lastAt": 1757913820515,
     "urls": [
       "https://adobe.com/",
       "https://www.adobe.com/ie/metaverse.html",
@@ -597,11 +597,17 @@
       "https://www.adobe.com/sk/products/catalog.html",
       "https://www.adobe.com/cl/metaverse.html",
       "https://www.adobe.com/africa/creativecloud/plans.html",
-      "https://www.adobe.com/pt/metaverse.html"
+      "https://www.adobe.com/pt/metaverse.html",
+      "https://www.adobe.com/lu_en/products/catalog.html",
+      "https://www.adobe.com/ch_de/creativecloud/plans.html",
+      "https://www.adobe.com/ch_fr/metaverse.html",
+      "https://www.adobe.com/sg/metaverse.html",
+      "https://www.adobe.com/ar/products/catalog.html",
+      "https://www.adobe.com/mt/metaverse.html"
     ]
   },
   "spotify.com": {
-    "lastAt": 1757564885190,
+    "lastAt": 1757913825564,
     "urls": [
       "https://www.spotify.com/us/signup",
       "https://www.spotify.com/ae-en/signup",
@@ -612,11 +618,21 @@
       "https://www.spotify.com/ag/signup",
       "https://www.spotify.com/al/signup",
       "https://www.spotify.com/am/signup",
-      "https://www.spotify.com/ao-pt/signup"
+      "https://www.spotify.com/ao-pt/signup",
+      "https://www.spotify.com/ao-en/signup",
+      "https://www.spotify.com/az-az/signup",
+      "https://www.spotify.com/at/signup",
+      "https://www.spotify.com/au/signup",
+      "https://www.spotify.com/ar/signup",
+      "https://www.spotify.com/az-en/signup",
+      "https://www.spotify.com/ba/signup",
+      "https://www.spotify.com/ba-bs/signup",
+      "https://www.spotify.com/bb/signup",
+      "https://www.spotify.com/bd-en/signup"
     ]
   },
   "vimeo.com": {
-    "lastAt": 1757564888886,
+    "lastAt": 1757913829540,
     "urls": [
       "https://vimeo.com/",
       "https://vimeo.com/blog",
@@ -627,15 +643,25 @@
       "https://vimeo.com/blog/author/alliedecker",
       "https://vimeo.com/blog/author/alyshaparker",
       "https://vimeo.com/blog/author/ambervm",
-      "https://vimeo.com/blog/author/amyhorton"
+      "https://vimeo.com/blog/author/amyhorton",
+      "https://vimeo.com/blog/author/amyliuser",
+      "https://vimeo.com/blog/author/andrewlittlefield",
+      "https://vimeo.com/blog/author/andreaallen",
+      "https://vimeo.com/blog/author/andre-sala",
+      "https://vimeo.com/blog/author/anjalisud",
+      "https://vimeo.com/blog/author/anthonyarfi",
+      "https://vimeo.com/blog/author/antondeionno",
+      "https://vimeo.com/blog/author/anyacohen",
+      "https://vimeo.com/blog/author/ashleymaas",
+      "https://vimeo.com/blog/author/ashrafalkarmi"
     ]
   },
   "ln-msedge.net": {
-    "lastAt": 1757564891754,
+    "lastAt": 1757913832393,
     "urls": []
   },
   "tiktok.com": {
-    "lastAt": 1757564895022,
+    "lastAt": 1757913835368,
     "urls": [
       "https://www.tiktok.com/following",
       "https://www.tiktok.com/about",
@@ -645,37 +671,46 @@
       "https://www.tiktok.com/transparency",
       "https://www.tiktok.com/legal/privacy-policy-row",
       "https://www.tiktok.com/legal/terms-of-service",
-      "https://www.tiktok.com/forgood"
+      "https://www.tiktok.com/forgood",
+      "https://www.tiktok.com/jump",
+      "https://www.tiktok.com/community-guidelines",
+      "https://www.tiktok.com/creators/creator-portal/en-us/",
+      "https://www.tiktok.com/legal/privacy-policy",
+      "https://www.tiktok.com/creators/creator-portal/",
+      "https://www.tiktok.com/accessibility",
+      "https://www.tiktok.com/legal/privacy-policy-for-younger-users",
+      "https://www.tiktok.com/legal/copyright-policy",
+      "https://www.tiktok.com/legal/cookie-policy"
     ]
   },
   "cloudfront.net": {
-    "lastAt": 1757564898207,
+    "lastAt": 1757913838467,
     "urls": []
   },
   "tiktokv.com": {
-    "lastAt": 1757564902979,
+    "lastAt": 1757913843302,
     "urls": []
   },
   "x.com": {
-    "lastAt": 1757564904064,
+    "lastAt": 1757913844281,
     "urls": [
       "https://x.com/"
     ]
   },
   "gvt2.com": {
-    "lastAt": 1757564906968,
+    "lastAt": 1757913847261,
     "urls": []
   },
   "gvt1.com": {
-    "lastAt": 1757564909867,
+    "lastAt": 1757913850230,
     "urls": []
   },
   "akam.net": {
-    "lastAt": 1757564912941,
+    "lastAt": 1757913853269,
     "urls": []
   },
   "gandi.net": {
-    "lastAt": 1757564915754,
+    "lastAt": 1757913856047,
     "urls": [
       "https://www.gandi.net/en",
       "https://www.gandi.net/en/simple-hosting/wordpress",
@@ -686,49 +721,59 @@
       "https://www.gandi.net/en/simple-hosting/nextcloud",
       "https://www.gandi.net/en/domain/email",
       "https://www.gandi.net/en/domain/tld",
-      "https://www.gandi.net/en/domain/tld?prefix=a"
+      "https://www.gandi.net/en/domain/tld?prefix=a",
+      "https://www.gandi.net/en/domain/tld?prefix=e",
+      "https://www.gandi.net/en/domain/tld?prefix=c",
+      "https://www.gandi.net/en/domain/tld?prefix=d",
+      "https://www.gandi.net/en/domain/tld?prefix=b",
+      "https://www.gandi.net/en/domain/tld?prefix=f",
+      "https://www.gandi.net/en/domain/tld?prefix=g",
+      "https://www.gandi.net/en/domain/tld?prefix=h",
+      "https://www.gandi.net/en/domain/tld?prefix=k",
+      "https://www.gandi.net/en/domain/tld?prefix=i",
+      "https://www.gandi.net/en/domain/tld?prefix=j"
     ]
   },
   "a-msedge.net": {
-    "lastAt": 1757564918613,
+    "lastAt": 1757913858911,
     "urls": []
   },
   "bit.ly": {
-    "lastAt": 1757564940414,
+    "lastAt": 1757913880227,
     "urls": [
       "https://bit.ly/"
     ]
   },
   "ytimg.com": {
-    "lastAt": 1757564943387,
+    "lastAt": 1757913883229,
     "urls": []
   },
   "office365.com": {
-    "lastAt": 1757565006220,
+    "lastAt": 1757913946174,
     "urls": []
   },
   "edgekey.net": {
-    "lastAt": 1757565009234,
+    "lastAt": 1757913949082,
     "urls": []
   },
   "nic.ru": {
-    "lastAt": 1757565012007,
+    "lastAt": 1757913951736,
     "urls": [
       "https://nic.ru/"
     ]
   },
   "cloudflare.net": {
-    "lastAt": 1757565015001,
+    "lastAt": 1757913954955,
     "urls": []
   },
   "yandex.net": {
-    "lastAt": 1757565018731,
+    "lastAt": 1757913958108,
     "urls": [
       "https://yandex.net/"
     ]
   },
   "qq.com": {
-    "lastAt": 1757565027543,
+    "lastAt": 1757913967248,
     "urls": [
       "https://news.qq.com/rain/a/20250911V03ELI00",
       "https://news.qq.com/rain/a/20250911V039BM00",
@@ -739,11 +784,21 @@
       "https://news.qq.com/rain/a/20250911A03F0D00",
       "https://news.qq.com/rain/a/20250911A03F0W00",
       "https://news.qq.com/rain/a/20250911V03D8S00",
-      "https://qq.com/"
+      "https://qq.com/",
+      "https://news.qq.com/rain/a/20250915V041CU00",
+      "https://news.qq.com/rain/a/20250915V0480J00",
+      "https://news.qq.com/rain/a/20250915V0480300",
+      "https://news.qq.com/rain/a/20250915V04ANQ00",
+      "https://news.qq.com/rain/a/20250831V03DH400",
+      "https://news.qq.com/rain/a/20250915A04AGC00",
+      "https://news.qq.com/rain/a/20250915A049M100",
+      "https://news.qq.com/rain/a/20250915V03OL100",
+      "https://news.qq.com/rain/a/20250915A04B4G00",
+      "https://news.qq.com/rain/a/20250915V0491E00"
     ]
   },
   "wordpress.com": {
-    "lastAt": 1757565030788,
+    "lastAt": 1757913971268,
     "urls": [
       "https://wordpress.com/",
       "https://gd.wordpress.com/",
@@ -754,11 +809,21 @@
       "https://wordpress.com/go/tutorials/how-to-resize-an-image/",
       "https://wordpress.com/go/website-building/wordpress-free-website-builder/",
       "https://wordpress.com/go/web-design/what-is-css/",
-      "https://wordpress.com/go/website-building/pop-up-forms/"
+      "https://wordpress.com/go/website-building/pop-up-forms/",
+      "https://wordpress.com/logo-maker/",
+      "https://wordpress.com/about/",
+      "https://wordpress.com/p2/",
+      "https://wordpress.com/hosting/",
+      "https://wordpress.com/seo/",
+      "https://wordpress.com/partners/",
+      "https://wordpress.com/compare/blogger/",
+      "https://wordpress.com/p2/faq/",
+      "https://wordpress.com/p2/contact/",
+      "https://wordpress.com/wordpress-vs-wix/"
     ]
   },
   "zoom.us": {
-    "lastAt": 1757565032907,
+    "lastAt": 1757913973833,
     "urls": [
       "https://zoom.us/download",
       "https://zoom.us/join",
@@ -769,11 +834,21 @@
       "https://zoom.us/pricing",
       "https://zoom.us/pricing/education",
       "https://zoom.us/pricing/healthcare",
-      "https://zoom.us/pricing/zoom-contact-center"
+      "https://zoom.us/pricing/zoom-contact-center",
+      "https://zoom.us/de/join",
+      "https://zoom.us/de/partners/registration",
+      "https://zoom.us/de/pricing",
+      "https://zoom.us/de/download",
+      "https://zoom.us/de/billing/pbx/rates",
+      "https://zoom.us/de/pricing/education",
+      "https://zoom.us/de/pricing/events",
+      "https://zoom.us/de/pricing/healthcare",
+      "https://zoom.us/de/pricing/zoom-contact-center",
+      "https://zoom.us/de/pricing/zoom-phone"
     ]
   },
   "opera.com": {
-    "lastAt": 1757565040900,
+    "lastAt": 1757913980062,
     "urls": [
       "https://www.opera.com/",
       "https://www.opera.com/features",
@@ -784,35 +859,45 @@
       "https://www.opera.com/es/features",
       "https://www.opera.com/es-419/features",
       "https://www.opera.com/fr/features",
-      "https://www.opera.com/pt/features"
+      "https://www.opera.com/pt/features",
+      "https://www.opera.com/ru/features",
+      "https://www.opera.com/tr/features",
+      "https://www.opera.com/ja/features",
+      "https://www.opera.com/it/features",
+      "https://www.opera.com/ko/features",
+      "https://www.opera.com/pt-br/features",
+      "https://www.opera.com/uk/features",
+      "https://www.opera.com/nb/features",
+      "https://www.opera.com/id/features",
+      "https://www.opera.com/vi/features"
     ]
   },
   "samsung.com": {
-    "lastAt": 1757565110947,
+    "lastAt": 1757914048535,
     "urls": [
       "https://samsung.com/"
     ]
   },
   "google-analytics.com": {
-    "lastAt": 1757565112133,
+    "lastAt": 1757914049555,
     "urls": [
       "https://google-analytics.com/"
     ]
   },
   "baidu.com": {
-    "lastAt": 1757565117836,
+    "lastAt": 1757914053808,
     "urls": [
       "https://baidu.com/"
     ]
   },
   "cloudflare-dns.com": {
-    "lastAt": 1757565119113,
+    "lastAt": 1757914054958,
     "urls": [
       "https://cloudflare-dns.com/"
     ]
   },
   "windows.com": {
-    "lastAt": 1757568117245,
+    "lastAt": 1757914058689,
     "urls": [
       "https://www.microsoft.com/en-us/windows/apps-for-windows",
       "https://www.microsoft.com/en-us/windows/ai-features",
@@ -823,11 +908,21 @@
       "https://www.microsoft.com/en-us/windows/default.aspx",
       "https://www.microsoft.com/en-us/windows/comprehensive-security",
       "https://www.microsoft.com/en-us/windows/view-all-devices",
-      "https://www.microsoft.com/en-us/windows/compare-devices"
+      "https://www.microsoft.com/en-us/windows/compare-devices",
+      "https://www.microsoft.com/en-us/windows/gaming-pcs",
+      "https://www.microsoft.com/en-us/windows/help-me-choose",
+      "https://www.microsoft.com/en-us/windows/desktops-and-all-in-ones",
+      "https://www.microsoft.com/en-us/windows/2-in-1s",
+      "https://www.microsoft.com/en-us/windows/windows-laptops",
+      "https://www.microsoft.com/en-us/windows/getting-started",
+      "https://www.microsoft.com/en-us/windows/laptops-for-college-students",
+      "https://www.microsoft.com/en-us/windows/windows-11",
+      "https://www.microsoft.com/en-us/windows/photo-movie-editor",
+      "https://www.microsoft.com/en-us/windows/sync-across-your-devices"
     ]
   },
   "nginx.org": {
-    "lastAt": 1757568123688,
+    "lastAt": 1757914065422,
     "urls": [
       "https://nginx.org/"
     ]
