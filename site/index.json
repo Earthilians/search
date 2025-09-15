@@ -71846,5 +71846,810 @@
     "title": "Vision | National Institutes of Health (NIH)",
     "description": "Thanks to NIH research, we know a lot about the underlying causes of vision loss.",
     "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov  "
+  },
+  {
+    "id": "3c7228ec05841020158285d31e5953b07be998de",
+    "url": "https://www.paypal.com/ae/business/getting-started?locale.x=ar_AE",
+    "title": "البدء | فتح حساب PayPal | PayPal الولايات المتحدة | PayPal AE",
+    "description": "أنشئ حساباً تجارياً على PayPal وابدأ في بيع منتجاتك إلكترونياً بأمان. اعرف المزيد عن البدء في استخدا",
+    "text": "فتح نشاطك التجاري على العالم. انضم إلى أكثر من 30 مليون تاجر يستخدمون PayPal.\nهل أنت عميل لدى PayPal"
+  },
+  {
+    "id": "6ae0a785bf7339deed2c6b6c305f2718d714fbbf",
+    "url": "https://www.paypal.com/ae/business/accept-payments?locale.x=ar_AE",
+    "title": "قبول المدفوعات إلكترونيا وفي المتاجر | PayPal AE",
+    "description": "بغض النظر عن مكان تسوقك، فإن PayPal يمكن نشاطك التجاري الصغير من قبول المدفوعات عبر الإنترنت وشخصيا.",
+    "text": "سواءً عبر الإنترنت أو في المتجر أو أثناء التنقل، لدينا الأدوات التي تحتاجها لقبول المدفوعات بسهولة و"
+  },
+  {
+    "id": "063930302463fe1acef723221bbd691602ce1894",
+    "url": "https://www.paypal.com/ae/webapps/mpp/send-money-online?locale.x=ar_AE",
+    "title": "إرسال أو تحويل أو دفع عبر الإنترنت باستخدام PayPal | PayPal AE",
+    "description": "مع خدمات تحويل الأموال من PayPal، يمكنك إرسال الأموال أو تحويلها بأمان وكذلك إجراء المدفوعات على الإ",
+    "text": "يمكنك إرسال المدفوعات تقريبًا إلى أيّ شخص مقابل السلع والخدمات دون مشاركة معلوماتك المالية مع البائع"
+  },
+  {
+    "id": "9d8cd87a09a1a0496f2b44aab260fda591ca8218",
+    "url": "https://www.paypal.com/ae/webapps/mpp/pay-with-app?locale.x=ar_AE",
+    "title": "استخدم PayPal لإجراء المدفوعات عبر الجوال أثناء تنقلك | PayPal AE",
+    "description": "يسهل لك PayPal استخدام هاتفك عند مسجلة النقد وفي سيارات الأجرة وفي المطاعم وعبر الإنترنت. يمكِّنك Pa",
+    "text": "يُقبل الدفع بـ PayPal على الآلاف من مواقع وتطبيقات الجوال، تماماً كما لو كنت أمام حاسبك. فهو طريقة س"
+  },
+  {
+    "id": "e5f01fc2ddcafa551231b1f5387c93c57a4ddeb3",
+    "url": "https://www.paypal.com/ae/smarthelp/contact-us?locale.x=ar_AE",
+    "title": "الاتصال بنا عبر PayPal | PayPal AE",
+    "description": "اتصل بـ PayPal للحصول على إجابات عن جميع أسئلتك بشأن الدفع عبر الإنترنت أو لتسجيل الاشتراك في خدماتن",
+    "text": ""
+  },
+  {
+    "id": "3096328c763e757831741a2a05330b60b22085f4",
+    "url": "https://www.paypal.com/ae/business/manage-risk?locale.x=ar_AE",
+    "title": "إدارة المخاطر | تخفيف المخاطر | PayPal الولايات المتحدة | PayPal AE",
+    "description": "احمِ نشاطك التجاري من الاحتيال الإلكتروني باستخدام حسابك التجاري على PayPal. اعرف المزيد عن حلول Pay",
+    "text": "تعالج شبكتنا ما يزيد عن 10 ملايين دفعة يومياً بأمان، وكلما زاد ذكاء منصتنا الحماية مع كل معاملة، فإن"
+  },
+  {
+    "id": "ad54a58686d72d18531a54b245beda44562ad808",
+    "url": "https://www.paypal.com/ae/business/make-payments?locale.x=ar_AE",
+    "title": "إجراء المدفوعات | وسائل الدفع الإلكتروني | PayPal الولايات المتحدة | PayPal AE",
+    "description": "أجر المدفوعات إلكترونياً بأمان عبر PayPal. اعرف المزيد عن كيفية إجراء مدفوعات عبر PayPal باستخدام حس",
+    "text": "السيولة النقدية هي شريان الحياة للنشاط التجاري؛ لذا نسهل عليك إرسال وإنفاق ونقل مدفوعاتك.\nادفع عبر P"
+  },
+  {
+    "id": "8db69b07faab666b7fb683ccaa41c5c376468859",
+    "url": "https://www.paypal.com/ae/business/marketplace-payments?locale.x=ar_AE",
+    "title": "مدفوعات الأسواق الإلكترونية | بوابة الدفع | PayPal الولايات المتحدة | PayPal AE",
+    "description": "ابدأ في إجراء وتلقي مدفوعات السوق الإلكتروني بحسابك التجاري على PayPal. اختر حل دفع PayPal المناسب ل",
+    "text": "يزيد قبول PayPal ثقة متسوقي السوق الإلكتروني فيك.\nاحتمال تحول العملاء الذين يختارون PayPal وسيلة للد"
+  },
+  {
+    "id": "811081541b9f31f0e96a9bb96dc8a42f09416673",
+    "url": "https://www.paypal.com/ae/business/payments-without-a-website?locale.x=ar_AE",
+    "title": "Get Paid Without a Website | PayPal AE | PayPal AE",
+    "description": "Choose from multiple payment options to get paid without a website. Find PayPal's solutions for cont",
+    "text": "We have ways for everyone to get paid easily - retailers, freelancers, contractors and more.\nAccept "
+  },
+  {
+    "id": "fcea50a1921b421f9741f2436df34b163b04f534",
+    "url": "https://www.kaspersky.com/enterprise-security/contact",
+    "title": "Contact Us | Enterprise Security Solutions | Kaspersky | Kaspersky",
+    "description": "Speak with one of our representatives about product information, product demos or answers to any que",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "426ca565e85068ca407c2d6ef97509bb60e45d3e",
+    "url": "https://www.kaspersky.com/enterprise-security/apt-intelligence-reporting/subscribe",
+    "title": "Subscribe | APT Intelligence Reporting  | Kaspersky | Kaspersky",
+    "description": "Subscribe to Kaspersky APT Intelligence Reporting and receive unique ongoing access to our investiga",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "20a22b161d720048f3e55fcd33bb0d8586dca5fe",
+    "url": "https://www.kaspersky.com/enterprise-security/contact/thank-you",
+    "title": "Thank You for Contacting Us | Enterprise Security Solutions | Kaspersky",
+    "description": "Speak with one of our representatives about product information, product demos or answers to any que",
+    "text": "We will respond to your enquiry very soon.\nThanks for getting in touch.\n< visit Enterprise Home page"
+  },
+  {
+    "id": "1ab4979e81a2c5bfb4f0d2e414f7b97bed0411aa",
+    "url": "https://www.kaspersky.com/iot-threat-data-feed",
+    "title": "Kaspersky IoT Threat Data Feed | OEM Technology Solutions | OEM Partners | Kaspersky",
+    "description": "Learn about Kaspersky Lab technologies that are available for integration with third party hardware ",
+    "text": "Today there are literally hundreds of thousands of Internet of Things (IoT) devices readily availabl"
+  },
+  {
+    "id": "498146a3c7e71ce995406298548d60eb1c1a01cf",
+    "url": "https://www.kaspersky.com/enterprise-security/transportation-security",
+    "title": "Internet of Things Security for Automotive & Intelligent Transportation Systems | Kaspersky",
+    "description": "Kaspersky Lab internet of things (IoT) security provides vehicles, rails & rapid transit systems, an",
+    "text": "Intelligent systems are everywhere - controlling road and rail infrastructure, improving vehicle per"
+  },
+  {
+    "id": "6ea722ff4ba683d6a0ab10c1e19b5b2f917369a1",
+    "url": "https://www.kaspersky.com/enterprise-security/internet-gateway-free-trial",
+    "title": "Kaspersky Security for Internet Gateway | Kaspersky | Kaspersky",
+    "description": "Kaspersky Security for Internet Gateway offers reliable  protection against web-based cyberthreats. ",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "8a19c6dad226ba9c3ef4224ac61efd3fb1663be1",
+    "url": "https://www.kaspersky.com/enterprise-security/endpoint/demo",
+    "title": "Endpoint Security | Request Demo | Kaspersky | Kaspersky",
+    "description": "Click here to request a demo of Endpoint Security. We help enterprises detect, investigate and respo",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "ea483c5319fe53da4f817b1c92703e4946765a72",
+    "url": "https://www.kaspersky.com/enterprise-security/threat-intelligence-subscription",
+    "title": "Request Kaspersky Threat Intelligence | Kaspersky | Kaspersky",
+    "description": "Request Kaspersky Threat Intelligence",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "f7e06179dadba4d9518fdfc969487d2e68cdc2e3",
+    "url": "https://www.kaspersky.com/enterprise-security/threat-management-defense-solution/demo",
+    "title": "Threat Management and Defense Solution | Request Demo | Kaspersky | Kaspersky",
+    "description": "Click here to request a demo of Threat Management and Defense Solution. We help enterprises detect, ",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "2abff24846c2081f9b060d22a339da8ad5855273",
+    "url": "https://www.kaspersky.com/gdpr",
+    "title": "General Data Protection Regulation | Kaspersky",
+    "description": "Our GDPR health hub includes a free assessment tool to benchmark your progress.",
+    "text": "The General Data Protection Regulation (GDPR) is coming and no matter what part of a business you wo"
+  },
+  {
+    "id": "246872e5bc332f81c963eb68aad9319d51598deb",
+    "url": "https://www.nytimes.com/2025/09/14/arts/television/emmys-candid-photos.html",
+    "title": "Candid Photos From the Emmys - The New York Times",
+    "description": "Candid moments with Walton Goggins, Pedro Pascal, Jean Smart and more.",
+    "text": "Emmy Awards\nCandid moments with Walton Goggins, Pedro Pascal, Jean Smart and more.\nCandid moments wi"
+  },
+  {
+    "id": "b61ef227dbdc8c2ec8d9f60898c45da1a2e3e874",
+    "url": "https://www.nytimes.com/live/2025/09/14/arts/emmy-awards",
+    "title": "Highlights From the 2025 Emmy Awards: ‘The Pitt’ Wins Best Drama, ‘The Studio’ Best Comedy - The New",
+    "description": "“Adolescence” won best limited series and three acting awards, and “The Late Show With Stephen Colbe",
+    "text": "Emmy Awards\n“Adolescence” won best limited series and three acting awards, and “The Late Show With S"
+  },
+  {
+    "id": "0ace47ed38b401f1a0c21ea4422cdfe7542c086b",
+    "url": "https://www.nytimes.com/athletic/6628466/2025/09/14/rugby-world-cup-biting-incident-ireland-france/",
+    "title": "France’s Axelle Berthoumieu cited over alleged biting incident at Women’s Rugby World Cup - The Athl",
+    "description": "France's Axelle Berthoumieu could face a ban for the semi-finals after the alleged incident involvin",
+    "text": "Global Sports\nFrance’s Axelle Berthoumieu could be banned for the 2025 Women’s Rugby World Cup semi-"
+  },
+  {
+    "id": "c5e9ead881cc29947f124f4c3603457659263456",
+    "url": "https://www.nytimes.com/athletic/6629126/2025/09/15/ricky-hatton-boxing-death-legacy-career/",
+    "title": "Ricky Hatton, the brilliant everyman who conquered the boxing world - The Athletic",
+    "description": "From his humble origins in a Manchester pub, the British boxer didn't just claim titles: he won hear",
+    "text": "Boxing\nThere’s a moment, early on in Hatton, the 2023 documentary covering the life and career of Br"
+  },
+  {
+    "id": "a08a9be14a089012c7e4092e1dc0105d577ee477",
+    "url": "https://www.nytimes.com/athletic/6628009/2025/09/15/amorim-liverpool-future/",
+    "title": "Will Amorim make it to Anfield? Are Liverpool’s late winners a good sign? How far can long throws ta",
+    "description": "Discussing the key talking points from the Premier League weekend",
+    "text": "EPL\nPremier\nLeague Action\nWelcome to The Briefing, where every Monday The Athletic discusses three o"
+  },
+  {
+    "id": "30698ce666355cbc685994b090a83be4bd018171",
+    "url": "https://www.nytimes.com/2025/09/15/us/politics/rubio-israel-netanyahu-trump-gaza.html",
+    "title": "Rubio, in Israel, Meets Netanyahu as Trump Grows Impatient - The New York Times",
+    "description": "Secretary of State Marco Rubio planned to discuss President Trump’s desire to see the war in Gaza en",
+    "text": "Middle East Crisis\nAdvertisement\nSupported by\nSecretary of State Marco Rubio planned to discuss Pres"
+  },
+  {
+    "id": "71e7ba11809ce0f296102a59fd18e7eb4d4b9e73",
+    "url": "https://www.nytimes.com/athletic/6629771/2025/09/14/nwsl-match-abandon-racing-louisville-savannah-demelo/",
+    "title": "USWNT’S Savannah DeMelo ‘stable and alert’ after collapsing on pitch - The Athletic",
+    "description": "DeMelo was \"stable and alert\" when transported to a local hospital for further evaluation.",
+    "text": "NWSL\nA National Women’s Soccer League (NWSL) match between Racing Louisville and the Seattle Reign w"
+  },
+  {
+    "id": "8b65ef018d0295206d0f49fdf87cc214e277d7fc",
+    "url": "https://www.nytimes.com/2025/09/14/world/europe/trump-uk-state-visit-security.html",
+    "title": "Trump’s State Visit Will be Biggest UK Security Operation Since Coronation - The New York Times",
+    "description": "The fatal shooting of Charlie Kirk has intensified consideration about potential threats, experts sa",
+    "text": "Trump Administration\nAdvertisement\nSupported by\nThe fatal shooting of Charlie Kirk has intensified c"
+  },
+  {
+    "id": "4246fd44ef8ea02e60c64c3660b130152ba17aed",
+    "url": "https://www.nytimes.com/athletic/6630403/2025/09/15/brighton-paul-barber-melbourne-victory/",
+    "title": "Brighton CEO Paul Barber joins board of Melbourne Victory - The Athletic",
+    "description": "Barber will represent Brighton's owner-chairman Tony Bloom, who bought a 19.1 per cent stake in the ",
+    "text": "Sports Business\nBrighton & Hove Albion chief executive and deputy chairman Paul Barber has joined th"
+  },
+  {
+    "id": "114187ec254c916c2e8c592a0ebd9fe66c7181c8",
+    "url": "https://www.nytimes.com/athletic/6626426/2025/09/14/enfield-derby-rivalry-fa-cup/",
+    "title": "Enfield vs Enfield: The most unusual rivals in English football meet for the first time in the FA Cu",
+    "description": "It’s difficult to understand why Enfield FC needs to exist in its current form – it was a comprehens",
+    "text": "On a Saturday featuring five Premier League matches in London, perhaps the capital’s most fascinatin"
+  },
+  {
+    "id": "3d062af5523bcc70652b741b5de8026d474fcdc2",
+    "url": "https://www.f5.com/appworld/appworld-main-navigation/experience",
+    "title": "Experience",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "2cd9bf62364e78e8a56ad97de7d15ff523851c80",
+    "url": "https://www.f5.com/appworld/appworld-main-navigation/video-gallery",
+    "title": "Video Gallery",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "7aa4dca21815da29742ff9ed10ed773ab1b6eef1",
+    "url": "https://www.f5.com/appworld/appworld-main-navigation/sponsors",
+    "title": "Sponsors",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "7e4ff498c1b48bb85da3d3155b46cde8ba6e17eb",
+    "url": "https://www.f5.com/appworld/appworld-main-navigation/speakers",
+    "title": "Speakers",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "b927163c1b61cf254d41751db16541a8fa5f8713",
+    "url": "https://www.f5.com/appworld/appworld-main-navigation/agenda",
+    "title": "Agenda",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "7c44e38c91154d3f9262e2ab363b7e72858f00c2",
+    "url": "https://www.f5.com/authors/bart-salaets",
+    "title": "Bart Salaets",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "1a1c6f6cc27c7658b7ed25af26eaae81b5a848b8",
+    "url": "https://www.f5.com/appworld/sponsors",
+    "title": "AppWorld 2026 Cybersecurity Events | F5",
+    "description": "Join F5 for AppWorld 2026 to get hands-on with our products and find out what’s next.",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "1b40b899e9175b06846d60eeeab52b9d56d1c917",
+    "url": "https://www.f5.com/authors/brian-a--mchenry",
+    "title": "Brian A. McHenry",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "1ab51bbe64b90630a3dc49d087984bd5906423b6",
+    "url": "https://www.f5.com/authors/byron-mcnaught",
+    "title": "Byron McNaught",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "ed8d34d1c932c28864672d426792002044a6ff2a",
+    "url": "https://www.f5.com/appworld/2024-videos",
+    "title": "AppWorld 2024 Videos | F5",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "1666424778f48772fa918b93ce625cd80782ced2",
+    "url": "https://www.magnite.com/press/use-of-first-party-identifiers-shows-significant-lift-in-ecpms-according-to-findings-from-magnite-and-adform/",
+    "title": "Use of First-Party Identifiers Shows Significant Lift in eCPMs According to Findings from Magnite an",
+    "description": "",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "98f7597dabf2672390663d3ea1cf587849036584",
+    "url": "https://www.magnite.com/press/magnite-research-finds-91-of-tv-viewers-in-latam-watch-streaming-tv-weekly/",
+    "title": "Magnite Research Finds 91% of TV Viewers in LATAM Watch Streaming TV Weekly|Magnite Research Finds 9",
+    "description": "Magnite’s “CTV in LATAM: The Future Forward” study explores the evolving consumer attitudes and cons",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "cf1370bba0e460c8f0bfc641cd9e484cf0cd8c26",
+    "url": "https://www.magnite.com/press/magnite-research-finds-americans-are-actively-planning-vacation-travel-and-ctv-is-key-to-reaching-travel-decision-makers/",
+    "title": "Magnite Research Finds Americans Are Actively Planning Vacation Travel and CTV is Key to Reaching Tr",
+    "description": "Nearly 60% of those surveyed more likely to consider a travel brand advertised on CTV than on tradit",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "a81e114e01aa417f6145153936e2c1f0cf6bed67",
+    "url": "https://www.magnite.com/press/magnite-dentsu-canada-extend-preferred-partner-relationship-with-a-focus-on-ctv/",
+    "title": "Magnite & dentsu Canada Extend Preferred Partner Relationship with a Focus on CTV|Magnite & dentsu C",
+    "description": "Magnite (NASDAQ: MGNI), the largest independent sell-side advertising platform, today announced the ",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "022948d04f26f18358efae93389b270ec663b546",
+    "url": "https://www.magnite.com/press/magnite-closes-spotx-acquisition/",
+    "title": "Magnite Closes SpotX Acquisition|Magnite Closes SpotX Acquisition|Magnite Closes SpotX Acquisition",
+    "description": "Magnite Closes SpotX Acquisition. Creates Largest Independent CTV & Video Ad Platform;Clients Includ",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "cf82e6ab506440d6891ab41f34d1e91e71f9e567",
+    "url": "https://www.magnite.com/press/rakuten-advertising-brings-on-magnite-to-further-monetize-rakuten-tv-inventory-across-europe/",
+    "title": "Rakuten Advertising Brings on Magnite to Further Monetize Rakuten TV Inventory Across Europe|Rakuten",
+    "description": "Rakuten Advertising will leverage the Magnite CTV platform across Europe to broaden advertiser and a",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "2759f60437699fc51953820652e3cc19ee1a5ad8",
+    "url": "https://www.magnite.com/press/scripps-selects-magnite-as-preferred-ctv-ssp/",
+    "title": "Scripps Selects Magnite as Preferred CTV SSP|Scripps Selects Magnite as Preferred CTV SSP|Scripps Se",
+    "description": "The E.W. Scripps Company (NASDAQ: SSP) has selected Magnite to serve as the company’s preferred sell",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "6c04e89d33a6a3e9f16435c982ad0d1703272b0a",
+    "url": "https://www.magnite.com/blog-ja/what-a-cookie-less-world-means-for-advertisers/",
+    "title": "アイデンティティの虚像を解き明かす――広告主にとってCookieがない世界とは？",
+    "description": "サードパーティCookieの時代が終わりを迎えるなか、業界はオーディエンスを効果的に特定できる新たなアイデンティティモデルに、すぐにでも順応する必要があるでしょう。",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "2b8f83c70b20b1ff4be1328ce90bb0ee0b8b7257",
+    "url": "https://www.magnite.com/press/magnite-announces-executive-leadership-team-following-spotx-acquisition/",
+    "title": "Magnite Announces Executive Leadership Team Following SpotX Acquisition|Magnite Announces Executive ",
+    "description": "Appoints New Technology and Sales Leaders Effective July 1; Strengthens Ability To Serve Clients Acr",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "6cd41e7556a42cf0c628be903e3213437fac8af4",
+    "url": "https://www.magnite.com/press/magnite-and-tvscientific-launch-performance-ctv-program-to-connect-dtc-performance-advertisers-with-premium-ctv-inventory/",
+    "title": "Magnite and tvScientific Launch Performance CTV Program to Connect DTC Performance Advertisers with ",
+    "description": "Initiative will help CTV publishers reach a new class of first-time TV buyers that value data-driven",
+    "text": "The Sonic Boom: Unlocking the Power of Audio Advertising [Whitepaper]\nDriving the Next Wave of CTV G"
+  },
+  {
+    "id": "7c152998bc3da0de69e2c7801a9145797c93be12",
+    "url": "https://www.flickr.com/photos/203098649@N06/albums",
+    "title": "Esther Domingo’s albums | Flickr",
+    "description": "",
+    "text": "Give Pro\nesther_domingo\n0 Followers•2 Following\nJoined 2025\nGive Pro\nesther_domingo\n0 Followers•2 Fo"
+  },
+  {
+    "id": "d01070dcffbdf5443567612a14a7585198e58038",
+    "url": "https://www.flickr.com/photos/202144005@N08/galleries",
+    "title": "Alyssa Grooms’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nagrooms122\n0 Followers•1 Following\nJoined 2025\nGive Pro\nagrooms122\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "a288b03c7095c93922f735125940843ffa5b3910",
+    "url": "https://www.flickr.com/people/202916171@N04",
+    "title": "About Leonardo Batista | Flickr",
+    "description": "",
+    "text": "Give Pro\nnbaleonardo\n0 Followers•1 Following\nJoined 2025\nGive Pro\nnbaleonardo\n0 Followers•1 Followin"
+  },
+  {
+    "id": "1ff5ddfaf1b1a030fd46bd6d7028944d6a04bbd0",
+    "url": "https://www.flickr.com/photos/202994267@N03/favorites",
+    "title": "lani bishop’s favorites | Flickr",
+    "description": "",
+    "text": "Give Pro\nelissabat.444\n0 Followers•1 Following\nJoined 2025\nGive Pro\nelissabat.444\n0 Followers•1 Foll"
+  },
+  {
+    "id": "c8e9679a751f2d5f2a9aa08fe91bdacf69a51544",
+    "url": "https://www.flickr.com/photos/202958400@N05/favorites",
+    "title": "katie kaun’s favorites | Flickr",
+    "description": "",
+    "text": "Give Pro\ncathynardico1\n0 Followers•1 Following\nJoined 2025\nGive Pro\ncathynardico1\n0 Followers•1 Foll"
+  },
+  {
+    "id": "2b3c6d730603f0e0d95809b3d39e7a95c0e073ae",
+    "url": "https://www.flickr.com/photos/203058154@N08/albums",
+    "title": "Ms Gowtham’s albums | Flickr",
+    "description": "",
+    "text": "Give Pro\nmsgowtham2004\n0 Followers•1 Following\nJoined 2025\nGive Pro\nmsgowtham2004\n0 Followers•1 Foll"
+  },
+  {
+    "id": "8435737bcce43a356740a875b702aa2aaaff4ecf",
+    "url": "https://www.flickr.com/photos/201607493@N08/galleries",
+    "title": "Mohamad Shahmi’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nmieekechik28\n0 Followers•2 Following\nJoined 2024\nGive Pro\nmieekechik28\n0 Followers•2 Follow"
+  },
+  {
+    "id": "0aa370ab13f0cea5c2ab1c81636aee22a34067a4",
+    "url": "https://www.flickr.com/photos/202438122@N03/galleries",
+    "title": "玉洁 王’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\n1172792148\n0 Followers•1 Following\nJoined 2025\nGive Pro\n1172792148\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "7fc58034825a65883a033f62f67a33bb427b5999",
+    "url": "https://www.flickr.com/photos/202319582@N03/favorites",
+    "title": "Cippa Lippa’s favorites | Flickr",
+    "description": "",
+    "text": "Give Pro\ndutto.renzo\n0 Followers•1 Following\nJoined 2025\nGive Pro\ndutto.renzo\n0 Followers•1 Followin"
+  },
+  {
+    "id": "bcbc71294ba7a17f90a33f3b06b4f1d1ee59ac5b",
+    "url": "https://www.flickr.com/people/202192788@N02",
+    "title": "About Josh Oller | Flickr",
+    "description": "",
+    "text": "Give Pro\nulvvsdsp64\n0 Followers•1 Following\nJoined 2025\nGive Pro\nulvvsdsp64\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "d321eb3b1be2b0f1665cd1edc91c0f12be5b79da",
+    "url": "https://www.shopify.com/accessibility/vpat-theme-dawn",
+    "title": "Shopify Accessibility Conformance Report Shopify Dawn Theme - Shopify",
+    "description": "Shopify’s list of terms and conditions that apply to all users that access or use the Shopify API or",
+    "text": "The Dawn theme includes but is not limited to:\nManual tests are completed by working through Shopify"
+  },
+  {
+    "id": "864854aef3cae2bc8aee115a7276db002a6bbf12",
+    "url": "https://www.shopify.com/affiliates",
+    "title": "Shopify Affiliate Marketing Program | Earn income for your referrals - Shopify",
+    "description": "Sign up for the Shopify Affiliate Program",
+    "text": "It pays to be an affiliate, literally. And earning starts with referring.\nThe Shopify Affiliate Prog"
+  },
+  {
+    "id": "5c6cf4695ef0e4a66b0b6812fc8f8d5f8020be36",
+    "url": "https://www.shopify.com/accessibility/vpat-theme-debut",
+    "title": "Shopify Accessibility Conformance Report: Mobile Admin WCAG Edition - Shopify",
+    "description": "Shopify’s list of terms and conditions that apply to all users that access or use the Shopify API or",
+    "text": "The Debut theme includes but is not limited to:\nManual tests are completed by working through Shopif"
+  },
+  {
+    "id": "c277dc316e55982e88893cdc0d6933ecb8e77284",
+    "url": "https://www.shopify.com/affiliate-active-confirmation",
+    "title": "Active account confirmation - Shopify",
+    "description": "A confirmation page for dormancy Shopify Affiliates who want to keep their account active.",
+    "text": ""
+  },
+  {
+    "id": "678a689ddc9a9a2a0cefef73d0ba05120440ca5d",
+    "url": "https://www.shopify.com/accessibility/vpat-shopify-mobile",
+    "title": "Shopify Accessibility Conformance Report Shopify Mobile Admin - Shopify",
+    "description": "Shopify’s list of terms and conditions that apply to all users that access or use the Shopify API or",
+    "text": "Manual tests are completed by working through Shopify’s Accessibility Assessment Checklist. This lis"
+  },
+  {
+    "id": "6e0a682f1cf64723261f4e692a549d684590c28a",
+    "url": "https://www.shopify.com/analytics",
+    "title": "Shopify Analytics and Reporting Dashboards - Shopify",
+    "description": "Discover all of Shopify’s free, built-in analytics, and real-time reporting features to help you run",
+    "text": "Make smart business decisions, quickly\nRuby Friel, Founder, Still Life Story\nShelby Adams, Operation"
+  },
+  {
+    "id": "bdace1cfb8d0a277e854b673da2fab0ae180dab9",
+    "url": "https://www.shopify.com/apple-pay",
+    "title": "Accept Apple Pay on Shopify in your online store - Shopify",
+    "description": "Accept Apple Pay directly in your online store using the Safari browser on Mac and iOS devices.",
+    "text": "Get 3 days free then 3 month for $1. By entering your email, you agree to receive marketing emails f"
+  },
+  {
+    "id": "4d341a71b6a9942b27f31a062c2856aacbdfe9bd",
+    "url": "https://www.shopify.com/affiliates/roblox",
+    "title": "Roblox invites you to start your 3-day free trial and enjoy 3 months of Shopify for $1/month on sele",
+    "description": "Roblox invites you to start your 3-day free trial and enjoy {count} months of Shopify for $1/month o",
+    "text": "Join the millions of businesses on Shopify today!\nNo credit card required. By entering your email, y"
+  },
+  {
+    "id": "b0dc2865d7649c674786a3b67aec1eb73cd75459",
+    "url": "https://www.shopify.com/amazon-pay",
+    "title": "Accept Amazon Pay on Shopify in your online store - Shopify",
+    "description": "Start accepting Amazon Pay on your store when you set up Shopify Payments.",
+    "text": "Get 3 days free then 3 month for $1. By entering your email, you agree to receive marketing emails f"
+  },
+  {
+    "id": "4f6b253e4c40e81779fc653c261ca78527294081",
+    "url": "https://medium.com/@bigpapi.homie/list/316cee139b46",
+    "title": "List: Data Science | Curated by Big Papi | Medium",
+    "description": "Data Science · 1 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAug 31, 2021\n1 story\nShare\nAbhishek Kumar"
+  },
+  {
+    "id": "48973e1f66ca4d6375d375aae5a4cfc8e6e05bd0",
+    "url": "https://medium.com/@sasha.kos/list/d3b1527ab82d",
+    "title": "List: Technical | Curated by Sasha Kos | Medium",
+    "description": "Technical · 1 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAug 31, 2021\n1 story\nShare\nIn\nBuilt to Adapt\nby\nElliot Dahl"
+  },
+  {
+    "id": "b2ce1066d56809d7bfa80fc32f8fe88bbb1a83c9",
+    "url": "https://medium.com/@alonkipnis/list/7d1ad1c884bc",
+    "title": "List: Theories of deep learning | Curated by AKP | Medium",
+    "description": "Theories of deep learning · 2 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nSep 4, 2021\n2 stories\nShare\nIn\nSyncedReview\nby\nSynced\nIn\nBethgelab\nb"
+  },
+  {
+    "id": "8c7fd44170bc7c4d96b5c8d435d722f3a33ba469",
+    "url": "https://medium.com/@k-scarborough/list/4df16ffc5b7c",
+    "title": "List: Politics | Curated by K. Scarborough | Medium",
+    "description": "Politics · 8 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nOct 11, 2021\n8 stories\nShare\nK. Scarborough\nK. Scarborough\nK. Scarbo"
+  },
+  {
+    "id": "04754e3f785945fe307738358403b637b720f03a",
+    "url": "https://medium.com/@taghizade.elmar/list/9a3deeb7662e",
+    "title": "List: Product | Curated by Elmar Taghizade | Medium",
+    "description": "Product · 1 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAug 31, 2021\n1 story\nShare\nSumit Kumar Singh"
+  },
+  {
+    "id": "f994edc581d9a0177e58846e50fe410a0175ea5b",
+    "url": "https://medium.com/@ty2579044/list/predefined:8b7b9b538a74:READING_LIST",
+    "title": "List: Reading list | Curated by hanahana | Medium",
+    "description": "predefined:8b7b9b538a74:READING_LIST · 1 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nSep 4, 2021\n1 story\nShare\nJessica Wildfire"
+  },
+  {
+    "id": "fa386b020b10915f0c926c07758e86d42137bc3d",
+    "url": "https://medium.com/@dps_66525/list/0e879f489aa2",
+    "title": "List: Portfolio building | Curated by Durgaprasad S | Medium",
+    "description": "Portfolio building · 1 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAug 31, 2021\n1 story\nShare\nIn\nTDS Archive\nby\nThe PyCoach"
+  },
+  {
+    "id": "206c370f7c6c3f6a54059ae9f49307e976e955cf",
+    "url": "https://medium.com/@rajipillay/list/4969c45a17e3",
+    "title": "List: My Most Read Pieces | Curated by Raji Pillay | Medium",
+    "description": "My Most Read Pieces · 5 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAug 31, 2021\n5 stories\nShare\nRaji Pillay\nIn\nBetter Advice\nby\nRaji Pi"
+  },
+  {
+    "id": "00b7fcdea872c4a318a19a848a7afe5a5ffc330a",
+    "url": "https://medium.com/@lebrancconvas/list/8f992936ca93",
+    "title": "List: [CS] Lang: Typescript  | Curated by Poom Yimyuean | Medium",
+    "description": "[CS] Lang: Typescript  · 75 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nJan 27, 2025\n75 stories\nShare\nIn\nT. T. Software Solution\nby\nPirawish"
+  },
+  {
+    "id": "29d4733c7a4bfbd9ec2b76b41d018789ccedd08c",
+    "url": "https://medium.com/@lisasgerard/list/680f4302ca09",
+    "title": "List: Short Form | Curated by Lisa S. Gerard | Medium",
+    "description": "Short Form · 10 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nDec 30, 2021\n10 stories\n1\nShare\nIn\nThe Brain is a Noodle\nby\nLisa S. "
+  },
+  {
+    "id": "98e7fd6176edee912ac2f0ea6e7ff1a2bb9cfe19",
+    "url": "https://soundcloud.com/terms-of-use",
+    "title": "Terms of Use - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nWelcome to SoundCloud®, a ser"
+  },
+  {
+    "id": "aba02009a6113a1c6a046405f33cb51616f2f347",
+    "url": "https://soundcloud.com/terms-of-use-pro",
+    "title": "Terms of Use for Artist Subscriptions - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nThese SoundCloud Artist Subsc"
+  },
+  {
+    "id": "ce62e0c5dd13b2f2c28f594f4ef94807b6c6b279",
+    "url": "https://soundcloud.com/terms-of-use-purchases",
+    "title": "Terms of Use for Purchases - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nThese Terms of Use shall appl"
+  },
+  {
+    "id": "7971a7df82a361094ef8466c0bd7768af661fef3",
+    "url": "https://soundcloud.com/go-terms-of-use",
+    "title": "Go and SoundCloud DJ Terms of Use - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nhttps://soundcloud.com/go-ter"
+  },
+  {
+    "id": "038361f106797ddac87a9145da529e68d1a60d71",
+    "url": "https://soundcloud.com/pages/oscp-privacy",
+    "title": "On SoundCloud Premier Sign-up Privacy Policy - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nThis On SoundCloud Premier Si"
+  },
+  {
+    "id": "531cddf9daa85fab24ef3852f756c3c174a9c673",
+    "url": "https://soundcloud.com/pages/privacy",
+    "title": "SoundCloud - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nWelcome to SoundCloud, a serv"
+  },
+  {
+    "id": "c1dfdd25b1801a60ec0268dc3402581a61d5a4b2",
+    "url": "https://casalemedia.com/",
+    "title": "Index Exchange - Accelerating the Evolution of Ad Technology",
+    "description": "Grow advertising revenue and reach consumers on any screen through Index Exchange's global supply-si",
+    "text": "Reach new audiences and drive higher ROI with streaming TV.\nOff-the-shelf and customizable, designed"
+  },
+  {
+    "id": "94093d3f43691d4828066ead5ee4c6c2e8ecd427",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/development_considerations/",
+    "title": "",
+    "description": "Learn about the development considerations while using Adobe Connect SDK to develop Custom Pods.",
+    "text": "Learn about the development considerations while using Adobe Connect SDK to develop Custom Pods.\nBro"
+  },
+  {
+    "id": "0d5b234e2a3cf1ec8177f386bc168e0ff741dca9",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/custom_pod_structure/",
+    "title": "",
+    "description": "A custom pod is delivered as a compressed package containing source files, a manifest, and libraries",
+    "text": "Understand the structure of a Custom Pods package.\nA custom pod is delivered as a compressed package"
+  },
+  {
+    "id": "adf811d89f4866bc2f17891a8614a1115acd28f9",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/message_handling/",
+    "title": "",
+    "description": "Learn how Custom Pods can communicate with other components of a room using Messages.",
+    "text": "Learn how Custom Pods can communicate with other components of a room using Messages.\nEach participa"
+  },
+  {
+    "id": "2a1e3a38059968521b14f467b00cf2695cdd77a8",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/code_samples/",
+    "title": "",
+    "description": "Learn how to initialize the SDK library, structure the breeze-manifest file, and download a sample c",
+    "text": "Learn how to initialize the SDK library, structure the breeze-manifest file, and download a sample c"
+  },
+  {
+    "id": "e5d2a6ed5365ea57c8b78ad2229baee95ff82cef",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/migrating/",
+    "title": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus aug",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus aug"
+  },
+  {
+    "id": "43dbde8ff6ec7744e57d1c3b76e03c2255ca89c2",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/",
+    "title": "",
+    "description": "Learn how to create and submit your Custom Pod from Developer Distribution.",
+    "text": "Learn how to create and submit your Custom Pod from Developer Distribution.\nThird-party developers c"
+  },
+  {
+    "id": "ea93dc14cd1744367d5e2cc546779299a9973e1e",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/create_listing/",
+    "title": "",
+    "description": "Learn how to create a new listing for Adobe Connect Custom Pod on Developer Distribution.",
+    "text": "Learn how to create a new listing for Adobe Connect Custom Pod on Developer Distribution.\nA new list"
+  },
+  {
+    "id": "edc2ac24aa7e42324dee80004e188bc2dcfa3a40",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/listing_details/",
+    "title": "",
+    "description": "Add details of your listing like Custom Pod name, media details, categories, and legal information.",
+    "text": "Add details of your listing like Custom Pod name, media details, categories, and legal information.\n"
+  },
+  {
+    "id": "37a1af6814360b0446d7c89ed134309205259180",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/version_packaging/",
+    "title": "",
+    "description": "Learn about how to package your custom pod for successfully submitting to Developer Distribution.",
+    "text": "Learn about how to package your custom pod for successfully submitting to Developer Distribution.\nEn"
+  },
+  {
+    "id": "b01daefd9f7cbb231dac93403d9c695dfde307b8",
+    "url": "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/version_details/",
+    "title": "",
+    "description": "Learn about how to add version details for your Custom pod.",
+    "text": "Learn about how to add version details for your Custom pod.\nAdobe Connect custom pod requires a pack"
+  },
+  {
+    "id": "cea89b8b5ba71ced5d1140a7948c7e7742b0179c",
+    "url": "https://www.cnn.com/2025/09/15/world/video/jarritos-truck-mexico-sinkhole-digvid",
+    "title": "Jarritos truck falls into sinkhole in Mexico | CNN",
+    "description": "A soda delivery truck collapsed into a sinkhole in Mexico City’s most populous borough.",
+    "text": "A soda delivery truck collapsed into a sinkhole in Mexico City’s most populous borough.\n© 2025 Cable"
+  },
+  {
+    "id": "7c1395bd9c29cb159a771554e5f86dfd30dec7f9",
+    "url": "https://www.cnn.com/2025/09/15/europe/faith-gen-z-catholic-church-influencers-intl-cmd",
+    "title": "Faith is a hit among Gen Z: The Church might have influencers to thank | CNN",
+    "description": "After decades of declining attendance and dwindling faith in much of the Western world, Roman Cathol",
+    "text": "The Catholic Church is no stranger to resurrection.\nAfter decades of declining attendance and dwindl"
+  },
+  {
+    "id": "2abb8e1a838e0f9ab60449a4fbe63e328fec4111",
+    "url": "https://www.cnn.com/2025/09/15/politics/investigation-charlie-kirk-killing-wwk",
+    "title": "The investigation into Charlie Kirk’s killing continues. Here’s what we know | CNN Politics",
+    "description": "Charlie Kirk’s assassination continues to reverberate across the United States as investigators work",
+    "text": "Charlie Kirk’s assassination continues to reverberate across the United States as investigators work"
+  },
+  {
+    "id": "e38afaf66158ed86747cbfc6d3f7401f0e68b26e",
+    "url": "https://www.cnn.com/2025/09/14/middleeast/gaza-strike-israel-hostages-meeting-intl",
+    "title": "Israel strikes Gaza City, ahead of cabinet meeting to discuss hostages | CNN",
+    "description": "The Israeli military struck multiple high-rise buildings in Gaza City on Sunday, after warning peopl",
+    "text": "The Israeli military struck multiple high-rise buildings in Gaza City on Sunday, after warning peopl"
+  },
+  {
+    "id": "8b842a0bd584049f5c89c6dff284f992489f79de",
+    "url": "https://www.cnn.com/2025/09/15/business/elon-musk-starlink-service-outage-intl-hnk",
+    "title": "Musk’s Starlink outage affects tens of thousands, including Ukrainian military | CNN Business",
+    "description": "A brief global outage of Elon Musk’s satellite internet service Starlink on Monday affected tens of ",
+    "text": "Markets\nHot Stocks\nFear & Greed Index\nLatest Market News\nHot Stocks\nA brief global outage of Elon Mu"
+  },
+  {
+    "id": "5c502386dd54472d89180c891532dfe65a5f8998",
+    "url": "https://www.cnn.com/2025/09/15/style/video/the-white-lotus-emmys-awards-digvid",
+    "title": "‘White Lotus’ cast steals fashion limelight at Emmys 2025 | CNN",
+    "description": "“The White Lotus” didn’t take home any Emmys Sunday night, despite being one of the most-nominated s",
+    "text": "\"The White Lotus\" didn’t take home any Emmys Sunday night, despite being one of the most-nominated s"
+  },
+  {
+    "id": "d2346c7aa845ad321a46871599a72178d9fbd6c7",
+    "url": "https://www.cnn.com/2025/09/15/politics/tariffs-tax-cuts-trump-households-deficit-analysis",
+    "title": "Trump’s tariffs are bigger than his tax cuts for most Americans | CNN Politics",
+    "description": "Republicans and President Donald Trump want credit for what he has called “the largest tax cut in th",
+    "text": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up "
+  },
+  {
+    "id": "b0967a2f153d2b72c056100eabfa98cf66643ed0",
+    "url": "https://www.cnn.com/2025/09/14/entertainment/award-winners-list-emmy",
+    "title": "Emmy Award winners list: See which nominees won | CNN",
+    "description": "The 77th Emmy Awards are underway.",
+    "text": "The 77th Emmy Awards were presented on Sunday and three shows dominated during television’s biggest "
+  },
+  {
+    "id": "b78b412ec6bb30aa9bc2e3961724a1fa58e8afce",
+    "url": "https://www.cnn.com/entertainment/live-news/emmy-awards-show-updates-09-14-2025",
+    "title": "2025 Emmy Awards highlights: Nate Bargatze hosts; ‘The Studio,’ ‘The Pitt’ and ‘Adolescence’ win big",
+    "description": "The top shows on television were honored tonight at the 2025 Emmys, with comedian Nate Bargatze serv",
+    "text": "• The 77th Primetime Emmy Awards: HBO Max’s medical drama “The Pitt” beat out “Severance,” the most "
+  },
+  {
+    "id": "2c5b99d7cd0c92589d9f3dc97e9b62cadf37a12f",
+    "url": "https://www.cnn.com/2025/09/14/entertainment/recap-emmy-awards-noah-wyle",
+    "title": "Recap of 2025 Emmy Awards: ‘The Studio’ enters the history books and more memorable moments | CNN",
+    "description": "Owen Cooper’s youthful record, Stephen Colbert offers a late night love letter to America, and ‘The ",
+    "text": "History-making wins, exciting ovations, freshman winners and more.\nThe 2025 Emmys, like television i"
+  },
+  {
+    "id": "08f14e319d50e02bd263b79d44ff3007a2c82efa",
+    "url": "https://www.android.com/intl/en_ph/",
+    "title": "Android | Do More With Google on Android Phones & Devices",
+    "description": "Discover more about Android & learn how our devices can help you Do more with Google with  hyper con",
+    "text": "Android XR\nGemini\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\nGemini\nCircle to Searc"
+  },
+  {
+    "id": "1392684343d7ccb66a10fec6ad26f4e9fe75eb8e",
+    "url": "https://www.android.com/intl/es_us/",
+    "title": "Android | Haz más con Google en teléfonos y dispositivos Android",
+    "description": "Descubre más sobre Android y cómo nuestros dispositivos pueden ayudarte a hacer más con Google graci",
+    "text": "Android XR\nGemini\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\nGemini\nCircle to Searc"
+  },
+  {
+    "id": "239b65c5898db62edf6eeafd7b4d86b4017653da",
+    "url": "https://www.android.com/intl/en_uk/",
+    "title": "Android | Do More With Google on Android Phones and Devices",
+    "description": "Discover more about Android and learn how our devices can help you do more with Google with hyper co",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "f866f93421e88c588c3af4781382a0196c3e02b2",
+    "url": "https://www.android.com/intl/es-419_mx/",
+    "title": "Android | Haz más con Google en teléfonos y dispositivos Android",
+    "description": "Descubre más sobre Android y cómo nuestros dispositivos pueden ayudarte a hacer más con Google graci",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "995089d3c73715294ada14f75eee9d2f8bfe02d2",
+    "url": "https://www.android.com/intl/es_es/",
+    "title": "Android | Haz más con Google en teléfonos y dispositivos Android",
+    "description": "Descubre más sobre Android y consulta cómo nuestros dispositivos pueden ayudarte a hacer más cosas c",
+    "text": "Android XR\nGemini\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\nGemini\nCircle to Searc"
+  },
+  {
+    "id": "678edcb560576d952e4ddca19b2addc600b8916d",
+    "url": "https://www.android.com/intl/fr_ca/",
+    "title": "Android | Faites-en plus avec Google sur les téléphones et les appareils Android",
+    "description": "Découvrez-en plus au sujet d'Android et apprenez comment nos appareils peuvent vous aider à en faire",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "80e416b08036736d3969f741b54f46e03ed3887c",
+    "url": "https://www.android.com/intl/fr_be/",
+    "title": "Android | Plus de possibilités avec Google sur les téléphones et appareils Android",
+    "description": "Découvrez-en plus sur Android et voyez comment nos appareils peuvent vous aider à profiter de toutes",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "a93e3b9f7f05e912aa7343b14bd22456e1c6cdcf",
+    "url": "https://www.android.com/intl/fr_fr/",
+    "title": "Android | Plus de possibilités avec Google sur les téléphones et appareils Android",
+    "description": "Découvrez-en plus sur Android et voyez comment nos appareils peuvent vous aider à profiter de toutes",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "5c25053fbec6f4bcb14398706d797aa3317e431e",
+    "url": "https://www.android.com/intl/id_id/",
+    "title": "Android | Lakukan Lebih Banyak Hal dengan Google di Ponsel & Perangkat Android",
+    "description": "Temukan informasi lebih lanjut tentang Android & pelajari bagaimana perangkat kami dapat membantu An",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "6056ee6ae0954ffb77e404c91c3a78bfb17a1f14",
+    "url": "https://www.android.com/intl/it_it/",
+    "title": "Android | Fai di più con Google su dispositivi e smartphone Android",
+    "description": "Scopri di più su Android e su come i nostri dispositivi possono aiutarti a fare di più con Google gr",
+    "text": "Android XR\nGemini\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\n....\nGemini\nCircle to Searc"
   }
 ]

@@ -1448,13 +1448,13 @@
     ]
   },
   "lencr.org": {
-    "lastAt": 1757575337847,
+    "lastAt": 1757925054016,
     "urls": [
       "https://lencr.org/"
     ]
   },
   "paypal.com": {
-    "lastAt": 1757575344668,
+    "lastAt": 1757925066201,
     "urls": [
       "https://www.paypal.com/ae/home?locale.x=ar_AE",
       "https://paypal.com/",
@@ -1465,11 +1465,20 @@
       "https://www.paypal.com/ae/webapps/mpp/pay-online?locale.x=ar_AE",
       "https://www.paypal.com/ae/webapps/mpp/merchant-fees?locale.x=ar_AE",
       "https://www.paypal.com/ae/webapps/mpp/paypal-safety-and-security?locale.x=ar_AE",
-      "https://www.paypal.com/ae/webapps/mpp/paypal-fees?locale.x=ar_AE"
+      "https://www.paypal.com/ae/webapps/mpp/paypal-fees?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/getting-started?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/accept-payments?locale.x=ar_AE",
+      "https://www.paypal.com/ae/webapps/mpp/send-money-online?locale.x=ar_AE",
+      "https://www.paypal.com/ae/webapps/mpp/pay-with-app?locale.x=ar_AE",
+      "https://www.paypal.com/ae/smarthelp/contact-us?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/manage-risk?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/make-payments?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/marketplace-payments?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/payments-without-a-website?locale.x=ar_AE"
     ]
   },
   "kaspersky.com": {
-    "lastAt": 1757575349734,
+    "lastAt": 1757925072599,
     "urls": [
       "https://www.kaspersky.com/renewal-center/home",
       "https://www.kaspersky.com/small-business-security/downloads/kart",
@@ -1480,21 +1489,31 @@
       "https://www.kaspersky.com/enterprise-security/resources/data-sheets",
       "https://www.kaspersky.com/enterprise-security/mitre-attack",
       "https://www.kaspersky.com/enterprise-security/resources/white-papers",
-      "https://www.kaspersky.com/enterprise-security/mitre-ics"
+      "https://www.kaspersky.com/enterprise-security/mitre-ics",
+      "https://www.kaspersky.com/enterprise-security/contact",
+      "https://www.kaspersky.com/enterprise-security/apt-intelligence-reporting/subscribe",
+      "https://www.kaspersky.com/enterprise-security/contact/thank-you",
+      "https://www.kaspersky.com/iot-threat-data-feed",
+      "https://www.kaspersky.com/enterprise-security/transportation-security",
+      "https://www.kaspersky.com/enterprise-security/internet-gateway-free-trial",
+      "https://www.kaspersky.com/enterprise-security/endpoint/demo",
+      "https://www.kaspersky.com/enterprise-security/threat-intelligence-subscription",
+      "https://www.kaspersky.com/enterprise-security/threat-management-defense-solution/demo",
+      "https://www.kaspersky.com/gdpr"
     ]
   },
   "discord.gg": {
-    "lastAt": 1757575350376,
+    "lastAt": 1757925073067,
     "urls": [
       "https://discord.gg/"
     ]
   },
   "forms.gle": {
-    "lastAt": 1757575353633,
+    "lastAt": 1757925076215,
     "urls": []
   },
   "nytimes.com": {
-    "lastAt": 1757575356663,
+    "lastAt": 1757925079842,
     "urls": [
       "https://www.nytimes.com/2025/09/10/us/charlie-kirk-political-violence.html",
       "https://nytimes.com/",
@@ -1505,11 +1524,21 @@
       "https://www.nytimes.com/2025/09/11/nyregion/nadine-menendez-wife-of-a-senator-will-be-sentenced-in-bribery-scheme.html",
       "https://www.nytimes.com/2025/09/11/us/9-11-anniversary-nyc.html",
       "https://www.nytimes.com/athletic/6612989/2025/09/11/the-alternative-premier-league-table-number-4/",
-      "https://www.nytimes.com/2025/09/11/crosswords/spelling-bee-forum.html"
+      "https://www.nytimes.com/2025/09/11/crosswords/spelling-bee-forum.html",
+      "https://www.nytimes.com/2025/09/14/arts/television/emmys-candid-photos.html",
+      "https://www.nytimes.com/live/2025/09/14/arts/emmy-awards",
+      "https://www.nytimes.com/athletic/6628466/2025/09/14/rugby-world-cup-biting-incident-ireland-france/",
+      "https://www.nytimes.com/athletic/6629126/2025/09/15/ricky-hatton-boxing-death-legacy-career/",
+      "https://www.nytimes.com/athletic/6628009/2025/09/15/amorim-liverpool-future/",
+      "https://www.nytimes.com/2025/09/15/us/politics/rubio-israel-netanyahu-trump-gaza.html",
+      "https://www.nytimes.com/athletic/6629771/2025/09/14/nwsl-match-abandon-racing-louisville-savannah-demelo/",
+      "https://www.nytimes.com/2025/09/14/world/europe/trump-uk-state-visit-security.html",
+      "https://www.nytimes.com/athletic/6630403/2025/09/15/brighton-paul-barber-melbourne-victory/",
+      "https://www.nytimes.com/athletic/6626426/2025/09/14/enfield-derby-rivalry-fa-cup/"
     ]
   },
   "f5.com": {
-    "lastAt": 1757575373202,
+    "lastAt": 1757925093526,
     "urls": [
       "https://www.f5.com/appworld/tools/config",
       "https://www.f5.com/appworld/tools",
@@ -1520,15 +1549,25 @@
       "https://www.f5.com/appworld/appworld-main-navigation/f5-academy",
       "https://www.f5.com/appworld/appworld-main-navigation/technical-keynotes",
       "https://www.f5.com/appworld/appworld-main-navigation/breakouts",
-      "https://www.f5.com/accelerate-ai"
+      "https://www.f5.com/accelerate-ai",
+      "https://www.f5.com/appworld/appworld-main-navigation/experience",
+      "https://www.f5.com/appworld/appworld-main-navigation/video-gallery",
+      "https://www.f5.com/appworld/appworld-main-navigation/sponsors",
+      "https://www.f5.com/appworld/appworld-main-navigation/speakers",
+      "https://www.f5.com/appworld/appworld-main-navigation/agenda",
+      "https://www.f5.com/authors/bart-salaets",
+      "https://www.f5.com/appworld/sponsors",
+      "https://www.f5.com/authors/brian-a--mchenry",
+      "https://www.f5.com/authors/byron-mcnaught",
+      "https://www.f5.com/appworld/2024-videos"
     ]
   },
   "macromedia.com": {
-    "lastAt": 1757575432057,
+    "lastAt": 1757925152385,
     "urls": []
   },
   "rubiconproject.com": {
-    "lastAt": 1757575440118,
+    "lastAt": 1757925159953,
     "urls": [
       "https://www.magnite.com/press/discovery-selects-magnite-to-strengthen-dtc-advertising-proposition-for-streaming-services-in-the-uk-japan-and-india/",
       "https://rubiconproject.com/",
@@ -1539,19 +1578,29 @@
       "https://www.magnite.com/press/magnite-helps-crackle-plus-enhance-inventory-and-gain-supply-insights-with-tv-content-reporting/",
       "https://www.magnite.com/press/magnite-introduces-open-beta-of-new-ctv-ott-solution-named-unified-decisioning/",
       "https://www.magnite.com/press/magnite-invests-in-new-data-center-in-singapore-to-support-growing-apac-business/",
-      "https://www.magnite.com/press/sling-tv-sees-yoy-programmatic-growth-within-magnite-ctv-platform-in-2020/"
+      "https://www.magnite.com/press/sling-tv-sees-yoy-programmatic-growth-within-magnite-ctv-platform-in-2020/",
+      "https://www.magnite.com/press/use-of-first-party-identifiers-shows-significant-lift-in-ecpms-according-to-findings-from-magnite-and-adform/",
+      "https://www.magnite.com/press/magnite-research-finds-91-of-tv-viewers-in-latam-watch-streaming-tv-weekly/",
+      "https://www.magnite.com/press/magnite-research-finds-americans-are-actively-planning-vacation-travel-and-ctv-is-key-to-reaching-travel-decision-makers/",
+      "https://www.magnite.com/press/magnite-dentsu-canada-extend-preferred-partner-relationship-with-a-focus-on-ctv/",
+      "https://www.magnite.com/press/magnite-closes-spotx-acquisition/",
+      "https://www.magnite.com/press/rakuten-advertising-brings-on-magnite-to-further-monetize-rakuten-tv-inventory-across-europe/",
+      "https://www.magnite.com/press/scripps-selects-magnite-as-preferred-ctv-ssp/",
+      "https://www.magnite.com/blog-ja/what-a-cookie-less-world-means-for-advertisers/",
+      "https://www.magnite.com/press/magnite-announces-executive-leadership-team-following-spotx-acquisition/",
+      "https://www.magnite.com/press/magnite-and-tvscientific-launch-performance-ctv-program-to-connect-dtc-performance-advertisers-with-premium-ctv-inventory/"
     ]
   },
   "l-msedge.net": {
-    "lastAt": 1757575443010,
+    "lastAt": 1757925162876,
     "urls": []
   },
   "spo-msedge.net": {
-    "lastAt": 1757575445879,
+    "lastAt": 1757925165754,
     "urls": []
   },
   "flickr.com": {
-    "lastAt": 1757575449808,
+    "lastAt": 1757925170029,
     "urls": [
       "https://flickr.com/",
       "https://www.flickr.com/photos/203406655@N06/galleries",
@@ -1562,35 +1611,45 @@
       "https://www.flickr.com/photos/201978339@N02",
       "https://www.flickr.com/people/202387464@N07",
       "https://www.flickr.com/photos/203281871@N04",
-      "https://www.flickr.com/people/203374940@N07"
+      "https://www.flickr.com/people/203374940@N07",
+      "https://www.flickr.com/photos/203098649@N06/albums",
+      "https://www.flickr.com/photos/202144005@N08/galleries",
+      "https://www.flickr.com/people/202916171@N04",
+      "https://www.flickr.com/photos/202994267@N03/favorites",
+      "https://www.flickr.com/photos/202958400@N05/favorites",
+      "https://www.flickr.com/photos/203058154@N08/albums",
+      "https://www.flickr.com/photos/201607493@N08/galleries",
+      "https://www.flickr.com/photos/202438122@N03/galleries",
+      "https://www.flickr.com/photos/202319582@N03/favorites",
+      "https://www.flickr.com/people/202192788@N02"
     ]
   },
   "wildberries.ru": {
-    "lastAt": 1757575455217,
+    "lastAt": 1757925177005,
     "urls": []
   },
   "ozon.ru": {
-    "lastAt": 1757575477559,
+    "lastAt": 1757925205202,
     "urls": []
   },
   "aliyuncs.com": {
-    "lastAt": 1757575482653,
+    "lastAt": 1757925209920,
     "urls": []
   },
   "ripn.net": {
-    "lastAt": 1757575541489,
+    "lastAt": 1757925268763,
     "urls": []
   },
   "shifen.com": {
-    "lastAt": 1757575600334,
+    "lastAt": 1757925327626,
     "urls": []
   },
   "msftconnecttest.com": {
-    "lastAt": 1757575603249,
+    "lastAt": 1757925330478,
     "urls": []
   },
   "shopify.com": {
-    "lastAt": 1757575606522,
+    "lastAt": 1757925334624,
     "urls": [
       "https://www.shopify.com/",
       "https://www.shopify.com/1mbb",
@@ -1600,25 +1659,34 @@
       "https://www.shopify.com/accessibility/plan",
       "https://www.shopify.com/accessibility/policy",
       "https://www.shopify.com/accessibility/vpat-admin",
-      "https://www.shopify.com/accessibility/vpat-checkout"
+      "https://www.shopify.com/accessibility/vpat-checkout",
+      "https://www.shopify.com/accessibility/vpat-theme-dawn",
+      "https://www.shopify.com/affiliates",
+      "https://www.shopify.com/accessibility/vpat-theme-debut",
+      "https://www.shopify.com/affiliate-active-confirmation",
+      "https://www.shopify.com/accessibility/vpat-shopify-mobile",
+      "https://www.shopify.com/analytics",
+      "https://www.shopify.com/apple-pay",
+      "https://www.shopify.com/affiliates/roblox",
+      "https://www.shopify.com/amazon-pay"
     ]
   },
   "pv-cdn.net": {
-    "lastAt": 1757575610091,
+    "lastAt": 1757925337781,
     "urls": []
   },
   "chatgpt.com": {
-    "lastAt": 1757575613081,
+    "lastAt": 1757925340730,
     "urls": []
   },
   "discord.com": {
-    "lastAt": 1757575614493,
+    "lastAt": 1757925341899,
     "urls": [
       "https://discord.com/"
     ]
   },
   "medium.com": {
-    "lastAt": 1757575619423,
+    "lastAt": 1757925349231,
     "urls": [
       "https://medium.com/",
       "https://medium.com/@faintliesh",
@@ -1629,11 +1697,21 @@
       "https://medium.com/@itslinx82",
       "https://medium.com/@mitalisingh.bhargava",
       "https://medium.com/@valzvv7",
-      "https://medium.com/@smellymelvin"
+      "https://medium.com/@smellymelvin",
+      "https://medium.com/@bigpapi.homie/list/316cee139b46",
+      "https://medium.com/@sasha.kos/list/d3b1527ab82d",
+      "https://medium.com/@alonkipnis/list/7d1ad1c884bc",
+      "https://medium.com/@k-scarborough/list/4df16ffc5b7c",
+      "https://medium.com/@taghizade.elmar/list/9a3deeb7662e",
+      "https://medium.com/@ty2579044/list/predefined:8b7b9b538a74:READING_LIST",
+      "https://medium.com/@dps_66525/list/0e879f489aa2",
+      "https://medium.com/@rajipillay/list/4969c45a17e3",
+      "https://medium.com/@lebrancconvas/list/8f992936ca93",
+      "https://medium.com/@lisasgerard/list/680f4302ca09"
     ]
   },
   "soundcloud.com": {
-    "lastAt": 1757575624873,
+    "lastAt": 1757925356267,
     "urls": [
       "https://soundcloud.com/",
       "https://soundcloud.com/charts/new",
@@ -1641,21 +1719,29 @@
       "https://soundcloud.com/people/directory",
       "https://soundcloud.com/community-guidelines",
       "https://soundcloud.com/imprint",
-      "https://soundcloud.com/law-enforcement-guidelines"
+      "https://soundcloud.com/law-enforcement-guidelines",
+      "https://soundcloud.com/terms-of-use",
+      "https://soundcloud.com/terms-of-use-pro",
+      "https://soundcloud.com/terms-of-use-purchases",
+      "https://soundcloud.com/go-terms-of-use",
+      "https://soundcloud.com/pages/oscp-privacy",
+      "https://soundcloud.com/pages/privacy"
     ]
   },
   "miui.com": {
-    "lastAt": 1757575630153,
+    "lastAt": 1757925359060,
     "urls": [
       "https://miui.com/"
     ]
   },
   "casalemedia.com": {
-    "lastAt": 1757575689894,
-    "urls": []
+    "lastAt": 1757925361235,
+    "urls": [
+      "https://casalemedia.com/"
+    ]
   },
   "adobe.io": {
-    "lastAt": 1757575693948,
+    "lastAt": 1757925363994,
     "urls": [
       "https://developer.adobe.com/",
       "https://adobe.io/",
@@ -1666,15 +1752,25 @@
       "https://developer.adobe.com/adobe-connect-sdk/config",
       "https://developer.adobe.com/adobe-connect-sdk/guides/brand_guidelines/",
       "https://developer.adobe.com/adobe-connect-sdk/guides/",
-      "https://developer.adobe.com/adobe-assurance-public-apis/usage/"
+      "https://developer.adobe.com/adobe-assurance-public-apis/usage/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/development_considerations/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/custom_pod_structure/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/message_handling/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/code_samples/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/migrating/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/create_listing/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/listing_details/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/version_packaging/",
+      "https://developer.adobe.com/adobe-connect-sdk/guides/submission_guidelines/version_details/"
     ]
   },
   "cdn-apple.com": {
-    "lastAt": 1757575697115,
+    "lastAt": 1757925366883,
     "urls": []
   },
   "cnn.com": {
-    "lastAt": 1757579375822,
+    "lastAt": 1757925398819,
     "urls": [
       "https://cnn.com/",
       "https://www.cnn.com/videos/tv/2024/05/15/an-travel-market-spotlights-middle-east-tourism-spc-intl.cnn",
@@ -1685,11 +1781,21 @@
       "https://www.cnn.com/videos/tv/2024/05/15/think-big-ev-conversion-intl.cnn",
       "https://www.cnn.com/videos/spanish/2024/05/15/incendios-zombi-canada-trax.cnn",
       "https://www.cnn.com/videos/spanish/2024/05/15/camionero-peru-choca-policia-trax.cnn",
-      "https://www.cnn.com/videos/spanish/2024/05/15/carlos-vives-gabriel-garcia-marquez-aracataca-espera-showbiz-tv-orix.cnn"
+      "https://www.cnn.com/videos/spanish/2024/05/15/carlos-vives-gabriel-garcia-marquez-aracataca-espera-showbiz-tv-orix.cnn",
+      "https://www.cnn.com/2025/09/15/world/video/jarritos-truck-mexico-sinkhole-digvid",
+      "https://www.cnn.com/2025/09/15/europe/faith-gen-z-catholic-church-influencers-intl-cmd",
+      "https://www.cnn.com/2025/09/15/politics/investigation-charlie-kirk-killing-wwk",
+      "https://www.cnn.com/2025/09/14/middleeast/gaza-strike-israel-hostages-meeting-intl",
+      "https://www.cnn.com/2025/09/15/business/elon-musk-starlink-service-outage-intl-hnk",
+      "https://www.cnn.com/2025/09/15/style/video/the-white-lotus-emmys-awards-digvid",
+      "https://www.cnn.com/2025/09/15/politics/tariffs-tax-cuts-trump-households-deficit-analysis",
+      "https://www.cnn.com/2025/09/14/entertainment/award-winners-list-emmy",
+      "https://www.cnn.com/entertainment/live-news/emmy-awards-show-updates-09-14-2025",
+      "https://www.cnn.com/2025/09/14/entertainment/recap-emmy-awards-noah-wyle"
     ]
   },
   "android.com": {
-    "lastAt": 1757579377913,
+    "lastAt": 1757925401333,
     "urls": [
       "https://www.android.com/",
       "https://android.com/",
@@ -1700,7 +1806,17 @@
       "https://www.android.com/intl/en_hk/",
       "https://www.android.com/intl/en_ie/",
       "https://www.android.com/intl/en_in/",
-      "https://www.android.com/intl/en_nz/"
+      "https://www.android.com/intl/en_nz/",
+      "https://www.android.com/intl/en_ph/",
+      "https://www.android.com/intl/es_us/",
+      "https://www.android.com/intl/en_uk/",
+      "https://www.android.com/intl/es-419_mx/",
+      "https://www.android.com/intl/es_es/",
+      "https://www.android.com/intl/fr_ca/",
+      "https://www.android.com/intl/fr_be/",
+      "https://www.android.com/intl/fr_fr/",
+      "https://www.android.com/intl/id_id/",
+      "https://www.android.com/intl/it_it/"
     ]
   },
   "myfritz.net": {
