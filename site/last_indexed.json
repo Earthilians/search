@@ -557,7 +557,7 @@
     "urls": []
   },
   "msn.com": {
-    "lastAt": 1757564834825,
+    "lastAt": 1757910452343,
     "urls": [
       "https://www.msn.com/en-us/play",
       "https://www.msn.com/en-us/play/bubble",
@@ -568,11 +568,21 @@
       "https://www.msn.com/en-us/play/casino",
       "https://www.msn.com/en-us/play/classics",
       "https://www.msn.com/en-us/play/family",
-      "https://www.msn.com/en-us/play/match"
+      "https://www.msn.com/en-us/play/match",
+      "https://www.msn.com/en-us/play/multiplayer",
+      "https://www.msn.com/en-us/play/platformer",
+      "https://www.msn.com/en-us/play/puzzle",
+      "https://www.msn.com/en-us/play/racing",
+      "https://www.msn.com/en-us/play/simulation",
+      "https://www.msn.com/en-us/play/sports",
+      "https://www.msn.com/en-us/play/word",
+      "https://www.msn.com/en-us/play/tagall",
+      "https://www.msn.com/en-us/play/strategy",
+      "https://www.msn.com/en-us/play/tag-2d"
     ]
   },
   "goo.gl": {
-    "lastAt": 1757564837535,
+    "lastAt": 1757910453384,
     "urls": [
       "https://goo.gl/"
     ]
@@ -22452,5 +22462,184 @@
   "pstatic.net": {
     "lastAt": 1757892134310,
     "urls": []
+  },
+  "siriusxm.com": {
+    "lastAt": 1757910455978,
+    "urls": [
+      "https://www.siriusxm.com/cardibnyc",
+      "https://www.siriusxm.com/duatour",
+      "https://www.siriusxm.com/firvegas",
+      "https://siriusxm.com/",
+      "https://www.siriusxm.com/project-amplify",
+      "https://www.siriusxm.com/privacy-policy",
+      "https://www.siriusxm.com/rates/2019/nov",
+      "https://www.siriusxm.com/fcc",
+      "https://www.siriusxm.com/ad-choices",
+      "https://www.siriusxm.com/sxm-web-terms-of-use"
+    ]
+  },
+  "dvr163.com": {
+    "lastAt": 1757910459155,
+    "urls": [
+      "https://dvr163.com/"
+    ]
+  },
+  "kwimgs.com": {
+    "lastAt": 1757910467287,
+    "urls": []
+  },
+  "nymag.com": {
+    "lastAt": 1757910475226,
+    "urls": [
+      "https://nymag.com/",
+      "https://nymag.com/article/weekly-crossword-puzzle-a-quiet-place.html",
+      "https://nymag.com/article/the-approval-matrix-week-of-september-8-2025.html",
+      "https://nymag.com/article/comments-week-of-september-8-2025.html",
+      "https://nymag.com/article/crossword-puzzle-we-got-the-beat.html",
+      "https://nymag.com/article/weekly-crossword-puzzle-describe-yourself-in-one-word.html",
+      "https://nymag.com/article/2025/08/if-you-travel-for-work-you-need-this-power-bank.html",
+      "https://nymag.com/article/joyce-wadler-my-breast-part-two-one-womans-cancer-story.html",
+      "https://nymag.com/article/comments-week-of-august-25-2025.html",
+      "https://nymag.com/article/best-new-tv-movies-books-music-august-27-september-24.html"
+    ]
+  },
+  "yandexadexchange.net": {
+    "lastAt": 1757910479774,
+    "urls": []
+  },
+  "imgix.net": {
+    "lastAt": 1757910538591,
+    "urls": []
+  },
+  "rottentomatoes.com": {
+    "lastAt": 1757910545263,
+    "urls": [
+      "https://rottentomatoes.com/"
+    ]
+  },
+  "serverdata.net": {
+    "lastAt": 1757910547510,
+    "urls": [
+      "https://serverdata.net/"
+    ]
+  },
+  "dbankedge.cn": {
+    "lastAt": 1757910551796,
+    "urls": []
+  },
+  "ezvizru.com": {
+    "lastAt": 1757910610610,
+    "urls": []
+  },
+  "northwestern.edu": {
+    "lastAt": 1757910612901,
+    "urls": [
+      "https://northwestern.edu/"
+    ]
+  },
+  "pullcm.com": {
+    "lastAt": 1757910615977,
+    "urls": []
+  },
+  "match.com": {
+    "lastAt": 1757910619523,
+    "urls": []
+  },
+  "paramountplus.com": {
+    "lastAt": 1757910621639,
+    "urls": [
+      "https://paramountplus.com/"
+    ]
+  },
+  "pullcf.com": {
+    "lastAt": 1757910624733,
+    "urls": []
+  },
+  "cedexis-test.com": {
+    "lastAt": 1757910627652,
+    "urls": []
+  },
+  "ttwstatic.com": {
+    "lastAt": 1757910630673,
+    "urls": []
+  },
+  "zztfly.com": {
+    "lastAt": 1757910637316,
+    "urls": []
+  },
+  "kgslb.com": {
+    "lastAt": 1757910696126,
+    "urls": []
+  },
+  "ueiwsp.com": {
+    "lastAt": 1757910699254,
+    "urls": []
+  },
+  "nasdaq.com": {
+    "lastAt": 1757910768062,
+    "urls": []
+  },
+  "google.us": {
+    "lastAt": 1757910771248,
+    "urls": [
+      "https://google.us/",
+      "https://www.google.com/intl/es/forms/about/",
+      "https://www.google.com/intl/es-419/forms/about/",
+      "https://www.google.com/intl/eu/forms/about/",
+      "https://www.google.com/intl/fil/forms/about/",
+      "https://www.google.com/intl/hr/forms/about/",
+      "https://www.google.com/intl/gl/forms/about/",
+      "https://www.google.com/intl/fr/forms/about/",
+      "https://www.google.com/intl/zu/forms/about/",
+      "https://www.google.com/intl/is/forms/about/"
+    ]
+  },
+  "ksapisrv.com": {
+    "lastAt": 1757910776983,
+    "urls": []
+  },
+  "powerbi.com": {
+    "lastAt": 1757910777804,
+    "urls": [
+      "https://powerbi.com/"
+    ]
+  },
+  "printercloud.com": {
+    "lastAt": 1757910780749,
+    "urls": []
+  },
+  "glanceapis.com": {
+    "lastAt": 1757910783877,
+    "urls": []
+  },
+  "crowdstrike.com": {
+    "lastAt": 1757910794149,
+    "urls": [
+      "https://crowdstrike.com/",
+      "https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/",
+      "https://www.crowdstrike.com/blog/whois-anchor-panda/",
+      "https://www.crowdstrike.com/blog/whois-numbered-panda/",
+      "https://www.crowdstrike.com/blog/crowdstrike-intelligence-adversary-based-approach/",
+      "https://www.crowdstrike.com/blog/http-iframe-injecting-linux-rootkit/",
+      "https://www.crowdstrike.com/blog/unpacking-dynamically-allocated-code/",
+      "https://www.crowdstrike.com/blog/crowdstrike-launch/",
+      "https://www.crowdstrike.com/blog/whois-samurai-panda/",
+      "https://www.crowdstrike.com/blog/whois-clever-kitten/"
+    ]
+  },
+  "ahrefs.com": {
+    "lastAt": 1757910807532,
+    "urls": [
+      "https://ahrefs.com/",
+      "https://ahrefs.com/academy/how-to-use-ahrefs",
+      "https://ahrefs.com/academy/link-building-course",
+      "https://ahrefs.com/academy/seo-training-course",
+      "https://ahrefs.com/academy/ahrefs-youtube",
+      "https://ahrefs.com/academy/blogging-for-business",
+      "https://ahrefs.com/academy/affiliate-marketing-course",
+      "https://ahrefs.com/academy/api-course",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/overview",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawl-budget"
+    ]
   }
 }

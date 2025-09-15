@@ -69956,5 +69956,467 @@
     "title": "NTP BUG 3505: NTPQ/NTPDC: Buffer Overflow in openhost()",
     "description": "The openhost() function used by ntpq and ntpdc is vulnerable to a buffer overflow. This bug was reso",
     "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe openhost() function used by ntpq and ntpdc is "
+  },
+  {
+    "id": "8c6b61c18afcd86bab316ebf26f416da6256d8cd",
+    "url": "https://www.msn.com/en-us/play/multiplayer",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ab27c8b38ff046ef2784ae3f9e3b8f96fc7f8f0d",
+    "url": "https://www.msn.com/en-us/play/platformer",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d9b82414ce84b46ca89f8d0cff5819db03fd060c",
+    "url": "https://www.msn.com/en-us/play/puzzle",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0facf4a46357127d1a4a3766e48f71c5ac60bc25",
+    "url": "https://www.msn.com/en-us/play/racing",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "eaaa9caf2aff81928f65190c9a3ff81a77cc730e",
+    "url": "https://www.msn.com/en-us/play/simulation",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e85332c8f43fde585a9dce5b79c920426efd9490",
+    "url": "https://www.msn.com/en-us/play/sports",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "eaa7152f566ba851d80d22a7d04697739eecb2fa",
+    "url": "https://www.msn.com/en-us/play/word",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1409d9b107a0da00625fcf2eeed912c0b6cadc77",
+    "url": "https://www.msn.com/en-us/play/tagall",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "872e1e59f8137a97935e2f228efb976869be3cee",
+    "url": "https://www.msn.com/en-us/play/strategy",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e824e93d0a38260bfbe9ed146651254a10c675ed",
+    "url": "https://www.msn.com/en-us/play/tag-2d",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5d43b10c967e343a66b19459d7bb4bef78ff5187",
+    "url": "https://www.siriusxm.com/cardibnyc",
+    "title": "Cardi B Album Listening Event | SiriusXM",
+    "description": "Cardi B Listening Event | SiriusXM",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "57fed3d59b54d98810580f7a41b34bb71fb23b54",
+    "url": "https://www.siriusxm.com/duatour",
+    "title": "Dua Lipa Radical Optimism Tour Sweeps | SiriusXM",
+    "description": "dua lipa",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "6d2fe3eff5429d030ebc9b84ca2f55cfe3341587",
+    "url": "https://www.siriusxm.com/firvegas",
+    "title": "Falling In Reverse Tour| SiriusXM",
+    "description": "fir tour",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "96dfb004bf48f9a84bd1b3cd1ff74082e13c02a7",
+    "url": "https://siriusxm.com/",
+    "title": "SiriusXM: Music, Sports, Talk & Podcasts, Live & On Demand",
+    "description": "Whether it’s new hip-hop and classic comedy or ‘90s jams and sports podcasts, everything you want to",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "360fc541c885da391c2bed658d5bce0a430ea06e",
+    "url": "https://www.siriusxm.com/project-amplify",
+    "title": "SiriusXM Project Amplify",
+    "description": "SiriusXM Project Amplify",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "d49a726f3155a2a62eab6d18d695af70170e5446",
+    "url": "https://www.siriusxm.com/privacy-policy",
+    "title": "Privacy Policy | SiriusXM",
+    "description": "SiriusXM's Privacy Policy",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios."
+  },
+  {
+    "id": "9daab4191d8ffb6e29f72c726b9ddc0763f88757",
+    "url": "https://www.siriusxm.com/rates/2019/nov",
+    "title": "SiriusXM Subscription Rates Effective November 13, 2019",
+    "description": "SiriusXM Subscription Rates Effective November 13, 2019",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "d8d7014933fd584a3b2cf28cda0d1c8f41095a59",
+    "url": "https://www.siriusxm.com/fcc",
+    "title": "FCC",
+    "description": "FCC Info",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSir"
+  },
+  {
+    "id": "4a6dd3f5e9c488b12de5ee87a2e5c13f6fe36cc1",
+    "url": "https://www.siriusxm.com/ad-choices",
+    "title": "Your Ad Choices",
+    "description": "Your Ad Choices",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nThi"
+  },
+  {
+    "id": "a7d4d1d7f76d442a2efa82a1e1574ab189ebd53d",
+    "url": "https://www.siriusxm.com/sxm-web-terms-of-use",
+    "title": "SiriusXM Web Terms of Use",
+    "description": "SiriusXM Web Terms of Use",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nEff"
+  },
+  {
+    "id": "7b155aba9e2045008deeee1dcabc6853c2cdcdbb",
+    "url": "https://dvr163.com/",
+    "title": "Eseecloud",
+    "description": "",
+    "text": "1. Make sure camera is powered on, and status light is on.\n2. If you are connected by WIFI, please m"
+  },
+  {
+    "id": "23e4a9e1cc4455d1d33119d0e09fc329c7d324f3",
+    "url": "https://nymag.com/",
+    "title": "New York Magazine",
+    "description": "New York Magazine obsessively chronicles the ideas, people, and cultural events that are forever res",
+    "text": "The 2025 Emmy Winners\nWill The Studio become the most awarded season of comedy ever?\nStephen Colbert"
+  },
+  {
+    "id": "5b8837a659a8a6fe10db1a46367aa750b3f04d92",
+    "url": "https://nymag.com/article/weekly-crossword-puzzle-a-quiet-place.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: September 13",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "277e9b50ef135802918fc5d7feb7ff410eaff03c",
+    "url": "https://nymag.com/article/the-approval-matrix-week-of-september-8-2025.html",
+    "title": "The Approval Matrix: Week of September 8, 2025",
+    "description": "New York Magazine’s Approval Matrix is our deliberately oversimplified guide to who falls where on o",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "dc0f6738f89f39c8d315a56a90498cf2cf4820e7",
+    "url": "https://nymag.com/article/comments-week-of-september-8-2025.html",
+    "title": "New York Magazine Comments: September 8, 2025 issue",
+    "description": "In the September 8, 2025 issue of New York Magazine, readers sound off on the legacy of the Kennedy ",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "869a7005459573552f51da8d1e449e7aa8885ec8",
+    "url": "https://nymag.com/article/crossword-puzzle-we-got-the-beat.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: August 30",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "21bc3e79ef0efda61d66586b516d5c51e902c1d6",
+    "url": "https://nymag.com/article/weekly-crossword-puzzle-describe-yourself-in-one-word.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: September 6",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "900a955ade55886c35bd33e22ac89de5396ab524",
+    "url": "https://nymag.com/article/2025/08/if-you-travel-for-work-you-need-this-power-bank.html",
+    "title": "If You Travel for Work, You Need This Power Bank",
+    "description": "PARTNER CONTENT: On-the-go power is increasingly crucial for travel. Here’s how EcoFlow is adapting ",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "48c7142d8dcb30406c06567ca04775ca9f8b60c6",
+    "url": "https://nymag.com/article/joyce-wadler-my-breast-part-two-one-womans-cancer-story.html",
+    "title": "Joyce Wadler: My Breast, Part Two: One Woman’s Cancer Story",
+    "description": "The second installment of ‘My Breast: One Woman’s Cancer Story’ by Joyce Wadler was first published ",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "4150137ad49c328ae0d8db599c2f901cddad4b69",
+    "url": "https://nymag.com/article/comments-week-of-august-25-2025.html",
+    "title": "New York Magazine Comments: August 25, 2025 issue",
+    "description": "In the August 25, 2025 issue of New York Magazine, readers sound off on the crypto kidnappers of Soh",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "173c5faa9fd080b35621fdc3b39353a1b2bc2ba2",
+    "url": "https://nymag.com/article/best-new-tv-movies-books-music-august-27-september-24.html",
+    "title": "25 Best New TV Shows, Movies, Music, Books (Aug 27–Sep 24)",
+    "description": "New York Magazine’s picks for what to see, hear, watch, and read, including: ‘Tron: Ares’ soundtrack",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "6e6153cce6c4f9ebb67e33ef84728c0f569172c6",
+    "url": "https://rottentomatoes.com/",
+    "title": "Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews | Rotten Tomatoes",
+    "description": "Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV",
+    "text": "Movies in theaters\nMovies at Home\nMore\nCertified fresh picks\nNew TV Tonight\nMost Popular TV on RT\nMo"
+  },
+  {
+    "id": "178041fb854f4bf880e1a68208b0cefc0b1aa713",
+    "url": "https://serverdata.net/",
+    "title": "Control Panel",
+    "description": "",
+    "text": "Internet Explorer is not officially supported and your experience may not be optimal. For the best e"
+  },
+  {
+    "id": "497b7c0905be7bec4de16663444bf96002584eb0",
+    "url": "https://northwestern.edu/",
+    "title": "Northwestern University",
+    "description": "",
+    "text": "Northwestern celebrates the start of a new year.\nExplore our latestresearch + innovation.\nAt Northwe"
+  },
+  {
+    "id": "7e9df1a38fc9b91f5ae62e3091a236978f7ee929",
+    "url": "https://paramountplus.com/",
+    "title": "Paramount Plus: Stream Movies, Shows & Live TV",
+    "description": "Watch thousands of hit movies and episodes of your favorite shows, all in one place. Stream it all o",
+    "text": "TOTAL COST OF ANNUAL PLAN BILLED UPFRONT. AUTO-RENEWS AT THEN REGULAR ANNUAL PRICE (CURRENTLY, PLANS"
+  },
+  {
+    "id": "b1ba04bde06929f6d5332cf48eba016476cb9208",
+    "url": "https://google.us/",
+    "title": "Google",
+    "description": "Search the world's information, including webpages, images, videos and more. Google has many special",
+    "text": "© 2025 - Privacy - Terms"
+  },
+  {
+    "id": "e9e666c1bacd4b13c51310a4d42dbfd485ea26d4",
+    "url": "https://www.google.com/intl/es/forms/about/",
+    "title": "Formularios de Google: creación de formularios online | Google Workspace",
+    "description": "Con Formularios de Google, que forma parte de Google Workspace, puedes crear fácilmente formularios ",
+    "text": "Crea fácilmente formularios y encuestas para recopilar datos y extraer estadísticas desde cualquier "
+  },
+  {
+    "id": "3b2bbf34eb504530c111db2bad7a80e1e9b6952a",
+    "url": "https://www.google.com/intl/es-419/forms/about/",
+    "title": "Formularios de Google: Creador de formularios en línea | Google Workspace",
+    "description": "Con Formularios de Google, crea fácilmente formularios y encuestas para recopilar datos y obtener es",
+    "text": "Crea fácilmente formularios y encuestas para recopilar datos y obtener estadísticas desde cualquier "
+  },
+  {
+    "id": "3c2a342f1049c659123c5f5904ada2fee1cff7aa",
+    "url": "https://www.google.com/intl/eu/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "28e030de308b50191bd9304a6318a3ff9fcf5efd",
+    "url": "https://www.google.com/intl/fil/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "800823af0eae9c544fc894ee4c7c9db5b58663be",
+    "url": "https://www.google.com/intl/hr/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "35b3ac44759761385bd248f1f69263181765ac3a",
+    "url": "https://www.google.com/intl/gl/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "b30f970bb2d1f9affcbcd3c03dcbac15eb24b067",
+    "url": "https://www.google.com/intl/fr/forms/about/",
+    "title": "Google Forms : outil de création de formulaires en ligne | Google Workspace",
+    "description": "Créez facilement des formulaires et des enquêtes avec Google Forms pour collecter des données et obt",
+    "text": "Créez facilement des formulaires et des enquêtes pour collecter des données et obtenir des informati"
+  },
+  {
+    "id": "af50818b0cb2c2f8419414be381808f703ca8a10",
+    "url": "https://www.google.com/intl/zu/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "d5eb686f160b5bea01094fdb0107277bc8ef85c8",
+    "url": "https://www.google.com/intl/is/forms/about/",
+    "title": "Google Forms: Online Form Builder | Google Workspace",
+    "description": "Use Google Forms to easily create forms and surveys to gather data and gain insights from anywhere, ",
+    "text": "Easily create forms and surveys to gather data and gain insights from anywhere.\nSelect from multiple"
+  },
+  {
+    "id": "34db74615eb14976ab931ac572d6a2101803719f",
+    "url": "https://powerbi.com/",
+    "title": "Power BI",
+    "description": "Sign in to Microsoft Power BI for intuitive data visualization, detailed analytics, and interactive ",
+    "text": ""
+  },
+  {
+    "id": "8f5a5c47304475b6cffde6fc57973daeb921c669",
+    "url": "https://crowdstrike.com/",
+    "title": "CrowdStrike: We Stop Breaches with AI-native Cybersecurity",
+    "description": "CrowdStrike is a global cybersecurity leader with an advanced cloud-native platform for protecting e",
+    "text": "Upcoming events\nConference\nFal.Con 2025\nLas Vegas, NV\nYour Cart\nAdded to Cart\nThere's nothing in you"
+  },
+  {
+    "id": "9c08c03ce7315bc9a910b2c80dd4f289584f4c14",
+    "url": "https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/",
+    "title": "Free Community Tool: CrowdInspect",
+    "description": "CrowdInspect is a free community tool for Microsoft Windows systems from CrowdStrike aimed to help a",
+    "text": "February 28, 2013\nCrowdInspect is a free community tool for Microsoft Windows systems from CrowdStri"
+  },
+  {
+    "id": "a03e5d185b2e8d9993cb90483fcaa744b3746e19",
+    "url": "https://www.crowdstrike.com/blog/whois-anchor-panda/",
+    "title": "Anchor Panda | Threat Actor Profile | CrowdStrike",
+    "description": "Anchor Panda is a China-based group of hackers that target civilian and military maritime operations",
+    "text": "March 22, 2013\nSign up now to receive the latest notifications and updates from CrowdStrike.\nDetect,"
+  },
+  {
+    "id": "3d887c6add310c03b04fccabbd73294f0c3c5705",
+    "url": "https://www.crowdstrike.com/blog/whois-numbered-panda/",
+    "title": "Read Featured Article \"Whois Numbered Panda\" by Adam Meyers",
+    "description": "Learn with CrowdStrike as they discuss Chinese-based hackers & how there are multiple groups with di",
+    "text": "March 29, 2013\nSign up now to receive the latest notifications and updates from CrowdStrike.\nDetect,"
+  },
+  {
+    "id": "b061bbe99531396358f8d1c78ec287a9ca1e5636",
+    "url": "https://www.crowdstrike.com/blog/crowdstrike-intelligence-adversary-based-approach/",
+    "title": "CrowdStrike Intelligence - Adversary-based Approach - crowdstrike.com",
+    "description": "Having spent the better part of the last 10 years dealing with various cyber adversaries. Learn what",
+    "text": "June 08, 2012\nHaving spent the better part of the last 10 years dealing with various cyber adversari"
+  },
+  {
+    "id": "0a6d33aea332cdf57876bb42cb32d8a2ad6e3b1d",
+    "url": "https://www.crowdstrike.com/blog/http-iframe-injecting-linux-rootkit/",
+    "title": "HTTP iframe Injecting Linux Rootkit - crowdstrike.com",
+    "description": "Learn about the HTTP iframe injecting Linux Rootkit discovered in 2012 with CrowdStrike & their pers",
+    "text": "November 18, 2012\nOn Tuesday, November 13, 2012, a previously unknown Linux rootkit was posted to th"
+  },
+  {
+    "id": "7561158d91d25e75865e7b49280bc80840d13331",
+    "url": "https://www.crowdstrike.com/blog/unpacking-dynamically-allocated-code/",
+    "title": "Unpacking Dynamically Allocated Code - crowdstrike.com",
+    "description": "Most malware is obfuscated to make it more difficult for traditional antivirus engines to detect, he",
+    "text": "October 29, 2012\nToday, most malware is obfuscated to make it more difficult for traditional antivir"
+  },
+  {
+    "id": "4a24d6c28a3ef622efd8a317ce7c455c7a404918",
+    "url": "https://www.crowdstrike.com/blog/crowdstrike-launch/",
+    "title": "Read Featured Executive Viewpoint Article by George Kurtz",
+    "description": "CrowdStrike launches in stealth-mode with $26 million Series A round led b Warburg Pincus.",
+    "text": "February 21, 2012\nCrowdStrike launches in stealth-mode with $26 million Series A round led by Warbur"
+  },
+  {
+    "id": "83e9d1227562c77a144aad050176ca2590377755",
+    "url": "https://www.crowdstrike.com/blog/whois-samurai-panda/",
+    "title": "Samurai Panda | Threat Actor Profile | CrowdStrike",
+    "description": "Operation since 2009, Samurai Panda is a China-based criminal organization that use malware to targe",
+    "text": "April 12, 2013\nThis week we’re back to our old friends with a Chinese nexus. To recount the last few"
+  },
+  {
+    "id": "4f2d4b221d56d741572c86fa9d7b134649e3da19",
+    "url": "https://www.crowdstrike.com/blog/whois-clever-kitten/",
+    "title": "Clever Kitten | Threat Actor Profile | CrowdStrike",
+    "description": "Clever Kitten is an Iran-based group of hackers that primarily target global companies with strategi",
+    "text": "April 04, 2013\nOver the last several weeks, CrowdStrike has been discussing some of the dozens of ad"
+  },
+  {
+    "id": "bc10354d1b418b6fb6deb353157f80961494486e",
+    "url": "https://ahrefs.com/",
+    "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
+    "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI ",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "06e39e2aee26e16561a96d0e0da437cbcf01cc4c",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs",
+    "title": "How to use Ahrefs",
+    "description": "Learn how to use Ahrefs' SEO tools and reports to improve SEO and get more organic traffic.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "0fa5eddf611e8ac950aa0d85609208cedaade3da",
+    "url": "https://ahrefs.com/academy/link-building-course",
+    "title": "Advanced Link Building Course",
+    "description": "In this free link building course, you’ll learn how to get backlinks at scale. The training covers p",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "47e085196a816d4da327cada9c32957ad77dce56",
+    "url": "https://ahrefs.com/academy/seo-training-course",
+    "title": "SEO Course for Beginners",
+    "description": "In this free SEO training course, you'll learn how to get organic traffic from search month after mo",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "d0f3ed17d253e1793533d5b65246e0a351a716a6",
+    "url": "https://ahrefs.com/academy/ahrefs-youtube",
+    "title": "The Best of AhrefsTV",
+    "description": "Learn SEO from a curated list of the best SEO tutorials from Ahrefs’ YouTube channel.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "3661bb5eaef0957e74f4ab629264fd9d6c07425a",
+    "url": "https://ahrefs.com/academy/blogging-for-business",
+    "title": "Blogging for business",
+    "description": "Blogging for Business is a free blogging course where you'll learn how to start and grow a blog past",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "8ae65659a3c25ee48cebef2a1835bfb63e16f6ec",
+    "url": "https://ahrefs.com/academy/affiliate-marketing-course",
+    "title": "Affiliate Marketing Course for Beginners",
+    "description": "Take our free affiliate marketing course and learn how to start and grow your own revenue-generating",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "cee4db57aa478eb5c4a0928e21713fe34a966ba3",
+    "url": "https://ahrefs.com/academy/api-course",
+    "title": "Learn Ahrefs API: A beginner course",
+    "description": "This course teaches you to run requests and unlock the full potential of Ahrefs data with our API.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "81868c184303594b99d7a3bc0c28f9aa3b64e956",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/overview",
+    "title": "Overview",
+    "description": "Learn about our AhrefsBot crawler, which visits 8 billion web pages every day and provides essential",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "5fe64d6e40d396b8fc00b49252d223faa67ef1e8",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawl-budget",
+    "title": "Crawl budget",
+    "description": "Learn about the trade-off between freshness and good coverage when building a big index of data like",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
   }
 ]
