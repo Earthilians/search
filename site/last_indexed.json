@@ -4011,17 +4011,17 @@
     ]
   },
   "yahoo.co.jp": {
-    "lastAt": 1757604053868,
+    "lastAt": 1757953747828,
     "urls": [
       "https://yahoo.co.jp/"
     ]
   },
   "indeed.com": {
-    "lastAt": 1757604057005,
+    "lastAt": 1757953750982,
     "urls": []
   },
   "bilibili.com": {
-    "lastAt": 1757604061314,
+    "lastAt": 1757953754543,
     "urls": [
       "https://www.bilibili.com/v/douga/",
       "https://www.bilibili.com/v/douga/mmd/",
@@ -4032,17 +4032,27 @@
       "https://www.bilibili.com/v/douga/other/",
       "https://www.bilibili.com/v/anime/",
       "https://www.bilibili.com/v/anime/information/",
-      "https://www.bilibili.com/v/anime/finish/"
+      "https://www.bilibili.com/v/anime/finish/",
+      "https://www.bilibili.com/v/anime/offical/",
+      "https://www.bilibili.com/v/guochuang/chinese/",
+      "https://www.bilibili.com/v/guochuang/",
+      "https://www.bilibili.com/v/guochuang/puppetry/",
+      "https://www.bilibili.com/v/guochuang/original/",
+      "https://www.bilibili.com/v/music/",
+      "https://www.bilibili.com/v/guochuang/information/",
+      "https://www.bilibili.com/v/music/original/",
+      "https://www.bilibili.com/v/music/cover/",
+      "https://www.bilibili.com/v/music/vocaloid/"
     ]
   },
   "telegram.org": {
-    "lastAt": 1757604063617,
+    "lastAt": 1757953756425,
     "urls": [
       "https://telegram.org/"
     ]
   },
   "nasa.gov": {
-    "lastAt": 1757604067198,
+    "lastAt": 1757953762289,
     "urls": [
       "https://www.nasa.gov/history/glenn-orbits-the-earth/",
       "https://nasa.gov/",
@@ -4053,19 +4063,29 @@
       "https://www.nasa.gov/centers-and-facilities/glenn/watch-nasa-glenn-intern-stories-on-2019-national-intern-day/",
       "https://www.nasa.gov/centers-and-facilities/glenn/a-need-for-speed-life-as-a-champion-racecar-driver-and-nasa-propulsion-facility-manager/",
       "https://www.nasa.gov/people-of-nasa/nasas-chas-hoff-connects-with-his-native-american-roots/",
-      "https://www.nasa.gov/people-of-nasa/nasas-jeremiah-ocallahan-values-native-american-roots-and-community-outreach/"
+      "https://www.nasa.gov/people-of-nasa/nasas-jeremiah-ocallahan-values-native-american-roots-and-community-outreach/",
+      "https://www.nasa.gov/aeronautics/looking-back-at-how-nasa-looked-ahead-during-2013/",
+      "https://www.nasa.gov/centers-and-facilities/armstrong/3d-printing-offers-multi-dimensional-benefits-to-aviation/",
+      "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-10-favorite-ways-to-celebrate-national-aviation-day/",
+      "https://www.nasa.gov/aeronautics/nasa-book-reveals-fascination-with-wing-twist/",
+      "https://www.nasa.gov/centers-and-facilities/langley/a-sign-from-nasas-past-goes-to-national-air-and-space-museum/",
+      "https://www.nasa.gov/centers-and-facilities/armstrong/access-ii-confirms-jet-biofuel-burns-cleaner/",
+      "https://www.nasa.gov/centers-and-facilities/armstrong/access-ii-alternative-jet-fuel-flight-tests-begin/",
+      "https://www.nasa.gov/aeronautics/seeking-reality-in-the-future-of-aeronautical-simulation/",
+      "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aeronautics-contributes-to-orions-atmospheric-flight-capability/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasa-aces-delicate-operation-with-aircraft-tail/"
     ]
   },
   "wbx2.com": {
-    "lastAt": 1757604126052,
+    "lastAt": 1757953821171,
     "urls": []
   },
   "ibyteimg.com": {
-    "lastAt": 1757604129214,
+    "lastAt": 1757953824272,
     "urls": []
   },
   "independent.co.uk": {
-    "lastAt": 1757604133563,
+    "lastAt": 1757953829393,
     "urls": [
       "https://www.independent.co.uk/news/uk/politics/mandelson-epstein-starmer-us-ambassador-trump-b2824777.html",
       "https://www.independent.co.uk/news/world/americas/us-politics/charlie-kirk-shot-suspect-utah-manhunt-b2824720.html",
@@ -4076,11 +4096,21 @@
       "https://www.independent.co.uk/news/business/docklands-light-railway-london-underground-commuters-south-western-railway-tfl-b2824728.html",
       "https://www.independent.co.uk/news/environment-united-nations-brazil-arizona-state-university-university-of-washington-b2824804.html",
       "https://www.independent.co.uk/bulletin/news/driving-test-uk-fail-success-rate-b2824799.html",
-      "https://www.independent.co.uk/news/uk/politics/zack-polanski-labour-mp-defections-starmer-b2823278.html"
+      "https://www.independent.co.uk/news/uk/politics/zack-polanski-labour-mp-defections-starmer-b2823278.html",
+      "https://www.independent.co.uk/news/world/americas/us-politics/covid-vaccine-2025-trump-rfk-states-b2826931.html",
+      "https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-charlie-kirk-show-white-house-b2826909.html",
+      "https://www.independent.co.uk/news/uk/home-news/ai-hate-speech-study-university-pennsylvania-b2826860.html",
+      "https://www.independent.co.uk/life-style/paris-hilton-mini-fridges-recall-b2826891.html",
+      "https://www.independent.co.uk/bulletin/news/ai-images-immigration-far-right-b2826929.html",
+      "https://www.independent.co.uk/news/uk/home-news/london-protests-tommy-robinson-march-live-musk-arrests-b2826464.html",
+      "https://www.independent.co.uk/news/uk/crime/constance-marten-mark-gordon-sentence-old-bailey-b2824835.html",
+      "https://www.independent.co.uk/news/uk/home-news/trump-state-visit-starmer-king-charles-uk-latest-updates-b2826825.html",
+      "https://www.independent.co.uk/extras/indybest/christmasgifts/christmas-food-supermarkets-order-online-b2656907.html",
+      "https://www.independent.co.uk/news/world/americas/us-politics/trump-h1b-visa-elon-musk-ramaswamy-b2826933.html"
     ]
   },
   "nvidia.com": {
-    "lastAt": 1757604139092,
+    "lastAt": 1757953861532,
     "urls": [
       "https://nvidia.com/",
       "https://www.nvidia.com/en-gb/case-studies/creative-studio-enhances-visual-effects-and-virtual-production-with-real-time-rendering/",
@@ -4091,15 +4121,25 @@
       "https://www.nvidia.com/en-gb/case-studies/unlocking-the-mysteries-of-mutational-signatures-of-cancer-with-nvidia-accelerated-solutions/",
       "https://www.nvidia.com/en-gb/case-studies/gpu-powered-smarter-faster-visual-search/",
       "https://www.nvidia.com/en-gb/case-studies/delivering-millions-of-ai-powered-auto-repair-estimates-for-better-claims-experiences/",
-      "https://www.nvidia.com/en-gb/case-studies/american-express-prevents-fraud-and-foils-cybercrime-with-nvidia-ai-solutions/"
+      "https://www.nvidia.com/en-gb/case-studies/american-express-prevents-fraud-and-foils-cybercrime-with-nvidia-ai-solutions/",
+      "https://www.nvidia.com/cs-cz/geforce-now/fortnite-mobile/",
+      "https://www.nvidia.com/cs-cz/geforce-now/games/",
+      "https://www.nvidia.com/cs-cz/geforce-now/geforce-now-subscribe/geforce-now-subscribe-core/",
+      "https://www.nvidia.com/cs-cz/geforce-now/system-reqs/",
+      "https://www.nvidia.com/cs-cz/geforce-now/faq/",
+      "https://www.nvidia.com/cs-cz/geforce-now/",
+      "https://www.nvidia.com/cs-cz/geforce-now/terms-of-use/",
+      "https://www.nvidia.com/cs-cz/geforce-now/recommended/",
+      "https://www.nvidia.com/cs-cz/geforce-now/release-highlights/",
+      "https://www.nvidia.com/cs-cz/geforce-now/memberships/"
     ]
   },
   "amazonalexa.com": {
-    "lastAt": 1757604143646,
+    "lastAt": 1757953866755,
     "urls": []
   },
   "dell.com": {
-    "lastAt": 1757604152091,
+    "lastAt": 1757953874749,
     "urls": [
       "https://dell.com/",
       "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/5u?appliedRefinements=34896",
@@ -4110,11 +4150,21 @@
       "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/gpu-supported?appliedRefinements=43063",
       "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/4001-or-more?appliedRefinements=34886",
       "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/modular-infrastructure?appliedRefinements=35987",
-      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/edge?appliedRefinements=37547"
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/edge?appliedRefinements=37547",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/others?appliedRefinements=41514",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/1-socket?appliedRefinements=35167",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/1001-2000?appliedRefinements=34883",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/amd?appliedRefinements=34947",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/3001-4000?appliedRefinements=34885",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/ships-within-10-days?appliedRefinements=35781",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/2-socket?appliedRefinements=35168",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/rack?appliedRefinements=35985",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/tower?appliedRefinements=35986",
+      "https://www.dell.com/en-us/shop/dell-poweredge-servers/sr/enterprise-products/servers/3u?appliedRefinements=34894"
     ]
   },
   "wyzecam.com": {
-    "lastAt": 1757604156048,
+    "lastAt": 1757953878748,
     "urls": [
       "https://wyzecam.com/",
       "https://www.wyze.com/blogs/lighting-automation",
@@ -4122,11 +4172,18 @@
       "https://www.wyze.com/blogs/smart-home",
       "https://www.wyze.com/blogs/wyze-news",
       "https://www.wyze.com/blogs/smart-home/sleepy-time-lighting",
-      "https://www.wyze.com/blogs/smart-home/front-door-motion-detection-alerts"
+      "https://www.wyze.com/blogs/smart-home/front-door-motion-detection-alerts",
+      "https://www.wyze.com/blogs/smart-home/color-light-notifier-a-k-a-red-light-green-light",
+      "https://www.wyze.com/blogs/smart-home/pet-detection",
+      "https://www.wyze.com/blogs/smart-home/the-disco-switch",
+      "https://www.wyze.com/blogs/smart-home/why-every-pet-owner-should-invest-in-a-home-security-camera",
+      "https://www.wyze.com/blogs/smart-home/wyze-home-monitoring-can-now-trigger-rules",
+      "https://www.wyze.com/blogs/smart-home/introducing-cam-protect-home-security",
+      "https://www.wyze.com/blogs/smart-home/4-reasons-app-best-choice-for-home-security"
     ]
   },
   "unsplash.com": {
-    "lastAt": 1757604170093,
+    "lastAt": 1757953893832,
     "urls": [
       "https://unsplash.com/",
       "https://unsplash.com/es",
@@ -4137,25 +4194,35 @@
       "https://unsplash.com/de",
       "https://unsplash.com/pt-br",
       "https://unsplash.com/id",
-      "https://unsplash.com/explore"
+      "https://unsplash.com/explore",
+      "https://unsplash.com/ja/%E6%8E%A2%E3%81%99",
+      "https://unsplash.com/es/explora",
+      "https://unsplash.com/it/esplora",
+      "https://unsplash.com/de/entdecken",
+      "https://unsplash.com/fr/explorer",
+      "https://unsplash.com/ko/%ED%83%90%EC%83%89",
+      "https://unsplash.com/license",
+      "https://unsplash.com/pt-br/explorar",
+      "https://unsplash.com/es/licencia",
+      "https://unsplash.com/id/jelajahi"
     ]
   },
   "temu.com": {
-    "lastAt": 1757604174676,
+    "lastAt": 1757953896530,
     "urls": [
       "https://temu.com/"
     ]
   },
   "xcal.tv": {
-    "lastAt": 1757604177764,
+    "lastAt": 1757953899601,
     "urls": []
   },
   "list-manage.com": {
-    "lastAt": 1757604236617,
+    "lastAt": 1757953958414,
     "urls": []
   },
   "google.com.br": {
-    "lastAt": 1757604239329,
+    "lastAt": 1757953961831,
     "urls": [
       "https://www.google.com/intl/en_uk/gmail/about/policy/",
       "https://google.com.br/",
@@ -4166,11 +4233,21 @@
       "https://www.google.com/intl/es/gmail/about/",
       "https://www.google.com/intl/es-419/gmail/about/for-work/",
       "https://www.google.com/intl/es/gmail/about/policy/",
-      "https://www.google.com/intl/es/gmail/about/for-work/"
+      "https://www.google.com/intl/es/gmail/about/for-work/",
+      "https://www.google.com/intl/nl/forms/about/",
+      "https://www.google.com/intl/no/forms/about/",
+      "https://www.google.com/intl/hu/forms/about/",
+      "https://www.google.com/intl/it/forms/about/",
+      "https://www.google.com/intl/pl/forms/about/",
+      "https://www.google.com/intl/pt-br/forms/about/",
+      "https://www.google.com/intl/pt-pt/forms/about/",
+      "https://www.google.com/intl/ro/forms/about/",
+      "https://www.google.com/intl/sk/forms/about/",
+      "https://www.google.com/intl/sl/forms/about/"
     ]
   },
   "cornell.edu": {
-    "lastAt": 1757604242901,
+    "lastAt": 1757953965200,
     "urls": [
       "https://cornell.edu/",
       "https://www.cornell.edu/admissions/",
@@ -4181,11 +4258,18 @@
       "https://www.cornell.edu/engagement/",
       "https://www.cornell.edu/live-view/",
       "https://www.cornell.edu/video/",
-      "https://www.cornell.edu/student-life/"
+      "https://www.cornell.edu/student-life/",
+      "https://www.cornell.edu/academics/fields.cfm",
+      "https://www.cornell.edu/academics/colleges.cfm",
+      "https://www.cornell.edu/about/timeline/",
+      "https://www.cornell.edu/indigenous/",
+      "https://www.cornell.edu/about/maps/",
+      "https://www.cornell.edu/visit/",
+      "https://www.cornell.edu/life-at-cornell/in-a-day/"
     ]
   },
   "ip-api.com": {
-    "lastAt": 1757604243850,
+    "lastAt": 1757953965733,
     "urls": [
       "https://ip-api.com/",
       "https://ip-api.com/docs/",
@@ -4196,17 +4280,20 @@
       "https://ip-api.com/docs/api:serialized_php",
       "https://ip-api.com/docs/api:batch",
       "https://ip-api.com/docs/dns",
-      "https://ip-api.com/docs/correction"
+      "https://ip-api.com/docs/correction",
+      "https://ip-api.com/docs/legal",
+      "https://ip-api.com/docs/statistics",
+      "https://ip-api.com/docs/unban"
     ]
   },
   "xhamster.com": {
-    "lastAt": 1757604246878,
+    "lastAt": 1757953967820,
     "urls": [
       "https://xhamster.com/"
     ]
   },
   "duckduckgo.com": {
-    "lastAt": 1757604248472,
+    "lastAt": 1757953968841,
     "urls": [
       "https://duckduckgo.com/",
       "https://duckduckgo.com/settings",
@@ -4217,29 +4304,39 @@
       "https://duckduckgo.com/newsletter",
       "https://duckduckgo.com/updates",
       "https://duckduckgo.com/hiring",
-      "https://duckduckgo.com/email"
+      "https://duckduckgo.com/email",
+      "https://duckduckgo.com/press",
+      "https://duckduckgo.com/bangs",
+      "https://duckduckgo.com/how-we-work",
+      "https://duckduckgo.com/donations",
+      "https://duckduckgo.com/compare-privacy",
+      "https://duckduckgo.com/how-we-hire",
+      "https://duckduckgo.com/acceptable-use",
+      "https://duckduckgo.com/privacy",
+      "https://duckduckgo.com/terms",
+      "https://duckduckgo.com/newbang"
     ]
   },
   "pixabay.com": {
-    "lastAt": 1757604251550,
+    "lastAt": 1757953971966,
     "urls": []
   },
   "pangle.io": {
-    "lastAt": 1757604255111,
+    "lastAt": 1757953975390,
     "urls": []
   },
   "dotomi.com": {
-    "lastAt": 1757604255690,
+    "lastAt": 1757953976150,
     "urls": [
       "https://dotomi.com/"
     ]
   },
   "aws.dev": {
-    "lastAt": 1757604258591,
+    "lastAt": 1757953979220,
     "urls": []
   },
   "yandex.com": {
-    "lastAt": 1757604273407,
+    "lastAt": 1757953993882,
     "urls": [
       "https://yandex.com/",
       "https://yandex.com/legal",
@@ -4247,23 +4344,23 @@
     ]
   },
   "quora.com": {
-    "lastAt": 1757604275877,
+    "lastAt": 1757953995588,
     "urls": [
       "https://quora.com/"
     ]
   },
   "goskope.com": {
-    "lastAt": 1757604278968,
+    "lastAt": 1757953999061,
     "urls": []
   },
   "steamcommunity.com": {
-    "lastAt": 1757608060811,
+    "lastAt": 1757953999680,
     "urls": [
       "https://steamcommunity.com/"
     ]
   },
   "yximgs.com": {
-    "lastAt": 1757608064167,
+    "lastAt": 1757954003132,
     "urls": []
   },
   "dnsmadeeasy.com": {
