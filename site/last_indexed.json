@@ -6737,11 +6737,11 @@
     "urls": []
   },
   "ieee.org": {
-    "lastAt": 1757632821365,
+    "lastAt": 1757987013607,
     "urls": []
   },
   "newrelic.com": {
-    "lastAt": 1757632824719,
+    "lastAt": 1757987016465,
     "urls": [
       "https://newrelic.com/",
       "https://newrelic.com/blog/nerdlog/unify-monitoring-across-the-entire-sap-landscape",
@@ -6752,45 +6752,55 @@
       "https://newrelic.com/press-release/20170125",
       "https://newrelic.com/press-release/20240911",
       "https://newrelic.com/press-release/20161223",
-      "https://newrelic.com/blog/how-to-relic/observability-as-code-ai-apps-new-relic-pulumi"
+      "https://newrelic.com/blog/how-to-relic/observability-as-code-ai-apps-new-relic-pulumi",
+      "https://newrelic.com/blog/how-to-relic/optimizing-ai-chatbot-performance",
+      "https://newrelic.com/blog/how-to-relic/opentelemetry-community-demo-app-new-relic",
+      "https://newrelic.com/press-release/20161201",
+      "https://newrelic.com/blog/nerdlog/sap-basis-admins-excel-with-new-relic",
+      "https://newrelic.com/blog/how-to-relic/monitor-oracle-exacc",
+      "https://newrelic.com/press-release/20161123",
+      "https://newrelic.com/press-release/20240923",
+      "https://newrelic.com/blog/how-to-relic/data-pipeline-observability",
+      "https://newrelic.com/press-release/20161116",
+      "https://newrelic.com/blog/how-to-relic/chatgpto1-accelerated-success-in-observability"
     ]
   },
   "bytefcdn-ttpus.com": {
-    "lastAt": 1757632828285,
+    "lastAt": 1757987019646,
     "urls": []
   },
   "aboutads.info": {
-    "lastAt": 1757632829893,
+    "lastAt": 1757987020410,
     "urls": [
       "https://aboutads.info/"
     ]
   },
   "xerox.com": {
-    "lastAt": 1757632834678,
+    "lastAt": 1757987024667,
     "urls": [
       "https://xerox.com/"
     ]
   },
   "he.net": {
-    "lastAt": 1757632836341,
+    "lastAt": 1757987026537,
     "urls": [
       "https://he.net/"
     ]
   },
   "w3schools.com": {
-    "lastAt": 1757632838642,
+    "lastAt": 1757987028474,
     "urls": [
       "https://w3schools.com/"
     ]
   },
   "elpais.com": {
-    "lastAt": 1757632840581,
+    "lastAt": 1757987029982,
     "urls": [
       "https://elpais.com/"
     ]
   },
   "pinimg.com": {
-    "lastAt": 1757632845463,
+    "lastAt": 1757987036879,
     "urls": [
       "https://pinimg.com/",
       "https://www.pinterest.com/ideas/big-hole-charm-beads/908317145438/",
@@ -6801,15 +6811,25 @@
       "https://www.pinterest.com/ideas/how-to-replace-mascarpone-in-recipes/894287030998/",
       "https://www.pinterest.com/ideas/unique-snack-serving-ideas/897995033264/",
       "https://www.pinterest.com/ideas/yellow-moccamaster-coffee-maker/941638249125/",
-      "https://www.pinterest.com/ideas/seasonal-reflection-quotes/949217800332/"
+      "https://www.pinterest.com/ideas/seasonal-reflection-quotes/949217800332/",
+      "https://www.pinterest.com/kristyw1401/meals/",
+      "https://www.pinterest.com/melimgf/mini-pp/",
+      "https://www.pinterest.com/misarozman/outfit-ideas/",
+      "https://www.pinterest.com/suchartlikitwon/%E0%B8%AB%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2/",
+      "https://www.pinterest.com/kaitybreanna80/connie/",
+      "https://www.pinterest.com/j_burkh/passover/",
+      "https://www.pinterest.com/brielleb20/home-interior/",
+      "https://www.pinterest.com/laurajeanaberna/chicken/",
+      "https://www.pinterest.com/delauterburgess/food/",
+      "https://www.pinterest.com/pizzaboat/meals/"
     ]
   },
   "avsxappcaptiveportal.com": {
-    "lastAt": 1757632904276,
+    "lastAt": 1757987095688,
     "urls": []
   },
   "jotform.com": {
-    "lastAt": 1757632907916,
+    "lastAt": 1757987099424,
     "urls": [
       "https://www.jotform.com/workflow-templates/",
       "https://jotform.com/",
@@ -6820,11 +6840,21 @@
       "https://www.jotform.com/workflow-templates/category/finance",
       "https://www.jotform.com/workflow-templates/category/it",
       "https://www.jotform.com/workflow-templates/category/healthcare",
-      "https://www.jotform.com/workflow-templates/category/human-resources"
+      "https://www.jotform.com/workflow-templates/category/human-resources",
+      "https://www.jotform.com/workflow-templates/category/nonprofit",
+      "https://www.jotform.com/workflow-templates/category/loan-application",
+      "https://www.jotform.com/workflow-templates/category/procurement",
+      "https://www.jotform.com/workflow-templates/category/marketing",
+      "https://www.jotform.com/workflow-templates/category/project-management",
+      "https://www.jotform.com/workflow-templates/category/reservation",
+      "https://www.jotform.com/workflow-templates/category/requisition",
+      "https://www.jotform.com/workflow-templates/category/sales",
+      "https://www.jotform.com/workflow-templates/discount-approval-process-template",
+      "https://www.jotform.com/workflow-templates/meeting-approval-workflow-template"
     ]
   },
   "pendo.io": {
-    "lastAt": 1757632915650,
+    "lastAt": 1757987107387,
     "urls": [
       "https://www.pendo.io/",
       "https://pendo.io/",
@@ -6835,11 +6865,20 @@
       "https://www.pendo.io/product/features/",
       "https://www.pendo.io/mobile-app-personalization/",
       "https://www.pendo.io/product/nps/",
-      "https://www.pendo.io/careers-old/product-team/"
+      "https://www.pendo.io/careers-old/product-team/",
+      "https://www.pendo.io/customer-stories-de/",
+      "https://www.pendo.io/solutions/growth/",
+      "https://www.pendo.io/solutions/saas/",
+      "https://www.pendo.io/events-webinars/",
+      "https://www.pendo.io/customer-stories-fr/",
+      "https://www.pendo.io/building-better-employee-experiences-by-delivering-great-digital-products/",
+      "https://www.pendo.io/solutions/customer-retention/",
+      "https://www.pendo.io/product-engagement-assessment/",
+      "https://www.pendo.io/customer-stories/jp/"
     ]
   },
   "yieldmo.com": {
-    "lastAt": 1757632920988,
+    "lastAt": 1757987114375,
     "urls": [
       "https://yieldmo.com/ttd-deal-set-up-easy-proposal-api/",
       "https://yieldmo.com/ttd-activate-yieldmo-supply/",
@@ -6848,15 +6887,21 @@
       "https://yieldmo.com/yieldmo-strengthens-executive-leadership-team-with-two-new-appointments/",
       "https://yieldmo.com/the-industry-pullback-from-cookie-based-tech-proves-cookies-are-already-dead/",
       "https://yieldmo.com/the-robots-are-coming-the-robots-are-coming/",
-      "https://yieldmo.com/ttd-find-partner-seat-id/"
+      "https://yieldmo.com/ttd-find-partner-seat-id/",
+      "https://yieldmo.com/dv360-how-to-traffic-high-impact-formats/",
+      "https://yieldmo.com/yieldmo-appoints-holly-danko-as-senior-vice-president-of-people/",
+      "https://yieldmo.com/yieldmo-announces-lindsey-digiorgio-as-new-chief-marketing-officer/",
+      "https://yieldmo.com/abridged-identity/",
+      "https://yieldmo.com/the-identity-crisis/",
+      "https://yieldmo.com/cedara-debuts-industry-first-corporate-sustainability-measurement-solution/"
     ]
   },
   "tbcache.com": {
-    "lastAt": 1757632979802,
+    "lastAt": 1757987173189,
     "urls": []
   },
   "brave.com": {
-    "lastAt": 1757632981528,
+    "lastAt": 1757987175106,
     "urls": [
       "https://brave.com/learn/using-chrome-extensions-in-brave/",
       "https://brave.com/whats-new/playlist/",
@@ -6867,15 +6912,25 @@
       "https://brave.com/glossary/penetration-testing/",
       "https://brave.com/learn/how-to-block-ads-on-youtube/",
       "https://brave.com/learn/what-is-vpn/",
-      "https://brave.com/ai/intro-to-large-language-models/"
+      "https://brave.com/ai/intro-to-large-language-models/",
+      "https://brave.com/ai/what-is-artificial-intelligence/",
+      "https://brave.com/learn/best-private-browser/",
+      "https://brave.com/search/api/guides/what-is-search-engine-api/",
+      "https://brave.com/glossary/cyberbullying/",
+      "https://brave.com/web3/intro-to-web3-security/",
+      "https://brave.com/web3/what-is-defi/",
+      "https://brave.com/web3/what-is-web3/",
+      "https://brave.com/web3/what-is-crypto-wallet/",
+      "https://brave.com/learn/guide-to-earning-money-from-youtube/",
+      "https://brave.com/learn/making-money-streaming-on-twitch/"
     ]
   },
   "ups.com": {
-    "lastAt": 1757633050337,
+    "lastAt": 1757987243910,
     "urls": []
   },
   "livejournal.com": {
-    "lastAt": 1757633058404,
+    "lastAt": 1757987252911,
     "urls": [
       "https://www.livejournal.com/abuse/policy-en.bml",
       "https://www.livejournal.com/abuse/policy-ru.bml",
@@ -6886,43 +6941,53 @@
       "https://www.livejournal.com/shop/",
       "https://www.livejournal.com/interesting/",
       "https://www.livejournal.com/interests",
-      "https://www.livejournal.com/site/"
+      "https://www.livejournal.com/site/",
+      "https://www.livejournal.com/support/",
+      "https://www.livejournal.com/about_livejournal/",
+      "https://www.livejournal.com/about_checklist/",
+      "https://www.livejournal.com/media-partners-program/",
+      "https://www.livejournal.com/app/",
+      "https://www.livejournal.com/about/commerce",
+      "https://www.livejournal.com/support/faq/1.html",
+      "https://www.livejournal.com/support/faq/100.html",
+      "https://www.livejournal.com/support/faq/101.html",
+      "https://www.livejournal.com/support/faq/102.html"
     ]
   },
   "gm.com": {
-    "lastAt": 1757633059031,
+    "lastAt": 1757987253276,
     "urls": [
       "https://gm.com/"
     ]
   },
   "1rx.io": {
-    "lastAt": 1757633062121,
+    "lastAt": 1757987256223,
     "urls": []
   },
   "cdnhwc1.com": {
-    "lastAt": 1757633067624,
+    "lastAt": 1757987262189,
     "urls": []
   },
   "crwdcntrl.net": {
-    "lastAt": 1757633126437,
+    "lastAt": 1757987320997,
     "urls": []
   },
   "gandi-ns.fr": {
-    "lastAt": 1757633130031,
+    "lastAt": 1757987324709,
     "urls": []
   },
   "bytefcdn-ttpeu.com": {
-    "lastAt": 1757633133573,
+    "lastAt": 1757987328118,
     "urls": []
   },
   "warnerbros.com": {
-    "lastAt": 1757633134754,
+    "lastAt": 1757987329317,
     "urls": [
       "https://warnerbros.com/"
     ]
   },
   "techcrunch.com": {
-    "lastAt": 1757633137503,
+    "lastAt": 1757987332416,
     "urls": [
       "https://techcrunch.com/",
       "https://techcrunch.com/newsletters/strictlyvc/",
@@ -6933,29 +6998,39 @@
       "https://techcrunch.com/newsletters/techcrunch-mobility/",
       "https://techcrunch.com/newsletters/techcrunch-fintech/",
       "https://techcrunch.com/newsletters/startups-weekly/",
-      "https://techcrunch.com/newsletters/techcrunch-week-in-review/"
+      "https://techcrunch.com/newsletters/techcrunch-week-in-review/",
+      "https://techcrunch.com/video/apples-new-center-stage-camera-always-keeps-you-in-frame/",
+      "https://techcrunch.com/newsletters/techcrunch-daily-news/",
+      "https://techcrunch.com/video/iphone-air-is-apples-thinnest-lightest-iphone-yet/",
+      "https://techcrunch.com/newsletters/event-updates/",
+      "https://techcrunch.com/video/watch-apples-airpod-pro-3-live-translation-feature-in-action/",
+      "https://techcrunch.com/video/slate-autos-fully-customizable-evs-are-nixing-the-bells-and-whistles/",
+      "https://techcrunch.com/newsletters/techcrunch-space/",
+      "https://techcrunch.com/video/nothing-releases-its-first-over-the-ear-headphones/",
+      "https://techcrunch.com/video/what-the-next-generation-of-ai-natives-mean-for-founders-and-funders/",
+      "https://techcrunch.com/video/advice-on-making-early-bets-from-an-investor-whos-backed-60-successes/"
     ]
   },
   "vidaahub.com": {
-    "lastAt": 1757633140774,
+    "lastAt": 1757987335848,
     "urls": []
   },
   "telekom.net": {
-    "lastAt": 1757633143916,
+    "lastAt": 1757987338074,
     "urls": [
       "https://telekom.net/"
     ]
   },
   "hostgator.com": {
-    "lastAt": 1757633147552,
+    "lastAt": 1757987341877,
     "urls": []
   },
   "noaa.gov": {
-    "lastAt": 1757633150614,
+    "lastAt": 1757987345027,
     "urls": []
   },
   "amazon.fr": {
-    "lastAt": 1757633155913,
+    "lastAt": 1757987349313,
     "urls": []
   },
   "hath.network": {
