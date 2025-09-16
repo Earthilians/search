@@ -7034,15 +7034,15 @@
     "urls": []
   },
   "hath.network": {
-    "lastAt": 1757641354556,
+    "lastAt": 1757991534063,
     "urls": []
   },
   "rackspace.net": {
-    "lastAt": 1757641413414,
+    "lastAt": 1757991592918,
     "urls": []
   },
   "marriott.com": {
-    "lastAt": 1757641421335,
+    "lastAt": 1757991599578,
     "urls": [
       "https://www.marriott.com/luxury",
       "https://marriott.com/",
@@ -7053,15 +7053,25 @@
       "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-tokyo",
       "https://www.marriott.com/luxury/explore-luxury-suites/tokyo-edition",
       "https://www.marriott.com/luxury/explore-luxury-suites",
-      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-nomad"
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-nomad",
+      "https://www.marriott.com/luxury/explore-luxury-suites/jw-marriott-grosvenor-house-london",
+      "https://www.marriott.com/luxury/explore-luxury-suites/shanghai-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-maldives",
+      "https://www.marriott.com/luxury/explore-luxury-suites/al-maha-dubai",
+      "https://www.marriott.com/luxury/explore-luxury-suites/w-punta-de-mita",
+      "https://www.marriott.com/luxury/explore-luxury-suites/hotel-the-mitsui-kyoto",
+      "https://www.marriott.com/luxury/explore-luxury-suites/w-osaka",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-hong-kong",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-reserve-mandapa",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-hong-kong"
     ]
   },
   "bamgrid.com": {
-    "lastAt": 1757641424516,
+    "lastAt": 1757991602570,
     "urls": []
   },
   "cloudns.net": {
-    "lastAt": 1757641427400,
+    "lastAt": 1757991605366,
     "urls": [
       "https://www.cloudns.net/",
       "https://www.cloudns.net/managed-dns/",
@@ -7072,15 +7082,25 @@
       "https://www.cloudns.net/password/",
       "https://www.cloudns.net/news/",
       "https://www.cloudns.net/privacy-policy/",
-      "https://www.cloudns.net/faq/"
+      "https://www.cloudns.net/faq/",
+      "https://www.cloudns.net/features/",
+      "https://www.cloudns.net/contact/",
+      "https://www.cloudns.net/about-us/",
+      "https://www.cloudns.net/affiliate/",
+      "https://www.cloudns.net/wiki/",
+      "https://www.cloudns.net/domain-pricing-list/",
+      "https://www.cloudns.net/feedback-send/",
+      "https://www.cloudns.net/feedback/",
+      "https://www.cloudns.net/testimonials/",
+      "https://www.cloudns.net/get-offer/"
     ]
   },
   "quantserve.com": {
-    "lastAt": 1757641431241,
+    "lastAt": 1757991609213,
     "urls": []
   },
   "anydesk.com": {
-    "lastAt": 1757641435025,
+    "lastAt": 1757991612758,
     "urls": [
       "https://anydesk.com/en/abuse-prevention",
       "https://anydesk.com/en/all-platforms",
@@ -7091,27 +7111,37 @@
       "https://anydesk.com/en/become-a-partner",
       "https://anydesk.com/en/career",
       "https://anydesk.com/en/career/jobs",
-      "https://anydesk.com/en/case-studies"
+      "https://anydesk.com/en/case-studies",
+      "https://anydesk.com/en/case-studies/autoform-brazil",
+      "https://anydesk.com/en/case-studies/amedes",
+      "https://anydesk.com/en/case-studies/ard-zdf",
+      "https://anydesk.com/en/case-studies/autoform",
+      "https://anydesk.com/en/case-studies/areandina-sogyo",
+      "https://anydesk.com/en/case-studies/bromsgrove",
+      "https://anydesk.com/en/case-studies/city-of-haverhill",
+      "https://anydesk.com/en/case-studies/capitol-technology",
+      "https://anydesk.com/en/case-studies/haas-media",
+      "https://anydesk.com/en/case-studies/duale-hochschule-bw"
     ]
   },
   "dfn.nl": {
-    "lastAt": 1757641440350,
+    "lastAt": 1757991617601,
     "urls": []
   },
   "substack.com": {
-    "lastAt": 1757641443410,
+    "lastAt": 1757991620665,
     "urls": []
   },
   "amazon.ca": {
-    "lastAt": 1757641447454,
+    "lastAt": 1757991623962,
     "urls": []
   },
   "fb.com": {
-    "lastAt": 1757641451217,
+    "lastAt": 1757991628102,
     "urls": []
   },
   "cambridge.org": {
-    "lastAt": 1757641459717,
+    "lastAt": 1757991637240,
     "urls": [
       "https://www.cambridge.org/highereducation/books/the-origins-of-the-first-world-war/F1F0321D2E082F6CC0FBB0F9F744F0A4/listing",
       "https://www.cambridge.org/highereducation/forms/flippingtheclassroom",
@@ -7120,51 +7150,58 @@
       "https://www.cambridge.org/highereducation/subjects/archaeology",
       "https://www.cambridge.org/highereducation/subjects/art",
       "https://www.cambridge.org/highereducation/subjects/area-studies",
-      "https://www.cambridge.org/highereducation/subjects/business-and-management"
+      "https://www.cambridge.org/highereducation/subjects/business-and-management",
+      "https://www.cambridge.org/highereducation/subjects/chemistry",
+      "https://www.cambridge.org/highereducation/subjects/computer-science",
+      "https://www.cambridge.org/highereducation/subjects/classical-studies",
+      "https://www.cambridge.org/highereducation/subjects/earth-and-environmental-sciences",
+      "https://www.cambridge.org/highereducation/subjects/economics",
+      "https://www.cambridge.org/highereducation/subjects/education",
+      "https://www.cambridge.org/highereducation/subjects/engineering"
     ]
   },
   "cloudflareinsights.com": {
-    "lastAt": 1757641460202,
+    "lastAt": 1757991637493,
     "urls": [
       "https://cloudflareinsights.com/"
     ]
   },
   "alidns.com": {
-    "lastAt": 1757641463273,
+    "lastAt": 1757991640290,
     "urls": [
       "https://alidns.com/"
     ]
   },
   "grammarly.io": {
-    "lastAt": 1757641466569,
+    "lastAt": 1757991643211,
     "urls": []
   },
   "telephony.goog": {
-    "lastAt": 1757641526726,
+    "lastAt": 1757991702450,
     "urls": []
   },
   "bidr.io": {
-    "lastAt": 1757641529738,
+    "lastAt": 1757991705495,
     "urls": []
   },
   "samsungacr.com": {
-    "lastAt": 1757641532955,
+    "lastAt": 1757991708498,
     "urls": []
   },
   "pvp.net": {
-    "lastAt": 1757641536418,
+    "lastAt": 1757991711857,
     "urls": []
   },
   "e-msedge.net": {
-    "lastAt": 1757641539279,
+    "lastAt": 1757991714726,
     "urls": []
   },
   "asus.com": {
-    "lastAt": 1757641544950,
+    "lastAt": 1757991720258,
     "urls": []
   },
   "spiegel.de": {
-    "lastAt": 1757641563256,
+    "lastAt": 1757991738330,
     "urls": [
       "https://www.spiegel.de/ausland/drohnen-ueber-polen-donald-trump-spekuliert-ueber-russisches-versehen-a-752aa674-758c-4671-9428-fbce0af36f88",
       "https://www.spiegel.de/ausland/charlie-kirk-fbi-bittet-nach-toedlichem-schuss-mit-fotos-um-hinweise-a-55f7af6d-2fc6-4318-90b2-9c8ab7d3ad68",
@@ -7175,31 +7212,41 @@
       "https://spiegel.de/",
       "https://www.spiegel.de/ausland/brasilien-oberstes-gericht-steht-vor-schuldspruch-gegen-jair-bolsonaro-a-9f7a93e0-c298-4d5e-83af-d1b999561a9f",
       "https://www.spiegel.de/ausland/charlie-kirk-usa-drohen-auslaendern-die-ermordung-des-trump-anhaengers-loben-a-bce14746-61ff-4985-980f-3bf72070ebf9",
-      "https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-aktienkurs-steigt-um-30-prozent-nach-fusionsgeruechten-a-a9c9f207-b548-40cd-92ae-ae63d2732d37"
+      "https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-aktienkurs-steigt-um-30-prozent-nach-fusionsgeruechten-a-a9c9f207-b548-40cd-92ae-ae63d2732d37",
+      "https://www.spiegel.de/wirtschaft/donald-trump-verliert-vor-berufungsgericht-gegen-fed-gouverneurin-cook-a-4bfb5311-59ff-44e2-9577-cde5903e3abc",
+      "https://www.spiegel.de/panorama/sachsen-betrunkener-kutscher-flieht-vor-polizei-bis-pferd-zusammenbricht-a-37c2167b-50b6-4487-89e2-191b8a17a446",
+      "https://www.spiegel.de/wissenschaft/ozonloch-erneut-geschrumpft-weltwetterorganisation-mit-positiver-prognose-a-a302f65d-ad77-454a-8a7e-8c829d54dc71",
+      "https://www.spiegel.de/ausland/charlie-kirk-attentat-jd-vance-moderiert-podcast-charlie-kirk-show-aus-dem-weissen-haus-a-cc6b2263-d016-41c4-a6df-8c4b6a93b810",
+      "https://www.spiegel.de/ausland/donald-trump-unterzeichnet-dekret-zur-entsendung-der-nationalgarde-nach-memphis-a-1199975c-84aa-4107-976e-c89265f7365a",
+      "https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-ist-kein-sehr-starker-spieler-und-faehrt-trotzdem-zum-kandidatenturnier-a-c59d4113-5baf-4f8d-9e34-4c7c851cc6d7",
+      "https://www.spiegel.de/sport/wintersport/chile-italienischer-ski-rennfahrer-matteo-franzoso-nach-trainingssturz-gestorben-a-bbc7d83a-350f-44e1-acab-b8d1c3470da0",
+      "https://www.spiegel.de/ausland/donald-trump-meldet-erneuten-angriff-auf-boot-in-der-karibik-drei-tote-a-d6b8ad7a-f826-41d6-a505-fd185341d5b6",
+      "https://www.spiegel.de/ausland/tyler-robinson-soll-kirk-attentat-in-chatgruppe-gestanden-haben-a-690bb913-59ca-4f1a-8baa-3b882289dbcd",
+      "https://www.spiegel.de/ausland/polen-drohne-ueber-regierungsgebaeuden-neutralisiert-a-88664c53-0466-4beb-a6b1-806b358c41b0"
     ]
   },
   "onelink.me": {
-    "lastAt": 1757641564329,
+    "lastAt": 1757991738825,
     "urls": [
       "https://onelink.me/"
     ]
   },
   "service.gov.uk": {
-    "lastAt": 1757641565066,
+    "lastAt": 1757991740452,
     "urls": [
       "https://service.gov.uk/"
     ]
   },
   "ks-cdn.com": {
-    "lastAt": 1757641569340,
+    "lastAt": 1757991744714,
     "urls": []
   },
   "zillow.com": {
-    "lastAt": 1757641577243,
+    "lastAt": 1757991751956,
     "urls": []
   },
   "rackspace.com": {
-    "lastAt": 1757641583215,
+    "lastAt": 1757991756050,
     "urls": [
       "https://www.rackspace.com/",
       "https://www.rackspace.com/about/culture",
@@ -7210,21 +7257,31 @@
       "https://www.rackspace.com/about/customer-success-center",
       "https://www.rackspace.com/about/data-centers/ashburn",
       "https://www.rackspace.com/about/data-centers/amsterdam",
-      "https://www.rackspace.com/about/data-centers/chicago"
+      "https://www.rackspace.com/about/data-centers/chicago",
+      "https://www.rackspace.com/about/data-centers/dallas",
+      "https://www.rackspace.com/about/data-centers/frankfurt-fra2",
+      "https://www.rackspace.com/about/data-centers/hong-kong-hkg1",
+      "https://www.rackspace.com/about/data-centers/frankfurt-fra1",
+      "https://www.rackspace.com/about/data-centers/hong-kong-hkg5",
+      "https://www.rackspace.com/about/data-centers/kansas-city",
+      "https://www.rackspace.com/about/data-centers/london-lon5",
+      "https://www.rackspace.com/about/data-centers/london-lon8",
+      "https://www.rackspace.com/about/data-centers/london-lon3",
+      "https://www.rackspace.com/about/data-centers/moscow"
     ]
   },
   "myhuaweicloud.com": {
-    "lastAt": 1757641587145,
+    "lastAt": 1757991759841,
     "urls": []
   },
   "box.com": {
-    "lastAt": 1757641588593,
+    "lastAt": 1757991760793,
     "urls": [
       "https://box.com/"
     ]
   },
   "rbc.ru": {
-    "lastAt": 1757641598341,
+    "lastAt": 1757991765304,
     "urls": [
       "https://www.rbc.ru/rbcfreenews/68c14f139a7947895a1d5c7b",
       "https://www.rbc.ru/society/10/09/2025/68c149919a7947f254927c09",
@@ -7235,7 +7292,17 @@
       "https://www.rbc.ru/rbcfreenews/68c149379a794792b0d0587e",
       "https://www.rbc.ru/industries/news/68c13ab39a7947022e0e8df4",
       "https://www.rbc.ru/sport/09/09/2025/68c020ef9a7947a4e5d836cc",
-      "https://www.rbc.ru/wine/news/68c146689a79475ca30e94c2"
+      "https://www.rbc.ru/wine/news/68c146689a79475ca30e94c2",
+      "https://www.rbc.ru/crypto/news/61eeba3a9a7947253a982ab0",
+      "https://www.rbc.ru/rbcfreenews/61eec1609a794728436d5765",
+      "https://www.rbc.ru/society/24/01/2022/61eed4169a794730cbedb979",
+      "https://www.rbc.ru/rbcfreenews/61eea8669a79471ce7a19116",
+      "https://www.rbc.ru/crypto/news/61eec9569a79472c1a8822f3",
+      "https://www.rbc.ru/rbcfreenews/61eed0d39a79472f11f4c7e7",
+      "https://www.rbc.ru/politics/24/01/2022/61eed7889a79473183a76899",
+      "https://www.rbc.ru/rbcfreenews/61eec29a9a79472981e2f1f9",
+      "https://www.rbc.ru/politics/24/01/2022/61eee0259a79473480bbfb57",
+      "https://www.rbc.ru/politics/24/01/2022/61eee28b9a794735267b3d0b"
     ]
   },
   "steamstatic.com": {
