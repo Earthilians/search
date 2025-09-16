@@ -11798,11 +11798,11 @@
     ]
   },
   "tiktokpangle.us": {
-    "lastAt": 1757690524750,
+    "lastAt": 1758040128866,
     "urls": []
   },
   "economist.com": {
-    "lastAt": 1757690529270,
+    "lastAt": 1758040130017,
     "urls": [
       "https://www.economist.com/audio-edition",
       "https://www.economist.com/get-the-app",
@@ -11817,7 +11817,7 @@
     ]
   },
   "n-tv.de": {
-    "lastAt": 1757690534508,
+    "lastAt": 1758040134750,
     "urls": [
       "https://www.n-tv.de/politik/",
       "https://www.n-tv.de/Teletext/",
@@ -11828,11 +11828,21 @@
       "https://www.n-tv.de/leute/",
       "https://www.n-tv.de/sport/",
       "https://www.n-tv.de/wissen/",
-      "https://www.n-tv.de/ratgeber/"
+      "https://www.n-tv.de/ratgeber/",
+      "https://www.n-tv.de/breakingnews/",
+      "https://www.n-tv.de/browserpush/",
+      "https://www.n-tv.de/der_tag/",
+      "https://www.n-tv.de/politik/politik_kommentare/",
+      "https://www.n-tv.de/der_tag/alle_tage/",
+      "https://www.n-tv.de/politik/politik_person_der_woche/",
+      "https://www.n-tv.de/politik/wahlen/",
+      "https://www.n-tv.de/politik/wahlen/wahl_o_mat/",
+      "https://www.n-tv.de/politik/wahlen/ergebnisse/",
+      "https://www.n-tv.de/politik/US-wahl-2024/"
     ]
   },
   "innovid.com": {
-    "lastAt": 1757690538251,
+    "lastAt": 1758040137015,
     "urls": [
       "https://www.innovid.com/education/ctv",
       "https://www.innovid.com/about-us/social-responsibility",
@@ -11843,11 +11853,21 @@
       "https://www.innovid.com/",
       "https://innovid.com/",
       "https://www.innovid.com/solutions/partners",
-      "https://www.innovid.com/education/ad-serving-platforms"
+      "https://www.innovid.com/education/ad-serving-platforms",
+      "https://www.innovid.com/resources/blog",
+      "https://www.innovid.com/platform/ad-authoring",
+      "https://www.innovid.com/platform/dynamic-ads",
+      "https://www.innovid.com/resources/events",
+      "https://www.innovid.com/platform",
+      "https://www.innovid.com/platform/interactive-ads",
+      "https://www.innovid.com/platform/ad-serving",
+      "https://www.innovid.com/platform/enhanced-data",
+      "https://www.innovid.com/platform/ad-analytics",
+      "https://www.innovid.com/platform/reach-and-frequency"
     ]
   },
   "fortune.com": {
-    "lastAt": 1757690545827,
+    "lastAt": 1758040143356,
     "urls": [
       "https://fortune.com/",
       "https://fortune.com/section/arts-and-entertainment/",
@@ -11858,11 +11878,21 @@
       "https://fortune.com/section/conferences/",
       "https://fortune.com/section/cybersecurity/",
       "https://fortune.com/section/design-thinking/",
-      "https://fortune.com/section/economy/"
+      "https://fortune.com/section/economy/",
+      "https://fortune.com/2025/09/16/spanx-billionaire-founder-sara-blakely-kept-brand-secret-fight-naysayers-built-empire-from-5000-into-billion-dollar-empire/",
+      "https://fortune.com/2025/09/16/opendoor-chairman-keith-rabois-layoffs-opendoor/",
+      "https://fortune.com/article/career-growth-lessons-cfo-hiring-talent/",
+      "https://fortune.com/2025/09/16/france-retirees-higher-income-workers-american-pensioners-cost-of-living-crisis/",
+      "https://fortune.com/2025/09/16/glossier-new-ceo-colin-walsh-man-female-founded-emily-weiss/",
+      "https://fortune.com/2025/09/16/oracle-openai-deal-ai-bubble-alarm-bells/",
+      "https://fortune.com/2025/09/16/retail-sales-rise-august-back-to-school-0-6-percent/",
+      "https://fortune.com/2025/09/16/robert-redford-obituary-sundance-legacy-entrepreneur-independent-film/",
+      "https://fortune.com/2025/09/16/luigi-mangione-court-september-death-penalty/",
+      "https://fortune.com/2025/09/16/exclusive-modern-animal-veterinary-clinic-network-raises-46-million-series-d/"
     ]
   },
   "merriam-webster.com": {
-    "lastAt": 1757690548605,
+    "lastAt": 1758040147707,
     "urls": [
       "https://www.merriam-webster.com/login",
       "https://www.merriam-webster.com/advertising",
@@ -11873,11 +11903,20 @@
       "https://www.merriam-webster.com/legal",
       "https://www.merriam-webster.com/thesaurus",
       "https://www.merriam-webster.com/apps",
-      "https://www.merriam-webster.com/contact-us"
+      "https://www.merriam-webster.com/contact-us",
+      "https://www.merriam-webster.com/word-of-the-day",
+      "https://www.merriam-webster.com/newsletters",
+      "https://www.merriam-webster.com/privacy-policy",
+      "https://www.merriam-webster.com/cookie-policy",
+      "https://www.merriam-webster.com/terms-of-use",
+      "https://www.merriam-webster.com/word-of-the-day/calendar",
+      "https://www.merriam-webster.com/video",
+      "https://www.merriam-webster.com/video/see-all",
+      "https://www.merriam-webster.com/about-us"
     ]
   },
   "coupang.com": {
-    "lastAt": 1757690556705,
+    "lastAt": 1758040153312,
     "urls": [
       "https://www.coupang.com/np/policies/terms",
       "https://rocketpay.coupang.com/rocketpay/operationTerms/coupangPcFooter",
@@ -11888,17 +11927,22 @@
       "https://www.coupang.com/",
       "https://privacy.coupang.com/ko/land/coupay/",
       "https://www.coupang.com/np/coupangbenefit",
-      "https://www.coupang.com/np/todayopen"
+      "https://www.coupang.com/np/todayopen",
+      "https://www.coupang.com/vp/wowcard",
+      "https://www.coupang.com/np/omp",
+      "https://www.coupang.com/np/coupangglobal",
+      "https://www.coupang.com/np/campaigns/83",
+      "https://www.coupang.com/np/campaigns/82"
     ]
   },
   "bitdefender.net": {
-    "lastAt": 1757690558339,
+    "lastAt": 1758040154216,
     "urls": [
       "https://bitdefender.net/"
     ]
   },
   "ndr.de": {
-    "lastAt": 1757690569526,
+    "lastAt": 1758040157950,
     "urls": [
       "https://www.ndr.de/kultur/film/filme-2025-diese-highlights-bietet-kinojahr-bis-zum-herbst,kinohighlights138.html",
       "https://ndr.de/",
@@ -11909,39 +11953,49 @@
       "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/rostockerin-johanna-martin-startet-bei-leichtathletik-wm,mvregiorostock-914.html",
       "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/lkw-brennt-auf-a28-aus-autobahn-stundenlang-gesperrt,aktuelloldenburg-872.html",
       "https://www.ndr.de/nachrichten/hamburg/cruise-days-2025-kreuzfahrt-spektakel-in-hamburg-startet,cruisedays-100.html",
-      "https://www.ndr.de/nachrichten/schleswig-holstein/flensburg-12-jaehriger-e-scooter-fahrer-von-mann-weggestossen,regionflensburgnews-748.html"
+      "https://www.ndr.de/nachrichten/schleswig-holstein/flensburg-12-jaehriger-e-scooter-fahrer-von-mann-weggestossen,regionflensburgnews-748.html",
+      "https://www.ndr.de/nachrichten/schleswig-holstein/sturm-zieht-ueber-norden-umgestuerzte-baeume-und-orkanartige-boeen,shnews-404.html",
+      "https://www.ndr.de/nachrichten/hamburg/handwerks-und-handelskammer-aeussern-sich-zum-hamburger-zukunftsentscheid,kurzehh-1010.html",
+      "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/vorpommern/nabu-ruft-zur-suche-nach-der-salzastern-seidenbiene-auf,mvregiogreifswald-1010.html",
+      "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/bier-als-wurfgeschoss-mann-wirft-von-faehre-aus-dosen-auf-polizei,mvregiorostock-958.html",
+      "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/haff-mueritz/pasewalk-mehr-patienten-in-der-notaufnahme,mvregioneubrandenburg-1100.html",
+      "https://www.ndr.de/nachrichten/schleswig-holstein/forschungs-und-entwicklungszentrum-feiert-30-jaehriges-bestehen,regionkielnews-616.html",
+      "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/niedersachsen-fordert-mehr-hilfe-fuer-schwaechelnde-stahlindustrie,stahlgipfel-104.html",
+      "https://www.ndr.de/nachrichten/hamburg/geschaeftsbericht-2024-hamburg-schliesst-jahr-mit-plus-ab,steuern-128.html",
+      "https://www.ndr.de/kultur/film/robert-redford-ist-tot,robertredford-100.html",
+      "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/leitstellen-mitarbeiter-in-osnabrueck-wird-unverhofft-zum-geburtshelfer,geburt-110.html"
     ]
   },
   "byteoversea.com": {
-    "lastAt": 1757690572927,
+    "lastAt": 1758040161182,
     "urls": []
   },
   "riotgames.com": {
-    "lastAt": 1757690574507,
+    "lastAt": 1758040162089,
     "urls": [
       "https://riotgames.com/"
     ]
   },
   "herokuapp.com": {
-    "lastAt": 1757690577848,
+    "lastAt": 1758040165293,
     "urls": []
   },
   "ovscdns.net": {
-    "lastAt": 1757690582526,
+    "lastAt": 1758040168997,
     "urls": []
   },
   "xhamster.desi": {
-    "lastAt": 1757690585701,
+    "lastAt": 1758040170885,
     "urls": [
       "https://xhamster.desi/"
     ]
   },
   "exelator.com": {
-    "lastAt": 1757690618528,
+    "lastAt": 1758040203560,
     "urls": []
   },
   "vivo.com": {
-    "lastAt": 1757690633292,
+    "lastAt": 1758040210829,
     "urls": [
       "https://www.vivo.com/sa/ar/about-vivo/news/discounts-mar2024",
       "https://www.vivo.com/sa/ar/about-vivo/news/give-it-a-shot",
@@ -11952,15 +12006,25 @@
       "https://www.vivo.com/sa/ar/about-vivo/news/vivo-fifa-arab-cup",
       "https://www.vivo.com/sa/ar/about-vivo/news/y02s",
       "https://www.vivo.com/sa/ar/about-vivo/privacy-policy",
-      "https://www.vivo.com/sa/ar/about-vivo/privacy-support"
+      "https://www.vivo.com/sa/ar/about-vivo/privacy-support",
+      "https://www.vivo.com/sa/ar/content/signal",
+      "https://www.vivo.com/sa/ar/content/repair",
+      "https://www.vivo.com/sa/ar/content/water",
+      "https://www.vivo.com/sa/ar/funtouch",
+      "https://www.vivo.com/sa/ar/products",
+      "https://www.vivo.com/sa/ar/index/warrantyTerms",
+      "https://www.vivo.com/sa/ar/products/charger",
+      "https://www.vivo.com/sa/ar/products/dolphin",
+      "https://www.vivo.com/sa/ar/products/param/s1",
+      "https://www.vivo.com/sa/ar/products/param/s1pro"
     ]
   },
   "xhcdn.com": {
-    "lastAt": 1757690636743,
+    "lastAt": 1758040234001,
     "urls": []
   },
   "finn.no": {
-    "lastAt": 1757690653247,
+    "lastAt": 1758040251124,
     "urls": [
       "https://www.finn.no/motor/artikler/aktuelt",
       "https://www.finn.no/motor/artikler",
@@ -11969,11 +12033,19 @@
       "https://www.finn.no/motor/artikler/aktuelt/abonner-pa-dekkhotell-og-fa-dekkskift-hjemme-pa-kjopet",
       "https://www.finn.no/motor/artikler/aktuelt/eie-leie-lease-eller-abonnere-vi-guider-deg-gjennom-tilbudene-i-bilmarkedet",
       "https://www.finn.no/motor/artikler/aktuelt/fikk-inn-over-100-bud-med-nettbil",
-      "https://www.finn.no/motor/artikler/aktuelt/n%C3%A5-finnes-videomelding-og-visningsfunksjon-p%C3%A5-finn-motor"
+      "https://www.finn.no/motor/artikler/aktuelt/n%C3%A5-finnes-videomelding-og-visningsfunksjon-p%C3%A5-finn-motor",
+      "https://www.finn.no/motor/artikler/aktuelt/etterlengtet-finn-nyhet-ga-jarl-andre-45-tre-gode-overraskelser",
+      "https://www.finn.no/motor/artikler/aktuelt/gode-nyheter-na-kan-du-vippse-for-en-bil",
+      "https://www.finn.no/motor/artikler/aktuelt/na-kan-du-gjore-bruktbilkupp-pa-finn",
+      "https://www.finn.no/motor/artikler/aktuelt/hoy-aktivitet-i-motormarkedet",
+      "https://www.finn.no/motor/artikler/aktuelt/na-kan-du-selge-bilen-edin-pa-to-forskjellige-mater",
+      "https://www.finn.no/motor/artikler/aktuelt/over-300-000-sok-etter-atv-pa-finn",
+      "https://www.finn.no/motor/artikler/aktuelt/reg-nummer-kilometerstand-prishjelp",
+      "https://www.finn.no/motor/artikler/aktuelt/na-ser-mange-etter-brukte-biler"
     ]
   },
   "coursera.org": {
-    "lastAt": 1757690657160,
+    "lastAt": 1758040255011,
     "urls": [
       "https://www.coursera.org/articles/30-days-gen-ai",
       "https://coursera.org/",
@@ -11984,17 +12056,27 @@
       "https://www.coursera.org/articles/3d-printing",
       "https://www.coursera.org/articles/5-vs-of-big-data",
       "https://www.coursera.org/articles/4-ps-of-marketing",
-      "https://www.coursera.org/articles/8-highest-paying-jobs-in-texas"
+      "https://www.coursera.org/articles/8-highest-paying-jobs-in-texas",
+      "https://www.coursera.org/articles/8D",
+      "https://www.coursera.org/articles/abstraction-layers",
+      "https://www.coursera.org/articles/ab-testing",
+      "https://www.coursera.org/articles/ab-testing-tools",
+      "https://www.coursera.org/articles/a-guide-to-pmi-certifications",
+      "https://www.coursera.org/articles/access-control",
+      "https://www.coursera.org/articles/accelerated-bachelors-degree",
+      "https://www.coursera.org/articles/account-manager-career-path-guide",
+      "https://www.coursera.org/articles/accountancy-degree",
+      "https://www.coursera.org/articles/accountant"
     ]
   },
   "tnaflix.com": {
-    "lastAt": 1757690660716,
+    "lastAt": 1758040257763,
     "urls": [
       "https://tnaflix.com/"
     ]
   },
   "trello.com": {
-    "lastAt": 1757690662676,
+    "lastAt": 1758040259436,
     "urls": [
       "https://trello.com/",
       "https://trello.com/templates/design/freelance-branding-project-Z5m66HsJ",
@@ -12005,15 +12087,25 @@
       "https://trello.com/templates/personal/lifestyle-goals-living-room-remodel--OjEtPqx6",
       "https://trello.com/templates/team-management/team-organization-central-ANpOpyQQ",
       "https://trello.com/templates/business/okr-template-trello-ZE5BzGZD",
-      "https://trello.com/templates/personal/where-to-next-travel-inspiration-board-8ykctyqk"
+      "https://trello.com/templates/personal/where-to-next-travel-inspiration-board-8ykctyqk",
+      "https://trello.com/templates/engineering/innovation-weeks-IpeVVi22",
+      "https://trello.com/templates/sales/retail-sales-pipeline-aVPCG2i0",
+      "https://trello.com/templates/team-management/post-mortem-meeting-board-GZpNME7W",
+      "https://trello.com/templates/project-management/agile-board-template-trello-DnZvFigA",
+      "https://trello.com/templates/team-management/team-retrospectives-with-post-it-trello-GXmrfRXA",
+      "https://trello.com/templates/marketing/incoming-requests-n0VLHw5j",
+      "https://trello.com/templates/sales/etsy-order-fulfillment-GPYIQ8lm",
+      "https://trello.com/templates/team-management/meeting-agenda-template-41uAOl7e",
+      "https://trello.com/templates/marketing/editorial-workflow-HlewVP58",
+      "https://trello.com/templates/operations-hr/30-60-90-day-plan-template-a597dVjV"
     ]
   },
   "livedoor.jp": {
-    "lastAt": 1757690668545,
+    "lastAt": 1758040264061,
     "urls": []
   },
   "google.nl": {
-    "lastAt": 1757690671390,
+    "lastAt": 1758040265579,
     "urls": [
       "https://www.google.com/intl/ja/gmail/about/policy/",
       "https://google.nl/",
@@ -12028,17 +12120,17 @@
     ]
   },
   "roskazna.ru": {
-    "lastAt": 1757690730199,
+    "lastAt": 1758040324390,
     "urls": []
   },
   "wise.com": {
-    "lastAt": 1757690738476,
+    "lastAt": 1758040332328,
     "urls": [
       "https://wise.com/"
     ]
   },
   "aftonbladet.se": {
-    "lastAt": 1757690749908,
+    "lastAt": 1758040342219,
     "urls": [
       "https://aftonbladet.se/",
       "https://www.aftonbladet.se/nyheter/a/Ey6Kvo/donald-trumps-forsta-ord-om-rysslands-krankning-av-polskt-luftrum",
@@ -12049,17 +12141,26 @@
       "https://www.aftonbladet.se/sportbladet/a/93Pxkq/finlands-em-succe-fortsatter-till-semifinal",
       "https://www.aftonbladet.se/nyheter/a/4BMxV9/dodliga-oversvamningar-drabbar-bali-och-flores",
       "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1400129",
-      "https://www.aftonbladet.se/nojesbladet/a/Pp7y2z/halva-malmo-bestar-av-killar-som-dumpat-mig-blir-serie-pa-netflix"
+      "https://www.aftonbladet.se/nojesbladet/a/Pp7y2z/halva-malmo-bestar-av-killar-som-dumpat-mig-blir-serie-pa-netflix",
+      "https://www.aftonbladet.se/sportbladet/a/almoWO/finland-missade-em-brons-efter-stjarnans-show",
+      "https://www.aftonbladet.se/sportbladet/fotboll/a/gwbAW5/sirius-besegrade-gais-i-allsvenskan",
+      "https://www.aftonbladet.se/nyheter/a/rPoJMm/algblomning-hotar-brittiska-oarnas-storsta-sjo",
+      "https://www.aftonbladet.se/sportbladet/fotboll/a/kwlO0A/elfsborg-kom-tillbaka-efter-dromminuter-kryssade-mot-malmo",
+      "https://www.aftonbladet.se/senastenytt/ttsport/sport/a/LM2xoq/backen-raddade-elfsborg-poang-mot-malmo",
+      "https://www.aftonbladet.se/sportbladet/a/XjKA9B/vuelta-a-espana-kaos-i-madrid-har-stormat-vagen",
+      "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1401418",
+      "https://www.aftonbladet.se/nyheter/a/3Mvznd/ljubovs-klader-brann-efter-ryska-attacken-halften-dog",
+      "https://www.aftonbladet.se/senastenytt/ttsport/sport/a/qPjdvL/oliver-solberg-mastare-forsta-vm-titeln-bargad"
     ]
   },
   "apple.news": {
-    "lastAt": 1757690751779,
+    "lastAt": 1758040343971,
     "urls": [
       "https://apple.news/"
     ]
   },
   "lanacion.com.ar": {
-    "lastAt": 1757690756125,
+    "lastAt": 1758040347751,
     "urls": [
       "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-condena-a-jair-bolsonaro-en-brasil-nid12092025/",
       "https://www.lanacion.com.ar/agencias/van-der-poel-el-mundial-de-mountain-bike-para-completar-su-inedita-coleccion-nid12092025/",
@@ -12070,15 +12171,25 @@
       "https://www.lanacion.com.ar/economia/dolar/presion-cambiaria-el-dolar-vuelve-a-subir-y-se-acerca-al-techo-de-la-banda-nid12092025/",
       "https://www.lanacion.com.ar/politica/el-intendente-de-brandsen-y-un-concejal-de-fuerza-patria-se-pelearon-en-plena-via-publica-nid11092025/",
       "https://www.lanacion.com.ar/sociedad/no-al-veto-hay-paro-en-las-universidades-nacionales-de-todo-el-pais-y-preparan-una-marcha-para-la-nid12092025/",
-      "https://www.lanacion.com.ar/estados-unidos/quien-es-tyler-robinson-el-joven-de-22-anos-detenido-como-principal-sospechoso-del-asesinato-de-nid12092025/"
+      "https://www.lanacion.com.ar/estados-unidos/quien-es-tyler-robinson-el-joven-de-22-anos-detenido-como-principal-sospechoso-del-asesinato-de-nid12092025/",
+      "https://www.lanacion.com.ar/espectaculos/que-le-paso-a-valentino-el-hijo-de-wanda-nara-y-maxi-lopez-nid16092025/",
+      "https://www.lanacion.com.ar/agencias/victima-de-quemaduras-en-su-infancia-alison-dos-santos-explica-como-el-atletismo-salvo-su-vida-nid16092025/",
+      "https://www.lanacion.com.ar/lifestyle/en-las-redes/el-truco-para-blanquear-el-plastico-amarillo-del-microondas-que-seguro-no-conocias-nid16092025/",
+      "https://www.lanacion.com.ar/economia/dolar/presupuesto-2026-la-meta-fiscal-del-gobierno-el-ano-que-viene-es-menor-a-la-que-habia-acordado-con-nid16092025/",
+      "https://www.lanacion.com.ar/agencias/el-pp-celebra-que-el-gobierno-este-obligado-a-investigar-la-actuacion-de-sanchez-por-el-rescate-de-nid16092025/",
+      "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-16-de-septiembre-nid16092025/",
+      "https://www.lanacion.com.ar/agencias/el-desempleo-marca-otro-record-positivo-en-brasil-nid16092025/",
+      "https://www.lanacion.com.ar/agencias/la-italia-de-paolini-derrota-a-china-y-pasa-a-semis-de-la-bjk-cup-nid16092025/",
+      "https://www.lanacion.com.ar/estados-unidos/la-temporada-2026-de-indycar-tendra-17-carreras-y-comenzara-en-marzo-nid16092025/",
+      "https://www.lanacion.com.ar/politica/elisa-carrio-hizo-un-duro-pronostico-sobre-el-plan-economico-no-hay-reservas-y-no-va-a-haberlas-nid16092025/"
     ]
   },
   "gismeteo.ru": {
-    "lastAt": 1757690763003,
+    "lastAt": 1758040354135,
     "urls": []
   },
   "jimdo.com": {
-    "lastAt": 1757690768042,
+    "lastAt": 1758040358798,
     "urls": [
       "https://jimdo.com/",
       "https://www.jimdo.com/de/website/hochzeit/",
@@ -12089,7 +12200,17 @@
       "https://www.jimdo.com/de/website/verein/",
       "https://www.jimdo.com/jp/website/wedding/",
       "https://www.jimdo.com/it/sito-web/matrimonio/",
-      "https://www.jimdo.com/it/sito-web/associazioni/"
+      "https://www.jimdo.com/it/sito-web/associazioni/",
+      "https://www.jimdo.com/fr/site-internet/location-saisonniere/",
+      "https://www.jimdo.com/de/website/ferienwohnung/",
+      "https://www.jimdo.com/it/sito-web/casa-vacanze-in-affitto/",
+      "https://www.jimdo.com/website/vacation-rental/",
+      "https://www.jimdo.com/es/pagina-web/alquiler-vacacional/",
+      "https://www.jimdo.com/website/travel-blog/",
+      "https://www.jimdo.com/nl/website/gratis-reisblog/",
+      "https://www.jimdo.com/de/website/reiseblog/",
+      "https://www.jimdo.com/es/pagina-web/blog-de-viajes/",
+      "https://www.jimdo.com/website/teacher/"
     ]
   },
   "hepsiburada.com": {
