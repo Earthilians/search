@@ -11494,53 +11494,53 @@
     "urls": []
   },
   "t-bank-app.ru": {
-    "lastAt": 1757686873740,
+    "lastAt": 1758036274881,
     "urls": []
   },
   "atomile.com": {
-    "lastAt": 1757686886423,
+    "lastAt": 1758036279650,
     "urls": []
   },
   "terra.com.br": {
-    "lastAt": 1757686890761,
+    "lastAt": 1758036283502,
     "urls": [
       "https://terra.com.br/"
     ]
   },
   "hilton.com": {
-    "lastAt": 1757686968751,
+    "lastAt": 1758036353888,
     "urls": []
   },
   "letterboxd.com": {
-    "lastAt": 1757686970243,
+    "lastAt": 1758036354908,
     "urls": [
       "https://letterboxd.com/"
     ]
   },
   "amazon.com.mx": {
-    "lastAt": 1757686973464,
+    "lastAt": 1758036356846,
     "urls": [
       "https://amazon.com.mx/"
     ]
   },
   "firebaseio.com": {
-    "lastAt": 1757686976649,
+    "lastAt": 1758036359972,
     "urls": []
   },
   "lgtvsdp.com": {
-    "lastAt": 1757686980288,
+    "lastAt": 1758036365370,
     "urls": []
   },
   "i18n-pglstatp.com": {
-    "lastAt": 1757686983266,
+    "lastAt": 1758036368483,
     "urls": []
   },
   "alipaydns.com": {
-    "lastAt": 1757686989975,
+    "lastAt": 1758036376296,
     "urls": []
   },
   "ilovepdf.com": {
-    "lastAt": 1757686992375,
+    "lastAt": 1758036378724,
     "urls": [
       "https://www.ilovepdf.com/",
       "https://www.ilovepdf.com/powerpoint_to_pdf",
@@ -11551,25 +11551,35 @@
       "https://www.ilovepdf.com/help/about",
       "https://www.ilovepdf.com/ru",
       "https://www.ilovepdf.com/pdf_add_watermark",
-      "https://www.ilovepdf.com/bg"
+      "https://www.ilovepdf.com/bg",
+      "https://www.ilovepdf.com/fr",
+      "https://www.ilovepdf.com/compress_pdf",
+      "https://www.ilovepdf.com/split_pdf",
+      "https://www.ilovepdf.com/desktop",
+      "https://www.ilovepdf.com/add_pdf_page_number",
+      "https://www.ilovepdf.com/zh-cn",
+      "https://www.ilovepdf.com/pdf_to_powerpoint",
+      "https://www.ilovepdf.com/ca",
+      "https://www.ilovepdf.com/el",
+      "https://www.ilovepdf.com/ms"
     ]
   },
   "moneycontrol.com": {
-    "lastAt": 1757686995707,
+    "lastAt": 1758036382047,
     "urls": []
   },
   "businesswire.com": {
-    "lastAt": 1757686998789,
+    "lastAt": 1758036385392,
     "urls": []
   },
   "trendyol.com": {
-    "lastAt": 1757687001819,
+    "lastAt": 1758036387473,
     "urls": [
       "https://trendyol.com/"
     ]
   },
   "theconversation.com": {
-    "lastAt": 1757687012456,
+    "lastAt": 1758036397203,
     "urls": [
       "https://theconversation.com/us",
       "https://theconversation.com/uk",
@@ -11580,11 +11590,21 @@
       "https://theconversation.com/id",
       "https://theconversation.com/europe",
       "https://theconversation.com/ca-fr",
-      "https://theconversation.com/global"
+      "https://theconversation.com/global",
+      "https://theconversation.com/fr",
+      "https://theconversation.com/nz",
+      "https://theconversation.com/au/arts",
+      "https://theconversation.com/au/books",
+      "https://theconversation.com/au/business",
+      "https://theconversation.com/es",
+      "https://theconversation.com/au/education",
+      "https://theconversation.com/au/environment",
+      "https://theconversation.com/au/politics",
+      "https://theconversation.com/au/health"
     ]
   },
   "wikihow.com": {
-    "lastAt": 1757687018269,
+    "lastAt": 1758036403293,
     "urls": [
       "https://www.wikihow.com/%22Pass%22-As-a-Woman",
       "https://www.wikihow.com/0101-Angel-Number",
@@ -11595,15 +11615,25 @@
       "https://www.wikihow.com/0404-Angel-Number",
       "https://www.wikihow.com/1-3-Cup-1-2",
       "https://www.wikihow.com/1-Year-Anniversary-Captions",
-      "https://www.wikihow.com/1-Year-Work-Anniversary"
+      "https://www.wikihow.com/1-Year-Work-Anniversary",
+      "https://www.wikihow.com/10-Rules-of-Islam",
+      "https://www.wikihow.com/100-Men-vs-1-Gorilla",
+      "https://www.wikihow.com/1000-Angel-Number",
+      "https://www.wikihow.com/100-Funny-Jokes-to-Tell-Your-Friends",
+      "https://www.wikihow.com/1001-Angel-Number",
+      "https://www.wikihow.com/1000-Yard-Stare",
+      "https://www.wikihow.com/1010-Angel-Number",
+      "https://www.wikihow.com/1011-Angel-Number",
+      "https://www.wikihow.com/1017-Angel-Number",
+      "https://www.wikihow.com/1055-Angel-Number"
     ]
   },
   "sahibinden.com": {
-    "lastAt": 1757687023813,
+    "lastAt": 1758036408551,
     "urls": []
   },
   "kleinanzeigen.de": {
-    "lastAt": 1757687031619,
+    "lastAt": 1758036415682,
     "urls": [
       "https://www.kleinanzeigen.de/stadt/berlin/",
       "https://www.kleinanzeigen.de/s-autos/c216",
@@ -11614,15 +11644,25 @@
       "https://www.kleinanzeigen.de/s-wohnung-mieten/c203",
       "https://www.kleinanzeigen.de/s-login/k0",
       "https://www.kleinanzeigen.de/stadt/muenchen/",
-      "https://www.kleinanzeigen.de/stadt/leipzig/"
+      "https://www.kleinanzeigen.de/stadt/leipzig/",
+      "https://www.kleinanzeigen.de/stadt/bremen/",
+      "https://www.kleinanzeigen.de/stadt/koeln/",
+      "https://www.kleinanzeigen.de/stadt/dresden/",
+      "https://www.kleinanzeigen.de/s-saarland/l285",
+      "https://www.kleinanzeigen.de/s-suche/k0",
+      "https://www.kleinanzeigen.de/stadt/hannover/",
+      "https://www.kleinanzeigen.de/stadt/kiel/",
+      "https://www.kleinanzeigen.de/stadt/luebeck/",
+      "https://www.kleinanzeigen.de/stadt/dortmund/",
+      "https://www.kleinanzeigen.de/s-muenster-%28westfalen%29/l929"
     ]
   },
   "leboncoin.fr": {
-    "lastAt": 1757687040668,
+    "lastAt": 1758036424968,
     "urls": []
   },
   "pusher.com": {
-    "lastAt": 1757687045505,
+    "lastAt": 1758036427455,
     "urls": [
       "https://pusher.com/docs/beams/concepts/active-devices/",
       "https://pusher.com/",
@@ -11633,19 +11673,29 @@
       "https://pusher.com/docs/beams/getting-started/android/sdk-integration/",
       "https://pusher.com/docs/beams/concepts/insights/",
       "https://pusher.com/docs/beams/concepts/device-interests/",
-      "https://pusher.com/docs/beams/concepts/authenticated-users/"
+      "https://pusher.com/docs/beams/concepts/authenticated-users/",
+      "https://pusher.com/docs/beams/getting-started/ios/publish-notifications/",
+      "https://pusher.com/docs/beams/getting-started/ios/configure-apns/",
+      "https://pusher.com/docs/beams/getting-started/ios/sdk-integration/",
+      "https://pusher.com/docs/beams/guides/existing-service-worker/",
+      "https://pusher.com/docs/beams/getting-started/web/sdk-integration/",
+      "https://pusher.com/docs/beams/guides/handle-incoming-notifications/android/",
+      "https://pusher.com/docs/beams/guides/handle-incoming-notifications/ios/",
+      "https://pusher.com/docs/beams/guides/handle-incoming-notifications/web/",
+      "https://pusher.com/docs/beams/guides/publish-to-specific-user/android/",
+      "https://pusher.com/docs/beams/guides/publish-to-specific-user/ios/"
     ]
   },
   "doppiocdn.com": {
-    "lastAt": 1757687048717,
+    "lastAt": 1758036430358,
     "urls": []
   },
   "cspserver.net": {
-    "lastAt": 1757687053327,
+    "lastAt": 1758036434771,
     "urls": []
   },
   "aparat.com": {
-    "lastAt": 1757687123554,
+    "lastAt": 1758036628527,
     "urls": [
       "https://www.aparat.com/v/zho16xf",
       "https://www.aparat.com/v/vvswo0m",
@@ -11656,17 +11706,27 @@
       "https://www.aparat.com/v/yen667h",
       "https://www.aparat.com/v/lqpdzi7",
       "https://www.aparat.com/v/dka1svw",
-      "https://www.aparat.com/v/mlk26d3"
+      "https://www.aparat.com/v/mlk26d3",
+      "https://www.aparat.com/v/svc5ip3",
+      "https://www.aparat.com/v/kvpytvl",
+      "https://www.aparat.com/v/erjui6t",
+      "https://www.aparat.com/v/opq5a79",
+      "https://www.aparat.com/v/pvp4cbv",
+      "https://www.aparat.com/v/scn27x4",
+      "https://www.aparat.com/v/hywzm1t",
+      "https://www.aparat.com/v/srq74o0",
+      "https://www.aparat.com/v/cfh5j45",
+      "https://www.aparat.com/v/zgcr782"
     ]
   },
   "ovh.net": {
-    "lastAt": 1757687125741,
+    "lastAt": 1758036630235,
     "urls": [
       "https://ovh.net/"
     ]
   },
   "ultimate-guitar.com": {
-    "lastAt": 1757687135405,
+    "lastAt": 1758036640381,
     "urls": [
       "https://www.ultimate-guitar.com/news/general_music_news/you-cant-fight-it-either-be-part-of-it-or-dont-the-exact-moment-megadeth-became-a-dave-mustaine-solo-project-according-to-david-ellefson",
       "https://www.ultimate-guitar.com/news/general_music_news/we-had-the-flights-purchased-the-hotels-ready-to-go-the-real-reason-why-wolf-van-halen-didnt-appear-at-ozzys-and-sabbaths-farewell-show",
@@ -11677,27 +11737,37 @@
       "https://www.ultimate-guitar.com/news/general_music_news/david-bowies-guitarist-opens-up-on-moment-that-killed-singers-live-career-he-goes-to-me-keep-vamping-just-jam",
       "https://www.ultimate-guitar.com/news/general_music_news/im-playing-pinball-with-my-son-and-somebody-taps-me-on-the-shoulder-im-like-get-off-me-and-its-jack-osbourne-because-ozzy-wants-to-say-hi-the-last-time-tom-morello-spoke-to-ozzy-osbourne",
       "https://www.ultimate-guitar.com/news/general_music_news/im-not-a-beatle-anymore-what-made-the-beatles-decide-to-stop-touring-after-1966",
-      "https://www.ultimate-guitar.com/news/general_music_news/i-dont-wanna-screw-it-up-jerry-cantrell-and-kirk-hammett-were-all-nerves-at-black-sabbaths-final-show-but-this-is-what-really-worried-the-alice-in-chains-guitarist"
+      "https://www.ultimate-guitar.com/news/general_music_news/i-dont-wanna-screw-it-up-jerry-cantrell-and-kirk-hammett-were-all-nerves-at-black-sabbaths-final-show-but-this-is-what-really-worried-the-alice-in-chains-guitarist",
+      "https://www.ultimate-guitar.com/news/general_music_news/i-pooped-in-your-toilet-so-lets-talk-about-it-how-david-ellefson-and-steve-di-giorgio-addressed-the-awkwardness-of-megadeths-latest-album",
+      "https://www.ultimate-guitar.com/news/general_music_news/he-said-i-have-frank-zappas-phone-number-i-went-you-have-what-how-almost-two-years-of-incessant-phone-calls-got-steve-vai-a-job-with-frank-zappa",
+      "https://www.ultimate-guitar.com/news/general_music_news/this-is-the-advent-of-the-single-popstar-surrounded-by-production-why-disneyfied-pop-shows-replaced-rock-concerts-at-large-festivals-according-to-sonic-youths-thurston-moore",
+      "https://www.ultimate-guitar.com/news/general_music_news/mike-shinoda-opens-up-on-difficulties-of-replacing-chester-bennington-i-was-really-really-exhausted",
+      "https://www.ultimate-guitar.com/news/general_music_news/mtley-cres-vince-neil-reveals-he-suffered-a-stroke-i-had-to-learn-to-walk-again",
+      "https://www.ultimate-guitar.com/news/general_music_news/its-bob-marleys-most-successful-song-however-theres-a-mystery-behind-it-and-it-reveals-his-commitment-to-humanitarianism-and-helping-his-friends",
+      "https://www.ultimate-guitar.com/news/general_music_news/even-if-you-are-successful-people-wont-respect-you-for-that-bruce-dickinsons-only-advice-to-musicians",
+      "https://www.ultimate-guitar.com/news/general_music_news/i-had-never-heard-of-metallica-this-guitarist-joined-a-legendary-thrash-metal-band--without-knowing-anything-about-it",
+      "https://www.ultimate-guitar.com/news/general_music_news/on-the-very-last-song-don-arden-said-the-label-wanted-to-call-it-that-glenn-hughes-recalls-why-tony-iommi-was-so-upset-about-their-album-says-hes-not-a-black-sabbath-singer",
+      "https://www.ultimate-guitar.com/news/general_music_news/thats-a-rich-story-spinal-tap-share-favorite-ozzy-moments-in-heartfelt-tribute"
     ]
   },
   "samsungcloud.tv": {
-    "lastAt": 1757687138322,
+    "lastAt": 1758036643338,
     "urls": []
   },
   "idnes.cz": {
-    "lastAt": 1757687150508,
+    "lastAt": 1758036655436,
     "urls": [
       "https://idnes.cz/"
     ]
   },
   "magazineluiza.com.br": {
-    "lastAt": 1757687153923,
+    "lastAt": 1758036657965,
     "urls": [
       "https://magazineluiza.com.br/"
     ]
   },
   "poki.com": {
-    "lastAt": 1757687164755,
+    "lastAt": 1758036670572,
     "urls": [
       "https://poki.com/en/minecraft",
       "https://poki.com/",
@@ -11708,11 +11778,21 @@
       "https://poki.com/en/dress-up",
       "https://poki.com/en/ninja",
       "https://poki.com/en/board",
-      "https://poki.com/en/ball"
+      "https://poki.com/en/ball",
+      "https://poki.com/en/words",
+      "https://poki.com/en/bubble",
+      "https://poki.com/en/farm",
+      "https://poki.com/en/horror",
+      "https://poki.com/en/escape",
+      "https://poki.com/en/simulation",
+      "https://poki.com/en/tower-defense",
+      "https://poki.com/en/io",
+      "https://poki.com/en/idle",
+      "https://poki.com/en/arcade"
     ]
   },
   "ameba.jp": {
-    "lastAt": 1757687167348,
+    "lastAt": 1758036672478,
     "urls": [
       "https://ameba.jp/"
     ]
