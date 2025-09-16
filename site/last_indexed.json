@@ -7664,11 +7664,11 @@
     "urls": []
   },
   "usgovcloudapi.net": {
-    "lastAt": 1757647881033,
+    "lastAt": 1757996794160,
     "urls": []
   },
   "airbnb.com": {
-    "lastAt": 1757647886139,
+    "lastAt": 1757996797314,
     "urls": [
       "https://www.airbnb.com/airbnb-friendly/apartments/towson-md",
       "https://www.airbnb.com/airbnb-friendly/apartments/petaluma-ca",
@@ -7683,23 +7683,23 @@
     ]
   },
   "hihonorcloud.com": {
-    "lastAt": 1757647888669,
+    "lastAt": 1757996800648,
     "urls": [
       "https://hihonorcloud.com/"
     ]
   },
   "miwifi.com": {
-    "lastAt": 1757647895496,
+    "lastAt": 1757996807220,
     "urls": []
   },
   "discordapp.com": {
-    "lastAt": 1757647896944,
+    "lastAt": 1757996808526,
     "urls": [
       "https://discordapp.com/"
     ]
   },
   "bestbuy.com": {
-    "lastAt": 1757647971961,
+    "lastAt": 1757996858789,
     "urls": [
       "https://bestbuy.com/",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
@@ -7710,11 +7710,21 @@
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=16&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=18&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=11&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
-      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=3&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=20&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=21&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=2&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=19&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=5&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=7&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=4&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=6&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
     ]
   },
   "mixpanel.com": {
-    "lastAt": 1757647982349,
+    "lastAt": 1757996866035,
     "urls": [
       "https://mixpanel.com/about/",
       "https://mixpanel.com/",
@@ -7725,29 +7735,39 @@
       "https://mixpanel.com/contact-us/thank-you/",
       "https://mixpanel.com/contact-us/demo-request/",
       "https://mixpanel.com/customers/",
-      "https://mixpanel.com/customers/all/"
+      "https://mixpanel.com/customers/all/",
+      "https://mixpanel.com/developer/",
+      "https://mixpanel.com/free-plan/",
+      "https://mixpanel.com/enterprise/",
+      "https://mixpanel.com/grow/",
+      "https://mixpanel.com/jobs/",
+      "https://mixpanel.com/features/",
+      "https://mixpanel.com/home/",
+      "https://mixpanel.com/legal/app-store-privacy-details/",
+      "https://mixpanel.com/legal/contact-us/",
+      "https://mixpanel.com/legal/cdpa/"
     ]
   },
   "contextweb.com": {
-    "lastAt": 1757647983563,
+    "lastAt": 1757996867336,
     "urls": [
       "https://contextweb.com/"
     ]
   },
   "xiaohongshu.com": {
-    "lastAt": 1757647987054,
+    "lastAt": 1757996868909,
     "urls": [
       "https://xiaohongshu.com/"
     ]
   },
   "webmd.com": {
-    "lastAt": 1757647988984,
+    "lastAt": 1757996871032,
     "urls": [
       "https://webmd.com/"
     ]
   },
   "google.cn": {
-    "lastAt": 1757647990859,
+    "lastAt": 1757996871769,
     "urls": [
       "https://www.google.com/intl/gl_es/gmail/about/policy/",
       "https://www.google.com/intl/gu_in/gmail/about/",
@@ -7762,11 +7782,11 @@
     ]
   },
   "everesttech.net": {
-    "lastAt": 1757648049673,
+    "lastAt": 1757996930582,
     "urls": []
   },
   "disqus.com": {
-    "lastAt": 1757648050806,
+    "lastAt": 1757996931403,
     "urls": [
       "https://disqus.com/platform/moderation/",
       "https://disqus.com/",
@@ -7777,15 +7797,16 @@
       "https://disqus.com/platform/monetization/",
       "https://disqus.com/landing/disqus-pro/",
       "https://disqus.com/api/docs/",
-      "https://disqus.com/landing/disqus-business/"
+      "https://disqus.com/landing/disqus-business/",
+      "https://disqus.com/about-us/"
     ]
   },
   "perfectdomain.com": {
-    "lastAt": 1757648053891,
+    "lastAt": 1757996934554,
     "urls": []
   },
   "latimes.com": {
-    "lastAt": 1757648063711,
+    "lastAt": 1757996943068,
     "urls": [
       "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-walter-rothwell-19191025-story.html",
       "https://www.latimes.com/local/obituaries/archives/la-me-john-muir-19141225-story.html",
@@ -7796,11 +7817,21 @@
       "https://www.latimes.com/local/obituaries/archives/la-me-harry-houdini-19261101-story.html",
       "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-walter-rothwell-obit-19270313-story.html",
       "https://www.latimes.com/local/obituaries/archives/la-me-isadora-duncan-19270915-story.html",
-      "https://www.latimes.com/la-isadora-duncans-death-20141120-htmlstory.html"
+      "https://www.latimes.com/la-isadora-duncans-death-20141120-htmlstory.html",
+      "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-georg-schneevoigt-19271029-story.html",
+      "https://www.latimes.com/about/story/2025-09-15/monte-morin-assistant-managing-editor-for-news",
+      "https://www.latimes.com/projects/image-makers-2025",
+      "https://www.latimes.com/california/story/2025-09-15/these-are-the-booming-california-communities-where-incomes-have-risen-the-most",
+      "https://www.latimes.com/sports/chargers/story/2025-09-15/chargers-raiders-how-to-watch-prediction-odds",
+      "https://www.latimes.com/sports/angels/story/2025-09-13/angels-mariners-jo-adell-taylor-ward",
+      "https://www.latimes.com/sports/angels/story/2025-09-14/angels-swept-mariners-10th-straight-losing-season",
+      "https://www.latimes.com/sports/dodgers/story/2025-09-14/dodgers-giants-mookie-betts-teoscar-hernandez-recap",
+      "https://www.latimes.com/entertainment-arts/tv/story/2025-09-15/best-and-worst-moments-of-the-2025-emmys",
+      "https://www.latimes.com/entertainment-arts/story/2025-09-14/noah-wyle-emmy-win-best-actor-drama"
     ]
   },
   "datadoghq.com": {
-    "lastAt": 1757648065420,
+    "lastAt": 1757996945272,
     "urls": [
       "https://datadoghq.com/",
       "https://www.datadoghq.com/summit/london25/agenda/lunch/",
@@ -7811,15 +7842,25 @@
       "https://www.datadoghq.com/summit/london24/agenda/registration/",
       "https://www.datadoghq.com/summit/london25/agenda/expo_activities_1/",
       "https://www.datadoghq.com/summit/london25/agenda/expo_activities_2/",
-      "https://www.datadoghq.com/summit/london25/agenda/registration/"
+      "https://www.datadoghq.com/summit/london25/agenda/registration/",
+      "https://www.datadoghq.com/summit/london24/agenda/security_at_the_speed_of_cloud/",
+      "https://www.datadoghq.com/summit/london25/agenda/liftoff-how-vodafone-uk-ensures-seamless-launches/",
+      "https://www.datadoghq.com/summit/london24/agenda/demos_gameday/",
+      "https://www.datadoghq.com/summit/london24/agenda/demos_gameday_2/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_exec_opening_keynote/",
+      "https://www.datadoghq.com/summit/london24/agenda/and_what_about_my_ux/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_cost_efficiency/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_security/",
+      "https://www.datadoghq.com/summit/london24/agenda/managing_a_complex_distributed_payment_system/",
+      "https://www.datadoghq.com/summit/london24/agenda/serving_up_customer_loyalty_one_dash_at_a_time/"
     ]
   },
   "fiverr.com": {
-    "lastAt": 1757648075194,
+    "lastAt": 1757996956213,
     "urls": []
   },
   "sagepub.com": {
-    "lastAt": 1757648078272,
+    "lastAt": 1757996959013,
     "urls": [
       "https://www.sagepub.com/journals/information-for-authors/submitting-your-manuscript",
       "https://www.sagepub.com/journals/information-for-reviewers/what-is-peer-review",
@@ -7830,28 +7871,38 @@
       "https://www.sagepub.com/journals/permissions/sages-author-archiving-and-re-use-guidelines",
       "https://www.sagepub.com/journals/member-subscription/emerging-adulthood-print-subscription-for-ssea-members",
       "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-prepaid-accounts",
-      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/universidad-del-pais-vasco-agreement"
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/universidad-del-pais-vasco-agreement",
+      "https://www.sagepub.com/journals/editorial-policies/copyright-and-permissions",
+      "https://www.sagepub.com/journals/information-for-reviewers/overview",
+      "https://www.sagepub.com/landing/declaration-on-research-assessment",
+      "https://www.sagepub.com/explore-our-content/white-papers",
+      "https://www.sagepub.com/journals/information-for-librarians/overview",
+      "https://www.sagepub.com/journals/permissions/overview",
+      "https://www.sagepub.com/journals/information-for-authors/preparing-your-manuscript/advance-a-sage-preprints-community",
+      "https://www.sagepub.com/about/sage-policies/terms-and-conditions/use-of-sage-journals",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/bv-sspa-agreement",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/bibsam-ios-press-agreement"
     ]
   },
   "shopee.com.br": {
-    "lastAt": 1757648079050,
+    "lastAt": 1757996959613,
     "urls": [
       "https://shopee.com.br/"
     ]
   },
   "amazon.in": {
-    "lastAt": 1757648083912,
+    "lastAt": 1757996965209,
     "urls": []
   },
   "ipify.org": {
-    "lastAt": 1757648085007,
+    "lastAt": 1757996965896,
     "urls": [
       "https://www.ipify.org/",
       "https://ipify.org/"
     ]
   },
   "prnewswire.com": {
-    "lastAt": 1757648136633,
+    "lastAt": 1757996972500,
     "urls": [
       "https://www.prnewswire.com/resources/",
       "https://www.prnewswire.com/resources/case-studies/How-the-National-Association-of-REALTORS-Boosted-Earned-Media-and-Audience-Engagement-with-a-New-Content-Strategy/",
@@ -7862,11 +7913,21 @@
       "https://www.prnewswire.com/resources/case-studies/Lavu-Generates-Quality-Leads-and-Increases-Brand-Awareness-A-Multimedia-News-Release-Case-Study/",
       "https://www.prnewswire.com/resources/case-studies/St-Baldricks-Changes-Narrative-Surrounding-Childhood-Cancers-with-Multichannel-Content-Campaign/",
       "https://www.prnewswire.com/resources/?sortCategory=case-studies",
-      "https://www.prnewswire.com/resources/case-studies/censhare-cmk/"
+      "https://www.prnewswire.com/resources/case-studies/censhare-cmk/",
+      "https://www.prnewswire.com/resources/case-studies/ellisphere/",
+      "https://www.prnewswire.com/resources/case-studies/OpenTable-Sparks-Engagement-with-Road-Trip-Themed-Multimedia-Campaign/",
+      "https://www.prnewswire.com/resources/case-studies/Intermedia-Boosts-Campaign-Visibility-with-Award-Winning-Video-A-MultiVu-Creative-Services-Case-Study/",
+      "https://www.prnewswire.com/resources/case-studies/MarketResearchcom-Boosts-Visibility--Revenue-A-Content-Distribution-Case-Study/",
+      "https://www.prnewswire.com/resources/case-studies/PhRMA-Increases-Blog-Readership--Reaches-Broader-Audiences-with-Content-Syndication/",
+      "https://www.prnewswire.com/resources/case-studies/moneygram/",
+      "https://www.prnewswire.com/resources/case-studies/simmons-bank/",
+      "https://www.prnewswire.com/resources/case-studies/how-two-pr-agencies-enhanced-their-press-release-strategy-and-boosted-engagement/",
+      "https://www.prnewswire.com/resources/?sortCategory=quizzes",
+      "https://www.prnewswire.com/resources/?sortCategory=research-reports"
     ]
   },
   "rakuten.com": {
-    "lastAt": 1757648140801,
+    "lastAt": 1757996975900,
     "urls": [
       "https://www.rakuten.com/",
       "https://www.rakuten.com/shop/reissonline",
@@ -7877,11 +7938,21 @@
       "https://www.rakuten.com/shop/timberland",
       "https://www.rakuten.com/shop/madewell",
       "https://www.rakuten.com/help/article/signing-into-my-account-115009256128",
-      "https://www.rakuten.com/home-garden"
+      "https://www.rakuten.com/home-garden",
+      "https://www.rakuten.com/help/category/refer-a-friend-program-faq-26579315686931",
+      "https://www.rakuten.com/shop/shoemall",
+      "https://www.rakuten.com/help/article/how-to-change-your-email-preferences-or-unsubscribe-360002101408",
+      "https://www.rakuten.com/shop/tillys",
+      "https://www.rakuten.com/shop/underarmour",
+      "https://www.rakuten.com/help/article/rakuten-referral-program-terms-360002101348",
+      "https://www.rakuten.com/help/password",
+      "https://www.rakuten.com/help/category/more-features-31315401553811",
+      "https://www.rakuten.com/shop/newbalance",
+      "https://www.rakuten.com/shop/shutterfly"
     ]
   },
   "nbcnews.com": {
-    "lastAt": 1757648145609,
+    "lastAt": 1757996982187,
     "urls": [
       "https://nbcnews.com/",
       "https://www.nbcnews.com/select/shopping/shark-air-purifier-max-deal-of-the-day-2025-rcna230699",
@@ -7891,35 +7962,44 @@
       "https://www.nbcnews.com/select/shopping/best-matcha-products-rcna199702",
       "https://www.nbcnews.com/select/shopping/best-mouthwashes-rcna190988",
       "https://www.nbcnews.com/select/shopping/how-get-rid-fleas-ncna1262654",
-      "https://www.nbcnews.com/select/shopping/fda-approved-blood-pressure-monitors-rcna230090"
+      "https://www.nbcnews.com/select/shopping/fda-approved-blood-pressure-monitors-rcna230090",
+      "https://www.nbcnews.com/select/shopping/joe-ariel-goldbelly-favorite-products-rcna231318",
+      "https://www.nbcnews.com/select/shopping/best-non-slip-shoes-rcna231312",
+      "https://www.nbcnews.com/select/shopping/weekly-sales-rcna123623",
+      "https://www.nbcnews.com/select/shopping/how-to-shop-for-running-shoes-fwiw-podcast-rcna231372",
+      "https://www.nbcnews.com/select/shopping/latino-owned-businesses-shop-ncna1281477",
+      "https://www.nbcnews.com/select/shopping/fall-sweaters-from-amazon-rcna231317",
+      "https://www.nbcnews.com/select/shopping/best-fresh-dog-food-rcna205810",
+      "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "https://www.nbcnews.com/select/shopping/apple-ipad-air-m3-deal-of-the-day-september-2025-rcna231414"
     ]
   },
   "curseforge.com": {
-    "lastAt": 1757648147003,
+    "lastAt": 1757996983571,
     "urls": [
       "https://curseforge.com/"
     ]
   },
   "life360.com": {
-    "lastAt": 1757648150210,
+    "lastAt": 1757996987266,
     "urls": []
   },
   "a-mo.net": {
-    "lastAt": 1757648151684,
+    "lastAt": 1757996988995,
     "urls": [
       "https://a-mo.net/"
     ]
   },
   "criteo.net": {
-    "lastAt": 1757648155164,
+    "lastAt": 1757996992773,
     "urls": []
   },
   "amazon.es": {
-    "lastAt": 1757648159637,
+    "lastAt": 1757996998580,
     "urls": []
   },
   "iso.org": {
-    "lastAt": 1757648164589,
+    "lastAt": 1757997003664,
     "urls": []
   },
   "turn.com": {
