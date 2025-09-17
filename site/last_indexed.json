@@ -21365,17 +21365,22 @@
     ]
   },
   "eff.org": {
-    "lastAt": 1757790914114,
+    "lastAt": 1758143968226,
     "urls": [
-      "https://eff.org/"
+      "https://eff.org/",
+      "http://www.eff.org/deeplinks/2025/09/california-tell-governor-newsom-regulate-ai-police-reports-and-sign-sb-524",
+      "http://www.eff.org/deeplinks/2025/09/ice-cyber-mercenaries-effector-3712",
+      "http://www.eff.org/deeplinks/2025/09/appeals-court-abandoned-phones-dont-equal-abandoned-privacy-rights",
+      "http://www.eff.org/deeplinks/2025/09/mexican-allies-raise-alarms-about-new-mass-surveillance-laws-call-international",
+      "http://www.eff.org/deeplinks/2025/09/when-knowing-someone-meta-only-way-break-out-content-jail"
     ]
   },
   "123tt.ru": {
-    "lastAt": 1757790917960,
+    "lastAt": 1758143971459,
     "urls": []
   },
   "istockphoto.com": {
-    "lastAt": 1757790924216,
+    "lastAt": 1758143978114,
     "urls": [
       "https://istockphoto.com/",
       "https://www.istockphoto.com/br/v%C3%ADdeo/rio-de-ohio-e-ponte-p%C3%AAnsil-gm1061584058-283780713",
@@ -21386,11 +21391,21 @@
       "https://www.istockphoto.com/br/v%C3%ADdeo/antena-do-trator-arar-o-campo-gm1061586200-283785913",
       "https://www.istockphoto.com/br/v%C3%ADdeo/4k-grupo-estudantes-sorriam-e-divirta-se-e-usando-o-tablet-tamb%C3%A9m-ajuda-a-gm1061586214-283781400",
       "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-extremamente-grande-onda-esmagamento-gm1061586232-283786501",
-      "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-extremamente-grande-onda-esmagamento-gm1061586254-283786502"
+      "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-extremamente-grande-onda-esmagamento-gm1061586254-283786502",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-extremamente-grande-onda-esmagamento-gm1061586278-283786507",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-tempestade-no-mar-com-grande-onda-gm1061586286-283786504",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/altas-ondas-quebrando-nas-rochas-do-litoral-tempestade-no-mar-com-grande-onda-gm1061586294-283786505",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/dia-das-m%C3%A3es-d%C3%AA-flores-gm1061586344-283785916",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/duas-m%C3%A3os-a-digita%C3%A7%C3%A3o-com-um-teclado-preto-gm1061586400-283785698",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/molde-tirado-de-tomate-podre-sob-um-microsc%C3%B3pio-col%C3%B4nia-de-fungos-com-esporos-em-um-gm1061586466-283786546",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/molde-tirado-de-tomate-podre-sob-um-microsc%C3%B3pio-col%C3%B4nia-de-fungos-com-esporos-em-um-gm1061586464-283786548",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/molde-tirado-de-tomate-podre-sob-um-microsc%C3%B3pio-col%C3%B4nia-de-fungos-com-esporos-em-um-gm1061586476-283786541",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/molde-tirado-de-tomate-podre-sob-um-microsc%C3%B3pio-col%C3%B4nia-de-fungos-com-esporos-em-um-gm1061586478-283786550",
+      "https://www.istockphoto.com/br/v%C3%ADdeo/uma-gota-de-sangue-ao-microsc%C3%B3pio-gm1061586482-283786542"
     ]
   },
   "postgresql.org": {
-    "lastAt": 1757790931369,
+    "lastAt": 1758143984253,
     "urls": [
       "https://www.postgresql.org/",
       "https://www.postgresql.org/developer/",
@@ -21401,11 +21416,21 @@
       "https://www.postgresql.org/download/",
       "https://www.postgresql.org/include/topbar/",
       "https://www.postgresql.org/docs/books/",
-      "https://www.postgresql.org/docs/online-resources/"
+      "https://www.postgresql.org/docs/online-resources/",
+      "https://www.postgresql.org/docs/faq/",
+      "https://www.postgresql.org/download/openbsd/",
+      "https://www.postgresql.org/download/macosx/",
+      "https://www.postgresql.org/download/snapshots/",
+      "https://www.postgresql.org/download/solaris/",
+      "https://www.postgresql.org/download/linux/",
+      "https://www.postgresql.org/download/bsd/",
+      "https://www.postgresql.org/download/freebsd/",
+      "https://www.postgresql.org/download/windows/",
+      "https://www.postgresql.org/download/netbsd/"
     ]
   },
   "jwplayer.com": {
-    "lastAt": 1757790940723,
+    "lastAt": 1758143989657,
     "urls": [
       "https://jwplayer.com/blog/video-cms-platforms/",
       "https://jwplayer.com/blog/outstream-vs-instream/",
@@ -21416,11 +21441,21 @@
       "https://jwplayer.com/blog/simulcast/",
       "https://jwplayer.com/blog/video-analytics/",
       "https://jwplayer.com/blog/fitness-video-platform/",
-      "https://jwplayer.com/blog/connected-tv/"
+      "https://jwplayer.com/blog/connected-tv/",
+      "https://jwplayer.com/blog/live-video-broadcast-solutions/",
+      "https://jwplayer.com/blog/monetize-broadcast-solutions/",
+      "https://jwplayer.com/blog/brand-safety-programmatic-advertising/",
+      "https://jwplayer.com/blog/ott-apps-niche-brands/",
+      "https://jwplayer.com/blog/starzplay-drm-solution-for-video/",
+      "https://jwplayer.com/blog/how-to-measure-video-engagement/",
+      "https://jwplayer.com/blog/tips-to-increase-video-engagement/",
+      "https://jwplayer.com/blog/contextual-targeting-with-food-videos/",
+      "https://jwplayer.com/blog/youtube-brand-safety-problem/",
+      "https://jwplayer.com/blog/video-recommendation-engine/"
     ]
   },
   "meetup.com": {
-    "lastAt": 1757790945344,
+    "lastAt": 1758143993645,
     "urls": [
       "https://www.meetup.com/pro/gdg/",
       "https://www.meetup.com/pro/docker/",
@@ -21431,15 +21466,25 @@
       "https://www.meetup.com/pro/organizers/",
       "https://www.meetup.com/pro/couchbase/",
       "https://www.meetup.com/pro/woocommerce/",
-      "https://www.meetup.com/pro/citydadsgroup/"
+      "https://www.meetup.com/pro/citydadsgroup/",
+      "https://www.meetup.com/pro/wordpress/",
+      "https://www.meetup.com/pro/healthtechnologyforum/",
+      "https://www.meetup.com/pro/lafayette/",
+      "https://www.meetup.com/pro/pydata/",
+      "https://www.meetup.com/pro/arlingtonvalib/",
+      "https://www.meetup.com/pro/aws/",
+      "https://www.meetup.com/pro/cicd-cdf/",
+      "https://www.meetup.com/pro/narcolepsyntwrk/",
+      "https://www.meetup.com/pro/unrealengine/",
+      "https://www.meetup.com/pro/yanasisters/"
     ]
   },
   "shopifysvc.com": {
-    "lastAt": 1757790948209,
+    "lastAt": 1758143996697,
     "urls": []
   },
   "churnzero.net": {
-    "lastAt": 1757790977721,
+    "lastAt": 1758144027254,
     "urls": [
       "https://churnzero.com/blog/top-takeaways-from-big-ryg-2020/",
       "https://churnzero.com/blog/preparing-your-team-for-an-uncertain-future/",
@@ -21450,19 +21495,29 @@
       "https://churnzero.com/blog/churnzero-10-customer-success-leaders-to-watch-2021/",
       "https://churnzero.com/blog/top-5-most-popular-churnzero-webinars/",
       "https://churnzero.com/blog/fighting-churn-from-16-to-5-to-1/",
-      "https://churnzero.com/blog/fighting-churn-sports-the-best-smb-retention-rate-and-the-next-big-thing/"
+      "https://churnzero.com/blog/fighting-churn-sports-the-best-smb-retention-rate-and-the-next-big-thing/",
+      "https://churnzero.com/blog/saas-onboarding-best-practices/",
+      "https://churnzero.com/blog/churnzero-10-customer-success-leaders-to-watch-in-2020/",
+      "https://churnzero.com/blog/how-customer-success-can-build-a-relationship-with-sales/",
+      "https://churnzero.com/blog/churnzeros-10-customer-success-leaders-to-watch-in-2022/",
+      "https://churnzero.com/blog/understanding-the-real-impact-of-improving-customer-retention/",
+      "https://churnzero.com/blog/remote-work-rises-amid-coronavirus-what-happens-post-contagion-crisis-try-this-hybrid-remote-schedule/",
+      "https://churnzero.com/blog/where-is-customer-success-headed-in-2022/",
+      "https://churnzero.com/blog/3-customer-retention-strategies-for-the-pandemics-next-wave/",
+      "https://churnzero.com/blog/9-well-meaning-yet-harmful-phrases-to-avoid-with-customers/",
+      "https://churnzero.com/blog/3-must-attend-big-ryg-sessions-for-cxos/"
     ]
   },
   "bt.co": {
-    "lastAt": 1757790980695,
+    "lastAt": 1758144030341,
     "urls": []
   },
   "sciencemag.org": {
-    "lastAt": 1757790987273,
+    "lastAt": 1758144037356,
     "urls": []
   },
   "sciencedaily.com": {
-    "lastAt": 1757790990274,
+    "lastAt": 1758144039913,
     "urls": [
       "https://www.sciencedaily.com/about.htm",
       "https://www.sciencedaily.com/advertise.htm",
@@ -21473,15 +21528,21 @@
       "https://www.sciencedaily.com/contribute.htm",
       "https://www.sciencedaily.com/breaking/",
       "https://www.sciencedaily.com/copyright.htm",
-      "https://www.sciencedaily.com/news/"
+      "https://www.sciencedaily.com/news/",
+      "https://www.sciencedaily.com/search/",
+      "https://www.sciencedaily.com/newsletters.htm",
+      "https://www.sciencedaily.com/privacy.htm",
+      "https://www.sciencedaily.com/staff.htm",
+      "https://www.sciencedaily.com/newsfeeds.htm",
+      "https://www.sciencedaily.com/terms.htm"
     ]
   },
   "microsoftpersonalcontent.com": {
-    "lastAt": 1757790993131,
+    "lastAt": 1758144042804,
     "urls": []
   },
   "samsungknox.com": {
-    "lastAt": 1757790997591,
+    "lastAt": 1758144046419,
     "urls": [
       "https://www.samsungknox.com/de",
       "https://www.samsungknox.com/es-419",
@@ -21492,25 +21553,35 @@
       "https://www.samsungknox.com/pt-br",
       "https://www.samsungknox.com/it",
       "https://www.samsungknox.com/en/register",
-      "https://www.samsungknox.com/en/about-knox"
+      "https://www.samsungknox.com/en/about-knox",
+      "https://www.samsungknox.com/en/solutions/knox-for-frontline",
+      "https://www.samsungknox.com/en/solutions/uem",
+      "https://www.samsungknox.com/en/solutions/knox-for-transportation",
+      "https://www.samsungknox.com/en/solutions/knox-for-school",
+      "https://www.samsungknox.com/en/solutions/knox-for-retail",
+      "https://www.samsungknox.com/en/solutions/kids-phone",
+      "https://www.samsungknox.com/en/solutions/device-customization",
+      "https://www.samsungknox.com/en/solutions/knox-for-publishers",
+      "https://www.samsungknox.com/en/solutions/it-solutions/knox-guard",
+      "https://www.samsungknox.com/en/secured-by-knox"
     ]
   },
   "gmx.net": {
-    "lastAt": 1757791003321,
+    "lastAt": 1758144049568,
     "urls": [
       "https://gmx.net/"
     ]
   },
   "supersonicads.com": {
-    "lastAt": 1757791006355,
+    "lastAt": 1758144052984,
     "urls": []
   },
   "playfabapi.com": {
-    "lastAt": 1757791009254,
+    "lastAt": 1758144055996,
     "urls": []
   },
   "variety.com": {
-    "lastAt": 1757791019237,
+    "lastAt": 1758144065199,
     "urls": [
       "https://variety.com/vip/netflix-games-purge-hades-carmen-sandiego-squid-game-unleashed-1236445660/",
       "https://variety.com/vip/2025-box-office-lilo-and-stitch-a-minecraft-movie-sinners-jurassic-world-rebirth-1236450243/",
@@ -21521,11 +21592,21 @@
       "https://variety.com/vip/youtube-spotify-meta-tiktok-video-1236453768/",
       "https://variety.com/vip/umg-downtown-live-nation-indie-music-1236464990/",
       "https://variety.com/vip/los-angeles-film-tv-production-future-becomes-clearer-reforms-1236470367/",
-      "https://variety.com/vip/music-piracy-still-a-problem-1236467435/"
+      "https://variety.com/vip/music-piracy-still-a-problem-1236467435/",
+      "https://variety.com/vip/how-the-midjourney-lawsuit-impacts-gen-ais-copyright-crisis-now-that-hollywood-finally-joined-fight-1236430978/",
+      "https://variety.com/vip/what-ai-training-data-transparency-means-content-owners-1236417000/",
+      "https://variety.com/vip/marvel-007-first-light-summer-game-fest-play-days-1236425330/",
+      "https://variety.com/vip/the-trade-desk-ventura-ctv-os-more-than-advertiser-appeal-1236420680/",
+      "https://variety.com/vip/nintendo-switch-2-record-launch-mario-kart-world-rog-xbox-ally-1236429950/",
+      "https://variety.com/vip/epic-apple-ruling-fortnite-app-store-xsolla-1236434680/",
+      "https://variety.com/vip/youtube-changing-viewing-habits-tv-dominance-1236437099/",
+      "https://variety.com/vip/how-u-s-consumers-use-and-feel-about-gen-ai-in-film-tv-music-survey-data-1236438294/",
+      "https://variety.com/vip/ctv-ad-market-growing-pains-the-trade-desk-samsung-execs-1236442032/",
+      "https://variety.com/vip/gen-ai-content-licensing-panel-barely-clarifies-hazy-future-1236444451/"
     ]
   },
   "gizmodo.com": {
-    "lastAt": 1757791033478,
+    "lastAt": 1758144089456,
     "urls": [
       "https://gizmodo.com/",
       "https://gizmodo.com/latest",
@@ -21536,11 +21617,21 @@
       "https://gizmodo.com/roundup-of-wireless-access-points-on-cnet-4207",
       "https://gizmodo.com/toshiba-rips-the-ipod-4208",
       "https://gizmodo.com/peer-to-peer-streaming-4209",
-      "https://gizmodo.com/turn-your-mac-into-a-tivo-4211"
+      "https://gizmodo.com/turn-your-mac-into-a-tivo-4211",
+      "https://gizmodo.com/how-to-replace-your-cellphone-4213",
+      "https://gizmodo.com/sneak-peak-at-the-next-gen-palm-4216",
+      "https://gizmodo.com/moxi-comes-home-4212",
+      "https://gizmodo.com/apple-unveils-ipod-for-windows-4214",
+      "https://gizmodo.com/the-rise-of-ultra-personal-computing-4215",
+      "https://gizmodo.com/roll-up-tvs-4217",
+      "https://gizmodo.com/the-most-popular-cellphones-in-asia-4218",
+      "https://gizmodo.com/1gb-firewire-drive-in-a-keychain-4219",
+      "https://gizmodo.com/sony-introduces-a-bargain-handheld-4221",
+      "https://gizmodo.com/yet-another-ipod-clone-for-the-pc-4220"
     ]
   },
   "mashable.com": {
-    "lastAt": 1757791036687,
+    "lastAt": 1758144092811,
     "urls": [
       "https://mashable.com/",
       "https://mashable.com/article/apple-robby-walker-ai-exec-leaves-company-report",
@@ -21551,11 +21642,21 @@
       "https://mashable.com/article/best-apple-iphone-17-pro-cases",
       "https://mashable.com/article/roofman-review",
       "https://mashable.com/article/james-webb-space-telescope-photo-giant-protostellar-jets",
-      "https://mashable.com/article/sept-12-craftsman-mechanics-tool-set-deal"
+      "https://mashable.com/article/sept-12-craftsman-mechanics-tool-set-deal",
+      "https://mashable.com/article/sept-17-wicked-for-good-prime-early-access",
+      "https://mashable.com/article/sept-17-nebula-cosmo-laser-4k-deal",
+      "https://mashable.com/article/trump-new-tiktok-ban-deadline-december-16",
+      "https://mashable.com/article/sept-17-eureka-j15-robot-vacuum-deal",
+      "https://mashable.com/article/iphone-17-pro-max-review-roundup",
+      "https://mashable.com/article/who-bought-tiktok-us-buyers",
+      "https://mashable.com/article/marques-brownlee-black-iphone-17-pro",
+      "https://mashable.com/article/one-battle-after-another-review",
+      "https://mashable.com/article/sept-17-dji-mini-4k-drone-deal",
+      "https://mashable.com/article/sept-17-samsung-odyssey-oled-g6-gaming-monitor-deal"
     ]
   },
   "bootstrapcdn.com": {
-    "lastAt": 1757791039681,
+    "lastAt": 1758144094275,
     "urls": [
       "https://www.bootstrapcdn.com/",
       "https://www.bootstrapcdn.com/bootswatch/",
@@ -21570,17 +21671,17 @@
     ]
   },
   "uisp.com": {
-    "lastAt": 1757791040305,
+    "lastAt": 1758144094945,
     "urls": [
       "https://uisp.com/"
     ]
   },
   "rncdn7.com": {
-    "lastAt": 1757791099117,
+    "lastAt": 1758144153760,
     "urls": []
   },
   "cmu.edu": {
-    "lastAt": 1757791102586,
+    "lastAt": 1758144155777,
     "urls": [
       "https://www.cmu.edu/",
       "https://www.cmu.edu/campus-life",
@@ -21591,25 +21692,35 @@
       "https://www.cmu.edu/leadership/president/bio",
       "https://www.cmu.edu/leadership/president/campus-comms",
       "https://www.cmu.edu/leadership/president/past-pres",
-      "https://www.cmu.edu/leadership/the-provost/office-hours"
+      "https://www.cmu.edu/leadership/the-provost/office-hours",
+      "https://www.cmu.edu/leadership/board/emeriti-trustees",
+      "https://www.cmu.edu/leadership/the-provost/contact",
+      "https://www.cmu.edu/leadership/the-provost/provost-initiatives-democracy-day",
+      "https://www.cmu.edu/leadership/the-provost/open-searches",
+      "https://www.cmu.edu/leadership/president/in-the-news",
+      "https://www.cmu.edu/academics/learning-for-a-lifetime",
+      "https://www.cmu.edu/leadership/board/voting-trustees",
+      "https://www.cmu.edu/leadership/the-provost/provost-priorities",
+      "https://www.cmu.edu/leadership/board/officers-of-the-corporation",
+      "https://www.cmu.edu/leadership/president/lecture-series"
     ]
   },
   "azure-api.net": {
-    "lastAt": 1757791105462,
+    "lastAt": 1758144158665,
     "urls": []
   },
   "cloudapp.net": {
-    "lastAt": 1757791108318,
+    "lastAt": 1758144161533,
     "urls": []
   },
   "scientificamerican.com": {
-    "lastAt": 1757791114898,
+    "lastAt": 1758144167055,
     "urls": [
       "https://scientificamerican.com/"
     ]
   },
   "tripod.com": {
-    "lastAt": 1757791121094,
+    "lastAt": 1758144170128,
     "urls": [
       "http://www.tripod.lycos.com/",
       "http://www.tripod.lycos.com/features/",
@@ -21620,19 +21731,22 @@
       "http://www.tripod.lycos.com/about.tmpl",
       "http://www.tripod.lycos.com/features/domains/",
       "http://www.tripod.lycos.com/sotm/index.tmpl",
-      "http://www.tripod.lycos.com/about/dev.tmpl"
+      "http://www.tripod.lycos.com/about/dev.tmpl",
+      "http://www.tripod.lycos.com/about/partnerships.tmpl",
+      "http://www.tripod.lycos.com/about/index.tmpl",
+      "http://www.tripod.lycos.com/about/tripodNews.tmpl"
     ]
   },
   "dns.cn": {
-    "lastAt": 1757791179909,
+    "lastAt": 1758144228944,
     "urls": []
   },
   "gartner.com": {
-    "lastAt": 1757791183995,
+    "lastAt": 1758144232756,
     "urls": []
   },
   "truste.com": {
-    "lastAt": 1757791187331,
+    "lastAt": 1758144235774,
     "urls": [
       "https://trustarc.com/company/partner-program/",
       "https://trustarc.com/solutions/by-function/digital-marketing/",
@@ -21643,7 +21757,17 @@
       "https://trustarc.com/solutions/by-function/",
       "https://trustarc.com/cookie-policy/",
       "https://trustarc.com/resources/",
-      "https://trustarc.com/products/privacy-data-governance/risk-profile/"
+      "https://trustarc.com/products/privacy-data-governance/risk-profile/",
+      "https://trustarc.com/solutions/regulatory-guidance/",
+      "https://trustarc.com/blog-subscription/",
+      "https://trustarc.com/affiliate-subprocessors/",
+      "https://trustarc.com/more-trust/",
+      "https://trustarc.com/future/",
+      "https://trustarc.com/consumer-information/",
+      "https://trustarc.com/assurance-services-agreement/",
+      "https://trustarc.com/consumer-information/privacy-feedback-button/",
+      "https://trustarc.com/global-privacy-benchmarks-report/",
+      "https://trustarc.com/consumer-information/file-a-privacy-dispute/"
     ]
   },
   "simpli.fi": {
