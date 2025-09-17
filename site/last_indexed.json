@@ -21771,7 +21771,7 @@
     ]
   },
   "simpli.fi": {
-    "lastAt": 1757794880683,
+    "lastAt": 1758147521882,
     "urls": [
       "https://simpli.fi/search",
       "https://simpli.fi/latest/how-simpli-fis-cross-device-technology-unifies-ctv-targeting-reporting",
@@ -21781,11 +21781,17 @@
       "https://simpli.fi/latest/simpli-fi-the-advertising-automation-platform-for-native",
       "https://simpli.fi/latest/simpli-fi-the-advertising-automation-platform-for-video",
       "https://simpli.fi/latest/simpli-fi-the-advertising-automation-platform-for-performance-ctv",
-      "https://simpli.fi/latest/simpli-fi-the-advertising-automation-platform-for-mobile-advertising"
+      "https://simpli.fi/latest/simpli-fi-the-advertising-automation-platform-for-mobile-advertising",
+      "https://simpli.fi/latest/home-and-garden-programmatic-trends-report-strategies-to-reach-and-convert-homeowners-in-2022",
+      "https://simpli.fi/latest/incrementality-reach-cord-cutters-and-cord-nevers-with-connected-tv",
+      "https://simpli.fi/latest/the-big-game-reaching-the-right-audience-has-never-been-easier",
+      "https://simpli.fi/latest/mobile-marketing-how-simpli-fis-product-suite-increases-store-visits-with-ease-of-execution",
+      "https://simpli.fi/latest/commentary-holiday-shopping-season-is-back-how-retailers-can-take-advantage-of-increased-consumer-spending-with-ctv-advertising",
+      "https://simpli.fi/latest/simpli-fi-ceo-frost-prioleau-named-a-top-50-saas-ceo-of-2021-by-the-software-report"
     ]
   },
   "adroll.com": {
-    "lastAt": 1757794886263,
+    "lastAt": 1758147527210,
     "urls": [
       "https://www.adroll.com/features/static-ads/gallery/algaecal",
       "https://www.adroll.com/features/static-ads/gallery/baunat",
@@ -21796,33 +21802,43 @@
       "https://www.adroll.com/features/static-ads/gallery/fatboy",
       "https://www.adroll.com/features/static-ads/gallery/gametime-rugs",
       "https://www.adroll.com/features/static-ads/gallery/horizn-studios",
-      "https://www.adroll.com/features/static-ads/gallery/balance-and-silver"
+      "https://www.adroll.com/features/static-ads/gallery/balance-and-silver",
+      "https://www.adroll.com/features/static-ads/gallery/john-masters-organics",
+      "https://www.adroll.com/features/static-ads/gallery/jimmy-choo",
+      "https://www.adroll.com/features/static-ads/gallery/juicar",
+      "https://www.adroll.com/features/static-ads/gallery/hublot",
+      "https://www.adroll.com/features/static-ads/gallery/learnupon",
+      "https://www.adroll.com/features/static-ads/gallery/miyokos",
+      "https://www.adroll.com/features/static-ads/gallery/sak-project",
+      "https://www.adroll.com/features/static-ads/gallery/open-tour-paris",
+      "https://www.adroll.com/features/static-ads/gallery/teamup",
+      "https://www.adroll.com/features/static-ads/gallery/tuk-shoes"
     ]
   },
   "wsglb0.com": {
-    "lastAt": 1757794890609,
+    "lastAt": 1758147530288,
     "urls": []
   },
   "akamaitech.net": {
-    "lastAt": 1757794893813,
+    "lastAt": 1758147533678,
     "urls": []
   },
   "igodigital.com": {
-    "lastAt": 1757794896854,
+    "lastAt": 1758147536721,
     "urls": []
   },
   "bumlam.com": {
-    "lastAt": 1757794900047,
+    "lastAt": 1758147540248,
     "urls": []
   },
   "amap.com": {
-    "lastAt": 1757794903141,
+    "lastAt": 1758147542990,
     "urls": [
       "https://amap.com/"
     ]
   },
   "ovhcloud.com": {
-    "lastAt": 1757794907667,
+    "lastAt": 1758147547383,
     "urls": [
       "https://www.ovhcloud.com/asia/personal-data-protection/legal-privacy-security/",
       "https://www.ovhcloud.com/asia/web-cloud/databases/configuration/",
@@ -21833,21 +21849,31 @@
       "https://ovhcloud.com/",
       "https://www.ovhcloud.com/asia/bare-metal/uc-software-defined-storage/",
       "https://www.ovhcloud.com/asia/bare-metal/uc-high-performance-computing/",
-      "https://www.ovhcloud.com/asia/bare-metal/dedicated-server-hong-kong/"
+      "https://www.ovhcloud.com/asia/bare-metal/dedicated-server-hong-kong/",
+      "https://www.ovhcloud.com/asia/public-cloud/managed-rancher-service/",
+      "https://www.ovhcloud.com/asia/public-cloud/free-cloud-database/",
+      "https://www.ovhcloud.com/asia/public-cloud/cloud-analytics/",
+      "https://www.ovhcloud.com/asia/public-cloud/network/",
+      "https://www.ovhcloud.com/asia/public-cloud/load-balancer-kubernetes/",
+      "https://www.ovhcloud.com/asia/public-cloud/project-management/",
+      "https://www.ovhcloud.com/asia/public-cloud/postgresql/",
+      "https://www.ovhcloud.com/asia/public-cloud/control-center/",
+      "https://www.ovhcloud.com/asia/public-cloud/orchestration/",
+      "https://www.ovhcloud.com/asia/public-cloud/faq/"
     ]
   },
   "mobile.de": {
-    "lastAt": 1757794911523,
+    "lastAt": 1758147551391,
     "urls": []
   },
   "stripe.network": {
-    "lastAt": 1757794913555,
+    "lastAt": 1758147552214,
     "urls": [
       "https://stripe.network/"
     ]
   },
   "evernote.com": {
-    "lastAt": 1757794917126,
+    "lastAt": 1758147556146,
     "urls": [
       "https://evernote.com/compare-plans",
       "https://evernote.com/",
@@ -21857,15 +21883,22 @@
       "https://evernote.com/templates",
       "https://evernote.com/features/tasks",
       "https://evernote.com/features/sync",
-      "https://evernote.com/features/web-clipper"
+      "https://evernote.com/features/web-clipper",
+      "https://evernote.com/features/document-scanning",
+      "https://evernote.com/contact",
+      "https://evernote.com/resources",
+      "https://evernote.com/legal/terms-of-service",
+      "https://evernote.com/legal",
+      "https://evernote.com/privacy",
+      "https://evernote.com/security"
     ]
   },
   "stbid.ru": {
-    "lastAt": 1757794928214,
+    "lastAt": 1758147565734,
     "urls": []
   },
   "connatix.com": {
-    "lastAt": 1757794930335,
+    "lastAt": 1758147569256,
     "urls": [
       "https://connatix.com/video-analytics",
       "https://connatix.com/video-monetization",
@@ -21876,11 +21909,18 @@
       "https://connatix.com/video-creation",
       "https://connatix.com/blog",
       "https://connatix.com/press",
-      "https://connatix.com/leadership"
+      "https://connatix.com/leadership",
+      "https://portal.connatix.com/",
+      "https://connatix.com/careers",
+      "https://connatix.com/contact",
+      "https://connatix.com/privacy-policy",
+      "https://connatix.com/pricing",
+      "https://connatix.com/copyright",
+      "https://connatix.com/job-applicant-privacy-policy"
     ]
   },
   "sky.com": {
-    "lastAt": 1757794932707,
+    "lastAt": 1758147574162,
     "urls": [
       "https://www.sky.com/",
       "https://www.sky.com/broadband",
@@ -21891,11 +21931,20 @@
       "https://www.sky.com/deals",
       "https://www.sky.com/glass/43-inch",
       "https://www.sky.com/boxoffice",
-      "https://www.sky.com/glass"
+      "https://www.sky.com/glass",
+      "https://www.sky.com/glass/65-inch",
+      "https://www.sky.com/glass/air",
+      "https://www.sky.com/glass/gen-2",
+      "https://www.sky.com/glass/55-inch",
+      "https://www.sky.com/business/help/articles/direct-debit-guarantee-uk",
+      "https://www.sky.com/broadband/buy/stream/error",
+      "https://www.sky.com/help/articles/about-internet-calls",
+      "https://www.sky.com/help/articles/about-buy-and-keep-rentals",
+      "https://www.sky.com/help/articles/9-digits-on-screen"
     ]
   },
   "google.co.id": {
-    "lastAt": 1757794935010,
+    "lastAt": 1758147575562,
     "urls": [
       "https://www.google.com/intl/sr/gmail/about/",
       "https://www.google.com/intl/sr/gmail/about/policy/",
@@ -21910,53 +21959,63 @@
     ]
   },
   "protek.ru": {
-    "lastAt": 1757794993867,
+    "lastAt": 1758147634376,
     "urls": []
   },
   "px-cloud.net": {
-    "lastAt": 1757794997093,
+    "lastAt": 1758147637573,
     "urls": []
   },
   "vtb.ru": {
-    "lastAt": 1757795009459,
+    "lastAt": 1758147647055,
     "urls": [
-      "https://vtb.ru/"
+      "https://vtb.ru/",
+      "https://www.vtb.ru/promo/gzpn/",
+      "https://www.vtb.ru/personal/karty/zarplatnye/siloviki/",
+      "https://www.vtb.ru/promo/kred/",
+      "https://www.vtb.ru/promo/priv-pcut/",
+      "https://www.vtb.ru/personal/investicii/help/",
+      "https://www.vtb.ru/personal/online-servisy/perevody-sbp/",
+      "https://www.vtb.ru/personal/online-servisy/vtb-online-lite/",
+      "https://www.vtb.ru/npb/test3010deb/",
+      "https://www.vtb.ru/about/bank/partners/",
+      "https://www.vtb.ru/personal/online-servisy/vtb-online-login/"
     ]
   },
   "udemy.com": {
-    "lastAt": 1757795012819,
+    "lastAt": 1758147650458,
     "urls": []
   },
   "geocities.com": {
-    "lastAt": 1757795015940,
+    "lastAt": 1758147653845,
     "urls": []
   },
   "bk6bba-resources.com": {
-    "lastAt": 1757795020105,
+    "lastAt": 1758147657823,
     "urls": []
   },
   "about.com": {
-    "lastAt": 1757795020926,
+    "lastAt": 1758147658505,
     "urls": [
       "https://about.com/"
     ]
   },
   "ftc.gov": {
-    "lastAt": 1757795024551,
+    "lastAt": 1758147662252,
     "urls": [
       "https://ftc.gov/"
     ]
   },
   "bitrixphone.com": {
-    "lastAt": 1757795027794,
+    "lastAt": 1758147665443,
     "urls": []
   },
   "webhostbox.net": {
-    "lastAt": 1757795030672,
+    "lastAt": 1758147668370,
     "urls": []
   },
   "barnesandnoble.com": {
-    "lastAt": 1757795039345,
+    "lastAt": 1758147677954,
     "urls": [
       "https://barnesandnoble.com/",
       "https://www.barnesandnoble.com/w/100-organic-cotton-canvas-tote-with-bag-of-books-print-green-re-wrap/1146339196",
@@ -21967,11 +22026,21 @@
       "https://www.barnesandnoble.com/w/the-let-them-theory-mel-robbins/1146342595",
       "https://www.barnesandnoble.com/w/fearful-lauren-roberts/1147571507",
       "https://www.barnesandnoble.com/w/a-bag-of-books-tote-100-cotton-blue-canvas-re-wrap/1142524934",
-      "https://www.barnesandnoble.com/w/quicksilver-callie-hart/1145866827"
+      "https://www.barnesandnoble.com/w/quicksilver-callie-hart/1145866827",
+      "https://www.barnesandnoble.com/w/the-surrogate-mother-freida-mcfadden/1141709128",
+      "https://www.barnesandnoble.com/w/union-square-tote-keepcool-usa/1140181413",
+      "https://www.barnesandnoble.com/w/wild-card-elsie-silver/1146984841",
+      "https://www.barnesandnoble.com/w/project-hail-mary-andy-weir/1137456421",
+      "https://www.barnesandnoble.com/w/starside-alex-aster/1148270716",
+      "https://www.barnesandnoble.com/w/when-the-cranes-fly-south-lisa-ridzen/1146184897",
+      "https://www.barnesandnoble.com/w/right-wing-revolution-charlie-kirk/1144945371",
+      "https://www.barnesandnoble.com/w/zombie-and-brain-are-friends-stephanie-vw-lucianovic/1146652059",
+      "https://www.barnesandnoble.com/w/the-secret-of-secrets-dan-brown/1146902400",
+      "https://www.barnesandnoble.com/w/accomplice-to-the-villain-hannah-nicole-maehrer/1146458535"
     ]
   },
   "mirror.co.uk": {
-    "lastAt": 1757795049437,
+    "lastAt": 1758147687175,
     "urls": [
       "https://www.mirror.co.uk/news/uk-news/london-tommy-robinson-protest-live-35897418",
       "https://www.mirror.co.uk/tv/tv-news/itv-you-bet-tours-stephen-35898894",
@@ -21982,11 +22051,21 @@
       "https://www.mirror.co.uk/3am/celebrity-news/ekin-su-details-single-life-35899139",
       "https://www.mirror.co.uk/tv/tv-news/itv-win-win-viewers-spot-35899196",
       "https://www.mirror.co.uk/tv/tv-news/channel-4s-great-british-bake-35899143",
-      "https://www.mirror.co.uk/news/us-news/charlie-kirk-dead-live-updates-35883998"
+      "https://www.mirror.co.uk/news/us-news/charlie-kirk-dead-live-updates-35883998",
+      "https://www.mirror.co.uk/sport/football/news/breaking-diego-simeone-liverpool-fans-35921792",
+      "https://www.mirror.co.uk/tv/tv-news/love-island-star-tasha-ghouri-35921756",
+      "https://www.mirror.co.uk/news/uk-news/trump-melania-live-king-visit-35909300",
+      "https://www.mirror.co.uk/news/world-news/madeleine-mccann-suspect-scoffs-mcdonalds-35921245",
+      "https://www.mirror.co.uk/news/uk-news/fat-burning-jabs-could-help-35918949",
+      "https://www.mirror.co.uk/tv/tv-news/coronation-streets-beverly-callard-signs-35921670",
+      "https://www.mirror.co.uk/sport/football/news/ruben-neves-man-utd-transfer-35921699",
+      "https://www.mirror.co.uk/tv/tv-news/taylor-swift-make-return-bbc-35921653",
+      "https://www.mirror.co.uk/sport/football/news/west-ham-graham-potter-statement-35921042",
+      "https://www.mirror.co.uk/news/health/humiliated-patients-treated-doctors-costa-35921504"
     ]
   },
   "utexas.edu": {
-    "lastAt": 1757795051095,
+    "lastAt": 1758147688797,
     "urls": [
       "https://www.utexas.edu/",
       "https://utexas.edu/",
@@ -21997,15 +22076,25 @@
       "https://www.utexas.edu/campus-carry",
       "https://www.utexas.edu/campus-carry/faqs",
       "https://www.utexas.edu/campus-life/campus-destinations",
-      "https://www.utexas.edu/compact-with-texans"
+      "https://www.utexas.edu/compact-with-texans",
+      "https://www.utexas.edu/contact-us",
+      "https://www.utexas.edu/family-and-visitor-resources",
+      "https://www.utexas.edu/fraud-waste-or-abuse",
+      "https://www.utexas.edu/campus-life/housing-and-dining",
+      "https://www.utexas.edu/about/facts-and-figures",
+      "https://www.utexas.edu/jobs",
+      "https://www.utexas.edu/research/libraries",
+      "https://www.utexas.edu/campus-life/life-in-austin",
+      "https://www.utexas.edu/research/off-campus-research-sites",
+      "https://www.utexas.edu/about/mission-and-values"
     ]
   },
   "xinhuanet.com": {
-    "lastAt": 1757795055398,
+    "lastAt": 1758147691915,
     "urls": []
   },
   "dnse0.com": {
-    "lastAt": 1757795059369,
+    "lastAt": 1758147695341,
     "urls": []
   },
   "getbootstrap.com": {
