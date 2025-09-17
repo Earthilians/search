@@ -15754,11 +15754,11 @@
     ]
   },
   "mediaexpert.pl": {
-    "lastAt": 1757733870510,
+    "lastAt": 1758083219728,
     "urls": []
   },
   "navitime.co.jp": {
-    "lastAt": 1757733875245,
+    "lastAt": 1758083224353,
     "urls": [
       "https://navitime.co.jp/",
       "https://www.navitime.co.jp/air/diagram/result?departure=AOJ&arrival=CTS",
@@ -15769,25 +15769,35 @@
       "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=ITM",
       "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=HND",
       "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KIX",
-      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KKX"
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KKX",
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=KOJ",
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=NRT",
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=OKE",
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=TKN",
+      "https://www.navitime.co.jp/air/diagram/result?departure=ASJ&arrival=OKA",
+      "https://www.navitime.co.jp/air/diagram/result?departure=AXJ&arrival=KMJ",
+      "https://www.navitime.co.jp/air/diagram/result?departure=AXT&arrival=CTS",
+      "https://www.navitime.co.jp/air/diagram/result?departure=AXJ&arrival=FUK",
+      "https://www.navitime.co.jp/air/diagram/result?departure=AXT&arrival=ITM",
+      "https://www.navitime.co.jp/air/diagram/result?departure=AXT&arrival=HND"
     ]
   },
   "domainmarket.com": {
-    "lastAt": 1757733878493,
+    "lastAt": 1758083227549,
     "urls": []
   },
   "cityheaven.net": {
-    "lastAt": 1757733883609,
+    "lastAt": 1758083232702,
     "urls": []
   },
   "purepeople.com": {
-    "lastAt": 1757733885835,
+    "lastAt": 1758083234348,
     "urls": [
       "https://purepeople.com/"
     ]
   },
   "khabaronline.ir": {
-    "lastAt": 1757733895364,
+    "lastAt": 1758083243283,
     "urls": [
       "https://www.khabaronline.ir/news/2114037/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AE%D8%A7%D9%84-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D9%88-%D8%B2%DA%AF%DB%8C%D9%84-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A2%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF%D9%86-%D8%B2%DA%AF%DB%8C%D9%84-%D8%A8%D8%A7-%D9%86%D8%A7%D8%AE%D9%86%DA%AF%DB%8C%D8%B1-%DB%8C%D8%A7-%D8%A8%D8%B3%D8%AA%D9%86",
       "https://www.khabaronline.ir/news/2114552/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%88-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B2%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%B1%D8%AF%D8%B5%D9%84%D8%A7%D8%AD%DB%8C%D8%AA-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%D9%87%D8%A7%DB%8C",
@@ -15798,17 +15808,27 @@
       "https://www.khabaronline.ir/news/2114095/%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B3%D8%AA%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7-%DA%86%D9%87-%D8%A8%D9%88%D8%AF",
       "https://www.khabaronline.ir/news/2114565/%D9%85%D8%B3%D8%AA-%D8%A8%D9%88%D8%AF%D9%85-%DA%AF%D9%85%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D9%85-%D9%BE%D8%B3%D8%B1%DB%8C-%DA%A9%D9%87-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%85%D8%B3%D8%A7%DB%8C%D9%87-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DA%AF%D8%A7%D8%B1",
       "https://www.khabaronline.ir/news/2114436/%D8%AA%D8%A8%D8%B9%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%86%D9%87-%D8%A8%D9%88%D8%AF-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B9%D8%B6%D9%88-%D9%87%DB%8C%D8%A6%D8%AA-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%DA%A9%D9%86%D9%86%D8%AF%D9%87",
-      "https://khabaronline.ir/"
+      "https://khabaronline.ir/",
+      "https://www.khabaronline.ir/news/2116435/%D8%A7%D9%85%D8%A7%D9%85-%D8%AC%D9%85%D8%B9%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D9%87%D8%B1%D8%AC-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF",
+      "https://www.khabaronline.ir/news/2116457/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C-%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%A7%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "https://www.khabaronline.ir/news/2116434/%D8%AA%DB%8C%D9%85-%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D8%A7%D9%87%D9%86%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D9%88%D8%B1%D8%B2%D8%B4-%D9%87%D8%A7%DB%8C-%D9%81%D9%86%D8%A7%D9%88%D8%B1%D8%A7%D9%86%D9%87",
+      "https://www.khabaronline.ir/news/2116461/%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%85%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D9%84%D8%A7%D9%86%DB%8C%D8%A7-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84",
+      "https://www.khabaronline.ir/news/2116443/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D8%AA%D8%A7%D8%AC%DB%8C%DA%A9-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B7%D9%84%D8%A8%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%86%D8%AF-%D9%86%D8%B2%D8%AF-%D9%85%D8%B1%D8%AF%D9%85-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7",
+      "https://www.khabaronline.ir/news/2116462/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D8%A8%D8%A7-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%DB%8C%D8%A7%D8%B6",
+      "https://www.khabaronline.ir/news/2116453/%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%DA%A9%D8%A7%D8%AA%D8%B3-%D9%88-%D9%86%D8%B4%D8%B3%D8%AA-%D8%AF%D9%88%D8%AD%D9%87-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2-%D8%BA%D8%B2%D9%87-%DA%86%D9%87-%D9%85%D8%B9%D9%86%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA-%D9%87%D8%AF%D9%81-%D8%A8%D8%B9%D8%AF%DB%8C",
+      "https://www.khabaronline.ir/news/2116455/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A8%D9%87-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84%D8%B1%D9%88%D8%B2-%D9%86%D8%A7%D8%A2%D8%B1%D8%A7%D9%85%DB%8C-%D9%87%D8%A7%DB%8C",
+      "https://www.khabaronline.ir/news/2116331/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D8%B3%DB%8C%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D8%AF%D8%B1-%DA%A9%D8%B3%D8%A7%D9%86%DB%8C-%DA%A9%D9%87-%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D8%B9-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D9%85%D8%B5%D9%84%D8%AD%D8%AA",
+      "https://www.khabaronline.ir/news/2115584/%D9%BE%D8%AF%D8%B1-%D9%85%D8%B9%D9%86%D9%88%DB%8C-%D8%AF%D9%84%D9%88%D8%A7%D9%BE%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D8%A7%D8%A8-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%98%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA-%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D9%85%DB%8C%D9%86-%D8%AA%D9%86%D8%AF%D8%B1%D9%88%D9%87%D8%A7-%D8%AF%D8%B1"
     ]
   },
   "jut.su": {
-    "lastAt": 1757733897107,
+    "lastAt": 1758083244510,
     "urls": [
       "https://jut.su/"
     ]
   },
   "otomoto.pl": {
-    "lastAt": 1757733906525,
+    "lastAt": 1758083253987,
     "urls": [
       "https://otomoto.pl/",
       "https://www.otomoto.pl/ciezarowe/Autosan/",
@@ -15819,11 +15839,21 @@
       "https://www.otomoto.pl/ciezarowe/Fiat/",
       "https://www.otomoto.pl/ciezarowe/Ford/",
       "https://www.otomoto.pl/ciezarowe/FUSO/",
-      "https://www.otomoto.pl/ciezarowe/Inny/"
+      "https://www.otomoto.pl/ciezarowe/Inny/",
+      "https://www.otomoto.pl/ciezarowe/Kamaz/",
+      "https://www.otomoto.pl/ciezarowe/Iveco/",
+      "https://www.otomoto.pl/ciezarowe/Irisbus/",
+      "https://www.otomoto.pl/ciezarowe/Jelcz/",
+      "https://www.otomoto.pl/ciezarowe/Isuzu/",
+      "https://www.otomoto.pl/ciezarowe/Kogel/",
+      "https://www.otomoto.pl/ciezarowe/Kia/",
+      "https://www.otomoto.pl/ciezarowe/Krone/",
+      "https://www.otomoto.pl/ciezarowe/MAN/",
+      "https://www.otomoto.pl/ciezarowe/Mercedes-Benz/"
     ]
   },
   "beboo.ru": {
-    "lastAt": 1757733910337,
+    "lastAt": 1758083257570,
     "urls": [
       "https://beboo.ru/",
       "https://beboo.ru/znakomstva",
@@ -15834,11 +15864,21 @@
       "https://beboo.ru/znakomstva/abaza-",
       "https://beboo.ru/znakomstva/abaza",
       "https://beboo.ru/znakomstva/abakan",
-      "https://beboo.ru/znakomstva/abakan-krasnoyarskiy-kray"
+      "https://beboo.ru/znakomstva/abakan-krasnoyarskiy-kray",
+      "https://beboo.ru/znakomstva/abdulino",
+      "https://beboo.ru/znakomstva/abinsk",
+      "https://beboo.ru/znakomstva/abez",
+      "https://beboo.ru/znakomstva/abatskij",
+      "https://beboo.ru/znakomstva/abramcevo",
+      "https://beboo.ru/znakomstva/abrau-djurso",
+      "https://beboo.ru/znakomstva/abyj",
+      "https://beboo.ru/znakomstva/agan",
+      "https://beboo.ru/znakomstva/agapovka",
+      "https://beboo.ru/znakomstva/agvali"
     ]
   },
   "jutarnji.hr": {
-    "lastAt": 1757733914531,
+    "lastAt": 1758083261095,
     "urls": [
       "https://www.jutarnji.hr/dobrahrana/price/kako-izgleda-jedan-dan-u-berbi-u-biodinamickom-vinogradu-obitelji-tomac-ova-je-berba-jedna-od-najboljih-koje-pamtim-15617906",
       "https://jutarnji.hr/",
@@ -15849,27 +15889,37 @@
       "https://www.jutarnji.hr/vijesti/svijet/zelenski-uhitili-smo-osumnjicenog-za-ubojstvo-bivseg-sefa-parlamaneta-15618106",
       "https://www.jutarnji.hr/vaumijau/divlje-zivotinje/riba-s-prozirnom-glavom-skriva-iznenadujucu-moc-u-dubinama-oceana-15618096",
       "https://www.jutarnji.hr/scena/strane-zvijezde/cijeli-hollywood-suskao-je-o-velikoj-svadi-zvijezda-avangersa-sada-je-o-svemu-progovorio-izvor-sa-seta-15618103",
-      "https://www.jutarnji.hr/web-static/cuvajte-se-mokrih-banana-u-supermarketima-cesto-cete-na-takve-naletjeti-a-evo-zasto-morate-bjezati-od-njih-15618104"
+      "https://www.jutarnji.hr/web-static/cuvajte-se-mokrih-banana-u-supermarketima-cesto-cete-na-takve-naletjeti-a-evo-zasto-morate-bjezati-od-njih-15618104",
+      "https://www.jutarnji.hr/vijesti/svijet/roditelji-odaju-pocast-plavokosom-decku-koji-je-poginuo-na-vrtuljku-na-igralistu-za-sve-je-kriv-elektricni-bicikl-srce-mi-je-rastrgano-15618109",
+      "https://www.jutarnji.hr/dobrahrana/recepti/od-sezonskog-povrca-napravite-hladnu-juhu-koja-ce-biti-odlican-lagani-rucak-za-dva-dana-15618107",
+      "https://www.jutarnji.hr/vijesti/svijet/auto-se-zabio-u-ruski-konzulat-u-sydneyju-uhitili-smo-osumnjicenu-osobu-15618108",
+      "https://www.jutarnji.hr/domidizajn/savjeti/umjesto-da-upozore-susjeda-tiktokeri-se-snimali-kako-hodaju-u-pidzamama-i-cerekaju-se-koliki-ce-mu-biti-racun-15618111",
+      "https://www.jutarnji.hr/vijesti/svijet/sad-ukinuo-izdavanje-viza-za-gotovo-sve-osobe-s-palestinskom-putovnicom-15618112",
+      "https://www.jutarnji.hr/vijesti/svijet/nekad-mocni-gradonacelnik-81-tesko-je-ozlijeden-u-prometnoj-nesreci-u-sad-u-15618114",
+      "https://www.jutarnji.hr/vijesti/svijet/raste-broj-zrtava-strahuje-se-da-su-stotine-mrtvih-i-ozlijedenih-nakon-potresa-magnitude-6-0-15618115",
+      "https://www.jutarnji.hr/dobrahrana/recepti/jednostavan-umak-od-tikvice-odlican-je-dodatak-tjestenini-evo-kako-ga-napraviti-15618113",
+      "https://www.jutarnji.hr/dobrahrana/recepti/komad-mesa-a-rucak-za-cijelu-obitelj-imamo-recept-za-jednostavan-svakodnevni-umak-s-piletinom-i-povrcem-15617909",
+      "https://www.jutarnji.hr/vijesti/hrvatska/dug-im-je-prosli-mjesec-skocio-za-68-milijuna-eura-sad-traze-hitnu-pomoc-drzave-ugrozeni-su-pacijenti-u-hrvatskim-bolnicama-15618116"
     ]
   },
   "zozo.jp": {
-    "lastAt": 1757733983339,
+    "lastAt": 1758083329905,
     "urls": []
   },
   "gelbooru.com": {
-    "lastAt": 1757733984483,
+    "lastAt": 1758083330831,
     "urls": [
       "https://gelbooru.com/"
     ]
   },
   "ficbook.net": {
-    "lastAt": 1757733986297,
+    "lastAt": 1758083332265,
     "urls": [
       "https://ficbook.net/"
     ]
   },
   "blic.rs": {
-    "lastAt": 1757733992725,
+    "lastAt": 1758083338619,
     "urls": [
       "https://www.blic.rs/vesti/drustvo/nesebar-je-najjeftinije-letovaliste-u-evropi-nalazi-se-na-samo-nekoliko-sati-od/k3f9736",
       "https://www.blic.rs/vesti/svet/policajac-imigracione-sluzbe-ubio-muskarca-u-cikagu-tokom-pokusaja-hapsenja/lph87nv",
@@ -15880,33 +15930,43 @@
       "https://www.blic.rs/biznis/vesti/svajcarske-banke-odbile-svaki-treci-zahtev-za-potrosacki-kredit/c4j6pfs",
       "https://www.blic.rs/vesti/hronika/policija-kod-maloletnika-pronasla-marihuana-kod-mladica-23-amfetamin/b6k5bj8",
       "https://www.blic.rs/vesti/svet/gasenje-interneta-u-rusiji-zbog-dronova-ekonomija-i-zivoti-pod-pritiskom-izazova/fy38zn9",
-      "https://www.blic.rs/biznis/vesti/vucic-poseticu-japan-i-srpski-paviljon-na-expo-u-osaki-15-septembra/c15jchr"
+      "https://www.blic.rs/biznis/vesti/vucic-poseticu-japan-i-srpski-paviljon-na-expo-u-osaki-15-septembra/c15jchr",
+      "https://www.blic.rs/vesti/hronika/progovorio-otac-devojke-osumnjicenog-za-ubistvo-u-obrenovcu-moju-cerku-je-izbo-nozem/t8x9c7k",
+      "https://www.blic.rs/vesti/politika/obavezan-vojni-rok-u-srbiji-trajao-bi-75-dana-evo-ko-ce-prvi-biti-pozvan/5kv08jr",
+      "https://www.blic.rs/zabava/poznatu-srpkinju-svekar-ponizio-na-svadbi-razvela-se-posle-mesec-dana-danas-krije/jrr07pe",
+      "https://www.blic.rs/vesti/svet/uzbuna-u-evropi-opsadno-stanje-u-ovoj-zemlji-tenzije-eksplodirale-popaljeni-alarmi/zvhr2qb",
+      "https://www.blic.rs/vremenska-prognoza/mape-ostar-prekid-leta-ali-na-kratko-ovog-jutra-samo-8-stepeni-pa-tropski-talas/wfrqtfh",
+      "https://www.blic.rs/biznis/privreda/frizer-iz-turske-pronasao-sebe-u-srbiji-nema-dilemu-da-zeli-ovde-da-ostane-zauvek/jc4jrtm",
+      "https://www.blic.rs/vesti/svet/ekstaza-u-zemlji-koju-srbi-obozavaju-posle-109-godina-izvuceni-predmeti-iz-olupine/c9348qx",
+      "https://www.blic.rs/vesti/drustvo/zene-sminku-muskarci-kondome-pitali-su-vozace-sta-obavezno-drze-u-automobilu/wwhp84p",
+      "https://www.blic.rs/vesti/svet/rumunsko-tuzilastvo-podiglo-optuznicu-protiv-kalina-dordjeskua/nj4lq6r",
+      "https://www.blic.rs/vesti/drustvo/sta-balerina-kapucina-i-tralalero-tralala-rade-mozgu-dece-novi-trendovi-zaludeli/f9fdfcw"
     ]
   },
   "leroymerlin.fr": {
-    "lastAt": 1757733996775,
+    "lastAt": 1758083343452,
     "urls": []
   },
   "cmoa.jp": {
-    "lastAt": 1757734003855,
+    "lastAt": 1758083351773,
     "urls": []
   },
   "savvis.net": {
-    "lastAt": 1757734007352,
+    "lastAt": 1758083355459,
     "urls": []
   },
   "karnataka.gov.in": {
-    "lastAt": 1757734066162,
+    "lastAt": 1758083414272,
     "urls": []
   },
   "rajasthan.gov.in": {
-    "lastAt": 1757734095001,
+    "lastAt": 1758083416366,
     "urls": [
       "https://rajasthan.gov.in/"
     ]
   },
   "carsensor.net": {
-    "lastAt": 1757734106000,
+    "lastAt": 1758083425636,
     "urls": [
       "https://www.carsensor.net/catalog/lexus/lexus_ct/200h/",
       "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/",
@@ -15917,11 +15977,21 @@
       "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3/",
       "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%82%AF%E3%83%BC%E3%83%AB+%E3%83%84%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/",
       "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%81%E3%82%A7%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88+%E3%83%84%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/",
-      "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF+%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B9/"
+      "https://www.carsensor.net/catalog/lexus/lexus_ct/200h+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF+%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B9/",
+      "https://www.carsensor.net/catalog/lexus/lexus_es/300h/",
+      "https://www.carsensor.net/shop/hokkaido/3/index.html",
+      "https://www.carsensor.net/shop/hokkaido/2/index.html",
+      "https://www.carsensor.net/shop/hokkaido/4/index.html",
+      "https://www.carsensor.net/catalog/lexus/lexus_es/300h+F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/",
+      "https://www.carsensor.net/catalog/lexus/lexus_es/300h+%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3L/",
+      "https://www.carsensor.net/catalog/lexus/lexus_es/300h+%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%95%E3%83%AB+%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
+      "https://www.carsensor.net/shop/hokkaido/5/index.html",
+      "https://www.carsensor.net/shop/hokkaido/6/index.html",
+      "https://www.carsensor.net/shop/hokkaido/7/index.html"
     ]
   },
   "ssstik.io": {
-    "lastAt": 1757734107142,
+    "lastAt": 1758083426762,
     "urls": [
       "https://ssstik.io/download-tiktok-stories",
       "https://ssstik.io/",
@@ -15932,17 +16002,27 @@
       "https://ssstik.io/id",
       "https://ssstik.io/de",
       "https://ssstik.io/es",
-      "https://ssstik.io/fr"
+      "https://ssstik.io/fr",
+      "https://ssstik.io/ja",
+      "https://ssstik.io/ru",
+      "https://ssstik.io/ko",
+      "https://ssstik.io/tr",
+      "https://ssstik.io/pt",
+      "https://ssstik.io/vi",
+      "https://ssstik.io/ar",
+      "https://ssstik.io/th",
+      "https://ssstik.io/it",
+      "https://ssstik.io/pl"
     ]
   },
   "betway.co.za": {
-    "lastAt": 1757734109313,
+    "lastAt": 1758083429092,
     "urls": [
       "https://betway.co.za/"
     ]
   },
   "tori.fi": {
-    "lastAt": 1757734120496,
+    "lastAt": 1758083440866,
     "urls": [
       "https://www.tori.fi/recommerce/forsale/search?category=0.90",
       "https://www.tori.fi/recommerce/forsale/search?category=0.77",
@@ -15953,11 +16033,21 @@
       "https://www.tori.fi/recommerce/forsale/search?category=0.93",
       "https://www.tori.fi/recommerce/forsale/search?category=0.86",
       "https://www.tori.fi/recommerce/forsale/search?trade_type=2",
-      "https://www.tori.fi/recommerce/forsale/search?category=0.69"
+      "https://www.tori.fi/recommerce/forsale/search?category=0.69",
+      "https://www.tori.fi/recommerce/forsale/search?trade_type=3",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100015",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100013",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100006",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100014",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100003",
+      "https://www.tori.fi/recommerce/forsale/search?location=0.100017",
+      "https://www.tori.fi/recommerce/forsale/search?category=0.78",
+      "https://www.tori.fi/recommerce/forsale/search?category=0.67",
+      "https://www.tori.fi/recommerce/forsale/search?category=0.68"
     ]
   },
   "inven.co.kr": {
-    "lastAt": 1757734129529,
+    "lastAt": 1758083449744,
     "urls": [
       "https://www.inven.co.kr/",
       "https://friends.inven.co.kr/",
@@ -15967,27 +16057,35 @@
       "https://gstar.inven.co.kr/",
       "https://imart.inven.co.kr/",
       "https://imart.inven.co.kr/shop/",
-      "https://console.inven.co.kr/"
+      "https://console.inven.co.kr/",
+      "https://www.inven.co.kr/poll/",
+      "https://tr.inven.co.kr/",
+      "https://party.inven.co.kr/",
+      "https://intel.inven.co.kr/",
+      "https://samsungodyssey.inven.co.kr/",
+      "https://asusrog.inven.co.kr/",
+      "https://hyperx.inven.co.kr/",
+      "https://msi.inven.co.kr/"
     ]
   },
   "luxuretv.com": {
-    "lastAt": 1757734132712,
+    "lastAt": 1758083453135,
     "urls": []
   },
   "3bmeteo.com": {
-    "lastAt": 1757734135344,
+    "lastAt": 1758083454929,
     "urls": [
       "https://3bmeteo.com/"
     ]
   },
   "ekstrabladet.dk": {
-    "lastAt": 1757734148350,
+    "lastAt": 1758083467750,
     "urls": [
       "https://ekstrabladet.dk/"
     ]
   },
   "gamewith.jp": {
-    "lastAt": 1757734152574,
+    "lastAt": 1758083472925,
     "urls": [
       "https://gamewith.jp/p5x/512736",
       "https://gamewith.jp/p5x/",
@@ -15998,11 +16096,21 @@
       "https://gamewith.jp/p5x/504681",
       "https://gamewith.jp/p5x/504834",
       "https://gamewith.jp/p5x/506756",
-      "https://gamewith.jp/p5x/503918"
+      "https://gamewith.jp/p5x/503918",
+      "https://gamewith.jp/genshin/article/show/501914",
+      "https://gamewith.jp/genshin/article/show/230395",
+      "https://gamewith.jp/genshin/article/show/517866",
+      "https://gamewith.jp/genshin/article/show/407254",
+      "https://gamewith.jp/genshin/",
+      "https://gamewith.jp/genshin/article/show/233609",
+      "https://gamewith.jp/genshin/article/show/496442",
+      "https://gamewith.jp/genshin/article/show/230360",
+      "https://gamewith.jp/genshin/article/show/234001",
+      "https://gamewith.jp/genshin/article/show/232506"
     ]
   },
   "snaptik.app": {
-    "lastAt": 1757734153755,
+    "lastAt": 1758083473336,
     "urls": [
       "https://snaptik.app/douyin-downloader",
       "https://snaptik.app/download-story-tiktok",
@@ -16014,7 +16122,7 @@
     ]
   },
   "mat6tube.com": {
-    "lastAt": 1757734157888,
+    "lastAt": 1758083477312,
     "urls": []
   },
   "manoramaonline.com": {
