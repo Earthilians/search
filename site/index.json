@@ -111648,5 +111648,698 @@
     "title": "Mission & Values | University of Texas at Austin",
     "description": "",
     "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "040c63a8fcfaf2b82d36096be92c350be2680321",
+    "url": "https://getbootstrap.com/docs/5.3/components/accordion/",
+    "title": "Accordion · Bootstrap v5.3",
+    "description": "Build vertically collapsing accordions in combination with our Collapse JavaScript plugin.",
+    "text": "Build vertically collapsing accordions in combination with our Collapse JavaScript plugin.\nThe accor"
+  },
+  {
+    "id": "83a3a8f25295929c78bec385f795cc9662f92cf2",
+    "url": "https://getbootstrap.com/docs/5.3/components/badge/",
+    "title": "Badges · Bootstrap v5.3",
+    "description": "Documentation and examples for badges, our small count and labeling component.",
+    "text": "Documentation and examples for badges, our small count and labeling component.\nBadges scale to match"
+  },
+  {
+    "id": "5104e0525e65590004b48dbb4f6a06ad911a6473",
+    "url": "https://getbootstrap.com/docs/5.3/components/breadcrumb/",
+    "title": "Breadcrumb · Bootstrap v5.3",
+    "description": "Indicate the current page’s location within a navigational hierarchy that automatically adds separat",
+    "text": "Indicate the current page’s location within a navigational hierarchy that automatically adds separat"
+  },
+  {
+    "id": "c2226b4504b2462ab9392e8008bb4adc88773818",
+    "url": "https://getbootstrap.com/docs/5.3/components/button-group/",
+    "title": "Button group · Bootstrap v5.3",
+    "description": "Group a series of buttons together on a single line or stack them in a vertical column.",
+    "text": "Group a series of buttons together on a single line or stack them in a vertical column.\nWrap a serie"
+  },
+  {
+    "id": "38b887dbabd5a293041a063b24b2ce2d97006d64",
+    "url": "https://getbootstrap.com/docs/5.3/components/alerts/",
+    "title": "Alerts · Bootstrap v5.3",
+    "description": "Provide contextual feedback messages for typical user actions with the handful of available and flex",
+    "text": "Provide contextual feedback messages for typical user actions with the handful of available and flex"
+  },
+  {
+    "id": "c1714ec4079fb0bb3dd106660b9980ce9652a1a3",
+    "url": "https://getbootstrap.com/docs/5.3/components/buttons/",
+    "title": "Buttons · Bootstrap v5.3",
+    "description": "Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multip",
+    "text": "Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multip"
+  },
+  {
+    "id": "1a5bcf03c5c35ce97558b53cafdc8d8823ccc927",
+    "url": "https://getbootstrap.com/docs/5.3/components/carousel/",
+    "title": "Carousel · Bootstrap v5.3",
+    "description": "A slideshow component for cycling through elements—images or slides of text—like a carousel.",
+    "text": "A slideshow component for cycling through elements—images or slides of text—like a carousel.\nThe car"
+  },
+  {
+    "id": "503d9765d40c4dfc245dba9d492ad26264e339b6",
+    "url": "https://getbootstrap.com/docs/5.3/components/close-button/",
+    "title": "Close button · Bootstrap v5.3",
+    "description": "A generic close button for dismissing content like modals and alerts.",
+    "text": "A generic close button for dismissing content like modals and alerts.\nProvide an option to dismiss o"
+  },
+  {
+    "id": "0ae61b847351f496f4fb466c6fad022253cae065",
+    "url": "https://getbootstrap.com/docs/5.3/components/card/",
+    "title": "Cards · Bootstrap v5.3",
+    "description": "Bootstrap’s cards provide a flexible and extensible content container with multiple variants and opt",
+    "text": "Bootstrap’s cards provide a flexible and extensible content container with multiple variants and opt"
+  },
+  {
+    "id": "081a362d49c3d23d94c236d5651ff30d8ed1ef94",
+    "url": "https://getbootstrap.com/docs/5.3/components/collapse/",
+    "title": "Collapse · Bootstrap v5.3",
+    "description": "Toggle the visibility of content across your project with a few classes and our JavaScript plugins.",
+    "text": "Toggle the visibility of content across your project with a few classes and our JavaScript plugins.\n"
+  },
+  {
+    "id": "d38733302d7f5a562ecd03cc153e8f45609c9c03",
+    "url": "https://www.drweb.com/pravda/issue/?number=189&lng=en",
+    "title": "Devote time to your security",
+    "description": "In the issue “Taming traffic gobblers”, we told our readers how they can enable the firewall and con",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "938ba5ce688a5f523a9f0aed8e1f4702912d2a57",
+    "url": "https://www.drweb.com/pravda/issue/?number=184&lng=en",
+    "title": "IT deduction",
+    "description": "\"An old soldier, I perceive,\" said Sherlock. \"And very recently discharged,\" remarked the brother. \"",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "6cd0cc3382b3911a07bdbda68e5b3b8f16b87b16",
+    "url": "https://www.drweb.com/pravda/issue/?number=183&lng=en",
+    "title": "Taming traffic gobblers",
+    "description": "People who travel often, whether in search of new experiences or for business, greatly value the opp",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "fee935b7692ea7d7543ca0f0b5149a1e70f296c7",
+    "url": "https://www.drweb.com/pravda/issue/?number=187&lng=en",
+    "title": "Always keep your anti-virus first aid kit close at hand",
+    "description": "How are you? Have the attacks stopped? Maybe you have an update mirror? I needed your utilities, but",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "01bec0e1741ff37d3caf44298db4948a94d8fb87",
+    "url": "https://www.drweb.com/pravda/issue/?number=182&lng=en",
+    "title": "Orwell wouldn't like it",
+    "description": "Thanks to the fact that microelectronic devices keep getting cheaper and are being so actively integ",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "ec72416c45fa48f47fa650ce62582c7358fb52b2",
+    "url": "https://www.drweb.com/pravda/issue/?number=186&lng=en",
+    "title": "More than mere curiosity",
+    "description": "Without feedback, it would be hard to determine what customers really like or dislike. Doctor Web ha",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "684de1f461a3ef5cfc8b8baf68adefa689f77be3",
+    "url": "https://www.drweb.com/pravda/issue/?number=181&lng=en",
+    "title": "Greed XXXL",
+    "description": "Nowadays encryption ransomware programs are regular guests in corporate networks. One would think th",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "03e3d8369db05d334964e214aea677e6e2660447",
+    "url": "https://www.drweb.com/pravda/issue/?number=180&lng=en",
+    "title": "Dirty remote tricks",
+    "description": "Enabling remote access to a machine is risky especially if the machine stores important corporate da",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "bde9ff38ef909d36f0ab3c47a79e497299a1f455",
+    "url": "https://www.drweb.com/pravda/issue/?number=185&lng=en",
+    "title": "Shock therapy for the lazy and ignorant",
+    "description": "Instead of an introduction, here is a short conversation: a13x09:23:30 2017-01-11 @LG, sure: you pra",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "2bb136d1672a6690208924e4ea85e8a50df1dd0d",
+    "url": "https://www.drweb.com/pravda/issue/?number=188&lng=en",
+    "title": "Non-virtual terrorism",
+    "description": "The scale of the threats posed by attacks on the information infrastructure of enterprises and organ",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "464267b7fcebc0809e763650158a88730f027925",
+    "url": "https://www.datto.com/blog/wifi-6-what-it-means-for-msps/",
+    "title": "WiFi-6: What It Means For MSPs | Datto Wifi 6",
+    "description": "WiFi-6 is the most recent iteration of the WiFi network protocol and brings consumers and businesses",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nThere are 15 billion W"
+  },
+  {
+    "id": "8a2e26a8d433c2df2af1f3b84e855dee8d33577b",
+    "url": "https://www.datto.com/blog/why-msps-deserve-a-huge-thank-you-right-now/",
+    "title": "Why MSPs Deserve a Huge \"Thank You\" Right Now | Datto",
+    "description": "The global health crisis is creating new challenges for businesses across the world.",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nThe global health cris"
+  },
+  {
+    "id": "ce8f2ced3ebf7829e5b864d6f09a24bd29c2d649",
+    "url": "https://www.datto.com/blog/why-disaster-recovery-infrastructure-resilience-in-harsh-environments-is-important/",
+    "title": "Why Resilience of the DR Infrastructure Is Important | Datto",
+    "description": "Datto SIRIS NVMe SSDs minimize risks by decreasing DR hardware failure rates caused by vibrations in",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nEven with a well-guard"
+  },
+  {
+    "id": "547c62343b8a50780c49321fef34d86fced3b905",
+    "url": "https://www.datto.com/blog/why-a-purpose-built-private-cloud-is-a-good-fit-for-data-protection/",
+    "title": "Why BCDR Tools Should Rely on a Purpose-Built, Private Cloud",
+    "description": "Data backup has evolved. See why MSPs should prioritize a BCDR solution with a purpose-built, privat",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nData protection has ev"
+  },
+  {
+    "id": "dd04c2b46b7998050831b187debf6c14cd7bd81e",
+    "url": "https://www.datto.com/blog/whats-the-difference-host-vs-guest-os/",
+    "title": "What’s The Difference: Host vs. Guest OS | Datto",
+    "description": "The host operating system is software that works with a computer’s underlying hardware, while the gu",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nThere are several popu"
+  },
+  {
+    "id": "1cb21cd0f350190356379cd5518e74bba0227785",
+    "url": "https://www.datto.com/blog/whats-the-difference-between-circuit-vs-packet-switching/",
+    "title": "Packet Switching vs Circuit Switching | Datto Networking",
+    "description": "Circuit switching and packet switching are the two main methods of expediting network connections.",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nHaving a full understa"
+  },
+  {
+    "id": "6ffb94809d5370915d860c463d7ba164768d6645",
+    "url": "https://www.datto.com/blog/world-backup-day-highlighting-the-backup-best-in-show/",
+    "title": "World Backup Day: Highlighting the Backup Best-in-Show | Datto",
+    "description": "In celebration of World Backup Day, we're highlighting the best of backup with our partners who've d",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nIn celebration of Worl"
+  },
+  {
+    "id": "dacfc3223e6063c4fde2d93ea0d5f1e6c6d07129",
+    "url": "https://www.datto.com/blog/why-msps-should-proactively-troubleshoot-backups/",
+    "title": "Why MSPs Should Proactively Troubleshoot Backups | Datto",
+    "description": "Data backup and continuity aren’t foolproof. That’s why MSPs should proactively test to ensure they’",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nData backup and contin"
+  },
+  {
+    "id": "a8813b6a1493141690b5fb8630248b9867d0b9a4",
+    "url": "https://www.datto.com/blog/why-managed-service-providers-msps-should-back-up-their-clients-pcs/",
+    "title": "Why Managed Service Providers (MSPs) Should Back Up Their Clients' PCs",
+    "description": "With the number of remote workers and cyberthreats rapidly increasing globally, endpoint backup for ",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nFor managed service pr"
+  },
+  {
+    "id": "881f17668afa6c2e16d63e72771551dae987e73b",
+    "url": "https://www.datto.com/blog/why-datto-is-for-small-msps-too/",
+    "title": "Why Datto is for Small MSPs Too | Datto",
+    "description": "Are you thinking about partnering with a business continuity and disaster recovery (BCDR) vendor but",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nAre you thinking about"
+  },
+  {
+    "id": "30cec9997ab5d27e11e924d60d7aa5bedbc6af5f",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/Abra-announces-Abra-Crypto-Card-on-the-American-Express-Network/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "f2675527def113a6306ca6d86565b9511b139592",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Amplifies-Support-of-Women-in-Music-With-2022-Billboard-Women-in-Music-Awards-Show/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "1f22c311c82c7a00d76edb00879d5cc5b63c09a4",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Banker-Recognizes-American-Express-President-Merchant-Services-U.S.-Colleen-Taylor-on-Its-2022-List-of-The-Most-Influential-Women-in-Payments/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "2b309a06b4fc5fdd7b914446ee889ca17ec58b23",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-Latest-Inclusive-Backing-Grantees-and-Launches-Next-Cycle-of-the-Program/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "1e2bdea70b1d2bb1aa49c317b7e75f5982303be1",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-Lets-Grab-a-Table---Continuing-its-Multi-Million-Dollar-Support-of-Independent-Restaurants/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "945c6b5f39ccdffece117f49f26ebb6e83eafa4d",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-New-Initiatives-to-Advance-Climate-Action-and-Support-Low-Carbon-Communities/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "f818192922e3b87eac9e67b27cd9316848790e10",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Celebrates-Its-Experiences-Programme-In-Augmented-Reality-For-Event-Loving-Millennial-Audience-/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "79002493759d33faf01169ebb45f599b701ec27f",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Celebrated-International-Womens-Day-with-The-Views-Sunny-Hostin-and-Educate-Girls-Safeena-Husain/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "9e9bc952e1ca9c53e986e559500386e5e18a5adb",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-the-Services-that-Back-Us-Grant-Program-in-Partnership-with-Main-Street-America-to-Support-U.S.-Small-Businesses-in-the-Personal-Service-Industry/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "39dbcd92ffbe7935e8969ea426f5d20442bae09d",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Debuts-First-Ever-Amex-Artist-Shop-at-Coachella-with-Limited-Edition-Billie-Eilish-and-Conan-Gray-Merchandise/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "2f7c90465b128e4ac48e85da1dc8fe618641795f",
+    "url": "https://us.norton.com/products/norton-antitrack",
+    "title": "Antitracking Software | Block Trackers | Norton AntiTrack",
+    "description": "Norton AntiTrack blocks web trackers collecting your data and browsing activity. Help protect your d",
+    "text": "Go to Account to download services\nGo to Account to download services\n$4.99/mo. first yr.\nSee subscr"
+  },
+  {
+    "id": "dd5e35c9a265cb1ef000589635a408f412d7e3ce",
+    "url": "https://us.norton.com/products/spyware-virus-removal",
+    "title": "Norton Spyware & Virus Removal service",
+    "description": "Norton is a pioneer in antivirus. With Norton™ Spyware & Virus Removal service you remove spyware an",
+    "text": "Go to Account to download services\nGo to Account to download services\nOur agents are available to he"
+  },
+  {
+    "id": "015704c0c1df1977200af4ae362c3bce96451c69",
+    "url": "https://us.norton.com/products/norton-360-for-mobile",
+    "title": "Norton 360 for Mobile | Available for Android &  iOS",
+    "description": "Norton 360 for Mobile provides a powerful protection against the ever-changing cyberthreats to your ",
+    "text": "Go to Account to download services\nGo to Account to download services\nNorton 360 for Mobile combines"
+  },
+  {
+    "id": "49cce543f7d954e1dde56c2999fe8f2a5b950c41",
+    "url": "https://us.norton.com/products/safe-search",
+    "title": "Norton Safe Search I Search engine focused on online safety",
+    "description": "Norton Safe Search - a free search engine that lets you know if a site is potentially unsafe to avoi",
+    "text": "Go to Account to download services\nGo to Account to download services\nA search engine focused on onl"
+  },
+  {
+    "id": "f12128d4fee84218b8e1089045913bad7af351ec",
+    "url": "https://us.norton.com/products/privacy-monitor-assistant",
+    "title": "Privacy Monitor Assistant: Take charge of your personal info",
+    "description": "Privacy Monitor Assistant monitors your personal data on the dark web ► Take charge of your personal",
+    "text": "Go to Account to download services\nGo to Account to download services\nScreen modified for demonstrat"
+  },
+  {
+    "id": "86ece1b2ae3239ead86a23c2a6510795ac948bc3",
+    "url": "https://us.norton.com/products/mobile-security-for-ios",
+    "title": "Norton Mobile Security for iPhone® & iPad®",
+    "description": "Can iPhones & iPads get viruses? Yes! Protect your iPhone & iPad with Norton Mobile Security, a mobi",
+    "text": "Go to Account to download services\nGo to Account to download services\nScreens are simulated and subj"
+  },
+  {
+    "id": "2389d17af100ab2879d210e9bbd3a2e2b8445098",
+    "url": "https://us.norton.com/products/norton-family",
+    "title": "Norton Family | Parental Control Software for iPhone, Android, & Windows",
+    "description": "Supervise your children’s web use, gain insights into what they search for online, see Apps download",
+    "text": "Go to Account to download services\nGo to Account to download services\nNorton Family provides parents"
+  },
+  {
+    "id": "2448ade357dab8ef7c35beb7130e9610905243ac",
+    "url": "https://us.norton.com/products/ultimate-help-desk",
+    "title": "Norton Ultimate Help Desk I On-demand IT help",
+    "description": "Norton Ultimate Help Desk offers you on-demand IT support service ► Discover the multiple plans avai",
+    "text": "Go to Account to download services\nGo to Account to download services\nGet on-demand IT help to fix t"
+  },
+  {
+    "id": "e4a8fa6b0c3937530a1a923dbe1280c5c71b774a",
+    "url": "https://us.norton.com/products/norton-360-lifelock-advantage",
+    "title": "Norton 360 with LifeLock Advantage | All-in-one protection",
+    "description": "Norton 360 with LifeLock Advantage provides advanced security for 10 Mobile or Desktop devices all t",
+    "text": "Go to Account to download services\nGo to Account to download services\nOur real-time protection again"
+  },
+  {
+    "id": "1ba99aa192916ae42a9ab7eea00490cd46867313",
+    "url": "https://us.norton.com/products/norton-360-antivirus-plus",
+    "title": "Norton AntiVirus Plus | Virus protection for your device",
+    "description": "Norton AntiVirus Plus helps defend against viruses, malware, ransomware, phishing attacks & online t",
+    "text": "Go to Account to download services\nGo to Account to download services\nOur powerful antivirus now com"
+  },
+  {
+    "id": "d7b6d75038b526afb98d48e7958a75101cb034a7",
+    "url": "https://www.fao.org/newsroom/ru",
+    "title": "Новости | Продовольственная и сельскохозяйственная организация Объединенных Наций",
+    "description": "Новости",
+    "text": "Четырехмесячная кампания по реализации чрезвычайных мер призвана остановить распространение трансгра"
+  },
+  {
+    "id": "d6758b1a8babd8cbc334d94be549f0a86ab1af20",
+    "url": "https://www.fao.org/newsroom/it",
+    "title": "Newsroom | Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura",
+    "description": "FAO Newsroom home",
+    "text": "Le nuove previsioni segnalano una crescita della produzione, dell’utilizzo, delle scorte e dello sca"
+  },
+  {
+    "id": "4bcca57bee0e86b933289e0dac06baf34c69359a",
+    "url": "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/zh",
+    "title": "农业发展促和平 | 联合国粮食及农业组织",
+    "description": "In depth story: 农业发展促和平",
+    "text": "许多人都听说过哥伦比亚卡塔赫纳，这座充满活力的城市以古老的城墙、欢乐的氛围和帕伦克人而闻名，身着五彩服饰的妇女头顶一盆新鲜水果，沿街贩卖。然而， 卡塔赫纳只是哥伦比亚玻利瓦尔省的一个缩影。\n玻利瓦尔省"
+  },
+  {
+    "id": "4fafc35472a3252f7b40dd48f0437f95e4967d82",
+    "url": "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/es",
+    "title": "El rol de la agricultura para construir paz  | FAO | Organización de las Naciones Unidas para la Ali",
+    "description": "In depth story: El rol de la agricultura para construir paz",
+    "text": "Cartagena, con su vibrante y festiva ciudad amurallada, sus atardeceres de ensueño y sus icónicas Pa"
+  },
+  {
+    "id": "10100fa733743837ea33e87a9b2e28948731474b",
+    "url": "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/ar",
+    "title": "موقع الزراعة في عملية السلام موقع الزراعة في عملية السلام  | منظمة الأغذية والزراعة للأمم المتحدة",
+    "description": "In depth story: موقع الزراعة في عملية السلام",
+    "text": "يعرف الكثير من الناس قرطاجنة في كولومبيا، المشهورة بمدينتها القديمة المسوَّرة والنابضة بالحياة، وأجو"
+  },
+  {
+    "id": "2bb7d3d8ce075707b7abea1759a6156d2a3786f9",
+    "url": "https://www.fao.org/newsroom/fr",
+    "title": "Centre d'actualités | Organisation des Nations Unies pour l'alimentation et l'agriculture",
+    "description": "Centre d'actualités de la FAO - Accueil",
+    "text": "Une intervention d’urgence de quatre mois vise à faire reculer les maladies transfrontières et zoono"
+  },
+  {
+    "id": "4d100dd93998c97f683ac71edd1217c451d1f778",
+    "url": "https://www.fao.org/newsroom/en",
+    "title": "News | FAO | Food and Agriculture Organization of the United Nations",
+    "description": "FAO Newsroom home",
+    "text": "Four-month emergency response effort aims to curb transboundary and zoonotic diseases, strengthen li"
+  },
+  {
+    "id": "730b57abb714d8b30c01abf6595841c7b032bfc6",
+    "url": "https://www.fao.org/newsroom/ar",
+    "title": "غرفة الأخبار | منظمة الأغذية والزراعة للأمم المتحدة",
+    "description": "FAO Newsroom home",
+    "text": "جهود الاستجابة الطارئة على امتداد أربعة أشهر تسعى إلى الحدّ من الأمراض العابرة للحدود والأمراض الحيو"
+  },
+  {
+    "id": "3b3ba3137abb0637a82879528e06a32bddfcaa4b",
+    "url": "https://www.fao.org/newsroom/zh",
+    "title": "新闻 | 联合国粮食及农业组织",
+    "description": "新闻",
+    "text": "为期四个月的应急响应行动旨在遏制跨境和人畜共患疫病传播，巩固生计，缓解粮食危机，重振疲软经济\n具有里程碑意义的《协定》对粮农组织文书体系构成有机补充，为促进可持续发展和打击非法、不报告和不管制捕鱼提供"
+  },
+  {
+    "id": "d0846ed04675722fed79f5e3421a73e46d40922c",
+    "url": "https://www.fao.org/newsroom/es",
+    "title": "Noticias | Organización de las Naciones Unidas para la Alimentación y la Agricultura",
+    "description": "Noticias de la FAO -  Página inicial",
+    "text": "La respuesta de emergencia, de cuatro meses de duración, pretende contener las enfermedades transfro"
+  },
+  {
+    "id": "20e94bab9c38144ca820ef4cd212bfc569cbc895",
+    "url": "https://www.ovh.com/fr/support/outils/check_whois.pl",
+    "title": "Whois : Trouvez le propriétaire d’un nom de domaine | OVHcloud France",
+    "description": "Recherchez gratuitement le titulaire d'un nom de domaine avec le Whois. Obtenez facilement les coord",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "0c1540412c60d0ba9b37f15bc32054ef442731ec",
+    "url": "https://www.ovh.com/fr/solutions/vrack/",
+    "title": "vRack : Créez un réseau privé isolé pour vos serveurs | OVHcloud",
+    "description": "Le vRack vous permet de créer des infrastructures privées complexes à l’échelle mondiale et multi-da",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "8254b19ddb886dae64707eeaaff48f7aaa968b63",
+    "url": "https://www.ovh.com/fr/cdn/infrastructure/",
+    "title": "CDN : Découvrez notre solution de réseau de diffusion de contenu | OVHcloud",
+    "description": "Améliorez la vitesse de chargement de vos sites web à l’international grâce au CDN. Attirez des visi",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "342c20d4d7f95e0a3446291677560578d8e28d3d",
+    "url": "https://www.ovh.com/fr/events/",
+    "title": "Agenda d'événements OVHcloud | OVHcloud Events",
+    "description": "Retrouvez nos événements pour décideurs, start-ups, développeurs et plus encore. Stimulez votre croi",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "98fbf0ab8be01860b7cb7479c965f26d8adaa269",
+    "url": "https://www.ovh.com/fr/ssl-gateway/",
+    "title": "SSL Gateway : HTTPS activé gratuitement | OVHcloud France",
+    "description": "Obtenez un certificat SSL sans avoir besoin de posséder un hébergement chez OVHcloud. Sécurisez votr",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "4edae860f54db5b593bb474a165578d932ff6a3a",
+    "url": "https://www.ovh.com/fr/cloud-databases/",
+    "title": "Serveur Base de Données Abordable | OVHcloud France",
+    "description": "Découvrez Web Cloud Database : illimité, infogéré et RAM garantie. Configuration simple et évolutive",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "8b89b17284f87bd4f5862cd75be950f184aa9044",
+    "url": "https://www.ovh.com/fr/cdn/",
+    "title": "CDN : Découvrez notre solution de réseau de diffusion de contenu | OVHcloud",
+    "description": "Améliorez la vitesse de chargement de vos sites web à l’international grâce au CDN. Attirez des visi",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "b7e02542f56a1f166ef43f126387838924b73fe3",
+    "url": "https://www.ovh.com/sg/solutions/load-balancer/",
+    "title": "Load Balancer: Scale your Infrastructure | OVHcloud Singapore",
+    "description": "Load Balancer distributes the load between your services in our datacentres, to handle high volumes ",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "2a3619ab57f4625d0af5304fe6de8bd194825906",
+    "url": "https://www.ovh.com/sg/solutions/vrack/",
+    "title": "vRack: Build an isolated Private Network for your Servers | OVHcloud Singapore",
+    "description": "vRack allows you to build complex private infrastructures on a global multi-datacentre scale: VLAN, ",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "35f3859de6b2ce863d7369e9586b6a9fbccb88e3",
+    "url": "https://www.ovh.com/sg/support/contracts/",
+    "title": "Contracts | OVHcloud Singapore",
+    "description": "",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "b627e887d68391d9bba9d9a7613b0651c58f9390",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152084/0/en/River-Valley-Community-Bancorp-Appoints-Robert-F-Sinclair-Director.html",
+    "title": "River Valley Community Bancorp Appoints Robert F. Sinclair,",
+    "description": "YUBA CITY, Calif., Sept.  17, 2025  (GLOBE NEWSWIRE) -- River Valley Community Bancorp (OTC markets:",
+    "text": "September 17, 2025 18:27 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "b5d94d570541871185e32eb5d317c457db07d38a",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152087/22558/en/Streamex-Corp-NASDAQ-STEX-Simplify-Asset-Management-10-billion-USD-AUM-ETF-Manager-Announces-Letter-of-Intent-Pursuing-a-Strategic-Partnership-to-Drive-ETF-Innovation-through-Integ.html",
+    "title": "Streamex Corp., NASDAQ: STEX & Simplify Asset Management",
+    "description": "Partnership with Simplify Asset Management Unlocks Significant Opportunity for Demand of Streamex’s ",
+    "text": "September 17, 2025 19:01 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "6d17e934e3096cf5c5710ff94e611057d5b44a1b",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152088/0/en/ChowChow-Cloud-Announces-Pricing-of-Initial-Public-Offering.html",
+    "title": "ChowChow Cloud Announces Pricing of Initial Public",
+    "description": "HONG KONG, Sept.  17, 2025  (GLOBE NEWSWIRE) -- ChowChow Cloud International Holdings Limited (“Chow",
+    "text": "September 17, 2025 19:14 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "591d216c3d1eaf8ee381e923330b7b23eee5d2e1",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152085/0/en/Charlie-Kirk-A-Voice-for-the-Voiceless-Leaves-Legacy-Inspiring-Global-Democracy-Says-Zahid-F-Sarder-Saddi.html",
+    "title": "Charlie Kirk, ‘A Voice for the Voiceless,’ Leaves Legacy",
+    "description": "Photo: Former Bangladesh Foreign Adviser Zahid F Sarder Saddi with Charlie Kirk at the United States",
+    "text": "September 17, 2025 18:35 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "98a3e857cce3172df7e7ce5671eb6898059d6159",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152083/0/en/ECD-Automotive-Design-Corrects-CUSIP-Number.html",
+    "title": "ECD Automotive Design Corrects CUSIP Number",
+    "description": "KISSIMMEE, Fla., Sept.  17, 2025  (GLOBE NEWSWIRE) -- ECD Automotive Design, Inc. (NASDAQ: ECDA) (“E",
+    "text": "September 17, 2025 18:15 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "0e1207357b19ba976d34c3172ceeed3096e93e5e",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152082/0/en/RCI-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-RCI-Hospitality-Holdings-Inc-on-Behalf-of-RCI-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html",
+    "title": "RCI ALERT: Bragar Eagel & Squire, P.C. is Investigating RCI",
+    "description": "RCI allegedly misled investors; Reuters reported execs indicted in 13-year bribery scheme. Shares fe",
+    "text": "September 17, 2025 18:15 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "a4b82039133f9a200bba94281c87d94fb77c3b41",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152080/0/en/REPLIMUNE-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-that-a-Class-Action-Lawsuit-Has-Been-Filed-Against-Replimune-Group-Inc-and-Encourages-Investors-to-Contact-the-Firm-Before.html",
+    "title": "REPLIMUNE ALERT: Bragar Eagel & Squire, P.C. Reminds",
+    "description": "Replimune allegedly overstated IGNYTE trial prospects; FDA deemed it inadequate, and investors suffe",
+    "text": "September 17, 2025 18:00 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "5d78e1fb63cbf7381f94b63b78701795caa0ac64",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152081/0/en/GoldHaven-Arranges-Non-Brokered-Private-Placement.html",
+    "title": "GoldHaven Arranges Non-Brokered Private Placement",
+    "description": "NOT FOR DISTRIBUTION TO THE U.S. NEWSWIRE OR FOR DISSEMINATION IN THE UNITED STATES  VANCOUVER, Brit",
+    "text": "September 17, 2025 18:03 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "8b559adb944efb501df7dbf4aefeda9e58f2ebd3",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152079/673/en/SLP-Investor-News-If-You-Have-Suffered-Losses-in-Simulations-Plus-Inc-NASDAQ-SLP-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+    "title": "SLP Investor News: If You Have Suffered Losses in",
+    "description": "NEW YORK, Sept.  17, 2025  (GLOBE NEWSWIRE) --   WHY: Rosen Law Firm, a global investor rights law f",
+    "text": "September 17, 2025 18:00 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "be4a9ecad9a645dccbb4f3d13b954523ea939c42",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3152078/0/en/Beneficial-Acquisition-by-Frederic-Leigh-of-Future-Mineral-Resources-Inc-Common-Shares.html",
+    "title": "Beneficial Acquisition by Frederic Leigh of Future Mineral",
+    "description": "TORONTO, Sept.  17, 2025  (GLOBE NEWSWIRE) -- Pursuant to a shares for debt transaction that closed ",
+    "text": "September 17, 2025 18:00 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "aeda20920f7e8b759f6171eeaf2c241b52db4bf3",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/david-patterson",
+    "title": "David Patterson, ACM President 2004 - 06",
+    "description": "A brief Q&A with David Patterson about his term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "6fd5699182271d0bfa68a738aa695f89800d677a",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/past-presidents-qa",
+    "title": "Past ACM Presidents Reflect on Their Service to ACM",
+    "description": "A landing page featuring brief Q&As with ACM’s living former presidents to celebrate ACM's 75th anni",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "550c989b4188e3dc557a273ee6188e28886615e6",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/john-white",
+    "title": "John R. White, ACM President 1990 - 92",
+    "description": "A brief Q&A with John White about his term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "c806e0afcaa7e9bad9f4fcef15713a202e90dfc3",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/maria-klawe",
+    "title": "Maria M. Klawe, ACM President 2002 - 04",
+    "description": "A brief Q&A with Maria Klawe about her term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "e92c226918d25441796997e7054f91e4335b21ff",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/peter-denning",
+    "title": "Peter J. Denning, ACM President 1980 - 82",
+    "description": "A brief Q&A with Peter Denning about his term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "bcedfa5e546441322cacb8e6e156cbec47de810e",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/adele-goldberg",
+    "title": "Adele Goldberg, ACM President 1984 - 86",
+    "description": "A brief Q&A with Adele Goldberg about her term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "66c4d66e0c4ceee698ddc1f4afc2fcf97e029284",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/cherri-pancake",
+    "title": "Cherri M. Pancake, ACM President 2018 - 20",
+    "description": "A brief Q&A with Cherri Pancake about her term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "133028deadba5234546e10a0b89b165f794bbc78",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/chuck-house",
+    "title": "Charles House, ACM President 1996 - 98",
+    "description": "A brief Q&A with Chuck House about his term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "e9c8a33852dd3c192a5ea51336e9996aaedd18b2",
+    "url": "https://www.acm.org/75th-anniversary/past-presidents/vicki-hanson",
+    "title": "Vicki L. Hanson, ACM President 2016 - 18",
+    "description": "A brief Q&A with Vicki Hanson about her term as president of ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "16fda65f5f406fa3cc471abb7166b00891d9b094",
+    "url": "https://matterport.com/fr/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Ventes : +33 1 85 65 09 33\nSimplify maintenance and inspections to avoid bothering guests and improv"
+  },
+  {
+    "id": "b26c649d73103cf7bf85d4acef152e26b6bde10b",
+    "url": "https://matterport.com/de/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Vertrieb: +49 6956 608908\nSimplify maintenance and inspections to avoid bothering guests and improve"
+  },
+  {
+    "id": "b8a96c8da5bd27e5a21e9db5efbc581d6e7f16af",
+    "url": "https://matterport.com/en-gb/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Sales: +44(0)2038 747580\nSimplify maintenance and inspections to avoid bothering guests and improve "
+  },
+  {
+    "id": "a835e42ce193d169cc223c18924c061ccc2e12c2",
+    "url": "https://matterport.com/es/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Ventas: +34 910 482 834\nSimplify maintenance and inspections to avoid bothering guests and improve t"
+  },
+  {
+    "id": "4a947b04513a3f252500bf3a454c6f7a9d3ca20e",
+    "url": "https://matterport.com/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Sales: +1(888) 993-8990\nSimplify maintenance and inspections to avoid bothering guests and improve t"
+  },
+  {
+    "id": "388341a4621a5e9af7e1470320f98b624f44d8a8",
+    "url": "https://matterport.com/it/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "Vendite: +39 02 87045024\nSimplify maintenance and inspections to avoid bothering guests and improve "
+  },
+  {
+    "id": "6aa01b19abf9ec541d02e4591c97ffa5a6ac6237",
+    "url": "https://matterport.com/ja/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "営業担当 : 03-6897-2960\nSimplify maintenance and inspections to avoid bothering guests and improve their"
+  },
+  {
+    "id": "888f5dd51b862a706a10df7848824cc6aa07eb52",
+    "url": "https://matterport.com/fr/axis",
+    "title": "Matterport Axis | Matterport",
+    "description": "Grâce à notre support motorisé révolutionnaire pour smartphone, vous pouvez désormais capturer plus ",
+    "text": "Ventes : +33 1 85 65 09 33\nLe support Axis facilite la création de superbes jumeaux numériques en au"
+  },
+  {
+    "id": "8d99aeb7625de2322048e4814175d3430aa5afaf",
+    "url": "https://matterport.com/de/axis",
+    "title": "MATTERPORT AXIS | Matterport",
+    "description": "Unsere revolutionäre motorisierte Halterung für Smartphones macht es einfacher als je zuvor, mit zus",
+    "text": "Vertrieb: +49 6956 608908\nAxis macht es Ihnen leicht, beeindruckende digitale Zwillinge zu erstellen"
+  },
+  {
+    "id": "6a95c1aec4b97e8a22c9df0b0d7e2c0b2079f75d",
+    "url": "https://matterport.com/ko/test-page",
+    "title": "Test Page | Matterport",
+    "description": "Matterport",
+    "text": "영업: +65 6797 8416\nSimplify maintenance and inspections to avoid bothering guests and improve their e"
   }
 ]

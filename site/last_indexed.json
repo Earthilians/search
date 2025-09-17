@@ -22098,7 +22098,7 @@
     "urls": []
   },
   "getbootstrap.com": {
-    "lastAt": 1757798253424,
+    "lastAt": 1758151156791,
     "urls": [
       "https://getbootstrap.com/",
       "https://getbootstrap.com/components/",
@@ -22109,23 +22109,33 @@
       "https://getbootstrap.com/docs/5.3/about/translations/",
       "https://getbootstrap.com/docs/5.3/about/team/",
       "https://getbootstrap.com/docs/5.3/about/overview/",
-      "https://getbootstrap.com/docs/5.3/components/"
+      "https://getbootstrap.com/docs/5.3/components/",
+      "https://getbootstrap.com/docs/5.3/components/accordion/",
+      "https://getbootstrap.com/docs/5.3/components/badge/",
+      "https://getbootstrap.com/docs/5.3/components/breadcrumb/",
+      "https://getbootstrap.com/docs/5.3/components/button-group/",
+      "https://getbootstrap.com/docs/5.3/components/alerts/",
+      "https://getbootstrap.com/docs/5.3/components/buttons/",
+      "https://getbootstrap.com/docs/5.3/components/carousel/",
+      "https://getbootstrap.com/docs/5.3/components/close-button/",
+      "https://getbootstrap.com/docs/5.3/components/card/",
+      "https://getbootstrap.com/docs/5.3/components/collapse/"
     ]
   },
   "site.com": {
-    "lastAt": 1757798255027,
+    "lastAt": 1758151158345,
     "urls": [
       "https://site.com/"
     ]
   },
   "ultradns.com": {
-    "lastAt": 1757798256041,
+    "lastAt": 1758151158942,
     "urls": [
       "https://ultradns.com/"
     ]
   },
   "drweb.com": {
-    "lastAt": 1757798263865,
+    "lastAt": 1758151171871,
     "urls": [
       "https://www.drweb.com/",
       "https://drweb.com/",
@@ -22136,25 +22146,35 @@
       "https://www.drweb.com/pravda/issue/?number=194&lng=en",
       "https://www.drweb.com/pravda/issue/?number=190&lng=en",
       "https://www.drweb.com/pravda/issue/?number=192&lng=en",
-      "https://www.drweb.com/pravda/issue/?number=191&lng=en"
+      "https://www.drweb.com/pravda/issue/?number=191&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=189&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=184&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=183&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=187&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=182&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=186&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=181&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=180&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=185&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=188&lng=en"
     ]
   },
   "lfstrm.tv": {
-    "lastAt": 1757798268560,
+    "lastAt": 1758151178230,
     "urls": []
   },
   "parklogic.com": {
-    "lastAt": 1757798269916,
+    "lastAt": 1758151179843,
     "urls": [
       "https://parklogic.com/"
     ]
   },
   "brusnika.tech": {
-    "lastAt": 1757798274862,
+    "lastAt": 1758151186993,
     "urls": []
   },
   "datto.com": {
-    "lastAt": 1757798281287,
+    "lastAt": 1758151193320,
     "urls": [
       "https://www.datto.com/blog/",
       "https://www.datto.com/blog/podcast-recap-how-to-simplify-cybersecurity-for-your-c-suite/",
@@ -22165,11 +22185,21 @@
       "https://www.datto.com/blog/10-considerations-before-buying-an-endpoint-detection-and-response-edr-security-solution-part-2/",
       "https://www.datto.com/blog/datto-networking-no-haggle-no-hassle-pricing/",
       "https://www.datto.com/blog/what-is-advanced-endpoint-protection-aep/",
-      "https://www.datto.com/blog/why-taking-a-next-generation-approach-to-av-is-essential/"
+      "https://www.datto.com/blog/why-taking-a-next-generation-approach-to-av-is-essential/",
+      "https://www.datto.com/blog/wifi-6-what-it-means-for-msps/",
+      "https://www.datto.com/blog/why-msps-deserve-a-huge-thank-you-right-now/",
+      "https://www.datto.com/blog/why-disaster-recovery-infrastructure-resilience-in-harsh-environments-is-important/",
+      "https://www.datto.com/blog/why-a-purpose-built-private-cloud-is-a-good-fit-for-data-protection/",
+      "https://www.datto.com/blog/whats-the-difference-host-vs-guest-os/",
+      "https://www.datto.com/blog/whats-the-difference-between-circuit-vs-packet-switching/",
+      "https://www.datto.com/blog/world-backup-day-highlighting-the-backup-best-in-show/",
+      "https://www.datto.com/blog/why-msps-should-proactively-troubleshoot-backups/",
+      "https://www.datto.com/blog/why-managed-service-providers-msps-should-back-up-their-clients-pcs/",
+      "https://www.datto.com/blog/why-datto-is-for-small-msps-too/"
     ]
   },
   "americanexpress.com": {
-    "lastAt": 1757798285846,
+    "lastAt": 1758151198542,
     "urls": [
       "https://about.americanexpress.com/corporate-sustainability/community-giving/backing-low-carbon-communities/default.aspx",
       "https://about.americanexpress.com/corporate-sustainability/esg/esg-reporting-and-resources/default.aspx",
@@ -22180,11 +22210,21 @@
       "https://about.americanexpress.com/corporate-sustainability/how-to-apply-for-a-grant/default.aspx",
       "https://about.americanexpress.com/corporate-sustainability/overview/default.aspx",
       "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/A-sustainable-lifestyle-is-the-new-normal-for-environmentally-conscious-Indians/default.aspx",
-      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/-Fact-finding-survey-on-annual-tax-returns/default.aspx"
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/-Fact-finding-survey-on-annual-tax-returns/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/Abra-announces-Abra-Crypto-Card-on-the-American-Express-Network/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Amplifies-Support-of-Women-in-Music-With-2022-Billboard-Women-in-Music-Awards-Show/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Banker-Recognizes-American-Express-President-Merchant-Services-U.S.-Colleen-Taylor-on-Its-2022-List-of-The-Most-Influential-Women-in-Payments/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-Latest-Inclusive-Backing-Grantees-and-Launches-Next-Cycle-of-the-Program/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-Lets-Grab-a-Table---Continuing-its-Multi-Million-Dollar-Support-of-Independent-Restaurants/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-New-Initiatives-to-Advance-Climate-Action-and-Support-Low-Carbon-Communities/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Celebrates-Its-Experiences-Programme-In-Augmented-Reality-For-Event-Loving-Millennial-Audience-/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Celebrated-International-Womens-Day-with-The-Views-Sunny-Hostin-and-Educate-Girls-Safeena-Husain/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Announces-the-Services-that-Back-Us-Grant-Program-in-Partnership-with-Main-Street-America-to-Support-U.S.-Small-Businesses-in-the-Personal-Service-Industry/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Debuts-First-Ever-Amex-Artist-Shop-at-Coachella-with-Limited-Edition-Billie-Eilish-and-Conan-Gray-Merchandise/default.aspx"
     ]
   },
   "norton.com": {
-    "lastAt": 1757798289055,
+    "lastAt": 1758151201765,
     "urls": [
       "https://us.norton.com/products/norton-driver-updater",
       "https://us.norton.com/products/genie-scam-detector",
@@ -22195,11 +22235,21 @@
       "https://us.norton.com/products/norton-computer-tune-up",
       "https://us.norton.com/products/small-business",
       "https://us.norton.com/products/norton-utilities-ultimate",
-      "https://us.norton.com/products/mobile-security-for-android"
+      "https://us.norton.com/products/mobile-security-for-android",
+      "https://us.norton.com/products/norton-antitrack",
+      "https://us.norton.com/products/spyware-virus-removal",
+      "https://us.norton.com/products/norton-360-for-mobile",
+      "https://us.norton.com/products/safe-search",
+      "https://us.norton.com/products/privacy-monitor-assistant",
+      "https://us.norton.com/products/mobile-security-for-ios",
+      "https://us.norton.com/products/norton-family",
+      "https://us.norton.com/products/ultimate-help-desk",
+      "https://us.norton.com/products/norton-360-lifelock-advantage",
+      "https://us.norton.com/products/norton-360-antivirus-plus"
     ]
   },
   "fao.org": {
-    "lastAt": 1757798298107,
+    "lastAt": 1758151207453,
     "urls": [
       "https://www.fao.org/newsroom/story/more-fruit-for-the-labour/en",
       "https://fao.org/",
@@ -22210,11 +22260,21 @@
       "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/en",
       "https://www.fao.org/newsroom/story/more-fruit-for-the-labour/es",
       "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/ru",
-      "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/fr"
+      "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/fr",
+      "https://www.fao.org/newsroom/ru",
+      "https://www.fao.org/newsroom/it",
+      "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/zh",
+      "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/es",
+      "https://www.fao.org/newsroom/story/the-place-of-agriculture-in-peace/ar",
+      "https://www.fao.org/newsroom/fr",
+      "https://www.fao.org/newsroom/en",
+      "https://www.fao.org/newsroom/ar",
+      "https://www.fao.org/newsroom/zh",
+      "https://www.fao.org/newsroom/es"
     ]
   },
   "ovh.com": {
-    "lastAt": 1757798349564,
+    "lastAt": 1758151264575,
     "urls": [
       "https://www.ovh.com/fr/protection-donnees-personnelles/exercer-vos-droits",
       "https://www.ovh.com/fr/deals/",
@@ -22225,23 +22285,33 @@
       "https://www.ovh.com/fr/black-friday/",
       "https://www.ovh.com/fr/support/procedures/",
       "https://www.ovh.com/fr/support/contrats/",
-      "https://www.ovh.com/fr/events/el1700-send-sms-pro"
+      "https://www.ovh.com/fr/events/el1700-send-sms-pro",
+      "https://www.ovh.com/fr/support/outils/check_whois.pl",
+      "https://www.ovh.com/fr/solutions/vrack/",
+      "https://www.ovh.com/fr/cdn/infrastructure/",
+      "https://www.ovh.com/fr/events/",
+      "https://www.ovh.com/fr/ssl-gateway/",
+      "https://www.ovh.com/fr/cloud-databases/",
+      "https://www.ovh.com/fr/cdn/",
+      "https://www.ovh.com/sg/solutions/load-balancer/",
+      "https://www.ovh.com/sg/solutions/vrack/",
+      "https://www.ovh.com/sg/support/contracts/"
     ]
   },
   "getpocket.com": {
-    "lastAt": 1757798351081,
+    "lastAt": 1758151266069,
     "urls": [
       "https://getpocket.com/"
     ]
   },
   "kernel.org": {
-    "lastAt": 1757798352554,
+    "lastAt": 1758151267265,
     "urls": [
       "https://kernel.org/"
     ]
   },
   "google.com.au": {
-    "lastAt": 1757798354656,
+    "lastAt": 1758151268530,
     "urls": [
       "https://www.google.com/intl/ta/gmail/about/",
       "https://www.google.com/intl/te_in/gmail/about/",
@@ -22256,7 +22326,7 @@
     ]
   },
   "globenewswire.com": {
-    "lastAt": 1757798356283,
+    "lastAt": 1758151270355,
     "urls": [
       "https://globenewswire.com/",
       "https://www.globenewswire.com/news-release/2025/09/13/3149514/673/en/SLNO-Investor-News-If-You-Have-Suffered-Losses-in-Soleno-Therapeutics-Inc-NASDAQ-SLNO-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
@@ -22267,56 +22337,66 @@
       "https://www.globenewswire.com/news-release/2025/09/13/3149509/0/en/XRP-and-Dogecoin-Observers-Note-MAGACOIN-FINANCE-Announces-Presale-Expansion-Amid-Growing-Interest.html",
       "https://www.globenewswire.com/news-release/2025/09/13/3149511/673/en/ROSEN-A-LEADING-LAW-FIRM-Encourage-Dow-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-DOW.html",
       "https://www.globenewswire.com/news-release/2025/09/13/3149507/0/en/DOW-Investor-Alert-Kessler-Topaz-Meltzer-Check-LLP-Urges-DOW-Investors-with-Losses-to-Contact-the-Firm.html",
-      "https://www.globenewswire.com/news-release/2025/09/13/3149510/673/en/ROSEN-LEADING-TRIAL-ATTORNEYS-Encourages-CTO-Realty-Growth-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CTO-CTO-PA.html"
+      "https://www.globenewswire.com/news-release/2025/09/13/3149510/673/en/ROSEN-LEADING-TRIAL-ATTORNEYS-Encourages-CTO-Realty-Growth-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CTO-CTO-PA.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152084/0/en/River-Valley-Community-Bancorp-Appoints-Robert-F-Sinclair-Director.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152087/22558/en/Streamex-Corp-NASDAQ-STEX-Simplify-Asset-Management-10-billion-USD-AUM-ETF-Manager-Announces-Letter-of-Intent-Pursuing-a-Strategic-Partnership-to-Drive-ETF-Innovation-through-Integ.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152088/0/en/ChowChow-Cloud-Announces-Pricing-of-Initial-Public-Offering.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152085/0/en/Charlie-Kirk-A-Voice-for-the-Voiceless-Leaves-Legacy-Inspiring-Global-Democracy-Says-Zahid-F-Sarder-Saddi.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152083/0/en/ECD-Automotive-Design-Corrects-CUSIP-Number.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152082/0/en/RCI-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-RCI-Hospitality-Holdings-Inc-on-Behalf-of-RCI-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152080/0/en/REPLIMUNE-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-that-a-Class-Action-Lawsuit-Has-Been-Filed-Against-Replimune-Group-Inc-and-Encourages-Investors-to-Contact-the-Firm-Before.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152081/0/en/GoldHaven-Arranges-Non-Brokered-Private-Placement.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152079/673/en/SLP-Investor-News-If-You-Have-Suffered-Losses-in-Simulations-Plus-Inc-NASDAQ-SLP-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+      "https://www.globenewswire.com/news-release/2025/09/17/3152078/0/en/Beneficial-Acquisition-by-Frederic-Leigh-of-Future-Mineral-Resources-Inc-Common-Shares.html"
     ]
   },
   "zenlogic.net": {
-    "lastAt": 1757798361313,
+    "lastAt": 1758151274914,
     "urls": []
   },
   "secureserver.net": {
-    "lastAt": 1757798365016,
+    "lastAt": 1758151278285,
     "urls": []
   },
   "amd.com": {
-    "lastAt": 1757798433825,
+    "lastAt": 1758151347095,
     "urls": []
   },
   "restream-media.net": {
-    "lastAt": 1757798438063,
+    "lastAt": 1758151351083,
     "urls": []
   },
   "zpath.net": {
-    "lastAt": 1757798440947,
+    "lastAt": 1758151353957,
     "urls": []
   },
   "aws-prd.net": {
-    "lastAt": 1757798444555,
+    "lastAt": 1758151356871,
     "urls": []
   },
   "strava.com": {
-    "lastAt": 1757798455794,
+    "lastAt": 1758151368712,
     "urls": [
       "https://www.strava.com/",
       "https://strava.com/"
     ]
   },
   "politico.com": {
-    "lastAt": 1757798458818,
+    "lastAt": 1758151373174,
     "urls": []
   },
   "alp.ru": {
-    "lastAt": 1757798461289,
+    "lastAt": 1758151375767,
     "urls": [
       "https://alp.ru/"
     ]
   },
   "translate.goog": {
-    "lastAt": 1757798464752,
+    "lastAt": 1758151379229,
     "urls": []
   },
   "acm.org": {
-    "lastAt": 1757798468052,
+    "lastAt": 1758151391979,
     "urls": [
       "https://www.acm.org/acm-focus",
       "https://www.acm.org/acm-history",
@@ -22326,15 +22406,24 @@
       "https://www.acm.org/privacy-policy",
       "https://www.acm.org/75th-anniversary",
       "https://www.acm.org/75th-anniversary/past-presidents/vint-cerf",
-      "https://www.acm.org/75th-anniversary/past-presidents"
+      "https://www.acm.org/75th-anniversary/past-presidents",
+      "https://www.acm.org/75th-anniversary/past-presidents/david-patterson",
+      "https://www.acm.org/75th-anniversary/past-presidents/past-presidents-qa",
+      "https://www.acm.org/75th-anniversary/past-presidents/john-white",
+      "https://www.acm.org/75th-anniversary/past-presidents/maria-klawe",
+      "https://www.acm.org/75th-anniversary/past-presidents/peter-denning",
+      "https://www.acm.org/75th-anniversary/past-presidents/adele-goldberg",
+      "https://www.acm.org/75th-anniversary/past-presidents/cherri-pancake",
+      "https://www.acm.org/75th-anniversary/past-presidents/chuck-house",
+      "https://www.acm.org/75th-anniversary/past-presidents/vicki-hanson"
     ]
   },
   "hh.ru": {
-    "lastAt": 1757798472181,
+    "lastAt": 1758151397090,
     "urls": []
   },
   "matterport.com": {
-    "lastAt": 1757798475485,
+    "lastAt": 1758151401389,
     "urls": [
       "https://matterport.com/matterport-top-deals",
       "https://matterport.com/en-gb/matterport-top-deals",
@@ -22345,11 +22434,21 @@
       "https://matterport.com/it/matterport-top-deals",
       "https://matterport.com/ja/matterport-top-deals",
       "https://matterport.com/ko/matterport-top-deals",
-      "https://matterport.com/en-gb/axis"
+      "https://matterport.com/en-gb/axis",
+      "https://matterport.com/fr/test-page",
+      "https://matterport.com/de/test-page",
+      "https://matterport.com/en-gb/test-page",
+      "https://matterport.com/es/test-page",
+      "https://matterport.com/test-page",
+      "https://matterport.com/it/test-page",
+      "https://matterport.com/ja/test-page",
+      "https://matterport.com/fr/axis",
+      "https://matterport.com/de/axis",
+      "https://matterport.com/ko/test-page"
     ]
   },
   "adaether.com": {
-    "lastAt": 1757798479391,
+    "lastAt": 1758151404895,
     "urls": []
   },
   "mwbsys.com": {
