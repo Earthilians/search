@@ -27199,35 +27199,35 @@
     "urls": []
   },
   "senate.gov": {
-    "lastAt": 1757859468044,
+    "lastAt": 1758209029422,
     "urls": [
       "https://senate.gov/"
     ]
   },
   "mwscdn.ru": {
-    "lastAt": 1757859473213,
+    "lastAt": 1758209033964,
     "urls": []
   },
   "mts-ws.net": {
-    "lastAt": 1757859478990,
+    "lastAt": 1758209038156,
     "urls": []
   },
   "akstat.io": {
-    "lastAt": 1757859482639,
+    "lastAt": 1758209041488,
     "urls": []
   },
   "tdnsv5.com": {
-    "lastAt": 1757859486002,
+    "lastAt": 1758209044810,
     "urls": []
   },
   "justice.gov": {
-    "lastAt": 1757859491564,
+    "lastAt": 1758209050174,
     "urls": [
       "https://justice.gov/"
     ]
   },
   "dictionary.com": {
-    "lastAt": 1757859496634,
+    "lastAt": 1758209054156,
     "urls": [
       "https://www.dictionary.com/e/dear-dad/",
       "https://www.dictionary.com/e/what-are-tongue-twisters/",
@@ -27238,25 +27238,35 @@
       "https://www.dictionary.com/e/trending-words-smugness-inexorably-anemic/",
       "https://www.dictionary.com/e/could-care-less/",
       "https://www.dictionary.com/e/anarchy/",
-      "https://www.dictionary.com/e/handwriting/"
+      "https://www.dictionary.com/e/handwriting/",
+      "https://www.dictionary.com/e/happiness/",
+      "https://www.dictionary.com/e/flair/",
+      "https://www.dictionary.com/e/google/",
+      "https://www.dictionary.com/e/frugal/",
+      "https://www.dictionary.com/e/motley/",
+      "https://www.dictionary.com/e/sustainability/",
+      "https://www.dictionary.com/e/outlier/",
+      "https://www.dictionary.com/e/stuff/",
+      "https://www.dictionary.com/e/paragon/",
+      "https://www.dictionary.com/e/fiat/"
     ]
   },
   "socdm.com": {
-    "lastAt": 1757859503791,
+    "lastAt": 1758209060736,
     "urls": []
   },
   "weather.gov": {
-    "lastAt": 1757859505664,
+    "lastAt": 1758209062119,
     "urls": [
       "https://weather.gov/"
     ]
   },
   "ssa.gov": {
-    "lastAt": 1757859508959,
+    "lastAt": 1758209065201,
     "urls": []
   },
   "midea.com": {
-    "lastAt": 1757859515758,
+    "lastAt": 1758209076715,
     "urls": [
       "https://www.midea.com/us",
       "https://midea.com/",
@@ -27267,15 +27277,25 @@
       "https://www.midea.com/us/support/faq/laundry/washers/front-load-washers",
       "https://www.midea.com/us/support",
       "https://www.midea.com/us/support/faq/laundry/washers/top-load-washers",
-      "https://www.midea.com/us/support/faq/dishwashers"
+      "https://www.midea.com/us/support/faq/dishwashers",
+      "https://www.midea.com/us/support/faq/refrigerators/all-freezers",
+      "https://www.midea.com/us/support/faq/dishwashers/built-in-dishwashers",
+      "https://www.midea.com/us/support/faq/refrigerators",
+      "https://www.midea.com/us/support/faq/dishwashers/built-in-dishwashers/mdt24h3ast-45dba-built-in-dishwasher",
+      "https://www.midea.com/us/support/faq/refrigerators/all-refrigerators",
+      "https://www.midea.com/us/support/faq/air-conditioners/all-window-air-conditioners",
+      "https://www.midea.com/us/support/faq/air-conditioners",
+      "https://www.midea.com/us/support/faq/air-conditioners/midea-u-window-air-conditioner",
+      "https://www.midea.com/us/support/faq/air-conditioners/all-portable-air-conditioners",
+      "https://www.midea.com/us/support/faq/air-conditioners/all-dehumidifiers"
     ]
   },
   "ecdnx.com": {
-    "lastAt": 1757859519324,
+    "lastAt": 1758209080717,
     "urls": []
   },
   "useinsider.com": {
-    "lastAt": 1757859527889,
+    "lastAt": 1758209085399,
     "urls": [
       "https://useinsider.com/top-insights-from-rise-monster-the-biggest-tech-event-in-asia/",
       "https://useinsider.com/converting-marketers-ebook/",
@@ -27286,11 +27306,21 @@
       "https://useinsider.com/24-hours-of-shopping-madness/",
       "https://useinsider.com/holiday-season-highlights-retail/",
       "https://useinsider.com/valentines-day-personalization-strategies/",
-      "https://useinsider.com/holiday-season-playbook-for-marketers/"
+      "https://useinsider.com/holiday-season-playbook-for-marketers/",
+      "https://useinsider.com/playbook-6-buoc-xay-dung-d2c-m2c-nho-cdxp-jack-nguyen-insider/",
+      "https://useinsider.com/5-chien-thuat-sang-to-giup-toi-uu-hoa-quan-ly-chien-dich-da-kenh/",
+      "https://useinsider.com/the-next-level-of-digital-banking-finance-tuong-lai-cua-nganh-dich-vu-tai-chinh-ngan-hang/",
+      "https://useinsider.com/gen-z-marketing-guide-to-maximizing-your-revenue/",
+      "https://useinsider.com/recap-insider-webinar-14-next-level-of-digital-banking-finance/",
+      "https://useinsider.com/slam-dunk-sports-marketing/",
+      "https://useinsider.com/empower-your-shopify-website-experience-with-the-insider-plugin/",
+      "https://useinsider.com/predictive-ad-audiences-in-use/",
+      "https://useinsider.com/increase-mobile-app-engagement/",
+      "https://useinsider.com/website-personalization-tools/"
     ]
   },
   "lazada.sg": {
-    "lastAt": 1757859561505,
+    "lastAt": 1758209090385,
     "urls": [
       "https://www.lazada.sg/products/magnolia-wafer-ice-cream-sandwich-raspberry-ripple-durian-yam-chocolate-blueberry-ripple-i2470744437.html",
       "https://www.lazada.sg/products/orico-2535-hard-disk-external-case-6tb-hdd-enclosure-5gbps-usb-30-to-sata-hdd-docking-station-hdd-case-box-support-uasp6218us36228us3y20-ssd-i2470972462.html",
@@ -27303,11 +27333,11 @@
     ]
   },
   "mi-img.com": {
-    "lastAt": 1757859564915,
+    "lastAt": 1758209093793,
     "urls": []
   },
   "wikia.com": {
-    "lastAt": 1757859578379,
+    "lastAt": 1758209105394,
     "urls": [
       "https://community.fandom.com/wiki/What_Fandom_is_not",
       "https://wikia.com/",
@@ -27317,15 +27347,24 @@
       "https://community.fandom.com/wiki/Community_Contest_Rules",
       "https://community.fandom.com/wiki/Community_Central",
       "https://community.fandom.com/wiki/Customization_policy",
-      "https://community.fandom.com/wiki/Copyright"
+      "https://community.fandom.com/wiki/Copyright",
+      "https://community.fandom.com/wiki/What_is_a_wiki",
+      "https://community.fandom.com/wiki/Video_Survey_2012_Results",
+      "https://community.fandom.com/wiki/Wikia_Community_Podcast",
+      "https://community.fandom.com/wiki/Fandom_Community_Guidelines",
+      "https://community.fandom.com/wiki/DMCA_takedown_notice",
+      "https://community.fandom.com/wiki/WAM_Hall_of_Fame",
+      "https://community.fandom.com/wiki/Apps_Technical_Updates",
+      "https://community.fandom.com/wiki/Discussions_Moderation_Requests",
+      "https://community.fandom.com/wiki/2016_Tournament_of_Giving"
     ]
   },
   "adhigh.net": {
-    "lastAt": 1757859615091,
+    "lastAt": 1758209116879,
     "urls": []
   },
   "callrail.com": {
-    "lastAt": 1757859617122,
+    "lastAt": 1758209118317,
     "urls": [
       "https://www.callrail.com/",
       "https://www.callrail.com/about/careers",
@@ -27336,19 +27375,29 @@
       "https://www.callrail.com/agreement",
       "https://www.callrail.com/faq",
       "https://www.callrail.com/pricing",
-      "https://www.callrail.com/learn"
+      "https://www.callrail.com/learn",
+      "https://www.callrail.com/search",
+      "https://www.callrail.com/pricing/united-kingdom",
+      "https://www.callrail.com/pricing/australia",
+      "https://www.callrail.com/signup",
+      "https://www.callrail.com/request-a-demo",
+      "https://www.callrail.com/voice-assist",
+      "https://www.callrail.com/y/ad-leaks",
+      "https://www.callrail.com/cr/inbound-2025-trial",
+      "https://www.callrail.com/lp/voice-assist-roi",
+      "https://www.callrail.com/y/outdoor-living"
     ]
   },
   "afilias-nst.org": {
-    "lastAt": 1757859621532,
+    "lastAt": 1758209122573,
     "urls": []
   },
   "trueconf.net": {
-    "lastAt": 1757859626672,
+    "lastAt": 1758209127500,
     "urls": []
   },
   "usc.edu": {
-    "lastAt": 1757859633678,
+    "lastAt": 1758209135082,
     "urls": [
       "https://usc.edu/",
       "https://usc.edu/student-muralists-spruce-up-peace-garden-near-university-park-campus/",
@@ -27359,21 +27408,31 @@
       "https://usc.edu/a-beautiful-day-in-the-neighborhood-joint-educational-project-celebrates-50-years-of-service-to-the-community/",
       "https://usc.edu/machine-learning-nature-benefits-how-ai-helps-2-usc-environmental-scientists-unlock-the-natural-worlds-mysteries/",
       "https://usc.edu/usc-community-fund-distributes-critical-resources-to-neighbors-in-need/",
-      "https://usc.edu/price-students-help-nonprofit-dedicated-to-helping-low-income-youth-go-to-college/"
+      "https://usc.edu/price-students-help-nonprofit-dedicated-to-helping-low-income-youth-go-to-college/",
+      "https://usc.edu/usc-student-turns-knitting-hobby-into-nonprofit-that-crafts-caps-for-premature-babies/",
+      "https://usc.edu/ai-to-fight-wildfires/",
+      "https://usc.edu/student-startup-remedy-addresses-healthcare-for-unhoused/",
+      "https://usc.edu/skateboard-diplomacy/",
+      "https://usc.edu/bringing-literary-freedom-to-those-behind-bars-the-usc-pep-readers-circle/",
+      "https://usc.edu/a-winning-partnership-helps-make-los-angeles-homes-safer/",
+      "https://usc.edu/president-folt-touts-uscs-role-in-a-more-sustainable-and-equitable-l-a-at-annual-business-council-summit/",
+      "https://usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/",
+      "https://usc.edu/when-covid-19-vaccinations-began-the-usc-community-sprang-into-action/",
+      "https://usc.edu/usc-steps-up-to-help-lausd-students-by-providing-teacher-scholarships/"
     ]
   },
   "bybit.com": {
-    "lastAt": 1757859702487,
+    "lastAt": 1758209203890,
     "urls": []
   },
   "weibo.cn": {
-    "lastAt": 1757859706924,
+    "lastAt": 1758209209188,
     "urls": [
       "https://weibo.cn/"
     ]
   },
   "sportradar.com": {
-    "lastAt": 1757859724700,
+    "lastAt": 1758209221088,
     "urls": [
       "https://sportradar.com/content-hub/media/product-brochure-betting-entertainment/?lang=en-us",
       "https://sportradar.com/content-hub/media/video-sportradar-ott-the-next-level-of-data-and-video/",
@@ -27383,35 +27442,44 @@
       "https://sportradar.com/content-hub/media/sportradar-connect-cricket-edition/",
       "https://sportradar.com/content-hub/news/sportradar-awarded-sports-betting-provider-licenses-in-connecticut-and-west-virginia/",
       "https://sportradar.com/content-hub/blog/how-insights-will-turn-fans-engagement-into-action-this-football-season/",
-      "https://sportradar.com/content-hub/whitepaper/learn-how-live-streaming-can-super-charge-your-betting-business/"
+      "https://sportradar.com/content-hub/whitepaper/learn-how-live-streaming-can-super-charge-your-betting-business/",
+      "https://sportradar.com/content-hub/whitepaper/how-strong-partnerships-can-future-proof-your-betting-business/",
+      "https://sportradar.com/content-hub/whitepaper/how-to-control-customer-acquisition-costs-in-sports-betting/",
+      "https://sportradar.com/content-hub/news/the-nba-and-sportradar-announce-landmark-long-term-global-partnership/",
+      "https://sportradar.com/content-hub/report/insights-in-action-a-day-in-the-life-of-a-sports-fan/",
+      "https://sportradar.com/content-hub/news/sportradar-announces-strong-third-quarter-2021-financial-results/",
+      "https://sportradar.com/content-hub/news/international-handball-federation-partners-with-sportradar-integrity-services/",
+      "https://sportradar.com/content-hub/news/sportradar-to-monitor-fiba-3x3-basketball-competitions-through-its-universal-fraud-detection-system/",
+      "https://sportradar.com/content-hub/news/sportradar-to-monitor-basketball-competitions-for-european-league-organizations-through-its-universal-fraud-detection-system/",
+      "https://sportradar.com/content-hub/news/sportradar-in-the-news-friday-5th-november/"
     ]
   },
   "sketchfab.com": {
-    "lastAt": 1757859726273,
+    "lastAt": 1758209221804,
     "urls": [
       "https://sketchfab.com/"
     ]
   },
   "bixbyllm.com": {
-    "lastAt": 1757859729524,
+    "lastAt": 1758209225061,
     "urls": []
   },
   "nsone.net": {
-    "lastAt": 1757859730164,
+    "lastAt": 1758209225381,
     "urls": [
       "https://nsone.net/"
     ]
   },
   "htsc.com.cn": {
-    "lastAt": 1757859788978,
+    "lastAt": 1758209284189,
     "urls": []
   },
   "qianxun.com": {
-    "lastAt": 1757859847790,
+    "lastAt": 1758209342995,
     "urls": []
   },
   "gotowebinar.com": {
-    "lastAt": 1757859852053,
+    "lastAt": 1758209344423,
     "urls": [
       "https://gotowebinar.com/"
     ]
