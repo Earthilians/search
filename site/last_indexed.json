@@ -30126,11 +30126,11 @@
     "urls": []
   },
   "tencentclb.com": {
-    "lastAt": 1757888355593,
+    "lastAt": 1758237587717,
     "urls": []
   },
   "opensource.org": {
-    "lastAt": 1757888361211,
+    "lastAt": 1758237593757,
     "urls": [
       "https://opensource.org/session05-mp4",
       "https://opensource.org/session06-mp4",
@@ -30141,11 +30141,19 @@
       "https://opensource.org/session08-mp4",
       "https://opensource.org/session09-mp4",
       "https://opensource.org/session10-mp4",
-      "https://opensource.org/session12-mp4"
+      "https://opensource.org/session12-mp4",
+      "https://opensource.org/session14-mp4",
+      "https://opensource.org/session01-mp4",
+      "https://opensource.org/session13-mp4",
+      "https://opensource.org/session02-2-mp4",
+      "https://opensource.org/session15-mp4",
+      "https://opensource.org/",
+      "https://opensource.org/session16-mp4",
+      "https://opensource.org/osi_townhall_16-mp4"
     ]
   },
   "adguard.com": {
-    "lastAt": 1757888366164,
+    "lastAt": 1758237599917,
     "urls": [
       "https://adguard.com/en/license.html",
       "https://adguard.com/en/blog/index.html",
@@ -30156,11 +30164,21 @@
       "https://adguard.com/en/awards.html",
       "https://adguard.com/en/get-adguard-for-free.html",
       "https://adguard.com/en/rewards.html",
-      "https://adguard.com/en/contribute.html"
+      "https://adguard.com/en/contribute.html",
+      "https://adguard.com/en/partners.html",
+      "https://adguard.com/en/partners/reseller.html",
+      "https://adguard.com/en/partners/technology.html",
+      "https://adguard.com/en/partners/affiliate.html",
+      "https://adguard.com/en/download.html",
+      "https://adguard.com/en/partners/service.html",
+      "https://adguard.com/en/crypto-wallet/overview.html",
+      "https://adguard.com/en/adguard-windows/overview.html",
+      "https://adguard.com/en/article/index.html",
+      "https://adguard.com/en/adguard-android/overview.html"
     ]
   },
   "postman.com": {
-    "lastAt": 1757888368270,
+    "lastAt": 1758237602755,
     "urls": [
       "https://www.postman.com/category/app-security",
       "https://www.postman.com/category/travel-apis",
@@ -30171,11 +30189,21 @@
       "https://www.postman.com/category/developer-productivity",
       "https://www.postman.com/category/communication",
       "https://www.postman.com/category/devops",
-      "https://www.postman.com/category/e-signature-apis"
+      "https://www.postman.com/category/e-signature-apis",
+      "https://www.postman.com/category/e-commerce-apis",
+      "https://www.postman.com/category/database-apis",
+      "https://www.postman.com/explore/mcp-servers",
+      "https://www.postman.com/explore/ggv-list",
+      "https://www.postman.com/category/data-analytics",
+      "https://www.postman.com/explore/essential-collection",
+      "https://www.postman.com/explore/best-api-award",
+      "https://www.postman.com/explore/most-popular-apis-this-year",
+      "https://www.postman.com/explore/whats-happening-on-postman",
+      "https://www.postman.com/explore/application-security-apis"
     ]
   },
   "tizen.org": {
-    "lastAt": 1757888373427,
+    "lastAt": 1758237617468,
     "urls": [
       "https://www.tizen.org/blogs/dawnfoster/2011/welcome-to-tizen/",
       "https://www.tizen.org/blogs/tsg/2012/an-early-look-at-tizen/",
@@ -30186,11 +30214,20 @@
       "https://tizen.org/",
       "https://www.tizen.org/blogs/tsg/2012/tizen-1-0-larkspur-sdk-and-source-code-release/",
       "https://www.tizen.org/blogs/bdub/2012/what-to-expect-at-the-2012-tizen-developer-conference/",
-      "https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-by-intel/"
+      "https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-by-intel/",
+      "https://www.tizen.org/blogs/bdub/2012/tizen-developer-hardware-now-available/",
+      "https://www.tizen.org/blogs/dawnfoster/2012/html5-and-tizen-at-orange-partner-days/",
+      "https://www.tizen.org/blogs/tsg/2013/tizen-2-0-sdk-and-source-code-release/",
+      "https://www.tizen.org/blogs/tsg/2012/tizen-2-0-alpha-sdk-and-source-code-release/",
+      "https://www.tizen.org/blogs/amyleeland/2012/the-new-and-improved-tizen-developer-site/",
+      "https://www.tizen.org/blogs/tsg/2013/tizen-2-1-beta-sdk-and-source-code-release/",
+      "https://www.tizen.org/blogs/thiago/2013/tizen-conference-schedule/",
+      "https://www.tizen.org/blogs/bdub/2013/tizen-app-challenge-is-now-open/",
+      "https://www.tizen.org/blogs/tsg/2013/tizen-2-2-beta-sdk-release/"
     ]
   },
   "tmz.com": {
-    "lastAt": 1757888380840,
+    "lastAt": 1758237625580,
     "urls": [
       "https://www.tmz.com/2025/09/14/nate-bargatze-good-genes-or-good-docs/",
       "https://www.tmz.com/2025/09/14/polka-dot-fashion/",
@@ -30201,21 +30238,31 @@
       "https://www.tmz.com/2025/09/14/emmys-celebrity-scramble-guess-who/",
       "https://www.tmz.com/2025/09/14/salli-richardson-dondre-whitfield-bronny-james-dating-daughter/",
       "https://www.tmz.com/2025/09/14/ricky-hatton-dead/",
-      "https://www.tmz.com/2025/09/14/morgan-wallen-honors-charlie-kirk-widow-concert/"
+      "https://www.tmz.com/2025/09/14/morgan-wallen-honors-charlie-kirk-widow-concert/",
+      "https://www.tmz.com/2025/09/18/guess-the-super-soaked-star-in-this-sexy-snap/",
+      "https://www.tmz.com/2025/09/17/d4vd-sings-about-celeste-leaked-song/",
+      "https://www.tmz.com/2025/09/17/black-student-trey-reed-found-hanging-from-tree-mississippi/",
+      "https://www.tmz.com/2025/09/17/jimmy-kimmel-seen-after-abc-suspension/",
+      "https://www.tmz.com/2025/09/17/steph-curry-killer-mike-ayesha-curry-glorilla-jokes/",
+      "https://www.tmz.com/2025/09/18/crockpots-for-soup-season/",
+      "https://www.tmz.com/2025/09/18/kripke-on-the-big-bang-theory-memba-him/",
+      "https://www.tmz.com/2025/09/18/tyreek-hill-ex-attorney-meet-nfl-investigator-domestic-violence-probe/",
+      "https://www.tmz.com/2025/09/18/hollywood-reacts-to-jimmy-kimmel-suspension/",
+      "https://www.tmz.com/2025/09/18/elderly-woman-pushed-off-bus/"
     ]
   },
   "aptrinsic.com": {
-    "lastAt": 1757888394547,
+    "lastAt": 1758237632869,
     "urls": [
       "https://aptrinsic.com/"
     ]
   },
   "ctfassets.net": {
-    "lastAt": 1757888397819,
+    "lastAt": 1758237635906,
     "urls": []
   },
   "colorado.edu": {
-    "lastAt": 1757888399726,
+    "lastAt": 1758237637893,
     "urls": [
       "https://colorado.edu/",
       "http://www.colorado.edu/academics",
@@ -30226,11 +30273,21 @@
       "http://www.colorado.edu/academics/programs/certificates",
       "http://www.colorado.edu/academics/programs",
       "http://www.colorado.edu/academics/programs/minors",
-      "http://www.colorado.edu/academics/programs/majors"
+      "http://www.colorado.edu/academics/programs/majors",
+      "http://www.colorado.edu/academics/business",
+      "http://www.colorado.edu/academics/programs/graduate",
+      "http://www.colorado.edu/academics/cu-boulder-difference",
+      "http://www.colorado.edu/academics/arts-sciences",
+      "http://www.colorado.edu/academics/colleges-schools",
+      "http://www.colorado.edu/academics/education",
+      "http://www.colorado.edu/academics/engineering",
+      "http://www.colorado.edu/academics/academic-calendar",
+      "http://www.colorado.edu/academics/envd",
+      "http://www.colorado.edu/academics/music"
     ]
   },
   "ti.com": {
-    "lastAt": 1757888404000,
+    "lastAt": 1758237645158,
     "urls": [
       "https://ti.com/",
       "https://www.ti.com/document-viewer/lit/html/gera008",
@@ -30241,31 +30298,36 @@
       "https://www.ti.com/document-viewer/lit/html/gera018",
       "https://www.ti.com/document-viewer/lit/html/gera021",
       "https://www.ti.com/document-viewer/lit/html/gera016",
-      "https://www.ti.com/document-viewer/lit/html/gera014"
+      "https://www.ti.com/document-viewer/lit/html/gera014",
+      "https://www.ti.com/document-viewer/lit/html/gera025",
+      "https://www.ti.com/document-viewer/lit/html/gera038",
+      "https://www.ti.com/document-viewer/lit/html/gera027",
+      "https://www.ti.com/document-viewer/lit/html/gera029",
+      "https://www.ti.com/document-viewer/lit/html/gera036"
     ]
   },
   "ksyna.net": {
-    "lastAt": 1757888417397,
+    "lastAt": 1758237658138,
     "urls": []
   },
   "safedk.com": {
-    "lastAt": 1757888420686,
+    "lastAt": 1758237661757,
     "urls": []
   },
   "msftstatic.com": {
-    "lastAt": 1757888424034,
+    "lastAt": 1758237664853,
     "urls": []
   },
   "emb-api.com": {
-    "lastAt": 1757888427152,
+    "lastAt": 1758237668100,
     "urls": []
   },
   "tokopedia.com": {
-    "lastAt": 1757889160924,
+    "lastAt": 1758238402900,
     "urls": []
   },
   "auth0.com": {
-    "lastAt": 1757889165014,
+    "lastAt": 1758238405239,
     "urls": [
       "https://auth0.com/availability-trust",
       "https://auth0.com/app-modernization",
@@ -30276,23 +30338,33 @@
       "https://auth0.com/b2c-customer-identity-management",
       "https://auth0.com/b2e-identity-management-for-employees",
       "https://auth0.com/ccpa",
-      "https://auth0.com/b2b-saas"
+      "https://auth0.com/b2b-saas",
+      "https://auth0.com/customer-identity-trends-report",
+      "https://auth0.com/ciam",
+      "https://auth0.com/changelog",
+      "https://auth0.com/customers",
+      "https://auth0.com/contact-us",
+      "https://auth0.com/device-flow",
+      "https://auth0.com/developers",
+      "https://auth0.com/developers/lab/fine-grained-authorization",
+      "https://auth0.com/developers/lab/web3",
+      "https://auth0.com/device-flow/"
     ]
   },
   "watchguard.com": {
-    "lastAt": 1757889169918,
+    "lastAt": 1758238409894,
     "urls": [
       "https://watchguard.com/"
     ]
   },
   "anchor.fm": {
-    "lastAt": 1757889170997,
+    "lastAt": 1758238412084,
     "urls": [
       "https://anchor.fm/"
     ]
   },
   "capitalone.com": {
-    "lastAt": 1757889175716,
+    "lastAt": 1758238420669,
     "urls": [
       "https://www.capitalone.com/",
       "https://www.capitalone.com/cars/calculator",
@@ -30303,11 +30375,19 @@
       "https://www.capitalone.com/about/doing-business/supplier-diversity/mwbe-development/",
       "https://www.capitalone.com/about/corporate-information/diverse-supplier-registration/",
       "https://www.capitalone.com/about/doing-business/supplier-diversity",
-      "https://www.capitalone.com/about/doing-business/code-of-conduct/"
+      "https://www.capitalone.com/about/doing-business/code-of-conduct/",
+      "https://www.capitalone.com/about/corporate-information/canada-po-terms-and-conditions/",
+      "https://www.capitalone.com/about/corporate-information/coupa-overview-and-invoicing/",
+      "https://www.capitalone.com/about/corporate-information/details-for-doing-business-with-capital-one/",
+      "https://www.capitalone.com/about/corporate-information/us-po-terms-and-conditions/",
+      "https://www.capitalone.com/about/corporate-information/mexico-po-terms-and-conditions",
+      "https://www.capitalone.com/about/corporate-information/mexico-po-terms-and-conditions-in-english/",
+      "https://www.capitalone.com/about/corporate-information/our-company/",
+      "https://www.capitalone.com/about/corporate-information/about-our-supplier-development-and-opportunity-program/"
     ]
   },
   "ucweb.com": {
-    "lastAt": 1757889182706,
+    "lastAt": 1758238427665,
     "urls": [
       "https://www.ucweb.com/id",
       "https://www.ucweb.com/",
@@ -30318,31 +30398,41 @@
       "https://www.ucweb.com/id/feature/free-video-downloads",
       "https://www.ucweb.com/feature/free-video-player",
       "https://www.ucweb.com/id/feature/free-video-player",
-      "https://www.ucweb.com/blog/watch-crows-zero"
+      "https://www.ucweb.com/blog/watch-crows-zero",
+      "https://www.ucweb.com/blog/watch-jujutsu-kausen-netflix",
+      "https://www.ucweb.com/id/blog/watch-crows-zero",
+      "https://www.ucweb.com/id/blog/watch-jujutsu-kausen-netflix",
+      "https://www.ucweb.com/blog/watch-solo-leveling-netflix",
+      "https://www.ucweb.com/blog/watch-final-destination-netflix",
+      "https://www.ucweb.com/id/blog/watch-solo-leveling-netflix",
+      "https://www.ucweb.com/id/blog/watch-final-destination-netflix",
+      "https://www.ucweb.com/blog/watch-the-handmaiden-2016-netflix",
+      "https://www.ucweb.com/id/blog/watch-the-handmaiden-2016-netflix",
+      "https://www.ucweb.com/blog/best-vpn"
     ]
   },
   "adguard-vpn.online": {
-    "lastAt": 1757889185823,
+    "lastAt": 1758238430757,
     "urls": []
   },
   "msappproxy.net": {
-    "lastAt": 1757889188702,
+    "lastAt": 1758238433630,
     "urls": []
   },
   "iz.ru": {
-    "lastAt": 1757889195616,
+    "lastAt": 1758238441416,
     "urls": []
   },
   "spb.ru": {
-    "lastAt": 1757889200527,
+    "lastAt": 1758238463160,
     "urls": []
   },
   "alfabank.ru": {
-    "lastAt": 1757889204992,
+    "lastAt": 1758238468409,
     "urls": []
   },
   "phantom.app": {
-    "lastAt": 1757889235402,
+    "lastAt": 1758238498066,
     "urls": [
       "https://phantom.com/learn/crypto-101/app-spotlight-tensor",
       "https://phantom.com/learn/blog/message-simulation",
@@ -30353,27 +30443,37 @@
       "https://phantom.com/learn/crypto-101/magic-eden-me-token-airdrop",
       "https://phantom.com/learn/crypto-101/dogwifhat-WIF",
       "https://phantom.com/learn/blog/introducing-instant-sell",
-      "https://phantom.com/learn/crypto-101/jeo-boden-memecoin"
+      "https://phantom.com/learn/crypto-101/jeo-boden-memecoin",
+      "https://phantom.com/learn/blog/introducing-sui-on-phantom",
+      "https://phantom.com/learn/crypto-101/solana-liquid-staking",
+      "https://phantom.com/learn/crypto-101/solana-airdrops",
+      "https://phantom.com/learn/crypto-101/pxl-wrld-cohort-1",
+      "https://phantom.com/learn/blog/base-on-phantom",
+      "https://phantom.com/learn/blog/phantom-perps",
+      "https://phantom.com/learn/crypto-101/prediction-markets",
+      "https://phantom.com/learn/crypto-101/firedancer",
+      "https://phantom.com/learn/crypto-101/sharky",
+      "https://phantom.com/learn/crypto-101/sharky-airdrop"
     ]
   },
   "npmjs.com": {
-    "lastAt": 1757889236489,
+    "lastAt": 1758238500155,
     "urls": [
       "https://npmjs.com/"
     ]
   },
   "tq-tungsten.com": {
-    "lastAt": 1757889239802,
+    "lastAt": 1758238503275,
     "urls": []
   },
   "dalyfeds.com": {
-    "lastAt": 1757889244006,
+    "lastAt": 1758238506169,
     "urls": [
       "https://dalyfeds.com/"
     ]
   },
   "ifeng.com": {
-    "lastAt": 1757889248950,
+    "lastAt": 1758238511398,
     "urls": [
       "https://ifeng.com/"
     ]
