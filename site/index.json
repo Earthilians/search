@@ -126845,5 +126845,831 @@
     "title": "Node.js — Node.js file stats",
     "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers ",
     "text": "Every file comes with a set of details that we can inspect using Node.js. In particular, using the s"
+  },
+  {
+    "id": "f40241c4fc5b029e84f83d1a95432d81b864e7cc",
+    "url": "https://ably.com/solutions/live-updates-results-metrics",
+    "title": "Ably for Live Updates, Results and Metrics",
+    "description": "Ably enables developers to build and deliver live updates, results and metrics with minimal latencie",
+    "text": "Ably helps you deliver live data to millions of connected devices, keeping users informed on activit"
+  },
+  {
+    "id": "91fd6522b8cd951c3d7cc8203249f9ee2d47d99f",
+    "url": "https://ably.com/solutions/multiplayer-collaboration",
+    "title": "Power realtime collaboration with fully featured SDKs | Ably Realtime",
+    "description": "Add realtime collaboration experiences with just a few lines of code using our fully featured SDKs. ",
+    "text": "Our fully featured SDKs make it easy to add realtime collaboration experiences, with just a few line"
+  },
+  {
+    "id": "bd0438eb871ce37ba36db14e5cbfba21703437a5",
+    "url": "https://ably.com/solutions/data-synchronization",
+    "title": "Data Synchronization",
+    "description": "Keep large numbers of global clients in realtime sync with your back end. Power interactive applicat",
+    "text": "Maintain up to millions of devices in sync with a complete realtime infrastructure solution designed"
+  },
+  {
+    "id": "9d5ed4a0c0ac9bce9f8781caa3a7d3a755a18183",
+    "url": "https://ably.com/solutions/extend-kafka-to-the-edge",
+    "title": "Extend Kafka to end-users at the edge",
+    "description": "Augment your Kafka pipeline with edge messaging capabilities you can depend on. Ably offers a simple",
+    "text": "Enhance and reliably expand Kafka's event streaming capabilities beyond your private network. Ably o"
+  },
+  {
+    "id": "8723ba8c7ba1e3337cf06bf39e88c7bd5a0b60fc",
+    "url": "https://ably.com/solutions/channels",
+    "title": "Ably Pub/Sub: Websocket-based pub/sub at limitless scale",
+    "description": "Flexible pub/sub APIs for building any live and interactive experience. Powered by Ably's scalable a",
+    "text": "Flexible APIs for building any live and interactive experience. Powered by Ably's scalable and relia"
+  },
+  {
+    "id": "e793b14c280045135d6467df69d041600aea6bef",
+    "url": "https://ably.com/solutions/ecommerce-and-retail",
+    "title": "Power customer experience tech with realtime infrastructure built for scale",
+    "description": "Power customer experience tech with Ably's reliable realtime infrastructure. Deliver chat, notificat",
+    "text": "CXTech\nRealtime experiences, always delivered\nPower conversations, notifications, and live updates w"
+  },
+  {
+    "id": "d37578c4089c906fd3026f642c6189716dc6cda2",
+    "url": "https://ably.com/solutions/healthcare",
+    "title": "Power next level Healthcare experiences with Ably’s realtime platform",
+    "description": "Power healthcare apps with Ably’s HIPAA-compliant realtime infrastructure—enabling chat, alerts and ",
+    "text": "HealthTech\nRealtime experiences, always delivered\nPower conversations, notifications, and live updat"
+  },
+  {
+    "id": "1505d5ac2b4551a3da39d4b23f010a0e90b6e6f6",
+    "url": "https://ably.com/solutions/automotive-logistics-and-mobility",
+    "title": "Ably for automotive providers, mobility apps, and logistics companies",
+    "description": "The complete realtime data synchronization stack to power anything from rider location for on-demand",
+    "text": "CUSTOMERS BUILDING ON ABLY\nMakes on the fly, time-critical adjustments mid-race.\nDelivers realtime t"
+  },
+  {
+    "id": "27b28fb9d7b9a3067025c1008054dfdb10412e5b",
+    "url": "https://ably.com/solutions/gaming",
+    "title": "Ably for Gaming",
+    "description": "The complete realtime data synchronization stack to build interactive, multiplayer games. Create mul",
+    "text": "Create multiplayer gaming experiences that deliver on the total immersion modern gamers expect.\nCUST"
+  },
+  {
+    "id": "acfd078f306a3266de31fe83981b2bbc31f1b666",
+    "url": "https://ably.com/solutions/edtech",
+    "title": "Power next level Education experiences with Ably’s realtime platform",
+    "description": "Power Interactive EdTech solutions with Ably’s reliable realtime infrastructure - enabling chat, ale",
+    "text": "EdTech\nRealtime experiences, always delivered\nPower conversations, notifications, and live updates w"
+  },
+  {
+    "id": "88a7e173a6be862fb56f0bfc78537cd86a55825d",
+    "url": "https://indianexpress.com/article/delhi-confidential/delhi-confidential-pre-poll-huddle-10258373/",
+    "title": "Delhi Confidential: Pre-Poll Huddle | Delhi Confidential News - The Indian Express",
+    "description": "Bihar Chief Minister Nitish Kumar’s meeting with Union Home Minister Amit Shah ahead of the latter’s",
+    "text": "Bihar Chief Minister Nitish Kumar’s meeting with Union Home Minister Amit Shah ahead of the latter’s"
+  },
+  {
+    "id": "d58fe6f32cf982549a914f4563937db4a76e4368",
+    "url": "https://indianexpress.com/article/india/fresh-fir-against-aai-manager-held-for-fraud-10258401/",
+    "title": "Fresh FIR against AAI manager held for fraud | India News - The Indian Express",
+    "description": "Earlier, accused Rahul Vijay was arrested in connection with a `232-crore embezzlement case, when he",
+    "text": "The CBI has registered a fresh FIR against a senior manager of Airport Authority of India, Jaipur Ai"
+  },
+  {
+    "id": "a1c9432eb4c951a708473dcd2bc8f190d38502bb",
+    "url": "https://indianexpress.com/article/horoscope/daily-horoscope-for-19-september-2025-astrological-forecasts-for-libra-leo-pisces-aries-sagittarius-and-all-zodiac-signs-10249550/",
+    "title": "Daily Horoscope for 19 September, 2025: Astrological Forecasts for Libra, Leo, Pisces, Aries, Sagitt",
+    "description": "Zodiac Signs Daily Horoscope Today: Scorpio, Gemini, Capricorn, Libra, the stars bring a mix of chal",
+    "text": "Daily Horoscope Today, 19 September, 2025: Life more relaxed, pamper yourself precisely. Partnership"
+  },
+  {
+    "id": "7434604e0f851ab0351f7be5b4056de0a529d76f",
+    "url": "https://indianexpress.com/article/world/earthquake-of-7-8-magnitude-hits-russia-kamchatka-tsunami-warning-10258393/",
+    "title": "Earthquake of 7.8 magnitude hits Russia’s Kamchatka again | World News - The Indian Express",
+    "description": "The US tsunami warning system said it had issued no warning of threat of a tsunami in the aftermath ",
+    "text": "By: Express Web Desk\t\t\n\t\n\tfunction checkAndLoadScript() {\n\t\tif (window.jQuery) {\n\t\t// jQuery is load"
+  },
+  {
+    "id": "fd98480f6afb500bac96625cd09485aa4f8daef3",
+    "url": "https://indianexpress.com/article/india/meghalaya-university-built-on-forest-land-says-sc-committee-after-assam-cm-targets-usmt-10258378/",
+    "title": "Meghalaya university built on forest land, says SC committee after Assam CM targets USMT | India New",
+    "description": "The CEC has recommended that the entire area occupied by USTM and surrounding buildings be “fully re",
+    "text": "The University of Science and Technology (USMT) in Meghalaya’s Ri-Bhoi district, which was accused b"
+  },
+  {
+    "id": "d3afac0627529d716ab8d88048a0ed109aa1ddd1",
+    "url": "https://indianexpress.com/article/cities/chandigarh/centre-agrees-to-declare-punjab-severely-flooded-enhanced-funds-on-the-cards-10258357/",
+    "title": "Centre agrees to declare Punjab ‘severely flooded’, enhanced funds on the cards | Chandigarh News - ",
+    "description": "With Centre agreeing to declare Punjab “severely flooded”, the border state, which is recovering fro",
+    "text": "The Centre on Thursday approved a proposal by the Punjab government to declare the state “severely f"
+  },
+  {
+    "id": "4ac40f3210423dfc7e6487121c516f79b4ce977f",
+    "url": "https://indianexpress.com/article/world/keir-starmer-donald-trump-hail-special-relationship-skirt-difficult-issues-gaza-russia-ukraine-war-trade-tariff-10258341/",
+    "title": "Starmer, Trump hail renewal of ‘special relationship’, skirt difficult issues | World News - The Ind",
+    "description": "Trump also repeated his position that he disagreed with countries recognising Palestine, something S",
+    "text": "By: Reuters\t\t\n\t\n\tfunction checkAndLoadScript() {\n\t\tif (window.jQuery) {\n\t\t// jQuery is loaded, inclu"
+  },
+  {
+    "id": "7fbf7a4a52f02bc16613e7ba839f604ecc2a313d",
+    "url": "https://indianexpress.com/article/world/us-seeking-control-of-afghanistan-bagram-air-base-given-up-to-taliban-in-withdrawal-trump-10258385/",
+    "title": "US seeking control of Afghanistan’s Bagram air base given up in withdrawal, says Trump | World News ",
+    "description": "“One of the biggest airbases in the world. We gave it to them for nothing. We’re trying to get it ba",
+    "text": "By: Express Web Desk\t\t\n\t\n\tfunction checkAndLoadScript() {\n\t\tif (window.jQuery) {\n\t\t// jQuery is load"
+  },
+  {
+    "id": "8d7c092f5108ec9ffaeed75143077e516839de03",
+    "url": "https://indianexpress.com/article/world/us-vetoes-un-security-council-resolution-immediate-ceasefire-in-gaza-10258320/",
+    "title": "US vetoes UN Security Council resolution calling for immediate ceasefire in Gaza | World News - The ",
+    "description": "The resolution described the humanitarian situation in Gaza as “catastrophic” and called on Israel t",
+    "text": "The United States on Thursday vetoed a UN Security Council resolution that had demanded an immediate"
+  },
+  {
+    "id": "4d20bd701aacf208db553130aa51edf1acd7e808",
+    "url": "https://indianexpress.com/article/cities/pune/pune-surrounding-areas-see-rain-city-records-71-mm-10258281/",
+    "title": "Pune, surrounding areas see rain; city records 71 mm | Pune News - The Indian Express",
+    "description": "Thursday’s rain was accompanied by thunderstorms which saw many citizens being caught in the showers",
+    "text": "On Thursday, Pune and its surrounding region received medium to heavy rainfall with Pashan’s automat"
+  },
+  {
+    "id": "247742d10f4326565aa605f0aa1fc2ebfb2e38d7",
+    "url": "https://www.belkin.com/products/adapters/",
+    "title": "Adapters | Belkin US",
+    "description": "Browse our selection of adapters, meticulously tested and crafted from premium materials. We offer a",
+    "text": "Provide your account email address to receive an email to reset your password.\nConnect it all with B"
+  },
+  {
+    "id": "6e34d6b2ab70395a32e5e95f5d2cd6a04906ee0c",
+    "url": "https://www.belkin.com/company/blog/usb-cables-ultimate-guide/",
+    "title": "USB-C Charging Explained: Background, Safety, and FAQs",
+    "description": "Get the scoop on all things USB-C. Belkin's latest blog covers background information, safety essent",
+    "text": "Provide your account email address to receive an email to reset your password.\nSeptember 28, 2023\nMo"
+  },
+  {
+    "id": "ec30a9561e579b8bb7ce6ac221b45b4f0eeaecc4",
+    "url": "https://www.belkin.com/business/adapters/",
+    "title": "Adapters | Belkin US",
+    "description": "Shop our portfolio of Adapters and redefine the role of digital innovation in your life. Discover al",
+    "text": "Provide your account email address to receive an email to reset your password.\n© Belkin 2025  |  All"
+  },
+  {
+    "id": "867ab5a2f1c4cbe6c3fe00a7776bf365d6f6c174",
+    "url": "https://www.belkin.com/legal/accessibility/",
+    "title": "Belkin Accessibility Statement",
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "text": "Provide your account email address to receive an email to reset your password.\nBelkin is committed t"
+  },
+  {
+    "id": "ece83bae447c910d700640e5d2fc7ce6410cab0d",
+    "url": "https://www.belkin.com/adapters/",
+    "title": "Choosing the Best Travel Accessories for 2023 | Belkin UK",
+    "description": "What should you consider when buying power banks, earbuds and adapters for travel in 2023? Find out ",
+    "text": "Provide your account email address to receive an email to reset your password.\nWhether you’re on a b"
+  },
+  {
+    "id": "550cbc63ef40142cdc6b7e0bd611e5a7ab5ea786",
+    "url": "https://www.belkin.com/company/affiliates/",
+    "title": "",
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "text": "Provide your account email address to receive an email to reset your password.\nShare products you lo"
+  },
+  {
+    "id": "df23ee072d3183e6196703396dff3c138924fbda",
+    "url": "https://www.belkin.com/company/blog/ai-in-enterprise/",
+    "title": "Powering AI Workflows with Belkin Solutions | Belkin US",
+    "description": "Discover how Belkin’s GaN-powered chargers, Thunderbolt docks, and 240W cables optimize performance ",
+    "text": "Provide your account email address to receive an email to reset your password.\nJune 27, 2025\nFrom si"
+  },
+  {
+    "id": "2c884606c0c272560d98d9aef18a33e8d1bc11a1",
+    "url": "https://www.belkin.com/products/airtag-accessories/",
+    "title": "AirTag Accessories | Belkin US",
+    "description": "Explore AirTag holders and keychains, available with straps, clips, or wire cables in a variety of c",
+    "text": "Provide your account email address to receive an email to reset your password.\nShop our Apple AirTag"
+  },
+  {
+    "id": "6d16ebeb31ffe433d6c5f80c3ca581b85cd8a83a",
+    "url": "https://www.belkin.com/business/all-business-solutions/",
+    "title": "Business Solutions for Enterprise, Education, Government & Healthcare | Belkin US",
+    "description": "Explore cybersecurity, docks, hubs, charging stations, cables and adapters for business. Explore now",
+    "text": "Provide your account email address to receive an email to reset your password.\nKeep your enterprise "
+  },
+  {
+    "id": "4f8ccdff90705baa782e9ba3d63ccdbe8784658f",
+    "url": "https://www.belkin.com/company/blog/what-you-need-to-know-about-ai-integrated-devices/",
+    "title": "What You Need to Know About AI-Integrated Devices | Belkin US",
+    "description": "Explore the world of AI-integrated devices, from virtual assistants to generative AI tools. Learn ho",
+    "text": "Provide your account email address to receive an email to reset your password.\nDecember 10, 2024\nArt"
+  },
+  {
+    "id": "6417395a4574334211894dd9be82256a50b92167",
+    "url": "https://deadline.com/2025/09/lav-diaz-magellan-gael-garcia-bernal-philippines-oscar-entry-1236502877/",
+    "title": "Lav Diaz's 'Magellan' Selected As The Philippines' Oscar Entry For International Features",
+    "description": "Lav Diaz’s Magellan, starring Gael Garcia Bernal, as the country's official Oscar Entry for Best Int",
+    "text": "By Sara Merican\nThe Film Academy of the Philippines has selected Lav Diaz’s Magellan as the country’"
+  },
+  {
+    "id": "fa8a8d5a4d8166590f8494df38f28d42adc60c36",
+    "url": "https://deadline.com/2025/09/the-testament-ann-lee-director-more-movies-female-amanda-seyfried-1236502865/",
+    "title": "Testament Of Ann Lee Director Calls For More Movies On Female Icons",
+    "description": "'The Testament Of Ann Lee' Director Mona Fastvold Calls For More Movies About Female Icons As Star A",
+    "text": "By Melanie Goodfellow, Nada Aboul Kheir\nDirector Mona Fastvold sets down in Venice today with musica"
+  },
+  {
+    "id": "fb9a9f1fab87a7b45157e99ebd9786d1dd653229",
+    "url": "https://deadline.com/2025/09/paramount-australia-daniel-monaghan-joins-foxtel-1236502844/",
+    "title": "Paramount Australia's Daniel Monaghan Joins Foxtel",
+    "description": "Paramount Australia's Daniel Monaghan has joined Foxtel after working on 'I'm a Celebrity' and 'Mast",
+    "text": "By Max Goldbart, Jesse Whittock\nParamount Australia‘s Daniel Monaghan Jumps To Foxtel\nParamount Aust"
+  },
+  {
+    "id": "d2d7884cea40e22857d88c03bc318376e37d8f93",
+    "url": "https://deadline.com/2025/09/norwegian-film-loveable-sets-china-theatrical-release-date-1236502850/",
+    "title": "Norwegian Film 'Loveable' Sets China Theatrical Release Date",
+    "description": "Norwegian film 'Loveable' is set for a wide theatrical release in China for September 5, through dis",
+    "text": "By Sara Merican\nNorwegian film Loveable is set for a wide theatrical release in China for September "
+  },
+  {
+    "id": "3ac3790a59b74f7a2226eaa05dea8f922c5c042b",
+    "url": "https://deadline.com/2025/09/harry-potter-series-warwick-davis-professor-filius-flitwick-1236502767/",
+    "title": "HBO 'Harry Potter' Series Sets Warwick Davis Return To Hogwarts",
+    "description": "Warwick Davis is the first actor from the Harry Potter films to reprise role in HBO series. He will ",
+    "text": "By Rosy Cordero\nAssociate Editor, TV\nWarwick Davis has been revealed as the first actor from the “Ha"
+  },
+  {
+    "id": "6f95979d01ed68853a56e114a25b11ac553efb70",
+    "url": "https://deadline.com/2025/09/brutalist-brady-corbet-rules-collaboration-mona-fastvold-1236502914/",
+    "title": "Brady Corbet Talks Rules Of Collaboration With Partner Mona Fastvold",
+    "description": "The Brutalist' Director Brady Corbet Talks Ground Rules Of Collaboration With Partner Mona Fastvold ",
+    "text": "By Melanie Goodfellow, Nada Aboul Kheir\nExactly a year ago today U.S. director Brady Corbet world pr"
+  },
+  {
+    "id": "434cc5c82e7b5f6a68fab3536f5a83109e1d20c1",
+    "url": "https://deadline.com/2025/09/dwayne-johnson-emily-blunt-smashing-machine-benny-safdie-1236502878/",
+    "title": "Dwayne Johnson & Emily Blunt On ‘Smashing Machine’ With Benny Safdie",
+    "description": "A24 will release the film theatrically on October 3.",
+    "text": "By Zac Ntim\nInternational Reporter\n“It’s my first time in Venice,” Dwayne Johnson told the audience "
+  },
+  {
+    "id": "aff078a6475c135990fa5cd73640053184075e76",
+    "url": "https://deadline.com/2025/09/the-testament-of-ann-lee-review-amanda-seyfried-mona-fastvold-folk-musical-1236502932/",
+    "title": "‘The Testament Of Ann Lee’ Review: A Wryly Witty Folk Musical",
+    "description": "‘The Testament Of Ann Lee’ review: Amanda Seyfried is the second coming in Mona Fastvold’s warm and ",
+    "text": "By Damon Wise\nFilm Editor, Awards\nThe Shaking Quakers might sound like a ’90s rock band from the sta"
+  },
+  {
+    "id": "6e71a825cb2c664affe50b063bb1caf867fe689c",
+    "url": "https://deadline.com/2025/09/doug-liman-xr-thriller-asteroid-tom-cruise-space-venice-1236502409/",
+    "title": "Doug Liman Talks XR Thriller 'Asteroid', Tom Cruise Space Project",
+    "description": "Doug Liman Talks XR Thriller ‘Asteroid’ & Tom Cruise Outer Space Project “I Know I Want To Do More I",
+    "text": "By Melanie Goodfellow\nSenior International Film Correspondent\nClose to 30 years have passed since Do"
+  },
+  {
+    "id": "02d9d8d0aed4fd7110e0d7d979cec172dfe4aafe",
+    "url": "https://deadline.com/2025/09/caroline-hollick-leaves-north-road-company-1236502825/",
+    "title": "Caroline Hollick Leaves North Road Company",
+    "description": "Caroline Hollick has left the North Road Company after working for Peter Chernin's company for a yea",
+    "text": "By Max Goldbart\nInternational TV Co-Editor\nEXCLUSIVE: Caroline Hollick has left The North Road Compa"
+  },
+  {
+    "id": "273907708fb11262e1315d4b1a7ff11d981e6479",
+    "url": "https://www.newscientist.com/section/einsteins-universe/",
+    "title": "Einstein’s universe news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nEinstein’s Universe\nAdvertisement\nDownload the app"
+  },
+  {
+    "id": "35a77e4490be21374a60968a8f7d48ddb034ec0b",
+    "url": "https://www.newscientist.com/section/exercise-and-the-brain/",
+    "title": "Exercise and the brain news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nEXERCISE AND THE BRAIN\nAdvertisement\nDownload the app"
+  },
+  {
+    "id": "65e61323070c114a38034fa2f055eee876eff728",
+    "url": "https://www.newscientist.com/section/engineering-today-tomorrow-and-beyond/",
+    "title": "Engineering: today, tomorrow and beyond news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nEngineering: Today, Tomorrow and Beyond\nEngineering: Today, Tomorrow and Beyond\nEngine"
+  },
+  {
+    "id": "3a7fbb8d5b8686fb0ecdc186126fdc6547cee6f3",
+    "url": "https://www.newscientist.com/section/engineering-a-sustainable-world/",
+    "title": "Engineering a sustainable world news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nEngineering a sustainable world\nEngineering a sustainable world\nEngineering a sustaina"
+  },
+  {
+    "id": "2c00d241d9efb798fe0736b6ba7f61d4ba1f5f56",
+    "url": "https://www.newscientist.com/section/farming-a-greener-future/",
+    "title": "Farming a greener future news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nFarming a greener future\nFarming a greener future\nFarming a greener future\nFarming a g"
+  },
+  {
+    "id": "b60c1748977d199e22c495a2ccd060188963d852",
+    "url": "https://www.newscientist.com/section/features/",
+    "title": "Features – latest in science and technology | New Scientist",
+    "description": "In-depth features and analysis on the latest developments in science and technology with New Scienti",
+    "text": "Advertisement\nFeatures\nFeatures\nFeatures\nFeatures\nFeatures\nFeatures\nFeatures\nFeatures\nFeatures\nAdver"
+  },
+  {
+    "id": "b3f612a4615d5e5bce6fc0de2c7801801dc7bf10",
+    "url": "https://www.newscientist.com/section/infinity-and-beyond/",
+    "title": "Infinity and beyond news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nInfinity and Beyond\nAdvertisement\nDownload the app"
+  },
+  {
+    "id": "b7405a6a3a2620e892e3f529823d371a464d44c0",
+    "url": "https://www.newscientist.com/section/games/",
+    "title": "Games news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\n17 September 2025\n17 September 2025\n17 September 2025\n10 September 2025\n10 September 2"
+  },
+  {
+    "id": "1e0c560901ef6f6cddefd8f78961d30cf70724f6",
+    "url": "https://www.newscientist.com/section/innovating-in-hiv/",
+    "title": "Innovating in hiv news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nInnovating in HIV\nInnovating in HIV\nInnovating in HIV\nInnovating in HIV\nAdvertisement\n"
+  },
+  {
+    "id": "6ee2afda6645ca88466da1814d3b21bf08fd220c",
+    "url": "https://www.newscientist.com/section/forum/",
+    "title": "Forum news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nForum\nForum\nForum\nForum\nForum\nForum\nForum\nForum\nForum\nAdvertisement\nForum\nForum\nForum\n"
+  },
+  {
+    "id": "aed21f3474ef2a52d1434bc9b8219a67e9c0de84",
+    "url": "https://et.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "a14c42c1b99db60f5db9f98ec624418f42db8726",
+    "url": "https://es.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "e1b82a89146404604c62ed5741d19739c3b53dc4",
+    "url": "https://fi.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "408d1e3d65f142aade8c16eaed2d601e6bb3142b",
+    "url": "https://fa.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "efc3eeb26d36b20282812bab0c6a675cba328303",
+    "url": "https://tl.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "f00ab7d96a7de38d2d8cfefdc030d069bd5f786a",
+    "url": "https://he.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "89e7f2989a4fc1ad9212214f4cfb11f8e3e67420",
+    "url": "https://fr.padlet.com/",
+    "title": "Padlet - Collaboration visuelle pour le travail créatif et l'éducation",
+    "description": "Des tableaux et des toiles magnifiques pour les penseurs et les apprenants visuels. Utilisé par 40 m",
+    "text": ""
+  },
+  {
+    "id": "765ae03ff5077086a76eca00565979fe65df6e2b",
+    "url": "https://gl-es.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "d293d5ef73665d0aaf5612276f3ac5d92f746257",
+    "url": "https://hi.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "91f718a94c93a3dac5ce5a01640dbbbda3c46535",
+    "url": "https://hr.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "26727647e1cdd57dd8fddaed473c2b06ffbcc172",
+    "url": "https://www.mapquest.com/travel/destinations/travel-guide/tips/longest-flight-in-the-world.htm",
+    "title": "The Longest Flight in the World: Longer Than All of 'Severance' | MapQuest Travel",
+    "description": "Think your cross-country flight is long? Imagine being airborne for over 18 hours.",
+    "text": "Advertisement\nThink your cross-country flight is long? Imagine being airborne for over 18 hours.\nThe"
+  },
+  {
+    "id": "1236015829099c327e044062438872e41aa26f92",
+    "url": "https://www.mapquest.com/travel/south-america-map.htm",
+    "title": "South America Map: A Journey Through Geography and Culture | MapQuest Travel",
+    "description": "South America is a vast and diverse continent, offering a rich tapestry of landscapes, cultures, and",
+    "text": "Advertisement\nSouth America is a vast and diverse continent, offering a rich tapestry of landscapes,"
+  },
+  {
+    "id": "343a53927b138516bbe20eb6af564ec8802958a7",
+    "url": "https://www.mapquest.com/travel/destinations/zoos-aquariums/biggest-zoo-in-the-us.htm",
+    "title": "The Biggest Zoo in the U.S. Hosts Actual Safari Adventures | MapQuest Travel",
+    "description": "Ever wondered about the biggest zoo in the U.S.? Well, buckle up, because it's about way more than j",
+    "text": "Advertisement\nEver wondered about the biggest zoo in the U.S.? Well, buckle up, because it's about w"
+  },
+  {
+    "id": "7f957eab46ba7bd93f9a914ed97121c7ea3385f4",
+    "url": "https://www.mapquest.com/travel/middle-east-map.htm",
+    "title": "Middle East Map: Explore Interactive and Printable Maps & Full Country List | MapQuest Travel",
+    "description": "text here",
+    "text": "Advertisement\nThe Middle East is a region that has captivated the world for centuries, due to its ri"
+  },
+  {
+    "id": "785f80f461cad6c19b6a0afbe8dc74f0b0d95039",
+    "url": "https://www.mapquest.com/travel/africa-map.htm",
+    "title": "Africa Map: Interactive & Printable Maps & Alphabetical Country List | MapQuest Travel",
+    "description": "Welcome to the interactive Africa map. This map is designed to help you explore and learn more about",
+    "text": "Advertisement\nWelcome to the interactive Africa map. This map is designed to help you explore and le"
+  },
+  {
+    "id": "9707fd70a6854882bd7c6974036817de40135b38",
+    "url": "https://www.mapquest.com/travel/badger-maps-review.htm",
+    "title": "Badger Maps: Revolutionizing Sales Territory Management | MapQuest Travel",
+    "description": "In the fast-paced world of sales, efficient territory management can make all the difference in achi",
+    "text": "Advertisement\nIn the fast-paced world of sales, efficient territory management can make all the diff"
+  },
+  {
+    "id": "0fc70c4438e155c1c81185e6b91cd5ffce6d5d67",
+    "url": "https://www.mapquest.com/travel/gps-routes-planner.htm",
+    "title": "Streamlining Operations With GPS Route Planners | MapQuest Travel",
+    "description": "GPS route planners have revolutionized the way we navigate and optimize our travel routes. Whether y",
+    "text": "Advertisement\nGPS route planners have revolutionized the way we navigate and optimize our travel rou"
+  },
+  {
+    "id": "1292e37dd30dccd117619fa69820b5dee54732fb",
+    "url": "https://www.mapquest.com/travel/route-planning-software.htm",
+    "title": "Routing Planning Software: The Key to Efficient Route Planning | MapQuest Travel",
+    "description": "Routing software has become an essential tool for businesses and individuals looking to optimize the",
+    "text": "Advertisement\nRouting software has become an essential tool for businesses and individuals looking t"
+  },
+  {
+    "id": "6a9ececef5a6c33c04589826eaf40f122bb9e0cb",
+    "url": "https://www.mapquest.com/travel/route-planner-app-reviews.htm",
+    "title": "The Ultimate Guide to Route Planner Apps for Business Optimization | MapQuest Travel",
+    "description": "Are you tired of spending endless hours planning and optimizing routes for your business? Do you wan",
+    "text": "Advertisement\nAre you tired of spending endless hours planning and optimizing routes for your busine"
+  },
+  {
+    "id": "076d7550fe88f5636d98dd596929a2e844886564",
+    "url": "https://www.technologyreview.com/2019/10/15/75292/a-robot-hand-taught-itself-to-solve-a-rubiks-cube-after-creating-its-own-training-regime/",
+    "title": "A robot hand taught itself to solve a Rubik’s Cube after creating its own training regime | MIT Tech",
+    "description": "Over a year ago, OpenAI, the San Francisco–based for-profit AI research lab, announced that it had t",
+    "text": "Over a year ago, OpenAI, the San Francisco–based for-profit AI research lab, announced that it had t"
+  },
+  {
+    "id": "7684e9be7c4e8eda9e4ee541c7ff8c3177dc71f7",
+    "url": "https://www.technologyreview.com/2016/10/07/70007/japanese-robotics-giant-gives-its-arms-some-brains/",
+    "title": "Japanese Robotics Giant Gives Its Arms Some Brains | MIT Technology Review",
+    "description": "The big, dumb, monotonous industrial robots found in many factories could soon be quite a bit smarte",
+    "text": "The big, dumb, monotonous industrial robots found in many factories could soon be quite a bit smarte"
+  },
+  {
+    "id": "21784c863ce878a0b65050cf8bc852dfb9033d4b",
+    "url": "https://www.technologyreview.com/2018/08/07/66640/the-defense-department-has-produced-the-first-tools-for-catching-deepfakes/",
+    "title": "The Defense Department has produced the first tools for catching deepfakes | MIT Technology Review",
+    "description": "The first forensics tools for catching revenge porn and fake news created with AI have been develope",
+    "text": "The first forensics tools for catching revenge porn and fake news created with AI have been develope"
+  },
+  {
+    "id": "4c3ad0467074e034ace26c6122eb477e3ee96983",
+    "url": "https://www.technologyreview.com/2019/12/16/102389/keynes-was-wrong-gen-z-will-have-it-worse/",
+    "title": "Keynes was wrong. Gen Z will have it worse. | MIT Technology Review",
+    "description": "The founder of macroeconomics predicted that capitalism would last for approximately 450 years. That",
+    "text": "The founder of macroeconomics predicted that capitalism would last for approximately 450 years. That"
+  },
+  {
+    "id": "5bf5afac7951b8d3fe9776b4fdd957de272c439c",
+    "url": "https://www.technologyreview.com/2019/02/11/103446/more-than-26-million-people-have-taken-an-at-home-ancestry-test/",
+    "title": "More than 26 million people have taken an at-home ancestry test | MIT Technology Review",
+    "description": "As many people purchased consumer DNA tests in 2018 as in all previous years combined, MIT Technolog",
+    "text": "As many people purchased consumer DNA tests in 2018 as in all previous years combined, MIT Technolog"
+  },
+  {
+    "id": "f096b0198590b00220f9902ee20178a587636311",
+    "url": "https://www.technologyreview.com/2019/08/06/102826/a-fake-eye-that-sheds-fake-tears-could-replace-animal-testing/",
+    "title": "A fake eye that sheds fake tears could replace animal testing | MIT Technology Review",
+    "description": "Is that supposed to be an eye? Yes, and the researchers who made this biomechanical version (which c",
+    "text": "Is that supposed to be an eye? Yes, and the researchers who made this biomechanical version (which c"
+  },
+  {
+    "id": "423bff1df57481cfc4bdfe21a058f6da1a473847",
+    "url": "https://www.technologyreview.com/2018/11/21/103758/an-electric-plane-with-no-moving-parts-has-made-its-first-flight/",
+    "title": "An electric plane with no moving parts has made its first flight | MIT Technology Review",
+    "description": "Your typical jet plane is full of fast-moving blades. We need the spinning of turbines and propeller",
+    "text": "Your typical jet plane is full of fast-moving blades. We need the spinning of turbines and propeller"
+  },
+  {
+    "id": "950c007661982be750a1595385af6ac16e9899d1",
+    "url": "https://www.technologyreview.com/2018/03/09/104650/what-regular-joes-think-about-the-one-armed-robot-baristas-invading-san-francisco/",
+    "title": "What regular Joes think about the one-armed robot baristas invading San Francisco | MIT Technology R",
+    "description": "Robots may be coming for our jobs, but even in a tech-centric city like San Francisco, it usually se",
+    "text": "Robots may be coming for our jobs, but even in a tech-centric city like San Francisco, it usually se"
+  },
+  {
+    "id": "9ff87bca0e2b65b793a69c3449bedee12d314977",
+    "url": "https://www.technologyreview.com/2019/02/27/103362/steam-powered-spacecraft-could-jump-start-asteroid-exploration/",
+    "title": "Steam-powered spacecraft could jump-start asteroid exploration | MIT Technology Review",
+    "description": "When the idea of asteroid mining was first booming, many of the firms involved talked about using wa",
+    "text": "When the idea of asteroid mining was first booming, many of the firms involved talked about using wa"
+  },
+  {
+    "id": "3f8db000657e7a5ea55b506df6ef3d4336b8e720",
+    "url": "https://www.parallels.com/partners/",
+    "title": "Parallels Partner Program",
+    "description": "Parallels Partner Program for business solutions offers comprehensive partner programs. Learn more!",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "16720fe27c5552538f150be0a6542fb6a9afa535",
+    "url": "https://www.parallels.com/products/ras/use-cases/secure-remote-working/",
+    "title": "A Secure Remote Working Solution",
+    "description": "",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "a45d9edf3607fe8aa9e6049477cc2e6892b1baa6",
+    "url": "https://www.parallels.com/products/desktop/use-cases/developers/",
+    "title": "Fast-track software development on your Mac with Parallels Desktop",
+    "description": "Streamline your workflow by efficiently switching between operating systems & browsers on your Mac w",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "a4db3ff1bbbaef80cd380c8519e227c974c845d4",
+    "url": "https://www.parallels.com/products/ras/capabilities/avd/",
+    "title": "Azure Virtual Desktop with Parallels RAS: hybrid cloud made easy",
+    "description": "Streamline your Azure Virtual Desktop management with Parallels RAS! Save on costs and boost efficie",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "e16e89c3883cf8ff7b0a76fd5d9d3c6ddde9dca6",
+    "url": "https://www.parallels.com/partners/locator/",
+    "title": "Partner Locator",
+    "description": "",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "8ba18468fc88b0b2b22faf4f4163b653cdd2a17e",
+    "url": "https://www.parallels.com/customers/protime/",
+    "title": "Protime partners with Parallels RAS to save time, money, and improve implementation.",
+    "description": "Discover how Parallel RAS helped Protime eliminate their third-party provider and save them time and",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "355a5f978309a6b7c56e5b13621b4309e862bf74",
+    "url": "https://www.parallels.com/customers/spindlemedia/",
+    "title": "Spindlemedia leverages Parallels RAS to enhance AVD, reporting an 83% reduction in time to market.",
+    "description": "Discover how Spindlemedia used Parallels RAS to shorten implementation time, simplify their IT envir",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "b8f9ce7a12e254470e8da764c832d944c7b2f4e3",
+    "url": "https://www.parallels.com/tips/features/presentation-mode/",
+    "title": "Presentation Mode: A Guide to Computer Professionalism | Parallels",
+    "description": "Want to show a presentation on your computer without interruptions? Then take a look at this guide f",
+    "text": "After thorough planning and doing all the research for weeks, it was time for the presentation. The "
+  },
+  {
+    "id": "d868fe4fff3c3710f5483d16196d92fe93556f95",
+    "url": "https://www.parallels.com/customers/bmd-systemhaus/",
+    "title": "BMD Systemhaus offers secure cloud access with Parallels RAS",
+    "description": "BMD Systemhaus excels with Parallels RAS, simplifying software delivery, enhancing security, and boo",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "c75124a50bc2d71b279717098d6201f49cd76d92",
+    "url": "https://www.parallels.com/products/ras/all-resources/white-papers/road-from-var-to-msp/",
+    "title": "The Road from VAR to MSP: How to Successfully Transition from One-Off to Recurring Revenue",
+    "description": "How to develop a successful MSP business model. Key steps to take when transitioning to this model. ",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "b7190ed5b3f9b45f9f99250fa1efb6a0290cf25a",
+    "url": "https://www.podbean.com/nonprofit-organization-podcasting",
+    "title": "The Best Non Profit Podcasting Solution | Podbean",
+    "description": "Communicating with your constituents through online podcasting. Large and flexible site functionalit",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "93e51fb12200e77bda4a95aa38449d1ad58300d3",
+    "url": "https://www.podbean.com/sermon-audio",
+    "title": "Christian Podcasting : start a Christian podcast on your phone",
+    "description": "Audio sermon: how to easily create and share your teachings via audio sermon. Sermon podcast, Christ",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "7439250e98db92db7721ca9146d9a345332279de",
+    "url": "https://www.podbean.com/start-podcast",
+    "title": "Starting a podcast today with Podbean",
+    "description": "Starting a podcast can be easy and affordable. Podbean offers all the tools you need when starting a",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "6d988fa4de7f6aba31b484bc9aa052c3a29b6fb7",
+    "url": "https://sponsorship.podbean.com/",
+    "title": "Create Podcast Advertising Campaign Today | Podbean",
+    "description": "Podbean Podcast Advertising is the leading podcast advertising marketplace, connecting companies and",
+    "text": "Podbean Support Center for advertisers.\nPodbean Support Center for podcasters.\nGet in touch with adv"
+  },
+  {
+    "id": "d231184f0ebf498a8d9085dc9c68b9b463420571",
+    "url": "https://www.podbean.com/podcast-recorder",
+    "title": "Free Podcast Audio Recording App | Podbean",
+    "description": "You get the whole package with Podbean's free podcast app - audio recording, powerful editing, promo",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "dab53699e7e6447105fe99ee5ad747c9919b0a3f",
+    "url": "https://www.podbean.com/podcast-app-iphone-android-mobile",
+    "title": "The Best Podcast App | Podbean",
+    "description": "The Podbean podcast app enhances your podcast listening experience with intelligent speed, volume bo",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "b8833148e7fb979c3d2a7ad0c77fa657166d1045",
+    "url": "https://www.podbean.com/start-video-podcast",
+    "title": "Start video podcast for free | Podbean",
+    "description": "Launch your video podcast quickly and easily. Simple podcast tools and full analytics.",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "44692f537e0dcaabcdcba1e32bd81299890e7d81",
+    "url": "https://www.podbean.com/free-audiobooks",
+    "title": "Download and Listen free audiobooks on iPhone, android | Podbean",
+    "description": "Browse the largest selection of audiobooks anywhere with Podbean iPhone and Android App. Listen to y",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "efde1eebf2f2369b9f7865aa7fdc4587ce58ccef",
+    "url": "https://www.podbean.com/site/startPodcast/privatePodcast",
+    "title": "Private Podcast Hosting for Enterprises | Podbean Pro",
+    "description": "The best private podcast hosting for companies and organizations. Learn about Podbean’s private podc",
+    "text": "Comprehensive Private Podcast Solution for Employees and Members\nPrivate podcasting is a secure, int"
+  },
+  {
+    "id": "cdd72c92dd3be59bc18123ba08b7061623843df8",
+    "url": "https://www.podbean.com/site/premiumPodcast",
+    "title": "Premium Podcast Monetization Platform| Podbean | Podbean",
+    "description": "Podbean Premium is a content monetization platform that offers all the functionality you need to mon",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "8ead5c474d2a15f93bc4156da11493f0d5a5b5c3",
+    "url": "https://blog.google/authors/parisa-tabriz/",
+    "title": "Parisa Tabriz | Google Blog",
+    "description": "Read the latest from Parisa Tabriz, Director of Engineering.",
+    "text": "Vice President, Chrome\nAs VP of Chrome, Parisa works to make Chrome and the web work better for ever"
+  },
+  {
+    "id": "72593729444a4681413562ea245185720f79d151",
+    "url": "https://blog.google/authors/kate-brandt/",
+    "title": "Kate Brandt | Google Blog",
+    "description": "Read the latest perspectives from Kate Brandt, Sustainability Officer.",
+    "text": "Chief Sustainability Officer\nAs Google’s Chief Sustainability Officer, Kate leads sustainability acr"
+  },
+  {
+    "id": "9b9b0c013049d42ad966a2a43787f8354f10bc02",
+    "url": "https://blog.google/authors/astro-teller/",
+    "title": "Perspectives | Astro Teller",
+    "description": "Dr. Astro Teller oversees X, Alphabet's moonshot factory for building audacious ideas that through s",
+    "text": "Captain of Moonshots, X\nDr. Astro Teller currently oversees X, Alphabet's moonshot factory for build"
+  },
+  {
+    "id": "0a09e91de4ee55a0f74065770f4ae48fb3b6a30b",
+    "url": "https://blog.google/authors/kent-walker/",
+    "title": "Kent Walker",
+    "description": "",
+    "text": "President of Global Affairs, Google & Alphabet\nKent works at the intersection of technology, policy "
+  },
+  {
+    "id": "1fdb641452ba1847dce26ad1e1cd4010f0d72892",
+    "url": "https://blog.google/authors/catherine-courage/",
+    "title": "Catherine Courage",
+    "description": "",
+    "text": "VP, Knowledge User Experience\nCatherine is passionate about the design, research and development of "
+  },
+  {
+    "id": "372769edbf3c20c3444845386f421275d8450bd6",
+    "url": "https://blog.google/authors/kapil-parakh/",
+    "title": "Kapil Parakh",
+    "description": "",
+    "text": "Senior Medical Lead, Google Health\nKapil Parakh is a practicing cardiologist, trained at Johns Hopki"
+  },
+  {
+    "id": "8c24e8e184424a5e5f0ea5a474c7e911ce0a1bbe",
+    "url": "https://blog.google/authors/ruth-porat/",
+    "title": "Ruth Porat | Google Blog",
+    "description": "Read the latest articles by Ruth Porat, SVP and CFO.",
+    "text": "President & Chief Investment Officer, Alphabet and Google\nAs President and Chief Investment Officer,"
+  },
+  {
+    "id": "5a8ae31f9ff94656dfc8d29b7166172529ea700a",
+    "url": "https://blog.google/authors/emily-wood/",
+    "title": "Emily Wood",
+    "description": "",
+    "text": "Editor-in-Chief, The Keyword\nEmily joined Google in 2006 and oversees the editorial strategy for the"
+  },
+  {
+    "id": "0ac632760cf0ab846dabab5f2a5e96ca1cd6d3f5",
+    "url": "https://blog.google/authors/megan-friedman/",
+    "title": "Megan Friedman",
+    "description": "",
+    "text": "Managing Editor, The Keyword\nMegan is the managing editor of The Keyword blog, and focuses on writin"
+  },
+  {
+    "id": "87ca0f255d51b4fa72c037e8ff30a99f8cec430b",
+    "url": "https://blog.google/authors/james-manyika/",
+    "title": "James Manyika",
+    "description": "",
+    "text": "SVP, Research, Labs, Technology & Society\nAs Google’s SVP of Research, Labs, Technology & Society, J"
+  },
+  {
+    "id": "80ddc19fb21ed6143ea206f72424a7f6598dfa82",
+    "url": "https://www.history.com/shows",
+    "title": "HISTORY TV Shows | The HISTORY Channel",
+    "description": "Check out HISTORY's shows lineup. Find show info, videos, and exclusive content on HISTORY",
+    "text": "Secrets Declassified with David Duchovny\n09:00 PM – 10:00 PM"
+  },
+  {
+    "id": "b927beaaa04d3f9e991f03d0c51dc6228af354d0",
+    "url": "https://www.history.com/classroom",
+    "title": "HISTORY Classroom | HISTORY Channel",
+    "description": "",
+    "text": "HISTORY Classroom offers resources for educators,\n          including education guides, learning too"
+  },
+  {
+    "id": "1483dcaafe5009bea3a212bd1250eac99c266ec4",
+    "url": "https://www.history.com/apps",
+    "title": "HISTORY App – iPhone, iPad & Android | HISTORY Channel",
+    "description": "Watch full episodes of your favorite History shows and History topic video anytime, anywhere on the ",
+    "text": "Don’t Miss Out on HISTORY news, behind the scenes content, and more."
+  },
+  {
+    "id": "3445fb102710c7a18d14e1288474223c453d17af",
+    "url": "https://www.history.com/250",
+    "title": "History Honors 250 | The HISTORY Channel | HISTORY Channel",
+    "description": "Join us on a journey through 250 years of progress and major achievements that shaped the nation.",
+    "text": "Celebrating 250 years of America’s history, we reflect on its journey from independence in 1776 to g"
+  },
+  {
+    "id": "8279850efc7ff1301a69067fbad9f20f80f78a5e",
+    "url": "https://www.history.com/schedule",
+    "title": "HISTORY TV Schedule | HISTORY Channel",
+    "description": "Check the HISTORY Channel show schedule and find out when your favorite shows are airing. Find cast ",
+    "text": "Chance and Soraya slaughter a ram to provide meat for their growing family and Lauro begins preparat"
+  },
+  {
+    "id": "0719ee33d5710970c6ca0446bf025c4dd4959bbe",
+    "url": "https://www.history.com/search",
+    "title": "Search | HISTORY",
+    "description": "Search for articles, videos and shows on HISTORY.com.",
+    "text": "U.S. History\nAll the major chapters in the American story, from Indigenous beginnings to the present"
+  },
+  {
+    "id": "9d38eaef583a7af69804193bef054a3d59c1e5ca",
+    "url": "https://www.history.com/mkultra-operation-midnight-climax-cia-lsd-experiments",
+    "title": "The CIA's Appalling Human Experiments With Mind Control | HISTORY Channel",
+    "description": "The CIA tried to fight communism by dosing unwitting soldiers and prisoners with acid.",
+    "text": "On April 10, 1953, Allen Dulles, the newly appointed director of the CIA, delivered a speech to a ga"
+  },
+  {
+    "id": "4d0169bcf198a6ff70982c6582bdce932ba4a606",
+    "url": "https://www.history.com/podcasts",
+    "title": "HISTORY Podcasts | HISTORY.com | HISTORY Channel",
+    "description": "There's more than one way to get your HISTORY. Listen to all of the HISTORY podcasts.",
+    "text": "Listen wherever you subscribe to podcasts\nThis week, something momentous happened. Whether or not it"
+  },
+  {
+    "id": "c5724558c66bd37cb133ec469fc5d48d45eef2a0",
+    "url": "https://www.history.com/ufo-sightings-location-map",
+    "title": "UFO Sightings Taken Seriously by the U.S. Government | HISTORY Channel",
+    "description": "Explore the fascinating cases of the unknown in our interactive map.",
+    "text": "Mysterious lights. Sinister saucers. Alien abductions. Between 1947 and 1969, at the height of the C"
+  },
+  {
+    "id": "fd9fb24ea860e772f89d786443f954d37d190759",
+    "url": "https://www.history.com/profile/sign-in",
+    "title": "",
+    "description": "",
+    "text": "Already have a profile?\nContinue watching across devices\nEnjoy personalized recommendations\nSave ite"
   }
 ]
