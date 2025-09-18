@@ -28638,41 +28638,41 @@
     ]
   },
   "al-array.com": {
-    "lastAt": 1757874445570,
+    "lastAt": 1758223107750,
     "urls": []
   },
   "dhs.gov": {
-    "lastAt": 1757874451387,
+    "lastAt": 1758223112443,
     "urls": [
       "https://dhs.gov/"
     ]
   },
   "icloud.com.cn": {
-    "lastAt": 1757874459004,
+    "lastAt": 1758223119806,
     "urls": []
   },
   "semasio.net": {
-    "lastAt": 1757874462307,
+    "lastAt": 1758223123033,
     "urls": []
   },
   "ibb.co": {
-    "lastAt": 1757874465227,
+    "lastAt": 1758223124579,
     "urls": [
       "https://ibb.co/"
     ]
   },
   "tuyaeu.com": {
-    "lastAt": 1757874468603,
+    "lastAt": 1758223127920,
     "urls": []
   },
   "mystrikingly.com": {
-    "lastAt": 1757874470986,
+    "lastAt": 1758223128436,
     "urls": [
       "https://mystrikingly.com/"
     ]
   },
   "rarible.com": {
-    "lastAt": 1757874477015,
+    "lastAt": 1758223134417,
     "urls": [
       "https://rarible.com/",
       "https://rarible.com/explore/all/",
@@ -28682,21 +28682,28 @@
       "https://rarible.com/create/start/",
       "https://rarible.com/following/",
       "https://rarible.com/create/",
-      "https://rarible.com/create/start/ethereum/"
+      "https://rarible.com/create/start/ethereum/",
+      "https://rarible.com/create/flow/",
+      "https://rarible.com/create/erc-1155/",
+      "https://rarible.com/create/erc-721/",
+      "https://rarible.com/rari/",
+      "https://rarible.com/connect/",
+      "https://rarible.com/search/",
+      "https://rarible.com/settings/"
     ]
   },
   "ravm.tv": {
-    "lastAt": 1757874480442,
+    "lastAt": 1758223137451,
     "urls": []
   },
   "gallup.com": {
-    "lastAt": 1757874482512,
+    "lastAt": 1758223138672,
     "urls": [
       "https://gallup.com/"
     ]
   },
   "dynamicyield.com": {
-    "lastAt": 1757874486108,
+    "lastAt": 1758223143201,
     "urls": [
       "https://www.dynamicyield.com/blog/partnership/",
       "https://dynamicyield.com/",
@@ -28707,27 +28714,37 @@
       "https://www.dynamicyield.com/blog/bvp-cloudscape/",
       "https://www.dynamicyield.com/blog/dynamic-yield-announces-global-suite-of-solutions-partners/",
       "https://www.dynamicyield.com/blog/playtech-partnership/",
-      "https://www.dynamicyield.com/blog/controlled-test-versioning/"
+      "https://www.dynamicyield.com/blog/controlled-test-versioning/",
+      "https://www.dynamicyield.com/blog/sephora/",
+      "https://www.dynamicyield.com/blog/adbirds-dynamic-yield-global-partnership/",
+      "https://www.dynamicyield.com/blog/landing_page_builder_pr/",
+      "https://www.dynamicyield.com/blog/two-factor-authentication/",
+      "https://www.dynamicyield.com/blog/dynamic-yield-joins-shopify-plus-technology-partner-program/",
+      "https://www.dynamicyield.com/blog/personalization-template-library/",
+      "https://www.dynamicyield.com/blog/gartner-mq-for-personalization-engines/",
+      "https://www.dynamicyield.com/blog/analytics-insights-top-machine-learning-company/",
+      "https://www.dynamicyield.com/blog/dynamic-yield-ai-100-cb-insights/",
+      "https://www.dynamicyield.com/blog/mckinsey-partnership/"
     ]
   },
   "mastercard.com": {
-    "lastAt": 1757874490359,
+    "lastAt": 1758223147243,
     "urls": []
   },
   "afrinic.net": {
-    "lastAt": 1757874495135,
+    "lastAt": 1758223150450,
     "urls": [
       "https://afrinic.net/"
     ]
   },
   "instructables.com": {
-    "lastAt": 1757874497225,
+    "lastAt": 1758223151977,
     "urls": [
       "https://instructables.com/"
     ]
   },
   "scmp.com": {
-    "lastAt": 1757874503708,
+    "lastAt": 1758223157916,
     "urls": [
       "https://www.scmp.com/business/china-business/article/3325515/uks-sainsburys-ends-talks-sell-argos-chinas-jdcom",
       "https://www.scmp.com/news/hong-kong/society/article/3325511/hong-kong-motorcyclist-27-killed-accident-involving-2-double-decker-buses",
@@ -28738,11 +28755,21 @@
       "https://www.scmp.com/sport/china/article/3325508/wang-regains-world-table-tennis-top-spot-macau-tells-china-fans-dont-count-us-out",
       "https://www.scmp.com/news/china/science/article/3325470/or-out-death-bright-young-scientists-highlights-chinas-ruthless-academic-system",
       "https://www.scmp.com/opinion/article/3325506/yes-china-and-russia-really-did-win-wwii-allies-britain-and-america",
-      "https://scmp.com/"
+      "https://scmp.com/",
+      "https://www.scmp.com/business/article/3326048/nvidia-bets-big-intel-us5-billion-stake-chip-partnership",
+      "https://www.scmp.com/sport/rugby/international-rugby/article/3326037/new-global-womens-rugby-series-adds-100-matches-calendar-hong-kong-second-tier",
+      "https://www.scmp.com/news/world/europe/article/3326044/trump-claims-he-does-not-know-sacked-british-ambassador-us-peter-mandelson",
+      "https://www.scmp.com/news/world/united-states-canada/article/3326046/trump-asks-us-supreme-court-allow-firing-fed-governor-lisa-cook",
+      "https://www.scmp.com/news/china/military/article/3326045/trump-says-us-moving-reclaim-key-afghan-air-base-links-it-china",
+      "https://www.scmp.com/news/hong-kong/health-environment/article/3326042/3-held-hong-kong-after-anti-ageing-shots-clinic-leave-2-women-seriously-ill",
+      "https://www.scmp.com/news/china/diplomacy/article/3326043/china-backs-venezuela-warns-us-against-bullying-after-second-deadly-sea-raid",
+      "https://www.scmp.com/news/hong-kong/health-environment/article/3326040/bitumen-found-water-supply-subsidised-estate-hong-kongs-ma-shan",
+      "https://www.scmp.com/news/world/united-states-canada/article/3326041/us-man-dies-after-riding-roller-coaster-new-florida-theme-park",
+      "https://www.scmp.com/economy/global-economy/article/3326006/no-orders-china-us-soybean-farmers-desperate-trade-deal-walk-tightrope"
     ]
   },
   "slashdot.org": {
-    "lastAt": 1757874507194,
+    "lastAt": 1758223187531,
     "urls": [
       "https://slashdot.org/",
       "https://slashdot.org/story/25/09/12/2119247/microsoft-openai-reach-non-binding-deal-to-allow-openai-to-restructure",
@@ -28753,11 +28780,21 @@
       "https://slashdot.org/story/98/01/01/012000/become-007-on-the-internet",
       "https://slashdot.org/story/98/01/01/074400/is-unix-stable",
       "https://slashdot.org/story/98/01/03/051300/microsoft-investing-1billion-in-tci",
-      "https://slashdot.org/story/98/01/03/085200/linux-2177"
+      "https://slashdot.org/story/98/01/03/085200/linux-2177",
+      "https://slashdot.org/story/25/09/17/1836233/ais-ability-to-displace-jobs-is-advancing-quickly-anthropic-ceo-says",
+      "https://slashdot.org/story/25/09/16/1959230/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide",
+      "https://slashdot.org/story/25/09/17/1527231/business-insider-reportedly-tells-journalists-they-can-use-ai-to-draft-stories",
+      "https://slashdot.org/story/25/09/17/1724241/openai-says-models-programmed-to-make-stuff-up-instead-of-admitting-ignorance",
+      "https://slashdot.org/story/25/09/17/1923220/gemini-ai-solves-coding-problem-that-stumped-139-human-teams-at-icpc-world-finals",
+      "https://slashdot.org/story/25/09/17/1948210/chimps-drinking-a-lager-a-day-in-ripe-fruit-study-finds",
+      "https://slashdot.org/story/25/09/17/2123211/deepseek-writes-less-secure-code-for-groups-china-disfavors",
+      "https://slashdot.org/story/25/09/18/1315238/chinas-deepseek-says-its-hit-ai-model-cost-just-294000-to-train",
+      "https://slashdot.org/story/25/09/17/2151212/limewire-acquires-fyre-festival-brand",
+      "https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel"
     ]
   },
   "starmakerstudios.com": {
-    "lastAt": 1757874515713,
+    "lastAt": 1758223197323,
     "urls": [
       "https://www.starmakerstudios.com/bn-IN/singer/xxxtentacion-songs/587236",
       "https://www.starmakerstudios.com/bn-IN/singer/%EC%86%A1%EC%A4%91%EA%B8%B0-songs/569081",
@@ -28768,19 +28805,29 @@
       "https://www.starmakerstudios.com/bn-IN/singer/kang-songs/1061086",
       "https://www.starmakerstudios.com/bn-IN/singer/arijit-singh-songs/1559587",
       "https://www.starmakerstudios.com/bn-IN/singer/bd-songs/1062514",
-      "https://www.starmakerstudios.com/bn-IN/singer/naked-songs/270349"
+      "https://www.starmakerstudios.com/bn-IN/singer/naked-songs/270349",
+      "https://www.starmakerstudios.com/bn-IN/singer/atif-aslam-songs/578464",
+      "https://www.starmakerstudios.com/bn-IN/singer/sunny-leone-songs/1113035",
+      "https://www.starmakerstudios.com/bn-IN/singer/djoan-songs/2524794",
+      "https://www.starmakerstudios.com/bn-IN/singer/brando-songs/101570",
+      "https://www.starmakerstudios.com/bn-IN/singer/dipannita-songs/2200940",
+      "https://www.starmakerstudios.com/bn-IN/singer/son-tenetacion-songs/1024898",
+      "https://www.starmakerstudios.com/bn-IN/singer/ha-yoon-songs/1359954",
+      "https://www.starmakerstudios.com/bn-IN/singer/s-janaki-songs/558464",
+      "https://www.starmakerstudios.com/bn-IN/singer/beforu-songs/779232",
+      "https://www.starmakerstudios.com/bn-IN/singer/rim-jae-moon-songs/4221915"
     ]
   },
   "rackcdn.com": {
-    "lastAt": 1757874518783,
+    "lastAt": 1758223200304,
     "urls": []
   },
   "volces.com": {
-    "lastAt": 1757874522332,
+    "lastAt": 1758223204158,
     "urls": []
   },
   "prezi.com": {
-    "lastAt": 1757874525653,
+    "lastAt": 1758223206758,
     "urls": [
       "https://prezi.com/",
       "https://prezi.com/l/wall-street-presentation-template/",
@@ -28791,15 +28838,25 @@
       "https://prezi.com/l/technical-conference-presentation-template/",
       "https://prezi.com/l/startup-product-presentation-template/",
       "https://prezi.com/l/stock-pitch-presentation-template/",
-      "https://prezi.com/l/startup-funding-presentation-template/"
+      "https://prezi.com/l/startup-funding-presentation-template/",
+      "https://prezi.com/l/sales-strategy-presentation-template/",
+      "https://prezi.com/l/rosh-emergency-medicine-presentation-template/",
+      "https://prezi.com/l/social-network-presentation-template/",
+      "https://prezi.com/l/return-on-investment-presentation-template/",
+      "https://prezi.com/l/sales-presentation-template-for-medical-coding/",
+      "https://prezi.com/l/recommendation-presentation-template/",
+      "https://prezi.com/l/projection-presentation-template/",
+      "https://prezi.com/l/project-status-report-presentation-template/",
+      "https://prezi.com/l/project-timeline-presentation-template/",
+      "https://prezi.com/l/template-for-presentation-on-social-networking/"
     ]
   },
   "keydisk.ru": {
-    "lastAt": 1757874532799,
+    "lastAt": 1758223213054,
     "urls": []
   },
   "howstuffworks.com": {
-    "lastAt": 1757874536637,
+    "lastAt": 1758223216697,
     "urls": [
       "https://science.howstuffworks.com/tonnes-vs-tons.htm",
       "https://science.howstuffworks.com/math-concepts/types-of-data.htm",
@@ -28810,19 +28867,29 @@
       "https://science.howstuffworks.com/life/cellular-microscopic/in-vivo-vs-in-vitro.htm",
       "https://science.howstuffworks.com/environmental/least-visited-country-in-the-world.htm",
       "https://science.howstuffworks.com/environmental/earth/what-state-has-the-most-mountains.htm",
-      "https://science.howstuffworks.com/environmental/green-tech/sustainable/most-futuristic-cities.htm"
+      "https://science.howstuffworks.com/environmental/green-tech/sustainable/most-futuristic-cities.htm",
+      "https://science.howstuffworks.com/weird-facts.htm",
+      "https://science.howstuffworks.com/nature/natural-disasters/where-are-tornadoes-most-common.htm",
+      "https://science.howstuffworks.com/nature/natural-disasters/states-with-the-most-tornadoes.htm",
+      "https://science.howstuffworks.com/environmental/earth/most-dangerous-mountain-to-climb.htm",
+      "https://science.howstuffworks.com/most-expensive-liquid.htm",
+      "https://science.howstuffworks.com/environmental/earth/geology/types-of-gemstones.htm",
+      "https://science.howstuffworks.com/environmental/earth/what-country-has-the-most-islands.htm",
+      "https://science.howstuffworks.com/environmental/earth/geology/brown-gemstones.htm",
+      "https://science.howstuffworks.com/nature/natural-disasters/most-dangerous-volcano-in-the-world.htm",
+      "https://science.howstuffworks.com/nature/climate-weather/best-weather-in-the-world.htm"
     ]
   },
   "java.com": {
-    "lastAt": 1757874540449,
+    "lastAt": 1758223219820,
     "urls": []
   },
   "tranplanet.com": {
-    "lastAt": 1757874543835,
+    "lastAt": 1758223222972,
     "urls": []
   },
   "audible.com": {
-    "lastAt": 1757874548676,
+    "lastAt": 1758223227606,
     "urls": [
       "https://www.audible.com/pd/De-fordomtes-legion-Audiobook/B01GODA7DQ",
       "https://audible.com/",
@@ -28833,15 +28900,25 @@
       "https://www.audible.com/pd/Never-Forget-Us-Audiobook/B07HCX4GGG",
       "https://www.audible.com/es_US/podcast/Ep-4-Deborah-Frances-White-Susan-Wokoma/B08XDSL6RG",
       "https://www.audible.com/podcast/Ep-4-Deborah-Frances-White-Susan-Wokoma/B08XDSL6RG",
-      "https://www.audible.com/es_US/pd/The-Frighteners-Audiolibro/B07B1H818Y"
+      "https://www.audible.com/es_US/pd/The-Frighteners-Audiolibro/B07B1H818Y",
+      "https://www.audible.com/pd/The-Frighteners-Audiobook/B07B1H818Y",
+      "https://www.audible.com/pd/Your-Mind-Is-a-Liar-Audiobook/B01N4ALLI8",
+      "https://www.audible.com/es_US/pd/Your-Mind-Is-a-Liar-Audiolibro/B01N4ALLI8",
+      "https://www.audible.com/es_US/pd/First-Strike-Audiolibro/B00S5ABH4K",
+      "https://www.audible.com/pd/First-Strike-Audiobook/B00S5ABH4K",
+      "https://www.audible.com/es_US/pd/A-Short-History-of-Man-Audiolibro/B01F49RTIM",
+      "https://www.audible.com/pd/A-Short-History-of-Man-Audiobook/B01F49RTIM",
+      "https://www.audible.com/es_US/pd/Arabella-Audiolibro/1473586224",
+      "https://www.audible.com/pd/Arabella-Audiobook/1473586224",
+      "https://www.audible.com/es_US/pd/Twisted-Audiolibro/B01I4657H2"
     ]
   },
   "qpic.cn": {
-    "lastAt": 1757874607488,
+    "lastAt": 1758223286418,
     "urls": []
   },
   "elastic.co": {
-    "lastAt": 1757874621013,
+    "lastAt": 1758223298044,
     "urls": [
       "https://www.elastic.co/about/our-source-code",
       "https://www.elastic.co/kibana/features",
@@ -28852,23 +28929,43 @@
       "https://www.elastic.co/videos",
       "https://www.elastic.co/support/matrix",
       "https://www.elastic.co/customers",
-      "https://www.elastic.co/blog"
+      "https://www.elastic.co/blog",
+      "https://www.elastic.co/blog/category/culture",
+      "https://www.elastic.co/blog/category/stack-cloud",
+      "https://www.elastic.co/blog/category/technical-topics",
+      "https://www.elastic.co/blog/category/company-news",
+      "https://www.elastic.co/blog/category/generative-ai",
+      "https://www.elastic.co/blog/category/releases",
+      "https://www.elastic.co/about/leadership",
+      "https://www.elastic.co/blog/category/customers",
+      "https://www.elastic.co/about/board",
+      "https://www.elastic.co/blog/category/solutions"
     ]
   },
   "vogue.com": {
-    "lastAt": 1757874631449,
+    "lastAt": 1758223315405,
     "urls": [
       "https://vogue.com/"
     ]
   },
   "hoster.kz": {
-    "lastAt": 1757874635725,
+    "lastAt": 1758223321508,
     "urls": [
-      "https://hoster.kz/"
+      "https://hoster.kz/",
+      "https://hoster.kz/about/",
+      "https://hoster.kz/contacts/",
+      "https://hoster.kz/forpartners/",
+      "https://hoster.kz/hosting/",
+      "https://hoster.kz/cloud/",
+      "https://hoster.kz/oferta/",
+      "https://hoster.kz/policy/",
+      "https://hoster.kz/domains/",
+      "https://hoster.kz/registration/",
+      "https://hoster.kz/servers/"
     ]
   },
   "bbtec.net": {
-    "lastAt": 1757874694536,
+    "lastAt": 1758223380320,
     "urls": []
   },
   "huntress.io": {
