@@ -25307,7 +25307,7 @@
     "urls": []
   },
   "sap.com": {
-    "lastAt": 1757841594185,
+    "lastAt": 1758191016112,
     "urls": [
       "https://www.sap.com/france/documents/2024/01/ac1064a3-a37e-0010-bca6-c68f7e60039b.html",
       "https://www.sap.com/france/documents/2024/01/baaabb3a-ad7e-0010-bca6-c68f7e60039b.html",
@@ -25318,11 +25318,21 @@
       "https://www.sap.com/france/documents/2024/01/98697737-ad7e-0010-bca6-c68f7e60039b.html",
       "https://www.sap.com/france/documents/2024/01/0c0c021f-a27e-0010-bca6-c68f7e60039b.html",
       "https://www.sap.com/france/documents/2024/01/78696100-a77e-0010-bca6-c68f7e60039b.html",
-      "https://www.sap.com/france/documents/2024/06/a2dcd3bc-c17e-0010-bca6-c68f7e60039b.html"
+      "https://www.sap.com/france/documents/2024/06/a2dcd3bc-c17e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/2e834356-c27e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/6eb62bc5-c57e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/28b20bba-c27e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/62dbb488-c47e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/ccd376ba-c37e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/07/928351f2-c77e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/07/48b487a1-c97e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/07/4e947a61-c77e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/07/ae6561ff-ca7e-0010-bca6-c68f7e60039b.html",
+      "https://www.sap.com/france/documents/2024/06/c828971e-c17e-0010-bca6-c68f7e60039b.html"
     ]
   },
   "thawte.com": {
-    "lastAt": 1757841603722,
+    "lastAt": 1758191037263,
     "urls": [
       "https://www.thawte.com/",
       "https://www.thawte.com/tls-ssl/tls-ssl-certificates",
@@ -25333,35 +25343,42 @@
       "https://www.thawte.com/tls-ssl/compare-certificates",
       "https://www.thawte.com/tls-ssl/web-server-ssl-certificates",
       "https://www.thawte.com/tls-ssl-certificates/private-services-server",
-      "https://www.thawte.com/tls-ssl/compare-multi-domain-certificates"
+      "https://www.thawte.com/tls-ssl/compare-multi-domain-certificates",
+      "https://www.thawte.com/tls-ssl-certificates/eu-qualified-web-authentication-qwac",
+      "https://www.thawte.com/tls-ssl-certificates/compare-psd2-qwacs",
+      "https://www.thawte.com/tls-ssl-certificates/eu-document-signing",
+      "https://www.thawte.com/tls-ssl-certificates/compare-pkio-document-signing",
+      "https://www.thawte.com/tls-ssl-certificates/compare-professional-signing-certificates",
+      "https://www.thawte.com/tls-ssl-certificates/compare-eu-document-signing",
+      "https://www.thawte.com/tls-ssl-certificates/compare-psd2-qsealc"
     ]
   },
   "example.org": {
-    "lastAt": 1757841605373,
+    "lastAt": 1758191038237,
     "urls": [
       "https://example.org/"
     ]
   },
   "comcor-tv.ru": {
-    "lastAt": 1757841610321,
+    "lastAt": 1758191043474,
     "urls": []
   },
   "liftoff-creatives.io": {
-    "lastAt": 1757841613599,
+    "lastAt": 1758191046902,
     "urls": []
   },
   "ingage.tech": {
-    "lastAt": 1757841682410,
+    "lastAt": 1758191115711,
     "urls": []
   },
   "huggingface.co": {
-    "lastAt": 1757841683860,
+    "lastAt": 1758191116708,
     "urls": [
       "https://huggingface.co/"
     ]
   },
   "iterable.com": {
-    "lastAt": 1757841688470,
+    "lastAt": 1758191121393,
     "urls": [
       "https://iterable.com/",
       "https://iterable.com/partners/technology/amazon-web-services-aws",
@@ -25372,11 +25389,21 @@
       "https://iterable.com/partners/technology/crowdskout",
       "https://iterable.com/partners/technology/branch",
       "https://iterable.com/partners/technology/faraday",
-      "https://iterable.com/partners/technology/digioh"
+      "https://iterable.com/partners/technology/digioh",
+      "https://iterable.com/partners/technology/inkit",
+      "https://iterable.com/partners/technology/foursquare",
+      "https://iterable.com/partners/technology/fivetran",
+      "https://iterable.com/partners/technology/google-analytics",
+      "https://iterable.com/partners/technology/instapage",
+      "https://iterable.com/partners/technology/kickbox",
+      "https://iterable.com/partners/technology/iterate",
+      "https://iterable.com/partners/technology/kickdynamic",
+      "https://iterable.com/partners/technology/kochava",
+      "https://iterable.com/partners/technology/leadsbridge"
     ]
   },
   "admatic.de": {
-    "lastAt": 1757841695642,
+    "lastAt": 1758191127720,
     "urls": [
       "https://admatic.de/2025/01/03/boost-revenue-and-engagement-with-interstitial-and-scroll-ads/",
       "https://admatic.de/2025/01/02/maximize-your-revenue-with-prebid-header-bidding-a-guide-for-publishers/",
@@ -25387,11 +25414,21 @@
       "https://admatic.de/privacy-policy/",
       "https://admatic.de/imprint/",
       "https://admatic.de/contact/",
-      "https://admatic.de/blog/"
+      "https://admatic.de/blog/",
+      "https://admatic.de/about-us/",
+      "https://admatic.de/materials/",
+      "https://admatic.de/publishers/",
+      "https://admatic.de/technology/",
+      "https://admatic.de/advertisers/",
+      "https://admatic.de/category/general/",
+      "https://admatic.de/tag/prebid/",
+      "https://admatic.de/dmexco-2025-booking/",
+      "https://admatic.de/tag/header-bidding/",
+      "https://admatic.de/tag/interstitial/"
     ]
   },
   "splashtop.com": {
-    "lastAt": 1757841794964,
+    "lastAt": 1758191221962,
     "urls": [
       "https://www.splashtop.com/add-ons/endpoint-management",
       "https://www.splashtop.com/products",
@@ -25402,17 +25439,27 @@
       "https://www.splashtop.com/compare/logmein-rescue-alternative",
       "https://www.splashtop.com/compare/gotomypc-alternative",
       "https://www.splashtop.com/compare/anydesk-alternative/commercial-use-detected",
-      "https://www.splashtop.com/solutions/nonprofit"
+      "https://www.splashtop.com/solutions/nonprofit",
+      "https://www.splashtop.com/streamer",
+      "https://www.splashtop.com/solutions/msp",
+      "https://www.splashtop.com/products/remote-access",
+      "https://www.splashtop.com/add-ons/augmented-reality",
+      "https://www.splashtop.com/referral",
+      "https://www.splashtop.com/compare/anydesk-alternative",
+      "https://www.splashtop.com/check",
+      "https://www.splashtop.com/solutions/remote-work",
+      "https://www.splashtop.com/legal/corporate-customer-data-processing-agreement",
+      "https://www.splashtop.com/downloads/business"
     ]
   },
   "sec.gov": {
-    "lastAt": 1757841806265,
+    "lastAt": 1758191232940,
     "urls": [
       "https://sec.gov/"
     ]
   },
   "samba.tv": {
-    "lastAt": 1757841808947,
+    "lastAt": 1758191234678,
     "urls": [
       "https://www.samba.tv/",
       "https://samba.tv/",
@@ -25423,11 +25470,21 @@
       "https://www.samba.tv/business/lp/agency-contact",
       "https://www.samba.tv/business/resources/all",
       "https://www.samba.tv/applicant-privacy-notice",
-      "https://www.samba.tv/app-ads-txt"
+      "https://www.samba.tv/app-ads-txt",
+      "https://www.samba.tv/business/events/au-happy-holidays-2024",
+      "https://www.samba.tv/business/lp/brand-contact",
+      "https://www.samba.tv/business/brands",
+      "https://www.samba.tv/business/resources/blog",
+      "https://www.samba.tv/business/audience",
+      "https://www.samba.tv/business",
+      "https://www.samba.tv/business/events/cannes-2025",
+      "https://www.samba.tv/careers",
+      "https://www.samba.tv/business/resources/case-studies",
+      "https://www.samba.tv/business/events/ces-2025"
     ]
   },
   "wshareit.com": {
-    "lastAt": 1757841813284,
+    "lastAt": 1758191239660,
     "urls": [
       "https://wshareit.com/",
       "https://www.ushareit.com/news/90/",
@@ -25438,17 +25495,27 @@
       "https://www.ushareit.com/news/97/",
       "https://www.ushareit.com/m/news/90/",
       "https://www.ushareit.com/news/79/",
-      "https://www.ushareit.com/m/news/97/"
+      "https://www.ushareit.com/m/news/97/",
+      "https://www.ushareit.com/news/98/",
+      "https://www.ushareit.com/news/99/",
+      "https://www.ushareit.com/m/news/98/",
+      "https://www.ushareit.com/m/news/99/",
+      "https://www.ushareit.com/news/100/",
+      "https://www.ushareit.com/news/96/",
+      "https://www.ushareit.com/m/news/79/",
+      "https://www.ushareit.com/m/news/100/",
+      "https://www.ushareit.com/m/news/96/",
+      "https://www.ushareit.com/news/93/"
     ]
   },
   "hbomax.com": {
-    "lastAt": 1757841815217,
+    "lastAt": 1758191241077,
     "urls": [
       "https://hbomax.com/"
     ]
   },
   "bigcartel.com": {
-    "lastAt": 1757841817687,
+    "lastAt": 1758191243587,
     "urls": [
       "https://www.bigcartel.com/resources/help/article/stripe-terminal-for-android",
       "https://bigcartel.com/",
@@ -25459,11 +25526,21 @@
       "https://www.bigcartel.com/start-free",
       "https://www.bigcartel.com/resources/help/article/manage-product-categories",
       "https://www.bigcartel.com/resources/help/article/poptin",
-      "https://www.bigcartel.com/resources/help/article/picklejuice-theme"
+      "https://www.bigcartel.com/resources/help/article/picklejuice-theme",
+      "https://www.bigcartel.com/resources/blog/article/how-to-write-product-descriptions",
+      "https://www.bigcartel.com/resources/help/article/reorder-product-list",
+      "https://www.bigcartel.com/resources/help/article/copy-a-product",
+      "https://www.bigcartel.com/resources/help/article/sunscreen-theme",
+      "https://www.bigcartel.com/resources/help/article/add-a-product",
+      "https://www.bigcartel.com/resources/help/article/paypals-advanced-credit-and-debit-card-payments",
+      "https://www.bigcartel.com/resources/help/article/create-refund-policy",
+      "https://www.bigcartel.com/resources/help/article/stripe-terminal",
+      "https://www.bigcartel.com/resources/help/article/trace-theme",
+      "https://www.bigcartel.com/resources/help/article/turn-on-maintenance-mode"
     ]
   },
   "broadcom.com": {
-    "lastAt": 1757841821330,
+    "lastAt": 1758191246107,
     "urls": [
       "https://www.broadcom.com/products/ethernet-connectivity/phy-and-poe/optical/bcm83820",
       "https://broadcom.com/",
@@ -25474,69 +25551,79 @@
       "https://www.broadcom.com/products/optocouplers/reference-designs/sic-mosfet/onsemi-halfbridge-f2-module-evaluation-board",
       "https://www.broadcom.com/products/fiber-optic-modules-components/components-broadband/short-reach-gaas-die/lasers/afcd-v82lu",
       "https://www.broadcom.com/products/optocouplers/industrial-plastic/isolation-amplifiers-modulators/isolation-amplifiers/acnt-h79bc-000e",
-      "https://www.broadcom.com/products/optocouplers/industrial-plastic/isolation-amplifiers-modulators/isolation-amplifiers/acpl-c87bu"
+      "https://www.broadcom.com/products/optocouplers/industrial-plastic/isolation-amplifiers-modulators/isolation-amplifiers/acpl-c87bu",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfb2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfc2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfd2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfa2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfe2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndff2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfg2",
+      "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/dfn/2835-0.1w-white/asmw-fwg8-ndfh2",
+      "https://www.broadcom.com/products/optocouplers/reference-designs/gan-transistor/transphorm-tp65h035g4qs-half-bridge-evaluation-board",
+      "https://www.broadcom.com/products/leds-and-displays/infrared-leds/chipled/hsm9-c360"
     ]
   },
   "163img.com": {
-    "lastAt": 1757841880141,
+    "lastAt": 1758191304919,
     "urls": []
   },
   "foggymorningmist.com": {
-    "lastAt": 1757841883898,
+    "lastAt": 1758191308431,
     "urls": []
   },
   "arcticwolf.net": {
-    "lastAt": 1757841887440,
+    "lastAt": 1758191311885,
     "urls": []
   },
   "geoedge.be": {
-    "lastAt": 1757841890592,
+    "lastAt": 1758191314945,
     "urls": []
   },
   "emptyfieldgrassm.com": {
-    "lastAt": 1757841894220,
+    "lastAt": 1758191318366,
     "urls": []
   },
   "nyu.edu": {
-    "lastAt": 1757841898062,
+    "lastAt": 1758191321437,
     "urls": []
   },
   "ogury.io": {
-    "lastAt": 1757841902298,
+    "lastAt": 1758191324979,
     "urls": []
   },
   "aboutcookies.org": {
-    "lastAt": 1757841905272,
+    "lastAt": 1758191326667,
     "urls": [
       "https://aboutcookies.org/"
     ]
   },
   "spectrum.com": {
-    "lastAt": 1757841972078,
+    "lastAt": 1758191393474,
     "urls": []
   },
   "rtbcdn.ru": {
-    "lastAt": 1757841976316,
+    "lastAt": 1758191397614,
     "urls": []
   },
   "mosspf.net": {
-    "lastAt": 1757841979350,
+    "lastAt": 1758191400895,
     "urls": []
   },
   "websitewelcome.com": {
-    "lastAt": 1757841980841,
+    "lastAt": 1758191401925,
     "urls": [
       "https://websitewelcome.com/"
     ]
   },
   "ssrn.com": {
-    "lastAt": 1757841986399,
+    "lastAt": 1758191405167,
     "urls": [
       "https://ssrn.com/"
     ]
   },
   "myhostadmin.net": {
-    "lastAt": 1757841989371,
+    "lastAt": 1758191407960,
     "urls": [
       "https://myhostadmin.net/"
     ]
