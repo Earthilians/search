@@ -113629,5 +113629,782 @@
     "title": "Bundesportal | Wohnen und Umzug",
     "description": "",
     "text": "Egal ob Sie zur Miete wohnen, eine Wohnung oder ein eigenes Haus besitzen\n               oder einen "
+  },
+  {
+    "id": "30b2ec7b4b8f5b312b3f4a25c48068a8cb9ee675",
+    "url": "https://www.waze.com/contact",
+    "title": "Driving Directions & Traffic Reports by Waze",
+    "description": "Get driving directions, a live traffic map & road alerts. Download the GPS traffic app, powered by c",
+    "text": "Contact us\nWaze Ads\nNeed help?\nBrand Permissions\nLooking to use the Waze brand or logo?\nWaze for Cit"
+  },
+  {
+    "id": "b2a0a58bff800bde5371b4cbc248001b3525fb77",
+    "url": "https://www.waze.com/about",
+    "title": "Driving Directions & Traffic Reports by Waze",
+    "description": "Get driving directions, a live traffic map &amp; road alerts. Download the GPS traffic app, powered ",
+    "text": "About us\nWe knew there was a way to make traffic suck less\nIn 2009, we created a crowd-sourced navig"
+  },
+  {
+    "id": "5c8527f3c94aa6786b6df67163ca6fe9d20c0f07",
+    "url": "https://www.waze.com/communities",
+    "title": "Driving Directions & Traffic Reports by Waze",
+    "description": "Get driving directions, a live traffic map &amp; road alerts. Download the GPS traffic app, powered ",
+    "text": "Waze Communities\nHelping each other at every turn\nThe magic of Waze has always been the people behin"
+  },
+  {
+    "id": "1a85024c5788b0e8a9a99cafcb658b931c88e816",
+    "url": "https://www.waze.com/events",
+    "title": "Waze Major Traffic Events",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c6ca3c2c6ab4144a437bbe8c70423bbcf0baf6e8",
+    "url": "https://www.waze.com/discuss/",
+    "title": "Waze Discuss",
+    "description": "",
+    "text": "Powered by Discourse, best viewed with JavaScript enabled"
+  },
+  {
+    "id": "80ea986d46f6210e6147a9b2c3e5e3061b4ce4db",
+    "url": "https://www.waze.com/editor",
+    "title": "Waze Map Editor",
+    "description": "Join the community of map editors to update Waze’s live map around your home, work and anywhere you ",
+    "text": ""
+  },
+  {
+    "id": "73e3bed348874665777595957ca243de93e68e1b",
+    "url": "https://www.waze.com/livemap",
+    "title": "Driving directions, live traffic & road conditions updates - Waze",
+    "description": "Realtime driving directions based on live traffic updates from Waze - Get the best route to your des",
+    "text": ""
+  },
+  {
+    "id": "2b884d5206c8bdd08a21dc9cf64cdfef9ef6fa92",
+    "url": "https://www.waze.com/ccp/",
+    "title": "Waze for Cities: Real-Time Traffic Data for Smarter Urban Planning",
+    "description": "Partner with Waze for real-time traffic data, improving road safety, reducing congestion, and empowe",
+    "text": "Waze for Cities\nYour megaphone to hundreds of millions of Waze and Google Maps drivers\nNew!\nUnlock a"
+  },
+  {
+    "id": "7e9f55d71b458e021445b2a0ec82892cac50dfc8",
+    "url": "https://www.waze.com/wazeforcities/casestudies/how-waze-improves-traffic-management-and-safety/",
+    "title": "Navigating Challenges: How Waze Improves Traffic Management and Safety",
+    "description": "Waze is a GPS navigation app powered by community. Get driving directions, a live traffic map, & ale",
+    "text": "Rio de Janeiro, Brasil\nHow can a bustling metropolis with diverse geographical challenges effectivel"
+  },
+  {
+    "id": "ec84ad1a6bafac12473d9ffe52f36d1a96339380",
+    "url": "https://www.waze.com/wazeforcities/casestudies/how-haifa-leverages-waze-data-for-smart-intersections/",
+    "title": "Navigation and live traffic",
+    "description": "Waze is a GPS navigation app powered by community. Get driving directions, a live traffic map, & ale",
+    "text": "Haifa, Isreal\nHow can a city effectively tackle persistent traffic congestion at critical intersecti"
+  },
+  {
+    "id": "528a8695f3ca28e36e8b0b9b1c790d7018d883e2",
+    "url": "https://www.sectigo.com/partners/channel",
+    "title": "Channel Partner Program | Sectigo® Official",
+    "description": "Channel Partner Program",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "de002602c76c656854e659ff0173ca8716f82752",
+    "url": "https://www.sectigo.com/ssl247",
+    "title": "SSL247 Is Now Sectigo | Buy SSL247 Certificates | Sectigo® Official",
+    "description": "Buy SSL247 certificates from the official SSL247 store powered by Sectigo. Our affordable SSL247 pro",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "829c45250fcd7311d2dfcc585a317a2e7049d8f8",
+    "url": "https://www.sectigo.com/partners/channel/api",
+    "title": "Sectigo API documentation | Sectigo® Official",
+    "description": "Leading provider of SSL/TLS certificates, automated certificate management and website security solu",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "1eda856e86a077cad71ccc61eb3a1703e3623fb5",
+    "url": "https://www.sectigo.com/partners/channel/brand-product-assets",
+    "title": "Sectigo's brand and product assets | Sectigo® Official",
+    "description": "Leading provider of SSL/TLS certificates, automated certificate management and website security solu",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "d982f1a2e2d43f7cff92a7bfa89bfff0ebb79416",
+    "url": "https://www.sectigo.com/partners/ssl-plus-sitelock-free-bundle",
+    "title": "Sectigo + SiteLock | Sectigo® Official",
+    "description": "Leading provider of SSL/TLS certificates, automated certificate management and website security solu",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "6f9bd2f589e87be009cdd4bf73b48d89f89a0f15",
+    "url": "https://www.sectigo.com/partners/certificate-as-a-service-for-partners",
+    "title": "Sectigo Certificate as a Service (CaaS) for Partners | Sectigo® Official",
+    "description": "Future-proof your certificate strategy with Sectigo CaaS subscription model, pay per domain, issue w",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "46139c1b60f3e817929b8aaa45724a7bc71cc7bf",
+    "url": "https://www.sectigo.com/about",
+    "title": "Learn About Our PKI And Digital Certificate Company | Sectigo® Official",
+    "description": "Learn about our PKI and digital certificate company. We are the leader in digital certificates and a",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "dd169cea912baf23090299929d09e780c2951246",
+    "url": "https://www.sectigo.com/about/leadership",
+    "title": "Leadership | Sectigo® Official",
+    "description": "The Sectigo team includes senior leaders from Comodo, VeriSign, Symantec, Entrust, and DigiCert who ",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "1620dcc8193d4d156ab510b79b21676eb14aee98",
+    "url": "https://www.sectigo.com/support",
+    "title": "Support | Sectigo® Official",
+    "description": "Leading provider of SSL/TLS certificates, automated certificate management and website security solu",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "60b592b358c6b16f48627fc1f352a1c9a0a4f8a8",
+    "url": "https://www.sectigo.com/support/report-abuse",
+    "title": "How to Report Abuse | Sectigo® Official",
+    "description": "Sectigo is a leading Certification Authority that helps enterprises and consumers address digital ec",
+    "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "aca2121c605bc3be278195cd70e25016bf602fb5",
+    "url": "https://www.hcaptcha.com/about",
+    "title": "hCaptcha - About Us",
+    "description": "Do you use a captcha to keep out bots? hCaptcha is a drop-in replacement for reCAPTCHA that earns we",
+    "text": "Our systems are thus designed from the ground up to minimize data collection and retention while mai"
+  },
+  {
+    "id": "26c2b3409dfbbf01a90ec6a62b983e51cded4735",
+    "url": "https://www.hcaptcha.com/privacy-pass",
+    "title": "Privacy Pass",
+    "description": "hCaptcha supports the Privacy Pass protocol, an emerging standard for privacy-preserving security ch",
+    "text": "Last updated: October 13, 2023\nPrivacy Pass is an emerging standard for preserving user privacy that"
+  },
+  {
+    "id": "12a988f28b47ab5c6721d129e7aba4b87791ce4f",
+    "url": "https://www.hcaptcha.com/labeling",
+    "title": "hCaptcha - Data Labeling",
+    "description": "hCaptcha provides a robust data labeling solution for machine learning companies. hCaptcha can provi",
+    "text": "The HUMAN platform behind hCaptcha provides highly sophisticated work quality and management feature"
+  },
+  {
+    "id": "c41fda2e4be665fc2c3812d80c821589a11f9bc0",
+    "url": "https://www.hcaptcha.com/trademarks",
+    "title": "hCaptcha Trademarks and Logo Policy",
+    "description": "hCaptcha Branding Guidelines and General Trademark License",
+    "text": "We have created these guidelines and general trademark license to make it as easy as possible for ou"
+  },
+  {
+    "id": "de4a62fd150ed2e8918f9eb272e7a31c2f54e119",
+    "url": "https://www.hcaptcha.com/ai-ethics",
+    "title": "AI Ethics",
+    "description": "hCaptcha has a strong AI Ethics policy. Learn more about how we evaluate potential questions running",
+    "text": "Virtually every technology, from pencils to dynamite, is a dual use solution; it can be used for goo"
+  },
+  {
+    "id": "b4f21c852c1c99bdf20925a1b396702b5be23568",
+    "url": "https://www.hcaptcha.com/press-inquiries",
+    "title": "Press Inquiries",
+    "description": "Instructions for contacting us if you are a representative of the press or other media.",
+    "text": "Some ready-made collateral is available in the event you would like to include example images in you"
+  },
+  {
+    "id": "4556228d4e83aa00e77bad3f44703e664a5937d3",
+    "url": "https://www.hcaptcha.com/certifications",
+    "title": "Security Certifications",
+    "description": "hCaptcha maintains many third-party certifications, including ISO 27001 and SOC 2 Type 2.",
+    "text": "hCaptcha has always been committed to security and privacy, and undergoes regular external audits to"
+  },
+  {
+    "id": "906a2dca3985a5be591c4b515cf9d24b90bd3caf",
+    "url": "https://www.hcaptcha.com/reporting-bugs",
+    "title": "Reporting Bugs or Security Issues",
+    "description": "Found an issue in the hCaptcha service? Here's how to report it.",
+    "text": "We do not care who users are, only how likely they are to be malicious or machines. We support initi"
+  },
+  {
+    "id": "01e3b6763f898544d59a372dcec25aed3e724664",
+    "url": "https://www.hcaptcha.com/hcaptcha-resources-bots-101",
+    "title": "hCaptcha Resources: Bots 101",
+    "description": "An overview of various bot attack types and how to counter them with hCaptcha and BotStop",
+    "text": "‍\nCredential Stuffing: What It Is And How to Stop the AttacksPayment Fraud: Mitigating a Fast-Evolvi"
+  },
+  {
+    "id": "97272fb895f99b890025922e67580e922b51b4a6",
+    "url": "https://www.hcaptcha.com/support-interstitial",
+    "title": "Support Interstitial",
+    "description": "An overview of how to get support on hCaptcha and hCaptcha Enterprise services.",
+    "text": ""
+  },
+  {
+    "id": "11f2341be9b368137c7ec626110403431ee5a945",
+    "url": "https://shop.app/licenses/android",
+    "title": "Shop - Third-Party Open Source",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5945069d456dee19d60e359a97d594e64176b87f",
+    "url": "https://smadex.com/mwc-party/",
+    "title": "Smadex MWC party Monday 22 February 2016",
+    "description": "We will be hosting an MWC party with drinks and canapés  on the first night of Mobile World Congress",
+    "text": "We will be hosting an MWC party with drinks and canapés  on the first night of Mobile World Congress"
+  },
+  {
+    "id": "b062a780b986813d34e1570a708aacd2289fce72",
+    "url": "https://smadex.com/apple-again-forces-changes-with-ios9-apps-and-mobile-ads-to-move-to-ssl/",
+    "title": "Apple again forces changes with iOS9: mobile ads to move to SSL - Smadex",
+    "description": "What is it?\nWith the release of iOS 9 Apple has enforced secure connections between applications and",
+    "text": "With the release of iOS 9 Apple has enforced secure connections between applications and back ends. "
+  },
+  {
+    "id": "a62899f1a0254309f98d0bd655aad42def8d3469",
+    "url": "https://smadex.com/meet-the-smadex-team-at-mobile-world-congress-2016/",
+    "title": "Mobile World Congress 2016 - Meet the Smadex team",
+    "description": "Smadex will be exhibiting at Mobile World Congress 2016 from February 22nd-26th. Contact us to book ",
+    "text": "It’s that time of year again when people in the mobile industry start preparing for probably the sin"
+  },
+  {
+    "id": "16d4f2dae20eb8e0e94ab97d21c5d871636b409b",
+    "url": "https://smadex.com/adding-vast-mraid-native-pre-roll-mobile-video-inventory/",
+    "title": "Adding more VAST, MRAID and PRE-ROLL mobile video inventory",
+    "description": "There’s increasing demand for mobile video ad inventory from both performance and brand advertisers.",
+    "text": "There’s increasing demand for mobile video ad inventory from both performance and brand advertisers."
+  },
+  {
+    "id": "92998d40ba806a2c135f7a8bb01076a7615c531c",
+    "url": "https://smadex.com/smadex-hires-ex-adfonic-co-founder-paul-childs-as-chief-revenue-officer/",
+    "title": "Smadex hires Paul Childs as Chief Revenue Officer",
+    "description": "We’re excited to announce that mobile advertising veteran Paul Childs has joined us as Chief Revenue",
+    "text": "We’re excited to announce that mobile advertising veteran Paul Childs has joined us as Chief Revenue"
+  },
+  {
+    "id": "8b75e0c014d194810ef44d52e2281f127bfceb27",
+    "url": "https://smadex.com/why-marketers-need-to-park-the-cpa-model-and-work-with-dcpm-on-programmatic/",
+    "title": "Why marketers need to park the CPA model and work with dCPM on programmatic - Smadex",
+    "description": "What is dCPM?\ndCPM = Dynamic CPM (Cost per mille or Cost per thousand impressions)\nThe modern market",
+    "text": "dCPM = Dynamic CPM (Cost per mille or Cost per thousand impressions)\nMarketers no longer carve out b"
+  },
+  {
+    "id": "8244496c44c96c96663af3c51179704a9d5922ff",
+    "url": "https://smadex.com/smadex-launches-native-ads-with-global-scale/",
+    "title": "Smadex launches native ads with global scale - Smadex",
+    "description": "Smadex launches native ads, giving advertisers a more engaging ad format with global scale that incr",
+    "text": "We are excited to announce the launch of native ads on the Smadex platform. This will give advertise"
+  },
+  {
+    "id": "b550511a4884fd1e483850f6fbd1e93f7785b198",
+    "url": "https://smadex.com/smadex-integrates-with-mobfox-to-boost-global-mobile-supply/",
+    "title": "Smadex integrates MobFox for global mobile ad inventory - Smadex",
+    "description": "We’re excited to announce that Smadex has integrated with MobFox to gain access to it’s global mobil",
+    "text": "We’re excited to announce that Smadex has integrated with MobFox to gain access to its global mobile"
+  },
+  {
+    "id": "10adc1144959abe9769c86bbdcf3fdb9aa148c12",
+    "url": "https://smadex.com/smadex-integrates-dailymotion-for-global-mobile-video/",
+    "title": "Smadex integrates Dailymotion for programmatic mobile video - Smadex",
+    "description": "We’re excited to announce that we’ve integrated with Dailymotion for programmatic access to global m",
+    "text": "We are excited to announce that Smadex has integrated into the Dailymotion Exchange (DMX) for progra"
+  },
+  {
+    "id": "2b2953632758ba8d3e93284561be8f9f4dd14c3e",
+    "url": "https://smadex.com/view-attribution/",
+    "title": "View attribution: building a case for using it - Smadex",
+    "description": "There are two types of events that lead to an action; click or a view.  Campaign attribution can be ",
+    "text": "There are two types of events that can lead to an action in display advertising; a click or a view. "
+  },
+  {
+    "id": "38a29b41e4354e4faf7727d97f4dcea19e3aae94",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/electrician/speedy-electric-inc-0011-10116",
+    "title": "Speedy Electric, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Electrician in Baltimore, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "1ed57b79c83d59e76d87d7fc60f1c15190a874af",
+    "url": "https://www.bbb.org/us/md/oxford/profile/pet-grooming/tri-crown-kennels-inc-0011-10094",
+    "title": "Tri Crown Kennels, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Pet Grooming in Oxford, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "d6f874de2dad54e74b8084a1954bc806cd8f96cd",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/transmission/best-transmissions-inc-0011-1015",
+    "title": "Best Transmissions, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Transmission in Baltimore, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "55a4e6b79514fb4222047006b2c5087842547223",
+    "url": "https://www.bbb.org/us/md/ellicott-city/profile/house-cleaning/clean-as-a-whistle-0011-10163",
+    "title": "Clean As A Whistle | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. House Cleaning in Ellicott City, MD. See BBB rating, reviews, complaints, and mo",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "5ace70c339ce835e586877357eb3734b9d712860",
+    "url": "https://www.bbb.org/us/md/essex/profile/bail-bonds/big-boyz-bail-bonds-0011-1010091",
+    "title": "Big Boyz Bail Bonds | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Bail Bonds in Essex, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "8f48471a72398dbbae1e602aa788cf8eaecb0ac6",
+    "url": "https://www.bbb.org/us/md/elkton/profile/auto-repair/fair-hill-auto-center-inc-0011-10186",
+    "title": "Fair Hill Auto Center, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Auto Repairs in Elkton, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "47df922e81f7b9bace0d77b94557c24e576f3057",
+    "url": "https://www.bbb.org/us/md/aberdeen/profile/transmission/aberdeen-transmission-co-0011-10179",
+    "title": "Aberdeen Transmission Co. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Transmission in Aberdeen, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "1dde18a0ac4fe552c73b3b16fdd1232f6c500c00",
+    "url": "https://www.bbb.org/us/md/hagerstown/profile/paving-contractors/craig-paving-inc-0011-10210",
+    "title": "Craig Paving, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Paving Contractors in Hagerstown, MD. See BBB rating, reviews, complaints, and m",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "dfd69a7170ed3fcfd9be89838aec0a26041e1327",
+    "url": "https://www.bbb.org/us/md/annapolis/profile/roofing-contractors/altons-roofing-co-0011-10211",
+    "title": "Alton's Roofing Co. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Roofing Contractors in Annapolis, MD. See BBB rating, reviews, complaints, and m",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "1f9055cd1d6030c8aa9a3d1740b91d3977ecedcc",
+    "url": "https://www.bbb.org/us/md/annapolis/profile/gas-station/ploor-enterprises-inc-0011-10221",
+    "title": "Ploor Enterprises Inc | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Gas Station in Annapolis, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "6cb2838b13523546a66832f79fb671b721381698",
+    "url": "https://safety.google/cybersecurity-advancements/saif/",
+    "title": "Google's Secure AI Framework - Google Safety Center",
+    "description": "Explore the core elements of Google’s Secure AI Framework and how it is designed to lead the way in ",
+    "text": "Safety Center\nSafety Center\nThe potential of AI, especially generative AI, is immense. As innovation"
+  },
+  {
+    "id": "2a4e34cc278d27f64a308c679add67f3d2368572",
+    "url": "https://safety.google/engineering-center-dublin/",
+    "title": "Dublin Content Responsibility Policies - Google Safety Center",
+    "description": "Discover how the Google Safety Engineering Center in Dublin tackles illegal and harmful content to d",
+    "text": "Safety Center\nSafety Center\nLocated in our European headquarters, GSEC Dublin is a regional hub for "
+  },
+  {
+    "id": "a1aaabb448535acf907f799ff183e9a0b8e7fe3f",
+    "url": "https://safety.google/engineering-center-malaga/",
+    "title": "Meet Google’s Málaga Cybersecurity Team - Google Safety Center",
+    "description": "Learn about Google’s Málaga cybersecurity center and meet the team of experts working to understand ",
+    "text": "Safety Center\nSafety Center\nLocated in the heart of Andalusia, GSEC Málaga is an international cyber"
+  },
+  {
+    "id": "3004d90561c61077feb8be568d01c8c31f442900",
+    "url": "https://safety.google/engineering-center/",
+    "title": "Building a Safer Internet - Google Safety Center",
+    "description": "The Google Safety Engineering Center is the hub for Google’s internet safety work. Discover the work",
+    "text": "Safety Center\nSafety Center\nToday, we have Google teams working across privacy, security, content re"
+  },
+  {
+    "id": "a96093d874a05ce819d33813b4e26b45a860945d",
+    "url": "https://safety.google/engineering-center-munich/",
+    "title": "Munich Privacy & Security Engineering - Google Safety Center",
+    "description": "Learn about Google Safety Engineering Center Munich’s privacy & security products and tools – develo",
+    "text": "Safety Center\nSafety Center\nGSEC Munich is Google’s global hub of privacy and security engineering i"
+  },
+  {
+    "id": "1cc61dd5683c0ff466a741cae9258378522029bb",
+    "url": "https://safety.google/families/",
+    "title": "Online Safety for Children & Families - Google Safety Center",
+    "description": "Children today are growing up with technology. Google is working with parents and educators to help ",
+    "text": "Safety Center\nSafety Center\nChildren today are growing up with technology, not growing into  it like"
+  },
+  {
+    "id": "15d213050ef51396fac7314b04a8e2d3fe96e38f",
+    "url": "https://safety.google/families/family-friendly-experiences/",
+    "title": "Family-Friendly Internet Experiences - Google Safety Center",
+    "description": "Google provides family-friendly internet experiences with features like smart filters, site blockers",
+    "text": "Safety Center\nSafety Center\nWe build special features – like smart filters, site blockers,  and cont"
+  },
+  {
+    "id": "f609698193a5eadcf1cf6a66527048923f8c0794",
+    "url": "https://safety.google/families/parental-supervision/",
+    "title": "Google’s Parental Controls - Google Safety Center",
+    "description": "We’re here to help you set digital ground rules with Google parental controls that help parents mana",
+    "text": "Safety Center\nSafety Center\nFamily Link helps you manage your children’s accounts and Chrome OS or A"
+  },
+  {
+    "id": "360322955fb7463e4c040d53368a10be2d740c99",
+    "url": "https://safety.google/fitbit/",
+    "title": "Google Fitbit Health & Data Privacy",
+    "description": "Fitbit uses Google's security practices to keep your data safe and private and protect against unaut",
+    "text": "Safety Center\nSafety Center\nWe are dedicated to protecting your information and ensuring your data i"
+  },
+  {
+    "id": "bd28044d62e37e6a0b813ec164e4d89f8ecda04a",
+    "url": "https://safety.google/gemini/",
+    "title": "Gemini Privacy & Safety Settings - Google Safety Center",
+    "description": "Learn how Gemini puts you in control with easy-to-use activity controls, built-in fact checking, and",
+    "text": "Safety Center\nSafety Center\nWith accessible resources and controls in the Gemini mobile app and web "
+  },
+  {
+    "id": "14c424df7e3c72d3c272f9b1081c60d3cdd373ee",
+    "url": "https://wpastra.com/guides-and-tutorials/sticky-headers-with-ultimate-addons/",
+    "title": "How To Create Sticky Headers Using Ultimate Addons for Elementor",
+    "description": "Create a sticky header using Ultimate Addons for Elementor. Improve site navigation, boost engagemen",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "ca0172fbf45bface42a2ed37dffe97cd7064a791",
+    "url": "https://wpastra.com/guides-and-tutorials/customize-wordpress-website-colors/",
+    "title": "How To Change Theme Color in WordPress (6 Easy Ways)",
+    "description": "Make your website truly yours by customizing its colors. Learn how to change theme colors in WordPre",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "d55cf07f1c2d613bef8d5fe5101e3bb8921e178c",
+    "url": "https://wpastra.com/updates/construction-company-template/",
+    "title": "New Release - The Construction Company Template!",
+    "description": "We’re excited to introduce our brand‑new Construction Company template, designed especially for arch",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "734f8e27fc01a7860ca554bfc1c9ff6bd1f66e2c",
+    "url": "https://wpastra.com/resources/free-stock-photos-websites/",
+    "title": "Revealed: 20+ Best Free Stock Image Websites in 2025",
+    "description": "Stock Image Websites - Level up your web projects with stunning FREE stock photos! Discover the best",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "89ed901c5e9c8ef12b78e441f44527d35f31bf21",
+    "url": "https://wpastra.com/plugins/wordpress-registration-plugins/",
+    "title": "12 Best WordPress Registration Plugins – Tried and Tested",
+    "description": "Looking for the best WordPress registration plugins? Our expert team has tried and tested the 12 bes",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "2ee17ce1d862b614d6230699e3e099e3cd6a8a90",
+    "url": "https://wpastra.com/updates/did-you-know-astra-is-widget-ready/",
+    "title": "Add More Widgets into the Astra Theme!",
+    "description": "Did you know you could add widgets in the Astra Header and Footer? Here's an article that will help ",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "09d7daa05f412d1f32de55919173ad56667e82aa",
+    "url": "https://wpastra.com/guides-and-tutorials/how-to-optimize-blog-posts-for-seo/",
+    "title": "How To Optimize Blog Posts for SEO (15 Ways)",
+    "description": "Optimizing your existing content is a fast, easy way to get more web traffic. Learn how to optimize ",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "30f065f2e6a5fa7a15116f16cc8d169defde6527",
+    "url": "https://wpastra.com/guides-and-tutorials/important-website-metrics/",
+    "title": "10 Important Website Performance Metrics To Track + Tools",
+    "description": "Learn how to track website performance metrics to drive traffic, boost conversions, and achieve onli",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "1ee1675eccdac9ec5841d63a172a93b3055c715c",
+    "url": "https://wpastra.com/review/bluehost-review/",
+    "title": "Bluehost Review 2025: Is It a Good Choice for WordPress?",
+    "description": "Finding a great web host isn't easy, right? Read our Bluehost review to find out if its the right ho",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "f8474a91e1e145ccc433408d8cd5f3e2655eba74",
+    "url": "https://wpastra.com/woocommerce-tutorial/woocommerce-product-table/",
+    "title": "WooCommerce Product Tables: How To Create + 10 Best Plugins",
+    "description": "Explore the top 9 WooCommerce product table plugins and effortlessly display multiple products with ",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "a49369053aab0e8c91766ba397d95684bcf2d689",
+    "url": "https://www.ninjaone.com/de/blog/typen-von-backups-vollsicherungen-inkrementelle-differentielle/",
+    "title": "Verschiedene Typen von Backups Vollsicherung, inkrementelles und differentielles Backup | NinjaOne",
+    "description": "Die Sicherung Ihrer Unternehmensdaten ist eine unabdingbare Voraussetzung Ihres Erfolgs. Aber welche",
+    "text": "Startseite / Blog / Backup / Verschiedene Backup-Typen: Vollsicherung, inkrementelles und differenti"
+  },
+  {
+    "id": "d81597a9afee60614ffcc9793af4173c3b7a5820",
+    "url": "https://www.ninjaone.com/nl/blog/type-backups-volledig-incrementeel-differentieel/",
+    "title": "Back-uptypes: volledig, incrementeel en differentieel | NinjaOne",
+    "description": "Back-ups maken van uw belangrijke organisatiegegevens is cruciaal voor het succes van uw onderneming",
+    "text": "Home / Blog / Backup / Back-uptypes: Volledig, Incrementeel en Differentieel\nVandaag de dag wordt be"
+  },
+  {
+    "id": "c09d840314722b11a2ec3bea623c74f5c03bc275",
+    "url": "https://www.ninjaone.com/sv/blog/typer-av-sakerhetskopiering-vilken-ar-bast/",
+    "title": "Typer av säkerhetskopiering: Fullständig, inkrementell och differentiell | NinjaOne",
+    "description": "Säkerhetskopiering av din viktiga organisationsdata är viktigt för att ditt företag ska lyckas. Ta r",
+    "text": "Hem / Blogg / Säkerhetskopiering / Typer av säkerhetskopiering: Fullständig, inkrementell och differ"
+  },
+  {
+    "id": "854ac99771cd1ba964c1a6b6a43ca2129683cf9a",
+    "url": "https://www.ninjaone.com/es/blog/tipos-de-copias-de-seguridad-incremental-diferencial/",
+    "title": "Copias de seguridad: Completo, incremental, y Diferencial | NinjaOne",
+    "description": "Hacer una copia de seguridad de los datos importantes de su organización es esencial para el éxito d",
+    "text": "Inicio / Blog / Copia de seguridad / Tipos de copias de seguridad: Completo, Incremental, y Diferenc"
+  },
+  {
+    "id": "236d3707c519a2e188eddcfd486ff3b47901b1c3",
+    "url": "https://www.ninjaone.com/fr/blog/excellence-imbattable-ninjaone-rmm-rapport-g2-automne-2023/",
+    "title": "Excellence imbattable - NinjaOne RMM est en tête du rapport Automne 2023 de G2 - NinjaOne",
+    "description": "G2, une référence dans le domaine de l`évaluation et de la recherche en matière de logiciels, a réce",
+    "text": "Accueil / Blog / NinjaOne / Excellence imbattable – NinjaOne RMM est en tête du rapport Automne 2023"
+  },
+  {
+    "id": "8017fcccbcd597a5170ac4ce3705d7bf0b3c4b53",
+    "url": "https://www.ninjaone.com/blog/unbeatable-excellence-ninjaone-rmm-tops-g2s-fall-2023-report/",
+    "title": "Unbeatable Excellence - NinjaOne Tops G2's Fall 2023 Report - NinjaOne",
+    "description": "G2, a highly regarded authority in the field of software reviews and research, has recently unveiled",
+    "text": "Home / Blog / NinjaOne / Unbeatable Excellence – NinjaOne Tops G2’s Fall 2023 Report\nG2, a highly re"
+  },
+  {
+    "id": "4a1ef7ea81c27462b18a519caad94c75a4aa41e4",
+    "url": "https://www.ninjaone.com/it/blog/eccellenza-ninjaone-rmm-domina-g2/",
+    "title": "Eccellenza imbattibile, NinjaOne RMM in cima al G2 |NinjaOne",
+    "description": "Per il 18° trimestre consecutivo, NinjaOne ha conquistato il primo posto nella categoria RMM su G2.",
+    "text": "Home / Blog / NinjaOne / Eccellenza imbattibile – NinjaOne RMM è in cima al report G2 dell’autunno 2"
+  },
+  {
+    "id": "3a319f176f5596b6b3dd015703cca98f61790a27",
+    "url": "https://www.ninjaone.com/nl/blog/onverslaanbaar-uitmuntendheid-ninjaone-rmm-tops-g2s-nl-2023-rapport/",
+    "title": "Ongeëvenaarde kwaliteit - NinjaOne RMM neemt de toppositie in G2's herfstrapport van 2023 in. - Ninj",
+    "description": "G2, een hoog aangeschreven autoriteit op het gebied van softwarebeoordelingen en -onderzoek, heeft o",
+    "text": "Home / Blog / NinjaOne / Ongeëvenaarde kwaliteit – NinjaOne RMM neemt de toppositie in G2’s herfstra"
+  },
+  {
+    "id": "dde1a5e0afd2347d76cd04fd080b8690ff348358",
+    "url": "https://www.ninjaone.com/es/blog/fall-2023-research-report-de-g2/",
+    "title": "NinjaOne RMM encabeza el Fall 2023 Report de G2",
+    "description": "NinjaOne se ha erigido una vez más como líder indiscutible en el ámbito del software de monitorizaci",
+    "text": "Inicio / Blog / NinjaOne / Una excelencia insuperable: NinjaOne RMM encabeza el Fall 2023 Report de "
+  },
+  {
+    "id": "ea5234b6c9b695b33d46fe9fea0ee61511b96582",
+    "url": "https://www.ninjaone.com/de/blog/unschlagbare-qualitaet-ninjaone-rmm-tops-g2s-herbst-2023-bericht/",
+    "title": "Unschlagbare Qualität - NinjaOne RMM führt den G2 Herbst 2023 Bericht an - NinjaOne",
+    "description": "G2, eine hoch angesehene Autorität auf dem Gebiet der Software-Bewertungen und -Untersuchung, hat vo",
+    "text": "Startseite / Blog / NinjaOne / Unschlagbare Qualität – NinjaOne RMM führt den G2 Herbst 2023 Bericht"
+  },
+  {
+    "id": "c2a70906173d526c1c2780a4b0a7b1988548724a",
+    "url": "https://www.pcmag.com/categories/printers/brands/epson",
+    "title": "Epson Printer Reviews | PCMag",
+    "description": "Interested in Printers by Epson? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Epson EcoTank ET-3950 stands out for its fast simplex (one-sided) printing and its automatic dup"
+  },
+  {
+    "id": "219bc1b93156e11377bde5e049acb6dbfde57028",
+    "url": "https://www.pcmag.com/categories/headphones/brands/jbl",
+    "title": "JBL Headphone Reviews | PCMag",
+    "description": "Interested in Headphones by JBL? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "JBL's Tour One M3 noise-cancelling headphones offer rich sound, a comfortable fit, and great battery"
+  },
+  {
+    "id": "1184f4211eb2bba1e22cfb2c929c07e9ada67d6a",
+    "url": "https://www.pcmag.com/categories/speakers/brands/sony",
+    "title": "Sony Speaker Reviews | PCMag",
+    "description": "Interested in Speakers by Sony? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "Sony's ULT Field 5 speaker delivers surprisingly powerful bass for its size and comes loaded with fe"
+  },
+  {
+    "id": "bb0890a97650545ebc49c04e458ad8920c7d0c97",
+    "url": "https://www.pcmag.com/categories/lenses/brands/nikon",
+    "title": "Nikon Lens Reviews | PCMag",
+    "description": "Interested in Lenses by Nikon? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Nikkor Z 180-600mm F5.6-6.3 VR is the best big zoom lens for photographing wildlife, field sport"
+  },
+  {
+    "id": "cc7d7e9a8a7cf323004c22070341ac626645d4d4",
+    "url": "https://www.pcmag.com/categories/monitors/brands/viewsonic",
+    "title": "ViewSonic Monitor Reviews | PCMag",
+    "description": "Interested in Monitors by ViewSonic? Find out what our experts at PCMag had to say from our testing ",
+    "text": "Supporting different peak refresh rates at 1080p and 4K, ViewSonic's XG275D-4K is an attractive gami"
+  },
+  {
+    "id": "e44536ad98e5e5ac28af279c1a8749d17cf2e184",
+    "url": "https://www.pcmag.com/categories/tvs/brands/hisense",
+    "title": "Hisense TV Reviews | PCMag",
+    "description": "Interested in TVs by Hisense? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Hisense U65QF is easily the brightest and most colorful budget-friendly TV we've tested.\nThe His"
+  },
+  {
+    "id": "c1a2d80d95aaeb0dc543e2d32216f64f9733b420",
+    "url": "https://www.pcmag.com/categories/laptops/brands/lenovo",
+    "title": "Lenovo Laptop Reviews | PCMag",
+    "description": "We benchmark, rate, and review hundreds of PCs each year so we can deliver expert buying advice to h",
+    "text": "Lenovo's Yoga 9i Gen 10 Aura Edition delivers what a top-notch 2-in-1 should: potent-enough performa"
+  },
+  {
+    "id": "9f20dc3459101a97bf4889d6d4d217259e399b83",
+    "url": "https://www.pcmag.com/categories/laptops/brands/hp",
+    "title": "HP Laptop Reviews | PCMag",
+    "description": "We benchmark, rate, and review hundreds of PCs each year so we can deliver expert buying advice to h",
+    "text": "HP's budget-priced Victus 15 gaming laptop is an affordable gateway into mobile PC gaming, bringing "
+  },
+  {
+    "id": "dd2bdeb9db174a660500e812346a34ffe732ef04",
+    "url": "https://www.pcmag.com/categories/laptops/brands/dell",
+    "title": "Dell Laptop Reviews | PCMag",
+    "description": "We benchmark, rate, and review hundreds of PCs each year so we can deliver expert buying advice to h",
+    "text": "The Dell 14 Plus 2-in-1 features an all-day battery and feels comfortable to work on, but this 14-in"
+  },
+  {
+    "id": "e8738ffa90ff5d50cd4436b6521f3bd341f8d673",
+    "url": "https://www.pcmag.com/categories/tvs/brands/samsung",
+    "title": "Samsung TV Reviews | PCMag",
+    "description": "Interested in TVs by Samsung? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The S95F is Samsung's brightest OLED TV yet, with terrific picture quality and a surprisingly capabl"
+  },
+  {
+    "id": "b79787ca71aa4ed9655d02bcff13983432222d15",
+    "url": "https://squareup.com/us/en/legal/general/ua",
+    "title": "General Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "03b2ce7cdf48030a897f80a9b705a9df2a843b7a",
+    "url": "https://squareup.com/us/en/legal/general/sign",
+    "title": "Square E-Sign Consent",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "1b5694dd04c4ba9fea2d27c5d01425d020fd9bec",
+    "url": "https://squareup.com/us/en/legal/general/la-hardware-terms-and-conditions",
+    "title": "LA Wildfire Relief Hardware Assistance Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "8fb112e93730162bbc40c45b35bfbe6fe8fdcf43",
+    "url": "https://squareup.com/us/en/legal/general/extended-cp-rate-offer-2025",
+    "title": "Square Extended Rate Offer Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "9c87060eda5bb3804532c1e4c9ca74b0640a7e05",
+    "url": "https://squareup.com/us/en/legal/general/payment",
+    "title": "Payment Terms",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "a2d2a858f65b8e0894b7c9e3e053e4c7ec4610ff",
+    "url": "https://squareup.com/us/en/legal/general/privacy",
+    "title": "Privacy Notice for Users Who Apply or Sign Up for a Square Account or Other Services",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "b46a548eb0c3a211607785a7ad9b5cdbf1593c91",
+    "url": "https://squareup.com/us/en/legal/general/gov",
+    "title": "Government Agency Requests",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "a132b4d00bfdea2a997aba32b48cd6b07d75398d",
+    "url": "https://squareup.com/us/en/legal/general/buyer-account-terms",
+    "title": "Square Buyer Account Terms of Use",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "eb739f796745f482b9bdbdf25b5953e5ec2e541d",
+    "url": "https://squareup.com/us/en/legal/general/la-grant-terms-and-conditions",
+    "title": "Square Seller Rebuilding Grants Program Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "d9a4dc9b7e15fbcb9915fc4b43de494c45b47e0d",
+    "url": "https://squareup.com/us/en/legal/general/2025-new-year-sweepstakes",
+    "title": "Square 2025 New Year Sweepstakes Official Rules",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "350ff8cf8b6825d7a8a42b0c704c33f03896fce6",
+    "url": "https://www.ringcentral.com/area-code-512.html",
+    "title": "512 Area Code - Buy a Texas Local Number | RingCentral",
+    "description": "Get a local phone number with area code 512 for your business. RingCentral can help establish and ex",
+    "text": "Full name*\nEnter a valid full name\nWork email*\nEnter a valid email address\nBusiness phone number*\nEn"
+  },
+  {
+    "id": "4464a2cb1d9e3bd74a72416055f1aaf3bf55af51",
+    "url": "https://www.ringcentral.com/area-code-732.html",
+    "title": "Get a 732 Business Phone Number in New Jersey",
+    "description": "Get a local phone number with 732 area code from RingCentral. We can help your business establish an",
+    "text": "Full name*\nEnter a valid full name\nWork email*\nEnter a valid email address\nBusiness phone number*\nEn"
+  },
+  {
+    "id": "0eb51d051cca52fb6e4a6656916e495036673e6d",
+    "url": "https://www.ringcentral.com/area-code-818.html",
+    "title": "818 Area Code - Buy a California Local Phone Number | RingCentral",
+    "description": "Get an area code 818 local phone number for your business. RingCentral can help expand your local pr",
+    "text": "Full name*\nEnter a valid full name\nWork email*\nEnter a valid email address\nBusiness phone number*\nEn"
+  },
+  {
+    "id": "81143c5e0025d5a53931e964e2978e83c0ba6020",
+    "url": "https://www.ringcentral.com/area-code-916.html",
+    "title": "Get a 916 Business Phone Number in California",
+    "description": "Get a local phone number with area code 916 for your business. RingCentral can help establish and ex",
+    "text": "Full name*\nEnter a valid full name\nWork email*\nEnter a valid email address\nBusiness phone number*\nEn"
+  },
+  {
+    "id": "e9d2301f07851831c70cab38abc163460fb7c005",
+    "url": "https://www.ringcentral.com/area-code-703.html",
+    "title": "703 Area Code - Buy a Virginia Local Number | RingCentral",
+    "description": "Get a Virginia phone number with area code 703 for your business. RingCentral can help establish and",
+    "text": "Full name*\nEnter a valid full name\nWork email*\nEnter a valid email address\nBusiness phone number*\nEn"
+  },
+  {
+    "id": "8c49c87712c5805724d764155143196b1aa9246c",
+    "url": "https://www.ringcentral.com/au/en/competitors/ringcentral-vs-zoom.html",
+    "title": "The RingCentral Vs. Zoom | RingCentral AU Comparison",
+    "description": "Learn how Zoom compares to Ringcentral, and find out why Ringcentral, as a secure voice-first platfo",
+    "text": "Gartner Peer Insights review\nGartner Peer Insights review\nJim Lundy, CEO, Aragon Research"
+  },
+  {
+    "id": "5eb2cbdb6a64b41af81182f6dec25692a40d43c6",
+    "url": "https://www.ringcentral.com/beckers_healthcare_whitepaper.html",
+    "title": "The future of member engagement is digital - Free whitepaper | RingCentral",
+    "description": "Download this free whitepaper from RingCentral and Becker’s Healthcare and discover how cloud commun",
+    "text": "Contextual. Personal. Engaged. Discover cloud comms tech that enables healthcare payers to raise the"
+  },
+  {
+    "id": "317edacbd01391f8c6f87da299b6e8c5736f8327",
+    "url": "https://www.ringcentral.com/business-phone-app.html",
+    "title": "Best Business Phone App: Calls, Messages, AI & More",
+    "description": "RingCentral RingEX gives you all the features of the best business phone app and more. Harness AI an",
+    "text": "RingCentral RingEX gives you all the features of the best business phone systems and a whole lot mor"
+  },
+  {
+    "id": "e3f75106bd81d895bae82f5c2c580b92db6d6cc9",
+    "url": "https://www.ringcentral.com/auto-dialer.html",
+    "title": "Auto Dialer For Contact Centers: Make More Calls + Conversions",
+    "description": "An auto dialer can help your contact center make more calls and improve the quality of those calls. ",
+    "text": "Drive more conversations with automation — using predictive, progressive, and preview dialers built "
+  },
+  {
+    "id": "0157adf1bdcd944ef5b729da204f4b358567fae0",
+    "url": "https://www.ringcentral.com/business-phone-numbers.html",
+    "title": "Get the Best Business Phone Number With RingCentral",
+    "description": "Get the right business phone number for your organization with RingCentral RingEX. Choose from local",
+    "text": "Get the right business phone numbers for you as part of a holistic AI-powered communications platfor"
   }
 ]

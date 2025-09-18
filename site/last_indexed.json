@@ -23131,7 +23131,7 @@
     ]
   },
   "waze.com": {
-    "lastAt": 1757814644190,
+    "lastAt": 1758166554832,
     "urls": [
       "https://waze.com/",
       "https://www.waze.com/",
@@ -23142,21 +23142,31 @@
       "https://www.waze.com/wazeforcities",
       "https://www.waze.com/audioplayer",
       "https://www.waze.com/beacons",
-      "https://www.waze.com/sdk"
+      "https://www.waze.com/sdk",
+      "https://www.waze.com/contact",
+      "https://www.waze.com/about",
+      "https://www.waze.com/communities",
+      "https://www.waze.com/events",
+      "https://www.waze.com/discuss/",
+      "https://www.waze.com/editor",
+      "https://www.waze.com/livemap",
+      "https://www.waze.com/ccp/",
+      "https://www.waze.com/wazeforcities/casestudies/how-waze-improves-traffic-management-and-safety/",
+      "https://www.waze.com/wazeforcities/casestudies/how-haifa-leverages-waze-data-for-smart-intersections/"
     ]
   },
   "tenor.com": {
-    "lastAt": 1757814645530,
+    "lastAt": 1758166555966,
     "urls": [
       "https://tenor.com/"
     ]
   },
   "proofpoint.us": {
-    "lastAt": 1757814648620,
+    "lastAt": 1758166559017,
     "urls": []
   },
   "sectigo.com": {
-    "lastAt": 1757814667460,
+    "lastAt": 1758166571778,
     "urls": [
       "https://www.sectigo.com/",
       "https://www.sectigo.com/contributors/nick-france",
@@ -23167,21 +23177,31 @@
       "https://www.sectigo.com/contributors",
       "https://www.sectigo.com/knowledge-base",
       "https://www.sectigo.com/comodo",
-      "https://www.sectigo.com/store-login"
+      "https://www.sectigo.com/store-login",
+      "https://www.sectigo.com/partners/channel",
+      "https://www.sectigo.com/ssl247",
+      "https://www.sectigo.com/partners/channel/api",
+      "https://www.sectigo.com/partners/channel/brand-product-assets",
+      "https://www.sectigo.com/partners/ssl-plus-sitelock-free-bundle",
+      "https://www.sectigo.com/partners/certificate-as-a-service-for-partners",
+      "https://www.sectigo.com/about",
+      "https://www.sectigo.com/about/leadership",
+      "https://www.sectigo.com/support",
+      "https://www.sectigo.com/support/report-abuse"
     ]
   },
   "ad-delivery.net": {
-    "lastAt": 1757814670613,
+    "lastAt": 1758166575023,
     "urls": []
   },
   "ed.gov": {
-    "lastAt": 1757814673741,
+    "lastAt": 1758166578853,
     "urls": [
       "https://ed.gov/"
     ]
   },
   "hcaptcha.com": {
-    "lastAt": 1757814675317,
+    "lastAt": 1758166580084,
     "urls": [
       "https://www.hcaptcha.com/",
       "https://www.hcaptcha.com/pro",
@@ -23192,15 +23212,25 @@
       "https://www.hcaptcha.com/blog",
       "https://www.hcaptcha.com/signup-interstitial",
       "https://www.hcaptcha.com/start-a-pilot",
-      "https://www.hcaptcha.com/what-is-hcaptcha-about"
+      "https://www.hcaptcha.com/what-is-hcaptcha-about",
+      "https://www.hcaptcha.com/about",
+      "https://www.hcaptcha.com/privacy-pass",
+      "https://www.hcaptcha.com/labeling",
+      "https://www.hcaptcha.com/trademarks",
+      "https://www.hcaptcha.com/ai-ethics",
+      "https://www.hcaptcha.com/press-inquiries",
+      "https://www.hcaptcha.com/certifications",
+      "https://www.hcaptcha.com/reporting-bugs",
+      "https://www.hcaptcha.com/hcaptcha-resources-bots-101",
+      "https://www.hcaptcha.com/support-interstitial"
     ]
   },
   "glassdoor.com": {
-    "lastAt": 1757814678537,
+    "lastAt": 1758166583474,
     "urls": []
   },
   "shop.app": {
-    "lastAt": 1757814682093,
+    "lastAt": 1758166587906,
     "urls": [
       "https://shop.app/legal-and-policies",
       "https://shop.app/privacy",
@@ -23210,11 +23240,12 @@
       "https://shop.app/shop-pay",
       "https://shop.app/shop-cash-terms-ca",
       "https://shop.app/licenses",
-      "https://shop.app/licenses/ios"
+      "https://shop.app/licenses/ios",
+      "https://shop.app/licenses/android"
     ]
   },
   "smadex.com": {
-    "lastAt": 1757814686532,
+    "lastAt": 1758166592340,
     "urls": [
       "https://smadex.com/smadex-in-the-latest-mobile-lumascape/",
       "https://smadex.com/ios-9-targeting-now-supported-on-smadex/",
@@ -23225,23 +23256,33 @@
       "https://smadex.com/tap-into-our-advanced-audience-targeting-features/",
       "https://smadex.com/smadex-releases-video-ad-formats/",
       "https://smadex.com/presenting-smadex-creative-labs/",
-      "https://smadex.com/product-release-advanced-optimization-tool-for-performance-advertisers/"
+      "https://smadex.com/product-release-advanced-optimization-tool-for-performance-advertisers/",
+      "https://smadex.com/mwc-party/",
+      "https://smadex.com/apple-again-forces-changes-with-ios9-apps-and-mobile-ads-to-move-to-ssl/",
+      "https://smadex.com/meet-the-smadex-team-at-mobile-world-congress-2016/",
+      "https://smadex.com/adding-vast-mraid-native-pre-roll-mobile-video-inventory/",
+      "https://smadex.com/smadex-hires-ex-adfonic-co-founder-paul-childs-as-chief-revenue-officer/",
+      "https://smadex.com/why-marketers-need-to-park-the-cpa-model-and-work-with-dcpm-on-programmatic/",
+      "https://smadex.com/smadex-launches-native-ads-with-global-scale/",
+      "https://smadex.com/smadex-integrates-with-mobfox-to-boost-global-mobile-supply/",
+      "https://smadex.com/smadex-integrates-dailymotion-for-global-mobile-video/",
+      "https://smadex.com/view-attribution/"
     ]
   },
   "sc-static.net": {
-    "lastAt": 1757814689980,
+    "lastAt": 1758166595895,
     "urls": []
   },
   "dbankcdn.com": {
-    "lastAt": 1757814693285,
+    "lastAt": 1758166599134,
     "urls": []
   },
   "ctgcdn.com": {
-    "lastAt": 1757814696814,
+    "lastAt": 1758166602818,
     "urls": []
   },
   "bbb.org": {
-    "lastAt": 1757814700784,
+    "lastAt": 1758166606515,
     "urls": [
       "https://bbb.org/",
       "https://www.bbb.org/us/md/nottingham/profile/auto-body-repair-and-painting/chucks-body-fender-0011-10000178",
@@ -23252,19 +23293,29 @@
       "https://www.bbb.org/us/md/parkville/profile/paving-contractors/d-f-hellmann-paving-0011-10003",
       "https://www.bbb.org/us/md/fallston/profile/home-improvement/w-a-dedeo-construction-0011-10000418",
       "https://www.bbb.org/us/md/westminster/profile/new-car-dealers/heritage-honda-of-westminster-0011-10041",
-      "https://www.bbb.org/us/md/easton/profile/new-car-dealers/koons-easton-scion-0011-10045"
+      "https://www.bbb.org/us/md/easton/profile/new-car-dealers/koons-easton-scion-0011-10045",
+      "https://www.bbb.org/us/md/baltimore/profile/electrician/speedy-electric-inc-0011-10116",
+      "https://www.bbb.org/us/md/oxford/profile/pet-grooming/tri-crown-kennels-inc-0011-10094",
+      "https://www.bbb.org/us/md/baltimore/profile/transmission/best-transmissions-inc-0011-1015",
+      "https://www.bbb.org/us/md/ellicott-city/profile/house-cleaning/clean-as-a-whistle-0011-10163",
+      "https://www.bbb.org/us/md/essex/profile/bail-bonds/big-boyz-bail-bonds-0011-1010091",
+      "https://www.bbb.org/us/md/elkton/profile/auto-repair/fair-hill-auto-center-inc-0011-10186",
+      "https://www.bbb.org/us/md/aberdeen/profile/transmission/aberdeen-transmission-co-0011-10179",
+      "https://www.bbb.org/us/md/hagerstown/profile/paving-contractors/craig-paving-inc-0011-10210",
+      "https://www.bbb.org/us/md/annapolis/profile/roofing-contractors/altons-roofing-co-0011-10211",
+      "https://www.bbb.org/us/md/annapolis/profile/gas-station/ploor-enterprises-inc-0011-10221"
     ]
   },
   "cdnhwcbqs106.com": {
-    "lastAt": 1757814706747,
+    "lastAt": 1758166612612,
     "urls": []
   },
   "adidas.com": {
-    "lastAt": 1757814775557,
+    "lastAt": 1758166681421,
     "urls": []
   },
   "safety.google": {
-    "lastAt": 1757814777559,
+    "lastAt": 1758166683209,
     "urls": [
       "https://safety.google/",
       "https://safety.google/assistant/",
@@ -23275,11 +23326,21 @@
       "https://safety.google/cybersecurity-advancements/",
       "https://safety.google/cybersecurity-advancements/cybersecurity-center-japan/",
       "https://safety.google/cybersecurity-advancements/cyberworkforce/",
-      "https://safety.google/cybersecurity-advancements/infrastructure/"
+      "https://safety.google/cybersecurity-advancements/infrastructure/",
+      "https://safety.google/cybersecurity-advancements/saif/",
+      "https://safety.google/engineering-center-dublin/",
+      "https://safety.google/engineering-center-malaga/",
+      "https://safety.google/engineering-center/",
+      "https://safety.google/engineering-center-munich/",
+      "https://safety.google/families/",
+      "https://safety.google/families/family-friendly-experiences/",
+      "https://safety.google/families/parental-supervision/",
+      "https://safety.google/fitbit/",
+      "https://safety.google/gemini/"
     ]
   },
   "wpastra.com": {
-    "lastAt": 1757814782749,
+    "lastAt": 1758166702926,
     "urls": [
       "https://wpastra.com/",
       "https://wpastra.com/blog/",
@@ -23290,15 +23351,25 @@
       "https://wpastra.com/resources/gravity-forms-alternatives/",
       "https://wpastra.com/plugins/jetpack-alternative/",
       "https://wpastra.com/plugins/best-contact-form-plugins/",
-      "https://wpastra.com/guides-and-tutorials/wordpress-not-sending-email/"
+      "https://wpastra.com/guides-and-tutorials/wordpress-not-sending-email/",
+      "https://wpastra.com/guides-and-tutorials/sticky-headers-with-ultimate-addons/",
+      "https://wpastra.com/guides-and-tutorials/customize-wordpress-website-colors/",
+      "https://wpastra.com/updates/construction-company-template/",
+      "https://wpastra.com/resources/free-stock-photos-websites/",
+      "https://wpastra.com/plugins/wordpress-registration-plugins/",
+      "https://wpastra.com/updates/did-you-know-astra-is-widget-ready/",
+      "https://wpastra.com/guides-and-tutorials/how-to-optimize-blog-posts-for-seo/",
+      "https://wpastra.com/guides-and-tutorials/important-website-metrics/",
+      "https://wpastra.com/review/bluehost-review/",
+      "https://wpastra.com/woocommerce-tutorial/woocommerce-product-table/"
     ]
   },
   "mosspf.com": {
-    "lastAt": 1757814785952,
+    "lastAt": 1758166706094,
     "urls": []
   },
   "ninjarmm.com": {
-    "lastAt": 1757814824934,
+    "lastAt": 1758166729166,
     "urls": [
       "https://www.ninjaone.com/blog/patch-management-policy/",
       "https://ninjarmm.com/",
@@ -23309,25 +23380,35 @@
       "https://www.ninjaone.com/es/blog/politica-de-gestion-de-parches/",
       "https://www.ninjaone.com/de/blog/patch-management-richtlinie/",
       "https://www.ninjaone.com/fr/blog/politique-de-gestion-des-correctifs/",
-      "https://www.ninjaone.com/it/blog/criterio-di-patch-management/"
+      "https://www.ninjaone.com/it/blog/criterio-di-patch-management/",
+      "https://www.ninjaone.com/de/blog/typen-von-backups-vollsicherungen-inkrementelle-differentielle/",
+      "https://www.ninjaone.com/nl/blog/type-backups-volledig-incrementeel-differentieel/",
+      "https://www.ninjaone.com/sv/blog/typer-av-sakerhetskopiering-vilken-ar-bast/",
+      "https://www.ninjaone.com/es/blog/tipos-de-copias-de-seguridad-incremental-diferencial/",
+      "https://www.ninjaone.com/fr/blog/excellence-imbattable-ninjaone-rmm-rapport-g2-automne-2023/",
+      "https://www.ninjaone.com/blog/unbeatable-excellence-ninjaone-rmm-tops-g2s-fall-2023-report/",
+      "https://www.ninjaone.com/it/blog/eccellenza-ninjaone-rmm-domina-g2/",
+      "https://www.ninjaone.com/nl/blog/onverslaanbaar-uitmuntendheid-ninjaone-rmm-tops-g2s-nl-2023-rapport/",
+      "https://www.ninjaone.com/es/blog/fall-2023-research-report-de-g2/",
+      "https://www.ninjaone.com/de/blog/unschlagbare-qualitaet-ninjaone-rmm-tops-g2s-herbst-2023-bericht/"
     ]
   },
   "smilewanted.com": {
-    "lastAt": 1757814829520,
+    "lastAt": 1758166733772,
     "urls": []
   },
   "inc.com": {
-    "lastAt": 1757814835058,
+    "lastAt": 1758166739106,
     "urls": []
   },
   "feedburner.com": {
-    "lastAt": 1757814836268,
+    "lastAt": 1758166740030,
     "urls": [
       "https://feedburner.com/"
     ]
   },
   "pcmag.com": {
-    "lastAt": 1757814840692,
+    "lastAt": 1758166744378,
     "urls": [
       "https://pcmag.com/",
       "https://www.pcmag.com/categories/lenses/brands/sigma",
@@ -23338,25 +23419,35 @@
       "https://www.pcmag.com/categories/lenses/brands/tamron",
       "https://www.pcmag.com/categories/lenses/brands/fujifilm",
       "https://www.pcmag.com/categories/tablets/brands/amazon",
-      "https://www.pcmag.com/categories/mobile-phones/brands/apple"
+      "https://www.pcmag.com/categories/mobile-phones/brands/apple",
+      "https://www.pcmag.com/categories/printers/brands/epson",
+      "https://www.pcmag.com/categories/headphones/brands/jbl",
+      "https://www.pcmag.com/categories/speakers/brands/sony",
+      "https://www.pcmag.com/categories/lenses/brands/nikon",
+      "https://www.pcmag.com/categories/monitors/brands/viewsonic",
+      "https://www.pcmag.com/categories/tvs/brands/hisense",
+      "https://www.pcmag.com/categories/laptops/brands/lenovo",
+      "https://www.pcmag.com/categories/laptops/brands/hp",
+      "https://www.pcmag.com/categories/laptops/brands/dell",
+      "https://www.pcmag.com/categories/tvs/brands/samsung"
     ]
   },
   "vercel.app": {
-    "lastAt": 1757814841730,
+    "lastAt": 1758166744943,
     "urls": [
       "https://vercel.app/"
     ]
   },
   "inbake.com": {
-    "lastAt": 1757814900540,
+    "lastAt": 1758166803751,
     "urls": []
   },
   "samsungiotcloud.com": {
-    "lastAt": 1757814903754,
+    "lastAt": 1758166806906,
     "urls": []
   },
   "squareup.com": {
-    "lastAt": 1757814906538,
+    "lastAt": 1758166809865,
     "urls": [
       "https://squareup.com/",
       "https://squareup.com/us/en/legal/general/odd-pricing",
@@ -23367,11 +23458,21 @@
       "https://squareup.com/us/en/legal/general/odd-tos",
       "https://squareup.com/us/en/legal/general/franchise",
       "https://squareup.com/us/en/legal/general/square-releases-sweeps-2025",
-      "https://squareup.com/us/en/legal/general/sq-generativeai-terms"
+      "https://squareup.com/us/en/legal/general/sq-generativeai-terms",
+      "https://squareup.com/us/en/legal/general/ua",
+      "https://squareup.com/us/en/legal/general/sign",
+      "https://squareup.com/us/en/legal/general/la-hardware-terms-and-conditions",
+      "https://squareup.com/us/en/legal/general/extended-cp-rate-offer-2025",
+      "https://squareup.com/us/en/legal/general/payment",
+      "https://squareup.com/us/en/legal/general/privacy",
+      "https://squareup.com/us/en/legal/general/gov",
+      "https://squareup.com/us/en/legal/general/buyer-account-terms",
+      "https://squareup.com/us/en/legal/general/la-grant-terms-and-conditions",
+      "https://squareup.com/us/en/legal/general/2025-new-year-sweepstakes"
     ]
   },
   "ringcentral.com": {
-    "lastAt": 1757814912004,
+    "lastAt": 1758166813410,
     "urls": [
       "https://www.ringcentral.com/",
       "https://www.ringcentral.com/1800-number.html",
@@ -23382,11 +23483,21 @@
       "https://www.ringcentral.com/2021_state_of_hybrid_work_report.html",
       "https://www.ringcentral.com/area-code-281.html",
       "https://www.ringcentral.com/area-code-302.html",
-      "https://www.ringcentral.com/area-code-404.html"
+      "https://www.ringcentral.com/area-code-404.html",
+      "https://www.ringcentral.com/area-code-512.html",
+      "https://www.ringcentral.com/area-code-732.html",
+      "https://www.ringcentral.com/area-code-818.html",
+      "https://www.ringcentral.com/area-code-916.html",
+      "https://www.ringcentral.com/area-code-703.html",
+      "https://www.ringcentral.com/au/en/competitors/ringcentral-vs-zoom.html",
+      "https://www.ringcentral.com/beckers_healthcare_whitepaper.html",
+      "https://www.ringcentral.com/business-phone-app.html",
+      "https://www.ringcentral.com/auto-dialer.html",
+      "https://www.ringcentral.com/business-phone-numbers.html"
     ]
   },
   "startappservice.com": {
-    "lastAt": 1757814915194,
+    "lastAt": 1758166816558,
     "urls": []
   },
   "kpmg.com": {
