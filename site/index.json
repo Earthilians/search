@@ -115309,5 +115309,915 @@
     "title": "Asus, Beelink, and HP lead the charge as Ryzen AI Max+ 395 reshapes laptops and desktops in unexpect",
     "description": "Asus, Beelink, and HP are already showcasing Strix Halo PCs",
     "text": "Asus, Beelink, and HP are already showcasing Strix Halo PCs\nWhen you purchase through links on our s"
+  },
+  {
+    "id": "a8fb49df9f9f3add290cf40f0613e1b6ff03e2e9",
+    "url": "https://sweb.ru/vds/nodejs/",
+    "title": "Node.js на VPS/VDS – готовое решение от SpaceWeb",
+    "description": "VPS серверы с интеграцией приложений Node.js последней версии. ✔️ Бесплатная защита от DDoS. ✔️ 3 ре",
+    "text": "Node.js (app) — среда выполнения кода на JavaScript вне браузера. Эта платформа основана на движке V"
+  },
+  {
+    "id": "bc85ff2ccbff1114adc6d73a94674d9c4055aaa8",
+    "url": "https://sweb.ru/vds/bitrix/",
+    "title": "BitrixVM: виртуальная машина для 1С Битрикс - купить в компании SpaceWeb",
+    "description": "1C-Битрикс на виртуальных серверах с высокой производительностью ➤➤ полностью оптимизированное решен",
+    "text": "«1С-Битрикс» — это система управления контентом, которая предлагает широкий набор инструментов и фун"
+  },
+  {
+    "id": "0dc509445d40006299a3b01e49f01041bc791e75",
+    "url": "https://sweb.ru/vds/wireguard/",
+    "title": "Купить WireGuard VPN на VPS по выгодной цене",
+    "description": "Аренда сервера для WireGuard VPN по приятной цене! Высокая скорость, безопасность, конфиденциальност",
+    "text": "WireGuard — это протокол виртуальной частной сети (VPN) последнего поколения с открытым исходным код"
+  },
+  {
+    "id": "8f8306367490f377e12f2bac2c5df0eee9b7251e",
+    "url": "https://sweb.ru/cloud/vps/",
+    "title": "Аренда сервера в облаке | Облачные VPS — SpaceWeb",
+    "description": "Облачные серверы (Cloud server) с технологией виртуализации KVM 📣 Бесплатный выбор дополнительного ",
+    "text": "Облачные серверы — это виртуальные серверы, размещенные в дата-центрах\n                            п"
+  },
+  {
+    "id": "adada1eed0a4adc80593284b4cb169b51d231919",
+    "url": "https://sweb.ru/vds/apps/",
+    "title": "Приложения на серверах VPS/VDS",
+    "description": "Лучшие приложения для VPS/VDS: ✔ Fastpanel, ✔ Docker, ✔ Nextcloud, ✔ Rocketchat, ✔ Node.js, ✔ GitLab",
+    "text": "Виртуальные машины с автоматической установкой популярных приложений для проектов\n            любой "
+  },
+  {
+    "id": "511c7d5450598329ac2ed3aeb63dae9b8f04b766",
+    "url": "https://sweb.ru/cloud/",
+    "title": "Облачные сервисы | SpaceWeb",
+    "description": "Облачная платформа SpaceWeb для хранения и работы с данными включает 👉 DBaaS, балансировщик нагрузк",
+    "text": "Разверните инфраструктуру для ваших проектов\nНужна консультация или коммерческое предложение?\nВаше с"
+  },
+  {
+    "id": "a3e76be2717582d3e50494d63ca2086bbfaf0d0e",
+    "url": "https://sweb.ru/cloud/load-balancer/",
+    "title": "Балансировщик нагрузки (Load balancer) от SpaceWeb",
+    "description": "Сервис балансировки нагрузки серверов от надежного хостинг-провайдера SpaceWeb. Преимущества Load ba",
+    "text": "2 дата-центра уровня Tier III в Москве и Санкт‑Петербурге\nАвтоматический Failover на резервный серве"
+  },
+  {
+    "id": "472bc2c4f47a7fae90dd35554e4e9a2b6c59a5d6",
+    "url": "https://sweb.ru/cloud/database/",
+    "title": "Облачные базы данных MySQL и PostgreSQL | DBaaS",
+    "description": "Облачное хранение баз данных MySQL и PostgreSQL. ☑ Управление инсталляциями через API SpaceWeb. ☑ Об",
+    "text": "Надежная облачная архитектура в кластере Kubernetes.\nПоддержка синхронных и асинхронных реплик.\nУпра"
+  },
+  {
+    "id": "442ddb0b2ca35253c56b79f6bcdc0ac622f6b122",
+    "url": "https://sweb.ru/cloud/private-cloud/",
+    "title": "Частное облако для бизнеса, создание приватного облака SpaceWeb",
+    "description": "Приватное облако – (Virtual Private Cloud) от Sweb.ru позволяет управлять виртуальными и облачными с",
+    "text": "Изолированное облако на базе системы виртуализации от SpaceWeb.\nНужна консультация или коммерческое "
+  },
+  {
+    "id": "d444df8b290a36e668e1e5fe3f14ec7a4d60c40b",
+    "url": "https://sweb.ru/cloud/kubernetes/",
+    "title": "Kubernetes в облаке (KaaS) — Оркестрация контейнеров и масштабирование в облачных решениях",
+    "description": "Kubernetes в облаке — это удобный сервис для создания и управления кластерами, обеспечивающий быстро",
+    "text": "Выберите решение с Kubernetes в облаке для вашего проекта.\nНужна консультация или коммерческое предл"
+  },
+  {
+    "id": "b1305b672c777dc86532457843d39eb6feb1f72c",
+    "url": "https://www.hostinger.com/black-friday-web-hosting-deals",
+    "title": "Best web hosting deals 2025",
+    "description": "The best web hosting deals are here! Grab the biggest offer with an 75% discount for your premium ho",
+    "text": "Up to 75% off web hosting + website builder\n+ months free\n+ months free\nPremium benefits:\n+ months f"
+  },
+  {
+    "id": "dacb2686ead910e2e433a2ad783f7e77dd01480c",
+    "url": "https://www.hostinger.com/business-name-generator",
+    "title": "AI business name generator – get free business name ideas",
+    "description": "Describe your niche or industry, pick a suitable business name from the generated list, and register",
+    "text": "Find unique business name ideas that reflect your brand identity – start for free by entering releva"
+  },
+  {
+    "id": "13de38d403e055b3c8a116d3598a41b187bdef1d",
+    "url": "https://www.hostinger.com/business-email",
+    "title": "Business Email | Get a Professional Email Address in Minutes",
+    "description": "Purchase a business email account based on your domain or company name. Boost your brand trust with ",
+    "text": "24/7 support\n30-day money-back guarantee\nCancel anytime\nBenefits:\nBenefits:\nAll plans are paid upfro"
+  },
+  {
+    "id": "471563829b5c0dcfd4ec0aeb4d467b6a53a6bb3c",
+    "url": "https://www.hostinger.com/business-website",
+    "title": "Business Website Builder | AI tools and ecommerce features",
+    "description": "Create your small business website fast. Get a domain name, a business email, AI tools, and ecommerc",
+    "text": "+ months free\nPremium benefits:\n+ months free\nEverything in Premium, plus:\nTurning my vision into a "
+  },
+  {
+    "id": "a6fbd269ad17c19b074260b877e8163a281a963d",
+    "url": "https://www.hostinger.com/blog-maker",
+    "title": "Create a blog that stands out | Your ultimate blog maker",
+    "description": "Launch your own blog with our blog creator. Focus on your ideas, and let our AI Website Builder, AI ",
+    "text": "+ months free\nPremium benefits:\n+ months free\nEverything in Premium, plus:\nTurning my vision into a "
+  },
+  {
+    "id": "f5038aefa387a87b4308e7c899828799ca76f738",
+    "url": "https://www.hostinger.com/career",
+    "title": "Hostinger career opportunities",
+    "description": "We are looking for brilliant minds to join our young, ambitious and motivated team to change the fut",
+    "text": "Your career is more than just a job description.\nOur success is built on teamwork, company principle"
+  },
+  {
+    "id": "41ef82296a61167c744170bba7dd38771eb0cf8f",
+    "url": "https://www.hostinger.com/cheap-domain-names",
+    "title": "Cheap domain names – Buy a new domain for only US$ 0.99",
+    "description": "Getting a memorable domain doesn’t have to be expensive. Register a 99-cent domain name and save mon",
+    "text": "Buy cheap domains for only US$ 0.99. Save money today.\nAlready have a domain?\nNumerous cheap domain "
+  },
+  {
+    "id": "3ab251739734293f625df03b6d442e320ee7e2e7",
+    "url": "https://www.hostinger.com/cheap-web-hosting",
+    "title": "Cheap Web Hosting | Claim Your Web Hosting Deal - 80% Off",
+    "description": "We offer web hosting deals at an affordable price with high speed, technical support 24/7 & 99.9% up",
+    "text": "+ months free\nWhat you get:\n+ months free\nAll the benefits of Single, plus:\n+ months free\nEverything"
+  },
+  {
+    "id": "6084e61d7d9b1d5cd4c5c279328a9da753f75faa",
+    "url": "https://www.hostinger.com/cloud-hosting",
+    "title": "Managed cloud hosting | 4X more speed | 99.9% uptime",
+    "description": "Our cloud hosting offers up to 20X more resources compared to traditional web hosting, providing gre",
+    "text": "Optimized for business and ecommerce websites.\nResources\n+ months free\nFor 48-month term. US$ 25.99/"
+  },
+  {
+    "id": "8ce8a42fa20145868e8a37692df0613be754d8ae",
+    "url": "https://www.hostinger.com/cms-hosting",
+    "title": "CMS hosting | Instant setup, 24/7 support, top performance",
+    "description": "New generation CMS hosting with all you need to succeed. Get the best results and website speed, no ",
+    "text": "Set up your favorite content management system and turn your website ideas into reality.\nHosting for"
+  },
+  {
+    "id": "246840b95b24f823bf28887be88f2bdbc9a939af",
+    "url": "https://adkernel.com/about/",
+    "title": "ABOUT – AdKernel",
+    "description": "",
+    "text": "Since 2009, the group of developers behind Adkernel have been working to create a platform that serv"
+  },
+  {
+    "id": "16d4e9235d09d6f45dfaff85de81dcbe801c399e",
+    "url": "https://adkernel.com/xml-ad-server-more/",
+    "title": "XML/JSON SUITE – AdKernel",
+    "description": "",
+    "text": "For publishers, this suite offers a myriad of features that make ad management a breeze:\nCatering to"
+  },
+  {
+    "id": "a583c44c5872bf769833719dc2c7e119add097af",
+    "url": "https://adkernel.com/dsp-suite-more/",
+    "title": "White-Label DSP Suite (Bidder Solution) – AdKernel",
+    "description": "",
+    "text": "[tabs_menu_scripts]\nWe support white-label ready interfaces for advertisers, direct publishers and c"
+  },
+  {
+    "id": "496c7a8452153953f1d6db06420baca13df18267",
+    "url": "https://adkernel.com/header-bidding-more/",
+    "title": "White-Label Header Bidding Ad Server (with Prebid support) – AdKernel",
+    "description": "",
+    "text": "Control your ad serving stack with Adkernel’s RTB + Prebid Suite\nAdKernel's Header Bidding Suite is "
+  },
+  {
+    "id": "460184d892eefa4e8e1f77027886587032ec8b93",
+    "url": "https://adkernel.com/ask-for-a-demo-2/",
+    "title": "REQUEST A DEMO – AdKernel",
+    "description": "",
+    "text": "Get started with Adkernel.\nWhite-label ad tech solutions provider.\nTel:  888 654 8826Email: contact@"
+  },
+  {
+    "id": "1ecfdd49b27aecfd9ac9881d1531849d7e43610d",
+    "url": "https://adkernel.com/rtb-suite-more/",
+    "title": "White-Label RTB Exchange Suite – AdKernel",
+    "description": "",
+    "text": "[tabs_menu_scripts]\nSupply features for managing direct publishers, bidder endpoints for SSPs (OpenR"
+  },
+  {
+    "id": "ba52b69cab2478a0001923ba5afac1530817aecb",
+    "url": "https://adkernel.com/privacy-policy/",
+    "title": "Privacy Policy – AdKernel",
+    "description": "",
+    "text": "Adkernel is a technology platform that facilitates the ‘bidded’ buying and selling of online media a"
+  },
+  {
+    "id": "38e5e1a045bae953920f42e8c09a1553f84a670f",
+    "url": "https://adkernel.com/service-and-support/",
+    "title": "Service and Support – AdKernel",
+    "description": "",
+    "text": "White-label ad tech solutions provider.\nTel:  888 654 8826Email: contact@adkernel.com"
+  },
+  {
+    "id": "a794652e77d7e0cec0e83454b32b11c676b4ff63",
+    "url": "https://adkernel.com/sales/",
+    "title": "AdKernel – Universal Ad Technology Platform",
+    "description": "",
+    "text": "Ad Tech Simplified\nContact us for demos, pricing or more information.​\nWhite-label ad tech solutions"
+  },
+  {
+    "id": "7f5f376b23224867deff9b4af151482ff425f7b2",
+    "url": "https://adkernel.com/faq/",
+    "title": "FAQ – AdKernel",
+    "description": "",
+    "text": "White-label ad tech solutions provider.\nTel:  888 654 8826Email: contact@adkernel.com"
+  },
+  {
+    "id": "ae07d75778539d9c0115bd5fce6325aa9bfd9bd6",
+    "url": "https://www.klarna.com/us/cookies/",
+    "title": "Tracking technology notice | Klarna US",
+    "description": "We use tracking technologies to improve and enhance your experience. This statement explains our usa",
+    "text": "This document describes how we use technologies such as cookies, web beacons, browser local storage "
+  },
+  {
+    "id": "77d0a18c8aa677c2b393e80c947623339ca6a7b6",
+    "url": "https://www.klarna.com/us/sitemap/",
+    "title": "Sitemap | Klarna US",
+    "description": "Use the sitemap to find your way around klarna.com/us/. Learn about our app and payment methods.",
+    "text": "Payment options\nCustomer service\nAbout us\nFraud liability protection\nSitemap\nTracking technology not"
+  },
+  {
+    "id": "3eb0ef34297cd09707d3dd466e75049a0203f6a4",
+    "url": "https://www.klarna.com/us/business/the-merchant-portal/",
+    "title": "The Merchant Portal | Klarna for business",
+    "description": "The Merchant portal is your one-stop shop to manage everything Klarna. Control anything from daily o",
+    "text": "Your one-stop shop to manage everything with Klarna—from daily operations to business growth.\nWith a"
+  },
+  {
+    "id": "39da176009a35a6fd525c39b2a59532c71caf5d0",
+    "url": "https://www.klarna.com/us/business/beauty/",
+    "title": "Klarna for business | Flexible payment & marketing solutions",
+    "description": "Offer flexible payment options that let your customers pay over time. Enhance the shopping experienc",
+    "text": "Attract, convert, and retain customers with flexible payment options and performance-driven marketin"
+  },
+  {
+    "id": "810e7c2fa35a8b2117fc24f4fe2a0e1b37f50450",
+    "url": "https://www.klarna.com/us/business/partner-program/",
+    "title": "Klarna for business | Flexible payment & marketing solutions",
+    "description": "Offer flexible payment options that let your customers pay over time. Enhance the shopping experienc",
+    "text": "Attract, convert, and retain customers with flexible payment options and performance-driven marketin"
+  },
+  {
+    "id": "a977a43a92324d5ad11541b7aa6b04f5a182f1fe",
+    "url": "https://www.klarna.com/us/business/sports/",
+    "title": "Klarna for business | Flexible payment & marketing solutions",
+    "description": "Offer flexible payment options that let your customers pay over time. Enhance the shopping experienc",
+    "text": "Attract, convert, and retain customers with flexible payment options and performance-driven marketin"
+  },
+  {
+    "id": "71dddad93c8532bc15382b188d72e17baad5d2b5",
+    "url": "https://www.klarna.com/us/business/ad-policy/",
+    "title": "Ad policies for Klarna advertisers",
+    "description": "",
+    "text": "This Advertising Legal and Ethical Policy (“Policy”) applies globally to all Klarna advertising prop"
+  },
+  {
+    "id": "17f2703257362954eb44d0fce190e5d0a2fc28ed",
+    "url": "https://www.klarna.com/us/our-promise/",
+    "title": "Klarna - Compare prices and pay in 4 payments",
+    "description": "Shop with confidence using Klarna's flexible payment plans & BNPL options. Split your purchase, shop",
+    "text": "Shop securely and choose to pay in 4 interest-free payments, in full, in 30 days, or over time.¹\n4.8"
+  },
+  {
+    "id": "8449d60a873960f9d3382181afcbe144bf8e8823",
+    "url": "https://www.klarna.com/us/business/retail-insider/",
+    "title": "Klarna for business | Flexible payment & marketing solutions",
+    "description": "Offer flexible payment options that let your customers pay over time. Enhance the shopping experienc",
+    "text": "Attract, convert, and retain customers with flexible payment options and performance-driven marketin"
+  },
+  {
+    "id": "9132a48d519adaf87f37715714d782c2a055743c",
+    "url": "https://www.klarna.com/us/blog/",
+    "title": "News | Klarna International",
+    "description": "",
+    "text": "Here, you will find the latest press releases from Klarna, along with related materials such as a pr"
+  },
+  {
+    "id": "0eaf3acf83bc0193d9ce3e0f0c6e3d88b7d8ad56",
+    "url": "https://coinmarketcap.com/cs/events/",
+    "title": "Cryptocurrency Events Calendar - Stay Informed About Crypto | CoinMarketCap",
+    "description": "Follow the crypto ecosystem with our crypto events calendar. All major blockchain and cryptocurrency",
+    "text": "Stay up-to-date with the CoinMarketCap crypto calendar. We list all the major events in the crypto a"
+  },
+  {
+    "id": "ae6a512b3a9844e1da3da08aed6ac4085a2c06b6",
+    "url": "https://coinmarketcap.com/cs/gainers-losers/",
+    "title": "Podívejte se na nejlepší a nejhorší dnešní kryptoměny [Aktualizováno] | CoinMarketCap",
+    "description": "Které jsou nejlepší a nejhorší kryptoměny za posledních 24 hodin? Náš seznam obsahuje těžitelné minc",
+    "text": "Které krypto mince a tokeny s objemem (24 h) > 50 000 USD získaly nebo ztratily za posledních 24 hod"
+  },
+  {
+    "id": "03b50462aae6d99cdd96ce69af3ec51ecbd97a52",
+    "url": "https://coinmarketcap.com/cs/new/",
+    "title": "Nové kryptoměny uvedené dnes a tento týden | CoinMarketCap",
+    "description": "Podívejte se na náš seznam nových kryptoměn přidaných a sledovaných v poslední době. Uvádíme zcela n",
+    "text": "Nové kryptoměny přidané do CoinMarketCap za posledních 30 dní\n#\nJméno\nCena\n1h\n24h\nFully Diluted Mark"
+  },
+  {
+    "id": "a07206d45f69b206253d63e7deb183e374b7d32b",
+    "url": "https://coinmarketcap.com/cs/rankings/exchanges/derivatives/",
+    "title": "Top Cryptocurrency Derivatives Exchanges Ranked | CoinMarketCap",
+    "description": "See our list of cryptocurrency derivatives exchanges ✔️ Ranked by volume ✔️ Binance ✔️ Bybit ✔️ Bitm",
+    "text": "CoinMarketCap hodnotí nejlepší burzy derivátů kryptoměn pomocí algoritmu založeného na několika fakt"
+  },
+  {
+    "id": "a7da1927a67e721cbcf8d2fd64325557ce5f25ca",
+    "url": "https://coinmarketcap.com/cs/rankings/exchanges/dex/",
+    "title": "Top Cryptocurrency Decentralized Exchanges Ranked | CoinMarketCap",
+    "description": "See our list of cryptocurrency dex exchanges ✔️ Ranked by volume ✔️ Uniswap ✔️ MDEX ✔️ PancakeSwap ✔",
+    "text": "CoinMarketCap ranks the top decentralized exchanges based on trading volumes, market share of DeFi m"
+  },
+  {
+    "id": "4e57ac04ead6254e1c1da67a4036ab9c958eaaa5",
+    "url": "https://coinmarketcap.com/cs/derivatives/",
+    "title": "Top Cryptocurrency Derivatives Exchanges Ranked | CoinMarketCap",
+    "description": "See our list of cryptocurrency derivatives exchanges ✔️ Ranked by volume ✔️ Binance ✔️ Bybit ✔️ Bitm",
+    "text": "CoinMarketCap hodnotí nejlepší burzy derivátů kryptoměn pomocí algoritmu založeného na několika fakt"
+  },
+  {
+    "id": "826c61bed5ff87c6250e34b155676363d4167c4a",
+    "url": "https://coinmarketcap.com/cs/headlines/",
+    "title": "Headlines | CoinMarketCap",
+    "description": "Headlines by CoinMarketCap brings you the latest crypto news, Bitcoin news, blockchain news and proj",
+    "text": "Insights into the day's biggest news\nIn a significant pivot, the Federal Reserve reduced its benchma"
+  },
+  {
+    "id": "8e5b103a9d3ddc460e29032d8347eabaa6e1c786",
+    "url": "https://coinmarketcap.com/cs/headlines/news/",
+    "title": "Headlines | News | CoinMarketCap",
+    "description": "Headlines by CoinMarketCap brings you the latest crypto news, Bitcoin news, blockchain news and proj",
+    "text": "Insights into the biggest events shaping the crypto industry.\nVšechny mince\nTODAY\n04:00\nBitcoinová v"
+  },
+  {
+    "id": "d673f0279162c24a14696657d74e2b6d9bd38700",
+    "url": "https://coinmarketcap.com/cs/halving/bitcoin/",
+    "title": "When Is The Next Bitcoin Halving? [Updated] | CoinMarketCap | CoinMarketCap",
+    "description": "Use our Bitcoin halving countdown to see the estimated date for 2024. Learn about the Bitcoin halvin",
+    "text": "The first halving sliced off the first 50% of the Bitcoin mining reward – from 50 to 25 Bitcoins per"
+  },
+  {
+    "id": "e628653fcbaa3dbd92e68ebe96632ff4061fbec1",
+    "url": "https://coinmarketcap.com/cs/headlines/signals/",
+    "title": "Headlines | CoinMarketCap",
+    "description": "Headlines by CoinMarketCap brings you the latest crypto news, Bitcoin news, blockchain news and proj",
+    "text": "Insights into the day's biggest news\nIn a significant pivot, the Federal Reserve reduced its benchma"
+  },
+  {
+    "id": "869fb1743c96d3356add8d04966ce439da3a147c",
+    "url": "https://www.express.co.uk/news/politics/2110025/trump-live-keir-starmer-press-conference",
+    "title": "Trump LIVE: Keir Starmer to host Trump before major press conference | Politics | News | Express.co.",
+    "description": "Follow our live blog for the latest updates on Sir Keir Starmer and Donald Trump's joint press confe",
+    "text": "live\nSir Keir Starmer will host Donald Trump at his grace and favour country home on Thursday as the"
+  },
+  {
+    "id": "3abb0b039b0eb034ba7eb5d33f5ef00b42416ef5",
+    "url": "https://www.express.co.uk/news/weird/2108587/fishing-bait-catch-video",
+    "title": "Fisherman has 'heart attack' after bait lures in frightening beast | Weird | News | Express.co.uk",
+    "description": "The fisherman couldn't believe his eyes after witnessing the most terrifying strike ever and managed",
+    "text": "Fishing is a fun outdoor activity loved by many people across the globe, whether it's a hobby or ful"
+  },
+  {
+    "id": "1c03ed1d2cca0dad93e8218c11ebfd759a4a24e1",
+    "url": "https://www.express.co.uk/news/uk/2110028/asylum-seeker-raped-woman-terrorist",
+    "title": "Asylum seeker who raped woman in London park is convicted terrorist | UK | News | Express.co.uk",
+    "description": "The man arrived in the UK in April 2023 and claimed asylum for fear of persecution in Egypt where he",
+    "text": "An asylum seeker jailed for raping a woman in London's Hyde Park is a convicted Islamic terrorist, a"
+  },
+  {
+    "id": "f25ba24d6f9d3195a3ad51f5b03ef4e61f1e750e",
+    "url": "https://www.express.co.uk/news/royal/2110021/donald-trump-gushes-over-radiant-princess",
+    "title": "Donald Trump gushes over 'radiant' Princess Kate at state banquet | Royal | News | Express.co.uk",
+    "description": "American President Donald Trump gushed over a 'radiant' and 'beautiful' Princess of Wales during his",
+    "text": "During his address at the  state banquet at Windsor Castle, the US president fawned over Princess Ka"
+  },
+  {
+    "id": "51efeff03bb1ea04c06a0084d8d1b001ee0ba056",
+    "url": "https://www.express.co.uk/news/royal/2110019/royal-family-live-donald-trumps",
+    "title": "Royal Family LIVE: Donald Trump's carriage ride mocked 'embarrassing' | Royal | News | Express.co.uk",
+    "description": "Donald Trump received the full works during day one of his State Visit but one aspect of the pageant",
+    "text": "The carriage procession around the grounds of Windsor Castle for Donald Trump’s unprecedented state "
+  },
+  {
+    "id": "43d82eb331286482edca654b1d54524ff4e83b98",
+    "url": "https://www.express.co.uk/news/world/2109004/mum-s-gruesome-final-moments-she-s-mauled-death-pet-hybrid-wolves",
+    "title": "Mum's gruesome final moments as she's mauled to death by pet hybrid wolves | World | News | Express.",
+    "description": "Sandra L Piovesan's body was discovered by her own daughter at her home i",
+    "text": "A mum from Pennsylvania in the US endured a horrific death when she was savagely attacked by eight o"
+  },
+  {
+    "id": "8645a87e9d28c8c2391329941c68bf0bd15b6e37",
+    "url": "https://www.express.co.uk/news/uk/2108560/UK-s-best-place-to-retire-named-as-tiny-Peak-District-town",
+    "title": "UK's ‘best place to retire’ named as tiny Peak District town | UK | News | Express.co.uk",
+    "description": "While you may think one of England's classic seaside time is the best place to settle-down in later ",
+    "text": "After decades working , often in the intense hustle and bustle of the UK’s metropolitan cities, it’s"
+  },
+  {
+    "id": "2ab63fa50d2f131fb198bd38e0e6b81fd23368ed",
+    "url": "https://www.express.co.uk/news/world/2109042/pet-camel-crushed-owner-when-knocked-her-down-tried-mate-her",
+    "title": "Pet camel crushed owner when it knocked her down and tried to mate with her | World | News | Express",
+    "description": "Pam Weaver was given a camel as a 60th birthday present by her husband Noel, but less than a year la",
+    "text": "For her 60th birthday, Pam Weaver's husband, Noel, presented her with an extraordinary gift - a came"
+  },
+  {
+    "id": "7ccd1e7bdadfdb936514140fea94faf7daa18ff9",
+    "url": "https://www.express.co.uk/news/uk/2109886/uk-worst-train-station-trains-cancelled",
+    "title": "The UK's worst train station where nearly 1 in 4 services are cancelled | UK | News | Express.co.uk",
+    "description": "In four weeks, this station saw nearly 22.8% of its scheduled services being cancelled.",
+    "text": "Thousands of Brits rely on the country's railway network to commute and while many have dealt with t"
+  },
+  {
+    "id": "6125ae887e6f8ef087aaf7e4f9033427e43a4b3e",
+    "url": "https://www.express.co.uk/news/uk/2109481/gorgeous-little-market-town-buzzing",
+    "title": "The gorgeous little market town with 'buzzing' high street that's the 'best place to live' | UK | Ne",
+    "description": "This stunning market town is great for a short getaway and for those looking for a new home.",
+    "text": "The UK is home to numerous beautiful market towns with vibrant cultures, bustling town centres, and "
+  },
+  {
+    "id": "0224e4abf6bca6c18e5bc28c079166f03841648b",
+    "url": "https://metamask.io/developer/sdk",
+    "title": "SDK and Web3 Development: Metamask SDK | MetaMask iOS SDK, Web3 Wallet SDK, SDK React",
+    "description": "Securely connect your dapp to millions of MetaMask wallet users with MetaMask SDK. Learn how with ou",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "a34de0191d6f469420661a3cb2dc6c43fd1dd354",
+    "url": "https://metamask.io/developer/embedded-wallets",
+    "title": "Design supercharged on-chain experiences | Embedded Wallets",
+    "description": "MetaMask Embedded Wallets (formally Web3Auth) is a pluggable wallet infrastructure that simplifies W",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "2f2ac184ee0159e9499a5c1dee7484353ff5e42c",
+    "url": "https://metamask.io/developer/delegation-toolkit",
+    "title": "Smart Contract Wallet for Crypto | Metamask Delegation Toolkit, Delegation Framework, Web3 Toolkit",
+    "description": "Create a free and secure crypto smart wallet in seconds. Sign up instantly with zero pop ups and no ",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "1486d0b0786b993240e7ce933bd9bcd0a3719a5c",
+    "url": "https://metamask.io/developer/web3-services",
+    "title": "MetaMask web3 services | MetaMask",
+    "description": "Build and scale dapps with battle-tested infrastructure and powerful APIs across major networks like",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "a359091d30c5b6f0a75471162bcc5eea84993032",
+    "url": "https://metamask.io/developer/snaps",
+    "title": "MetaMask Developer - Extend MetaMask by building Snaps | MetaMask",
+    "description": "Safely extend the MetaMask wallet for new use cases: add support for new blockchains, enhance securi",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "2f2a7bacec6264058a50a3d061091c9b019d9c63",
+    "url": "https://metamask.io/developer",
+    "title": "Dapp Development on the MetaMask Developer Platform | MetaMask Dapp",
+    "description": "Start building your dapp, enable your users to connect with MetaMask wallets, and customize them wit",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "cbe0380863909c76221b8f779b241690c14cde5b",
+    "url": "https://metamask.io/security",
+    "title": "Crypto's Most Secure Wallet, setting the industry standard for security",
+    "description": "Rated the #1 most secure wallet across all platforms, MetaMask leads in web3 security with readable ",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "2fe5b2108a01a8f050e974da4eee877a44c35b8c",
+    "url": "https://metamask.io/about",
+    "title": "About MetaMask: The Leading Crypto Wallet Platform | Metamask Team and Company",
+    "description": "Get acquainted with the expert team behind MetaMask's innovations in crypto wallet technology. Learn",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "03240c129eaa18b8f2eab22beb8732353fd68ef6",
+    "url": "https://metamask.io/snaps",
+    "title": "Customize Your Crypto Wallet with MetaMask Snaps | MetaMask Snaps",
+    "description": "Our MetaMask Snaps open beta allows you to securely customize your wallet via community-built featur",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "464e24fc98c6e4d958f23df39daa1b7a83432524",
+    "url": "https://metamask.io/updates/password-required",
+    "title": "Password Required | MetaMask Mobile App",
+    "description": "You will need your password to unlock your MetaMask mobile app",
+    "text": "Turn cash to crypto\nReceive rewards\nSafely exchange any token\nEnhance your wallet with third-party b"
+  },
+  {
+    "id": "33d87e1c97a29f34be2e9878205f346d4944678c",
+    "url": "https://digitalturbine.com/contact-us",
+    "title": "Contact Digital Turbine | Leading Monetization Platform",
+    "description": "Digital Turbine is the leading independent growth and monetization platform helping operators, OEMs,",
+    "text": ""
+  },
+  {
+    "id": "f47e95253fbe1d9dcf7da56affc29ed7ed55ddd4",
+    "url": "https://digitalturbine.com/telecom",
+    "title": "Operator and OEM Solutions | Digital Turbine",
+    "description": "Powering superior mobile experiences and supercharging device monetization for our global operator a",
+    "text": "Dynamic Installs set up your subscribers’ new phone with popular apps – conveniently preinstalled\nAp"
+  },
+  {
+    "id": "cfee0ed86523c1906d4dd702f05db91b57b44fd2",
+    "url": "https://digitalturbine.com/hear-from-dt",
+    "title": "Newsletter Sign Up | Stay in Touch With Digital Turbine",
+    "description": "Stay on top of industry trends with the help of Digital Turbine. Get notified about the latest brand",
+    "text": ""
+  },
+  {
+    "id": "d34add7cf767df127c734b32aa119cd336ee4d66",
+    "url": "https://digitalturbine.com/locations",
+    "title": "Digital Turbine Locations",
+    "description": "Digital Turbine powers superior mobile consumer experiences and is headquartered in North America, w",
+    "text": ""
+  },
+  {
+    "id": "08bf30e410b23f44d454bb16bc60778c39aff1d3",
+    "url": "https://digitalturbine.com/flexion-dt-japan",
+    "title": "FlexionとDigital Turbine、新たなアプリ配信と優れた収益化の実現に向けた - Digital Turbine",
+    "description": "Digital Turbine inspires connections for the mobile world, for app developers, brands, agencies, car",
+    "text": "2023年3月20日 ゲーム事業社のマーケティングを支援する Flexion (NASDAQ ストックホルム: FLEXM) とモバイルエコシステムにおける成長ソリューションのグローバルリーダーである"
+  },
+  {
+    "id": "332be5c20730fa461d786a2ad9e60499fe287eab",
+    "url": "https://digitalturbine.com/flexion-dt-korea",
+    "title": "Flexion DT Korea - Digital Turbine",
+    "description": "Digital Turbine inspires connections for the mobile world, for app developers, brands, agencies, car",
+    "text": "게임 마케팅 기업인 플렉션(Flexion)(나스닥 스톡홀름: FLEXM)과 모바일 생태계 성장 솔루션 글로벌 리더인 디지털 터빈(Digital Turbine)(나스닥: APPS)은"
+  },
+  {
+    "id": "36dc1442af897fa95b9558e9ca4776d15529b01d",
+    "url": "https://digitalturbine.com/apptopia-brand-brag-insights",
+    "title": "BRAG Brand Insights Apptopia",
+    "description": "Digital Turbine inspires connections for the mobile world, for app developers, brands, agencies, car",
+    "text": ""
+  },
+  {
+    "id": "62fd2874543010f5e9a4104e8606418f78185ed8",
+    "url": "https://digitalturbine.com/brag-brand-insights-q1-2023",
+    "title": "BRAG Brand Insights Q1 2023 | Digital Turbine",
+    "description": "Digital Turbine inspires connections for the mobile world, for app developers, brands, agencies, car",
+    "text": ""
+  },
+  {
+    "id": "c6e27bddd17eddee56d68ca9e388eb8ea003ce4a",
+    "url": "https://digitalturbine.com/insights/pay-attention",
+    "title": "Pay Attention | Digital Turbine",
+    "description": "Digital Turbine inspires connections for the mobile world, for app developers, brands, agencies, car",
+    "text": ""
+  },
+  {
+    "id": "476a7303acf2fe36f0b9a216fe55e8ec0b223940",
+    "url": "https://digitalturbine.com/singletap-solution",
+    "title": "Smooth User Experience with SingleTap™ | Digital Turbine",
+    "description": "Powered by On-Device technology, DT's SingleTap solutions enable frictionless app installs from any ",
+    "text": "Regain control over your user journey with DT’s Direct-to-Consumer app installs solution\nMaximize yo"
+  },
+  {
+    "id": "81095002bf3de0c374a1013f5427ad6cf334606c",
+    "url": "https://asana.com/teams/designers",
+    "title": "Free Design Templates to Streamline Creative Workflows • Asana",
+    "description": "Standardize design requests, reviews, and more—so you can spend less time on back-and-forth, and mor",
+    "text": "Make space for creativity. Standardize design requests, reviews, and more—so you can spend less time"
+  },
+  {
+    "id": "9471f5c08aa9ea550d43d8f8404a8226e92ff6e7",
+    "url": "https://asana.com/teams/event-planning",
+    "title": "Free Event Planning Template - Coordinate Events [2025] • Asana",
+    "description": "Seamlessly coordinate your next event with Asana’s free event planning template. Plan your budget, c",
+    "text": "Never lose sight of crucial event planning details. Track all your event information in one place, f"
+  },
+  {
+    "id": "e26566c8ce1bbc8cfa5b4e91aba8e1b55c9ba748",
+    "url": "https://asana.com/teams/finance",
+    "title": "Free Templates to Structure Your Finance Processes • Asana",
+    "description": "Successfully managing financial teams, departments, and companies comes down to attention to detail.",
+    "text": "The most organized finance teams are also the most efficient. Templates provide that organization, s"
+  },
+  {
+    "id": "1b061f7dbaabcd4be4e77c3a2eacf3297af4d0da",
+    "url": "https://asana.com/teams",
+    "title": "Teams • Asana",
+    "description": "Teams",
+    "text": "Check out these use cases and see how your team can find success with Asana.\nTake your strategies, m"
+  },
+  {
+    "id": "9410a223f37b027103fc4a5d50960b6a3d35d5b7",
+    "url": "https://asana.com/students/success",
+    "title": "Support Request Submitted -- Thanks! • Asana",
+    "description": "",
+    "text": "We’ll get back to you shortly. In the meantime, here are some links that you might find useful:\nExpl"
+  },
+  {
+    "id": "ff7cdad08030d02684b38f5ff94d07cf62ca72b3",
+    "url": "https://asana.com/sso-redirect",
+    "title": "One moment... • Asana",
+    "description": "We're taking you back to Asana!",
+    "text": "We’re taking you back to Asana. This should be quick!"
+  },
+  {
+    "id": "fe32ef47d1d6f2d12ee4c135337dcaa33d36a162",
+    "url": "https://asana.com/site-map",
+    "title": "Sitemap • Asana",
+    "description": "Sitemap for Asana.com",
+    "text": ""
+  },
+  {
+    "id": "7ecda14c0d98cd1df0e0baeb48bc39209bec224a",
+    "url": "https://asana.com/thedaily",
+    "title": "Asana Project Management Software. Teams don’t lose track of work with Asana. • Asana",
+    "description": "See plans, check progress, and discuss work in one place. With Asana as your work manager, you’ll st",
+    "text": "See plans, check progress, and discuss work in one place. With Asana as your work manager, you’ll st"
+  },
+  {
+    "id": "e086dbab540e07550e642acd38089e0fb851a6dd",
+    "url": "https://asana.com/vision",
+    "title": "Manage your team’s work, projects, & tasks online • Asana",
+    "description": "Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, ",
+    "text": "See how your work connects to goals while working alongside AI that understands your business.\nPlan,"
+  },
+  {
+    "id": "ccc8d346a0b9007faf87de44a445f023261d99db",
+    "url": "https://asana.com/uses/prince2",
+    "title": "PRINCE2 Project Management Software and Tools - Asana • Asana",
+    "description": "Prince2 is a process-based methodology for managing team projects. Learn how Asana can help with Pri",
+    "text": "Use Asana for every stage of the PRINCE2 process.\nPRINCE2 (or Projects IN Controlled Environments) i"
+  },
+  {
+    "id": "365239b8b0c0e02387dcdeeba265f8969740522d",
+    "url": "https://slate.com/news-and-politics/matt-cooper",
+    "title": "Matt Cooper",
+    "description": "Everything on Slate about Matt Cooper",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "54ebb8118b15f8a2926093ad88051a3dbf6feb54",
+    "url": "https://slate.com/news-and-politics/memos-to-45",
+    "title": "Memos to 45",
+    "description": "Everything on Slate about Memos to 45",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "e333893efd21ba8b621d10a57a7c995c17f73cce",
+    "url": "https://slate.com/news-and-politics/mezine-central",
+    "title": "Mezine Central",
+    "description": "Everything on Slate about Mezine Central",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "ccf4b85d6719031e5963095b8242061e6029de36",
+    "url": "https://slate.com/news-and-politics/meet-slate",
+    "title": "Meet Slate",
+    "description": "Everything on Slate about Meet Slate",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "57a3b328abb8b786a8b4160434f7625f58376a50",
+    "url": "https://slate.com/news-and-politics/member-takeover",
+    "title": "Member Takeover",
+    "description": "Everything on Slate about Member Takeover",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "6f2773d7fedbb3c1f159ca5836cdd90aa48b2d72",
+    "url": "https://slate.com/news-and-politics/miers-o-meter",
+    "title": "Miers-o-meter",
+    "description": "Everything on Slate about Miers-o-meter",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "a1128608d43a254eec8438e919e6b2f5e5b493cb",
+    "url": "https://slate.com/news-and-politics/modest-proposal",
+    "title": "Modest Proposal",
+    "description": "Everything on Slate about Modest Proposal",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "02c9cf314b20272612716cbf4992ba0d484f839b",
+    "url": "https://slate.com/news-and-politics/moment-magazine",
+    "title": "Moment Magazine | Slate",
+    "description": "Everything on Slate about Moment Magazine",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "1df76e6dfe263d169f98a4acd2bf2054b6ffe83c",
+    "url": "https://slate.com/news-and-politics/mormon-explainer",
+    "title": "Mormon Explainer",
+    "description": "Everything on Slate about Mormon Explainer",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "5ae2b3f15d7a660b220801f402a5ee0a26259a49",
+    "url": "https://slate.com/news-and-politics/news-quiz",
+    "title": "News Quiz | Slate",
+    "description": "Everything on Slate about News Quiz",
+    "text": "Slate is published by The Slate\n          Group, a Graham Holdings Company.\nAll contents ©\n        2"
+  },
+  {
+    "id": "26c5b562cf888483ea72501a096a099071963bd4",
+    "url": "https://www.euronews.com/business/2025/09/18/federal-reserve-cuts-key-interest-rate-for-the-first-time-this-year",
+    "title": "Federal Reserve cuts key interest rate for the first time this year | Euronews",
+    "description": "Fed officials, in a set of projections also released on Wednesday, signalled that they expect to red",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "1a212909de19a1b3bcc4be347cac77199feff3d8",
+    "url": "https://www.euronews.com/2025/09/18/us-late-night-tv-comic-show-jimmy-kimmel-taken-off-air-over-remarks-about-charlie-kirks-de",
+    "title": "US late-night TV comic show Jimmy Kimmel taken off air over remarks about Charlie Kirk’s death | Eur",
+    "description": "Kimmel said that Trump’s response to Kirk’s death “is not how an adult grieves the murder of someone",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "21ca992402da02e60767bb16a3fce7e483a8ba2c",
+    "url": "https://www.euronews.com/next/2025/09/18/this-is-europes-first-electric-boat-to-shuttle-the-public-on-a-river-but-will-it-be-used",
+    "title": "This is Europe’s first electric boat to shuttle the public on a river. But will it be used? | Eurone",
+    "description": "The compact ferry can carry 32 passengers through the Neris River. But some say it’s quicker to walk",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "b3610e3eeb315834532db657130d4076daee06be",
+    "url": "https://www.euronews.com/video/2025/09/18/latest-news-bulletin-september-18th-2025-morning",
+    "title": "Video. Latest news bulletin | September 18th, 2025 – Morning | Euronews",
+    "description": "Video. Catch up with the most important stories from around Europe and beyond this September 18th, 2",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "ddc401e8736b2458f36db10921348196878188c9",
+    "url": "https://www.euronews.com/business/2025/09/18/public-services-vs-tax-cuts-what-are-europeans-willing-to-sacrifice",
+    "title": "Public services vs. tax cuts: What are Europeans willing to sacrifice? | Euronews",
+    "description": "Four in ten EU citizens believe taxes are too high and support tax cuts, even if this leads to fewer",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "98450a93652fb7184cbb5dfc94b6983c21f62896",
+    "url": "https://www.euronews.com/health/2025/09/18/new-ai-tool-predicts-risk-of-more-than-1000-medical-conditions-more-than-a-decade-in-advan",
+    "title": "New AI tool predicts risk of more than 1,000 medical conditions a decade in advance | Euronews",
+    "description": "The model can accurately predict conditions such as diabetes and cancer, and is less reliable for is",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "66ae823d1d5be851f5265fb9a1ce38579a12d2c6",
+    "url": "https://www.euronews.com/my-europe/2025/09/18/trade-ukraine-gaza-starmer-pleading-for-concessions-from-trump",
+    "title": "Trade, Ukraine, Gaza: Starmer pleading for concessions from Trump | Euronews",
+    "description": "On Thursday, the political part of Trump’s visit to the UK gets underway with both sides hoping to a",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "8723e71a33b06cfd37d1c3b38d444c87702d5905",
+    "url": "https://www.euronews.com/2025/09/18/trump-and-king-charles-hail-us-uk-special-bond-in-lavish-state-dinner-speech",
+    "title": "Trump and King Charles hail US - UK special bond in lavish state dinner  | Euronews",
+    "description": "The US president said the word “special” hardly does justice to the relationship between the transat",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "2d6f7a73060489fd4dace6579673bb637a8aaddf",
+    "url": "https://www.euronews.com/2025/09/17/doctors-for-brazils-former-president-jair-bolsonaro-say-they-have-detected-early-stage-can",
+    "title": "Doctors for Brazil's former president Jair Bolsonaro say they have detected early-stage cancer  | Eu",
+    "description": "Bolsonaro's lawyers are likely to put his ill health forward as an argument for house arrest rather ",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "82c8e74c1fe23d6064476ce55f72a602c809635b",
+    "url": "https://www.euronews.com/2025/09/17/ukraine-expects-29bn-fund-for-us-weapons-to-fight-russia-zelenskyy-says",
+    "title": "Ukraine expects €2.9bn fund for US weapons to fight Russia, Zelenskyy says | Euronews",
+    "description": "The financial arrangement known as the Prioritised Ukraine Requirements List (PURL) pools contributi",
+    "text": "Radio Schuman\nThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with r"
+  },
+  {
+    "id": "1be861bc08cbc9848508b71963abfbb31003512f",
+    "url": "https://sendbird.com/blog/ai-knowledge-base",
+    "title": "AI Knowledge Base: What It Is and Why It’s Crucial to AI Agents | Sendbird",
+    "description": "An AI knowledge base is a structured repository of information that an AI agent uses to understand, ",
+    "text": "Anywhere, anytime AI customer support\nAnywhere, anytime AI customer support\nAnywhere, anytime AI cus"
+  },
+  {
+    "id": "d079539ed71dae7671004efd32e509c04556bf6a",
+    "url": "https://sendbird.com/blog/mindmakers-podcast-kevin-chung",
+    "title": "Why 95% of Enterprise AI Fails—and Why Success Is Closer Than You Think | Sendbird",
+    "description": "Discover how to scale beyond pilots to see real ROI from enterprise AI. Learn from WRITER’s Chief St",
+    "text": "Anywhere, anytime AI customer support\nAnywhere, anytime AI customer support\nAnywhere, anytime AI cus"
+  },
+  {
+    "id": "39c9eb70463abec2317acca44a3ec17bf489c7ff",
+    "url": "https://sendbird.com/blog/ai-agent-evaluation-guide",
+    "title": "The Complete Guide to AI Agent Evaluation: Key Steps, Metrics & Best Practices | Sendbird",
+    "description": "AI agent evaluation is a crucial step in turning AI agent pilots into successful, scalable solutions",
+    "text": "Anywhere, anytime AI customer support\nAnywhere, anytime AI customer support\nAnywhere, anytime AI cus"
+  },
+  {
+    "id": "9bb671fee27065442a3ae7a574ed83fb97db0af7",
+    "url": "https://sendbird.com/blog/b2b-customer-service",
+    "title": "B2B Customer Service: Definition, Best Practices, Examples & AI Tools | Sendbird",
+    "description": "B2B customer service is the help or guidance a business provides to another business that’s using it",
+    "text": "Automate customer service with AI agents\nAutomate customer service with AI agents\nAutomate customer "
+  },
+  {
+    "id": "1391117126b87e29073f024755353762ae1b69bd",
+    "url": "https://sendbird.com/blog/ai-voice-customer-service-sendbird-ceo-john-kim-interview",
+    "title": "Why Voice Is Still the Most Human Channel: Insights into AI Voice Customer Service from Sendbird CEO",
+    "description": "Discover how AI voice customer service is evolving and why voice continues to be the most human comm",
+    "text": "Anywhere, anytime AI customer support\nAnywhere, anytime AI customer support\nAnywhere, anytime AI cus"
+  },
+  {
+    "id": "12ed7994fb9bd76e352aa242d85c7c7ddc73cdce",
+    "url": "https://sendbird.com/blog/how-to-build-ai-voice-agents",
+    "title": "How to Build the Best AI Voice Agents for Customer Service | Sendbird",
+    "description": "Learn how to build and deploy voice AI agents for customer service using Sendbird—improving resoluti",
+    "text": "Automate customer service with AI agents\nAutomate customer service with AI agents\nAutomate customer "
+  },
+  {
+    "id": "34d75926e93add42774a2ce904004cdea049840c",
+    "url": "https://sendbird.com/blog/ai-voice-agents",
+    "title": "What are AI Voice Agents? Definition, Use Cases, Features, and Platforms | Sendbird",
+    "description": "Learn why AI voice agents will help you modernize your customer service, enhance CSAT, and boost ope",
+    "text": "Automate customer service with AI agents\nAutomate customer service with AI agents\nAutomate customer "
+  },
+  {
+    "id": "8b557eb9d2f4fb81aa9109b92c074d65a43b63a6",
+    "url": "https://sendbird.com/blog/agentic-ai-implementation-guide",
+    "title": "The Agentic AI Implementation Guide for Customer Experience and Support | Sendbird",
+    "description": "Learn how to approach AI agents implementation with our introductory agentic AI implementation guide",
+    "text": "Automate customer service with AI agents\nAutomate customer service with AI agents\nAutomate customer "
+  },
+  {
+    "id": "cfff3018fae8fb9868d0d44850a9cfbb824c807e",
+    "url": "https://sendbird.com/blog/introducing-voice-ai-agent",
+    "title": "Introducing Sendbird Voice AI Agent: Clear, Responsive, Omnichannel | Sendbird",
+    "description": "Meet the new Sendbird voice AI agent, rebuilt to enhance the customer experience on the phone. It is",
+    "text": "Anywhere, anytime AI customer support\nAnywhere, anytime AI customer support\nAnywhere, anytime AI cus"
+  },
+  {
+    "id": "4965a850c410fa51c30b70ef5b2e2f00389389a3",
+    "url": "https://sendbird.com/blog/agentic-ai-in-retail",
+    "title": "Agentic AI in Retail: Use Cases, Benefits, and Best Practices | Sendbird",
+    "description": "Discover how agentic AI is transforming the way people shop and retailers operate, helping to cut co",
+    "text": "Automate customer service with AI agents\nAutomate customer service with AI agents\nAutomate customer "
+  },
+  {
+    "id": "c944e576276c2bc53a2c56a6ace486d456d4c5fb",
+    "url": "https://www.medallia.com/customers/cox/",
+    "title": "Cox Case Study | Customer Experience in Communications – Medallia",
+    "description": "A customer experience case study on how Cox manages customer feedback in the telecommunications indu",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "97f2cbcda0ac4061a81c56ba42bb07f981af15e9",
+    "url": "https://www.medallia.com/customers/banorte/",
+    "title": "Banorte – Financial Services | Medallia Case Study – Medallia",
+    "description": "Banorte uses the voice of the customer to continually transform the experience",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "7255fdda53ec56b71235a5106f387557073acc6e",
+    "url": "https://www.medallia.com/customers/air-liquide/",
+    "title": "Air-Liquide Case Study | Manufacturing Customer Experience – Medallia",
+    "description": "A customer experience case study on how Air-Liquide manages customer feedback in the manufacturing i",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "251febfed35bc864754711bf6c6f4cfdbe568456",
+    "url": "https://www.medallia.com/customers/sunrise/",
+    "title": "Sunrise Case Study | Telecom Customer Experience – Medallia",
+    "description": "A customer experience case study on how Sunrise manages customer feedback in the telecoms industry u",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "c7cf1307ed443e911fe87300d0e079ef5024c5fa",
+    "url": "https://www.medallia.com/customers/benefit-cosmetics/",
+    "title": "Benefit Cosmetics Case Study | Retail Customer Experience – Medallia",
+    "description": "A customer experience case study on how Benefit Cosmetics manages customer feedback in the retail in",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "6c5133cbe27522a32ced376ecbc9d0ca45904428",
+    "url": "https://www.medallia.com/customers/bac/",
+    "title": "Medallia Customer | BAC – Medallia",
+    "description": "BAC incorporates experience data into multiple service channels",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "fc078a898786bdd772a2f531e6405178956342f9",
+    "url": "https://www.medallia.com/customers/massmutual/",
+    "title": "MassMutual Case Study | Life Insurance Customer Experienc – Medallia",
+    "description": "A customer experience case study on how MassMutual manages customer feedback in the life insurance i",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "31b626bd7c4f4dc2adca1a68cd37f2dcd912f7ba",
+    "url": "https://www.medallia.com/customers/anaplan/",
+    "title": "Anaplan – Medallia",
+    "description": "Using the customer voice to drive best-in-class experiences",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "43c46862784e4c288a5de08e499e867d1a492818",
+    "url": "https://www.medallia.com/customers/best-western/",
+    "title": "Best Western Case Study | Hospitality Customer Experience – Medallia",
+    "description": "A customer experience case study on how Best Western manages customer feedback in the hospitality in",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
+  },
+  {
+    "id": "9350dffb287a5f61beb846e06ea8e81f5abf152c",
+    "url": "https://www.medallia.com/customers/andersen-corporation/",
+    "title": "Using world-class integrations to connect Experience Management data – Medallia",
+    "description": "How Andersen Corporation used world-class integrations to connect Experience Management data",
+    "text": "Learn how partnering with us can transform your business — for both customers and\n                  "
   }
 ]
