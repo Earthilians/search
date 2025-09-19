@@ -704,7 +704,7 @@
     ]
   },
   "adobe.com": {
-    "lastAt": 1757913820515,
+    "lastAt": 1758263683633,
     "urls": [
       "https://adobe.com/",
       "https://www.adobe.com/ie/metaverse.html",
@@ -719,11 +719,16 @@
       "https://www.adobe.com/ch_fr/metaverse.html",
       "https://www.adobe.com/sg/metaverse.html",
       "https://www.adobe.com/ar/products/catalog.html",
-      "https://www.adobe.com/mt/metaverse.html"
+      "https://www.adobe.com/mt/metaverse.html",
+      "https://www.adobe.com/uk/metaverse.html",
+      "https://www.adobe.com/no/creativecloud/plans.html",
+      "https://www.adobe.com/au/metaverse.html",
+      "https://www.adobe.com/fr/metaverse.html",
+      "https://www.adobe.com/at/creativecloud/plans.html"
     ]
   },
   "spotify.com": {
-    "lastAt": 1757913825564,
+    "lastAt": 1758263694263,
     "urls": [
       "https://www.spotify.com/us/signup",
       "https://www.spotify.com/ae-en/signup",
@@ -744,11 +749,21 @@
       "https://www.spotify.com/ba/signup",
       "https://www.spotify.com/ba-bs/signup",
       "https://www.spotify.com/bb/signup",
-      "https://www.spotify.com/bd-en/signup"
+      "https://www.spotify.com/bd-en/signup",
+      "https://www.spotify.com/us/select-your-country-region/",
+      "https://www.spotify.com/ad-ca/select-your-country-region/",
+      "https://www.spotify.com/ad/select-your-country-region/",
+      "https://www.spotify.com/ae-ar/select-your-country-region/",
+      "https://www.spotify.com/ae-en/select-your-country-region/",
+      "https://www.spotify.com/ag/select-your-country-region/",
+      "https://www.spotify.com/al/select-your-country-region/",
+      "https://www.spotify.com/am/select-your-country-region/",
+      "https://www.spotify.com/ao-pt/select-your-country-region/",
+      "https://www.spotify.com/ao-en/select-your-country-region/"
     ]
   },
   "vimeo.com": {
-    "lastAt": 1757913829540,
+    "lastAt": 1758263697908,
     "urls": [
       "https://vimeo.com/",
       "https://vimeo.com/blog",
@@ -769,15 +784,25 @@
       "https://vimeo.com/blog/author/antondeionno",
       "https://vimeo.com/blog/author/anyacohen",
       "https://vimeo.com/blog/author/ashleymaas",
-      "https://vimeo.com/blog/author/ashrafalkarmi"
+      "https://vimeo.com/blog/author/ashrafalkarmi",
+      "https://vimeo.com/blog/author/beaufarrell",
+      "https://vimeo.com/blog/author/bennettmarano",
+      "https://vimeo.com/blog/author/aubreypage",
+      "https://vimeo.com/blog/author/banikaur",
+      "https://vimeo.com/blog/author/biancagalvez",
+      "https://vimeo.com/blog/author/blair-barnes",
+      "https://vimeo.com/blog/author/blakewhitman",
+      "https://vimeo.com/blog/author/brad",
+      "https://vimeo.com/blog/author/bpark",
+      "https://vimeo.com/blog/author/caitland"
     ]
   },
   "ln-msedge.net": {
-    "lastAt": 1757913832393,
+    "lastAt": 1758263700836,
     "urls": []
   },
   "tiktok.com": {
-    "lastAt": 1757913835368,
+    "lastAt": 1758263708956,
     "urls": [
       "https://www.tiktok.com/following",
       "https://www.tiktok.com/about",
@@ -796,37 +821,46 @@
       "https://www.tiktok.com/accessibility",
       "https://www.tiktok.com/legal/privacy-policy-for-younger-users",
       "https://www.tiktok.com/legal/copyright-policy",
-      "https://www.tiktok.com/legal/cookie-policy"
+      "https://www.tiktok.com/legal/cookie-policy",
+      "https://www.tiktok.com/legal/law-enforcement",
+      "https://www.tiktok.com/safety/resources/transparency-report",
+      "https://www.tiktok.com/safety/resources/transparency-report-2019-1",
+      "https://www.tiktok.com/safety/resources/transparency-report-2020-1",
+      "https://www.tiktok.com/business/en-SG",
+      "https://www.tiktok.com/safety/en-sg",
+      "https://www.tiktok.com/safety/resources/tiktok-transparency-report-2021-h-1",
+      "https://www.tiktok.com/safety/resources/transparency-report-2020-2",
+      "https://www.tiktok.com/legal/open-source"
     ]
   },
   "cloudfront.net": {
-    "lastAt": 1757913838467,
+    "lastAt": 1758263711919,
     "urls": []
   },
   "tiktokv.com": {
-    "lastAt": 1757913843302,
+    "lastAt": 1758263716958,
     "urls": []
   },
   "x.com": {
-    "lastAt": 1757913844281,
+    "lastAt": 1758263717895,
     "urls": [
       "https://x.com/"
     ]
   },
   "gvt2.com": {
-    "lastAt": 1757913847261,
+    "lastAt": 1758263720892,
     "urls": []
   },
   "gvt1.com": {
-    "lastAt": 1757913850230,
+    "lastAt": 1758263723940,
     "urls": []
   },
   "akam.net": {
-    "lastAt": 1757913853269,
+    "lastAt": 1758263726831,
     "urls": []
   },
   "gandi.net": {
-    "lastAt": 1757913856047,
+    "lastAt": 1758263730373,
     "urls": [
       "https://www.gandi.net/en",
       "https://www.gandi.net/en/simple-hosting/wordpress",
@@ -847,49 +881,59 @@
       "https://www.gandi.net/en/domain/tld?prefix=h",
       "https://www.gandi.net/en/domain/tld?prefix=k",
       "https://www.gandi.net/en/domain/tld?prefix=i",
-      "https://www.gandi.net/en/domain/tld?prefix=j"
+      "https://www.gandi.net/en/domain/tld?prefix=j",
+      "https://www.gandi.net/en/domain/tld?prefix=n",
+      "https://www.gandi.net/en/domain/tld?prefix=o",
+      "https://www.gandi.net/en/domain/tld?prefix=m",
+      "https://www.gandi.net/en/domain/tld?prefix=p",
+      "https://www.gandi.net/en/domain/tld?prefix=l",
+      "https://www.gandi.net/en/domain/tld?prefix=r",
+      "https://www.gandi.net/en/domain/tld?prefix=s",
+      "https://www.gandi.net/en/domain/tld?prefix=t",
+      "https://www.gandi.net/en/domain/tld?prefix=u",
+      "https://www.gandi.net/en/domain/tld?prefix=q"
     ]
   },
   "a-msedge.net": {
-    "lastAt": 1757913858911,
+    "lastAt": 1758263733303,
     "urls": []
   },
   "bit.ly": {
-    "lastAt": 1757913880227,
+    "lastAt": 1758263754469,
     "urls": [
       "https://bit.ly/"
     ]
   },
   "ytimg.com": {
-    "lastAt": 1757913883229,
+    "lastAt": 1758263757411,
     "urls": []
   },
   "office365.com": {
-    "lastAt": 1757913946174,
+    "lastAt": 1758263820535,
     "urls": []
   },
   "edgekey.net": {
-    "lastAt": 1757913949082,
+    "lastAt": 1758263823462,
     "urls": []
   },
   "nic.ru": {
-    "lastAt": 1757913951736,
+    "lastAt": 1758263826454,
     "urls": [
       "https://nic.ru/"
     ]
   },
   "cloudflare.net": {
-    "lastAt": 1757913954955,
+    "lastAt": 1758263829527,
     "urls": []
   },
   "yandex.net": {
-    "lastAt": 1757913958108,
+    "lastAt": 1758263833188,
     "urls": [
       "https://yandex.net/"
     ]
   },
   "qq.com": {
-    "lastAt": 1757913967248,
+    "lastAt": 1758263839740,
     "urls": [
       "https://news.qq.com/rain/a/20250911V03ELI00",
       "https://news.qq.com/rain/a/20250911V039BM00",
@@ -910,11 +954,21 @@
       "https://news.qq.com/rain/a/20250915A049M100",
       "https://news.qq.com/rain/a/20250915V03OL100",
       "https://news.qq.com/rain/a/20250915A04B4G00",
-      "https://news.qq.com/rain/a/20250915V0491E00"
+      "https://news.qq.com/rain/a/20250915V0491E00",
+      "https://news.qq.com/rain/a/20250919V04V7600",
+      "https://news.qq.com/rain/a/20250919V04V1100",
+      "https://news.qq.com/rain/a/20250919A04VHR00",
+      "https://news.qq.com/rain/a/20250919A04VIM00",
+      "https://news.qq.com/rain/a/20250904A04KRY00",
+      "https://news.qq.com/rain/a/20250919A04VEV00",
+      "https://news.qq.com/rain/a/20250906V06WQQ00",
+      "https://news.qq.com/rain/a/20250912A063F600",
+      "https://news.qq.com/rain/a/20250919A04VM300",
+      "https://news.qq.com/rain/a/20250919V04UKV00"
     ]
   },
   "wordpress.com": {
-    "lastAt": 1757913971268,
+    "lastAt": 1758263843580,
     "urls": [
       "https://wordpress.com/",
       "https://gd.wordpress.com/",
@@ -935,11 +989,21 @@
       "https://wordpress.com/compare/blogger/",
       "https://wordpress.com/p2/faq/",
       "https://wordpress.com/p2/contact/",
-      "https://wordpress.com/wordpress-vs-wix/"
+      "https://wordpress.com/wordpress-vs-wix/",
+      "https://wordpress.com/newsletter/",
+      "https://wordpress.com/advertising/",
+      "https://wordpress.com/paint-the-web/",
+      "https://wordpress.com/compare/",
+      "https://wordpress.com/domains/buy/art/",
+      "https://wordpress.com/transfer-google-domains/",
+      "https://wordpress.com/100-year/",
+      "https://wordpress.com/business-name-generator/",
+      "https://wordpress.com/business/",
+      "https://wordpress.com/bigsky/"
     ]
   },
   "zoom.us": {
-    "lastAt": 1757913973833,
+    "lastAt": 1758263846194,
     "urls": [
       "https://zoom.us/download",
       "https://zoom.us/join",
@@ -960,11 +1024,21 @@
       "https://zoom.us/de/pricing/events",
       "https://zoom.us/de/pricing/healthcare",
       "https://zoom.us/de/pricing/zoom-contact-center",
-      "https://zoom.us/de/pricing/zoom-phone"
+      "https://zoom.us/de/pricing/zoom-phone",
+      "https://zoom.us/es/pricing/education",
+      "https://zoom.us/es/pricing/events",
+      "https://zoom.us/es/download",
+      "https://zoom.us/es/partners/registration",
+      "https://zoom.us/es/pricing",
+      "https://zoom.us/es/pricing/healthcare",
+      "https://zoom.us/es/pricing/zoom-phone",
+      "https://zoom.us/es/pricing/zoom-contact-center",
+      "https://zoom.us/es/pricing/zoom-rooms",
+      "https://zoom.us/es/pricing/developer"
     ]
   },
   "opera.com": {
-    "lastAt": 1757913980062,
+    "lastAt": 1758263850237,
     "urls": [
       "https://www.opera.com/",
       "https://www.opera.com/features",
@@ -985,35 +1059,45 @@
       "https://www.opera.com/uk/features",
       "https://www.opera.com/nb/features",
       "https://www.opera.com/id/features",
-      "https://www.opera.com/vi/features"
+      "https://www.opera.com/vi/features",
+      "https://www.opera.com/features/bookmarks",
+      "https://www.opera.com/hu/features",
+      "https://www.opera.com/es-419/features/bookmarks",
+      "https://www.opera.com/zh-cn/features",
+      "https://www.opera.com/pl/features/bookmarks",
+      "https://www.opera.com/de/features/bookmarks",
+      "https://www.opera.com/es/features/bookmarks",
+      "https://www.opera.com/pt-br/features/bookmarks",
+      "https://www.opera.com/fr/features/bookmarks",
+      "https://www.opera.com/pt/features/bookmarks"
     ]
   },
   "samsung.com": {
-    "lastAt": 1757914048535,
+    "lastAt": 1758263917026,
     "urls": [
       "https://samsung.com/"
     ]
   },
   "google-analytics.com": {
-    "lastAt": 1757914049555,
+    "lastAt": 1758263917933,
     "urls": [
       "https://google-analytics.com/"
     ]
   },
   "baidu.com": {
-    "lastAt": 1757914053808,
+    "lastAt": 1758263921304,
     "urls": [
       "https://baidu.com/"
     ]
   },
   "cloudflare-dns.com": {
-    "lastAt": 1757914054958,
+    "lastAt": 1758263922326,
     "urls": [
       "https://cloudflare-dns.com/"
     ]
   },
   "windows.com": {
-    "lastAt": 1757914058689,
+    "lastAt": 1758263926163,
     "urls": [
       "https://www.microsoft.com/en-us/windows/apps-for-windows",
       "https://www.microsoft.com/en-us/windows/ai-features",
@@ -1034,11 +1118,21 @@
       "https://www.microsoft.com/en-us/windows/laptops-for-college-students",
       "https://www.microsoft.com/en-us/windows/windows-11",
       "https://www.microsoft.com/en-us/windows/photo-movie-editor",
-      "https://www.microsoft.com/en-us/windows/sync-across-your-devices"
+      "https://www.microsoft.com/en-us/windows/sync-across-your-devices",
+      "https://www.microsoft.com/en-us/windows/windows-10-specifications",
+      "https://www.microsoft.com/en-us/windows/get-windows-11",
+      "https://www.microsoft.com/en-us/windows/windows-11-specifications",
+      "https://www.microsoft.com/en-us/windows/compare-windows-11-home-vs-pro-versions",
+      "https://www.microsoft.com/en-us/windows/worldwide",
+      "https://www.microsoft.com/en-us/windows/windows-11-pc-gaming",
+      "https://www.microsoft.com/en-us/windows/paint",
+      "https://www.microsoft.com/en-us/windows/laptop-buying-guide",
+      "https://www.microsoft.com/en-us/windows/transfer-your-data-with-windows-backup",
+      "https://www.microsoft.com/en-us/windows/tips/snipping-tool"
     ]
   },
   "nginx.org": {
-    "lastAt": 1757914065422,
+    "lastAt": 1758263933880,
     "urls": [
       "https://nginx.org/"
     ]
