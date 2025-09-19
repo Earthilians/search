@@ -129302,5 +129302,467 @@
     "title": "Introducing iPhone Air, a powerful new iPhone with a breakthrough design - Apple",
     "description": "",
     "text": "Text of this article\nSeptember 9, 2025\nPRESS RELEASE\nIntroducing iPhone Air, a powerful new iPhone :"
+  },
+  {
+    "id": "13e1e1e0fd89ec36eced633d80dbe9c2c7cc191c",
+    "url": "https://kr.bing.com/",
+    "title": "검색 - Microsoft Bing",
+    "description": "Microsoft Bing으로 검색하고 AI의 강력한 기능을 사용하여 정보를 찾고, 웹 페이지, 이미지, 동영상, 지도 등을 탐색할 수 있습니다. 호기심 많은 사람들을 위한 스마트",
+    "text": ""
+  },
+  {
+    "id": "39c999465fb29e9ecd82d3616d05dc7944fb761e",
+    "url": "https://mx.bing.com/",
+    "title": "Búsqueda: Microsoft Bing",
+    "description": "Busca con Microsoft Bing y usa la eficacia de la inteligencia artificial para buscar información, ex",
+    "text": ""
+  },
+  {
+    "id": "3a4437391087d1718097680c4d7274bd5c13316d",
+    "url": "https://jp.bing.com/",
+    "title": "検索 - Microsoft Bing",
+    "description": "Microsoft Bing を使用して検索し、AI の機能を使用して情報を検索したり、Web ページ、画像、ビデオ、マップなどを探索したりすることができます。いつまでも好奇心旺盛な人のためのスマート",
+    "text": ""
+  },
+  {
+    "id": "9fa925a07c7b080ff420edb0d7a6e51ccf2df5e8",
+    "url": "https://nl.bing.com/",
+    "title": "Zoeken - Microsoft Bing",
+    "description": "Zoek met Microsoft Bing en gebruik de kracht van AI om informatie te zoeken, webpagina's, afbeelding",
+    "text": ""
+  },
+  {
+    "id": "9378fbd83be77e9ceafc0f673e8d634c698caa59",
+    "url": "https://no.bing.com/",
+    "title": "Søk – Microsoft Bing",
+    "description": "Søk med Microsoft Bing, og bruk KI til å finne informasjon, utforske nettsider, bilder, videoer, kar",
+    "text": ""
+  },
+  {
+    "id": "3afed36151c0e0bfbf3a93b2a6f397db2fb2ab95",
+    "url": "https://nz.bing.com/",
+    "title": "Search - Microsoft Bing",
+    "description": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, vi",
+    "text": ""
+  },
+  {
+    "id": "45ead97980ecb40b2306ca4b8bbefb98dd1b52a4",
+    "url": "https://ph.bing.com/",
+    "title": "Search - Microsoft Bing",
+    "description": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, vi",
+    "text": ""
+  },
+  {
+    "id": "2c2141bd77b05947e6584a6a0b91b65da7ea7e27",
+    "url": "https://ru.bing.com/",
+    "title": "Поиск — Microsoft Bing",
+    "description": "Выполняйте поиск с помощью Microsoft Bing и используйте мощь ИИ для обнаружения информации, просмотр",
+    "text": ""
+  },
+  {
+    "id": "8dcec22600fd9c5071f5a82b00dfbdf26b5a461e",
+    "url": "https://pt.bing.com/",
+    "title": "Pesquisa - Microsoft Bing",
+    "description": "Pesquise com o Microsoft Bing e utilize o poder da IA para encontrar informações, explorar páginas W",
+    "text": ""
+  },
+  {
+    "id": "0f47d8f4e88d772b46afbe3e56f5545f25cf8fbb",
+    "url": "https://se.bing.com/",
+    "title": "Sök – Microsoft Bing",
+    "description": "Sök med Microsoft Bing och använd kraften i AI för att hitta information, utforska webbsidor, bilder",
+    "text": ""
+  },
+  {
+    "id": "3c1f11535b75fa7dd04e5e9162c5841f93ab4cad",
+    "url": "https://www.fastly.com/customers",
+    "title": "Fastly customers | Fastly",
+    "description": "See how today's leading companies challenge the status quo, work smarter, and get back to the projec",
+    "text": "Customer stories\nSee how today’s leading companies challenge the status quo and take on the projects"
+  },
+  {
+    "id": "cc93358db20ec6642ef1436658b2e307bc76457c",
+    "url": "https://www.fastly.com/customers/contentful-video",
+    "title": "Fastly + Contentful | Fastly",
+    "description": "Contentful cuts delivery time in half with Fastly Compute",
+    "text": "Contentful is a content management platform powering the online experience for 30% of the Fortune 50"
+  },
+  {
+    "id": "bdc013956660e6f1c917119b117b1e84b6b8cb9c",
+    "url": "https://www.fastly.com/customers/gannett",
+    "title": "Gannett + Fastly case study | Fastly",
+    "description": "How Gannett uses Fastly to deliver and secure the fastest-loading news site in the U.S.",
+    "text": "Gannett Co., Inc. (NYSE: GCI) is a diversified media company with expansive reach at the national an"
+  },
+  {
+    "id": "ef709520147a2bec72e75abc1cfec6889190c870",
+    "url": "https://www.fastly.com/customers/mercy-corps",
+    "title": "Fastly + Mercy Corps  | Fastly",
+    "description": "Mercy Corps increases uptime and achieves 30-60% conversion rate improvement with Fastly",
+    "text": "Mercy Corps' mission is to alleviate suffering, poverty, and oppression by helping people build secu"
+  },
+  {
+    "id": "b88655fd19cd62bef93bf0ace3908c208d7a4041",
+    "url": "https://www.fastly.com/customers/speedkit",
+    "title": "Fastly + Speed Kit | Fastly",
+    "description": "Fastly helps Speed Kit reduce LCP in high-traffic websites by 0.5 seconds — boosting conversion rate",
+    "text": "Speed Kit is the all-in-one page speed tool for high-traffic websites. With zero changes to your inf"
+  },
+  {
+    "id": "775b272ce9567be69e22950ba8d753563ea28f5b",
+    "url": "https://www.fastly.com/customers/yottaa",
+    "title": "Fastly + Yottaa | Fastly",
+    "description": "Yottaa boosts e-commerce performance and security with Fastly's edge capabilities",
+    "text": "Yottaa Yottaa is a web performance company specializing in optimizing e-commerce websites to enhance"
+  },
+  {
+    "id": "230d1a99d245a05db6d56ca34e7d361d9732cb29",
+    "url": "https://www.fastly.com/customers/quantCDN",
+    "title": "Fastly + QuantCDN | Fastly",
+    "description": "QuantCDN boosts static and dynamic content delivery with a API-first platform powered by Fastly",
+    "text": "QuantCDN is an all-in-one content delivery network (CDN) and Jamstack solution for Drupal and WordPr"
+  },
+  {
+    "id": "8c71db3b258951452030d502a69e547e25870105",
+    "url": "https://www.fastly.com/customers/outbrain",
+    "title": "Fastly + Outbrain | Fastly",
+    "description": "Use: Outbrain builds full-stack advertising suite for the open internet with Fastly",
+    "text": "Outbrain is a leading technology platform that drives business results by engaging people across the"
+  },
+  {
+    "id": "a132b68a581094de442bb4652375afd86fb02e62",
+    "url": "https://www.fastly.com/customers/kubernetes",
+    "title": "Fastly + Kubernetes | Fastly",
+    "description": "Kubernetes ensures its scalability by relying on Fastly.",
+    "text": "Kubernetes launched in 2014 and steadily grew to become one of the largest open source projects in t"
+  },
+  {
+    "id": "2140b0c89492efd021155c7d40eee12eb20df76b",
+    "url": "https://www.fastly.com/pricing",
+    "title": "Edge cloud pricing | Fastly",
+    "description": "Test up to $50/month of traffic for free, no commitment required.",
+    "text": "From our turbo-charged Free Tier to predictable pricing packages, we've got your back from startup t"
+  },
+  {
+    "id": "2f6775dda9d5671e3906ed0e3b3942a9cc63e320",
+    "url": "https://wordpress.org/about/requirements/",
+    "title": "Requirements – WordPress.org",
+    "description": "Requirements To run WordPress, it’s recommended your host supports: That’s really it. Apache or Ngin",
+    "text": "About\nRequirements\nTo run WordPress, it’s recommended your host supports:\nThat’s really it. Apache o"
+  },
+  {
+    "id": "465e73588865d2ad125252e83ddb5af0c0c45ffc",
+    "url": "https://wordpress.org/about/roadmap/",
+    "title": "Roadmap – WordPress.org",
+    "description": "Roadmap WordPress is continually under development. Currently, Phase 2 of the Gutenberg project form",
+    "text": "About\nRoadmap\nWordPress is continually under development. Currently, Phase 2 of the Gutenberg projec"
+  },
+  {
+    "id": "f50bc8cae508f2651b7a73d285c5dfc93e7baea0",
+    "url": "https://wordpress.org/about/features/",
+    "title": "Features – WordPress.org",
+    "description": "Features WordPress powers more than of the web — a figure that rises every day. Everything from simp",
+    "text": "About\nFeatures\nWordPress powers more than 43% of the web — a figure that rises every day. Everything"
+  },
+  {
+    "id": "ef1a694f7b8711c8cd68a34d75c1b2bf2399c662",
+    "url": "https://wordpress.org/about/security/",
+    "title": "Security – WordPress.org",
+    "description": "Security We take the security of the WordPress project and the ecosystem seriously. With over 20 yea",
+    "text": "About\nSecurity\nWe take the security of the WordPress project and the ecosystem seriously. With over "
+  },
+  {
+    "id": "92cc46df2b44a1ba8802f90e90fcc17919d6eb76",
+    "url": "https://wordpress.org/about/history/",
+    "title": "History – WordPress.org",
+    "description": "History WordPress has come a long way since 2003. What started as a few lines of code and a mission ",
+    "text": "About\nHistory\nWordPress has come a long way since 2003. What started as a few lines of code and a mi"
+  },
+  {
+    "id": "580626bd9c69906c9c64dda51b82c6c635808419",
+    "url": "https://wordpress.org/about/domains/",
+    "title": "Domains – WordPress.org",
+    "description": "Domains For various reasons related to our WordPress trademark, we ask if you’re going to start a si",
+    "text": "About\nDomains\nFor various reasons related to our WordPress trademark, we ask if you’re going to star"
+  },
+  {
+    "id": "693c825181cfd741fcd5eb1a43fda6a8536f58a7",
+    "url": "https://wordpress.org/about/license/",
+    "title": "License – WordPress.org",
+    "description": "GNU Public License The license under which the WordPress software is released is the GPLv2 (or later",
+    "text": "About\nLicense\nThe license under which the WordPress software is released is the GPLv2 (or later) fro"
+  },
+  {
+    "id": "5b2803b25e8370bd7e2d895575636268ab2ea74a",
+    "url": "https://wordpress.org/about/accessibility/",
+    "title": "Accessibility – WordPress.org",
+    "description": "Accessibility The WordPress community and the open source WordPress project is committed to being as",
+    "text": "About\nAccessibility\nThe WordPress community and the open source WordPress project is committed to be"
+  },
+  {
+    "id": "dd7fa8c964abbbe4a8c587a287bdb870f05370eb",
+    "url": "https://wordpress.org/about/privacy/",
+    "title": "Privacy – WordPress.org",
+    "description": "Privacy policy WordPress.org websites (collectively “WordPress.org” in this document) refer to sites",
+    "text": "About\nPrivacy\nWordPress.org websites (collectively “WordPress.org” in this document) refer to sites "
+  },
+  {
+    "id": "9c8160aa89769be73ac980b7e496d8b3a25ea7a8",
+    "url": "https://wordpress.org/about/stats/",
+    "title": "Stats – WordPress.org",
+    "description": "Statistics Here are some charts showing what sorts of systems people are running WordPress on. (You’",
+    "text": "About\nStats\nHere are some charts showing what sorts of systems people are running WordPress on. (You"
+  },
+  {
+    "id": "0cea72511cde3e1f4ed1811945fcfee4fc72241b",
+    "url": "https://www.digicert.com/resource-center/infographics",
+    "title": "Infographics | DigiCert",
+    "description": "Get a deeper understanding for DigiCert solutions and how they can best help strengthen your organiz",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "84d5d9f1c225f3018d2186c83d5c4d06686ba168",
+    "url": "https://www.digicert.com/professional-services",
+    "title": "DigiCert PKI Professional Services | DigiCert",
+    "description": "The DigiCert Professional Services team combines deep expertise with a robust technology platform to",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "c74a515350c66fd4f45a4a4740c700eb8d052ab8",
+    "url": "https://www.digicert.com/tls-ssl/digicert-site-seal",
+    "title": "Site Seal | DigiCert",
+    "description": "Instantly show customers your brand is protected with a site seal. They're a proven way to signal we",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "b6fcb3de4aa5053e9142b225864f9007489cd906",
+    "url": "https://www.digicert.com/tls-ssl/digital-certificates",
+    "title": "Digital Certificates Solutions | DigiCert",
+    "description": "Secure a website, device, or anything else by choosing from our full suite of digital certificate pr",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "b78d96480993bdbb9806b29bfd07ef32b2f3ad3c",
+    "url": "https://www.digicert.com/digital-trust-certification",
+    "title": "TLS/SSL Certification Program | TLS/SSL & PKI Training | DigiCert",
+    "description": "Enhance your expertise in digital trust and become a certified Digital Trust Associate or Solutions ",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "ceb38d0579f92e17b18d6e78281046f6bdb18af1",
+    "url": "https://www.digicert.com/signing/compare-code-signing-certificates",
+    "title": "Compare Code Signing Certificates | DigiCert",
+    "description": "Compare and buy DigiCert Code Signing Certificates to stop application and software tampering so cus",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "c3bb11ae7bbf8007655cd0fd57e0a78912be9020",
+    "url": "https://www.pinterest.com/lydiajj18/i-love-being-a-girl/",
+    "title": "Chunky gold jewelry: Discover 45 i love being a girl ideas on this Pinterest board | xoxo jewelry, g",
+    "description": "From chunky gold jewelry to xoxo jewelry, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "527e7b184c92845632a25e3e8c37b5bb573e5e7a",
+    "url": "https://www.pinterest.com/raellenight/dd/",
+    "title": "190 D&D and dnd funny ideas to save today | d d memes, dungeons and dragons memes, dnd stories and m",
+    "description": "Save your favorites to your Pinterest board! | dnd funny, d d memes, dungeons and dragons memes",
+    "text": ""
+  },
+  {
+    "id": "44527346814cd784e2f79a2ae0d27ffc0da7c644",
+    "url": "https://www.pinterest.com/daedaerocks13/bts/",
+    "title": "180 Bts ideas in 2025 | bts, bts pictures, foto bts",
+    "description": "From bts to bts pictures, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "54283cf7f44395e304549d6ba1562b79be63c040",
+    "url": "https://www.pinterest.com/suzanwageeh/furniture/",
+    "title": "suzanwageeh",
+    "description": "احفظ مفضلاتك في لوحة Pinterest! | تصميم داخلي, تصميم الأثاث, تصميم غرفة النوم الرئيسية",
+    "text": ""
+  },
+  {
+    "id": "3feec79837135813b94dc09ea9de41fdc3805d1b",
+    "url": "https://www.pinterest.com/drten3/yummy/",
+    "title": "86 Yummy  and recipes ideas to save today | cooking recipes, yummy food, food recipies and more",
+    "description": "Save your favorites to your Pinterest board! | recipes, cooking recipes, yummy food",
+    "text": ""
+  },
+  {
+    "id": "2c824ee04f45a957dfb1fc75ce4eb0fbefcd823d",
+    "url": "https://www.pinterest.com/gianapalumbo/nails/",
+    "title": "270 Nails ideas in 2025 | nails, gel nails, pretty nails",
+    "description": "From nails to gel nails, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "83523ed9ff2e7804dd825651738bbf21bd6d2785",
+    "url": "https://www.pinterest.com/paypay662/payton/",
+    "title": "100 Payton ideas in 2025 | fashion inspo outfits, cute outfits, cutie clothes",
+    "description": "From fashion inspo outfits to cute outfits, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "70aa2603173353b819226a84df5fb12f701d1b4f",
+    "url": "https://www.pinterest.com/brianellifritz/kitchen-layout/",
+    "title": "brianellifritz",
+    "description": "From kitchen layout to kitchen remodel, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "2acda66f78c3d75fbbdfd1882bce8e003244b41b",
+    "url": "https://www.pinterest.com/gameznaty/tattoos/",
+    "title": "47 Tattoos ideas in 2025 | tattoos, small tattoos, cute tattoos",
+    "description": "From tattoos to small tattoos, find what you're looking for on Pinterest!",
+    "text": ""
+  },
+  {
+    "id": "5540d83bc5fb7edd1a82c9dd332d4adef1568052",
+    "url": "https://www.pinterest.com/rethabester26/food/",
+    "title": "Discover 33 Food ideas on this Pinterest board | healthy recipes, meals, food and more",
+    "description": "Dec 2, 2024 - Explore Retha Bester's board \"Food\" on Pinterest. See more ideas about healthy recipes",
+    "text": ""
+  },
+  {
+    "id": "e8b500d61119f854a785bade352308981bbb8a21",
+    "url": "https://www.yahoo.com/news/weather/united-states/alabama/greenville-2414589",
+    "title": "Greenville, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Mostly Clear\nNight - Clear with a 40% chance of precipitation. Winds variable. The overnight low wil"
+  },
+  {
+    "id": "9a17df913ab7e0a9df86724bedb50ea5c70b45d7",
+    "url": "https://www.yahoo.com/news/weather/united-states/minnesota/webster-2515878",
+    "title": "Webster, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Cloudy\nNight - Scattered showers with a 55% chance of precipitation. Winds variable at 6 to 8 mph (9"
+  },
+  {
+    "id": "156b20df6c761a0830a99dad9eea66ec5f1e4ad2",
+    "url": "https://www.yahoo.com/news/weather/united-states/washington/bellevue-2362031",
+    "title": "Bellevue, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Mostly clear. Winds variable at 5 to 6 mph (8 to 9.7 kph). The overnight low will be 5"
+  },
+  {
+    "id": "3ebd6169c32b93380ba5bfa94733f3da6f813f58",
+    "url": "https://www.yahoo.com/news/weather/united-states/missouri/hazelwood-2419281",
+    "title": "Hazelwood, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Cloudy\nNight - Partly cloudy with a 55% chance of precipitation. Winds variable at 6 mph (9.7 kph). "
+  },
+  {
+    "id": "3038774f89a00be5184c61dfb5f1cc2ed338c793",
+    "url": "https://www.yahoo.com/news/weather/united-states/ohio/cincinnati-2380358",
+    "title": "Cincinnati, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Clear. Winds E. The overnight low will be 60 °F (15.6 °C).\nSunny with a high of 90 °F "
+  },
+  {
+    "id": "222eacc0a2c1c82d3e37f19da3a8ea70dc29b13d",
+    "url": "https://www.yahoo.com/news/weather/united-states/washington/airway-heights-2352421",
+    "title": "Airway Heights, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Clear. Winds from ENE to NE. The overnight low will be 55 °F (12.8 °C).\nMostly sunny w"
+  },
+  {
+    "id": "e468811a544ede9d3b8f29c7cbaa9a5799c39021",
+    "url": "https://www.yahoo.com/news/weather/united-states/iowa/fort-dodge-2405667",
+    "title": "Fort Dodge, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Showers\nNight - Cloudy with a 59% chance of precipitation. Winds from SSE to S at 5 to 6 mph (8 to 9"
+  },
+  {
+    "id": "953751d016b22d8024d4a0a6383e3871412ea538",
+    "url": "https://www.yahoo.com/news/weather/united-states/georgia/buford-2371582",
+    "title": "Buford, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Partly Cloudy\nNight - Clear. Winds NNE. The overnight low will be 67 °F (19.4 °C).\nSunny with a high"
+  },
+  {
+    "id": "c9e3e1a0f95dd222a08193055788672bd45f57d4",
+    "url": "https://www.yahoo.com/news/weather/united-states/north-carolina/waynesville-2515673",
+    "title": "Waynesville, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Mostly Clear\nNight - Clear. Winds from SSW to SW. The overnight low will be 56 °F (13.3 °C).\nMostly "
+  },
+  {
+    "id": "c2bb24491bd1db128d778f8c0727b2f06370fef1",
+    "url": "https://www.yahoo.com/news/weather/united-states/south-carolina/columbia-2383552",
+    "title": "Columbia, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Mostly Clear\nNight - Clear. Winds variable. The overnight low will be 65 °F (18.3 °C).\nSunny with a "
+  },
+  {
+    "id": "4dfc058f331d902d14d1e9232cdd559b8ac5a727",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3415/",
+    "title": "NTP BUG 3415: Provide a way to prevent authenticated symmetric passive peering",
+    "description": "A malicious authenticated peer – one where the attacker knows the private symmetric key – can create",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nntpd can be vulnerable to Sybil attacks. If a syst"
+  },
+  {
+    "id": "fad9f912618d69fad7ba6ec4a3e6ff3510584785",
+    "url": "https://www.ntp.org/support/securitynotice/4_2_8p10-release-announcement/",
+    "title": "4.2.8p10 Release Announcement",
+    "description": "The NTP Project at Network Time Foundation released NTP 4.2.8p10 on March 21, 2017. This release add",
+    "text": "Last update: June 28, 2022 21:06 UTC (1f97faf40)\nNTF’s NTP Project is releasing ntp-4.2.8p10 which a"
+  },
+  {
+    "id": "9de783f0f133d9863dd60e6946ced6ee5642d0a6",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3414/",
+    "title": "NTP BUG 3414: ntpq: decodearr() can write beyond its buf limits",
+    "description": "This is a problem in affected versions of ntpq if a maliciously-altered ntpd returns an array result",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nntpq is a monitoring and control program for ntpd."
+  },
+  {
+    "id": "d35c3da905180d2cbab811effc67169f22758d07",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3453/",
+    "title": "NTP BUG 3453: Interleaved symmetric mode cannot recover from bad state",
+    "description": "A third-party can inject a packet with a zero-origin timestamp, meaning the sender wants to reset th",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe fix for NTP Bug 2952 was incomplete, and while"
+  },
+  {
+    "id": "28f28c78c46293a586c9ef2dd93ffca71bd3e917",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3454/",
+    "title": "NTP BUG 3454: Unauthenticated packet can reset authenticated interleaved association",
+    "description": "This bug allows a non-authenticated zero-origin (reset) packet to reset an authenticated interleaved",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe NTP Protocol allows for both non-authenticated"
+  },
+  {
+    "id": "0ac7610f5c64991de3419b61c46cd77af0e7049b",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3377/",
+    "title": "NTP BUG 3377: Buffer Overflow in ntpq when fetching reslist from a malicious ntpd",
+    "description": "A stack buffer overflow in ntpq can be triggered by a malicious ntpd server when ntpq requests the r",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nA stack buffer overflow in ntpq can be triggered b"
+  },
+  {
+    "id": "4be60e5544c2649506cda6f584c127df5aa562fb",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3361/",
+    "title": "NTP BUG 3361: 0rigin DoS",
+    "description": "An exploitable denial of service vulnerability exists in the origin timestamp check functionality wh",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nAn exploitable denial of service vulnerability exi"
+  },
+  {
+    "id": "5be3b2ff9ee650309384c05459426b6877bbc6c7",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3379/",
+    "title": "NTP BUG 3379: Potential Overflows in ctl_put() functions",
+    "description": "If somebody explicitly created any unusually long variable names in ntpd and if any of the affected ",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nntpd makes use of different wrappers around ctl_pu"
+  },
+  {
+    "id": "52dd33f2b28cf40e4d644b0c1cb072456c712987",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3376/",
+    "title": "NTP BUG 3376: Makefile does not enforce Security Flags",
+    "description": "The build process for NTP has not, by default, provided compile or link flags to offer hardened secu",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe build process for NTP has not, by default, pro"
+  },
+  {
+    "id": "4b1660327926b11cacecb894550d8b541d462fc3",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3378/",
+    "title": "NTP BUG 3378: Improper use of snprintf() in mx4200_send()",
+    "description": "The legacy MX4200 refclock driver uses the libc function snprintf() / vsnprintf() incorrectly, which",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe legacy MX4200 refclock is only built if is spe"
   }
 ]
