@@ -663,7 +663,7 @@
     "urls": []
   },
   "msn.com": {
-    "lastAt": 1757910452343,
+    "lastAt": 1758259273886,
     "urls": [
       "https://www.msn.com/en-us/play",
       "https://www.msn.com/en-us/play/bubble",
@@ -684,11 +684,21 @@
       "https://www.msn.com/en-us/play/word",
       "https://www.msn.com/en-us/play/tagall",
       "https://www.msn.com/en-us/play/strategy",
-      "https://www.msn.com/en-us/play/tag-2d"
+      "https://www.msn.com/en-us/play/tag-2d",
+      "https://www.msn.com/en-us/play/tag-3d",
+      "https://www.msn.com/en-us/play/tag-action",
+      "https://www.msn.com/en-us/play/tag-animal",
+      "https://www.msn.com/en-us/play/tag-abstract",
+      "https://www.msn.com/en-us/play/tag-anagram",
+      "https://www.msn.com/en-us/play/tag-archery",
+      "https://www.msn.com/en-us/play/tag-block",
+      "https://www.msn.com/en-us/play/tag-basketball",
+      "https://www.msn.com/en-us/play/tag-ball_game",
+      "https://www.msn.com/en-us/play/tag-art_design"
     ]
   },
   "goo.gl": {
-    "lastAt": 1757910453384,
+    "lastAt": 1758259274893,
     "urls": [
       "https://goo.gl/"
     ]
@@ -30951,7 +30961,7 @@
     "urls": []
   },
   "siriusxm.com": {
-    "lastAt": 1757910455978,
+    "lastAt": 1758259276768,
     "urls": [
       "https://www.siriusxm.com/cardibnyc",
       "https://www.siriusxm.com/duatour",
@@ -30962,21 +30972,31 @@
       "https://www.siriusxm.com/rates/2019/nov",
       "https://www.siriusxm.com/fcc",
       "https://www.siriusxm.com/ad-choices",
-      "https://www.siriusxm.com/sxm-web-terms-of-use"
+      "https://www.siriusxm.com/sxm-web-terms-of-use",
+      "https://www.siriusxm.com/hosts/ashley-flowers",
+      "https://www.siriusxm.com/hosts/buzz-brainard",
+      "https://www.siriusxm.com/hosts/michael-smerconish",
+      "https://www.siriusxm.com/hosts/earle-bailey",
+      "https://www.siriusxm.com/ways-to-listen",
+      "https://www.siriusxm.com/channels/taylor-channel-13",
+      "https://www.siriusxm.com/qualified-entity/2015",
+      "https://www.siriusxm.com/hosts/conan-obrien",
+      "https://www.siriusxm.com/hosts/megyn-kelly",
+      "https://www.siriusxm.com/get-login"
     ]
   },
   "dvr163.com": {
-    "lastAt": 1757910459155,
+    "lastAt": 1758259279231,
     "urls": [
       "https://dvr163.com/"
     ]
   },
   "kwimgs.com": {
-    "lastAt": 1757910467287,
+    "lastAt": 1758259288317,
     "urls": []
   },
   "nymag.com": {
-    "lastAt": 1757910475226,
+    "lastAt": 1758259295166,
     "urls": [
       "https://nymag.com/",
       "https://nymag.com/article/weekly-crossword-puzzle-a-quiet-place.html",
@@ -30987,87 +31007,97 @@
       "https://nymag.com/article/2025/08/if-you-travel-for-work-you-need-this-power-bank.html",
       "https://nymag.com/article/joyce-wadler-my-breast-part-two-one-womans-cancer-story.html",
       "https://nymag.com/article/comments-week-of-august-25-2025.html",
-      "https://nymag.com/article/best-new-tv-movies-books-music-august-27-september-24.html"
+      "https://nymag.com/article/best-new-tv-movies-books-music-august-27-september-24.html",
+      "https://nymag.com/article/weekly-crossword-puzzle-make-it-up-in-volume.html",
+      "https://nymag.com/article/weekly-crossword-puzzle-cover-letters.html",
+      "https://nymag.com/article/the-approval-matrix-week-of-august-25-2025.html",
+      "https://nymag.com/article/best-new-tv-movies-books-music-august-13-september-10.html",
+      "https://nymag.com/article/comments-week-of-august-11-2025.html",
+      "https://nymag.com/article/weekly-crossword-puzzle-solve-for-x.html",
+      "https://nymag.com/article/nymag-com-article-weekly-crossword-puzzle-a-matter-for-the-courts.html",
+      "https://nymag.com/article/the-approval-matrix-week-of-august-11-2025.html",
+      "https://nymag.com/article/comments-week-of-july-28-2025.html",
+      "https://nymag.com/article/best-new-tv-movies-books-music-july-30-august-13.html"
     ]
   },
   "yandexadexchange.net": {
-    "lastAt": 1757910479774,
+    "lastAt": 1758259299532,
     "urls": []
   },
   "imgix.net": {
-    "lastAt": 1757910538591,
+    "lastAt": 1758259358345,
     "urls": []
   },
   "rottentomatoes.com": {
-    "lastAt": 1757910545263,
+    "lastAt": 1758259365426,
     "urls": [
       "https://rottentomatoes.com/"
     ]
   },
   "serverdata.net": {
-    "lastAt": 1757910547510,
+    "lastAt": 1758259366415,
     "urls": [
       "https://serverdata.net/"
     ]
   },
   "dbankedge.cn": {
-    "lastAt": 1757910551796,
+    "lastAt": 1758259370749,
     "urls": []
   },
   "ezvizru.com": {
-    "lastAt": 1757910610610,
+    "lastAt": 1758259429558,
     "urls": []
   },
   "northwestern.edu": {
-    "lastAt": 1757910612901,
+    "lastAt": 1758259430654,
     "urls": [
       "https://northwestern.edu/"
     ]
   },
   "pullcm.com": {
-    "lastAt": 1757910615977,
+    "lastAt": 1758259433807,
     "urls": []
   },
   "match.com": {
-    "lastAt": 1757910619523,
+    "lastAt": 1758259437075,
     "urls": []
   },
   "paramountplus.com": {
-    "lastAt": 1757910621639,
+    "lastAt": 1758259438380,
     "urls": [
       "https://paramountplus.com/"
     ]
   },
   "pullcf.com": {
-    "lastAt": 1757910624733,
+    "lastAt": 1758259441474,
     "urls": []
   },
   "cedexis-test.com": {
-    "lastAt": 1757910627652,
+    "lastAt": 1758259444384,
     "urls": []
   },
   "ttwstatic.com": {
-    "lastAt": 1757910630673,
+    "lastAt": 1758259447470,
     "urls": []
   },
   "zztfly.com": {
-    "lastAt": 1757910637316,
+    "lastAt": 1758259455174,
     "urls": []
   },
   "kgslb.com": {
-    "lastAt": 1757910696126,
+    "lastAt": 1758259513984,
     "urls": []
   },
   "ueiwsp.com": {
-    "lastAt": 1757910699254,
+    "lastAt": 1758259517392,
     "urls": []
   },
   "nasdaq.com": {
-    "lastAt": 1757910768062,
+    "lastAt": 1758259586202,
     "urls": []
   },
   "google.us": {
-    "lastAt": 1757910771248,
+    "lastAt": 1758259587345,
     "urls": [
       "https://google.us/",
       "https://www.google.com/intl/es/forms/about/",
@@ -31082,25 +31112,25 @@
     ]
   },
   "ksapisrv.com": {
-    "lastAt": 1757910776983,
+    "lastAt": 1758259598366,
     "urls": []
   },
   "powerbi.com": {
-    "lastAt": 1757910777804,
+    "lastAt": 1758259598690,
     "urls": [
       "https://powerbi.com/"
     ]
   },
   "printercloud.com": {
-    "lastAt": 1757910780749,
+    "lastAt": 1758259601753,
     "urls": []
   },
   "glanceapis.com": {
-    "lastAt": 1757910783877,
+    "lastAt": 1758259604957,
     "urls": []
   },
   "crowdstrike.com": {
-    "lastAt": 1757910794149,
+    "lastAt": 1758259615739,
     "urls": [
       "https://crowdstrike.com/",
       "https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/",
@@ -31111,11 +31141,21 @@
       "https://www.crowdstrike.com/blog/unpacking-dynamically-allocated-code/",
       "https://www.crowdstrike.com/blog/crowdstrike-launch/",
       "https://www.crowdstrike.com/blog/whois-samurai-panda/",
-      "https://www.crowdstrike.com/blog/whois-clever-kitten/"
+      "https://www.crowdstrike.com/blog/whois-clever-kitten/",
+      "https://www.crowdstrike.com/blog/protected-processes-part-3-windows-pki-internals-signing-levels-scenarios-signers-root-keys/",
+      "https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/",
+      "https://www.crowdstrike.com/blog/dns-lifeblood-your-domain/",
+      "https://www.crowdstrike.com/blog/evolution-protected-processes-part-2-exploitjailbreak-mitigations-unkillable-processes-and/",
+      "https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/",
+      "https://www.crowdstrike.com/blog/through-window-creative-code-invocation/",
+      "https://www.crowdstrike.com/blog/native-java-bytecode-debugging-without-source-code/",
+      "https://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/",
+      "https://www.crowdstrike.com/blog/new-community-tool-crowdresponse/",
+      "https://www.crowdstrike.com/blog/mo-shells-mo-problems-file-list-stacking/"
     ]
   },
   "ahrefs.com": {
-    "lastAt": 1757910807532,
+    "lastAt": 1758259630237,
     "urls": [
       "https://ahrefs.com/",
       "https://ahrefs.com/academy/how-to-use-ahrefs",
@@ -31126,7 +31166,17 @@
       "https://ahrefs.com/academy/affiliate-marketing-course",
       "https://ahrefs.com/academy/api-course",
       "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/overview",
-      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawl-budget"
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawl-budget",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/backlink",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawler-faqs",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/overview",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/account/navigating",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/keyword-and-search-traffic",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/account/add-first-project",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/account/add-first-portfolio",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/dashboard/overview",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/site-explorer/intro",
+      "https://ahrefs.com/academy/how-to-use-ahrefs/site-explorer/overview"
     ]
   },
   "ispot.tv": {

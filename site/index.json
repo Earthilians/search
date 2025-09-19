@@ -129764,5 +129764,355 @@
     "title": "NTP BUG 3378: Improper use of snprintf() in mx4200_send()",
     "description": "The legacy MX4200 refclock driver uses the libc function snprintf() / vsnprintf() incorrectly, which",
     "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe legacy MX4200 refclock is only built if is spe"
+  },
+  {
+    "id": "3e439c1d86822ba1a01752b5aa8624608f9b19b5",
+    "url": "https://www.msn.com/en-us/play/tag-3d",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d52efb93091384800ad5935adaa11c50c9066b26",
+    "url": "https://www.msn.com/en-us/play/tag-action",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "18cdb4f9686d252859fd35a2aa927c1bd5496874",
+    "url": "https://www.msn.com/en-us/play/tag-animal",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fb70d96789bc52baf4f07eadbe13861c89f8cd75",
+    "url": "https://www.msn.com/en-us/play/tag-abstract",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ca633a5fd9a2da3d544362dabb550450793642a2",
+    "url": "https://www.msn.com/en-us/play/tag-anagram",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8efcf1560e516c43b5b9c4cdf90e7be1b602a8dc",
+    "url": "https://www.msn.com/en-us/play/tag-archery",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f2852794dc5750427242a681599ee09f84318206",
+    "url": "https://www.msn.com/en-us/play/tag-block",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b914ceb90e24975c595c4b4186d5c2276f9eeb62",
+    "url": "https://www.msn.com/en-us/play/tag-basketball",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d238778639e6b37214f3bde42903c545607eaa4f",
+    "url": "https://www.msn.com/en-us/play/tag-ball_game",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "34fc2d2257475526c9de52b490d75e52bb848520",
+    "url": "https://www.msn.com/en-us/play/tag-art_design",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "81ad482831050129bc6a12ead6fcbaf8e8fc50bb",
+    "url": "https://www.siriusxm.com/hosts/ashley-flowers",
+    "title": "Ashley Flowers | SiriusXM",
+    "description": "Listen to Ashley Flowers on Crime Junkie Radio and her new podcast, Crime Junkie AF, on SiriusXM.",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "d4aa606cf965245075c9a2421469577eade4c245",
+    "url": "https://www.siriusxm.com/hosts/buzz-brainard",
+    "title": "Buzz Brainard | SiriusXM",
+    "description": "For The Highway’s Buzz Brainard, it’s all about discovery, debuting great new country music, & shari",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "9d4f452b6311af56a4e1018cbcc915ea0c0c4c3a",
+    "url": "https://www.siriusxm.com/hosts/michael-smerconish",
+    "title": "Michael Smerconish | SiriusXM",
+    "description": "Michael Smerconish is an American radio host and television presenter, newspaper columnist, author, ",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "0642e7077c97ba2c85a0465ad9d8f9da958dff7f",
+    "url": "https://www.siriusxm.com/hosts/earle-bailey",
+    "title": "Earle Bailey | SiriusXM",
+    "description": "Hear Earle Bailey on SiriusXM",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "27feccedbc09ceec3aabc82deb34143d4de503b8",
+    "url": "https://www.siriusxm.com/ways-to-listen",
+    "title": "Play SiriusXM the Way You Choose | SiriusXM",
+    "description": "Play SiriusXM at home through your Smart TV, speakers media players and more! Catch up on your favor",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "0dc9f1727bc931c0f3ee664f53ccd29925937342",
+    "url": "https://www.siriusxm.com/channels/taylor-channel-13",
+    "title": "Taylors Channel 13",
+    "description": "Channel 13 returns - with Taylor Swift's The Life of a Showgirl and showcasing every era of her musi",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "1630036f33cb53c5f77db8004ae40ac408f6cc6f",
+    "url": "https://www.siriusxm.com/qualified-entity/2015",
+    "title": "SiriusXM Qualified Entity Set-Aside",
+    "description": "SiriusXM Qualified Entity Set-Aside",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "68b6aa79cfe6e4e28f1050bff81603cb33b8bafc",
+    "url": "https://www.siriusxm.com/hosts/conan-obrien",
+    "title": "Conan O’Brien | SiriusXM",
+    "description": "Emmy Award-winning late-night host Conan O’Brien and his digital brand, Team Coco, can be found on S",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "fed0358c5fbe49bf8a313c4a9ed64d0ec35e7b01",
+    "url": "https://www.siriusxm.com/hosts/megyn-kelly",
+    "title": "Megyn Kelly | SiriusXM",
+    "description": "As a world-renowned journalist, Megyn Kelly rose to prominence reporting on some of the most consequ",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "508fd938bf32952fe7b3711945d32deb2f270bf9",
+    "url": "https://www.siriusxm.com/get-login",
+    "title": "Create Your Streaming Login | SiriusXM",
+    "description": "Setup your login to listen on the app and online. Streaming SiriusXM on the go and at home is better",
+    "text": "Verify channels for my radio\nChannel numbers may vary across different cars and portable radios.\nSea"
+  },
+  {
+    "id": "9178992bb956805e6cacc05153dbf6586653c26f",
+    "url": "https://nymag.com/article/weekly-crossword-puzzle-make-it-up-in-volume.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: August 16",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "d6a87d813c735fc455844f1793542621dcb1bc66",
+    "url": "https://nymag.com/article/weekly-crossword-puzzle-cover-letters.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: August 23",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "4e3dad5ad91abdd415a5d83dc7b4072f0d1fe4a6",
+    "url": "https://nymag.com/article/the-approval-matrix-week-of-august-25-2025.html",
+    "title": "The Approval Matrix: Week of August 25, 2025",
+    "description": "New York Magazine’s Approval Matrix is our deliberately oversimplified guide to who falls where on o",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "cc131c9b7fee0bb0d4e5f3f8bbce470d2831b13e",
+    "url": "https://nymag.com/article/best-new-tv-movies-books-music-august-13-september-10.html",
+    "title": "25 Best New TV Shows, Movies, Music, Books (Aug 13–Sep 10)",
+    "description": "New York Magazine’s picks for what to see, hear, watch, and read from August 13 to September 10: ‘Be",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "46245bdff943d03507cbb4da3ff68fb2a496c3ff",
+    "url": "https://nymag.com/article/comments-week-of-august-11-2025.html",
+    "title": "New York Magazine Comments: August 11, 2025 issue",
+    "description": "In the August 11, 2025 issue of New York Magazine, readers sound off on the prevalence of ARFID in c",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "7d5b78626fdc7bca946c427786b7d333698555e7",
+    "url": "https://nymag.com/article/weekly-crossword-puzzle-solve-for-x.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: August 9",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "2d9195509db1b39d5c27060cb02b9e5f360eda82",
+    "url": "https://nymag.com/article/nymag-com-article-weekly-crossword-puzzle-a-matter-for-the-courts.html",
+    "title": "‘New York’ Magazine Weekly Crossword Puzzle: August 2",
+    "description": "Play the free weekly ‘New York’ Magazine crossword puzzle every Saturday morning, constructed by Mat",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "882e4d6f5c92de38d13ea4241f877e8062d11463",
+    "url": "https://nymag.com/article/the-approval-matrix-week-of-august-11-2025.html",
+    "title": "The Approval Matrix: Week of August 11, 2025",
+    "description": "New York Magazine’s Approval Matrix is our deliberately oversimplified guide to who falls where on o",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "35aa1908e8d78004ebf00f301a434ed46280ab1c",
+    "url": "https://nymag.com/article/comments-week-of-july-28-2025.html",
+    "title": "New York Magazine Comments: July 28, 2025 Issue",
+    "description": "In the July 28, 2025 issue of New York Magazine, readers sound off on Canada’s attitude toward the U",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "1c401484f7849f25a0a6da191a4cf4cc71258d73",
+    "url": "https://nymag.com/article/best-new-tv-movies-books-music-july-30-august-13.html",
+    "title": "25 Best New TV Shows, Movies, Music, Books (July 30–Aug 13)",
+    "description": "New York Magazine’s picks for what to see, hear, watch, and read from July 30 to August 13: New seas",
+    "text": "Find this story in your account’s ‘Saved for Later’ section.\nFind this story in your account’s ‘Save"
+  },
+  {
+    "id": "670d0e6db503320e1c62ab9f995439211fb2b87e",
+    "url": "https://www.crowdstrike.com/blog/protected-processes-part-3-windows-pki-internals-signing-levels-scenarios-signers-root-keys/",
+    "title": "Protected Processes Part 3: Windows PKI Internals",
+    "description": "Protected Processes in Windows 8.1 Part Three: Taking a look at cryptographic security and how it pr",
+    "text": "January 08, 2014\nIn this last part of our series on protected processes in Windows 8.1, we’re going "
+  },
+  {
+    "id": "f1299162a2bc9501c91874982e43279cd7b838c9",
+    "url": "https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/",
+    "title": "VICEROY TIGER Delivers New Zero-Day Exploit - crowdstrike.com",
+    "description": "Learn more about how VICEROY TIGER delivers new zero-day exploit & other breaking cybersecurity news",
+    "text": "November 06, 2013\nSign up now to receive the latest notifications and updates from CrowdStrike.\nDete"
+  },
+  {
+    "id": "c5fd7cdd44b24f280f5c53ff0d5c959ab5bb9f9c",
+    "url": "https://www.crowdstrike.com/blog/dns-lifeblood-your-domain/",
+    "title": "DNS - The Lifeblood of your Domain - crowdstrike.com",
+    "description": "As the situation on the ground in Syria continues to deteriorate, the Syrian Electronic Army (SEA) h",
+    "text": "August 30, 2013\nhttp://www.bbc.co.uk/news/education-15061377\nhttp://money.cnn.com/2013/04/23/investi"
+  },
+  {
+    "id": "dc47f1d73dc695dbce6af89a0cfd622d1a49e7de",
+    "url": "https://www.crowdstrike.com/blog/evolution-protected-processes-part-2-exploitjailbreak-mitigations-unkillable-processes-and/",
+    "title": "The Evolution of Protected Processes Part 2 - CrowdStrike",
+    "description": "Learn how Windows protected process light guards critical system processes against modification. Cro",
+    "text": "December 11, 2013\nSign up now to receive the latest notifications and updates from CrowdStrike.\nDete"
+  },
+  {
+    "id": "0b98dcbdb2437b7268523fd8a91e44ab1c232942",
+    "url": "https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/",
+    "title": "Analysis of a CVE-2013-3906 Exploit - crowdstrike.com",
+    "description": "Many of CrowdStrike’s customers are often targeted by email phishing campaigns and strategic web com",
+    "text": "December 10, 2013\nMany of CrowdStrike’s customers are often targeted by email phishing campaigns and"
+  },
+  {
+    "id": "3f6f630188016860923775db4c94821328ea0355",
+    "url": "https://www.crowdstrike.com/blog/through-window-creative-code-invocation/",
+    "title": "Through the Window: Creative Code Invocation - crowdstrike.com",
+    "description": "While analyzing a targeted attack, CrowdStrike observed an interesting code invocation technique tha",
+    "text": "February 05, 2014\nRecently, while analyzing a targeted attack, CrowdStrike observed an interesting c"
+  },
+  {
+    "id": "fada1762282c68073772c583857afdac2eada24a",
+    "url": "https://www.crowdstrike.com/blog/native-java-bytecode-debugging-without-source-code/",
+    "title": "Native Java Bytecode Debugging without Source Code - crowdstrike.com",
+    "description": "Native Java bytecode debugging without source code explained on the CrowdStrike blog, click to learn",
+    "text": "February 12, 2014\nAt CrowdStrike, we’ve seen a moderate increase in Java-based malware recently, wit"
+  },
+  {
+    "id": "2ad532e0daeaa82b5f80375c54fb477486d27dd2",
+    "url": "https://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/",
+    "title": "Mo' Shells Mo' Problems - Deep Panda Web Shells - crowdstrike.com",
+    "description": "Part one covering Deep Panda web shells and the case study of the incident response investigation co",
+    "text": "February 19, 2014\nDisclaimer: CrowdStrike derived this information from investigations in non-classi"
+  },
+  {
+    "id": "0623843ea3c7dc4f7f48701379c00bf8fb01756a",
+    "url": "https://www.crowdstrike.com/blog/new-community-tool-crowdresponse/",
+    "title": "*NEW* Community Tool: CrowdResponse",
+    "description": "The New Community Tools initial version provides three useful build-in-modules. CrowdStrike has an e",
+    "text": "March 12, 2014\nAt the 2014 RSA Conference in San Francisco, CrowdStrike CTO Dmitri Alperovitch and I"
+  },
+  {
+    "id": "112591c53a069cdad3cba45d89e8f38cdd506774",
+    "url": "https://www.crowdstrike.com/blog/mo-shells-mo-problems-file-list-stacking/",
+    "title": "Mo' Shells Mo' Problems - File List Stacking - crowdstrike.com",
+    "description": "Part two covering Deep Panda web shells and the case study of the incident response investigation co",
+    "text": "March 07, 2014\nDisclaimer: CrowdStrike derived this information from investigations in non-classifie"
+  },
+  {
+    "id": "6b9f65714804ad2d00142347134c00b529dfa8a3",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/backlink",
+    "title": "Backlink metrics",
+    "description": "Learn about Ahrefs' backlink metrics: backlinks and referring domains, URL rating, Domain Rating, an",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "a15413c79c5904d8fa6c8aa8117f28f7ff66ec01",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-crawler/crawler-faqs",
+    "title": "Crawler FAQs",
+    "description": "Find out the answers to the most frequently asked questions about our crawler on our support chat.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "c8f70e8b049f38276b8a238353248e215b53e985",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/overview",
+    "title": "Overview",
+    "description": "Learn about the multiple data sources used to calculate the SEO and marketing metrics within our too",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "f46272f72925587cace203111270dcd82fe9eae7",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/account/navigating",
+    "title": "Navigating Ahrefs",
+    "description": "Get a walkthrough of Ahrefs’ core tools, where each of them is located, and when to use them.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "6d324affffb0fb5b1ecd1ec0dbdb88ebe68ed689",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/ahrefs-seo-metrics/keyword-and-search-traffic",
+    "title": "Keyword and search traffic metrics",
+    "description": "Learn about Ahrefs' search and keyword metrics: search volume, organic traffic, top keyword, Keyword",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "a9de6a574757927c6fd9286c526716430ccca76f",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/account/add-first-project",
+    "title": "How to add your first project",
+    "description": "Learn the two main ways to add your first Ahrefs project, and about the faster option we recommend.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "55b88d242c4dc75b7f903d4a7340d7c2f357a7c7",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/account/add-first-portfolio",
+    "title": "How to add and use portfolios",
+    "description": "Learn what a portfolio is in Ahrefs, and how to add your first one.",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "b3e4036f57b4d328eefcf2c6ce2309d7c399381c",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/dashboard/overview",
+    "title": "Overview",
+    "description": "Learn about all the things you can do with Ahrefs' Dashboard: monitor the performance of multiple UR",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "9f26a4ad68d24adb994072af5e476b4d9ac7028f",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/site-explorer/intro",
+    "title": "Introduction to Site Explorer",
+    "description": "Learn how to conduct effective searches in Site Explorer that help you reverse engineer your competi",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
+  },
+  {
+    "id": "8c51ede550cc91598753790267d4a64eb6ac3691",
+    "url": "https://ahrefs.com/academy/how-to-use-ahrefs/site-explorer/overview",
+    "title": "Overview",
+    "description": "Learn how to use Site Explorer's Overview to see how much search traffic your competitors get, track",
+    "text": "Study your competitors' websites.\nLearn what your customers are searching for.\nMonitor your rankings"
   }
 ]
