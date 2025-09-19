@@ -4384,15 +4384,15 @@
     "urls": []
   },
   "autodesk.com": {
-    "lastAt": 1757946176182,
+    "lastAt": 1758299231281,
     "urls": []
   },
   "vedsalb.com": {
-    "lastAt": 1757946181067,
+    "lastAt": 1758299235873,
     "urls": []
   },
   "wiley.com": {
-    "lastAt": 1757946185327,
+    "lastAt": 1758299240397,
     "urls": [
       "https://www.wiley.com/en-us/Herding+Chickens%3A+Innovative+Techniques+for+Project+Management-p-9780782150575",
       "https://wiley.com/",
@@ -4413,11 +4413,21 @@
       "https://www.wiley.com/en-us/Neurological+Emergencies%2C+4th+Edition-p-9780727917744",
       "https://www.wiley.com/en-us/Advances+in+Electrochemical+Science+and+Engineering%2C+Volume+2-p-9783527616855",
       "https://www.wiley.com/en-us/Dow's+Fire+and+Explosion+Index+Hazard+Classification+Guide%2C+7th+Edition-p-9780470938188",
-      "https://www.wiley.com/en-us/Acceptance+and+Commitment+Therapy+and+Mindfulness+for+Psychosis-p-9781118499191"
+      "https://www.wiley.com/en-us/Acceptance+and+Commitment+Therapy+and+Mindfulness+for+Psychosis-p-9781118499191",
+      "https://www.wiley.com/en-us/Advances+in+Chemical+Physics%2C+Volume+137-p-9780470238073",
+      "https://www.wiley.com/en-us/Contemporary+Sociology-p-9781509506361",
+      "https://www.wiley.com/en-us/Preventing+Harmful+Substance+Use%3A+The+Evidence+Base+for+Policy+and+Practice-p-9780470092293",
+      "https://www.wiley.com/en-us/The+First+European+Revolution%3A+970-1215-p-9780631222774",
+      "https://www.wiley.com/en-us/Taxonomy+and+Ecology+of+Woody+Plants+in+North+American+Forests+%3A+(Excluding+Mexico+and+Subtropical+Florida)-p-9780471161585",
+      "https://www.wiley.com/en-us/Statics+and+Mechanics+of+Materials%3A+An+Integrated+Approach%2C+2nd+Edition-p-9781119409809",
+      "https://www.wiley.com/en-us/Big+Picture+Strategy%3A+The+Six+Choices+That+Will+Transform+Your+Business-p-9781119712077",
+      "https://www.wiley.com/en-us/Leading+Change%3A+Overcoming+the+Ideology+of+Comfort+and+the+Tyranny+of+Custom-p-9781555426088",
+      "https://www.wiley.com/en-us/Budgeting%3A+Technology%2C+Trends%2C+Software+Selection%2C+and+Implementation-p-9780471392071",
+      "https://www.wiley.com/en-us/Children's+Nursing+in+Practice%3A+The+Nottingham+Model-p-9780632039098"
     ]
   },
   "nature.com": {
-    "lastAt": 1757946190734,
+    "lastAt": 1758299246572,
     "urls": [
       "https://www.nature.com/articles/s41387-025-00388-5",
       "https://www.nature.com/articles/s41387-025-00386-7",
@@ -4438,33 +4448,43 @@
       "https://www.nature.com/subjects/abiotic",
       "https://www.nature.com/subjects/acetylation",
       "https://www.nature.com/subjects/acetyltransferases",
-      "https://www.nature.com/subjects/achalasia"
+      "https://www.nature.com/subjects/achalasia",
+      "https://www.nature.com/subjects/actin",
+      "https://www.nature.com/subjects/acne-vulgaris",
+      "https://www.nature.com/subjects/acoustics",
+      "https://www.nature.com/subjects/action-potential-generation",
+      "https://www.nature.com/subjects/acid-base-fluid-electrolyte-disorders",
+      "https://www.nature.com/subjects/acute-coronary-syndromes",
+      "https://www.nature.com/subjects/actuators",
+      "https://www.nature.com/subjects/acute-inflammation",
+      "https://www.nature.com/subjects/acute-inflammatory-arthritis",
+      "https://www.nature.com/subjects/acute-kidney-injury"
     ]
   },
   "appcenter.ms": {
-    "lastAt": 1757946191982,
+    "lastAt": 1758299248737,
     "urls": [
       "https://appcenter.ms/"
     ]
   },
   "adsafeprotected.com": {
-    "lastAt": 1757946194485,
+    "lastAt": 1758299251133,
     "urls": []
   },
   "adobe.net": {
-    "lastAt": 1757946199180,
+    "lastAt": 1758299256426,
     "urls": []
   },
   "washingtonpost.com": {
-    "lastAt": 1757946411165,
+    "lastAt": 1758299468439,
     "urls": []
   },
   "kaspersky-labs.com": {
-    "lastAt": 1757946414442,
+    "lastAt": 1758299471869,
     "urls": []
   },
   "cdc.gov": {
-    "lastAt": 1757946424151,
+    "lastAt": 1758299484695,
     "urls": [
       "https://www.cdc.gov/contact/accessibility.html",
       "https://www.cdc.gov/covidtreatment/index.html",
@@ -4485,21 +4505,31 @@
       "https://www.cdc.gov/other/emailupdates/faqs.html",
       "https://www.cdc.gov/other/emailupdates/email-updates-thank-you.html",
       "https://www.cdc.gov/other/employee-infoatsdr.html",
-      "https://www.cdc.gov/other/flashdisclaimer.html"
+      "https://www.cdc.gov/other/flashdisclaimer.html",
+      "https://www.cdc.gov/other/imagereuse.html",
+      "https://www.cdc.gov/other/helpful.html",
+      "https://www.cdc.gov/other/language-assistance.html",
+      "https://www.cdc.gov/other/keymatches.html",
+      "https://www.cdc.gov/other/index.html",
+      "https://www.cdc.gov/other/languages.html",
+      "https://www.cdc.gov/other/information-received.html",
+      "https://www.cdc.gov/other/generative-ai.html",
+      "https://www.cdc.gov/other/link.html",
+      "https://www.cdc.gov/other/mobileprivacypolicy.html"
     ]
   },
   "pages.dev": {
-    "lastAt": 1757946424571,
+    "lastAt": 1758299485141,
     "urls": [
       "https://pages.dev/"
     ]
   },
   "mynetname.net": {
-    "lastAt": 1757946428749,
+    "lastAt": 1758299489229,
     "urls": []
   },
   "dailymail.co.uk": {
-    "lastAt": 1757946434781,
+    "lastAt": 1758299495938,
     "urls": [
       "https://www.dailymail.co.uk/news/article-15088457/Silk-Road-Charlie-Kirk-pardon.html",
       "https://www.dailymail.co.uk/travel/article-15088233/Brit-living-Thailand-expenses-cheaper-UK-rent.html",
@@ -4520,23 +4550,33 @@
       "https://www.dailymail.co.uk/news/article-15099121/Dezi-Freeman-shoout-ambush-aftermath.html",
       "https://www.dailymail.co.uk/news/article-15099811/Jodi-Picoult-post-meltdown-Charlie-Kirk-murder.html",
       "https://www.dailymail.co.uk/travel/article-15100109/how-learn-cook-jamie-oliver.html",
-      "https://www.dailymail.co.uk/media/article-15100291/Columnist-Karen-Attiah-FIRED-Washington-Post-charlie-kirk.html"
+      "https://www.dailymail.co.uk/media/article-15100291/Columnist-Karen-Attiah-FIRED-Washington-Post-charlie-kirk.html",
+      "https://www.dailymail.co.uk/news/royals/article-15114755/duchess-sophie-embraces-florals-stunning-dress-budget-alternatives.html",
+      "https://www.dailymail.co.uk/femail/article-15114901/Meghan-Markle-Suits-star-travel-hack.html",
+      "https://www.dailymail.co.uk/news/article-15115277/SNP-minister-Jamie-Hepburn-quits-day-Tory-MSP-Douglas-Ross-assault-claim.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15115243/Cameron-Diaz-husband-Benji-Madden-appear-tired-child.html",
+      "https://www.dailymail.co.uk/sport/nfl/article-15115275/Kirk-Herbstreit-tribute-singer-Brett-James-plane-crash.html",
+      "https://www.dailymail.co.uk/yourmoney/article-15115403/stock-moves-clue-tiktok-owner-oracle.html",
+      "https://www.dailymail.co.uk/news/article-15115159/truck-driver-stowaway-migrants-UK-bound-lorry-Starmers-one-policy-kept-out.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15115251/Kate-Garraway-left-red-faced-blocked-entering-house-accidentally-ordering-12-TONNES-hardcore-garden.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15115151/Charlie-Kirk-friend-calls-South-Park-restore-episode.html",
+      "https://www.dailymail.co.uk/sport/darts/article-15115237/darts-star-luke-littler-theory-test-seventh-time.html"
     ]
   },
   "wsj.com": {
-    "lastAt": 1757946440654,
+    "lastAt": 1758299502826,
     "urls": []
   },
   "heytapmobile.com": {
-    "lastAt": 1757946443928,
+    "lastAt": 1758299505890,
     "urls": []
   },
   "etsy.com": {
-    "lastAt": 1757946882621,
+    "lastAt": 1758299966876,
     "urls": []
   },
   "checkpoint.com": {
-    "lastAt": 1757946884700,
+    "lastAt": 1758299969529,
     "urls": [
       "https://checkpoint.com/",
       "https://www.checkpoint.com/infinity/threatcloud-ai/brand-spoofing-prevention/",
@@ -4557,11 +4597,21 @@
       "https://www.checkpoint.com/quantum/next-generation-firewall/small-business-firewall/infinity-spark/",
       "https://www.checkpoint.com/solutions/mitre-attack/mobile-coverage/",
       "https://www.checkpoint.com/quantum/sd-wan/",
-      "https://www.checkpoint.com/services/infinity-global/"
+      "https://www.checkpoint.com/services/infinity-global/",
+      "https://www.checkpoint.com/quantum/network-security-solutions/",
+      "https://www.checkpoint.com/about-us/check-point-cyber-center-tour/",
+      "https://www.checkpoint.com/about-us/check-point-cyber-center-tour-in-hebrew/",
+      "https://www.checkpoint.com/harmony/email-security/email-office/",
+      "https://www.checkpoint.com/solutions/small-medium-business-security/",
+      "https://www.checkpoint.com/solutions/sd-wan-security/",
+      "https://www.checkpoint.com/industry/industrial-control-systems/",
+      "https://www.checkpoint.com/solutions/enterprise-network-security/",
+      "https://www.checkpoint.com/industry/service-provider/",
+      "https://www.checkpoint.com/wef-2023/"
     ]
   },
   "gosuslugi.ru": {
-    "lastAt": 1757946889698,
+    "lastAt": 1758299975381,
     "urls": [
       "https://www.gosuslugi.ru/help/news/27",
       "https://gosuslugi.ru/",
@@ -4572,55 +4622,65 @@
       "https://www.gosuslugi.ru/help/news/21",
       "https://www.gosuslugi.ru/help/news/26",
       "https://www.gosuslugi.ru/help/news/25",
-      "https://www.gosuslugi.ru/help/news/22"
+      "https://www.gosuslugi.ru/help/news/22",
+      "https://www.gosuslugi.ru/help/news/18",
+      "https://www.gosuslugi.ru/help/news/19",
+      "https://www.gosuslugi.ru/help/news/14",
+      "https://www.gosuslugi.ru/help/news/107",
+      "https://www.gosuslugi.ru/help/news/16",
+      "https://www.gosuslugi.ru/help/news/17",
+      "https://www.gosuslugi.ru/help/news/127",
+      "https://www.gosuslugi.ru/help/news/147",
+      "https://www.gosuslugi.ru/help/news/15",
+      "https://www.gosuslugi.ru/help/news/167"
     ]
   },
   "cmediahub.ru": {
-    "lastAt": 1757946893702,
+    "lastAt": 1758299979623,
     "urls": []
   },
   "cedexis.net": {
-    "lastAt": 1757946896635,
+    "lastAt": 1758299982626,
     "urls": []
   },
   "rambler.ru": {
-    "lastAt": 1757946900506,
+    "lastAt": 1758299986908,
     "urls": [
       "https://rambler.ru/"
     ]
   },
   "springer.com": {
-    "lastAt": 1757946901260,
+    "lastAt": 1758299987856,
     "urls": [
       "https://springer.com/"
     ]
   },
   "id5-sync.com": {
-    "lastAt": 1757946909098,
+    "lastAt": 1758299990941,
     "urls": [
       "https://id5-sync.com/"
     ]
   },
   "fb-t-msedge.net": {
-    "lastAt": 1757946911989,
+    "lastAt": 1758299993898,
     "urls": []
   },
   "bloomberg.com": {
-    "lastAt": 1757946918303,
+    "lastAt": 1758300001118,
     "urls": []
   },
   "ok.ru": {
-    "lastAt": 1757946928427,
+    "lastAt": 1758300015677,
     "urls": [
       "https://ok.ru/"
     ]
   },
   "myshopify.com": {
-    "lastAt": 1757946931724,
+    "lastAt": 1758300019528,
     "urls": []
   },
   "telegraph.co.uk": {
-    "lastAt": 1757946941980,
+    "lastAt": 1758300030209,
     "urls": [
       "https://telegraph.co.uk/",
       "https://www.telegraph.co.uk/wrestling/2021/04/08/wrestling-artistic-should-funded-like-theatre-opera-mps-say/",
@@ -4641,17 +4701,27 @@
       "https://www.telegraph.co.uk/health-fitness/conditions/dementia/masud-husain-the-scientist-tackling-our-brain-secrets/",
       "https://www.telegraph.co.uk/health-fitness/diet/alcohol/my-dad-died-an-alcoholic-over-christmas-i-drink-normally/",
       "https://www.telegraph.co.uk/health-fitness/fitness/walking/how-gentle-exercise-can-help-six-common-conditions/",
-      "https://www.telegraph.co.uk/theatre/what-to-see/globe-amps-up-twelfth-nights-gender-fluidity-homoeroticism/"
+      "https://www.telegraph.co.uk/theatre/what-to-see/globe-amps-up-twelfth-nights-gender-fluidity-homoeroticism/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-winters-tale-rst-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/three-sisters-sam-wanamaker-playhouse-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-brightening-air-old-vic-chris-o-dowd-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/otherland-almeida-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-little-mermaid-bristol-old-vic-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/summer-1954-theatre-royal-bath-review-terence-rattigan/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/look-back-in-anger-roots-almeida-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/1984-theatre-royal-bath-review-keith-allen/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/death-of-england-closing-time-soho-place-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/shifters-duke-of-yorks-theatre-review/"
     ]
   },
   "consultant.ru": {
-    "lastAt": 1757946944613,
+    "lastAt": 1758300033456,
     "urls": [
       "https://consultant.ru/"
     ]
   },
   "naver.com": {
-    "lastAt": 1757946947668,
+    "lastAt": 1758300036229,
     "urls": [
       "https://naver.com/"
     ]
