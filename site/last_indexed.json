@@ -7126,7 +7126,7 @@
     ]
   },
   "cnet.com": {
-    "lastAt": 1757971199313,
+    "lastAt": 1758323971154,
     "urls": [
       "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-you-can-keep-chicken-in-the-fridge/",
       "https://www.cnet.com/deals/walmart-deals-of-the-day-september-11/",
@@ -7147,23 +7147,33 @@
       "https://www.cnet.com/deals/best-laptop-deals/",
       "https://www.cnet.com/deals/best-pixel-9-deals/",
       "https://www.cnet.com/tech/services-and-software/expressvpn-adds-siri-widgets-and-shortcuts-to-its-ios-app/",
-      "https://www.cnet.com/tech/mobile/best-wireless-earbuds/"
+      "https://www.cnet.com/tech/mobile/best-wireless-earbuds/",
+      "https://www.cnet.com/tech/mobile/how-to-easily-transfer-your-phones-data-to-your-new-iphone-17/",
+      "https://www.cnet.com/tech/mobile/best-iphone/",
+      "https://www.cnet.com/health/here-are-5-surprising-gift-cards-you-didnt-know-you-could-buy-on-amazon/",
+      "https://www.cnet.com/tech/gaming/microsoft-is-raising-xbox-series-console-prices-again-heres-what-youll-pay-this-fall/",
+      "https://www.cnet.com/tech/mobile/the-new-meta-ray-bans-might-be-your-next-disneyland-tour-guide/",
+      "https://www.cnet.com/deals/samsung-galaxy-z-flip-7-deals/",
+      "https://www.cnet.com/deals/celebrate-googles-birthday-with-200-off-the-google-pixel-9/",
+      "https://www.cnet.com/deals/best-google-pixel-deals/",
+      "https://www.cnet.com/tech/services-and-software/bad-luck-for-zuckerberg-why-meta-connects-live-demos-flopped/",
+      "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-20-362/"
     ]
   },
   "name-services.com": {
-    "lastAt": 1757971202427,
+    "lastAt": 1758323974301,
     "urls": []
   },
   "amazon.co.jp": {
-    "lastAt": 1757971224138,
+    "lastAt": 1758323988544,
     "urls": []
   },
   "yahoodns.net": {
-    "lastAt": 1757971227325,
+    "lastAt": 1758323991564,
     "urls": []
   },
   "target.com": {
-    "lastAt": 1757971233243,
+    "lastAt": 1758323996867,
     "urls": [
       "https://www.target.com/s/1+inch+curling+iron",
       "https://www.target.com/s/1+ounce+mason+jars",
@@ -7184,15 +7194,25 @@
       "https://www.target.com/s/100+cotton+nightgowns",
       "https://www.target.com/s/100+cotton+sheets",
       "https://www.target.com/s/100+cotton+socks+women",
-      "https://www.target.com/s/100+cotton+pajamas"
+      "https://www.target.com/s/100+cotton+pajamas",
+      "https://www.target.com/s/100+cotton+t+shirts",
+      "https://www.target.com/s/100+emoji+shirt",
+      "https://www.target.com/s/100+pair+shoe+rack",
+      "https://www.target.com/s/100+cup+coffee+maker",
+      "https://www.target.com/s/100+gallon+storage+bin",
+      "https://www.target.com/s/100+watt+desk+lamps",
+      "https://www.target.com/s/1000+thread+count+sheets",
+      "https://www.target.com/s/108+inch+linen+curtains",
+      "https://www.target.com/s/108+inch+curtains",
+      "https://www.target.com/s/108+curtains+drapes"
     ]
   },
   "alicdn.com": {
-    "lastAt": 1757971292098,
+    "lastAt": 1758324055699,
     "urls": []
   },
   "dynatrace.com": {
-    "lastAt": 1757971296747,
+    "lastAt": 1758324061747,
     "urls": [
       "https://www.dynatrace.com/",
       "https://dynatrace.com/",
@@ -7213,17 +7233,27 @@
       "https://www.dynatrace.com/customers/xxxlutz/",
       "https://www.dynatrace.com/customers/skyworks/",
       "https://www.dynatrace.com/customers/bnz/",
-      "https://www.dynatrace.com/customers/usi/"
+      "https://www.dynatrace.com/customers/usi/",
+      "https://www.dynatrace.com/customers/bt-digital-transformation/",
+      "https://www.dynatrace.com/customers/soldo/",
+      "https://www.dynatrace.com/customers/fife-council/",
+      "https://www.dynatrace.com/customers/dubai-customs/",
+      "https://www.dynatrace.com/customers/riyad-bank/",
+      "https://www.dynatrace.com/customers/tsb/",
+      "https://www.dynatrace.com/customers/melia/",
+      "https://www.dynatrace.com/customers/wiley/",
+      "https://www.dynatrace.com/customers/basware/",
+      "https://www.dynatrace.com/customers/u-haul-dem/"
     ]
   },
   "sina.com.cn": {
-    "lastAt": 1757971303688,
+    "lastAt": 1758324070224,
     "urls": [
       "https://sina.com.cn/"
     ]
   },
   "intercom.io": {
-    "lastAt": 1757971307304,
+    "lastAt": 1758324074274,
     "urls": [
       "https://www.intercom.com/suite",
       "https://www.intercom.com/pricing",
@@ -7242,15 +7272,24 @@
       "https://www.intercom.com/suite/helpdesk/knowledge-hub",
       "https://www.intercom.com/suite/helpdesk/reporting",
       "https://www.intercom.com/suite/helpdesk/tickets",
-      "https://www.intercom.com/customers/3commas"
+      "https://www.intercom.com/customers/3commas",
+      "https://www.intercom.com/customers/breathe",
+      "https://www.intercom.com/customers/bitly",
+      "https://www.intercom.com/customers/clay",
+      "https://www.intercom.com/customers/coda",
+      "https://www.intercom.com/customers/code-for-america",
+      "https://www.intercom.com/customers/consensys",
+      "https://www.intercom.com/customers/copper",
+      "https://www.intercom.com/customers/databox",
+      "https://www.intercom.com/customers/dental-intelligence"
     ]
   },
   "hicloud.com": {
-    "lastAt": 1757971310573,
+    "lastAt": 1758324077941,
     "urls": []
   },
   "playstation.com": {
-    "lastAt": 1757971313411,
+    "lastAt": 1758324080232,
     "urls": [
       "https://www.playstation.com/es-ar/ps5/buy-now/",
       "https://www.playstation.com/es-ar/ps5/",
@@ -7271,11 +7310,21 @@
       "https://www.playstation.com/es-ar/accessories/playlink/",
       "https://www.playstation.com/es-ar/accessories/gold-wireless-headset/",
       "https://www.playstation.com/es-ar/accessories/hd-camera/",
-      "https://www.playstation.com/es-ar/accessories/playstation-vr-aim-controller/"
+      "https://www.playstation.com/es-ar/accessories/playstation-vr-aim-controller/",
+      "https://www.playstation.com/es-ar/accessories/dualshock-4-wireless-controller/",
+      "https://www.playstation.com/es-ar/accessories/storage-solutions/",
+      "https://www.playstation.com/es-ar/accessories/platinum-wireless-headset/",
+      "https://www.playstation.com/es-ar/accessories/external-storage/",
+      "https://www.playstation.com/es-ar/accessories/ps5-console-covers/",
+      "https://www.playstation.com/es-ar/accessories/racing-wheels/",
+      "https://www.playstation.com/es-ar/accessories/dualsense-edge-wireless-controller/",
+      "https://www.playstation.com/es-ar/accessories/access-controller/",
+      "https://www.playstation.com/es-ar/accessories/coming-soon-to-playstation/",
+      "https://www.playstation.com/es-ar/accessories/additional-ps4-gaming-controllers/"
     ]
   },
   "docker.com": {
-    "lastAt": 1757971321191,
+    "lastAt": 1758324088832,
     "urls": [
       "https://docker.com/",
       "https://www.docker.com/blog/",
@@ -7296,29 +7345,39 @@
       "https://www.docker.com/blog/how-to-make-ai-chatbot-from-scratch/",
       "https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/",
       "https://www.docker.com/blog/mcp-horror-stories-the-supply-chain-attack/",
-      "https://www.docker.com/blog/genai-vs-agentic-ai/"
+      "https://www.docker.com/blog/genai-vs-agentic-ai/",
+      "https://www.docker.com/blog/docker-desktop-silent-component-updates/",
+      "https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/",
+      "https://www.docker.com/blog/announcing-docker-model-runner-ga/",
+      "https://www.docker.com/blog/docker-cncf-partnership/",
+      "https://www.docker.com/blog/cagent-build-and-distribute-ai-agents-and-workflows/",
+      "https://www.docker.com/blog/cerebras-docker-compose-secure-ai-coding-agents/",
+      "https://www.docker.com/blog/mcp-security-explained/",
+      "https://www.docker.com/blog/beyond-the-chatbot-event-driven-agents-in-action/",
+      "https://www.docker.com/blog/retiring-docker-content-trust/",
+      "https://www.docker.com/blog/run-llms-locally/"
     ]
   },
   "360safe.com": {
-    "lastAt": 1757971380048,
+    "lastAt": 1758324147691,
     "urls": []
   },
   "awswaf.com": {
-    "lastAt": 1757971383065,
+    "lastAt": 1758324150752,
     "urls": []
   },
   "worldnic.com": {
-    "lastAt": 1757971441924,
+    "lastAt": 1758324209615,
     "urls": []
   },
   "163.com": {
-    "lastAt": 1757971445513,
+    "lastAt": 1758324212633,
     "urls": [
       "https://163.com/"
     ]
   },
   "tplinkcloud.com": {
-    "lastAt": 1757971446496,
+    "lastAt": 1758324213853,
     "urls": [
       "https://www.tplinkcloud.com/",
       "https://www.tplinkcloud.com/forgotpassword.php",
@@ -7327,13 +7386,13 @@
     ]
   },
   "rakuten.co.jp": {
-    "lastAt": 1757971465264,
+    "lastAt": 1758324232157,
     "urls": [
       "https://rakuten.co.jp/"
     ]
   },
   "hotjar.com": {
-    "lastAt": 1757971472497,
+    "lastAt": 1758324239473,
     "urls": [
       "https://www.hotjar.com/404-not-found/",
       "https://www.hotjar.com/",
@@ -7344,11 +7403,12 @@
       "https://www.hotjar.com/pt-BR/404-not-found/",
       "https://www.hotjar.com/it/404-not-found/",
       "https://www.hotjar.com/es/404-not-found/",
-      "https://www.hotjar.com/ja/404-not-found/"
+      "https://www.hotjar.com/ja/404-not-found/",
+      "https://www.hotjar.com/partner-directory/datacrew/"
     ]
   },
   "newsweek.com": {
-    "lastAt": 1757971476113,
+    "lastAt": 1758324243489,
     "urls": [
       "https://www.newsweek.com/sports/nfl/vikings-kevin-oconnell-announces-major-life-update-jj-mccarthy-2128557",
       "https://www.newsweek.com/trumps-tricky-balancing-act-responding-charlie-kirks-assassination-2128558",
@@ -7369,11 +7429,21 @@
       "https://www.newsweek.com/sports/racing/massive-nhra-dragster-wreck-flips-tony-stewarts-car-terrifying-scene-2129899",
       "https://www.newsweek.com/sports/racing/gordon-ramsay-loses-it-liam-lawson-over-pineapple-pizza-you-muppet-2129954",
       "https://www.newsweek.com/expert-explains-senior-dog-intense-dreams-2117843",
-      "https://www.newsweek.com/sports/betting/spread-em-ashley-haas-nfl-week-2-recap-best-bets-mnf-2130284"
+      "https://www.newsweek.com/sports/betting/spread-em-ashley-haas-nfl-week-2-recap-best-bets-mnf-2130284",
+      "https://www.newsweek.com/sports/nba/heat-star-tyler-herro-sends-warning-nba-after-undergoing-surgery-2132855",
+      "https://www.newsweek.com/sports/ncaa/how-watch-iowa-vs-rutgers-live-stream-ncaa-college-football-tv-channel-2131074",
+      "https://www.newsweek.com/abc-sacramento-television-gunfire-tegna-kvtv-2132852",
+      "https://www.newsweek.com/sports/racing/russell-antonelli-set-surprising-goal-amid-ferrari-mclaren-baku-threat-2132844",
+      "https://www.newsweek.com/sports/nba/knicks-could-trade-3-players-ahead-new-season-says-insider-2132856",
+      "https://www.newsweek.com/map-shows-states-hit-freeze-warning-temperatures-set-plunge-2132835",
+      "https://www.newsweek.com/sports/ncaa/how-watch-tulsa-vs-oklahoma-state-live-stream-ncaa-college-football-tv-channel-2131064",
+      "https://www.newsweek.com/sports/betting/fanduel-promo-code-unlock-300-bonus-mlb-ncaaf-nfl-week-3-games-2132751",
+      "https://www.newsweek.com/jimmy-kimmel-live-kicked-off-air-are-other-late-night-show-hosts-next-2132715",
+      "https://www.newsweek.com/sports/betting/betmgm-bonus-code-week150-get-150-bonus-ncaaf-mlb-nfl-week-3-games-2132732"
     ]
   },
   "squarespace.com": {
-    "lastAt": 1757971479551,
+    "lastAt": 1758324246554,
     "urls": [
       "https://www.squarespace.com/",
       "https://squarespace.com/",
@@ -7394,17 +7464,27 @@
       "https://www.squarespace.com/templates/browse/topic/nature-animals/type/scheduling",
       "https://www.squarespace.com/templates/browse/topic/fashion/type/scheduling",
       "https://www.squarespace.com/templates/browse/topic/fashion/type/services",
-      "https://www.squarespace.com/templates/browse/topic/health-beauty/type/scheduling"
+      "https://www.squarespace.com/templates/browse/topic/health-beauty/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/community-non-profit/type/services",
+      "https://www.squarespace.com/templates/browse/topic/local-business/type/services",
+      "https://www.squarespace.com/templates/browse/topic/media-podcasts/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/home-decor/type/online-store",
+      "https://www.squarespace.com/templates/browse/topic/photography/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/fitness/type/online-store",
+      "https://www.squarespace.com/templates/browse/topic/fitness/type/portfolio",
+      "https://www.squarespace.com/templates/browse/topic/home-decor/type/services",
+      "https://www.squarespace.com/templates/browse/topic/local-business/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/fitness"
     ]
   },
   "rt.ru": {
-    "lastAt": 1757971483563,
+    "lastAt": 1758324251267,
     "urls": [
       "https://rt.ru/"
     ]
   },
   "buzzfeed.com": {
-    "lastAt": 1757971500512,
+    "lastAt": 1758324266919,
     "urls": [
       "https://www.buzzfeed.com/buzz/Scotts_Favorite_Trends_of_2007",
       "https://www.buzzfeed.com/buzz/Peggys_Favorite_Trends_of_2007",
@@ -7425,17 +7505,27 @@
       "https://www.buzzfeed.com/buzz/What_the_Buck",
       "https://www.buzzfeed.com/buzz/Tennis_Cocaine_Ban",
       "https://www.buzzfeed.com/buzz/Haute_Barnyard",
-      "https://www.buzzfeed.com/buzz/Gurney_Ride"
+      "https://www.buzzfeed.com/buzz/Gurney_Ride",
+      "https://www.buzzfeed.com/buzz/Vagina_in_a_Cup",
+      "https://www.buzzfeed.com/buzz/Australia_vs_India",
+      "https://www.buzzfeed.com/buzz/Neti_Pots",
+      "https://www.buzzfeed.com/buzz/Fake_Babies",
+      "https://www.buzzfeed.com/buzz/Gemma_Arterton",
+      "https://www.buzzfeed.com/buzz/Oceanic_Air_Ads",
+      "https://www.buzzfeed.com/buzz/Ecomodding",
+      "https://www.buzzfeed.com/buzz/Deaf_Pornography",
+      "https://www.buzzfeed.com/buzz/Parts_Modeling",
+      "https://www.buzzfeed.com/buzz/Golden_Globes_Canceled"
     ]
   },
   "amazontrust.com": {
-    "lastAt": 1757971531316,
+    "lastAt": 1758324297726,
     "urls": [
       "https://amazontrust.com/"
     ]
   },
   "surveymonkey.com": {
-    "lastAt": 1757971539972,
+    "lastAt": 1758324306475,
     "urls": [
       "https://www.surveymonkey.com/customers/woom/",
       "https://www.surveymonkey.com/customers/yu-ai-kai/",
@@ -7456,17 +7546,27 @@
       "https://www.surveymonkey.com/templates/change-request-order-form-template/",
       "https://www.surveymonkey.com/templates/pledge-form/",
       "https://www.surveymonkey.com/templates/job-fair-registration-form-template/",
-      "https://www.surveymonkey.com/templates/payment-receipt-form/"
+      "https://www.surveymonkey.com/templates/payment-receipt-form/",
+      "https://www.surveymonkey.com/mp/the-modern-managers-summit/",
+      "https://www.surveymonkey.com/mp/upcoming-events/",
+      "https://www.surveymonkey.com/mp/ai/",
+      "https://www.surveymonkey.com/mp/guide-to-survey-statistics/",
+      "https://www.surveymonkey.com/mp/training-survey/",
+      "https://www.surveymonkey.com/mp/employee-surveys/",
+      "https://www.surveymonkey.com/mp/employee-satisfaction-surveys/",
+      "https://www.surveymonkey.com/mp/online-schedule-poll/",
+      "https://www.surveymonkey.com/mp/how-to-create-surveys/",
+      "https://www.surveymonkey.com/"
     ]
   },
   "ezvizlife.com": {
-    "lastAt": 1757971541008,
+    "lastAt": 1758324307810,
     "urls": [
       "https://ezvizlife.com/"
     ]
   },
   "uk.com": {
-    "lastAt": 1757971541569,
+    "lastAt": 1758324308062,
     "urls": [
       "https://uk.com/",
       "https://uk.com/privacy-policy",
@@ -7476,7 +7576,7 @@
     ]
   },
   "okta.com": {
-    "lastAt": 1757971550826,
+    "lastAt": 1758324317707,
     "urls": [
       "https://okta.com/",
       "https://www.okta.com/jp/",
@@ -7485,15 +7585,19 @@
       "https://www.okta.com/jp/blog/author/ivan-dwyer/",
       "https://www.okta.com/jp/blog/author/jack-shepherd/",
       "https://www.okta.com/jp/blog/author/james-fang/",
-      "https://www.okta.com/jp/blog/author/james-flores/"
+      "https://www.okta.com/jp/blog/author/james-flores/",
+      "https://www.okta.com/jp/contact-sales-okta-for-startups/",
+      "https://www.okta.com/jp/blog/author/jesper-frederiksen/",
+      "https://www.okta.com/jp/blog/author/jason-jung/",
+      "https://www.okta.com/jp/okta-administrator-experience/"
     ]
   },
   "spaceweb.pro": {
-    "lastAt": 1757974829869,
+    "lastAt": 1758324376517,
     "urls": []
   },
   "braze.com": {
-    "lastAt": 1757974832603,
+    "lastAt": 1758324380335,
     "urls": [
       "https://www.braze.com/product/journey-orchestration-v2",
       "https://www.braze.com/partners/solutions-partners/howatson-and-company",
@@ -7514,7 +7618,17 @@
       "https://www.braze.com/product/line",
       "https://www.braze.com/email",
       "https://www.braze.com/partners/technology-partners/future-anthem",
-      "https://www.braze.com/partners/solutions-partners/for-now-marketing"
+      "https://www.braze.com/partners/solutions-partners/for-now-marketing",
+      "https://www.braze.com/pt-br-email",
+      "https://www.braze.com/resources/webinars-and-events/asia-state-of-customer-engagement-2025",
+      "https://www.braze.com/resources/webinars-and-events/personalized-experiences-add-to-cart",
+      "https://www.braze.com/resources/webinars-and-events/how-to-build-trust-with-every-financial-services-interaction",
+      "https://www.braze.com/pt-br-brand",
+      "https://www.braze.com/resources/videos/testimonial-sportsbet",
+      "https://www.braze.com/partners/technology-partners/just-words",
+      "https://www.braze.com/company/careers/how-we-hire",
+      "https://www.braze.com/partners/solutions-partners/wpp",
+      "https://www.braze.com/partners/braze-amplifiers/stitch-multi-thread"
     ]
   },
   "branch.io": {
