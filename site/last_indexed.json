@@ -3994,7 +3994,7 @@
     "urls": []
   },
   "tradingview.com": {
-    "lastAt": 1757942998932,
+    "lastAt": 1758295363967,
     "urls": [
       "https://www.tradingview.com/etf-screener/",
       "https://www.tradingview.com/bond-screener/",
@@ -4015,11 +4015,21 @@
       "https://www.tradingview.com/options/",
       "https://www.tradingview.com/support/whats-new/",
       "https://www.tradingview.com/data-coverage/",
-      "https://www.tradingview.com/the-leap/"
+      "https://www.tradingview.com/the-leap/",
+      "https://www.tradingview.com/desktop/",
+      "https://www.tradingview.com/broker-awards/",
+      "https://www.tradingview.com/lightweight-charts/",
+      "https://www.tradingview.com/brokers/",
+      "https://www.tradingview.com/free-charting-libraries/",
+      "https://www.tradingview.com/advanced-charts/",
+      "https://www.tradingview.com/students/",
+      "https://www.tradingview.com/trading-platform/",
+      "https://www.tradingview.com/wall-of-love/",
+      "https://www.tradingview.com/space-mission/"
     ]
   },
   "sharethrough.com": {
-    "lastAt": 1757943000648,
+    "lastAt": 1758295366445,
     "urls": [
       "https://www.sharethrough.com/",
       "https://www.sharethrough.com/infographics/10-facts-strategies-for-back-to-school",
@@ -4040,25 +4050,35 @@
       "https://www.sharethrough.com/advertisers/ctv-dynamic-qr-codes",
       "https://www.sharethrough.com/campaigns/ctv-dynamic-qr-codes",
       "https://www.sharethrough.com/campaigns/ctv-sports-ticker",
-      "https://www.sharethrough.com/advertisers/curation"
+      "https://www.sharethrough.com/advertisers/curation",
+      "https://www.sharethrough.com/data-processing-addendum",
+      "https://www.sharethrough.com/forms/download-infographic",
+      "https://www.sharethrough.com/campaigns/decarbonize-the-programmatic-supply-chain-with-green-pmps-by-sharethrough",
+      "https://www.sharethrough.com/advertisers/dynamic-video-captions",
+      "https://www.sharethrough.com/careers/diversity-equity-inclusion-at-sharethrough",
+      "https://www.sharethrough.com/campaigns/dynamic-video-captions",
+      "https://www.sharethrough.com/events",
+      "https://www.sharethrough.com/careers/fraudulent-job-offers",
+      "https://www.sharethrough.com/campaigns/get-ready-for-back-to-school",
+      "https://www.sharethrough.com/email-signatures"
     ]
   },
   "jsdelivr.net": {
-    "lastAt": 1757943059506,
+    "lastAt": 1758295425301,
     "urls": []
   },
   "alibaba.com": {
-    "lastAt": 1757943060495,
+    "lastAt": 1758295426605,
     "urls": [
       "https://alibaba.com/"
     ]
   },
   "clarity.ms": {
-    "lastAt": 1757943089607,
+    "lastAt": 1758295469650,
     "urls": []
   },
   "php.net": {
-    "lastAt": 1757943092246,
+    "lastAt": 1758295474842,
     "urls": [
       "https://php.net/",
       "http://php.net/archive/",
@@ -4079,21 +4099,30 @@
       "http://php.net/get-involved.php",
       "http://php.net/git.php",
       "http://php.net/git-php.php",
-      "http://php.net/license/"
+      "http://php.net/license/",
+      "http://php.net/license/contrib-guidelines-code.php",
+      "http://php.net/license/distrib-guidelines-code.php",
+      "http://php.net/manual/",
+      "http://php.net/mailing-lists.php",
+      "http://php.net/mirror.php",
+      "http://php.net/mirroring.php",
+      "http://php.net/my.php",
+      "http://php.net/privacy.php",
+      "http://php.net/quickref.php"
     ]
   },
   "ys7.com": {
-    "lastAt": 1757943097247,
+    "lastAt": 1758295479110,
     "urls": [
       "https://ys7.com/"
     ]
   },
   "reuters.com": {
-    "lastAt": 1757943107268,
+    "lastAt": 1758295490797,
     "urls": []
   },
   "opendns.com": {
-    "lastAt": 1757943109611,
+    "lastAt": 1758295493060,
     "urls": [
       "https://www.opendns.com/",
       "https://www.opendns.com/opendns-smartcache/",
@@ -4116,7 +4145,7 @@
     ]
   },
   "ea.com": {
-    "lastAt": 1757943120011,
+    "lastAt": 1758295503061,
     "urls": [
       "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/efl",
       "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/mode-reward-changes",
@@ -4133,26 +4162,29 @@
       "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/the-world-of-battlefield-2042/rogue-agents",
       "https://www.ea.com/ar-sa/games/f1/f1-23/media",
       "https://www.ea.com/ar-sa/games/need-for-speed/need-for-speed-unbound/showroom",
-      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/buy"
+      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/buy",
+      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/disclaimers",
+      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/faq",
+      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/community"
     ]
   },
   "bidswitch.net": {
-    "lastAt": 1757943123406,
+    "lastAt": 1758295506307,
     "urls": []
   },
   "allawnos.com": {
-    "lastAt": 1757943126736,
+    "lastAt": 1758295509602,
     "urls": []
   },
   "go.com": {
-    "lastAt": 1757943127769,
+    "lastAt": 1758295510681,
     "urls": [
       "https://www.go.com/",
       "https://go.com/"
     ]
   },
   "dailymotion.com": {
-    "lastAt": 1757943133240,
+    "lastAt": 1758295515753,
     "urls": [
       "https://www.dailymotion.com/video/x8jggli",
       "https://www.dailymotion.com/video/x8q3dek",
@@ -4173,11 +4205,21 @@
       "https://www.dailymotion.com/video/x96itl0",
       "https://www.dailymotion.com/video/x9538sw",
       "https://www.dailymotion.com/video/x9933q0",
-      "https://www.dailymotion.com/video/x99hm7c"
+      "https://www.dailymotion.com/video/x99hm7c",
+      "https://www.dailymotion.com/video/x6fj1pn",
+      "https://www.dailymotion.com/video/x8oqw69",
+      "https://www.dailymotion.com/video/x8gn7eu",
+      "https://www.dailymotion.com/video/x8q3has",
+      "https://www.dailymotion.com/video/x8q3dpf",
+      "https://www.dailymotion.com/video/x8ret8c",
+      "https://www.dailymotion.com/video/x8yd3ti",
+      "https://www.dailymotion.com/video/x8yafa4",
+      "https://www.dailymotion.com/video/x8yiweu",
+      "https://www.dailymotion.com/video/x8yiwf4"
     ]
   },
   "booking.com": {
-    "lastAt": 1757943140490,
+    "lastAt": 1758295521209,
     "urls": [
       "https://booking.com/",
       "https://www.booking.com/airport/us/ord.vi.html",
@@ -4198,11 +4240,21 @@
       "https://www.booking.com/airport/de/fra.he.html",
       "https://www.booking.com/airport/nl/ams.he.html",
       "https://www.booking.com/airport/us/den.he.html",
-      "https://www.booking.com/airport/fr/cdg.he.html"
+      "https://www.booking.com/airport/fr/cdg.he.html",
+      "https://www.booking.com/airport/us/atl.id.html",
+      "https://www.booking.com/airport/us/ord.id.html",
+      "https://www.booking.com/airport/jp/hnd.id.html",
+      "https://www.booking.com/airport/gb/lhr.id.html",
+      "https://www.booking.com/airport/us/lax.id.html",
+      "https://www.booking.com/airport/de/fra.id.html",
+      "https://www.booking.com/airport/us/dfw.id.html",
+      "https://www.booking.com/airport/fr/cdg.id.html",
+      "https://www.booking.com/airport/nl/ams.id.html",
+      "https://www.booking.com/airport/us/den.id.html"
     ]
   },
   "aol.com": {
-    "lastAt": 1757943146260,
+    "lastAt": 1758295525779,
     "urls": [
       "https://aol.com/",
       "https://www.aol.com/article/entertainment/2018/06/14/world-cup-robbie-williams-flips-off-the-camera-at-the-opening-ceremony/23459343/",
@@ -4223,21 +4275,31 @@
       "https://www.aol.com/2013/02/20/ups-honors-massachusetts-drivers-for-25-years-of-s/",
       "https://www.aol.com/2010/10/11/montreal-slang/",
       "https://www.aol.com/article/news/2019/10/01/replay-upholds-another-bad-pass-interference-call-in-steelers-bengals-mnf-game/23824595/",
-      "https://www.aol.com/article/lifestyle/2019/10/01/7-silent-signs-of-a-heart-attack/23473743/"
+      "https://www.aol.com/article/lifestyle/2019/10/01/7-silent-signs-of-a-heart-attack/23473743/",
+      "https://www.aol.com/2012/04/05/l-a-dentist-admits-to-stashing-celebrities-teeth/",
+      "https://www.aol.com/2011/01/10/first-china-and-now-india-zynga-sets-its-sights-on-the-indian-s/",
+      "https://www.aol.com/article/2016/08/13/6-times-hollywood-shook-up-criminal-justice-before-making-a-mur/21451032/",
+      "https://www.aol.com/2010/04/01/farmville-light-blue-and-pink-spring-mystery-box/",
+      "https://www.aol.com/article/news/2019/10/20/new-memorial-dedicated-for-civil-rights-icon-emmett-till/23843259/",
+      "https://www.aol.com/2013/01/04/1-area-eli-lilly-investors-must-watch/",
+      "https://www.aol.com/2011/06/20/cruisers-choice-awards-cruise-critic-survey-ranks-top-vacation/",
+      "https://www.aol.com/2013/07/03/disney-wants-its-heroes-back-from-viacom/",
+      "https://www.aol.com/article/2015/11/22/7-secrets-that-will-make-you-much-more-likable/21270861/",
+      "https://www.aol.com/article/news/2019/09/06/trophy-hunter-can-import-rare-black-rhinos-remains-says-trump-admin/23808309/"
     ]
   },
   "smartadserver.com": {
-    "lastAt": 1757943147081,
+    "lastAt": 1758295526676,
     "urls": [
       "https://smartadserver.com/"
     ]
   },
   "douyincdn.com": {
-    "lastAt": 1757943150711,
+    "lastAt": 1758295530303,
     "urls": []
   },
   "forter.com": {
-    "lastAt": 1757943169872,
+    "lastAt": 1758295543375,
     "urls": [
       "https://www.forter.com/blog/",
       "https://www.forter.com/blog/2015-03-the-post-emv-fraud-tsunami-101-guide-for-online-retailers/",
@@ -4258,57 +4320,67 @@
       "https://www.forter.com/blog/what-we-learned-at-the-awards-automation-is-essential/",
       "https://www.forter.com/blog/2015-10-are-you-measuring-your-real-fraud-prevention-roi/",
       "https://www.forter.com/blog/fraud-rates-didnt-drop-over-holidays-2015/",
-      "https://www.forter.com/blog/forter-named-gartner-cool-vendor-2016/"
+      "https://www.forter.com/blog/forter-named-gartner-cool-vendor-2016/",
+      "https://www.forter.com/blog/case-study-fraud-customers-diamonds/",
+      "https://www.forter.com/blog/a-very-satisfied-forter-customer-forbes/",
+      "https://www.forter.com/blog/forter-deloitte-technology-fast-50-rising-star/",
+      "https://www.forter.com/blog/online-retailers-watch-out-online-fraud-attacks-are-on-the-rise/",
+      "https://www.forter.com/blog/see-criminals-stealing-holiday-season/",
+      "https://www.forter.com/blog/fraud-protection-information-security-hidden-risk/",
+      "https://www.forter.com/blog/ecommerce-fraud-protection-data-domestic-fraud-ato-are-up/",
+      "https://www.forter.com/blog/customers-choose-forter-best-mobile-fraud-prevention-and-heres-why/",
+      "https://www.forter.com/blog/ecommerce-fraud-protection-and-refugee-flights/",
+      "https://www.forter.com/blog/mothers-day-and-online-fraud-detection/"
     ]
   },
   "debian.org": {
-    "lastAt": 1757943171772,
+    "lastAt": 1758295544392,
     "urls": [
       "https://debian.org/"
     ]
   },
   "akamaihd.net": {
-    "lastAt": 1757943174896,
+    "lastAt": 1758295547524,
     "urls": []
   },
   "lijit.com": {
-    "lastAt": 1757943175861,
+    "lastAt": 1758295548449,
     "urls": [
       "https://lijit.com/"
     ]
   },
   "netflix.net": {
-    "lastAt": 1757943184159,
+    "lastAt": 1758295556507,
     "urls": []
   },
   "tiktokcdn-eu.com": {
-    "lastAt": 1757943187186,
+    "lastAt": 1758295559561,
     "urls": []
   },
   "nstld.com": {
-    "lastAt": 1757943190124,
+    "lastAt": 1758295562555,
     "urls": []
   },
   "googletagservices.com": {
-    "lastAt": 1757943193055,
+    "lastAt": 1758295565492,
     "urls": []
   },
   "huawei.com": {
-    "lastAt": 1757943198585,
+    "lastAt": 1758295571526,
     "urls": []
   },
   "nease.net": {
-    "lastAt": 1757943257439,
+    "lastAt": 1758295630384,
     "urls": []
   },
   "weibo.com": {
-    "lastAt": 1757943259176,
+    "lastAt": 1758295632021,
     "urls": [
       "https://weibo.com/"
     ]
   },
   "fastly-edge.com": {
-    "lastAt": 1757943262100,
+    "lastAt": 1758295635127,
     "urls": []
   },
   "autodesk.com": {
