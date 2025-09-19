@@ -3519,11 +3519,11 @@
     ]
   },
   "2mdn.net": {
-    "lastAt": 1757940517730,
+    "lastAt": 1758288667913,
     "urls": []
   },
   "drom.ru": {
-    "lastAt": 1757940524319,
+    "lastAt": 1758288677878,
     "urls": [
       "https://www.drom.ru/catalog/acura/",
       "https://www.drom.ru/catalog/alpina/",
@@ -3544,19 +3544,29 @@
       "https://www.drom.ru/catalog/daewoo/",
       "https://www.drom.ru/catalog/citroen/",
       "https://www.drom.ru/catalog/daihatsu/",
-      "https://www.drom.ru/catalog/datsun/"
+      "https://www.drom.ru/catalog/datsun/",
+      "https://www.drom.ru/catalog/faw/",
+      "https://www.drom.ru/catalog/dodge/",
+      "https://www.drom.ru/catalog/fiat/",
+      "https://www.drom.ru/catalog/dongfeng/",
+      "https://www.drom.ru/catalog/ferrari/",
+      "https://www.drom.ru/catalog/ford/",
+      "https://www.drom.ru/catalog/gaz/",
+      "https://www.drom.ru/catalog/foton/",
+      "https://www.drom.ru/catalog/geely/",
+      "https://www.drom.ru/catalog/genesis/"
     ]
   },
   "safebrowsing.apple": {
-    "lastAt": 1757940528015,
+    "lastAt": 1758288681136,
     "urls": []
   },
   "media-amazon.com": {
-    "lastAt": 1757940530961,
+    "lastAt": 1758288684327,
     "urls": []
   },
   "launchdarkly.com": {
-    "lastAt": 1757940558305,
+    "lastAt": 1758288698255,
     "urls": [
       "https://launchdarkly.com/",
       "https://launchdarkly.com/events-webinars/",
@@ -3577,11 +3587,21 @@
       "https://launchdarkly.com/use-cases/migration/",
       "https://launchdarkly.com/features/analytics/",
       "https://launchdarkly.com/feature-flags-ruby/",
-      "https://launchdarkly.com/pricing/archive-apr2025/"
+      "https://launchdarkly.com/pricing/archive-apr2025/",
+      "https://launchdarkly.com/blog/is-it-a-feature-flag-or-a-feature-toggle/",
+      "https://launchdarkly.com/blog/product-centric-delivery/",
+      "https://launchdarkly.com/blog/learn-the-third-pillar-of-feature-management/",
+      "https://launchdarkly.com/release-guardian-early-access/thanks/",
+      "https://launchdarkly.com/blog/hbr-modern-software-delivery-new-risk-playbook/",
+      "https://launchdarkly.com/blog/how-we-built-logging-service-with-clickhouse/",
+      "https://launchdarkly.com/blog/llm-rag-tutorial/",
+      "https://launchdarkly.com/blog/turn-browsers-into-buyers/",
+      "https://launchdarkly.com/blog/configuring-opentelemetry-collector-aws-firehose/",
+      "https://launchdarkly.com/solutions/change-and-release-management/"
     ]
   },
   "grammarly.com": {
-    "lastAt": 1757940568282,
+    "lastAt": 1758288711977,
     "urls": [
       "https://www.grammarly.com/",
       "https://www.grammarly.com/signup",
@@ -3601,23 +3621,32 @@
       "https://www.grammarly.com/business/sales",
       "https://www.grammarly.com/contact/sales",
       "https://www.grammarly.com/jobs/life",
-      "https://www.grammarly.com/business/marketing"
+      "https://www.grammarly.com/business/marketing",
+      "https://www.grammarly.com/blog/",
+      "https://www.grammarly.com/jobs/technology",
+      "https://www.grammarly.com/edu/plans-and-pricing",
+      "https://www.grammarly.com/business/customer-support",
+      "https://www.grammarly.com/blog/creative-writing/celebrate-poetrymonth-with-this-fun-quiz/",
+      "https://www.grammarly.com/blog/idioms/looking-get-lucky-saint-patricks-day-idioms-may-help/",
+      "https://www.grammarly.com/blog/writing-tips/make-writing-digital-save-hours-week/",
+      "https://www.grammarly.com/blog/vocabulary/5-interesting-words-that-perfectly-describe-fridays/",
+      "https://www.grammarly.com/blog/vocabulary/7-weird-rare-words-illustrated/"
     ]
   },
   "samsungqbe.com": {
-    "lastAt": 1757940571359,
+    "lastAt": 1758288715272,
     "urls": []
   },
   "static.microsoft": {
-    "lastAt": 1757940574295,
+    "lastAt": 1758288718227,
     "urls": []
   },
   "cdngslb.com": {
-    "lastAt": 1757940633172,
+    "lastAt": 1758288777092,
     "urls": []
   },
   "ivi.ru": {
-    "lastAt": 1757940641432,
+    "lastAt": 1758288783964,
     "urls": [
       "https://www.ivi.ru/collections/oscar",
       "https://www.ivi.ru/collections/vampires",
@@ -3638,11 +3667,21 @@
       "https://www.ivi.ru/collections/movies-romantic",
       "https://www.ivi.ru/collections/cosmos",
       "https://www.ivi.ru/collections/new-wave",
-      "https://www.ivi.ru/collections/zhenschinyi_rezhisseryi"
+      "https://www.ivi.ru/collections/zhenschinyi_rezhisseryi",
+      "https://www.ivi.ru/collections/screen-adaptation",
+      "https://www.ivi.ru/collections/cats-dogs",
+      "https://www.ivi.ru/collections/den_pobedyi",
+      "https://www.ivi.ru/collections/biopics",
+      "https://www.ivi.ru/collections/movies-devil",
+      "https://www.ivi.ru/collections/muzhchinyi_mechtyi_chast_i",
+      "https://www.ivi.ru/collections/most-interesting-men",
+      "https://www.ivi.ru/collections/kinotavr",
+      "https://www.ivi.ru/collections/football-movies",
+      "https://www.ivi.ru/collections/luchshaya_fantastika_2011_goda"
     ]
   },
   "notamedia.ru": {
-    "lastAt": 1757940648837,
+    "lastAt": 1758288790656,
     "urls": [
       "https://agency.nota.media/",
       "https://agency.nota.media/company/",
@@ -3663,11 +3702,21 @@
       "https://agency.nota.media/services/mobile-development/",
       "https://agency.nota.media/blog/loyalnost-sotrudnikov/",
       "https://agency.nota.media/blog/kak-stavit-zadachu-razrabotchikam-sayta/",
-      "https://agency.nota.media/services/web-development/"
+      "https://agency.nota.media/services/web-development/",
+      "https://agency.nota.media/blog/proekt-dlinoyu-v-zhizn/",
+      "https://agency.nota.media/blog/moy-putk--balansu-v-zhizni/",
+      "https://agency.nota.media/blog/survey-for-developers/",
+      "https://agency.nota.media/blog/Tobeornottobe/",
+      "https://agency.nota.media/blog/Kakeffektivnoprodavatzhilenasaytev/",
+      "https://agency.nota.media/blog/uchim-klientov-vybirat-digital-agentstvo-dlya-razrabotki/",
+      "https://agency.nota.media/blog/partnerskaya-programma-Notamedia/",
+      "https://agency.nota.media/blog/analitikavit/",
+      "https://agency.nota.media/blog/KakkontseptsiyaproduktavITvystupaetperevodchikomsyazykaklientanayazykrazrabotchikov/",
+      "https://agency.nota.media/blog/onbording/"
     ]
   },
   "stripe.com": {
-    "lastAt": 1757940656617,
+    "lastAt": 1758288797292,
     "urls": [
       "https://stripe.com/legal/ssa",
       "https://stripe.com/ssa",
@@ -3688,11 +3737,21 @@
       "https://stripe.com/legal/financial-accounts",
       "https://stripe.com/legal/stablecoin-payments",
       "https://stripe.com/legal/issuing/lead-bank/apple-payment-platform-program-manager-customer-terms-and-conditions",
-      "https://stripe.com/legal/cpi-terms"
+      "https://stripe.com/legal/cpi-terms",
+      "https://stripe.com/legal/issuing/crb-authorized-user-terms-commercial-prepaid-card",
+      "https://stripe.com/legal/singapore-disclosures",
+      "https://stripe.com/legal/crb-issuing-offer-document-fees",
+      "https://stripe.com/legal/crb-commercial-prepaid-card",
+      "https://stripe.com/legal/ftb-issuing-offer-document",
+      "https://stripe.com/legal/consumer/pay-by-bank-payment-initiation-services",
+      "https://stripe.com/legal/restricted-businesses",
+      "https://stripe.com/legal/treasury/accountholder-preview-services-terms",
+      "https://stripe.com/legal/treasury/platform-preview-services-terms",
+      "https://stripe.com/legal/multi-currency-settlement"
     ]
   },
   "inmobi.com": {
-    "lastAt": 1757940662809,
+    "lastAt": 1758288803247,
     "urls": [
       "https://www.inmobi.com/",
       "https://www.inmobi.com/company/leadership",
@@ -3709,33 +3768,33 @@
     ]
   },
   "launchpad.net": {
-    "lastAt": 1757940679475,
+    "lastAt": 1758288804887,
     "urls": [
       "https://launchpad.net/"
     ]
   },
   "ipv4only.arpa": {
-    "lastAt": 1757940738285,
+    "lastAt": 1758288863701,
     "urls": []
   },
   "ampproject.org": {
-    "lastAt": 1757940739933,
+    "lastAt": 1758288865279,
     "urls": [
       "https://ampproject.org/"
     ]
   },
   "shalltry.com": {
-    "lastAt": 1757940744716,
+    "lastAt": 1758288870433,
     "urls": []
   },
   "quickconnect.to": {
-    "lastAt": 1757940745555,
+    "lastAt": 1758288871424,
     "urls": [
       "https://quickconnect.to/"
     ]
   },
   "issuu.com": {
-    "lastAt": 1757940756974,
+    "lastAt": 1758292348649,
     "urls": [
       "https://issuu.com/",
       "https://issuu.com/about",
@@ -3744,11 +3803,17 @@
       "https://issuu.com/features",
       "https://issuu.com/features/add-links-old",
       "https://issuu.com/features/articles",
-      "https://issuu.com/features/cloud-storage"
+      "https://issuu.com/features/cloud-storage",
+      "https://issuu.com/demo",
+      "https://issuu.com/features/adobe-express-to-flipbook",
+      "https://issuu.com/features/canva-to-flipbook",
+      "https://issuu.com/features/collaborate",
+      "https://issuu.com/features/embed",
+      "https://issuu.com/features/digital-sales"
     ]
   },
   "ibm.com": {
-    "lastAt": 1757940763321,
+    "lastAt": 1758292354404,
     "urls": [
       "https://www.ibm.com/thought-leadership/innovation-explanations",
       "https://www.ibm.com/certified-used-equipment",
@@ -3765,15 +3830,22 @@
       "https://www.ibm.com/thought-leadership/innovation-explanations/rajasekar-krishnamurthy",
       "https://www.ibm.com/thought-leadership/innovation-explanations/sekou-remy",
       "https://www.ibm.com/thought-leadership/passion-projects",
-      "https://www.ibm.com/thought-leadership/innovation-explanations/tanveer-syeda-mahmood-medical-imaging"
+      "https://www.ibm.com/thought-leadership/innovation-explanations/tanveer-syeda-mahmood-medical-imaging",
+      "https://www.ibm.com/reference/python/countvectorizer",
+      "https://www.ibm.com/watson",
+      "https://www.ibm.com/reference/python/for-loop",
+      "https://www.ibm.com/watson/resources",
+      "https://www.ibm.com/watson/supply-chain/resources/inventory-visibility-impacts-customer-experience",
+      "https://www.ibm.com/watson/events",
+      "https://www.ibm.com/watson/supply-chain/resources/real-time-inventory-visibility"
     ]
   },
   "samsungcloudsolution.com": {
-    "lastAt": 1757940766454,
+    "lastAt": 1758292357577,
     "urls": []
   },
   "media.net": {
-    "lastAt": 1757940768433,
+    "lastAt": 1758292358670,
     "urls": [
       "https://www.media.net/",
       "https://media.net/",
@@ -3793,13 +3865,13 @@
     ]
   },
   "3lift.com": {
-    "lastAt": 1757940769667,
+    "lastAt": 1758292360198,
     "urls": [
       "https://3lift.com/"
     ]
   },
   "weebly.com": {
-    "lastAt": 1757940772390,
+    "lastAt": 1758292363180,
     "urls": [
       "https://www.weebly.com/",
       "https://www.weebly.com/guides",
@@ -3820,11 +3892,21 @@
       "https://www.weebly.com/features/ecommerce-website",
       "https://www.weebly.com/features/free-domain-hosting",
       "https://www.weebly.com/features/slideshow-maker",
-      "https://www.weebly.com/features/video-hosting"
+      "https://www.weebly.com/features/video-hosting",
+      "https://www.weebly.com/features/start-a-blog",
+      "https://www.weebly.com/features/email-marketing",
+      "https://www.weebly.com/features/mobile-apps",
+      "https://www.weebly.com/features/online-business",
+      "https://www.weebly.com/features/app-center",
+      "https://www.weebly.com/features/website-statistics",
+      "https://www.weebly.com/about",
+      "https://www.weebly.com/app-center",
+      "https://www.weebly.com/pricing",
+      "https://www.weebly.com/themes"
     ]
   },
   "harvard.edu": {
-    "lastAt": 1757940785316,
+    "lastAt": 1758292374941,
     "urls": [
       "https://www.harvard.edu/",
       "https://www.harvard.edu/2024/05/22/conferral-of-degrees/",
@@ -3845,11 +3927,21 @@
       "https://www.harvard.edu/contact-harvard/",
       "https://www.harvard.edu/conflict-response/",
       "https://www.harvard.edu/about/history/shields/",
-      "https://www.harvard.edu/about/history/nobel-laureates/"
+      "https://www.harvard.edu/about/history/nobel-laureates/",
+      "https://www.harvard.edu/campus/athletics/",
+      "https://www.harvard.edu/campus/",
+      "https://www.harvard.edu/academics/",
+      "https://www.harvard.edu/campus/libraries/",
+      "https://www.harvard.edu/about/leadership-and-governance/",
+      "https://www.harvard.edu/about/history/",
+      "https://www.harvard.edu/about/history/honorary-degrees/",
+      "https://www.harvard.edu/campus/work-at-harvard/",
+      "https://www.harvard.edu/about/history/timeline/",
+      "https://www.harvard.edu/privacy-statement/"
     ]
   },
   "www.gov.uk": {
-    "lastAt": 1757940789087,
+    "lastAt": 1758292380678,
     "urls": [
       "https://www.gov.uk/",
       "https://www.gov.uk/world/organisations/british-embassy-podgorica/about/media-enquiries",
@@ -3870,25 +3962,35 @@
       "https://www.gov.uk/world/organisations/british-embassy-riyadh/about/complaints-procedure",
       "https://www.gov.uk/world/st-vincent-and-the-grenadines/news",
       "https://www.gov.uk/world/organisations/british-embassy-kyiv/about/complaints-procedure",
-      "https://www.gov.uk/world/reunion/news"
+      "https://www.gov.uk/world/reunion/news",
+      "https://www.gov.uk/world/organisations/british-high-commission-kingstown/about/recruitment",
+      "https://www.gov.uk/world/monaco/news",
+      "https://www.gov.uk/world/tonga/news",
+      "https://www.gov.uk/world/organisations/british-embassy-seoul/about/complaints-procedure",
+      "https://www.gov.uk/world/guadeloupe/news",
+      "https://www.gov.uk/world/organisations/british-embassy-amman/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/british-embassy-conakry/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/british-embassy-yangon/about/complaints-procedure",
+      "https://www.gov.uk/world/organisations/british-consulate-general-auckland/about/complaints-procedure",
+      "https://www.gov.uk/world/nauru"
     ]
   },
   "alibabadns.com": {
-    "lastAt": 1757940792578,
+    "lastAt": 1758292384585,
     "urls": []
   },
   "mzstatic.com": {
-    "lastAt": 1757940793243,
+    "lastAt": 1758292385053,
     "urls": [
       "https://mzstatic.com/"
     ]
   },
   "heytapdl.com": {
-    "lastAt": 1757940796230,
+    "lastAt": 1758292388488,
     "urls": []
   },
   "tiktokv.us": {
-    "lastAt": 1757940799303,
+    "lastAt": 1758292391432,
     "urls": []
   },
   "tradingview.com": {
