@@ -136624,5 +136624,691 @@
     "title": "Are you not a robot?",
     "description": "",
     "text": ""
+  },
+  {
+    "id": "cced42877e6674303332798eb7b2d52b84d0983e",
+    "url": "https://dnsmadeeasy.com/resources/dns-record-types-cheat-sheet",
+    "title": "DNS Record Types Cheat Sheet",
+    "description": "",
+    "text": "TOOLS\nTip: Always check for typos and mistakes when entering your DNS record information, especially"
+  },
+  {
+    "id": "f456af2a795ebc736f7c699ac727a5236b706c96",
+    "url": "https://dnsmadeeasy.com/resources/what-is-an-aname-record",
+    "title": "What is an ANAME Record?",
+    "description": "Simplify DNS with ANAME records from DNS Made Easy—root-level flexibility, fast resolution, and none",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "add201114d637bdb5d92e7c147114b968b225a25",
+    "url": "https://dnsmadeeasy.com/resources/what-is-ttl",
+    "title": "What is TTL?",
+    "description": "Manage TTL with precision using DNS Made Easy—optimize DNS performance, control caching, and ensure ",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "b282af01f7dd31c56a78a8e0f27f68cbf6f4bb48",
+    "url": "https://dnsmadeeasy.com/resources/cname-records-explained",
+    "title": "CNAME Records Explained",
+    "description": "Easily manage CNAME records with DNS Made Easy—streamline subdomains and bypass root restrictions wi",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "087a372887c89b6e82e6798e48bd2e1d17051579",
+    "url": "https://dnsmadeeasy.com/resources/managed-authoritative-dns-in-2023-unleashing-performance-and-security",
+    "title": "Managed Authoritative DNS in 2023: Unleashing Performance and Security",
+    "description": "",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "e9d481646f47976c894a79960417364f66d9b5e5",
+    "url": "https://dnsmadeeasy.com/resources/cname-flattening-unlocking-the-power-of-aname-records-for-efficient-domain-pointing",
+    "title": "CNAME Flattening: Unlocking the Power of ANAME Records for Efficient Domain Pointing",
+    "description": "Optimize domain pointing with ANAME records—a faster, more flexible alternative to CNAMEs. Improve D",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "19d8591f77be9a343d3ec7a9361053280e695f3d",
+    "url": "https://dnsmadeeasy.com/resources/dns-byte-how-to-fix-dns-probe-finished-no-internet-error",
+    "title": "DNS Byte: How to Fix DNS Probe Finished No Internet Error",
+    "description": "",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "a451f2099efd080a341e0b2d6e2c808b578533cc",
+    "url": "https://dnsmadeeasy.com/resources/distinction-domain-registrar-vs-dns-hosting",
+    "title": "Distinction: Domain Registrar vs. DNS Hosting",
+    "description": "DNS Made Easy is a dedicated DNS hosting provider—get reliable, fast DNS performance and ensure your",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "48f6fd65cf83127bd36eb66df3a58298e0b6ecfd",
+    "url": "https://dnsmadeeasy.com/resources/dns-failover",
+    "title": "DNS Failover",
+    "description": "",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "6376a130e24cd4691c2af9bdd05b8b8c7221e7ff",
+    "url": "https://dnsmadeeasy.com/resources/what-is-an-mx-rec",
+    "title": "What is an MX Record",
+    "description": "Configure MX records easily with DNS Made Easy—ensure fast, reliable email delivery and avoid disrup",
+    "text": "BLOG\nOpen a new account at no obligation and receive a month of free managed services. Enjoy your un"
+  },
+  {
+    "id": "abf270b9d392b05cad0fc909414866bd73de1955",
+    "url": "https://ngenix.net/user-agreement/",
+    "title": "Пользовательское соглашение – NGENIX",
+    "description": "Актуальное пользовательское соглашение веб-сайта ngenix.net – термины и определения, предмет соглаше",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nВерс"
+  },
+  {
+    "id": "74475780188a65a6b9097e87cdece88ee24f8a46",
+    "url": "https://ngenix.net/learning-center/",
+    "title": "Учебный центр (записи) – NGENIX",
+    "description": "Учебный центр (записи) Archive – NGENIX",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nВаш "
+  },
+  {
+    "id": "6acdeb13f604853dc0e4ff6b750d4d49eefb3e70",
+    "url": "https://ngenix.net/icebreaker2024/",
+    "title": "NGENIX ICEBREAKER 2024",
+    "description": "IV ежегодная конференция NGENIX о веб-безопасности – ICEBREAKER 2024. Рассказываем, куда движется ро",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nIceb"
+  },
+  {
+    "id": "6030dc448b09dd819601d6999d756b1d9503346b",
+    "url": "https://ngenix.net/underattack/",
+    "title": "Помощь под атакой! – NGENIX",
+    "description": "Срочная помощь в защите сайта при хакерской или DDoS-атаке, отреагируем на обращение в течении 30 ми",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nОтре"
+  },
+  {
+    "id": "9c48feeb811f6e5b55e609cbc3b55d0ede29fe24",
+    "url": "https://ngenix.net/webinars/",
+    "title": "Вебинары NGENIX",
+    "description": "Записи прошедших воркшопов и онлайн-дискуссий NGENIX на актуальные темы в удобном для вас формате.",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\n19.0"
+  },
+  {
+    "id": "ebadd2216122c45526a45d3746da46f06fad92bc",
+    "url": "https://ngenix.net/partnership/",
+    "title": "Предложить партнерство – NGENIX",
+    "description": "Сотрудничество и деловое партнерство с компанией NGENIX – оставьте заявку на пиринг или другую форму",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nВы х"
+  },
+  {
+    "id": "d473704bd1e6247ce13656b21aded9f6421208aa",
+    "url": "https://ngenix.net/contacts/",
+    "title": "Контакты – NGENIX",
+    "description": "Контактная информация компании NGENIX – реквизиты организации, адрес офиса, номера телефонов.",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nООО "
+  },
+  {
+    "id": "416010a329527c4d000827f1bd142c9ba9927114",
+    "url": "https://ngenix.net/anticorruption/",
+    "title": "Противодействие коррупции – NGENIX",
+    "description": "Информация о противодействии коррупции: этический кодекс, антикоррупционная политика, кодекс деловой",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nЭтич"
+  },
+  {
+    "id": "e23a074877f854c76774a77d41a3e8821b729f17",
+    "url": "https://ngenix.net/ecp/",
+    "title": "Защита от DDoS-атак | NGENIX",
+    "description": "Доступность сайта во время DDoS-атак. Эшелонированная защита от DDoS на L3, L4 и L7. Митигация мощны",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nОбес"
+  },
+  {
+    "id": "5d121d050b0ead2339dbde660a87872ecaa4b634",
+    "url": "https://ngenix.net/clients/",
+    "title": "Клиенты и партнеры – NGENIX",
+    "description": "Информация о клиентах и партнерах компании NGENIX. Отзывы и кейсы организаций, которые создают самые",
+    "text": "Защита, ускорение и повышение доступности веб-ресурса на базе публичного распределенного облака\nНаши"
+  },
+  {
+    "id": "ab8b3403ea8f297a54d609c5c72636c906409b05",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-integrates-with-zendesk-chat/",
+    "title": "TeamViewer integrates with Zendesk Chat",
+    "description": "",
+    "text": "2018年7月4日\nTampa, FL, July 4, 2018– TeamViewer®, a leading global software provider for IoT, connecti"
+  },
+  {
+    "id": "3f9a93731b34c0ef1c1c2f45664a8d862fdcc612",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-expands-microsoft-intune-integration-with-ios-screen-sharing/",
+    "title": "TeamViewer expands Microsoft Intune integration with iOS screen sharing",
+    "description": "",
+    "text": "2018年7月17日\nTampa, FL, July 17, 2018 – TeamViewer®, a leading global software provider for IoT, conne"
+  },
+  {
+    "id": "f6a89d2416865c22a0d10adc39e8eb18862ec60c",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-releases-latest-iot-offering-with-advanced-feature-set/",
+    "title": "TeamViewer releases latest IoT offering with advanced feature set",
+    "description": "",
+    "text": "2018年6月28日\nLondon, UK, June 28th, 2018 – TeamViewer®, a leading global software provider for IoT, co"
+  },
+  {
+    "id": "d9798dd060d135c31de57b228a69c9e1d66f9349",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-adds-unattended-android-access-ibm-maas360-watson-integration/",
+    "title": "TeamViewer Adds Unattended Android Access to IBM MaaS360 with Watson Integration",
+    "description": "",
+    "text": "2018年8月17日\nTampa, FL, August 14, 2018 – TeamViewer®, a leading global software provider for IoT, con"
+  },
+  {
+    "id": "8a5d622c55b958ab3042e2b50c33c79893d0cd37",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-tensor-scalable-secure-enterprise-remote-connectivity-platform-now-available/",
+    "title": "TeamViewer Tensor - Scalable, Secure Enterprise Remote Connectivity Platform - Now Available",
+    "description": "",
+    "text": "2018年9月7日\nSan Francisco, From TechCrunch Disrupt – September 7, 2018 – TeamViewer®, the global conne"
+  },
+  {
+    "id": "1ea744d6996ec2af44b69962b28ed2c92039f927",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/device-authority-and-teamviewer-partner-to-improve-connectivity-and-security-in-iot/",
+    "title": "Device Authority and TeamViewer Partner to Improve Connectivity and Security in IoT",
+    "description": "",
+    "text": "2018年9月19日\nLondon, September 19, 2018– TeamViewer®, the global connectivity powerhouse and Device Au"
+  },
+  {
+    "id": "035f2f547f77d97d48c898a190f7f30bb73c327a",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-remote-connectivity-integrates-with-boss-solutions/",
+    "title": "TeamViewer Remote Connectivity Integrates with BOSS Solutions",
+    "description": "",
+    "text": "2018年10月11日\nTampa, FL., October 11, 2018– TeamViewer®, the global connectivity powerhouse, announced"
+  },
+  {
+    "id": "8c553a9d1906d584a434115d2b1dd1b8f5040c85",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-steps-up-indian-operations-and-appoints-local-head-of-sales/",
+    "title": "TeamViewer steps up Indian operations and Appoints Local Head of Sales",
+    "description": "",
+    "text": "2018年10月12日\nNew Delhi, October 11, 2018– TeamViewer®, a global leader in secure remote connectivity "
+  },
+  {
+    "id": "36c8e126f45d4917aaabbd3a533773b417b8510d",
+    "url": "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-releases-teamviewer-14-preview-accelerated-performance-and-pioneering-augmented-reality/",
+    "title": "TeamViewer Releases TeamViewer 14 Preview: Accelerated Performance and Pioneering Augmented Reality",
+    "description": "",
+    "text": "2018年10月23日\nTampa Bay, October 23, 2018– TeamViewer®, a global leader in secure remote connectivity "
+  },
+  {
+    "id": "f6334f4c08d29ca81627be5e95d95ae6c7e84afd",
+    "url": "https://www.duolingo.com/course/hv/en/Learn-High-Valyrian",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn High Valyrian with bite-size lessons ",
+    "text": ""
+  },
+  {
+    "id": "8dad1e3cbaf14d683e82af7e5a80c0ddde24c761",
+    "url": "https://www.duolingo.com/course/hw/en/Learn-Hawaiian",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Hawaiian with bite-size lessons based",
+    "text": ""
+  },
+  {
+    "id": "4967ae1fe4666e632ec470ce9893ea54546e45fc",
+    "url": "https://www.duolingo.com/course/it/en/Learn-Italian",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Italian with bite-size lessons based ",
+    "text": ""
+  },
+  {
+    "id": "25e8c83a64d76c8091757a0feb71cf280a1f57c3",
+    "url": "https://www.duolingo.com/course/id/en/Learn-Indonesian",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Indonesian with bite-size lessons bas",
+    "text": ""
+  },
+  {
+    "id": "e6c1bed4dbc40d1c8a914ee51da72fe2db45dbea",
+    "url": "https://www.duolingo.com/course/ja/en/Learn-Japanese",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Japanese with bite-size lessons based",
+    "text": ""
+  },
+  {
+    "id": "4cd57a55f10bb88e43232d39d0eea6da89c8bccb",
+    "url": "https://www.duolingo.com/course/la/en/Learn-Latin",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Latin with bite-size lessons based on",
+    "text": ""
+  },
+  {
+    "id": "b21707e13eb5ddf1036f83fa08e8db674617511e",
+    "url": "https://www.duolingo.com/course/ko/en/Learn-Korean",
+    "title": "Duolingo",
+    "description": "With our free mobile app and web, everyone can Duolingo. Learn Korean with bite-size lessons based o",
+    "text": ""
+  },
+  {
+    "id": "a41ec0be87613e6670d4c79e4afd6349a97af015",
+    "url": "https://www.duolingo.com/course/nl-NL/en/Learn-Dutch",
+    "title": "Duolingo",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "515bf39e25b22b6d522cf72fa54f9a6d910d3859",
+    "url": "https://www.duolingo.com/course/no-BO/en/Learn-Norwegian-Bokm%C3%A5l",
+    "title": "Duolingo",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "7f7e000139bd69c8602401bee6e13c4425013536",
+    "url": "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-october/",
+    "title": "Web Hosting News of the month: October | Latest Plesk News",
+    "description": "We’re looking at the most important updates and developments in the hosting industry for October 201",
+    "text": "See all Extensions\nIn this month’s web hosting industry news, we find out why serverless environment"
+  },
+  {
+    "id": "eade02fb6c9894779bf79d85c2c8031ccad88300",
+    "url": "https://www.plesk.com/blog/partners/partner-stories-znetlive-racknap/",
+    "title": "Partner Stories: How Plesk helped ZNetLive and RackNap - Plesk",
+    "description": "We talk to Sabarinathan Sampath, SVP of our partner ZNetLive, and its sister company Racknap, on usi",
+    "text": "See all Extensions\nWe recently spoke with Sabarinathan Sampath, SVP of Plesk partner ZNetLive and it"
+  },
+  {
+    "id": "644afbe40ade97ba3f0b17bdd353aca9652e903c",
+    "url": "https://www.plesk.com/blog/various/explaining-cloud-web-hosting/",
+    "title": "What you need to know about cloud web hosting",
+    "description": "Read this article to find out more about how cloud web hosting works, and the benefits of hosting a ",
+    "text": "See all Extensions\nCloud web hosting is an easy way for companies to make use of extensive computing"
+  },
+  {
+    "id": "246b65faa1a3e8b325c502bae9e4676d9c817260",
+    "url": "https://www.plesk.com/blog/various/how-to-set-up-a-nameserver/",
+    "title": "How to Set up a Nameserver - Plesk Tips",
+    "description": "Find out what a DNS server or Nameserver is, why it's important and how you can set it up, thanks to",
+    "text": "See all Extensions\nA DNS or Domain Name System is a convention that defines how computers swap data "
+  },
+  {
+    "id": "e057cc8e9b40a192941b7e5fe2cb287c429d6c38",
+    "url": "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-september/",
+    "title": "Web Hosting News of the month: September | Latest Plesk News",
+    "description": "We’re looking at the most important updates and developments in the hosting industry for September 2",
+    "text": "See all Extensions\nThis month’s web hosting news includes a possible cyberthreat in the form of aban"
+  },
+  {
+    "id": "1b2b564757047e6553752610784933d14fb73ee9",
+    "url": "https://www.plesk.com/blog/product-technology/new-remote-rest-api/",
+    "title": "New Remote Plesk REST API for Automation - The Complete Plesk Guide",
+    "description": "Check out our latest remote Plesk REST API feature on Plesk Onyx and the complete guide to install i",
+    "text": "See all Extensions\nPlesk Onyx 17.8 introduced a new remote REST API. Yes, XML-RPC API is still avail"
+  },
+  {
+    "id": "857755baa8375ba8a58b2c9fdf85d92a1cfb77f9",
+    "url": "https://www.plesk.com/blog/tips-easy-reading/ted-talks-technology/",
+    "title": "Three TED talks on Technology that will blow your mind - Plesk",
+    "description": "Our top three TED talks on technology come from influential speakers whose ideas spark our imaginati",
+    "text": "See all Extensions\nWe’re living in an era that reveals new innovations on the daily. From automation"
+  },
+  {
+    "id": "5a324d4e67e1f68ff134d5f731f7ad6422d97dd2",
+    "url": "https://www.plesk.com/blog/product-technology/install-plesk-google-cloud/",
+    "title": "How to install Plesk on Google Cloud - Complete Guide - Plesk",
+    "description": "See how to install Plesk on Google Cloud, how to locate and name your virtual machine instance, and ",
+    "text": "See all Extensions\nWhy use Plesk on Google Cloud? As an industry giant, Google has a reliable global"
+  },
+  {
+    "id": "732488201826e950f29eee3cfc9febe258ca4d2f",
+    "url": "https://www.plesk.com/blog/product-technology/scale-up-your-server-serve-more-traffic/",
+    "title": "How to scale up your server to serve more traffic - Plesk",
+    "description": "Preparing for a high traffic event? Discover how you can scale up your server to serve more traffic ",
+    "text": "See all Extensions\nProduct launch coming up? Huge ad campaign? Then you’re expecting an increase in "
+  },
+  {
+    "id": "2063c8198a6617eebf4a27e1547bd96a2ee28dfb",
+    "url": "https://www.plesk.com/blog/product-technology/mysql-remote-access-under-plesk/",
+    "title": "All about MySQL Remote Access Under Plesk - Full Guide",
+    "description": "Read this guide to understand more about MySQL and what you need to do to enable Plesk remote MySQL ",
+    "text": "See all Extensions\nMySQL is in the view of many people one of the most common database management sy"
+  },
+  {
+    "id": "dc467a99100637fd311833105559f89de95348bf",
+    "url": "https://www.cnbc.com/technology/",
+    "title": "Technology News",
+    "description": "Business news related to the technology industry, including Apple, Amazon, Microsoft, Google, and Fa",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "01e5ac445c2fbd1fd43f1682daf420e0d9d77e5f",
+    "url": "https://www.cnbc.com/asia-economy/",
+    "title": "Asia Economy",
+    "description": "Description: The latest Asian economic news, analysis and video from CNBC.com.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "260fc510536b23bc982f097c4b52999b9529ad0b",
+    "url": "https://www.cnbc.com/china-economy/",
+    "title": "China Economy",
+    "description": "The latest China economic news, analysis and video from CNBC.com.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "7047fa456158f552cec6c71fc29d4f7920e72528",
+    "url": "https://www.cnbc.com/world-economy/",
+    "title": "Global Economy",
+    "description": "Latest news and headlines around the world related to the state of the global economy.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "97cf73dc35020a5bf83d3e202820b31cf3746503",
+    "url": "https://www.cnbc.com/stock-picks/",
+    "title": "Stock Picks from Investment Pros",
+    "description": "Here are stocks discussed by investment pros to ride changing investment trends.",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "299990e793f43b3badc81051b8e20da960e3eba6",
+    "url": "https://www.cnbc.com/real-estate/",
+    "title": "Real Estate News",
+    "description": "Find the latest news, headlines, blogs and watch video about real estate, housing, mortgages, refina",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "619209a9537c72af1e1c3f3601b19b58939745ff",
+    "url": "https://www.cnbc.com/banks/",
+    "title": "Banking News",
+    "description": "Banking news, banks, online banking services, electronic banking, loans, and overall banking industr",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "0d7eb846d925c7c7b2064622c04f0f8287308e54",
+    "url": "https://www.cnbc.com/medicaid/",
+    "title": "Medicaid",
+    "description": "Medicaid",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "8d39f16d7dc7dd025fd47e1ef5f8ffb757d55fe9",
+    "url": "https://www.cnbc.com/small-business-financing/",
+    "title": "Small Business: Financing",
+    "description": "Small Business - Financing",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "79198451f8c78230c1b32aa24694984b80543e81",
+    "url": "https://www.cnbc.com/us-dollar/",
+    "title": "U.S. Dollar",
+    "description": "U.S. Dollar Currencies, Currency Markets, News and Rates on U.S. Dollar Currency",
+    "text": "Got a confidential news tip? We want to hear from you.\nSign up for free newsletters and get more CNB"
+  },
+  {
+    "id": "9cc04bb717b63e3f9f4a76fabd21ec696cd130e9",
+    "url": "https://www.zendesk.com/marketplace/apps/support/102630/maestro-qa-quality-assurance-for-support/",
+    "title": "Maestro QA Quality Assurance for Support App Integration with Zendesk Support",
+    "description": "Integrate the Maestro QA Quality Assurance for Support app into Zendesk Support. Quality Assurance (",
+    "text": "Quality Assurance (QA), Quality Management (QM),  agent coaching and KPI reports\nFind out what it ta"
+  },
+  {
+    "id": "aa4deafcdf5d9956b8b80ea42609e116b99cb445",
+    "url": "https://www.zendesk.com/marketplace/apps/support/188538/proactive-campaigns/",
+    "title": "Proactive Campaigns App Integration with Zendesk Support",
+    "description": "Integrate the Proactive Campaigns app into Zendesk Support. Email campaigns to reach your customer l",
+    "text": "Email campaigns to reach your customer list and follow up on mail performance.\nApps install directly"
+  },
+  {
+    "id": "350758945b24fef0f7614e0ce2c76890d614007b",
+    "url": "https://www.zendesk.com/marketplace/apps/support/202996/kaizo/",
+    "title": "Kaizo App Integration with Zendesk Support",
+    "description": "Integrate the Kaizo app into Zendesk Support. AI powerhouse for Quality Assurance (QA), performance ",
+    "text": "AI powerhouse for Quality Assurance (QA), performance insights and management\nApps install directly "
+  },
+  {
+    "id": "e0dade5432bd6e728a37d8ecb8b105675f5e0520",
+    "url": "https://www.zendesk.com/marketplace/apps/support/148173/nicereply/",
+    "title": "Nicereply App Integration with Zendesk Support",
+    "description": "Integrate the Nicereply app into Zendesk Support. CSAT, NPS and Customer Effort Score surveys for Ze",
+    "text": "CSAT, NPS and Customer Effort Score surveys for Zendesk\nApps install directly into your account\nFind"
+  },
+  {
+    "id": "d49c1cf4e49028f39f90236a1bf0900f6fcb7e5b",
+    "url": "https://www.zendesk.com/marketplace/apps/support/93858/55pbx-softphone-pabx-virtual/",
+    "title": "55PBX Softphone PABX Virtual App Integration with Zendesk Support",
+    "description": "Integrate the 55PBX Softphone PABX Virtual app into Zendesk Support. Softphone do PABX Virtual na Ze",
+    "text": "Softphone do PABX Virtual na Zendesk. API, CTI, 0800, 4004, Gravação e Report.\nApps install directly"
+  },
+  {
+    "id": "229d9975cb2a072b4950247487b473b2702253a5",
+    "url": "https://www.zendesk.com/marketplace/apps/chat/102630/maestro-qa-quality-assurance-for-chat/",
+    "title": "Maestro QA Quality Assurance for Chat App Integration with Zendesk Chat",
+    "description": "Integrate the Maestro QA Quality Assurance for Chat app into Zendesk Chat. Quality Assurance (QA), Q",
+    "text": "Quality Assurance (QA), Quality Management (QM),  agent coaching and KPI reports\nFind out what it ta"
+  },
+  {
+    "id": "05e459798c727c58d73804024562e3aff5b2081e",
+    "url": "https://www.zendesk.com/marketplace/apps/support/198505/email-tracking/",
+    "title": "Email Tracking App Integration with Zendesk Support",
+    "description": "Integrate the Email Tracking app into Zendesk Support. Notice if and when customers open your emails",
+    "text": "Notice if and when customers open your emails.\nApps install directly into your account\nFind out what"
+  },
+  {
+    "id": "dfb51bfd78d3549553db8f2242b813a86ff79143",
+    "url": "https://www.zendesk.com/marketplace/apps/support/853426/azure-devops-by-integratecloud-free/",
+    "title": "Azure DevOps by IntegrateCloud Free App Integration with Zendesk Support",
+    "description": "Integrate the Azure DevOps by IntegrateCloud Free app into Zendesk Support. Seamless Azure DevOps in",
+    "text": "Seamless Azure DevOps integration between Zendesk - Azure DevOps. Create, Notify\nApps install direct"
+  },
+  {
+    "id": "bb84d6c0ea922123f709b22aa65059c84de8916e",
+    "url": "https://www.zendesk.com/marketplace/apps/support/145515/dialpad/",
+    "title": "Dialpad App Integration with Zendesk Support",
+    "description": "Integrate the Dialpad app into Zendesk Support. Make phone calls in Zendesk with Dialpad.",
+    "text": "Make phone calls in Zendesk with Dialpad.\nApps install directly into your account\nFind out what it t"
+  },
+  {
+    "id": "4df7c3360f36f0bead9240d1f151fe64b193a366",
+    "url": "https://www.zendesk.com/marketplace/apps/support/1019076/ai-chatgpt-agents-by-eesel/",
+    "title": "AI ChatGPT Agents by eesel App Integration with Zendesk Support",
+    "description": "Integrate the AI ChatGPT Agents by eesel app into Zendesk Support. The ultimate AI agent and copilot",
+    "text": "The ultimate AI agent and copilot to automate your Zendesk support\nFind out what it takes to get you"
+  },
+  {
+    "id": "4444c7639ee87728ceb9ad21ce4b423df4028c01",
+    "url": "https://www.goodreads.com/author/show/36.Satyajit_Das",
+    "title": "Satyajit Das (Author of Traders, Guns & Money)",
+    "description": "Satyajit Das is an international specialist in the area of financial derivatives, risk management, a",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "bae78bce8cc17613b04c4078f38921145836b6c0",
+    "url": "https://www.goodreads.com/author/show/32.Philippa_Carr",
+    "title": "Philippa Carr (Author of The Miracle at St. Bruno's)",
+    "description": "About Philippa Carr: Eleanor Alice Burford, Mrs. George Percival Hibbert was a British author of abo",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "684cc2e456c248fc2c7270122e66cde41aa0704b",
+    "url": "https://www.goodreads.com/author/show/33.Edward_P_Jones",
+    "title": "Edward P. Jones (Author of The Known World)",
+    "description": "About Edward P. Jones: Edward Paul Jones is an American novelist and short story writer. He received",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "cfa97bce2786272ab8a09b8ab0aef35e0f49c94e",
+    "url": "https://www.goodreads.com/author/show/31.Elaine_Cunningham",
+    "title": "Elaine Cunningham (Author of Dark Journey)",
+    "description": "About Elaine Cunningham: Librarian Note: There is more than one author in the GoodReads database wit",
+    "text": "Elaine hasn't connected with her friends on Goodreads, yet.\nWelcome back. Just a moment while we sig"
+  },
+  {
+    "id": "53665002e0ff4d7eb44fa174d465026eff81b8cb",
+    "url": "https://www.goodreads.com/author/show/38.Mark_Smylie",
+    "title": "Mark Smylie (Author of The Barrow)",
+    "description": "While The Barrow marks his first published prose novel, Mark Smylie has worked as a writer, illustra",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "3d5b2e537caa9f7f818b07ab4ba756affbfe24bf",
+    "url": "https://www.goodreads.com/author/show/40.John_McPhee",
+    "title": "John McPhee (Author of Coming Into the Country)",
+    "description": "About John McPhee: John Angus McPhee is an American writer. He is considered one of the pioneers of ",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "d55ebebb48de7b08d8a8faf47525161dfd9899b4",
+    "url": "https://www.goodreads.com/author/show/41.Loretta_Krupinski",
+    "title": "Loretta Krupinski (Author of The Snow Dog's Journey)",
+    "description": "Loretta Krupinski (1940) is the author/illustrator of many cherished books for children and adults. ",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "4d70f85c42fc47a00ffb9bae729d5cb1bd0650f2",
+    "url": "https://www.goodreads.com/author/show/42.Wendy_Wasserstein",
+    "title": "Wendy Wasserstein (Author of The Heidi Chronicles)",
+    "description": "Wendy Wasserstein was an award-winning American playwright and an Andrew Dickson White Professor-at-",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "26766b21971eb3ad216be375f4431cd282703f72",
+    "url": "https://www.goodreads.com/author/show/44.Heidi_Fleiss",
+    "title": "Heidi Fleiss (Author of Pandering)",
+    "description": "About Heidi Fleiss: Heidi Lynne Fleiss is an American former madam. She ran an upscale prostitution ",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "b30f25ec3ad2d43b6c610a2e88129f4d19ce59a6",
+    "url": "https://www.goodreads.com/author/show/43.Heidi_Klum",
+    "title": "Heidi Klum (Introduction of Project Runway)",
+    "description": "Heidi Klum is a German-American model, television host, producer, and businesswoman. She appeared on",
+    "text": "Welcome back. Just a moment while we sign you in to your Goodreads account."
+  },
+  {
+    "id": "5ad6c349446f05b009cf555c666dadb96347b7f1",
+    "url": "https://cookiedatabase.org/service/age-gator/",
+    "title": "Age Gator - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Age Gator and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "42891c3f4075d55baf11e02388f20848f87b6756",
+    "url": "https://cookiedatabase.org/service/affiliate_wp/",
+    "title": "Affiliate WP - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Affiliate WP and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "d55a62e4e389f22234e4342ca5dee95c2697c0ee",
+    "url": "https://cookiedatabase.org/service/aelia/",
+    "title": "Aelia - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Aelia and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "ee723a9b8332a9460a31fae29dcdbb07b1a7dfa4",
+    "url": "https://cookiedatabase.org/service/affiliate-for-woocommerce/",
+    "title": "Affiliate for WooCommerce - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Affiliate for WooCommerce and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "517c13b85a29891ac4260820d490ececf87a9d5d",
+    "url": "https://cookiedatabase.org/service/agile-crm/",
+    "title": "Agile CRM - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Agile CRM and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "d464881cd2621543f3f78aa873f48d5c9c981d6e",
+    "url": "https://cookiedatabase.org/service/alexa-analytics/",
+    "title": "Alexa Analytics - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Alexa Analytics and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "10fe80981de3a49fcd641ee1408a4123e709d2a0",
+    "url": "https://cookiedatabase.org/service/akamai/",
+    "title": "Akamai - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Akamai and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "b911a4b47a90f482add2af7f8b43442d427ed12f",
+    "url": "https://cookiedatabase.org/service/all-in-one-wp-migration/",
+    "title": "All in One WP Migration - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about All in One WP Migration and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "c24c6f540a8a322059815e0c4443f6b3a60c03c9",
+    "url": "https://cookiedatabase.org/service/algolia/",
+    "title": "Algolia - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about Algolia and its approach to Privacy, Cookies and Data Processing.",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "5a09148b2e8350d5af85b9150c5f0451cfcee1a2",
+    "url": "https://cookiedatabase.org/service/all-in-one-wp-security-firewall/",
+    "title": "All In One WP Security & Firewall - About Data, Privacy & Cookies - Cookiedatabase.org",
+    "description": "Lean more about All In One WP Security & Firewall and its approach to Privacy, Cookies and Data Proc",
+    "text": "SHARE DATA PASSPORT ON SOCIAL MEDIA\nDoes This Vendor Collect or Receive Your Personal or Sensitive D"
+  },
+  {
+    "id": "d4eacc12af1620da426557cba5a3066bdd4851ae",
+    "url": "https://calendly.com/solutions/marketing",
+    "title": "Scheduling software for Marketing Demand Gen | Calendly",
+    "description": "Increase meetings without any additional effort.",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "d621bd24992ba784900112d2c69e9c22c95a00c0",
+    "url": "https://calendly.com/careers",
+    "title": "Let's make meetings better together | Calendly",
+    "description": "Be a part of Calendly's mission to improve the quality of every relationship building interaction! I",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "2843bb209b6392bdf86e01ef46f3ce7fdafd16ad",
+    "url": "https://calendly.com/solutions/customer-success",
+    "title": "Customer Success Scheduling Software | Calendly",
+    "description": "Calendly makes it easy to meet with clients at key checkpoints, so you can guide them toward long-te",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "d5c3082b6f3783d99f4d3590f6157c0df520aef2",
+    "url": "https://calendly.com/scheduling/appointments",
+    "title": "Automated appointment scheduling software | Calendly",
+    "description": "Simplify appointment scheduling with Calendly's appointment scheduler. Make booking easy, automate r",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "fa3d1732cf8b883b4e7b63f26aa58e0a747f23a2",
+    "url": "https://calendly.com/scheduling/meetings",
+    "title": "Online Meeting Scheduling Tool | Calendly",
+    "description": "Simplify scheduling, save time, and work more productively with Calendly’s meeting scheduling softwa",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "0b278004820e48b5fa3d7c5c35bbb400b83704b9",
+    "url": "https://calendly.com/solutions/technology",
+    "title": "Technology | Calendly",
+    "description": "Create new revenue opps, win more deals, grow ARR faster, and reach team milestones with scheduling ",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "2eebb6a4ca18f39685db27e74c4eb1a9758dd8f2",
+    "url": "https://calendly.com/scheduling/event-types",
+    "title": "Customizable Meeting & Event Templates | Calendly",
+    "description": "Learn how Calendly's Event Types can help you save time when scheduling with reusable templates for ",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "650d5f63c18f52ec2f9be1126fc73da150db027b",
+    "url": "https://calendly.com/solutions/professional-services",
+    "title": "Professional Services  | Calendly",
+    "description": "Move client work forward, streamline communication with clients, and make it easy for your teams to ",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "ea3b6ce999b1e46fd59bc3777b686a97311803f0",
+    "url": "https://calendly.com/solutions/recruiting",
+    "title": "Recruiting Scheduling Software | Calendly",
+    "description": "Calendly delivers an outstanding recruiting experience for both candidates and interviewers. Candida",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "859295c11a37381e3b0be178a051f7406f9a3519",
+    "url": "https://calendly.com/scheduling/availability",
+    "title": "Availability | Calendly",
+    "description": "Accelerate scheduling with Calendly’s availability preferences, keeping you booked as much – or as l",
+    "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
   }
 ]
