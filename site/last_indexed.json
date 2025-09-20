@@ -13677,15 +13677,15 @@
     "urls": []
   },
   "ttlivecdn.com": {
-    "lastAt": 1758029522865,
+    "lastAt": 1758381588265,
     "urls": []
   },
   "docomo.ne.jp": {
-    "lastAt": 1758029527302,
+    "lastAt": 1758381593130,
     "urls": []
   },
   "frontiersin.org": {
-    "lastAt": 1758029540802,
+    "lastAt": 1758381604506,
     "urls": [
       "https://frontiersin.org/",
       "https://www.frontiersin.org/research-topics/74106/the-fmr1-premutation-expanding-the-clinical-and-molecular-spectrum/impact",
@@ -13706,17 +13706,27 @@
       "https://www.frontiersin.org/research-topics/74138/chemical-diversity-in-crops-ecological-functions-environmental-adaptation-agricultural-impact-and-benefits-for-food-and-health/authors",
       "https://www.frontiersin.org/research-topics/74184/the-regulatory-mechanism-of-protein-synthesis-transport-and-accumulation-in-rice-grains",
       "https://www.frontiersin.org/research-topics/74184/the-regulatory-mechanism-of-protein-synthesis-transport-and-accumulation-in-rice-grains/articles",
-      "https://www.frontiersin.org/research-topics/74138/chemical-diversity-in-crops-ecological-functions-environmental-adaptation-agricultural-impact-and-benefits-for-food-and-health/articles"
+      "https://www.frontiersin.org/research-topics/74138/chemical-diversity-in-crops-ecological-functions-environmental-adaptation-agricultural-impact-and-benefits-for-food-and-health/articles",
+      "https://www.frontiersin.org/research-topics/73841/advancing-ai-transparency-and-reliability-in-radiation-oncology/articles",
+      "https://www.frontiersin.org/research-topics/73841/advancing-ai-transparency-and-reliability-in-radiation-oncology",
+      "https://www.frontiersin.org/research-topics/73841/advancing-ai-transparency-and-reliability-in-radiation-oncology/authors",
+      "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all",
+      "https://www.frontiersin.org/research-topics/73841/advancing-ai-transparency-and-reliability-in-radiation-oncology/impact",
+      "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all/articles",
+      "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all/impact",
+      "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all/authors",
+      "https://www.frontiersin.org/research-topics/74048/bridging-scales-in-mechanobiology-origins-functions-and-emerging-paradigms",
+      "https://www.frontiersin.org/research-topics/74048/bridging-scales-in-mechanobiology-origins-functions-and-emerging-paradigms/articles"
     ]
   },
   "cbc.ca": {
-    "lastAt": 1758029542007,
+    "lastAt": 1758381606257,
     "urls": [
       "https://cbc.ca/"
     ]
   },
   "tinkoff.ru": {
-    "lastAt": 1758029550046,
+    "lastAt": 1758381612720,
     "urls": [
       "https://www.tbank.ru/bank/help/apps/eng/",
       "https://www.tbank.ru/bank/help/apps/uz/",
@@ -13735,19 +13745,28 @@
       "https://www.tbank.ru/bank/help/debit-cards/s7/onboarding/",
       "https://www.tbank.ru/bank/help/debit-cards/drive/onboarding/",
       "https://www.tbank.ru/bank/help/debit-cards/lukoil/onboarding/",
-      "https://www.tbank.ru/bank/help/deposits/family-account/onboarding/"
+      "https://www.tbank.ru/bank/help/deposits/family-account/onboarding/",
+      "https://www.tbank.ru/bank/help/sticker-onboarding/",
+      "https://www.tbank.ru/invest/help/replacement-bonds/",
+      "https://www.tbank.ru/invest/help/spac-closure/",
+      "https://www.tbank.ru/bank/help/agreement/",
+      "https://www.tbank.ru/bank/help/gosuslugi/",
+      "https://www.tbank.ru/business/help/loan-documents/",
+      "https://www.tbank.ru/bank/help/protect-money/",
+      "https://www.tbank.ru/bank/help/loans/carloan-customer/photo-instruction/",
+      "https://www.tbank.ru/business/help/app/"
     ]
   },
   "transsion-os.com": {
-    "lastAt": 1758029553455,
+    "lastAt": 1758381616457,
     "urls": []
   },
   "konami.net": {
-    "lastAt": 1758029556903,
+    "lastAt": 1758381619718,
     "urls": []
   },
   "note.com": {
-    "lastAt": 1758029563567,
+    "lastAt": 1758381627530,
     "urls": [
       "https://note.com/recommend",
       "https://note.com/",
@@ -13764,11 +13783,19 @@
       "https://note.com/tiktok",
       "https://note.com/pugdami",
       "https://note.com/takeshobo",
-      "https://note.com/interlinknote299"
+      "https://note.com/interlinknote299",
+      "https://note.com/tv_bros",
+      "https://note.com/tamochaos",
+      "https://note.com/yukiao",
+      "https://note.com/info",
+      "https://note.com/sugarcorp",
+      "https://note.com/notemag",
+      "https://note.com/uuum_official",
+      "https://note.com/zochang"
     ]
   },
   "rapid7.com": {
-    "lastAt": 1758029570864,
+    "lastAt": 1758381630537,
     "urls": [
       "https://www.rapid7.com/about/leadership/",
       "https://rapid7.com/",
@@ -13789,31 +13816,41 @@
       "https://docs.rapid7.com/surface-command/surface-command-pre-deployment-handbook/",
       "https://docs.rapid7.com/surface-command/security-program/",
       "https://docs.rapid7.com/surface-command/explore-attack-surface/",
-      "https://docs.rapid7.com/surface-command/assets/"
+      "https://docs.rapid7.com/surface-command/assets/",
+      "https://www.rapid7.com/about/events-webcasts/brighttalk/",
+      "https://www.rapid7.com/about/",
+      "https://www.rapid7.com/about/environmental-sustainability-policy/",
+      "https://www.rapid7.com/about/events-webcasts/",
+      "https://www.rapid7.com/",
+      "https://www.rapid7.com/about/news/",
+      "https://www.rapid7.com/about/news/awards/",
+      "https://www.rapid7.com/about/press-releases/",
+      "https://www.rapid7.com/about/news/in-the-news/",
+      "https://www.rapid7.com/about/public-policy/"
     ]
   },
   "gamepass.com": {
-    "lastAt": 1758029575016,
+    "lastAt": 1758381634596,
     "urls": []
   },
   "redfin.com": {
-    "lastAt": 1758029585682,
+    "lastAt": 1758381654960,
     "urls": [
       "https://redfin.com/"
     ]
   },
   "interia.pl": {
-    "lastAt": 1758029589017,
+    "lastAt": 1758381657498,
     "urls": [
       "https://interia.pl/"
     ]
   },
   "kunlungr.com": {
-    "lastAt": 1758029647829,
+    "lastAt": 1758381716309,
     "urls": []
   },
   "nic.do": {
-    "lastAt": 1758029657871,
+    "lastAt": 1758381726185,
     "urls": [
       "https://www.nic.do/2016/11/necesitas-renovar-tu-dominio-paga-en-linea-con-tarjeta-de-credito/",
       "https://www.nic.do/2017/02/que-es-lo-nuevo-de-nic-do/",
@@ -13834,15 +13871,25 @@
       "https://www.nic.do/2018/02/dia-internacional-del-internet-seguro-2/",
       "https://www.nic.do/2018/03/horario-semana-santa/",
       "https://www.nic.do/2018/05/aviso-de-mantenimiento-600-pm/",
-      "https://www.nic.do/2018/06/aviso-de-mantenimiento-600-pm-2/"
+      "https://www.nic.do/2018/06/aviso-de-mantenimiento-600-pm-2/",
+      "https://www.nic.do/2018/08/aviso-de-mantenimiento-600-pm-2-2/",
+      "https://www.nic.do/2023/12/aviso-de-mantenimiento-600-pm-2-2-2-2-2-2/",
+      "https://www.nic.do/2022/03/aviso-de-mantenimiento-600-pm-2-2-2-2/",
+      "https://www.nic.do/2022/01/aviso-de-mantenimiento-600-pm-2-2-2/",
+      "https://www.nic.do/2023/10/aviso-de-mantenimiento-600-pm-2-2-2-2-2/",
+      "https://www.nic.do/2024/02/aviso-de-mantenimiento-600-pm-2-2-2-2-2-2-2/",
+      "https://www.nic.do/2024/07/aviso-de-mantenimiento-830-pm/",
+      "https://www.nic.do/2024/11/aviso-de-mantenimiento-700-am-2/",
+      "https://www.nic.do/2024/04/cambios-a-la-politica-de-solucion-de-controversias-en-materia-de-nombres-de-dominio-para-do-a-partir-del-24-05-2024/",
+      "https://www.nic.do/2024/07/aviso-de-mantenimiento-700-am/"
     ]
   },
   "olx.com.br": {
-    "lastAt": 1758029662247,
+    "lastAt": 1758381729558,
     "urls": []
   },
   "skroutz.gr": {
-    "lastAt": 1758029671297,
+    "lastAt": 1758381737285,
     "urls": [
       "https://www.skroutz.gr/cyber-monday",
       "https://www.skroutz.gr/black-friday",
@@ -13855,27 +13902,27 @@
     ]
   },
   "ouest-france.fr": {
-    "lastAt": 1758029675326,
+    "lastAt": 1758381740911,
     "urls": []
   },
   "macys.com": {
-    "lastAt": 1758029679478,
+    "lastAt": 1758381745017,
     "urls": []
   },
   "weforum.org": {
-    "lastAt": 1758029684127,
+    "lastAt": 1758381749465,
     "urls": []
   },
   "tsyndicate.com": {
-    "lastAt": 1758029687742,
+    "lastAt": 1758381752322,
     "urls": []
   },
   "umich.edu": {
-    "lastAt": 1758029690920,
+    "lastAt": 1758381755342,
     "urls": []
   },
   "surfshark.com": {
-    "lastAt": 1758029703151,
+    "lastAt": 1758381760318,
     "urls": [
       "https://surfshark.com/",
       "https://surfshark.com/blog/data-hoarding",
@@ -13896,21 +13943,31 @@
       "https://surfshark.com/blog/surfshark-nominated-in-the-us-partnership-awards",
       "https://surfshark.com/fr/blog/surfshark-lance-ip-dediee",
       "https://surfshark.com/blog/when-should-you-change-passwords",
-      "https://surfshark.com/blog/5-9-14-eyes-and-vpn"
+      "https://surfshark.com/blog/5-9-14-eyes-and-vpn",
+      "https://surfshark.com/blog/recent-data-breaches",
+      "https://surfshark.com/blog/delete-facebook-search-history",
+      "https://surfshark.com/blog/phishing-quiz",
+      "https://surfshark.com/blog/how-to-prevent-data-breaches",
+      "https://surfshark.com/blog/new-turkey-censorship-law",
+      "https://surfshark.com/blog/uganda-social-media-ban-2021",
+      "https://surfshark.com/blog/surfshark-merges-with-nord-security",
+      "https://surfshark.com/blog/surfshark-releases-manual-wireguard-connection",
+      "https://surfshark.com/blog/surfshark-upgraded-to-ram-only-servers",
+      "https://surfshark.com/blog/surfshark-news-november-2022"
     ]
   },
   "flipkart.com": {
-    "lastAt": 1758029771960,
+    "lastAt": 1758381829126,
     "urls": []
   },
   "dyndns.org": {
-    "lastAt": 1758029772653,
+    "lastAt": 1758381829939,
     "urls": [
       "https://dyndns.org/"
     ]
   },
   "abc.es": {
-    "lastAt": 1758029775545,
+    "lastAt": 1758381832227,
     "urls": [
       "https://abc.es/",
       "https://www.abc.es/espana/aragon/lengua-azul-huesca-lleva-aragon-animar-prevencion-20250912144305-nt.html",
@@ -13931,21 +13988,31 @@
       "https://www.abc.es/espana/andalucia/cordoba/parking-lepanto-empresa-invertir-millones-viable-plan-20250916152647-nts.html",
       "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-destinara-230000-euros-renovar-cubierta-ceip-20250915121503-nt.html",
       "https://www.abc.es/sevilla/provincia/selva-piscina-habitaciones-mansion-vende-minutos-sevilla-20250916152530-nts.html",
-      "https://www.abc.es/espana/canarias/libertad-joven-investigado-quemar-viva-menor-isleta-20250916151401-nt.html"
+      "https://www.abc.es/espana/canarias/libertad-joven-investigado-quemar-viva-menor-isleta-20250916151401-nt.html",
+      "https://www.abc.es/deportes/real-madrid/real-madrid-espanyol-directo-hoy-partido-liga-20250920101604-di.html",
+      "https://www.abc.es/espana/andalucia/cordoba/cordoba-registra-116-nuevos-donantes-medula-osea-20250920170931-nts.html",
+      "https://www.abc.es/deportes/formula-1/clasificacion-20250920154334-nt.html",
+      "https://www.abc.es/play/series/noticias/ocho-episodios-exito-netflix-nueva-serie-creadores-20250920165654-nt.html",
+      "https://www.abc.es/play/television/noticias/lucas-andy-lucas-roto-dolor-hablar-tragica-20250920170000-nt.html",
+      "https://www.abc.es/deportes/futbol/decir-espanyol-filial-madrid-comentario-barra-bar-20250919144834-nt.html",
+      "https://www.abc.es/recreo/biologa-explica-verdaderas-consecuencias-dos-primos-hijo-20250920185151-nt.html",
+      "https://www.abc.es/gente/hombres-tiempo-brooks-nader-explosiva-confesion-sobre-20250920160000-nt.html",
+      "https://www.abc.es/internacional/rusia-ejecuta-nuevo-bombardeo-masivo-ciudades-ucrania-20250920163235-nt.html",
+      "https://www.abc.es/espana/castilla-la-mancha/pp-asegura-politicas-socialistas-castillala-mancha-confirman-20250920165834-nt.html"
     ]
   },
   "statcounter.com": {
-    "lastAt": 1758029777062,
+    "lastAt": 1758381833335,
     "urls": [
       "https://statcounter.com/"
     ]
   },
   "bytefcdn.com": {
-    "lastAt": 1758029781221,
+    "lastAt": 1758381837243,
     "urls": []
   },
   "deloitte.com": {
-    "lastAt": 1758029787535,
+    "lastAt": 1758381841805,
     "urls": [
       "https://www.deloitte.com/global/en/services/tax/perspectives/eu-list-non-cooperative-jurisdictions.html",
       "https://deloitte.com/",
@@ -13961,15 +14028,25 @@
       "https://www.deloitte.com/global/en/about/people/profiles.gx-zuzanna-skoczek+ebfadfbc.html",
       "https://www.deloitte.com/global/en/about/people/profiles.gavin-campbell+f7a274e.html",
       "https://www.deloitte.com/global/en/about/people/profiles.guerin+db329619.html",
-      "https://www.deloitte.com/global/en/about/people/profiles.jarkell+1d0ad0f6.html"
+      "https://www.deloitte.com/global/en/about/people/profiles.jarkell+1d0ad0f6.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.todd-slatter+cd26a500.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.marc-funk+b4ef92fe.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.amanda-perran+4925c102.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.gx-guy-m-williams+9b7f8bdf.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.giuseppe-malorgio+d2c783a0.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.jen-mcdonald+4b82e232.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.clare-campbell-smith+f864304.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.tamara-armoush+61c5914a.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.eoin-drumm+260730ec.html",
+      "https://www.deloitte.com/global/en/about/people/profiles.zoe-burton+f1646003.html"
     ]
   },
   "amagi.tv": {
-    "lastAt": 1758032650411,
+    "lastAt": 1758381900614,
     "urls": []
   },
   "ecosia.org": {
-    "lastAt": 1758032654019,
+    "lastAt": 1758381904532,
     "urls": []
   },
   "inkuai.com": {
