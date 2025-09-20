@@ -13205,7 +13205,7 @@
     "urls": []
   },
   "garmin.com": {
-    "lastAt": 1758026894986,
+    "lastAt": 1758377936683,
     "urls": [
       "https://garmin.com/",
       "https://www.garmin.com/cs-CZ/blog/health/kondice-je-vice-nez-stihla-linie/",
@@ -13226,29 +13226,39 @@
       "https://www.garmin.com/cs-CZ/blog/smartwatch/garmin-quatix-7nebudete-chtit-sundat-z-ruky/",
       "https://www.garmin.com/cs-CZ/blog/sportfitness/garmin-instinct-2-pracant-do-nepohody/",
       "https://www.garmin.com/cs-CZ/blog/sportfitness/na-kolo-s-chytrou-elektronikou/",
-      "https://www.garmin.com/cs-CZ/blog/tipsfeatures/tvorba-trasy-a-navigace-behem-sportovni-aktivity/"
+      "https://www.garmin.com/cs-CZ/blog/tipsfeatures/tvorba-trasy-a-navigace-behem-sportovni-aktivity/",
+      "https://www.garmin.com/cs-CZ/blog/tipsfeatures/zaktualizujte-si-golfove-mapy-v-garminech/",
+      "https://www.garmin.com/cs-CZ/blog/productsreviews/garmin-najdete-nove-i-v-hodkovickach/",
+      "https://www.garmin.com/cs-CZ/blog/howtochooseproduct/chytre-nebo-klasicke-hodinky/",
+      "https://www.garmin.com/cs-CZ/blog/tipsfeatures/neni-trenazer-jako-trenazer/",
+      "https://www.garmin.com/cs-CZ/blog/productsreviews/partak-nejen-na-sport-garmin-venu-2-plus/",
+      "https://www.garmin.com/cs-CZ/blog/productsreviews/mesic-fenixu-na-dne-jezera/",
+      "https://www.garmin.com/cs-CZ/blog/smartwatch/test-laktatoveho-prahu/",
+      "https://www.garmin.com/cs-CZ/blog/howtochooseproduct/jak-vybrat-chytre-hodinky-na-golf/",
+      "https://www.garmin.com/cs-CZ/blog/howtochooseproduct/hodinky-nebo-cyklopocitac/",
+      "https://www.garmin.com/cs-CZ/blog/productsreviews/testovali-jsme-garmin-tactix-7-pro-solar-sapphire-ballistics/"
     ]
   },
   "leiniao.com": {
-    "lastAt": 1758026953844,
+    "lastAt": 1758377995535,
     "urls": []
   },
   "tiktokw.us": {
-    "lastAt": 1758026957228,
+    "lastAt": 1758377998797,
     "urls": []
   },
   "agora.io": {
-    "lastAt": 1758026958083,
+    "lastAt": 1758378000014,
     "urls": [
       "https://agora.io/"
     ]
   },
   "onedrive.com": {
-    "lastAt": 1758026997031,
+    "lastAt": 1758378038986,
     "urls": []
   },
   "dreamhost.com": {
-    "lastAt": 1758027001995,
+    "lastAt": 1758378044586,
     "urls": [
       "https://www.dreamhost.com/legal/acceptable-use-policy/",
       "https://www.dreamhost.com/legal/accessibility/",
@@ -13269,11 +13279,21 @@
       "https://www.dreamhost.com/legal/hacked-site-repair-terms/",
       "https://www.dreamhost.com/legal/g-suite-tos/",
       "https://www.dreamhost.com/legal/dreamshop-terms/",
-      "https://www.dreamhost.com/legal/handcrafted-starter-website-terms/"
+      "https://www.dreamhost.com/legal/handcrafted-starter-website-terms/",
+      "https://www.dreamhost.com/legal/icann-domain-verification-policy/",
+      "https://www.dreamhost.com/legal/nonpublic-registration-data/",
+      "https://www.dreamhost.com/legal/government-requests/",
+      "https://www.dreamhost.com/legal/open-source-license-disclosure/",
+      "https://www.dreamhost.com/legal/professional-services/",
+      "https://www.dreamhost.com/legal/lets-encrypt-tos/",
+      "https://www.dreamhost.com/legal/proxy-protection/",
+      "https://www.dreamhost.com/legal/registrants-rights-and-responsibilities/",
+      "https://www.dreamhost.com/legal/remixer-trial/",
+      "https://www.dreamhost.com/legal/refer-and-earn-terms-and-conditions/"
     ]
   },
   "google.co.jp": {
-    "lastAt": 1758027004331,
+    "lastAt": 1758378046088,
     "urls": [
       "https://www.google.com/intl/is/gmail/about/policy/",
       "https://google.co.jp/",
@@ -13292,27 +13312,27 @@
     ]
   },
   "pixiv.net": {
-    "lastAt": 1758027006462,
+    "lastAt": 1758378048611,
     "urls": [
       "https://pixiv.net/"
     ]
   },
   "spamhaus.org": {
-    "lastAt": 1758027007628,
+    "lastAt": 1758378049640,
     "urls": [
       "https://spamhaus.org/"
     ]
   },
   "msftauth.net": {
-    "lastAt": 1758027010553,
+    "lastAt": 1758378052635,
     "urls": []
   },
   "vegalb.com": {
-    "lastAt": 1758027015171,
+    "lastAt": 1758378057109,
     "urls": []
   },
   "pikabu.ru": {
-    "lastAt": 1758027023329,
+    "lastAt": 1758378065691,
     "urls": [
       "https://pikabu.ru/",
       "https://pikabu.ru/tag/%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0",
@@ -13333,19 +13353,29 @@
       "https://pikabu.ru/tag/%C2%AB%D0%B1%D0%B8%D1%82%D0%B2%D0%B0%20%D0%93%D0%B5%D1%80%D0%BE%D0%B5%D0%B2%C2%BB",
       "https://pikabu.ru/tag/%C2%A9%20%D0%9B%D0%B8%D0%BA",
       "https://pikabu.ru/tag/_lm7_",
-      "https://pikabu.ru/tag/%5E%5E"
+      "https://pikabu.ru/tag/%5E%5E",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B8%20%D0%90%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B5%D1%87%D0%BA%D0%B0",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%83",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B0%D0%B9%D0%BC",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%81%D0%BD%D1%8B",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%81%D0%BA%D0%B5%D1%80%D1%82%D0%B8%D0%BD%D0%B3",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%81%D0%BA%D0%B5%D0%B9%D0%BB"
     ]
   },
   "columbia.edu": {
-    "lastAt": 1758027026858,
+    "lastAt": 1758378069218,
     "urls": []
   },
   "caixa.gov.br": {
-    "lastAt": 1758027095668,
+    "lastAt": 1758378138026,
     "urls": []
   },
   "alphonso.tv": {
-    "lastAt": 1758027098963,
+    "lastAt": 1758378140642,
     "urls": [
       "https://alphonso.tv/privacy/smart-tvs/site-privacy/",
       "https://alphonso.tv/privacy/user-opt-out/",
@@ -13366,23 +13396,33 @@
       "https://alphonso.tv/",
       "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada/",
       "https://alphonso.tv/temporary/",
-      "https://alphonso.tv/privacy/this-site/"
+      "https://alphonso.tv/privacy/this-site/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-es/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-overview/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-de/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-fr/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-it/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-es/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-de/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-fr/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-it/",
+      "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada-french/"
     ]
   },
   "heytapmobi.com": {
-    "lastAt": 1758027101456,
+    "lastAt": 1758378143184,
     "urls": [
       "https://heytapmobi.com/"
     ]
   },
   "utorrent.com": {
-    "lastAt": 1758027102997,
+    "lastAt": 1758378144463,
     "urls": [
       "https://utorrent.com/"
     ]
   },
   "linode.com": {
-    "lastAt": 1758027122732,
+    "lastAt": 1758378164297,
     "urls": [
       "https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/",
       "https://www.linode.com/blog/devops/cloud-portability-strategy-benefits/",
@@ -13403,21 +13443,31 @@
       "https://www.linode.com/blog/cloud-storage/future-proofing-legacy-media-workflows-with-akamai-object-storage/",
       "https://www.linode.com/blog/devops/developer-update-july-2024/",
       "https://www.linode.com/blog/compute/defending-against-a-login-api-brute-force-attack/",
-      "https://www.linode.com/blog/devops/whats-new-for-developers-september-2024/"
+      "https://www.linode.com/blog/devops/whats-new-for-developers-september-2024/",
+      "https://www.linode.com/blog/kubernetes/kubernetes-the-hard-way/",
+      "https://www.linode.com/blog/linode/asia-core-compute-region-expansions-singapore-mumbai/",
+      "https://www.linode.com/blog/security/loose-lips-can-sink-websites-too/",
+      "https://www.linode.com/blog/compute/scrub-exif-image-data-in-your-devops-pipeline/",
+      "https://www.linode.com/blog/devops/whats-new-for-developers-october-2024/",
+      "https://www.linode.com/blog/compute/introducing-distributed-compute-regions/",
+      "https://www.linode.com/blog/kubernetes/introducing-the-akamai-app-platform/",
+      "https://www.linode.com/blog/databases/akamai-managed-database-services-powered-by-aiven/",
+      "https://www.linode.com/blog/kubernetes/getting-started-with-akamai-app-platform/",
+      "https://www.linode.com/blog/devops/improve-seo-with-prerender-io/"
     ]
   },
   "rayjump.com": {
-    "lastAt": 1758027181545,
+    "lastAt": 1758378223107,
     "urls": []
   },
   "skyhigh.cloud": {
-    "lastAt": 1758027182808,
+    "lastAt": 1758378224327,
     "urls": [
       "https://skyhigh.cloud/"
     ]
   },
   "ancestry.com": {
-    "lastAt": 1758027188256,
+    "lastAt": 1758378228932,
     "urls": [
       "https://www.ancestry.com/last-name-meaning/strelecki",
       "https://www.ancestry.com/last-name-meaning/dulmage",
@@ -13438,15 +13488,25 @@
       "https://www.ancestry.com/last-name-meaning/linner",
       "https://www.ancestry.com/last-name-meaning/voizey",
       "https://www.ancestry.com/last-name-meaning/mcfadden",
-      "https://www.ancestry.com/last-name-meaning/gorrell"
+      "https://www.ancestry.com/last-name-meaning/gorrell",
+      "https://www.ancestry.com/last-name-meaning/bottger",
+      "https://www.ancestry.com/last-name-meaning/sackwild",
+      "https://www.ancestry.com/last-name-meaning/hoeppner",
+      "https://www.ancestry.com/last-name-meaning/henseler",
+      "https://www.ancestry.com/last-name-meaning/hengel",
+      "https://www.ancestry.com/last-name-meaning/rogovin",
+      "https://www.ancestry.com/last-name-meaning/kalscheuer",
+      "https://www.ancestry.com/last-name-meaning/muralles",
+      "https://www.ancestry.com/last-name-meaning/grealis",
+      "https://www.ancestry.com/last-name-meaning/catalini"
     ]
   },
   "epicgames.dev": {
-    "lastAt": 1758027192112,
+    "lastAt": 1758378233025,
     "urls": []
   },
   "jetbrains.com": {
-    "lastAt": 1758027193794,
+    "lastAt": 1758378234968,
     "urls": [
       "https://jetbrains.com/",
       "https://www.jetbrains.com/products/compare/?product=idea-ce&product=pycharm",
@@ -13467,11 +13527,21 @@
       "https://www.jetbrains.com/products/compare/?product=idea&product=phpstorm",
       "https://www.jetbrains.com/products/compare/?product=idea&product=pycharm-ce",
       "https://www.jetbrains.com/products/compare/?product=idea&product=goland",
-      "https://www.jetbrains.com/products/compare/?product=idea&product=rubymine"
+      "https://www.jetbrains.com/products/compare/?product=idea&product=rubymine",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=webstorm",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=dataspell",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=clion",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=appcode",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=datagrip",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=rider",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=resharper",
+      "https://www.jetbrains.com/products/compare/?product=pycharm&product=rubymine",
+      "https://www.jetbrains.com/products/compare/?product=idea&product=resharper-cpp",
+      "https://www.jetbrains.com/products/compare/?product=pycharm&product=pycharm-ce"
     ]
   },
   "leparisien.fr": {
-    "lastAt": 1758027199958,
+    "lastAt": 1758378240788,
     "urls": [
       "https://www.leparisien.fr/faits-divers/dysfonctionnements-graves-locaux-indignes-un-ehpad-ferme-par-les-autorites-dans-les-bouches-du-rhone-12-09-2025-S523UQ3LHBHOFFDV5SBRVFXAE4.php",
       "https://www.leparisien.fr/faits-divers/il-etait-gentil-avec-tout-le-monde-mort-dans-laccident-de-funiculaire-de-lisbonne-il-avait-laisse-sa-place-a-sa-femme-12-09-2025-QCBAJTSBK5GCNGCZ3JDDPJJWRA.php",
@@ -13492,11 +13562,21 @@
       "https://www.leparisien.fr/faits-divers/il-a-trop-peur-de-prendre-lavion-trois-mois-apres-le-crash-dair-india-le-britannique-qui-a-survecu-est-toujours-en-inde-16-09-2025-E2WR6QL225HGNGKV3B722GZ7TA.php",
       "https://www.leparisien.fr/sports/football/psg/ligue-des-champions-le-camp-nou-toujours-en-chantier-barca-psg-devrait-se-jouer-a-montjuic-16-09-2025-YQ2WXVZQYRCK5MG5BQKHI434VM.php",
       "https://www.leparisien.fr/culture-loisirs/cinema/robert-redford-monstre-sacre-cinema-americain-est-mort-a-lage-de-89-ans-16-09-2025-Q4RU64GUQVDUHCJ2RXOGPUBGRY.php",
-      "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-atalanta-en-gagner-encore-une-nous-motive-les-parisiens-revent-dune-nouvelle-ligue-des-champions-16-09-2025-KUJLLPUWM5HXXI5YJLDQH253IQ.php"
+      "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-atalanta-en-gagner-encore-une-nous-motive-les-parisiens-revent-dune-nouvelle-ligue-des-champions-16-09-2025-KUJLLPUWM5HXXI5YJLDQH253IQ.php",
+      "https://www.leparisien.fr/val-de-marne-94/champigny-sur-marne-reinvente-son-centre-ville-avec-un-parking-souterrain-pas-comme-les-autres-20-09-2025-QOX5T4U6QBAVRABTCDG3OVZYKA.php",
+      "https://www.leparisien.fr/sports/rugby/direct-france-angleterre-suivez-la-demi-finale-choc-de-la-coupe-du-monde-feminine-de-rugby-20-09-2025-WHIF227KCZDS7MYY7BPURK3PFI.php",
+      "https://www.leparisien.fr/sports/formule-1/f1-gp-dazerbaidjan-la-grille-de-depart-avec-max-verstappen-en-pole-apres-des-qualifs-tres-agitees-20-09-2025-XEMATADPXZFVBPWVMJ5BRWLEVA.php",
+      "https://www.leparisien.fr/societe/religions/roch-hachana-2025-en-quoi-consiste-cette-fete-importante-du-judaisme-20-09-2025-OARKO2VI2NFUZF7MUNTYFDAGII.php",
+      "https://www.leparisien.fr/sciences/pourquoi-les-sportifs-ont-plus-de-filles-que-de-garcons-20-09-2025-F4S3YQWREZCV7NKBWWZORFTL6A.php",
+      "https://www.leparisien.fr/sports/mma/mma-les-images-du-dementiel-projet-de-lufc-a-la-maison-blanche-avec-90-000-personnes-attendues-20-09-2025-XLWFSMJFFZA5HHNWBTHVALJJSM.php",
+      "https://www.leparisien.fr/faits-divers/un-etudiant-en-alternance-au-ministere-de-linterieur-suspendu-pour-des-propos-haineux-sur-les-reseaux-sociaux-20-09-2025-MJEL7QV2GRCOBDFVYJGBWAY62E.php",
+      "https://www.leparisien.fr/sports/hippisme/arrivee-du-quinte-du-samedi-20-aout-a-chantilly-baileys-bachelor-simpose-sur-son-parcours-de-predilection-20-09-2025-VOKUOCT7CBFPPKLO3FUUL6WDO4.php",
+      "https://www.leparisien.fr/sports/football/ligue-1/et-ousmane-ballon-dor-quand-luis-enrique-chante-en-pleine-conference-de-presse-20-09-2025-QSACTJPHQNCMJMRVCYFU2Q4NBU.php",
+      "https://www.leparisien.fr/sports/football/suspendu-pour-dopage-au-foot-lukrainien-mudryk-peut-il-vraiment-se-reconvertir-a-lathletisme-pour-les-jo-20-09-2025-I7G6QJBJPBEAZEWGFHUQI5EYPQ.php"
     ]
   },
   "google.ca": {
-    "lastAt": 1758027204725,
+    "lastAt": 1758378245548,
     "urls": [
       "https://google.ca/",
       "https://www.google.com/intl/ar_eg/drive/download/",
@@ -13517,11 +13597,21 @@
       "https://www.google.com/intl/bn/drive/download/",
       "https://www.google.com/intl/ca/drive/download/",
       "https://www.google.com/intl/cs/drive/download/",
-      "https://www.google.com/intl/cs/drive/"
+      "https://www.google.com/intl/cs/drive/",
+      "https://www.google.com/intl/en_bw/drive/",
+      "https://www.google.com/intl/el/drive/",
+      "https://www.google.com/intl/el/drive/download/",
+      "https://www.google.com/intl/en_au/drive/download/",
+      "https://www.google.com/intl/en_au/drive/",
+      "https://www.google.com/intl/en_bw/drive/download/",
+      "https://www.google.com/intl/en_ca/drive/",
+      "https://www.google.com/intl/en_ca/drive/download/",
+      "https://www.google.com/intl/en_cy/drive/",
+      "https://www.google.com/intl/en_cy/drive/download/"
     ]
   },
   "docker.io": {
-    "lastAt": 1758027212339,
+    "lastAt": 1758378252946,
     "urls": [
       "https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/",
       "https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/",
@@ -13542,11 +13632,21 @@
       "https://www.docker.com/blog/docker-state-of-app-dev-ai/",
       "https://www.docker.com/blog/docker-mcp-catalog-secure-way-to-discover-and-run-mcp-servers/",
       "https://www.docker.com/blog/docker-desktop-4-43/",
-      "https://www.docker.com/blog/go-local-dev-fiber-v3-testcontainers/"
+      "https://www.docker.com/blog/go-local-dev-fiber-v3-testcontainers/",
+      "https://www.docker.com/blog/finding-the-right-ai-developer-tools-mcp-catalog/",
+      "https://www.docker.com/blog/compose-editing-evolved-schema-driven-and-context-aware/",
+      "https://www.docker.com/blog/wearedevelopers-docker-unveils-the-future-of-agentic-apps/",
+      "https://www.docker.com/blog/publish-ai-models-on-docker-hub/",
+      "https://www.docker.com/blog/docker-model-runner-on-hugging-face/",
+      "https://www.docker.com/blog/build-genai-app-with-java-spring-ai-docker-model-runner/",
+      "https://www.docker.com/blog/ai-powered-mock-apis-for-testing-with-docker-and-microcks/",
+      "https://www.docker.com/blog/build-ai-agents-with-docker-compose/",
+      "https://www.docker.com/blog/2025-docker-state-of-app-dev/",
+      "https://www.docker.com/blog/docker-compose-with-provider-services/"
     ]
   },
   "split.io": {
-    "lastAt": 1758027214529,
+    "lastAt": 1758378254853,
     "urls": [
       "https://split.io/",
       "https://www.split.io/",
@@ -13558,21 +13658,22 @@
       "https://www.split.io/sandbox/flagship-session/flagship-on-demand-2024-lp2",
       "https://www.split.io/sandbox/flagship-session/flagship-on-demand-2024-lp3",
       "https://www.split.io/sandbox/flagship-session/flagship-on-demand-2024-lp4",
-      "https://www.split.io/sandbox/flagship-session/flagship-on-demand-2024-lp5"
+      "https://www.split.io/sandbox/flagship-session/flagship-on-demand-2024-lp5",
+      "https://www.split.io/sign-up"
     ]
   },
   "bol.com": {
-    "lastAt": 1758027222739,
+    "lastAt": 1758378264966,
     "urls": []
   },
   "lavanguardia.com": {
-    "lastAt": 1758029516670,
+    "lastAt": 1758378266950,
     "urls": [
       "https://lavanguardia.com/"
     ]
   },
   "fbpigeon.com": {
-    "lastAt": 1758029519875,
+    "lastAt": 1758378269965,
     "urls": []
   },
   "ttlivecdn.com": {
