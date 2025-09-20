@@ -9146,7 +9146,7 @@
     ]
   },
   "afternic.com": {
-    "lastAt": 1757993629286,
+    "lastAt": 1758345609572,
     "urls": [
       "https://www.afternic.com/sell-domains",
       "https://www.afternic.com/domain-broker",
@@ -9158,7 +9158,7 @@
     ]
   },
   "gumgum.com": {
-    "lastAt": 1757993631862,
+    "lastAt": 1758345612954,
     "urls": [
       "https://gumgum.com/",
       "https://gumgum.com/advertisers",
@@ -9179,21 +9179,31 @@
       "https://gumgum.com/guides",
       "https://gumgum.com/header-bidding",
       "https://gumgum.com/in-the-news",
-      "https://gumgum.com/forms/in-video-interest-qr-referral"
+      "https://gumgum.com/forms/in-video-interest-qr-referral",
+      "https://gumgum.com/forms/in-video-partnership-interest",
+      "https://gumgum.com/jobs",
+      "https://gumgum.com/iristv",
+      "https://gumgum.com/leadership",
+      "https://gumgum.com/newsroom",
+      "https://gumgum.com/forms/opt-in",
+      "https://gumgum.com/press-releases",
+      "https://gumgum.com/publishers",
+      "https://gumgum.com/style-guide",
+      "https://gumgum.com/forms/internal-referral-program-emea"
     ]
   },
   "33across.com": {
-    "lastAt": 1757993635315,
+    "lastAt": 1758345616600,
     "urls": []
   },
   "viber.com": {
-    "lastAt": 1757993636843,
+    "lastAt": 1758345617867,
     "urls": [
       "https://viber.com/"
     ]
   },
   "redhat.com": {
-    "lastAt": 1757993641303,
+    "lastAt": 1758345623754,
     "urls": [
       "https://www.redhat.com/ja",
       "https://redhat.com/",
@@ -9214,33 +9224,42 @@
       "https://www.redhat.com/en/about/press-releases/red-hat-launches-openshift-startup-program",
       "https://www.redhat.com/en/blog/red-hat-takes-its-hat-off-to-dennis-ritchie",
       "https://www.redhat.com/en/blog/delivering-complete-open-source-cloud-infrastructure-and-software-defined-storage-story",
-      "https://www.redhat.com/en/about/press-releases/latest-version-red-hat-software-collections-now-generally-available"
+      "https://www.redhat.com/en/about/press-releases/latest-version-red-hat-software-collections-now-generally-available",
+      "https://www.redhat.com/en/blog/20-years-%E2%80%9Challoween%E2%80%9D-celebrating-first-release-red-hat-linux",
+      "https://www.redhat.com/en/blog/Red-Hat-and-Cisco-Deliver-Joint-Solutions-for-Accelerating-Customer-Cloud-Adoption",
+      "https://www.redhat.com/en/blog/partnering-power-next-generation-it-infrastructure-cisco-and-red-hat",
+      "https://www.redhat.com/en/blog/red-hat-vice-president-of-linux-engineering-to-deliver-keynote-at-linuxcon-europe",
+      "https://www.redhat.com/en/blog/JUDCon-2011-London-Community-Camaraderie-Discussion-and-Demos",
+      "https://www.redhat.com/en/blog/red-hat-the-linux-foundation-and-canonical-publish-white-paper-on-unfied-extensible-firmware-interface",
+      "https://www.redhat.com/en/blog/spotlight-feature-GNOME-makes-fedora-16-more-efficient-and-easier-to-use",
+      "https://www.redhat.com/en/about/press-releases/rajesh-rege-joins-red-hat-lead-red-hat-india",
+      "https://www.redhat.com/en/blog/Red-Hats-Pathway-to-IT-Freedom-Helps-Customers-Create-Their-Own-Vision-for-IT"
     ]
   },
   "wp.pl": {
-    "lastAt": 1757993645851,
+    "lastAt": 1758345629651,
     "urls": []
   },
   "mediafire.com": {
-    "lastAt": 1757993649444,
+    "lastAt": 1758345633173,
     "urls": []
   },
   "thesun.co.uk": {
-    "lastAt": 1757993657684,
+    "lastAt": 1758345642981,
     "urls": [
       "https://thesun.co.uk/"
     ]
   },
   "creativecdn.com": {
-    "lastAt": 1757993661099,
+    "lastAt": 1758345646943,
     "urls": []
   },
   "heylink.me": {
-    "lastAt": 1757993664130,
+    "lastAt": 1758345650597,
     "urls": []
   },
   "bitrix24.ru": {
-    "lastAt": 1757993668788,
+    "lastAt": 1758345659651,
     "urls": [
       "https://www.bitrix24.ru/",
       "https://www.bitrix24.ru/about/agreement_add.php",
@@ -9261,15 +9280,25 @@
       "https://www.bitrix24.ru/about/agreement_profile.php",
       "https://www.bitrix24.ru/about/agreement_personal_events.php",
       "https://www.bitrix24.ru/about/contact-center.php",
-      "https://www.bitrix24.ru/about/branches.php"
+      "https://www.bitrix24.ru/about/branches.php",
+      "https://www.bitrix24.ru/about/contacts.php",
+      "https://www.bitrix24.ru/about/cookie-policy.php",
+      "https://www.bitrix24.ru/about/press.php",
+      "https://www.bitrix24.ru/about/",
+      "https://www.bitrix24.ru/about/dpa_pers.php",
+      "https://www.bitrix24.ru/about/image-assistant-ai.php",
+      "https://www.bitrix24.ru/about/publishing_rules.php",
+      "https://www.bitrix24.ru/about/sign.php",
+      "https://www.bitrix24.ru/about/site_map.php",
+      "https://www.bitrix24.ru/about/site-usage-aggreement.php"
     ]
   },
   "exp-tas.com": {
-    "lastAt": 1757993671652,
+    "lastAt": 1758345662589,
     "urls": []
   },
   "xvideos.com": {
-    "lastAt": 1757993675739,
+    "lastAt": 1758345666670,
     "urls": [
       "https://www.xvideos.com/",
       "https://www.xvideos.com/c/ass_to_mouths-29",
@@ -9290,17 +9319,27 @@
       "https://www.xvideos.com/c/bukkake-77",
       "https://www.xvideos.com/c/familial_relations-79",
       "https://www.xvideos.com/c/fucked_up_family-81",
-      "https://www.xvideos.com/c/lingerie-83"
+      "https://www.xvideos.com/c/lingerie-83",
+      "https://www.xvideos.com/c/shemale_redhead-181",
+      "https://www.xvideos.com/c/shemale_milf-183",
+      "https://www.xvideos.com/c/shemale_teen-179",
+      "https://www.xvideos.com/c/shemale_lingerie-187",
+      "https://www.xvideos.com/c/shemale_mature-185",
+      "https://www.xvideos.com/c/shemale_latina-191",
+      "https://www.xvideos.com/c/shemale_lesbian-189",
+      "https://www.xvideos.com/c/shemale_bbc-193",
+      "https://www.xvideos.com/c/shemale_interracial-195",
+      "https://www.xvideos.com/c/shemale_group_sex-197"
     ]
   },
   "shopee.co.id": {
-    "lastAt": 1757993677318,
+    "lastAt": 1758345668102,
     "urls": [
       "https://shopee.co.id/"
     ]
   },
   "ya.ru": {
-    "lastAt": 1757993682580,
+    "lastAt": 1758345673951,
     "urls": [
       "https://ya.ru/",
       "https://yandex.ru/medicine/roddom_berezniki",
@@ -9321,21 +9360,31 @@
       "https://yandex.ru/medicine/roddom_pavlovskaya",
       "https://yandex.ru/medicine/roddom_ufa",
       "https://yandex.ru/medicine/roddom_tomsk",
-      "https://yandex.ru/medicine/roddom_rostov-na-donu"
+      "https://yandex.ru/medicine/roddom_rostov-na-donu",
+      "https://yandex.ru/medicine/roddom_irbit",
+      "https://yandex.ru/medicine/roddom_azov",
+      "https://yandex.ru/medicine/roddom_smolensk",
+      "https://yandex.ru/medicine/roddom_evpatoria",
+      "https://yandex.ru/medicine/roddom_voronezh",
+      "https://yandex.ru/medicine/roddom_novosibirsk",
+      "https://yandex.ru/medicine/roddom_pugachev",
+      "https://yandex.ru/medicine/roddom_yekaterinburg",
+      "https://yandex.ru/medicine/roddom_kamensk-shakhtinsky",
+      "https://yandex.ru/medicine/roddom_solikamsk"
     ]
   },
   "tencent.com": {
-    "lastAt": 1757993697208,
+    "lastAt": 1758345678702,
     "urls": [
       "https://tencent.com/"
     ]
   },
   "imrworldwide.com": {
-    "lastAt": 1757993700169,
+    "lastAt": 1758345681750,
     "urls": []
   },
   "people.com": {
-    "lastAt": 1757993703620,
+    "lastAt": 1758345685230,
     "urls": [
       "https://people.com/18-year-old-victim-of-colorado-high-school-shooting-identified-as-family-requests-privacy-11808579",
       "https://people.com/racist-pipe-bomb-discovered-elementary-school-campus-11808663",
@@ -9356,15 +9405,25 @@
       "https://people.com/mariska-hargitay-makes-hilarious-quip-at-svu-co-star-christopher-meloni-youll-never-have-that-emmy-11810673",
       "https://people.com/gwyneth-paltrow-trousers-blouse-sweater-blueprint-september-2025-11810654",
       "https://people.com/plane-passengers-and-crew-members-sickened-from-toxic-fumes-report-11810339",
-      "https://people.com/wireless-bras-and-underwear-amazon-september-2025-11810572"
+      "https://people.com/wireless-bras-and-underwear-amazon-september-2025-11810572",
+      "https://people.com/elvis-presley-unknowingly-called-priscilla-presley-while-she-was-in-bed-with-robert-kardashian-11814095",
+      "https://people.com/man-arrested-for-filming-women-in-target-dressing-rooms-11814091",
+      "https://people.com/former-dancing-with-the-stars-pro-lindsay-arnold-defends-season-34-stars-from-mean-comments-ive-seen-it-all-11814092",
+      "https://people.com/the-summer-i-turned-pretty-cast-reaction-to-the-steamy-finale-scene-11814097",
+      "https://people.com/robert-irwin-thinks-late-dad-steve-would-be-stoked-to-watch-him-on-dwts-11814094",
+      "https://people.com/ashley-olsen-steps-out-with-new-hair-transformation-11814089",
+      "https://people.com/gunfire-struck-abc-sacramento-affiliate-station-11814083",
+      "https://people.com/once-thought-dead-witness-in-university-of-miami-murder-case-is-found-alive-weeks-before-trial-11814072",
+      "https://people.com/jennifer-lopez-ben-affleck-put-beverly-hills-mansion-back-on-market-for-52-million-11814063",
+      "https://people.com/best-fall-fashion-deals-amazon-september-2025-11813903"
     ]
   },
   "dbankcloud.com": {
-    "lastAt": 1757993706795,
+    "lastAt": 1758345689242,
     "urls": []
   },
   "bugsnag.com": {
-    "lastAt": 1757993713146,
+    "lastAt": 1758345695490,
     "urls": [
       "https://bugsnag.com/",
       "https://www.bugsnag.com/blog/",
@@ -9379,13 +9438,13 @@
     ]
   },
   "arxiv.org": {
-    "lastAt": 1757993714115,
+    "lastAt": 1758345698491,
     "urls": [
       "https://arxiv.org/"
     ]
   },
   "mlb.com": {
-    "lastAt": 1757993717397,
+    "lastAt": 1758345702568,
     "urls": [
       "https://www.mlb.com/news/kyle-stowers-marlins-oblique-injury-during-rehab",
       "https://mlb.com/",
@@ -9406,25 +9465,35 @@
       "https://www.mlb.com/es/news/padres-apoyan-con-11-carreras-la-gran-labor-de-cease-en-el-triunfo-vs-rockies",
       "https://www.mlb.com/news/brewers-clinch-2025-postseason-berth",
       "https://www.mlb.com/news/masyn-winn-sticks-with-teammates-after-injury-ends-his-season",
-      "https://www.mlb.com/news/joe-ryan-labors-through-four-innings-in-loss-to-d-backs"
+      "https://www.mlb.com/news/joe-ryan-labors-through-four-innings-in-loss-to-d-backs",
+      "https://www.mlb.com/es/news/ramirez-conecta-jonron-y-remolca-tres-en-victoria-de-marlins-sobre-rockies",
+      "https://www.mlb.com/news/phillies-align-pitching-with-playoffs-in-mind",
+      "https://www.mlb.com/news/marlins-down-rockies-for-sixth-win-in-seven-games",
+      "https://www.mlb.com/news/brenton-doyle-makes-great-throw-in-rockies-loss",
+      "https://www.mlb.com/news/top-prospect-performers-for-september-17-2025",
+      "https://www.mlb.com/news/blake-snell-strikes-out-12-as-dodgers-win-finale-vs-phillies",
+      "https://www.mlb.com/news/cubs-clinch-2025-postseason-berth",
+      "https://www.mlb.com/news/shohei-ohtani-open-to-playing-outfield-in-postseason",
+      "https://www.mlb.com/news/phillies-2025-postseason-faq",
+      "https://www.mlb.com/news/yankees-magazine-spencer-jones"
     ]
   },
   "scdn.co": {
-    "lastAt": 1757993721099,
+    "lastAt": 1758345705663,
     "urls": []
   },
   "myspace.com": {
-    "lastAt": 1757993724820,
+    "lastAt": 1758345708903,
     "urls": []
   },
   "unesco.org": {
-    "lastAt": 1757993727240,
+    "lastAt": 1758345712589,
     "urls": [
       "https://unesco.org/"
     ]
   },
   "theverge.com": {
-    "lastAt": 1757993730199,
+    "lastAt": 1758345715763,
     "urls": [
       "https://www.theverge.com/news/776884/openai-microsoft-mou",
       "https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models",
@@ -9445,11 +9514,21 @@
       "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
       "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat",
       "https://www.theverge.com/22163811/best-phone",
-      "https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass"
+      "https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass",
+      "https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china",
+      "https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation",
+      "https://www.theverge.com/news/782194/windows-11-share-with-copilot-button",
+      "https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us",
+      "https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi",
+      "https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale",
+      "https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life",
+      "https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson",
+      "https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous",
+      "https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups"
     ]
   },
   "homedepot.com": {
-    "lastAt": 1757993734623,
+    "lastAt": 1758345718462,
     "urls": [
       "https://www.homedepot.com/services/c/window-treatment-installation-h/24a343ba1",
       "https://www.homedepot.com/services/h/appliance",
@@ -9471,15 +9550,15 @@
     ]
   },
   "githubusercontent.com": {
-    "lastAt": 1757993737625,
+    "lastAt": 1758345721386,
     "urls": []
   },
   "usgovcloudapi.net": {
-    "lastAt": 1757996794160,
+    "lastAt": 1758345724348,
     "urls": []
   },
   "airbnb.com": {
-    "lastAt": 1757996797314,
+    "lastAt": 1758345727379,
     "urls": [
       "https://www.airbnb.com/airbnb-friendly/apartments/towson-md",
       "https://www.airbnb.com/airbnb-friendly/apartments/petaluma-ca",
