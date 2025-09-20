@@ -7632,7 +7632,7 @@
     ]
   },
   "branch.io": {
-    "lastAt": 1757974837510,
+    "lastAt": 1758332513911,
     "urls": [
       "https://www.branch.io/resources/webinar/upcoming-strategies-to-maximize-mobile-growth-in-2023/",
       "https://www.branch.io/resources/",
@@ -7653,27 +7653,37 @@
       "https://www.branch.io/resources/blog/how-to-create-a-responsive-website/",
       "https://www.branch.io/resources/blog/custom-deepviews-for-your-mobile-app/",
       "https://www.branch.io/resources/blog/google-app-streaming-and-branch-deep-links/",
-      "https://www.branch.io/resources/blog/how-quiz-app-quizchat-uses-branch-for-personalized-welcomes/"
+      "https://www.branch.io/resources/blog/how-quiz-app-quizchat-uses-branch-for-personalized-welcomes/",
+      "https://www.branch.io/resources/blog/mobile-app-developers-are-suffering/",
+      "https://www.branch.io/resources/blog/introducing-an-app-invite-feature-with-just-a-few-lines-of-code/",
+      "https://www.branch.io/resources/blog/retargeting-in-a-post-privacy-world/",
+      "https://www.branch.io/resources/blog/the-biggest-source-of-app-installs-no-one-talks-about/",
+      "https://www.branch.io/resources/blog/open-source-documentation-portal-built-on-jekyll/",
+      "https://www.branch.io/resources/blog/the-war-for-mobile-search/",
+      "https://www.branch.io/resources/blog/why-marketers-need-to-pay-attention-to-branch-deeplinks/",
+      "https://www.branch.io/resources/white-paper/mobile-growth-handbook-australia/",
+      "https://www.branch.io/resources/white-paper/web-to-app-playbook/",
+      "https://www.branch.io/resources/blog/how-to-make-ctv-advertising-work-for-your-brand/"
     ]
   },
   "yelp.com": {
-    "lastAt": 1757974838856,
+    "lastAt": 1758332515450,
     "urls": [
       "https://yelp.com/"
     ]
   },
   "oup.com": {
-    "lastAt": 1757974839775,
+    "lastAt": 1758332516669,
     "urls": [
       "https://oup.com/"
     ]
   },
   "licdn.com": {
-    "lastAt": 1757974842645,
+    "lastAt": 1758332519623,
     "urls": []
   },
   "onetrust.com": {
-    "lastAt": 1757974845967,
+    "lastAt": 1758332525458,
     "urls": [
       "https://www.onetrust.com/",
       "https://www.onetrust.com/why-onetrust/",
@@ -7694,11 +7704,21 @@
       "https://www.onetrust.com/solutions/german-supply-chain-due-diligence-act-compliance/",
       "https://www.onetrust.com/solutions/hipaa-compliance/",
       "https://www.onetrust.com/solutions/iso27701-compliance/",
-      "https://www.onetrust.com/solutions/iab-tcf-2-2-compliance/"
+      "https://www.onetrust.com/solutions/iab-tcf-2-2-compliance/",
+      "https://www.onetrust.com/solutions/schrems-ii-compliance/",
+      "https://www.onetrust.com/solutions/popia-compliance/",
+      "https://www.onetrust.com/solutions/thailand-pdpa-compliance/",
+      "https://www.onetrust.com/solutions/pci-dss-compliance/",
+      "https://www.onetrust.com/solutions/nevada-privacy-law-compliance/",
+      "https://www.onetrust.com/solutions/soc-2-compliance/",
+      "https://www.onetrust.com/solutions/eu-whistleblower-protection-directive-compliance/",
+      "https://www.onetrust.com/solutions/cmmc-2-compliance/",
+      "https://www.onetrust.com/solutions/pipeda-compliance/",
+      "https://www.onetrust.com/solutions/connecticut-data-privacy-act-compliance/"
     ]
   },
   "berkeley.edu": {
-    "lastAt": 1757974856022,
+    "lastAt": 1758332533993,
     "urls": [
       "https://www.berkeley.edu/students/",
       "https://www.berkeley.edu/",
@@ -7718,11 +7738,19 @@
       "https://www.berkeley.edu/about/experience-berkeley/",
       "https://www.berkeley.edu/webreg/",
       "https://www.berkeley.edu/privacy-policy/",
-      "https://www.berkeley.edu/cares-act-report/"
+      "https://www.berkeley.edu/cares-act-report/",
+      "https://www.berkeley.edu/atoz/dept/",
+      "https://www.berkeley.edu/suggestions/",
+      "https://www.berkeley.edu/about/history-discoveries/",
+      "https://www.berkeley.edu/research/museums-and-collections/",
+      "https://www.berkeley.edu/emergency/",
+      "https://www.berkeley.edu/admissions/",
+      "https://www.berkeley.edu/academics/",
+      "https://www.berkeley.edu/test/"
     ]
   },
   "nike.com": {
-    "lastAt": 1757974870063,
+    "lastAt": 1758332541193,
     "urls": [
       "https://www.nike.com/help/a/nrc-ntc-event",
       "https://www.nike.com/help/a/promo-code-terms",
@@ -7743,15 +7771,25 @@
       "https://www.nike.com/help/a/nike-data-protection",
       "https://www.nike.com/help/a/product-discount",
       "https://www.nike.com/help/a/nike-employee-discount",
-      "https://www.nike.com/help/a/nrc-indoor-run"
+      "https://www.nike.com/help/a/nrc-indoor-run",
+      "https://www.nike.com/help/a/nike-product-care",
+      "https://www.nike.com/help/a/ntc-start-workout",
+      "https://www.nike.com/help/a/nrc-music",
+      "https://www.nike.com/help/a/nrc-ntc-apps",
+      "https://www.nike.com/help/a/size-charts",
+      "https://www.nike.com/help/a/nrc-run-features",
+      "https://www.nike.com/help/a/nrc-coach-plan",
+      "https://www.nike.com/help/a/international-shipping",
+      "https://www.nike.com/help/a/shipping-nikeid",
+      "https://www.nike.com/help/a/what-is-pronation"
     ]
   },
   "whecloud.com": {
-    "lastAt": 1757974873129,
+    "lastAt": 1758332544252,
     "urls": []
   },
   "britannica.com": {
-    "lastAt": 1757974878503,
+    "lastAt": 1758332550335,
     "urls": [
       "https://www.britannica.com/quiz/browse",
       "https://www.britannica.com/quiz/browse/Health-Medicine",
@@ -7770,15 +7808,15 @@
     ]
   },
   "run.app": {
-    "lastAt": 1757974881998,
+    "lastAt": 1758332553903,
     "urls": []
   },
   "googlezip.net": {
-    "lastAt": 1757974885059,
+    "lastAt": 1758332556895,
     "urls": []
   },
   "qualtrics.com": {
-    "lastAt": 1757974891407,
+    "lastAt": 1758332562616,
     "urls": [
       "https://www.qualtrics.com/",
       "https://qualtrics.com/",
@@ -7797,25 +7835,34 @@
       "https://www.qualtrics.com/th/",
       "https://www.qualtrics.com/about/",
       "https://www.qualtrics.com/nl/",
-      "https://www.qualtrics.com/de/uber-uns/"
+      "https://www.qualtrics.com/de/uber-uns/",
+      "https://www.qualtrics.com/it/chi-siamo/",
+      "https://www.qualtrics.com/fr/a-propos/",
+      "https://www.qualtrics.com/es-es/sobre-nosotros/",
+      "https://www.qualtrics.com/pt-br/sobre/",
+      "https://www.qualtrics.com/ja/about/",
+      "https://www.qualtrics.com/es/sobre-nosotros/",
+      "https://www.qualtrics.com/ko/about/",
+      "https://www.qualtrics.com/nl/over-ons/",
+      "https://www.qualtrics.com/th/about/"
     ]
   },
   "t-mobile.com": {
-    "lastAt": 1757974895033,
+    "lastAt": 1758332566053,
     "urls": []
   },
   "awsglobalaccelerator.com": {
-    "lastAt": 1757974898108,
+    "lastAt": 1758332569089,
     "urls": []
   },
   "deepl.com": {
-    "lastAt": 1757974899346,
+    "lastAt": 1758332570277,
     "urls": [
       "https://deepl.com/"
     ]
   },
   "ikea.com": {
-    "lastAt": 1757974907580,
+    "lastAt": 1758332582206,
     "urls": [
       "https://ikea.com/",
       "https://www.ikea.com/ph/en/p/ytterskaer-privacy-screen-outdoor-gray-90509485/",
@@ -7836,21 +7883,31 @@
       "https://www.ikea.com/ph/en/p/yllevad-frame-white-30425281/",
       "https://www.ikea.com/ph/en/p/vrigstad-mirror-sedge-60518467/",
       "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-kilanda-light-beige-s59491237/",
-      "https://www.ikea.com/ph/en/p/vuku-wardrobe-white-10339331/"
+      "https://www.ikea.com/ph/en/p/vuku-wardrobe-white-10339331/",
+      "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-hakebo-dark-gray-s09491249/",
+      "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-kilanda-dark-blue-s39491243/",
+      "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-kilanda-light-beige-70545187/",
+      "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-karlshov-gray-beige-s89491231/",
+      "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-hakebo-gray-green-s79491255/",
+      "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-kilanda-dark-blue-00545181/",
+      "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-karlshov-beige-multicolor-70547624/",
+      "https://www.ikea.com/ph/en/p/vresjoen-sink-stainless-steel-s79425722/",
+      "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-hakebo-dark-gray-30545170/",
+      "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-hakebo-gray-green-20545175/"
     ]
   },
   "ovscdns.com": {
-    "lastAt": 1757974910939,
+    "lastAt": 1758332585989,
     "urls": []
   },
   "g.co": {
-    "lastAt": 1757974912085,
+    "lastAt": 1758332587046,
     "urls": [
       "https://g.co/"
     ]
   },
   "ca.gov": {
-    "lastAt": 1757974914899,
+    "lastAt": 1758332589923,
     "urls": [
       "https://www.ca.gov/",
       "https://www.ca.gov/about/sitemap/",
@@ -7871,11 +7928,21 @@
       "https://www.ca.gov/services/all/",
       "https://www.ca.gov/services/list/",
       "https://www.ca.gov/support/",
-      "https://www.ca.gov/support/technical-help/"
+      "https://www.ca.gov/support/technical-help/",
+      "https://www.ca.gov/topics/businesses/",
+      "https://www.ca.gov/topics/disaster-recovery/",
+      "https://www.ca.gov/topics/",
+      "https://www.ca.gov/support/thank-you/",
+      "https://www.ca.gov/topics/assistance/",
+      "https://www.ca.gov/topics/dmv-auto/",
+      "https://www.ca.gov/topics/housing/",
+      "https://www.ca.gov/topics/education/",
+      "https://www.ca.gov/topics/health/",
+      "https://www.ca.gov/topics/jobs/"
     ]
   },
   "dnsimple.com": {
-    "lastAt": 1757974916775,
+    "lastAt": 1758332592060,
     "urls": [
       "https://dnsimple.com/contact",
       "https://dnsimple.com/",
@@ -7896,17 +7963,27 @@
       "https://dnsimple.com/tlds/aero-domains",
       "https://dnsimple.com/tlds/africa-domains",
       "https://dnsimple.com/tlds/agency-domains",
-      "https://dnsimple.com/tlds/ag-domains"
+      "https://dnsimple.com/tlds/ag-domains",
+      "https://dnsimple.com/tlds/ai-domains",
+      "https://dnsimple.com/tlds/amsterdam-domains",
+      "https://dnsimple.com/tlds/apartments-domains",
+      "https://dnsimple.com/tlds/app-domains",
+      "https://dnsimple.com/tlds/am-domains",
+      "https://dnsimple.com/tlds/archi-domains",
+      "https://dnsimple.com/tlds/army-domains",
+      "https://dnsimple.com/tlds/asia-domains",
+      "https://dnsimple.com/tlds/associates-domains",
+      "https://dnsimple.com/tlds/art-domains"
     ]
   },
   "samsungapps.com": {
-    "lastAt": 1757974918748,
+    "lastAt": 1758332594341,
     "urls": [
       "https://samsungapps.com/"
     ]
   },
   "conviva.com": {
-    "lastAt": 1757974921693,
+    "lastAt": 1758332598271,
     "urls": [
       "https://www.conviva.com/resource/time-state-analytics-conviva-cidr/",
       "https://www.conviva.com/resources/",
@@ -7927,21 +8004,31 @@
       "https://www.conviva.com/resource/streamlining-zee5s-ott-experience-with-convivas-innovative-technology/",
       "https://www.conviva.com/resource/customer-story-transforming-customer-service-through-streaming-analytics-a-telecom-success-story/",
       "https://www.conviva.com/resource/enhancing-user-experience-a-strategic-move-towards-higher-ad-revenue/",
-      "https://www.conviva.com/resource/unlock-4x-roi-in-sports-streaming-with-convivas-metrics-and-integrations/"
+      "https://www.conviva.com/resource/unlock-4x-roi-in-sports-streaming-with-convivas-metrics-and-integrations/",
+      "https://www.conviva.com/resource/case-study-chingari-sparks-digital-transformation-with-conviva/",
+      "https://www.conviva.com/resource/traditional-observability-vs-real-time-performance-analytics/",
+      "https://www.conviva.com/resource/announcing-the-general-availability-of-experience-centric-observability/",
+      "https://www.conviva.com/resource/can-you-handle-the-super-bowl-how-technical-teams-can-deliver-quality-of-experience-at-internet-scale/",
+      "https://www.conviva.com/resource/10-ways-conviva-helps-igamings-product-engineering-teams-say-game-on/",
+      "https://www.conviva.com/resource/3-big-takeaways-from-the-nfls-record-playoff-weekend/",
+      "https://www.conviva.com/resource/why-traditional-alerting-wont-improve-user-experience/",
+      "https://www.conviva.com/resource/the-case-for-experience-centric-operations/",
+      "https://www.conviva.com/resource/wearecisco/",
+      "https://www.conviva.com/resource/showtimes-ott-service-announces-new-partners-2/"
     ]
   },
   "accuweather.com": {
-    "lastAt": 1757974924819,
+    "lastAt": 1758332601802,
     "urls": []
   },
   "ted.com": {
-    "lastAt": 1757974925885,
+    "lastAt": 1758332603230,
     "urls": [
       "https://ted.com/"
     ]
   },
   "loc.gov": {
-    "lastAt": 1757974928527,
+    "lastAt": 1758332605991,
     "urls": [
       "https://www.loc.gov/about/awards-and-honors/",
       "https://www.loc.gov/about/about-the-librarian/",
@@ -7962,32 +8049,44 @@
       "https://www.loc.gov/about/doing-business-with-the-library/what-we-buy/",
       "https://www.loc.gov/about/doing-business-with-the-library/third-party-digitization-agreements/",
       "https://www.loc.gov/about/fascinating-facts/",
-      "https://www.loc.gov/about/frequently-asked-questions/"
+      "https://www.loc.gov/about/frequently-asked-questions/",
+      "https://www.loc.gov/about/general-information/",
+      "https://www.loc.gov/about/history-of-the-library/native-american-land-acknowledgment/",
+      "https://www.loc.gov/about/history-of-the-library/timeline/",
+      "https://www.loc.gov/about/history-of-the-library/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/application/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/event-facilities/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/pricing/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/caterers/",
+      "https://www.loc.gov/about/host-an-event-at-the-library/guidelines/"
     ]
   },
   "2gis.com": {
-    "lastAt": 1757974932087,
+    "lastAt": 1758332609836,
     "urls": [
       "https://2gis.com/"
     ]
   },
   "shutterstock.com": {
-    "lastAt": 1757974949387,
+    "lastAt": 1758332628501,
     "urls": []
   },
   "avito.ru": {
-    "lastAt": 1757974960250,
+    "lastAt": 1758332639671,
     "urls": [
       "https://www.avito.ru/stavropolskiy_kray_mihaylovsk/predlozheniya_uslug/transport_perevozki/arenda_spetstekhniki/podyomnaya_tekhnika/avtokran-ASgBAgICBESYC8SfAZoL3J8B7o4O8qSNA~raEuCkjQM",
-      "https://www.avito.ru/chelyabinskaya_oblast/predlozheniya_uslug?q=%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D0%BD+55+%D1%82%D0%BE%D0%BD%D0%BD"
+      "https://www.avito.ru/chelyabinskaya_oblast/predlozheniya_uslug?q=%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D0%BD+55+%D1%82%D0%BE%D0%BD%D0%BD",
+      "https://www.avito.ru/irkutskaya_oblast/predlozheniya_uslug?q=%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80+%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0",
+      "https://www.avito.ru/sterlitamak/predlozheniya_uslug/oborudovanie_proizvodstvo/arenda_oborudovaniya-ASgBAgICAkSYC7SfAaALhKAB?q=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%2B%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0"
     ]
   },
   "easebar.com": {
-    "lastAt": 1757978344723,
+    "lastAt": 1758332643396,
     "urls": []
   },
   "twimg.com": {
-    "lastAt": 1757978347694,
+    "lastAt": 1758332646362,
     "urls": []
   },
   "cookielaw.org": {

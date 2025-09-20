@@ -139809,5 +139809,698 @@
     "title": "Stitch Multi-Thread",
     "description": "",
     "text": "Transform your campaign operations to accelerate time to deployment, reduce spend, and maximize resu"
+  },
+  {
+    "id": "0806ff08a2a9d12fc0c77196f2d27616b0b29e86",
+    "url": "https://www.branch.io/resources/blog/mobile-app-developers-are-suffering/",
+    "title": "Mobile App Developers Are Suffering - Branch",
+    "description": "Explore the challenges of app saturation, including discovery woes, power law dynamics, and high ado",
+    "text": "Alex Austin\n“It’s just too saturated. The barriers to adoption and therefore monetization are too hi"
+  },
+  {
+    "id": "0aaf87ed3acf00b0009e99240ec0916fac9b83c7",
+    "url": "https://www.branch.io/resources/blog/introducing-an-app-invite-feature-with-just-a-few-lines-of-code/",
+    "title": "Introducing: An App Invite Feature With Just a Few Lines Of Code - Branch",
+    "description": "Easy app invites with Branch. Seamless sharing, customizable UI, and enhanced user engagement to sim",
+    "text": "Graham Mueller\nInvites are a huge part of spreading mobile apps. The best time to get your users to "
+  },
+  {
+    "id": "52479cdabec7e0a89a6334778adf94f35d44b336",
+    "url": "https://www.branch.io/resources/blog/retargeting-in-a-post-privacy-world/",
+    "title": "Retargeting in a Post-privacy World - Branch",
+    "description": "Learn how privacy and retargeting can co-exist — plus, the current state and the future potential of",
+    "text": "Loïc Anton\nThe fundamental nature of digital privacy is to limit the amount of personal information "
+  },
+  {
+    "id": "bb6d99d5a3bb9553ad6db25b7537f079193cfd6d",
+    "url": "https://www.branch.io/resources/blog/the-biggest-source-of-app-installs-no-one-talks-about/",
+    "title": "The Biggest Source of App Installs No One Talks About - Branch",
+    "description": "Explore the decline of app store new user flows and the power of referral programs for driving mobil",
+    "text": "Alex Austin\nThis blog post was originally published in 2016. You can also read one of our newer post"
+  },
+  {
+    "id": "a95c64045dde4c0e4cc020dd0619ae6ee8ba1ce4",
+    "url": "https://www.branch.io/resources/blog/open-source-documentation-portal-built-on-jekyll/",
+    "title": "Open Source Documentation Portal Built on Jekyll - Branch",
+    "description": "Enhancing Documentation with Jekyll & Liquid: Dive into our documentation journey to learn how Branc",
+    "text": "Jake Adams\nIn the browser-based world of yesteryear, the ‘referer’ (yes, intentionally misspelled) h"
+  },
+  {
+    "id": "f4c9f4c6551f888c5fccc3e16f3a528c03f74ffc",
+    "url": "https://www.branch.io/resources/blog/the-war-for-mobile-search/",
+    "title": "The War for Mobile Search - Branch",
+    "description": "Dive into the battle for mobile search dominance between Apple and Google. Explore the future of mob",
+    "text": "Alex Austin\nThere’s a war being waged in mobile. A war to control the final lucrative frontier that "
+  },
+  {
+    "id": "aae1d96ae40b58f71a8eedcf1a12d8f97d0bca47",
+    "url": "https://www.branch.io/resources/blog/why-marketers-need-to-pay-attention-to-branch-deeplinks/",
+    "title": "Why Marketers Need to Pay Attention to Branch Deeplinks - Branch",
+    "description": "Former Google employee discusses the potential of Branch in revolutionizing app linking and bridging",
+    "text": "Jason Feng\nI worked at Google for a number of years on AdWords and Mobile– advising companies that r"
+  },
+  {
+    "id": "a2eda5e0330c249d30f0d440e1bcd01d7088dcb5",
+    "url": "https://www.branch.io/resources/white-paper/mobile-growth-handbook-australia/",
+    "title": "Mobile Growth Handbook: Australia - Branch",
+    "description": "With first-hand advice, Australia-specific industry data, and quick tips, we take the guesswork out ",
+    "text": "In this handbook, we explore ways that you can cost-effectively grow your mobile app. With first-han"
+  },
+  {
+    "id": "b48169246c6fcaf7368e3adb3bae0179e69dd816",
+    "url": "https://www.branch.io/resources/white-paper/web-to-app-playbook/",
+    "title": "Web-to-App Playbook - Branch",
+    "description": "Learn the importance of web-to-app strategies, and show how personalization can drive higher engagem",
+    "text": "In this co-authored playbook, Branch and Phiture seek to demonstrate the importance of web-to-app st"
+  },
+  {
+    "id": "daceca369b4acbfaf3a6e2366aa9ca50af17c398",
+    "url": "https://www.branch.io/resources/blog/how-to-make-ctv-advertising-work-for-your-brand/",
+    "title": "How To Make CTV Advertising Work for Your Brand - Branch",
+    "description": "Is CTV right for your brand? Moloco's Head of CTV answers questions from Branch customers about pitf",
+    "text": "Adam Landis\nMany Branch customers engage with their users across multiple platforms: web, mobile web"
+  },
+  {
+    "id": "75f0e26f40f89057bd017a74e77ef9e18c565ffa",
+    "url": "https://www.onetrust.com/solutions/schrems-ii-compliance/",
+    "title": "Schrems II Compliance | Solutions | OneTrust",
+    "description": "Streamline adoption of safeguards to legally transfer personal data from the EU to a third country a",
+    "text": "On-demand webinar coming soon...\nOperationalize the steps you must take and the additional safeguard"
+  },
+  {
+    "id": "3fa6bac241d220c40cd4d5c1bc05ebf6d30e6c16",
+    "url": "https://www.onetrust.com/solutions/popia-compliance/",
+    "title": "South Africa POPIA Compliance | Solutions | OneTrust",
+    "description": "Achieve South Africa POPIA compliance with streamlined custom workflows and automated tools for priv",
+    "text": "On-demand webinar coming soon...\nProtect your customers’ personal data and meet South Africa’s Prote"
+  },
+  {
+    "id": "fd2f630db82b482c7b2e0fd19d1202168ac8b315",
+    "url": "https://www.onetrust.com/solutions/thailand-pdpa-compliance/",
+    "title": "PDPA Thailand Compliance | Solutions | OneTrust",
+    "description": "Operationalize Thailand PDPA requirements across data subject rights and privacy governance operatio",
+    "text": "On-demand webinar coming soon...\nEnforce a culture of accountability to the rights of data subjects "
+  },
+  {
+    "id": "a98479a0d56410aa18c48af3907ac0c74df74656",
+    "url": "https://www.onetrust.com/solutions/pci-dss-compliance/",
+    "title": "PCI DSS Compliance | Solutions | OneTrust",
+    "description": "Simplify compliance with the Payment Card Industry Data Security Standard (PCI DSS) with OneTrust Te",
+    "text": "On-demand webinar coming soon...\nIf you operate a point-of-sale system or accept payment cards of an"
+  },
+  {
+    "id": "6afc8571f94ef3b6af10f30045f4472745771e0c",
+    "url": "https://www.onetrust.com/solutions/nevada-privacy-law-compliance/",
+    "title": "Nevada Privacy Law Compliance | Solutions | OneTrust",
+    "description": "Accelerate Nevada Privacy Law compliance with automated consumer privacy rights intake and fulfillme",
+    "text": "On-demand webinar coming soon...\nStreamline response to Do Not Sell requests and accelerate Nevada P"
+  },
+  {
+    "id": "757601955c93c7460db615ae5cd84c25f6884bac",
+    "url": "https://www.onetrust.com/solutions/soc-2-compliance/",
+    "title": "SOC 2 Compliance | Solutions | OneTrust",
+    "description": "Accelerate SOC 2 compliance by building and maintaining security at each step of the third-party lif",
+    "text": "On-demand webinar coming soon...\nSOC 2 requires an integrity-based auditing process when working wit"
+  },
+  {
+    "id": "b8043f9cef78c8ea26a447d783f06cfcc8cd4c92",
+    "url": "https://www.onetrust.com/solutions/eu-whistleblower-protection-directive-compliance/",
+    "title": "General Data Protection Regulation (GDPR) Compliance | Solutions | OneTrust",
+    "description": "Operationalize compliance with the EU’s comprehensive General Data Protection Regulation - GDPR with",
+    "text": "On-demand webinar coming soon...\nDemonstrate accountability for the EU’s GDPR requirements and enfor"
+  },
+  {
+    "id": "07939dfcbc9486fcfb9cbdbd5180658d13de2dba",
+    "url": "https://www.onetrust.com/solutions/cmmc-2-compliance/",
+    "title": "CMMC 2.0 Compliance | Solutions | OneTrust",
+    "description": "Accelerate CMMC level 1, 2, and 3 regulatory compliance requirements and achieve CMMC 2.0 certificat",
+    "text": "On-demand webinar coming soon...\nNavigate all three maturity levels of CMMC 2.0 and identify areas o"
+  },
+  {
+    "id": "442996b8c9d2ca9e5e0d0ee58980fff8b612e610",
+    "url": "https://www.onetrust.com/solutions/pipeda-compliance/",
+    "title": "Canadian Privacy Law Compliance | Solutions | OneTrust",
+    "description": "Automate compliance with Canada's Personal Information Protection and Electronic Documents Act (PIPE",
+    "text": "On-demand webinar coming soon...\nEnsure transparency, build a culture of accountability, and acceler"
+  },
+  {
+    "id": "54f5bdcca2c097adb3011bccd4a67b005797f180",
+    "url": "https://www.onetrust.com/solutions/connecticut-data-privacy-act-compliance/",
+    "title": "Connecticut Data Privacy Act Compliance | Solutions | OneTrust",
+    "description": "Operationalize compliance with the Connecticut Data Privacy Act with OneTrust Privacy Automation.",
+    "text": "On-demand webinar coming soon...\nProtect and govern Connecticut consumer data and keep up with chang"
+  },
+  {
+    "id": "aba2f82f35d42234a4214034a757db0de98ef921",
+    "url": "https://www.berkeley.edu/atoz/dept/",
+    "title": "Academic departments & programs - University of California, Berkeley",
+    "description": "",
+    "text": "Skip to list\nUndergraduate Degree Programs\nGraduate Degree Programs\nWebsites A-Z\nResearch units A-Z\n"
+  },
+  {
+    "id": "dce749ca80d6e60329a1327860219d300a89ebee",
+    "url": "https://www.berkeley.edu/suggestions/",
+    "title": "Content suggestions - University of California, Berkeley",
+    "description": "",
+    "text": "We want to hear about stories, ideas and projects that amplify the excellence, scale, diversity and "
+  },
+  {
+    "id": "8e6b0b8f29e6ab11305c0445311d55733eec5f4a",
+    "url": "https://www.berkeley.edu/about/history-discoveries/",
+    "title": "History & discoveries - University of California, Berkeley",
+    "description": "",
+    "text": "For over 150 years, UC Berkeley has been reimagining the world by challenging convention and generat"
+  },
+  {
+    "id": "8fbb504adb89447d1c6aeb40308a331a03a10958",
+    "url": "https://www.berkeley.edu/research/museums-and-collections/",
+    "title": "Museums and collections - University of California, Berkeley",
+    "description": "",
+    "text": "​From rare plant species to oral histories to the insects of the West, Berkeley has extensive collec"
+  },
+  {
+    "id": "7216f6fbe8006029a4365416d1cdfaf6121ec7f5",
+    "url": "https://www.berkeley.edu/emergency/",
+    "title": "Emergency - University of California, Berkeley",
+    "description": "",
+    "text": "There are no emergencies or emergency communications in effect for the UC Berkeley campus. If an eme"
+  },
+  {
+    "id": "2bc237f1930b62e99041cfd38df047e2c24784c9",
+    "url": "https://www.berkeley.edu/admissions/",
+    "title": "Admissions - University of California, Berkeley",
+    "description": "",
+    "text": "The University of California, Berkeley, is the No. 1 public university in the world. Over 40,000 stu"
+  },
+  {
+    "id": "caf7484ebd529f1d590e1988d9e27d6e9a42959b",
+    "url": "https://www.berkeley.edu/academics/",
+    "title": "Academics - University of California, Berkeley",
+    "description": "",
+    "text": "From 10 faculty members, 40 students and three fields of study at the time of its founding, UC Berke"
+  },
+  {
+    "id": "2b58c28b71483c233e7d7ff3ed4336f1ef37e4a6",
+    "url": "https://www.berkeley.edu/test/",
+    "title": "Test - University of California, Berkeley",
+    "description": "",
+    "text": "This is Lead Test\nThis is additional text\nThis is the WYSIWYG\nthis is bold\nthis is italics\nThis is a"
+  },
+  {
+    "id": "871e4e35b8aadfcc4d452f4c0c50f149e5f160b3",
+    "url": "https://www.nike.com/help/a/nike-product-care",
+    "title": "Nike Customer Service. Nike.com",
+    "description": "Nike Customer Service",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "2bd44bbd78bb3f6ad21798ffe73dfa3cf8d51173",
+    "url": "https://www.nike.com/help/a/ntc-start-workout",
+    "title": "Nike",
+    "description": "Article Not Found",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "c6039bf027a01a5e59d1b14be656e380b997721f",
+    "url": "https://www.nike.com/help/a/nrc-music",
+    "title": "Nike",
+    "description": "Article Not Found",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "160dad181ff799d4689c4d9821c83354c97eedb9",
+    "url": "https://www.nike.com/help/a/nrc-ntc-apps",
+    "title": "Nike Training Club and Nike Run Club Apps | Nike Help",
+    "description": "Here's the most commonly asked questions Members have about our NTC and NRC apps.",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "b42832498155ca28592b12a6296510d86b58f1fe",
+    "url": "https://www.nike.com/help/a/size-charts",
+    "title": "How Do I Find the Right Size and Fit? | Nike Help",
+    "description": "When it comes to performance, fit matters. Our Nike size charts can help you determine the best fit ",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "41e22a42c7d430bdb6716d00e4d2e634a85bdcf3",
+    "url": "https://www.nike.com/help/a/nrc-run-features",
+    "title": "Nike",
+    "description": "Article Not Found",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "2cbda0ade40a2eba8eed95456423eb222f2f12a7",
+    "url": "https://www.nike.com/help/a/nrc-coach-plan",
+    "title": "Nike",
+    "description": "Article Not Found",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "fa3a12bb139a15538b5e8b7ad0d16a77e46b9ea6",
+    "url": "https://www.nike.com/help/a/international-shipping",
+    "title": "Can I Ship My Nike Order Internationally? | Nike Help",
+    "description": "We offer shipping only within the country or region where you place your order, and we cannot ship t",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "48d263d0564c519a5c57f559ab60c978a9e0d64b",
+    "url": "https://www.nike.com/help/a/shipping-nikeid",
+    "title": "How Long Does It Take To Get a Nike By You Order? | Nike Help",
+    "description": "Most Nike By You orders are delivered in 3-5 weeks, but it can be a little faster or a little slower",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "bd83c3c59ad11037a595d23f03afb6e40c71c4f0",
+    "url": "https://www.nike.com/help/a/what-is-pronation",
+    "title": "Nike",
+    "description": "Article Not Found",
+    "text": "Find a Store\nHelp\nHelp\nOrder Status\nShipping & Delivery\nReturns\nOrder Cancellation\nSize Charts\nConta"
+  },
+  {
+    "id": "9231105f6967fbcca33185752a929f60fd922ef6",
+    "url": "https://www.qualtrics.com/it/chi-siamo/",
+    "title": "Chi siamo: i nostri valori e i nostri obiettivi - Qualtrics",
+    "description": "Qualtrics è l'azienda globale in grado di far crescere il tuo business con analisi sondaggi e feedba",
+    "text": "Riconosciamo l'impatto in base alle prestazioni e ai risultati. Ci sforziamo di imparare e crescere,"
+  },
+  {
+    "id": "dfb21a5b32c4f523835e4d73d674f83b9a5c9a4b",
+    "url": "https://www.qualtrics.com/fr/a-propos/",
+    "title": "À propos de Qualtrics - Solutions de gestion de l'expérience",
+    "description": "Qualtrics propose une plateforme unique pour l'expérience : benchmark, engagement collaborateur, que",
+    "text": "Nous reconnaissons l'impact de nos employés en fonction de la performance et des résultats, et non d"
+  },
+  {
+    "id": "3fedcdce146db4b61e13859727b60fdd775807c4",
+    "url": "https://www.qualtrics.com/es-es/sobre-nosotros/",
+    "title": "Acerca de nuestra empresa | Qualtrics",
+    "description": "Estamos presentes en 12 países en 3 continentes y tenemos un objetivo: cerrar brechas en el conocimi",
+    "text": "Reconocemos el impacto en base al rendimiento y los resultados. Nos esforzamos por aprender y crecer"
+  },
+  {
+    "id": "836fc1a2d7bee12ff3c93da2d6f93b1db11b83e2",
+    "url": "https://www.qualtrics.com/pt-br/sobre/",
+    "title": "¿Quién es Qualtrics? Conoce a la Empresa Pionera en Gestión de Experiencias",
+    "description": "En Qualtrics, comemos, dormimos y respiramos el éxito del cliente. Ven a echar un vistazo dentro de ",
+    "text": "Conheça a plataforma que possibilita a melhor gestão da experiência\nCasos de uso mais populares\nClie"
+  },
+  {
+    "id": "e907586ec62d2b0cbb3e411515f5e3c841ff5c38",
+    "url": "https://www.qualtrics.com/ja/about/",
+    "title": "クアルトリクスの企業理念 - クアルトリクス",
+    "description": "クアルトリクスの会社理念は、顧客・従業員・潜在顧客・ユーザー・パートナー企業・学生・投資家など、あらゆるステークホルダーのエクスペリエンスを向上させることにあります。クアルトリクスがどのように顧客を成",
+    "text": "私たちは、思い込みやしがらみではなく、パフォーマンスと結果に基づいて現状を理解します。私たちは、お互いに目標や強み、改善すべき点をオープンに共有し、成長するために学び続けます。\n私たち一人一人が、クア"
+  },
+  {
+    "id": "ee4952e54096184b9b660074c2d969dc397f9230",
+    "url": "https://www.qualtrics.com/es/sobre-nosotros/",
+    "title": "¿Quién es Qualtrics? Conoce a la Empresa Pionera en Gestión de Experiencias. | Qualtrics",
+    "description": "En Qualtrics, comemos, dormimos y respiramos el éxito del cliente. Ven a echar un vistazo dentro de ",
+    "text": "Reconocemos el impacto en base al rendimiento y los resultados. Nos esforzamos por aprender y crecer"
+  },
+  {
+    "id": "f829b575b00ae7c87cc38659ee2e2ba974d3c137",
+    "url": "https://www.qualtrics.com/ko/about/",
+    "title": "회사 소개 - Qualtrics의 방식 - Qualtrics 대한민국",
+    "description": "5개 대륙의 35개 오피스 - Qualtrics 문화와 피플에 대해 더 알아보세요!",
+    "text": "건강한 조직은 정치적 요소가 아닌 성과와 결과에 가치를 둡니다. Qualtrics는 모든 팀원들이 성장할 수 있는 환경을 위해 투명하고 공정하게 목표, 강점, 개선점을 공유합니다."
+  },
+  {
+    "id": "a4fc87e638e5ce672b4e72d3d21a439465de9538",
+    "url": "https://www.qualtrics.com/nl/over-ons/",
+    "title": "Wie zijn Qualtrics? Uw Partner in Experience Management",
+    "description": "Bij Qualtrics zit Experience Management in ons DNA. Neem een kijkje achter de schermen bij het bedri",
+    "text": "Wij erkennen impact op basis van prestaties en resultaten, niet op basis van kantoorpolitiek. We str"
+  },
+  {
+    "id": "06b4974bc64e4aad7ca44d744a46db6aafa01659",
+    "url": "https://www.qualtrics.com/th/about/",
+    "title": "Qualtrics คือใคร ซอฟต์แวร์ Experience Management อยู่ที่นี่แล้ว",
+    "description": "บุคลากรของ Qualtrics ให้ความสำคัญกับการบริหารจัดการประสบการณ์ (XM) ในทุกชั่วขณะ มาทำความรู้จักกับบริ",
+    "text": "เราให้ความสำคัญต่อผลลัพธ์เป็นที่หนึ่ง ซึ่งนั่นทำให้เราไม่หยุดเรียนรู้และเติบโต เราเชื่อมั่นในความโปร"
+  },
+  {
+    "id": "423a51051114eb9fa18ada632cd21681fe42b6c3",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-hakebo-dark-gray-s09491249/",
+    "title": "VRETSTORP sleeper sofa, Hakebo dark gray - IKEA",
+    "description": "VRETSTORP sleeper sofa, Hakebo dark gray This sleeper sofa makes it easy to have a good night's slee",
+    "text": "You must enable JavaScript to shop on IKEA.com\n1010-year guarantee\nThis sleeper sofa makes it easy t"
+  },
+  {
+    "id": "7b5b996e36172a26ff76fc61329ad35f332b76e4",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-kilanda-dark-blue-s39491243/",
+    "title": "VRETSTORP sleeper sofa, Kilanda dark blue - IKEA",
+    "description": "VRETSTORP sleeper sofa, Kilanda dark blue This sleeper sofa makes it easy to have a good night's sle",
+    "text": "You must enable JavaScript to shop on IKEA.com\n1010-year guarantee\nThis sleeper sofa makes it easy t"
+  },
+  {
+    "id": "5b71a59c6c5f8170eb2b3262c77833437d9fd1ff",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-kilanda-light-beige-70545187/",
+    "title": "VRETSTORP cover for sleeper sofa, Kilanda light beige - IKEA",
+    "description": "VRETSTORP cover for sleeper sofa, Kilanda light beige This cover is made of the polyester fabric cal",
+    "text": "You must enable JavaScript to shop on IKEA.com\nStarting at just ₱49, get your products delivered nat"
+  },
+  {
+    "id": "dacf9fe83de9064abff63f657691181107e45efe",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-karlshov-gray-beige-s89491231/",
+    "title": "VRETSTORP sleeper sofa, Karlshov gray-beige - IKEA",
+    "description": "VRETSTORP sleeper sofa, Karlshov gray-beige This sleeper sofa makes it easy to have a good night's s",
+    "text": "You must enable JavaScript to shop on IKEA.com\n1010-year guarantee\nThis sleeper sofa makes it easy t"
+  },
+  {
+    "id": "ebbbc2caeccfc7fa326a1a748c095351b6aaddc2",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-sleeper-sofa-hakebo-gray-green-s79491255/",
+    "title": "VRETSTORP sleeper sofa, Hakebo gray-green - IKEA",
+    "description": "VRETSTORP sleeper sofa, Hakebo gray-green This sleeper sofa makes it easy to have a good night's sle",
+    "text": "You must enable JavaScript to shop on IKEA.com\n1010-year guarantee\nThis sleeper sofa makes it easy t"
+  },
+  {
+    "id": "9c0694699c378c3e1894d08480a1c25cc03d9062",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-kilanda-dark-blue-00545181/",
+    "title": "VRETSTORP cover for sleeper sofa, Kilanda dark blue - IKEA",
+    "description": "VRETSTORP cover for sleeper sofa, Kilanda dark blue This cover is made of the polyester fabric calle",
+    "text": "You must enable JavaScript to shop on IKEA.com\nStarting at just ₱49, get your products delivered nat"
+  },
+  {
+    "id": "c40d0f6b84a21835a8aa0eecedf3feb9a539f212",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-karlshov-beige-multicolor-70547624/",
+    "title": "VRETSTORP cover for sleeper sofa, Karlshov beige/multicolor - IKEA",
+    "description": "VRETSTORP cover for sleeper sofa, Karlshov beige/multicolor Karlshov fabric with classic woven strip",
+    "text": "You must enable JavaScript to shop on IKEA.com\nStarting at just ₱49, get your products delivered nat"
+  },
+  {
+    "id": "1c9cdd83f90807cdc4b38f12c6036b95723bd59c",
+    "url": "https://www.ikea.com/ph/en/p/vresjoen-sink-stainless-steel-s79425722/",
+    "title": "VRESJÖN sink, stainless steel, 54x44 cm (211/4x173/8\") - IKEA",
+    "description": "VRESJÖN sink, stainless steel, 54x44 cm (211/4x173/8\") Sleek and slim adding an elegant touch to you",
+    "text": "You must enable JavaScript to shop on IKEA.com\n2525-year guarantee\nSleek and slim adding an elegant "
+  },
+  {
+    "id": "65687918bc1ac5d593d003216353f9d225f971a3",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-hakebo-dark-gray-30545170/",
+    "title": "VRETSTORP cover for sleeper sofa, Hakebo dark gray - IKEA",
+    "description": "VRETSTORP cover for sleeper sofa, Hakebo dark gray This cover will make your sofa even more inviting",
+    "text": "You must enable JavaScript to shop on IKEA.com\nStarting at just ₱49, get your products delivered nat"
+  },
+  {
+    "id": "de39638858e3c70a7455226129a0799b514a3bc7",
+    "url": "https://www.ikea.com/ph/en/p/vretstorp-cover-for-sleeper-sofa-hakebo-gray-green-20545175/",
+    "title": "VRETSTORP cover for sleeper sofa, Hakebo gray-green - IKEA",
+    "description": "VRETSTORP cover for sleeper sofa, Hakebo gray-green This cover will make your sofa even more invitin",
+    "text": "You must enable JavaScript to shop on IKEA.com\nStarting at just ₱49, get your products delivered nat"
+  },
+  {
+    "id": "43eae55d38336fcc90b9b001b1ad4f980b6c57cc",
+    "url": "https://www.ca.gov/topics/businesses/",
+    "title": "Businesses | CA.gov",
+    "description": "",
+    "text": "California offers services for your business through licensing, permitting, verification, and more.\n"
+  },
+  {
+    "id": "ac5435d0cadc6e0a43a1a53521d689500d571c81",
+    "url": "https://www.ca.gov/topics/disaster-recovery/",
+    "title": "Disaster recovery | CA.gov",
+    "description": "",
+    "text": "See ongoing support for survivors of the\n    LA Fires.\nWildfires, earthquakes, floods — every disast"
+  },
+  {
+    "id": "abbc0d99fd339e8af4c317d04498c8437fcfe669",
+    "url": "https://www.ca.gov/topics/",
+    "title": "Topics | CA.gov",
+    "description": "",
+    "text": "Each state service falls into one or more topics. You can browse\n        individual topic pages to f"
+  },
+  {
+    "id": "a1c1c0ef3dd975fe81633bb8bb71cbb2aa879bcf",
+    "url": "https://www.ca.gov/support/thank-you/",
+    "title": "Technical help thanks | CA.gov",
+    "description": "",
+    "text": "We are always happy to get feedback!\n©\n        \n          \n            document.getElementById('this"
+  },
+  {
+    "id": "0c25a08861e266d070a38e532f872735dc8025ec",
+    "url": "https://www.ca.gov/topics/assistance/",
+    "title": "Assistance and social programs | CA.gov",
+    "description": "",
+    "text": "Find services that help improve the well-being of individuals, families, and communities in Californ"
+  },
+  {
+    "id": "c8e4589f7f82a071f924a01f141e020022daa0ee",
+    "url": "https://www.ca.gov/topics/dmv-auto/",
+    "title": "DMV/Auto | CA.gov",
+    "description": "",
+    "text": "Get or renew your California driver’s license, vehicle registration, and more. Learn about and obtai"
+  },
+  {
+    "id": "43dcca3b825b8bd9a4be1f1be4e13cddee792bd9",
+    "url": "https://www.ca.gov/topics/housing/",
+    "title": "Housing and real estate | CA.gov",
+    "description": "",
+    "text": "Make informed decisions about your home. Find the status of contractors, real estate agents, and app"
+  },
+  {
+    "id": "7710644e67bcffb2f6d2cab660143c1edaa0c4d7",
+    "url": "https://www.ca.gov/topics/education/",
+    "title": "Education | CA.gov",
+    "description": "",
+    "text": "Find educational opportunities for people of all ages. Apply for financial help for your degree, voc"
+  },
+  {
+    "id": "f3e90aa33d2f5c70006c37f42574892e1386ff98",
+    "url": "https://www.ca.gov/topics/health/",
+    "title": "Health and wellness | CA.gov",
+    "description": "",
+    "text": "Get health and wellness support for you and your family. Find resources for medical care, nutrition,"
+  },
+  {
+    "id": "aa1151bb93dad325acc4b0de0465e02b95eff78d",
+    "url": "https://www.ca.gov/topics/jobs/",
+    "title": "Jobs and unemployment | CA.gov",
+    "description": "",
+    "text": "Review job openings, trainings, and resources. Get financial support while you are unemployed.\nLearn"
+  },
+  {
+    "id": "59a96b6a13d353b1b37f15295d55765b21f2a470",
+    "url": "https://dnsimple.com/tlds/ai-domains",
+    "title": ".ai Domain Name Registration - DNSimple",
+    "description": "Seamless .ai domain registration and transfer with DNSimple. Every domain registration with DNSimple",
+    "text": "All prices are in US Dollars and are per year. Some domains require registrations of 2, 5, or 10 yea"
+  },
+  {
+    "id": "ff488465cbbad5de8c50bf1becec8edd452a2aaa",
+    "url": "https://dnsimple.com/tlds/amsterdam-domains",
+    "title": ".amsterdam Domain Name Registration - DNSimple",
+    "description": "Seamless .amsterdam domain registration and transfer with DNSimple. Every domain registration with D",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .amst"
+  },
+  {
+    "id": "07eaf6110302fc8698bf07b85c7655cae3e88dad",
+    "url": "https://dnsimple.com/tlds/apartments-domains",
+    "title": ".apartments Domain Name Registration - DNSimple",
+    "description": "Seamless .apartments domain registration and transfer with DNSimple. Every domain registration with ",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .apar"
+  },
+  {
+    "id": "768d2e7e8436b60fae922b3237ed4b2b5ea47cf0",
+    "url": "https://dnsimple.com/tlds/app-domains",
+    "title": ".app Domain Name Registration - DNSimple",
+    "description": "Seamless .app domain registration and transfer with DNSimple. Every domain registration with DNSimpl",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .app "
+  },
+  {
+    "id": "32bec6fdde1b8d161b45f08f969be629f82feada",
+    "url": "https://dnsimple.com/tlds/am-domains",
+    "title": ".am Domain Name Registration - DNSimple",
+    "description": "Seamless .am domain registration and transfer with DNSimple. Every domain registration with DNSimple",
+    "text": "All prices are in US Dollars and are per year. Some domains require registrations of 2, 5, or 10 yea"
+  },
+  {
+    "id": "f0f5441d6224c997761d76d5a7dc9addaef66e78",
+    "url": "https://dnsimple.com/tlds/archi-domains",
+    "title": ".archi Domain Name Registration - DNSimple",
+    "description": "Seamless .archi domain registration and transfer with DNSimple. Every domain registration with DNSim",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .arch"
+  },
+  {
+    "id": "68f16869d3ed02e0517e9aad0fb5b41d561c6ee2",
+    "url": "https://dnsimple.com/tlds/army-domains",
+    "title": ".army Domain Name Registration - DNSimple",
+    "description": "Seamless .army domain registration and transfer with DNSimple. Every domain registration with DNSimp",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .army"
+  },
+  {
+    "id": "5e25ed3c24e1b37b559c9bf5235eb08f80960c87",
+    "url": "https://dnsimple.com/tlds/asia-domains",
+    "title": ".asia Domain Name Registration - DNSimple",
+    "description": "Seamless .asia domain registration and transfer with DNSimple. Every domain registration with DNSimp",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .asia"
+  },
+  {
+    "id": "5ce4e29fdabc2fc48cb41821f32f377db67c7464",
+    "url": "https://dnsimple.com/tlds/associates-domains",
+    "title": ".associates Domain Name Registration - DNSimple",
+    "description": "Seamless .associates domain registration and transfer with DNSimple. Every domain registration with ",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .asso"
+  },
+  {
+    "id": "a7e8e604d90fbaeb37b4ff7bb2ac41f486eba366",
+    "url": "https://dnsimple.com/tlds/art-domains",
+    "title": ".art Domain Name Registration - DNSimple",
+    "description": "Seamless .art domain registration and transfer with DNSimple. Every domain registration with DNSimpl",
+    "text": "Special pricing might apply to certain domain names. Premium names is at the discretion of the .art "
+  },
+  {
+    "id": "e8b4e4cf4f4bfe22cca49b104b85308b65f4cb0e",
+    "url": "https://www.conviva.com/resource/case-study-chingari-sparks-digital-transformation-with-conviva/",
+    "title": "Chingari Sparks Digital Transformation with Conviva - Conviva",
+    "description": "Chingari unlocked vast breadth and depth Conviva measurement analytics pipeline to revolutionize the",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "6eaa423d5226ddd683cf7b5a505666b6cf568ece",
+    "url": "https://www.conviva.com/resource/traditional-observability-vs-real-time-performance-analytics/",
+    "title": "Observability vs. Real-Time Performance Analytics - Conviva",
+    "description": "Traditional observability focuses on backend systems, while experience-centric observability priorit",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "74e4b5e4ecd7954e3a302bd42c4910d763146818",
+    "url": "https://www.conviva.com/resource/announcing-the-general-availability-of-experience-centric-observability/",
+    "title": "Announcing the General Availability of Experience-Centric Operations - Conviva",
+    "description": "Today we are thrilled to announce that our Experience-Centric Operations (ECO) service is generally ",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "a2b04d8c90f1835ebb7629336cd6319f292e4d0c",
+    "url": "https://www.conviva.com/resource/can-you-handle-the-super-bowl-how-technical-teams-can-deliver-quality-of-experience-at-internet-scale/",
+    "title": "Can You Handle the Super Bowl? How Technical Teams Can Deliver Quality of Experience at Internet Sca",
+    "description": "The Super Bowl isn't just about a big NFL game or falling in love again with Cool Ranch Doritos. It’",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "91ec5f8a12e41b00a053d733c8c69facefde94ec",
+    "url": "https://www.conviva.com/resource/10-ways-conviva-helps-igamings-product-engineering-teams-say-game-on/",
+    "title": "10 Ways Conviva Helps iGaming’s Product & Engineering Teams Say, “Game On!” - Conviva",
+    "description": "Here’s 10 ways Conviva helps drive customer experience, team alignment and efficiency, and business ",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "c6958f5002a3f8cc374e15d705635977290538e1",
+    "url": "https://www.conviva.com/resource/3-big-takeaways-from-the-nfls-record-playoff-weekend/",
+    "title": "Three Big Takeaways From the NFL’s Record Playoff Weekend - Conviva",
+    "description": "This past Saturday’s playoff game represented the highest day of internet use in US history. NBC Spo",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "37d5d5db7126ac32ed0e8d23340417136c0a83fc",
+    "url": "https://www.conviva.com/resource/why-traditional-alerting-wont-improve-user-experience/",
+    "title": "Why Traditional Alerting Won’t Improve User Experience - Conviva",
+    "description": "In the ever-evolving landscape of digital services, the role of real-time monitoring and incident re",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "faf5e7343d498640ae0b5c4bcd3d8e1b98a6c428",
+    "url": "https://www.conviva.com/resource/the-case-for-experience-centric-operations/",
+    "title": "The Case for Experience-Centric Operations - Conviva",
+    "description": "While Observability and Application Performance Monitoring (APM) tools have transformed how engineer",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "b170b911a0b01ca48ba0f7fb2568e384a7f68ca3",
+    "url": "https://www.conviva.com/resource/wearecisco/",
+    "title": "Customer Success Stories | @WeAreCisco | Conviva Solutions",
+    "description": "Learn how the @WeAreCisco team increased social reach, connected with employees, & built a finely-tu",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "1930e6df68fc7138b5f491226ad0f1bec04ae4f1",
+    "url": "https://www.conviva.com/resource/showtimes-ott-service-announces-new-partners-2/",
+    "title": "Showtime’s OTT service announces New Partners - Conviva",
+    "description": "With the launch of Showtime's subscription service, it's no surprise they're announcing new hardware",
+    "text": "Conviva Overview\nPlatform Overview\nGet continuous, outcome-based performance analytics with the worl"
+  },
+  {
+    "id": "16b2f5a7e33fbabdfb2e8b2a6d5323d6f4986c35",
+    "url": "https://www.loc.gov/about/general-information/",
+    "title": "General Information | About the Library of Congress | Library of Congress",
+    "description": "Versión en español",
+    "text": "Top of page\nVersión en español\nThe Library of Congress occupies three buildings on Capitol Hill. The"
+  },
+  {
+    "id": "b637b4910600596f84d7c5f72c0a08c6523f9e8e",
+    "url": "https://www.loc.gov/about/history-of-the-library/native-american-land-acknowledgment/",
+    "title": "Native American Land Acknowledgment | History of the Library of Congress | About the Library of Cong",
+    "description": "The Library of Congress has long treasured and preserved Native American collections in a variety of",
+    "text": "Top of page\nThe Library of Congress has long treasured and preserved Native American collections in "
+  },
+  {
+    "id": "f1c19e56ec71d0b2c2c30281046fc5614c027aad",
+    "url": "https://www.loc.gov/about/history-of-the-library/timeline/",
+    "title": "The Library of Congress: A Timeline | History of the Library of Congress | About the Library of Cong",
+    "description": "A chronology of key events in the history of the Library of Congress.",
+    "text": "Top of page\nA chronology of key events in the history of the Library of Congress."
+  },
+  {
+    "id": "6dae99c975b76e147c4b5fd49ecdfa3bde41991a",
+    "url": "https://www.loc.gov/about/history-of-the-library/",
+    "title": "History of the Library of Congress | About the Library of Congress | Library of Congress",
+    "description": "This introductory essay and the timeline that follows are based on entries in America’s Greatest Lib",
+    "text": "Top of page\nThis introductory essay and the timeline that follows are based on entries in America’s "
+  },
+  {
+    "id": "c72c343b2e6b91417bdcd56b8c315a923b72e8bb",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/",
+    "title": "Host an Event at the Library | About the Library of Congress | Library of Congress",
+    "description": "Is your organization interested in having its next dinner or reception on Capitol Hill? The Library ",
+    "text": "Top of page\nThe  Library of Congress offers some beautiful rooms in its    Jefferson and  Madison Bu"
+  },
+  {
+    "id": "5a29a504e28d343f8fc613563d71175bc7fc993f",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/application/",
+    "title": "Application | Host an Event at the Library | About the Library of Congress | Library of Congress",
+    "description": "Sample Application [DATE]",
+    "text": "Top of page\n[DATE]\nDr. Carla Hayden\nLibrarian of Congress\n\t101 Independence Avenue, S.E.\n\tWashington"
+  },
+  {
+    "id": "bc6792d4c307de9f74b78b9d244dbb2f0a3f023a",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/event-facilities/",
+    "title": "Event Facilities | Host an Event at the Library | About the Library of Congress | Library of Congres",
+    "description": "The Great Hall The Great Hall in the Library's Thomas Jefferson Building is a two-story room decorat",
+    "text": "Top of page\nThe Great Hall in the Library's Thomas Jefferson Building is a two-story room decorated "
+  },
+  {
+    "id": "2dce347fa3502f6985467ec9dcbba719c24db815",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/pricing/",
+    "title": "Pricing | Host an Event at the Library | About the Library of Congress | Library of Congress",
+    "description": "The Library of Congress is the largest library in the world, with millions of books, recordings, pho",
+    "text": "Top of page"
+  },
+  {
+    "id": "02c76b7b30bb813c056679570f086896f305c4cf",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/caterers/",
+    "title": "Caterers | Host an Event at the Library | About the Library of Congress | Library of Congress",
+    "description": "The Library of Congress approves the sponsor's choice of caterer based upon the caterer's agreement ",
+    "text": "Top of page\nThe Library of Congress approves the sponsor's choice of caterer based upon the caterer'"
+  },
+  {
+    "id": "5d8c2a0bdd0792982f4d847596695e46379c129b",
+    "url": "https://www.loc.gov/about/host-an-event-at-the-library/guidelines/",
+    "title": "Guidelines | Host an Event at the Library | About the Library of Congress | Library of Congress",
+    "description": "The following information is provided to assist in planning your special event at the Library of Con",
+    "text": "Top of page\nThe following information is provided to assist in planning your   special event at the "
+  },
+  {
+    "id": "5a39d4c2bfab87e82f69efc3dc4ed5defa60a509",
+    "url": "https://www.avito.ru/irkutskaya_oblast/predlozheniya_uslug?q=%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80+%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0",
+    "title": "Авито — Объявления на сайте Авито",
+    "description": "Авито — Объявления на сайте Авито",
+    "text": "Через удобный магазин или прямо с сайта: APK‑файл для Android.\nApp Store\nRuStore\nGalaxy Store\nAppGal"
+  },
+  {
+    "id": "7669a441df1f7a5104453bf0e8b28c631bde0761",
+    "url": "https://www.avito.ru/sterlitamak/predlozheniya_uslug/oborudovanie_proizvodstvo/arenda_oborudovaniya-ASgBAgICAkSYC7SfAaALhKAB?q=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%2B%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0",
+    "title": "Петрович+аренда в Стерлитамаке - цены и отзывы | Услуги на Авито | Поиск специалистов",
+    "description": "50 объявлений об услугах по Петрович+аренда в Стерлитамаке. На Авито вы можете заказать услуги Петро",
+    "text": "от 100 ₽\nРеспублика Башкортостан, Стерлитамак\nАренда инструмента от 300₽ в сутки.\nВыдача в районе ул"
   }
 ]
