@@ -9982,27 +9982,27 @@
     "urls": []
   },
   "amazon.it": {
-    "lastAt": 1758000084696,
+    "lastAt": 1758352753190,
     "urls": []
   },
   "bandcamp.com": {
-    "lastAt": 1758000085948,
+    "lastAt": 1758352754582,
     "urls": [
       "https://bandcamp.com/"
     ]
   },
   "stripchat.com": {
-    "lastAt": 1758000095338,
+    "lastAt": 1758352763217,
     "urls": [
       "https://stripchat.com/"
     ]
   },
   "volcfcdndvs.com": {
-    "lastAt": 1758000100774,
+    "lastAt": 1758352769335,
     "urls": []
   },
   "usps.com": {
-    "lastAt": 1758000102972,
+    "lastAt": 1758352771687,
     "urls": [
       "https://www.usps.com/",
       "https://www.usps.com/business/advertise-with-mail.htm",
@@ -10023,29 +10023,39 @@
       "https://www.usps.com/business/manage-mail.htm",
       "https://www.usps.com/business/large-business.htm",
       "https://www.usps.com/business/political-mail.htm",
-      "https://www.usps.com/business/postage-options.htm"
+      "https://www.usps.com/business/postage-options.htm",
+      "https://www.usps.com/business/priority-mail-next-day.htm",
+      "https://www.usps.com/apps/rapid-drop.htm",
+      "https://www.usps.com/business/postage-options-compare.htm",
+      "https://www.usps.com/business/promotions-incentives.htm",
+      "https://www.usps.com/business/prices.htm",
+      "https://www.usps.com/business/return-services.htm",
+      "https://www.usps.com/business/repositionable-notes-vendors.htm",
+      "https://www.usps.com/business/vendors.htm",
+      "https://www.usps.com/business/verify-postage.htm",
+      "https://www.usps.com/business/web-tools-apis/documentation-updates.htm"
     ]
   },
   "nikkei.com": {
-    "lastAt": 1758000104976,
+    "lastAt": 1758352773245,
     "urls": [
       "https://nikkei.com/"
     ]
   },
   "adobedc.net": {
-    "lastAt": 1758000107905,
+    "lastAt": 1758352776380,
     "urls": []
   },
   "queniuaa.com": {
-    "lastAt": 1758000112190,
+    "lastAt": 1758352781554,
     "urls": []
   },
   "edgecastdns.net": {
-    "lastAt": 1758000171042,
+    "lastAt": 1758352840420,
     "urls": []
   },
   "liftoff.io": {
-    "lastAt": 1758000175599,
+    "lastAt": 1758352844011,
     "urls": [
       "https://liftoff.io/",
       "https://liftoff.io/blog/infographic-q1-mobile-app-engagement-index/",
@@ -10066,17 +10076,27 @@
       "https://liftoff.io/blog/join-mobile-heroes-slack-community/",
       "https://liftoff.io/blog/qa-with-gerardo-castillo-chatbooks/",
       "https://liftoff.io/blog/liftoff-employee-spotlight-robert-saunders-solutions-engineer/",
-      "https://liftoff.io/blog/2019-mobile-gaming-apps-report/"
+      "https://liftoff.io/blog/2019-mobile-gaming-apps-report/",
+      "https://liftoff.io/blog/4-strategies-to-simplify-your-app-marketing-efforts-and-improve-results/",
+      "https://liftoff.io/blog/liftoff-employee-spotlight-karl-berta-sales/",
+      "https://liftoff.io/blog/a-practical-guide-to-running-a-successful-influencer-program/",
+      "https://liftoff.io/blog/women-at-liftoff-susan-hansen-general-counsel/",
+      "https://liftoff.io/blog/qa-with-melissa-lertsmitivanta-realtor-com/",
+      "https://liftoff.io/blog/what-is-view-through-attribution-and-why-is-it-important/",
+      "https://liftoff.io/blog/which-attribution-window-is-right-for-your-marketing-stack/",
+      "https://liftoff.io/blog/liftoff-employee-spotlight-negin-saei-controller/",
+      "https://liftoff.io/blog/finance-apps-2020/",
+      "https://liftoff.io/blog/liftoff-ranks-as-1-dsp-in-kochavas-2020-q1-traffic-index/"
     ]
   },
   "betweendigital.com": {
-    "lastAt": 1758000179006,
+    "lastAt": 1758352848186,
     "urls": [
       "https://betweendigital.com/"
     ]
   },
   "zemanta.com": {
-    "lastAt": 1758000184066,
+    "lastAt": 1758352852285,
     "urls": [
       "https://www.zemanta.com/sitemap.html",
       "https://www.zemanta.com/",
@@ -10097,21 +10117,31 @@
       "https://www.zemanta.com/blog/multi-channel-content-why-you-need-to-rise-to-the-challenge/",
       "https://www.zemanta.com/blog/four-common-misunderstandings-about-content-marketing/",
       "https://www.zemanta.com/blog/tips-for-creating-user-friendly-mobile-content/",
-      "https://www.zemanta.com/blog/content-that-sticks/"
+      "https://www.zemanta.com/blog/content-that-sticks/",
+      "https://www.zemanta.com/blog/what-are-dynamic-native-ads/",
+      "https://www.zemanta.com/blog/getting-started-content-ads/",
+      "https://www.zemanta.com/blog/introducing-retargeting-ad-groups/",
+      "https://www.zemanta.com/blog/updated-publisher-view/",
+      "https://www.zemanta.com/blog/fighting-the-ad-fraud-one-impression-at-a-time/",
+      "https://www.zemanta.com/blog/new-tools-for-agencies/",
+      "https://www.zemanta.com/blog/how-to-develop-research-as-a-core-part-of-your-content-marketing-strategy/",
+      "https://www.zemanta.com/blog/introducing-autopilot/",
+      "https://www.zemanta.com/blog/data-driven-content-marketing-introducing-content-insights-in-zemanta/",
+      "https://www.zemanta.com/blog/common-misconceptions-about-native-advertising/"
     ]
   },
   "washington.edu": {
-    "lastAt": 1758000189724,
+    "lastAt": 1758352854360,
     "urls": [
       "https://washington.edu/"
     ]
   },
   "tremorhub.com": {
-    "lastAt": 1758000193088,
+    "lastAt": 1758352857777,
     "urls": []
   },
   "aniview.com": {
-    "lastAt": 1758000199103,
+    "lastAt": 1758352863982,
     "urls": [
       "https://aniview.com/",
       "https://aniview.com/video-ad-servers/",
@@ -10130,15 +10160,23 @@
       "https://aniview.com/blog/",
       "https://aniview.com/marketplace/advertisers/",
       "https://aniview.com/press-kit/",
-      "https://aniview.com/case-studies/"
+      "https://aniview.com/case-studies/",
+      "https://aniview.com/demo-request/",
+      "https://aniview.com/careers/",
+      "https://aniview.com/contact/",
+      "https://aniview.com/ott-vs-ctv-advertising-whats-the-difference/",
+      "https://aniview.com/the-future-of-ads-on-ctv/",
+      "https://aniview.com/what-is-an-ad-server-how-does-ad-serving-work/",
+      "https://aniview.com/free-ad-supported-tv-fast/",
+      "https://aniview.com/what-is-vast-1-0/"
     ]
   },
   "lenovo.com": {
-    "lastAt": 1758000267910,
+    "lastAt": 1758352932789,
     "urls": []
   },
   "typeform.com": {
-    "lastAt": 1758000271584,
+    "lastAt": 1758352935749,
     "urls": [
       "https://www.typeform.com/fr",
       "https://www.typeform.com/es",
@@ -10159,11 +10197,21 @@
       "https://www.typeform.com/software-services-leadgen",
       "https://www.typeform.com/es/plantillas",
       "https://www.typeform.com/templates",
-      "https://www.typeform.com/roles/b2c-marketing"
+      "https://www.typeform.com/roles/b2c-marketing",
+      "https://www.typeform.com/fr/growth",
+      "https://www.typeform.com/es/growth",
+      "https://www.typeform.com/roles/b2b-marketing",
+      "https://www.typeform.com/growth",
+      "https://www.typeform.com/refer-a-friend",
+      "https://www.typeform.com/ai-driven-marketing",
+      "https://www.typeform.com/ai",
+      "https://www.typeform.com/lead-gen-generic",
+      "https://www.typeform.com/explore-brand",
+      "https://www.typeform.com/inbound-hubspot"
     ]
   },
   "singular.net": {
-    "lastAt": 1758000276625,
+    "lastAt": 1758352941294,
     "urls": [
       "https://www.singular.net/blog/san-francisco-business-times-chooses-singular-best-place-work-2017/",
       "https://www.singular.net/blog/mau-game-plan-2018/",
@@ -10184,27 +10232,37 @@
       "https://www.singular.net/blog/tiktok-business-marketing-partner/",
       "https://www.singular.net/blog/singular-selected-as-finalist-for-12th-annual-media-excellence-awards/",
       "https://www.singular.net/blog/covid-19-and-digital-marketing-spend-whats-changing-blog/",
-      "https://www.singular.net/blog/singular-app-growth-awards-finalist/"
+      "https://www.singular.net/blog/singular-app-growth-awards-finalist/",
+      "https://www.singular.net/blog/using-ai-to-boost-customer-acquisition-growth-blog/",
+      "https://www.singular.net/blog/cmos-on-marketing-during-coronavirus/",
+      "https://www.singular.net/blog/skadetwork-solution-centralized-data/",
+      "https://www.singular.net/blog/rovio-skadetwork-case-study/",
+      "https://www.singular.net/blog/skadnetwork-solution-calculate-roas/",
+      "https://www.singular.net/blog/applovin-max-integration/",
+      "https://www.singular.net/blog/app-remarketing-business-growth/",
+      "https://www.singular.net/blog/singular-expands-to-latam/",
+      "https://www.singular.net/blog/roi-index-2021/",
+      "https://www.singular.net/blog/facebook-value-optimization-skadnetwork/"
     ]
   },
   "appspot.com": {
-    "lastAt": 1758000277706,
+    "lastAt": 1758352942453,
     "urls": [
       "https://appspot.com/"
     ]
   },
   "1drv.com": {
-    "lastAt": 1758000280763,
+    "lastAt": 1758352945387,
     "urls": []
   },
   "me.com": {
-    "lastAt": 1758000281443,
+    "lastAt": 1758352945988,
     "urls": [
       "https://me.com/"
     ]
   },
   "disneyplus.com": {
-    "lastAt": 1758000287748,
+    "lastAt": 1758352952444,
     "urls": [
       "https://www.disneyplus.com/zh-hk",
       "https://www.disneyplus.com/cs-cz",
@@ -10225,11 +10283,21 @@
       "https://www.disneyplus.com/en-bs",
       "https://www.disneyplus.com/en-at",
       "https://www.disneyplus.com/en-aw",
-      "https://www.disneyplus.com/en-bb"
+      "https://www.disneyplus.com/en-bb",
+      "https://www.disneyplus.com/en-be",
+      "https://www.disneyplus.com/en-bo",
+      "https://www.disneyplus.com/en-bm",
+      "https://www.disneyplus.com/en-bz",
+      "https://www.disneyplus.com/en-br",
+      "https://www.disneyplus.com/en-ba",
+      "https://www.disneyplus.com/en-ca",
+      "https://www.disneyplus.com/en-vg",
+      "https://www.disneyplus.com/en-bg",
+      "https://www.disneyplus.com/en-bq"
     ]
   },
   "adjust.com": {
-    "lastAt": 1758000291603,
+    "lastAt": 1758352955904,
     "urls": [
       "https://www.adjust.com/glossary/",
       "https://adjust.com/",
@@ -10250,15 +10318,25 @@
       "https://www.adjust.com/glossary/user-journey/",
       "https://www.adjust.com/glossary/in-app-bidding/",
       "https://www.adjust.com/glossary/mvpd/",
-      "https://www.adjust.com/glossary/paid-search/"
+      "https://www.adjust.com/glossary/paid-search/",
+      "https://www.adjust.com/glossary/app-clip/",
+      "https://www.adjust.com/glossary/arppu/",
+      "https://www.adjust.com/glossary/alpha-testing/",
+      "https://www.adjust.com/glossary/daily-active-users/",
+      "https://www.adjust.com/glossary/in-app-notifications/",
+      "https://www.adjust.com/glossary/app-personalization/",
+      "https://www.adjust.com/glossary/web-to-app-script/",
+      "https://www.adjust.com/glossary/ad-tech/",
+      "https://www.adjust.com/glossary/reinstall/",
+      "https://www.adjust.com/glossary/monthly-active-users/"
     ]
   },
   "wswebcdn.com": {
-    "lastAt": 1758000295331,
+    "lastAt": 1758352959193,
     "urls": []
   },
   "investopedia.com": {
-    "lastAt": 1758000300368,
+    "lastAt": 1758352963864,
     "urls": [
       "https://investopedia.com/",
       "https://www.investopedia.com/alphabet-stock-could-enter-major-downtrend-4842382",
@@ -10279,31 +10357,41 @@
       "https://www.investopedia.com/articles/active-trading/040915/guide-option-trading-strategies-beginners.asp",
       "https://www.investopedia.com/terms/m/monetarypolicy.asp",
       "https://www.investopedia.com/dow-jones-today-09152025-11809871",
-      "https://www.investopedia.com/trading/getting-to-know-the-greeks/"
+      "https://www.investopedia.com/trading/getting-to-know-the-greeks/",
+      "https://www.investopedia.com/terms/v/vega.asp",
+      "https://www.investopedia.com/terms/m/merger.asp",
+      "https://www.investopedia.com/terms/q/quantitativeanalysis.asp",
+      "https://www.investopedia.com/terms/p/price-to-rent-ratio.asp",
+      "https://www.investopedia.com/terms/b/bullputspread.asp",
+      "https://www.investopedia.com/terms/c/corporateaction.asp",
+      "https://www.investopedia.com/terms/z/zspread.asp",
+      "https://www.investopedia.com/terms/p/personal-identification-number.asp",
+      "https://www.investopedia.com/terms/s/swaprate.asp",
+      "https://www.investopedia.com/terms/c/cash-value-life-insurance.asp"
     ]
   },
   "attn.tv": {
-    "lastAt": 1758000359178,
+    "lastAt": 1758353022672,
     "urls": []
   },
   "ssl-images-amazon.com": {
-    "lastAt": 1758000362380,
+    "lastAt": 1758353025638,
     "urls": []
   },
   "unrulymedia.com": {
-    "lastAt": 1758000363571,
+    "lastAt": 1758353026796,
     "urls": [
       "https://unrulymedia.com/"
     ]
   },
   "teads.tv": {
-    "lastAt": 1758004452989,
+    "lastAt": 1758353028182,
     "urls": [
       "https://teads.tv/"
     ]
   },
   "recaptcha.net": {
-    "lastAt": 1758004456142,
+    "lastAt": 1758353031225,
     "urls": []
   },
   "lefigaro.fr": {
