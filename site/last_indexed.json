@@ -8776,7 +8776,7 @@
     "urls": []
   },
   "marriott.com": {
-    "lastAt": 1757991599578,
+    "lastAt": 1758342351056,
     "urls": [
       "https://www.marriott.com/luxury",
       "https://marriott.com/",
@@ -8797,15 +8797,25 @@
       "https://www.marriott.com/luxury/explore-luxury-suites/w-osaka",
       "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-hong-kong",
       "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-reserve-mandapa",
-      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-hong-kong"
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-hong-kong",
+      "https://www.marriott.com/luxury/explore-luxury-suites/josun-palace",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-reserve-zadun",
+      "https://www.marriott.com/luxury/explore-luxury-suites/singapore-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/solaz-los-cabos",
+      "https://www.marriott.com/luxury/explore-luxury-suites/tambo-del-inka-valle-sagrado",
+      "https://www.marriott.com/luxury/explore-luxury-suites/the-riviera-maya-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-maldives",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-reserve-dorado-beach",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-st-thomas",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-grand-cayman"
     ]
   },
   "bamgrid.com": {
-    "lastAt": 1757991602570,
+    "lastAt": 1758342354317,
     "urls": []
   },
   "cloudns.net": {
-    "lastAt": 1757991605366,
+    "lastAt": 1758342356974,
     "urls": [
       "https://www.cloudns.net/",
       "https://www.cloudns.net/managed-dns/",
@@ -8826,15 +8836,25 @@
       "https://www.cloudns.net/feedback-send/",
       "https://www.cloudns.net/feedback/",
       "https://www.cloudns.net/testimonials/",
-      "https://www.cloudns.net/get-offer/"
+      "https://www.cloudns.net/get-offer/",
+      "https://www.cloudns.net/content-monitoring-policy/",
+      "https://www.cloudns.net/contact-domain-owner/",
+      "https://www.cloudns.net/private-dns-servers-ro/",
+      "https://www.cloudns.net/private-dns-servers/",
+      "https://www.cloudns.net/tools/",
+      "https://www.cloudns.net/private-dns-servers-de/",
+      "https://www.cloudns.net/private-dns-servers-nl/",
+      "https://www.cloudns.net/private-dns-servers-uk/",
+      "https://www.cloudns.net/private-dns-servers-fr/",
+      "https://www.cloudns.net/private-dns-servers-tx-us/"
     ]
   },
   "quantserve.com": {
-    "lastAt": 1757991609213,
+    "lastAt": 1758342360716,
     "urls": []
   },
   "anydesk.com": {
-    "lastAt": 1757991612758,
+    "lastAt": 1758342365052,
     "urls": [
       "https://anydesk.com/en/abuse-prevention",
       "https://anydesk.com/en/all-platforms",
@@ -8855,27 +8875,37 @@
       "https://anydesk.com/en/case-studies/city-of-haverhill",
       "https://anydesk.com/en/case-studies/capitol-technology",
       "https://anydesk.com/en/case-studies/haas-media",
-      "https://anydesk.com/en/case-studies/duale-hochschule-bw"
+      "https://anydesk.com/en/case-studies/duale-hochschule-bw",
+      "https://anydesk.com/en/case-studies/spidercam",
+      "https://anydesk.com/en/case-studies/leibniz-institute",
+      "https://anydesk.com/en/case-studies/south-bound-brook",
+      "https://anydesk.com/en/case-studies/spontent",
+      "https://anydesk.com/en/case-studies/solutionit",
+      "https://anydesk.com/en/case-studies/photographer-denizsaylan",
+      "https://anydesk.com/en/case-studies/stefanini",
+      "https://anydesk.com/en/case-studies/sunchemical",
+      "https://anydesk.com/en/case-studies/uni-magdeburg",
+      "https://anydesk.com/en/case-studies/wanzl"
     ]
   },
   "dfn.nl": {
-    "lastAt": 1757991617601,
+    "lastAt": 1758342370631,
     "urls": []
   },
   "substack.com": {
-    "lastAt": 1757991620665,
+    "lastAt": 1758342373830,
     "urls": []
   },
   "amazon.ca": {
-    "lastAt": 1757991623962,
+    "lastAt": 1758342377554,
     "urls": []
   },
   "fb.com": {
-    "lastAt": 1757991628102,
+    "lastAt": 1758342382061,
     "urls": []
   },
   "cambridge.org": {
-    "lastAt": 1757991637240,
+    "lastAt": 1758342396670,
     "urls": [
       "https://www.cambridge.org/highereducation/books/the-origins-of-the-first-world-war/F1F0321D2E082F6CC0FBB0F9F744F0A4/listing",
       "https://www.cambridge.org/highereducation/forms/flippingtheclassroom",
@@ -8891,51 +8921,58 @@
       "https://www.cambridge.org/highereducation/subjects/earth-and-environmental-sciences",
       "https://www.cambridge.org/highereducation/subjects/economics",
       "https://www.cambridge.org/highereducation/subjects/education",
-      "https://www.cambridge.org/highereducation/subjects/engineering"
+      "https://www.cambridge.org/highereducation/subjects/engineering",
+      "https://www.cambridge.org/highereducation/subjects/film-media-mass-communication",
+      "https://www.cambridge.org/highereducation/subjects/general",
+      "https://www.cambridge.org/highereducation/subjects/general-science",
+      "https://www.cambridge.org/highereducation/subjects/geography",
+      "https://www.cambridge.org/highereducation/subjects/health-and-medicine",
+      "https://www.cambridge.org/highereducation/subjects/history",
+      "https://www.cambridge.org/highereducation/subjects/language-and-linguistics"
     ]
   },
   "cloudflareinsights.com": {
-    "lastAt": 1757991637493,
+    "lastAt": 1758342397021,
     "urls": [
       "https://cloudflareinsights.com/"
     ]
   },
   "alidns.com": {
-    "lastAt": 1757991640290,
+    "lastAt": 1758342399343,
     "urls": [
       "https://alidns.com/"
     ]
   },
   "grammarly.io": {
-    "lastAt": 1757991643211,
+    "lastAt": 1758342402764,
     "urls": []
   },
   "telephony.goog": {
-    "lastAt": 1757991702450,
+    "lastAt": 1758342462669,
     "urls": []
   },
   "bidr.io": {
-    "lastAt": 1757991705495,
+    "lastAt": 1758342465685,
     "urls": []
   },
   "samsungacr.com": {
-    "lastAt": 1757991708498,
+    "lastAt": 1758342468982,
     "urls": []
   },
   "pvp.net": {
-    "lastAt": 1757991711857,
+    "lastAt": 1758342472447,
     "urls": []
   },
   "e-msedge.net": {
-    "lastAt": 1757991714726,
+    "lastAt": 1758342475309,
     "urls": []
   },
   "asus.com": {
-    "lastAt": 1757991720258,
+    "lastAt": 1758342480888,
     "urls": []
   },
   "spiegel.de": {
-    "lastAt": 1757991738330,
+    "lastAt": 1758342500117,
     "urls": [
       "https://www.spiegel.de/ausland/drohnen-ueber-polen-donald-trump-spekuliert-ueber-russisches-versehen-a-752aa674-758c-4671-9428-fbce0af36f88",
       "https://www.spiegel.de/ausland/charlie-kirk-fbi-bittet-nach-toedlichem-schuss-mit-fotos-um-hinweise-a-55f7af6d-2fc6-4318-90b2-9c8ab7d3ad68",
@@ -8956,31 +8993,41 @@
       "https://www.spiegel.de/sport/wintersport/chile-italienischer-ski-rennfahrer-matteo-franzoso-nach-trainingssturz-gestorben-a-bbc7d83a-350f-44e1-acab-b8d1c3470da0",
       "https://www.spiegel.de/ausland/donald-trump-meldet-erneuten-angriff-auf-boot-in-der-karibik-drei-tote-a-d6b8ad7a-f826-41d6-a505-fd185341d5b6",
       "https://www.spiegel.de/ausland/tyler-robinson-soll-kirk-attentat-in-chatgruppe-gestanden-haben-a-690bb913-59ca-4f1a-8baa-3b882289dbcd",
-      "https://www.spiegel.de/ausland/polen-drohne-ueber-regierungsgebaeuden-neutralisiert-a-88664c53-0466-4beb-a6b1-806b358c41b0"
+      "https://www.spiegel.de/ausland/polen-drohne-ueber-regierungsgebaeuden-neutralisiert-a-88664c53-0466-4beb-a6b1-806b358c41b0",
+      "https://www.spiegel.de/ausland/estland-russische-kampfjets-in-nato-luftraum-donald-trump-warnt-vor-grossen-problemen-a-d64cb496-9932-43c5-b6d0-ad7722b7074d",
+      "https://www.spiegel.de/netzwelt/donald-trump-xi-jinping-stimmt-offenbar-tiktok-deal-mit-usa-zu-a-46ea6dc7-a6e2-4fd9-9368-94ce2c51041d",
+      "https://www.spiegel.de/panorama/nina-chuba-zum-fruehstueck-kanapees-und-ein-wildberry-lillet-a-09d7c51d-2043-4cc8-879f-c5e3d4e11b24",
+      "https://www.spiegel.de/ausland/jimmy-kimmel-ted-cruz-wirft-chef-der-us-medienaufsicht-mafiamethoden-vor-a-58d82e18-ac2a-474e-b023-f17a9c937202",
+      "https://www.spiegel.de/ausland/new-york-times-donald-trumps-klage-von-us-bundesrichter-abgewiesen-a-bcd2abe0-822d-4818-bb37-5caa89562e5c",
+      "https://www.spiegel.de/politik/cdu-sozialfluegel-draengt-friedrich-merz-zu-reformen-ohne-kettensaege-a-58794559-3fb2-408f-86f8-7b3c8e6127e5",
+      "https://www.spiegel.de/ausland/donald-trump-gebuehren-fuer-h1b-visa-von-fachkraeften-steigt-auf-100-000-dollar-a-d05a8cdf-189b-4d52-a53d-2a1ae726aec4",
+      "https://www.spiegel.de/sport/fussball/souveraener-sieg-vfb-stuttgart-verhindert-st-paulis-tabellenfuehrung-ueber-nacht-a-bde99197-8c70-47f8-bd90-010ee8a7c359",
+      "https://www.spiegel.de/panorama/gesellschaft/nur-wenige-ostdeutsche-in-fuehrungspositionen-a-f2d925a9-4542-42e1-92f6-03c8e88d7290",
+      "https://www.spiegel.de/ausland/trotz-maha-kampagne-impfempfehlung-fuer-hepatitis-b-bleibt-in-den-usa-vorerst-unveraendert-a-53496a33-2890-4afc-8993-2af28fe490a5"
     ]
   },
   "onelink.me": {
-    "lastAt": 1757991738825,
+    "lastAt": 1758342500650,
     "urls": [
       "https://onelink.me/"
     ]
   },
   "service.gov.uk": {
-    "lastAt": 1757991740452,
+    "lastAt": 1758342501291,
     "urls": [
       "https://service.gov.uk/"
     ]
   },
   "ks-cdn.com": {
-    "lastAt": 1757991744714,
+    "lastAt": 1758342505385,
     "urls": []
   },
   "zillow.com": {
-    "lastAt": 1757991751956,
+    "lastAt": 1758342513247,
     "urls": []
   },
   "rackspace.com": {
-    "lastAt": 1757991756050,
+    "lastAt": 1758342517130,
     "urls": [
       "https://www.rackspace.com/",
       "https://www.rackspace.com/about/culture",
@@ -9001,21 +9048,31 @@
       "https://www.rackspace.com/about/data-centers/london-lon5",
       "https://www.rackspace.com/about/data-centers/london-lon8",
       "https://www.rackspace.com/about/data-centers/london-lon3",
-      "https://www.rackspace.com/about/data-centers/moscow"
+      "https://www.rackspace.com/about/data-centers/moscow",
+      "https://www.rackspace.com/about/data-centers/san-jose",
+      "https://www.rackspace.com/about/data-centers/new-york-metro-nyc1",
+      "https://www.rackspace.com/about/data-centers/new-york-metro-nyc2",
+      "https://www.rackspace.com/about/data-centers/shanghai",
+      "https://www.rackspace.com/about/data-centers/singapore",
+      "https://www.rackspace.com/about/leadership",
+      "https://www.rackspace.com/about/data-centers/sydney",
+      "https://www.rackspace.com/about/forrester-wave",
+      "https://www.rackspace.com/about/leadership/d-k-sinha",
+      "https://www.rackspace.com/about/leadership/gajen-kandiah"
     ]
   },
   "myhuaweicloud.com": {
-    "lastAt": 1757991759841,
+    "lastAt": 1758342520708,
     "urls": []
   },
   "box.com": {
-    "lastAt": 1757991760793,
+    "lastAt": 1758342521846,
     "urls": [
       "https://box.com/"
     ]
   },
   "rbc.ru": {
-    "lastAt": 1757991765304,
+    "lastAt": 1758342529911,
     "urls": [
       "https://www.rbc.ru/rbcfreenews/68c14f139a7947895a1d5c7b",
       "https://www.rbc.ru/society/10/09/2025/68c149919a7947f254927c09",
@@ -9036,15 +9093,25 @@
       "https://www.rbc.ru/politics/24/01/2022/61eed7889a79473183a76899",
       "https://www.rbc.ru/rbcfreenews/61eec29a9a79472981e2f1f9",
       "https://www.rbc.ru/politics/24/01/2022/61eee0259a79473480bbfb57",
-      "https://www.rbc.ru/politics/24/01/2022/61eee28b9a794735267b3d0b"
+      "https://www.rbc.ru/politics/24/01/2022/61eee28b9a794735267b3d0b",
+      "https://www.rbc.ru/economics/18/09/2025/68cbbe029a79478c197eaaf9",
+      "https://www.rbc.ru/industries/news/68ca82629a79477e15d84a19",
+      "https://www.rbc.ru/wine/news/68cbb3489a794752b47c42a1",
+      "https://www.rbc.ru/economics/18/09/2025/68cbafbc9a79474a29ee65cc",
+      "https://www.rbc.ru/crypto/news/68cbb1239a794756f299bf0c",
+      "https://www.rbc.ru/rbcfreenews/68cbb5109a79473aa37a1800",
+      "https://www.rbc.ru/rbcfreenews/68cbbc339a7947b15a226f29",
+      "https://www.rbc.ru/wine/news/68cbb2db9a794701ae28351c",
+      "https://www.rbc.ru/rbcfreenews/68cbb8989a7947e525aca0be",
+      "https://www.rbc.ru/crypto/news/68cb0ec29a794737d8da2d83"
     ]
   },
   "steamstatic.com": {
-    "lastAt": 1757993622825,
+    "lastAt": 1758342533757,
     "urls": []
   },
   "lemonde.fr": {
-    "lastAt": 1757993628663,
+    "lastAt": 1758342540272,
     "urls": [
       "https://www.lemonde.fr/international/live/2025/09/12/en-direct-gaza-le-qatar-assure-vouloir-continuer-a-jouer-son-role-de-mediation-pour-la-paix-malgre-les-frappes-israeliennes-a-doha_6640485_3210.html",
       "https://www.lemonde.fr/culture/article/2025/09/12/labyrinthe-le-crepuscule-radieux-de-feu-chatterton_6640484_3246.html",
@@ -9065,7 +9132,17 @@
       "https://www.lemonde.fr/economie/article/2025/09/16/la-martinique-etend-son-bouclier-qualite-prix-un-an-apres-la-crise-de-la-vie-chere_6641318_3234.html",
       "https://www.lemonde.fr/planete/article/2025/09/16/climat-le-trou-dans-la-couche-d-ozone-continue-de-se-resorber-a-un-rythme-encourageant_6641317_3244.html",
       "https://www.lemonde.fr/societe/article/2025/09/16/violences-sexuelles-un-rapport-d-experts-du-conseil-de-l-europe-alarme-sur-une-impunite-en-france_6641316_3224.html",
-      "https://podcasts.lemonde.fr/lheure-du-monde/202509160200-bresil-la-condamnation-historique-de-jair-bolsonaro"
+      "https://podcasts.lemonde.fr/lheure-du-monde/202509160200-bresil-la-condamnation-historique-de-jair-bolsonaro",
+      "https://www.lemonde.fr/international/article/2025/09/20/donald-trump-publie-une-nouvelle-video-d-une-frappe-sur-un-navire-suppose-de-narcotrafic_6641950_3210.html",
+      "https://www.lemonde.fr/politique/article/2025/09/20/a-bruxelles-la-situation-de-la-france-inquiete_6641946_823448.html",
+      "https://www.lemonde.fr/m-perso/article/2025/09/20/j-ai-compris-a-quel-point-j-etais-accro-chicoree-lupin-champignons-les-alternatives-au-cafe-en-plein-essor_6641944_4497916.html",
+      "https://www.lemonde.fr/international/article/2025/09/20/la-rencontre-entre-donald-trump-et-xi-jinping-annoncee-sur-fond-de-reglement-du-dossier-tiktok_6641947_3210.html",
+      "https://www.lemonde.fr/m-styles/article/2025/09/20/le-fuchsia-voyant-et-fier-de-l-etre_6641949_4497319.html",
+      "https://www.lemonde.fr/idees/article/2025/09/20/theodore-tallent-politiste-sur-l-ecologie-il-n-y-a-pas-de-backlash-citoyen-mais-bien-un-backlash-politique_6641948_3232.html",
+      "https://www.lemonde.fr/campus/article/2025/09/20/je-recycle-je-recycle-et-bayrou-prend-un-jet-prive-le-pessimisme-climatique-chez-les-jeunes_6641945_4401467.html",
+      "https://www.lemonde.fr/culture/article/2025/09/20/les-replays-du-week-end-affaire-jubillar-aides-publiques-brame-du-cerf_6641943_3246.html",
+      "https://www.lemonde.fr/argent/article/2025/09/20/quand-des-voyageurs-ayant-perdu-des-bagages-mettent-abusivement-en-cause-aeroports-de-paris_6641942_1657007.html",
+      "https://www.lemonde.fr/sport/article/2025/09/20/coupe-du-monde-feminine-de-rugby-avec-gaelle-mignot-et-david-ortiz-un-xv-de-france-bicephale-au-defi-des-red-roses_6641941_3242.html"
     ]
   },
   "afternic.com": {
