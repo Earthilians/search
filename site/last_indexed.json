@@ -14427,45 +14427,45 @@
     "urls": []
   },
   "terra.com.br": {
-    "lastAt": 1758036283502,
+    "lastAt": 1758388575525,
     "urls": [
       "https://terra.com.br/"
     ]
   },
   "hilton.com": {
-    "lastAt": 1758036353888,
+    "lastAt": 1758388652381,
     "urls": []
   },
   "letterboxd.com": {
-    "lastAt": 1758036354908,
+    "lastAt": 1758388653570,
     "urls": [
       "https://letterboxd.com/"
     ]
   },
   "amazon.com.mx": {
-    "lastAt": 1758036356846,
+    "lastAt": 1758388654688,
     "urls": [
       "https://amazon.com.mx/"
     ]
   },
   "firebaseio.com": {
-    "lastAt": 1758036359972,
+    "lastAt": 1758388657892,
     "urls": []
   },
   "lgtvsdp.com": {
-    "lastAt": 1758036365370,
+    "lastAt": 1758388663654,
     "urls": []
   },
   "i18n-pglstatp.com": {
-    "lastAt": 1758036368483,
+    "lastAt": 1758388666794,
     "urls": []
   },
   "alipaydns.com": {
-    "lastAt": 1758036376296,
+    "lastAt": 1758388674827,
     "urls": []
   },
   "ilovepdf.com": {
-    "lastAt": 1758036378724,
+    "lastAt": 1758388677107,
     "urls": [
       "https://www.ilovepdf.com/",
       "https://www.ilovepdf.com/powerpoint_to_pdf",
@@ -14486,25 +14486,35 @@
       "https://www.ilovepdf.com/pdf_to_powerpoint",
       "https://www.ilovepdf.com/ca",
       "https://www.ilovepdf.com/el",
-      "https://www.ilovepdf.com/ms"
+      "https://www.ilovepdf.com/ms",
+      "https://www.ilovepdf.com/convert-pdf-to-pdfa",
+      "https://www.ilovepdf.com/it",
+      "https://www.ilovepdf.com/es",
+      "https://www.ilovepdf.com/ar",
+      "https://www.ilovepdf.com/blog",
+      "https://www.ilovepdf.com/press",
+      "https://www.ilovepdf.com/pdf_to_word",
+      "https://www.ilovepdf.com/word_to_pdf",
+      "https://www.ilovepdf.com/ja",
+      "https://www.ilovepdf.com/features"
     ]
   },
   "moneycontrol.com": {
-    "lastAt": 1758036382047,
+    "lastAt": 1758388680698,
     "urls": []
   },
   "businesswire.com": {
-    "lastAt": 1758036385392,
+    "lastAt": 1758388683922,
     "urls": []
   },
   "trendyol.com": {
-    "lastAt": 1758036387473,
+    "lastAt": 1758388685407,
     "urls": [
       "https://trendyol.com/"
     ]
   },
   "theconversation.com": {
-    "lastAt": 1758036397203,
+    "lastAt": 1758388690048,
     "urls": [
       "https://theconversation.com/us",
       "https://theconversation.com/uk",
@@ -14525,11 +14535,21 @@
       "https://theconversation.com/au/education",
       "https://theconversation.com/au/environment",
       "https://theconversation.com/au/politics",
-      "https://theconversation.com/au/health"
+      "https://theconversation.com/au/health",
+      "https://theconversation.com/au/technology",
+      "https://theconversation.com/us/business",
+      "https://theconversation.com/us/arts",
+      "https://theconversation.com/us/ethics",
+      "https://theconversation.com/us/health",
+      "https://theconversation.com/us/education",
+      "https://theconversation.com/us/environment",
+      "https://theconversation.com/us/politics",
+      "https://theconversation.com/us/technology",
+      "https://theconversation.com/us/world"
     ]
   },
   "wikihow.com": {
-    "lastAt": 1758036403293,
+    "lastAt": 1758388695790,
     "urls": [
       "https://www.wikihow.com/%22Pass%22-As-a-Woman",
       "https://www.wikihow.com/0101-Angel-Number",
@@ -14550,15 +14570,25 @@
       "https://www.wikihow.com/1010-Angel-Number",
       "https://www.wikihow.com/1011-Angel-Number",
       "https://www.wikihow.com/1017-Angel-Number",
-      "https://www.wikihow.com/1055-Angel-Number"
+      "https://www.wikihow.com/1055-Angel-Number",
+      "https://www.wikihow.com/1101-Angel-Number",
+      "https://www.wikihow.com/1110-Angel-Number",
+      "https://www.wikihow.com/1111-Angel-Number-Meaning",
+      "https://www.wikihow.com/1117-Angel-Number",
+      "https://www.wikihow.com/11111-Angel-Number",
+      "https://www.wikihow.com/1122-Angel-Number",
+      "https://www.wikihow.com/1155-Angel-Number",
+      "https://www.wikihow.com/11:11-Make-a-Wish",
+      "https://www.wikihow.com/12-Apostles-and-Their-Characteristics",
+      "https://www.wikihow.com/12-Men-on-an-Island-Riddle"
     ]
   },
   "sahibinden.com": {
-    "lastAt": 1758036408551,
+    "lastAt": 1758388700655,
     "urls": []
   },
   "kleinanzeigen.de": {
-    "lastAt": 1758036415682,
+    "lastAt": 1758388707105,
     "urls": [
       "https://www.kleinanzeigen.de/stadt/berlin/",
       "https://www.kleinanzeigen.de/s-autos/c216",
@@ -14579,15 +14609,25 @@
       "https://www.kleinanzeigen.de/stadt/kiel/",
       "https://www.kleinanzeigen.de/stadt/luebeck/",
       "https://www.kleinanzeigen.de/stadt/dortmund/",
-      "https://www.kleinanzeigen.de/s-muenster-%28westfalen%29/l929"
+      "https://www.kleinanzeigen.de/s-muenster-%28westfalen%29/l929",
+      "https://www.kleinanzeigen.de/stadt/rostock/",
+      "https://www.kleinanzeigen.de/stadt/nuernberg%20(mittelfr)/",
+      "https://www.kleinanzeigen.de/stadt/bielefeld/",
+      "https://www.kleinanzeigen.de/stadt/essen/",
+      "https://www.kleinanzeigen.de/s-wohnwagen-mobile/c220",
+      "https://www.kleinanzeigen.de/m-einloggen.html",
+      "https://www.kleinanzeigen.de/s-pferde/c139",
+      "https://www.kleinanzeigen.de/s-deutschlandweit/k0",
+      "https://www.kleinanzeigen.de/stadt/magdeburg/",
+      "https://www.kleinanzeigen.de/s-mein/k0"
     ]
   },
   "leboncoin.fr": {
-    "lastAt": 1758036424968,
+    "lastAt": 1758388713233,
     "urls": []
   },
   "pusher.com": {
-    "lastAt": 1758036427455,
+    "lastAt": 1758388715007,
     "urls": [
       "https://pusher.com/docs/beams/concepts/active-devices/",
       "https://pusher.com/",
@@ -14608,19 +14648,29 @@
       "https://pusher.com/docs/beams/guides/handle-incoming-notifications/ios/",
       "https://pusher.com/docs/beams/guides/handle-incoming-notifications/web/",
       "https://pusher.com/docs/beams/guides/publish-to-specific-user/android/",
-      "https://pusher.com/docs/beams/guides/publish-to-specific-user/ios/"
+      "https://pusher.com/docs/beams/guides/publish-to-specific-user/ios/",
+      "https://pusher.com/docs/beams/guides/publishing-to-multiple-devices/",
+      "https://pusher.com/docs/beams/guides/publish-to-specific-user/web/",
+      "https://pusher.com/docs/beams/guides/web-notification-permissions-in-firefox/",
+      "https://pusher.com/docs/beams/guides/safari-certificate-expiration/",
+      "https://pusher.com/docs/beams/",
+      "https://pusher.com/docs/beams/reference/android/",
+      "https://pusher.com/docs/beams/reference/customer-api/",
+      "https://pusher.com/docs/beams/reference/device-api/",
+      "https://pusher.com/docs/beams/reference/ios/",
+      "https://pusher.com/docs/beams/reference/publish-api/"
     ]
   },
   "doppiocdn.com": {
-    "lastAt": 1758036430358,
+    "lastAt": 1758388718202,
     "urls": []
   },
   "cspserver.net": {
-    "lastAt": 1758036434771,
+    "lastAt": 1758388722216,
     "urls": []
   },
   "aparat.com": {
-    "lastAt": 1758036628527,
+    "lastAt": 1758388840484,
     "urls": [
       "https://www.aparat.com/v/zho16xf",
       "https://www.aparat.com/v/vvswo0m",
@@ -14641,17 +14691,27 @@
       "https://www.aparat.com/v/hywzm1t",
       "https://www.aparat.com/v/srq74o0",
       "https://www.aparat.com/v/cfh5j45",
-      "https://www.aparat.com/v/zgcr782"
+      "https://www.aparat.com/v/zgcr782",
+      "https://www.aparat.com/v/aivy1ho",
+      "https://www.aparat.com/v/fpygq56",
+      "https://www.aparat.com/v/vdq50b4",
+      "https://www.aparat.com/v/mjsk1m2",
+      "https://www.aparat.com/v/waf185b",
+      "https://www.aparat.com/v/pcx7x9b",
+      "https://www.aparat.com/v/mgr863z",
+      "https://www.aparat.com/v/pyba6i1",
+      "https://www.aparat.com/v/yor3854",
+      "https://www.aparat.com/v/jmypqz4"
     ]
   },
   "ovh.net": {
-    "lastAt": 1758036630235,
+    "lastAt": 1758388841598,
     "urls": [
       "https://ovh.net/"
     ]
   },
   "ultimate-guitar.com": {
-    "lastAt": 1758036640381,
+    "lastAt": 1758388851246,
     "urls": [
       "https://www.ultimate-guitar.com/news/general_music_news/you-cant-fight-it-either-be-part-of-it-or-dont-the-exact-moment-megadeth-became-a-dave-mustaine-solo-project-according-to-david-ellefson",
       "https://www.ultimate-guitar.com/news/general_music_news/we-had-the-flights-purchased-the-hotels-ready-to-go-the-real-reason-why-wolf-van-halen-didnt-appear-at-ozzys-and-sabbaths-farewell-show",
@@ -14672,27 +14732,37 @@
       "https://www.ultimate-guitar.com/news/general_music_news/even-if-you-are-successful-people-wont-respect-you-for-that-bruce-dickinsons-only-advice-to-musicians",
       "https://www.ultimate-guitar.com/news/general_music_news/i-had-never-heard-of-metallica-this-guitarist-joined-a-legendary-thrash-metal-band--without-knowing-anything-about-it",
       "https://www.ultimate-guitar.com/news/general_music_news/on-the-very-last-song-don-arden-said-the-label-wanted-to-call-it-that-glenn-hughes-recalls-why-tony-iommi-was-so-upset-about-their-album-says-hes-not-a-black-sabbath-singer",
-      "https://www.ultimate-guitar.com/news/general_music_news/thats-a-rich-story-spinal-tap-share-favorite-ozzy-moments-in-heartfelt-tribute"
+      "https://www.ultimate-guitar.com/news/general_music_news/thats-a-rich-story-spinal-tap-share-favorite-ozzy-moments-in-heartfelt-tribute",
+      "https://www.ultimate-guitar.com/articles/features/they-sold-millions-but-were-written-off-as-a-guilty-pleasure-decades-later-is-it-time-to-finally-call-them-hard-rock-royalty-181519",
+      "https://www.ultimate-guitar.com/news/general_music_news/hes-like-oh-youre-not-supposed-to-be-in-here-prince-got-really-upset-when-his-guitarist-caught-him-playing-through-his-gear",
+      "https://www.ultimate-guitar.com/news/general_music_news/i-choked-why-sammy-hagar-was-very-disappointed-in-his-own-performance-at-black-sabbaths-farewell-show",
+      "https://www.ultimate-guitar.com/news/general_music_news/dweezil-zappa-says-a-lot-of-people-have-given-wolfgang-van-halen-a-hard-time-for-no-reason-his-skill-set-is-very-high-quality",
+      "https://www.ultimate-guitar.com/news/general_music_news/all-of-a-sudden-people-are-paying-attention-to-me-this-guitarist-almost-got-to-be-ozzys-lead-ax-but-when-zakk-wylde-walked-into-the-room-it-was-all-over",
+      "https://www.ultimate-guitar.com/articles/features/why-were-the-80s-solo-efforts-by-led-zeppelin-members-so-underwhelming-181808",
+      "https://www.ultimate-guitar.com/news/gear/deliberate-distortion-do-not-correct-the-real-story-of-jimi-hendrix-and-probably-his-most-important-yet-inconsistent-piece-of-gear",
+      "https://www.ultimate-guitar.com/news/general_music_news/glenn-said-i-notice-youre-playing-other-peoples-stuff-the-time-richie-faulkner-got-politely-told-off-for-zakk-wylde-isms-in-judas-priest",
+      "https://www.ultimate-guitar.com/news/general_music_news/the-reality-of-david-ellefsons-relationship-with-dave-mustaine-its-never-really-me-and-him",
+      "https://www.ultimate-guitar.com/news/general_music_news/im-good-enough-to-inspire-you-just-not-good-enough-to-open-up-for-you-pantera-and-metallica-called-out-for-never-taking-this-band-on-tour"
     ]
   },
   "samsungcloud.tv": {
-    "lastAt": 1758036643338,
+    "lastAt": 1758388854232,
     "urls": []
   },
   "idnes.cz": {
-    "lastAt": 1758036655436,
+    "lastAt": 1758388865558,
     "urls": [
       "https://idnes.cz/"
     ]
   },
   "magazineluiza.com.br": {
-    "lastAt": 1758036657965,
+    "lastAt": 1758388868214,
     "urls": [
       "https://magazineluiza.com.br/"
     ]
   },
   "poki.com": {
-    "lastAt": 1758036670572,
+    "lastAt": 1758388875200,
     "urls": [
       "https://poki.com/en/minecraft",
       "https://poki.com/",
@@ -14713,21 +14783,31 @@
       "https://poki.com/en/tower-defense",
       "https://poki.com/en/io",
       "https://poki.com/en/idle",
-      "https://poki.com/en/arcade"
+      "https://poki.com/en/arcade",
+      "https://poki.com/en/sports",
+      "https://poki.com/en/racing",
+      "https://poki.com/en/action",
+      "https://poki.com/en/tractor",
+      "https://poki.com/en/flash",
+      "https://poki.com/en/girls",
+      "https://poki.com/en/adventure",
+      "https://poki.com/en/brain",
+      "https://poki.com/en/skill",
+      "https://poki.com/en/battleship"
     ]
   },
   "ameba.jp": {
-    "lastAt": 1758036672478,
+    "lastAt": 1758388878548,
     "urls": [
       "https://ameba.jp/"
     ]
   },
   "tiktokpangle.us": {
-    "lastAt": 1758040128866,
+    "lastAt": 1758388881844,
     "urls": []
   },
   "economist.com": {
-    "lastAt": 1758040130017,
+    "lastAt": 1758388882892,
     "urls": [
       "https://www.economist.com/audio-edition",
       "https://www.economist.com/get-the-app",
