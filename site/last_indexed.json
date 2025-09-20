@@ -9573,23 +9573,23 @@
     ]
   },
   "hihonorcloud.com": {
-    "lastAt": 1757996800648,
+    "lastAt": 1758349851147,
     "urls": [
       "https://hihonorcloud.com/"
     ]
   },
   "miwifi.com": {
-    "lastAt": 1757996807220,
+    "lastAt": 1758349858341,
     "urls": []
   },
   "discordapp.com": {
-    "lastAt": 1757996808526,
+    "lastAt": 1758349859564,
     "urls": [
       "https://discordapp.com/"
     ]
   },
   "bestbuy.com": {
-    "lastAt": 1757996858789,
+    "lastAt": 1758349927577,
     "urls": [
       "https://bestbuy.com/",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
@@ -9610,11 +9610,21 @@
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=7&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=4&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=6&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
-      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=11&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0102000&cp=2&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0102000&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=9&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=13&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=14&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=15&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=16&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=12&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories"
     ]
   },
   "mixpanel.com": {
-    "lastAt": 1757996866035,
+    "lastAt": 1758349933179,
     "urls": [
       "https://mixpanel.com/about/",
       "https://mixpanel.com/",
@@ -9635,29 +9645,39 @@
       "https://mixpanel.com/home/",
       "https://mixpanel.com/legal/app-store-privacy-details/",
       "https://mixpanel.com/legal/contact-us/",
-      "https://mixpanel.com/legal/cdpa/"
+      "https://mixpanel.com/legal/cdpa/",
+      "https://mixpanel.com/legal/dpa/",
+      "https://mixpanel.com/legal/marketing-privacy-notice/",
+      "https://mixpanel.com/legal/gen-ai-features/",
+      "https://mixpanel.com/legal/eu-data-residency/",
+      "https://mixpanel.com/legal/dpa-prior-to-sept-2024/",
+      "https://mixpanel.com/legal/mixpanel-gdpr/",
+      "https://mixpanel.com/legal/mixpanel-ccpa/",
+      "https://mixpanel.com/legal/mixpanel-hipaa/",
+      "https://mixpanel.com/legal/mixpanel-lgpd/",
+      "https://mixpanel.com/legal/mixpanel-pdpa/"
     ]
   },
   "contextweb.com": {
-    "lastAt": 1757996867336,
+    "lastAt": 1758349934056,
     "urls": [
       "https://contextweb.com/"
     ]
   },
   "xiaohongshu.com": {
-    "lastAt": 1757996868909,
+    "lastAt": 1758349936201,
     "urls": [
       "https://xiaohongshu.com/"
     ]
   },
   "webmd.com": {
-    "lastAt": 1757996871032,
+    "lastAt": 1758349937743,
     "urls": [
       "https://webmd.com/"
     ]
   },
   "google.cn": {
-    "lastAt": 1757996871769,
+    "lastAt": 1758349938694,
     "urls": [
       "https://www.google.com/intl/gl_es/gmail/about/policy/",
       "https://www.google.com/intl/gu_in/gmail/about/",
@@ -9672,11 +9692,11 @@
     ]
   },
   "everesttech.net": {
-    "lastAt": 1757996930582,
+    "lastAt": 1758349997504,
     "urls": []
   },
   "disqus.com": {
-    "lastAt": 1757996931403,
+    "lastAt": 1758349997815,
     "urls": [
       "https://disqus.com/platform/moderation/",
       "https://disqus.com/",
@@ -9692,11 +9712,11 @@
     ]
   },
   "perfectdomain.com": {
-    "lastAt": 1757996934554,
+    "lastAt": 1758350000761,
     "urls": []
   },
   "latimes.com": {
-    "lastAt": 1757996943068,
+    "lastAt": 1758350010003,
     "urls": [
       "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-walter-rothwell-19191025-story.html",
       "https://www.latimes.com/local/obituaries/archives/la-me-john-muir-19141225-story.html",
@@ -9717,11 +9737,21 @@
       "https://www.latimes.com/sports/angels/story/2025-09-14/angels-swept-mariners-10th-straight-losing-season",
       "https://www.latimes.com/sports/dodgers/story/2025-09-14/dodgers-giants-mookie-betts-teoscar-hernandez-recap",
       "https://www.latimes.com/entertainment-arts/tv/story/2025-09-15/best-and-worst-moments-of-the-2025-emmys",
-      "https://www.latimes.com/entertainment-arts/story/2025-09-14/noah-wyle-emmy-win-best-actor-drama"
+      "https://www.latimes.com/entertainment-arts/story/2025-09-14/noah-wyle-emmy-win-best-actor-drama",
+      "https://www.latimes.com/sports/story/2025-09-18/nfl-week-3-score-picks-predictions-odds",
+      "https://www.latimes.com/sports/angels/story/2025-09-17/angels-brewers-wednesday",
+      "https://www.latimes.com/entertainment-arts/story/2025-09-18/glen-hansard-and-marketa-irglova-swell-season-new-album-forward",
+      "https://www.latimes.com/sports/angels/story/2025-09-18/angels-brewers-seventh-straight-loss",
+      "https://www.latimes.com/sports/dodgers/story/2025-09-17/dodgers-phillies-wednesday",
+      "https://www.latimes.com/entertainment-arts/music/story/2025-09-19/deaf-grammy-winner-poet-evelyn-glennie-raymond-antrobus",
+      "https://www.latimes.com/lifestyle/story/2025-09-19/la-affairs-alexa-loftus-i-invited-an-ex-boyfriend-to-my-improv-show-it-did-not-go-well",
+      "https://www.latimes.com/business/story/2025-09-18/la-fi-silicon-valley-defense-pivot",
+      "https://www.latimes.com/lifestyle/story/2025-09-19/magic-castle-randy-pitchford-reorganization-plan-academy-of-magical-arts",
+      "https://www.latimes.com/sports/usc/story/2025-09-19/usc-vs-michigan-state-what-to-watch"
     ]
   },
   "datadoghq.com": {
-    "lastAt": 1757996945272,
+    "lastAt": 1758350011788,
     "urls": [
       "https://datadoghq.com/",
       "https://www.datadoghq.com/summit/london25/agenda/lunch/",
@@ -9742,15 +9772,25 @@
       "https://www.datadoghq.com/summit/london25/agenda/keynote_cost_efficiency/",
       "https://www.datadoghq.com/summit/london25/agenda/keynote_security/",
       "https://www.datadoghq.com/summit/london24/agenda/managing_a_complex_distributed_payment_system/",
-      "https://www.datadoghq.com/summit/london24/agenda/serving_up_customer_loyalty_one_dash_at_a_time/"
+      "https://www.datadoghq.com/summit/london24/agenda/serving_up_customer_loyalty_one_dash_at_a_time/",
+      "https://www.datadoghq.com/summit/london24/agenda/avivas_journey_to_carbon_net_zero/",
+      "https://www.datadoghq.com/summit/london25/agenda/natwest-boxed-journey-to-cloud-cost-efficiency/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_lseg_customer_centric/",
+      "https://www.datadoghq.com/summit/london24/agenda/what_is_an_anomaly/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_incident_response/",
+      "https://www.datadoghq.com/summit/london25/agenda/keynote_wtw_saas_journey/",
+      "https://www.datadoghq.com/product/sensitive-data-scanner/",
+      "https://www.datadoghq.com/product/audit-trail/",
+      "https://www.datadoghq.com/product/observability-pipelines/",
+      "https://www.datadoghq.com/product/data-jobs-monitoring/"
     ]
   },
   "fiverr.com": {
-    "lastAt": 1757996956213,
+    "lastAt": 1758350021709,
     "urls": []
   },
   "sagepub.com": {
-    "lastAt": 1757996959013,
+    "lastAt": 1758350025427,
     "urls": [
       "https://www.sagepub.com/journals/information-for-authors/submitting-your-manuscript",
       "https://www.sagepub.com/journals/information-for-reviewers/what-is-peer-review",
@@ -9771,28 +9811,40 @@
       "https://www.sagepub.com/journals/information-for-authors/preparing-your-manuscript/advance-a-sage-preprints-community",
       "https://www.sagepub.com/about/sage-policies/terms-and-conditions/use-of-sage-journals",
       "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/bv-sspa-agreement",
-      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/bibsam-ios-press-agreement"
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/bibsam-ios-press-agreement",
+      "https://www.sagepub.com/journals/information-for-reviewers/how-to-review-articles",
+      "https://www.sagepub.com/explore-our-content/press-office",
+      "https://www.sagepub.com/journals/information-for-societies-partners/marketing-strategies",
+      "https://www.sagepub.com/journals/information-for-librarians/open-access-institution-information",
+      "https://www.sagepub.com/about-us/our-impact/dei/lgbtqia-resources",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/necmettin-erbakan-university-neu",
+      "https://www.sagepub.com/journals/member-subscription/social-psychological-and-personality-science-for-arp-easp-sesp-and-spsp-members",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/czechelib",
+      "https://www.sagepub.com/journals/information-for-editors/publishing-special-issues",
+      "https://www.sagepub.com/explore-our-content/blogs/sage-perspectives/books-blogposts"
     ]
   },
   "shopee.com.br": {
-    "lastAt": 1757996959613,
+    "lastAt": 1758350025986,
     "urls": [
       "https://shopee.com.br/"
     ]
   },
   "amazon.in": {
-    "lastAt": 1757996965209,
-    "urls": []
+    "lastAt": 1758350028239,
+    "urls": [
+      "https://amazon.in/"
+    ]
   },
   "ipify.org": {
-    "lastAt": 1757996965896,
+    "lastAt": 1758350028964,
     "urls": [
       "https://www.ipify.org/",
       "https://ipify.org/"
     ]
   },
   "prnewswire.com": {
-    "lastAt": 1757996972500,
+    "lastAt": 1758350034051,
     "urls": [
       "https://www.prnewswire.com/resources/",
       "https://www.prnewswire.com/resources/case-studies/How-the-National-Association-of-REALTORS-Boosted-Earned-Media-and-Audience-Engagement-with-a-New-Content-Strategy/",
@@ -9813,11 +9865,21 @@
       "https://www.prnewswire.com/resources/case-studies/simmons-bank/",
       "https://www.prnewswire.com/resources/case-studies/how-two-pr-agencies-enhanced-their-press-release-strategy-and-boosted-engagement/",
       "https://www.prnewswire.com/resources/?sortCategory=quizzes",
-      "https://www.prnewswire.com/resources/?sortCategory=research-reports"
+      "https://www.prnewswire.com/resources/?sortCategory=research-reports",
+      "https://www.prnewswire.com/resources/success-stories/",
+      "https://www.prnewswire.com/resources/tip-sheets/anatomy-of-a-press-release/thank-you/",
+      "https://www.prnewswire.com/resources/tip-sheets/anatomy-of-a-press-release/",
+      "https://www.prnewswire.com/resources/tip-sheets/the-benefits-of-guaranteed-paid-placement/",
+      "https://www.prnewswire.com/resources/?sortCategory=tip-sheets",
+      "https://www.prnewswire.com/resources/tip-sheets/2024-state-of-the-press-release-report-by-numbers/",
+      "https://www.prnewswire.com/resources/tip-sheets/the-benefits-of-guaranteed-paid-placement/thank-you/",
+      "https://www.prnewswire.com/resources/tip-sheets/2024-state-of-the-press-release-report-by-numbers/thank-you/",
+      "https://www.prnewswire.com/resources/tip-sheets/how-to-write-press-release-four-easy-steps/",
+      "https://www.prnewswire.com/resources/tip-sheets/how-to-write-press-release-four-easy-steps/thank-you/"
     ]
   },
   "rakuten.com": {
-    "lastAt": 1757996975900,
+    "lastAt": 1758350038782,
     "urls": [
       "https://www.rakuten.com/",
       "https://www.rakuten.com/shop/reissonline",
@@ -9838,11 +9900,21 @@
       "https://www.rakuten.com/help/password",
       "https://www.rakuten.com/help/category/more-features-31315401553811",
       "https://www.rakuten.com/shop/newbalance",
-      "https://www.rakuten.com/shop/shutterfly"
+      "https://www.rakuten.com/shop/shutterfly",
+      "https://www.rakuten.com/shop/reebok",
+      "https://www.rakuten.com/shop/keenfootwear.com",
+      "https://www.rakuten.com/shop/macys",
+      "https://www.rakuten.com/shop/championusa",
+      "https://www.rakuten.com/shop/bonobos",
+      "https://www.rakuten.com/home-garden/outdoor-decor-furniture",
+      "https://www.rakuten.com/shop/vans",
+      "https://www.rakuten.com/shop/rest",
+      "https://www.rakuten.com/shop/indochino",
+      "https://www.rakuten.com/july-4th-sale/store/reebok.com"
     ]
   },
   "nbcnews.com": {
-    "lastAt": 1757996982187,
+    "lastAt": 1758350044216,
     "urls": [
       "https://nbcnews.com/",
       "https://www.nbcnews.com/select/shopping/shark-air-purifier-max-deal-of-the-day-2025-rcna230699",
@@ -9861,43 +9933,52 @@
       "https://www.nbcnews.com/select/shopping/fall-sweaters-from-amazon-rcna231317",
       "https://www.nbcnews.com/select/shopping/best-fresh-dog-food-rcna205810",
       "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
-      "https://www.nbcnews.com/select/shopping/apple-ipad-air-m3-deal-of-the-day-september-2025-rcna231414"
+      "https://www.nbcnews.com/select/shopping/apple-ipad-air-m3-deal-of-the-day-september-2025-rcna231414",
+      "https://www.nbcnews.com/now/video/protesters-hit-with-tear-gas-outside-illinois-ice-facility-247986757812",
+      "https://www.nbcnews.com/video/shorts/cdc-panel-votes-to-limit-who-is-eligible-covid-vaccine-247988805772",
+      "https://www.nbcnews.com/video/shorts/the-fight-to-be-the-fastest-wiener-dog-in-cincinnati-247990341531",
+      "https://www.nbcnews.com/video/gen-z-choosing-trade-schools-over-college-247985733758",
+      "https://www.nbcnews.com/video/texas-a-m-president-resigns-over-viral-video-on-gender-identity-lesson-247987781595",
+      "https://www.nbcnews.com/video/shorts/-plant-bandit-targets-bay-area-neighborhood-247984197777",
+      "https://www.nbcnews.com/video/aoc-speaks-on-charlie-kirk-resolution-247981125840",
+      "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-september-19th-247984197620",
+      "https://www.nbcnews.com/video/artists-struggle-to-break-through-to-listeners-as-streaming-platforms-offer-100m-songs-247975493873"
     ]
   },
   "curseforge.com": {
-    "lastAt": 1757996983571,
+    "lastAt": 1758350045617,
     "urls": [
       "https://curseforge.com/"
     ]
   },
   "life360.com": {
-    "lastAt": 1757996987266,
+    "lastAt": 1758350048635,
     "urls": []
   },
   "a-mo.net": {
-    "lastAt": 1757996988995,
+    "lastAt": 1758350049786,
     "urls": [
       "https://a-mo.net/"
     ]
   },
   "criteo.net": {
-    "lastAt": 1757996992773,
+    "lastAt": 1758350053174,
     "urls": []
   },
   "amazon.es": {
-    "lastAt": 1757996998580,
+    "lastAt": 1758350057745,
     "urls": []
   },
   "iso.org": {
-    "lastAt": 1757997003664,
+    "lastAt": 1758350062232,
     "urls": []
   },
   "turn.com": {
-    "lastAt": 1758000076603,
+    "lastAt": 1758350065135,
     "urls": []
   },
   "omnitagjs.com": {
-    "lastAt": 1758000079626,
+    "lastAt": 1758350068265,
     "urls": []
   },
   "amazon.it": {
