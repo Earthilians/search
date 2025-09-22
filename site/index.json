@@ -171673,5 +171673,481 @@
     "title": "Alton Adams",
     "description": "Alton is the National Lead for the Customer Strategy and Growth Group within KPMG’s US Management Co",
     "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nPrincipal and US Lea"
+  },
+  {
+    "id": "5a9592c1cbccc1d5ffa1f5d359c7c573b0726cbd",
+    "url": "https://www.tbank.ru/bank/help/register-gosuslugi/",
+    "title": "Как зарегистрироваться на госуслугах",
+    "description": "Как зарегистрироваться на портале «Госуслуги» через сайт Тинькофф. Как узнать свой единый лицевой сч",
+    "text": "Чтобы поменять паспорт, зарегистрировать машину и проверять долги через интернет.\nОформляйте докумен"
+  },
+  {
+    "id": "1c0f44f0e6f0d4d261f30f812696e1724e207351",
+    "url": "https://www.tbank.ru/business/help/procurement/personal-account/",
+    "title": "Что есть в личном кабинете «Мои госзакупки» от Тинькофф",
+    "description": "Кто может пользоваться личным кабинетом «Мои госзакупки». Какие инструменты есть для работы с закупк",
+    "text": "«Мои госзакупки» — это единый личный кабинет для участия в торгах госконтрактами. В нем можно пройти"
+  },
+  {
+    "id": "9c9e5f7f15983885a52240307054ccff80043ff3",
+    "url": "https://www.tbank.ru/bank/help/push/",
+    "title": "Т‑Банк",
+    "description": "Т‑Банк",
+    "text": "Мы вернули возможность получать пуш‑уведомления, как раньше. Теперь их можно подключить через ярлык "
+  },
+  {
+    "id": "1a3d78c71b456f04a57282d08d8f4dd76d2c0241",
+    "url": "https://www.tbank.ru/bank/help/payments/transfers/another-bank/rb-pull/",
+    "title": "Как устроены денежные переводы через Т⁠-⁠Банк по России",
+    "description": "Какие условия денежных переводов по России. Как перевести деньги по номеру телефона, карты, QR⁠-⁠код",
+    "text": "Оформите карту Black и переводите деньги без комиссии"
+  },
+  {
+    "id": "c8e30f470ca99e98b0fcdda3ff69a694fb44ad86",
+    "url": "https://www.tbank.ru/bank/help/payments/transfers/another-bank/sbp/",
+    "title": "Как перевести деньги из Сбера в Т‑Банк (ex‑Тинькофф) через СБП без комиссии",
+    "description": "Как переводить деньги из Сбера в Т‑Банк без комиссии. Какой лимит бесплатных переводов через СБП. Ка",
+    "text": "Для этого отправьте деньги через СБП: так можно без комиссии переводить самому себе в любой банк до "
+  },
+  {
+    "id": "504df8f64ceba361a39bb06ae8afc2195552dbc2",
+    "url": "https://www.tbank.ru/bank/help/payments/transfers/another-bank/otkr-pull/",
+    "title": "Как перевести деньги со счета в Т⁠-⁠Банке",
+    "description": "Как переводить деньги на карту или банковский счет. Как делать переводы по номеру телефона. Можно ли",
+    "text": "Оформите карту Black и переводите деньги без комиссии"
+  },
+  {
+    "id": "9f623389e5e66cfa52f835eb8201d24183315cce",
+    "url": "https://www.tbank.ru/bank/help/payments/transfers/sbp-turn-on/",
+    "title": "Как получать денежные переводы через Систему быстрых платежей",
+    "description": "Зачем подключать Систему быстрых платежей. Как получать мгновенные денежные переводы по номеру телеф",
+    "text": "Чтобы получать мгновенные денежные переводы по номеру телефона от клиентов более чем 100 российских "
+  },
+  {
+    "id": "67012561e61dea723a53af01713dc4f47af7ec7b",
+    "url": "https://www.tbank.ru/invest/help/terminal-diagnostics/",
+    "title": "Что такое торговый терминал в инвестициях",
+    "description": "Как устроен торговый терминал в инвестициях. Как выбрать активы для биржевой торговли и работать с г",
+    "text": "Начните пользоваться Терминалом сейчас\nИнтерфейс можно настроить под свои нужды: технический анализ,"
+  },
+  {
+    "id": "5242a8fd59d279698cacfa3130da58ecf6489c75",
+    "url": "https://www.tbank.ru/bank/help/credit-cards/tinkoff-platinum/balance-transfer/",
+    "title": "Погасить кредитной картой кредит в другом банке",
+    "description": "В чем преимущества погашения кредита в другом банке кредитной картой Т⁠-⁠Банка. Как 120 дней не плат",
+    "text": "Оформите кредитку Платинум\nПривезем карту в течение 1—3 дней"
+  },
+  {
+    "id": "5ff10f63b1a22a7d8817e244b89d9b196d4c8529",
+    "url": "https://www.primis.tech/resources/blogs/primis-launches-audience-extension-additional-revenue-streams/",
+    "title": "Primis Launches Audience Extension, Enabling Additional Revenue Streams | primis",
+    "description": "With Priimis Audience Extension, publishers can spread their surplus demand across the Primis networ",
+    "text": "We are excited to announce the launch of Audience Extension, catering to Primis publishers, syndicat"
+  },
+  {
+    "id": "1a7ec5ad5a699f647265c815b077abd57ee0a14b",
+    "url": "https://www.primis.tech/resources/blogs/primis-launches-contextual-targeting-video-advertising/",
+    "title": "Primis Launches Contextual Targeting For Video Advertising | primis",
+    "description": "We are proud to announce a new contextual targeting technology for promoting video content discovery",
+    "text": "At a time when many advertisers, agencies, and publishers are looking for privacy-friendly alternati"
+  },
+  {
+    "id": "8cdb6d6232befb6952bda26a65efcd455bb872f9",
+    "url": "https://www.primis.tech/resources/blogs/usa-today-partners-with-primis/",
+    "title": "USA Today Partners With Primis for Content Syndication | primis",
+    "description": "We're proud to announce our new partnership with USA Today. Their content is now available to all ou",
+    "text": "We’re proud to announce our new partnership with USA Today. Our Video Discovery platform, part of Un"
+  },
+  {
+    "id": "7994989c4e06fa2d0e13613321028248f6b3ebbb",
+    "url": "https://www.primis.tech/resources/blogs/primis-tag-anti-fraud-certification-fourth-year/",
+    "title": "Primis Earns TAG Anti-Fraud Certification for Fourth Year in a Row | primis",
+    "description": "Primis is happy to announce we received Anti-Fraud Certification from the Trustworthy Accountability",
+    "text": "We are delighted to announce that we received the coveted Certified Against Fraud Seal from the Trus"
+  },
+  {
+    "id": "17d62690536fa77094710b153d238af818a3012c",
+    "url": "https://www.primis.tech/resources/blogs/primis-receives-mcm-multiple-customer-management-approval-google/",
+    "title": "Primis Receives MCM (Multiple Customer Management) Approval From Google | primis",
+    "description": "Primis received Google's approval to partner in their new Multiple Customer Management (MCM) program",
+    "text": "It’s another proud moment for us at Primis, as we received Google’s approval to partner in their new"
+  },
+  {
+    "id": "d4094544a9c4fc2cf3bb2192beadb2dccae8f3da",
+    "url": "https://www.primis.tech/resources/blogs/ads-txt-got-complicated-new-primis-technology/",
+    "title": "Ads.txt Got Too Complicated: New Primis Solution | primis",
+    "description": "Primis and Sellers.guide worked on a technology solution to improve ads.txt. Read the article that a",
+    "text": "This article was originally published in AdExchanger on May 11th, 2021.\nWritten by Sarah Sluis on he"
+  },
+  {
+    "id": "4771dc92addf443fc6729eb9a2ceab42af3db379",
+    "url": "https://www.primis.tech/resources/blogs/expansion-of-net15-payment-initiative/",
+    "title": "Primis Announces Expansion of Its Net15 Payment Initiative | primis",
+    "description": "We are extending our Net15 payment initiative to the end of 2021. Providing additional liquidity thr",
+    "text": "We are pleased to announce our commitment to extending our Net15 payment initiative through the end "
+  },
+  {
+    "id": "1bcdb36aa226f238fc7e21213a0952e80779f69d",
+    "url": "https://www.primis.tech/resources/blogs/8-estrategias-de-monetizacion-para-publishers-digitales/",
+    "title": "Cómo Monetizar Un Sitio Web: 8 Estrategias De Monetización Para Publishers Digitales | primis",
+    "description": "Como publisher, puede ser abrumador decidir cómo monetizar una página web. Aquí repasamos ocho métod",
+    "text": "Como publisher, decidir la forma de monetizar un sitio web puede ser algo abrumador. Aquí repasamos "
+  },
+  {
+    "id": "5f8941c7c96413f0a7cbd4b3e813cef78eb4d0b1",
+    "url": "https://www.primis.tech/resources/blogs/todo-lo-que-debes-saber-sobre-sellers-json/",
+    "title": "Todo Lo Que Debes Saber Sobre Sellers.json | primis",
+    "description": "Los mayores compradores de publicidad anunciaron que se unirán a la iniciativa Sellers.json, que pro",
+    "text": "Los anunciantes quieren confiar en que están maximizando el valor de cada dólar que invierten en los"
+  },
+  {
+    "id": "02f66d2500ea60c946a0070038e26ec515a7a6c9",
+    "url": "https://www.primis.tech/resources/blogs/glosario-de-publicidad-en-video/",
+    "title": "Glosario De Publicidad En Video | primis",
+    "description": "Con el interés de lograr que los términos de monetización de videos sean más accesibles para publish",
+    "text": "Como en todas las industrias, la publicidad digital en video tiene una jerga abundante. Es una gran "
+  },
+  {
+    "id": "4ba14da46f93d584c46197335d3d5503323d9006",
+    "url": "https://www.logitech.com/es-ar/shop/p/k400-plus-touchpad-keyboard",
+    "title": "Teclado Logitech K400 Plus con touchpad para TV conectada a PC",
+    "description": "Descubre el teclado K400 Plus con touchpad. Con un trackpad integrado, duración de baterías prolonga",
+    "text": "El K400 es un silencioso teclado fácil de usar, con un touchpad integrado y todas las teclas de acce"
+  },
+  {
+    "id": "74758036cabd23407061e9edbdbe22656bb0fc52",
+    "url": "https://www.logitech.com/es-ar/shop/p/g413-tkl-se-gaming-keyboard",
+    "title": "Teclado mecánico G413 TKL SE para juegos | Logitech G",
+    "description": "Descubre el teclado G413 TKL SE para juegos. Con interruptores mecánicos táctiles, cubierta superior",
+    "text": "Huella de carbono: 31.6 kg CO2e\nDimensiones\nEspecificaciones técnicas\nRequisitos del sistema\nInforma"
+  },
+  {
+    "id": "ca36b468626f0058ad766e956cf7bc82750bd6b2",
+    "url": "https://www.logitech.com/es-ar/shop/p/g413-se-gaming-keyboard",
+    "title": "Teclado mecánico G413 SE para juegos | Logitech G",
+    "description": "Descubre el teclado G413 SE para juegos. Con interruptores mecánicos táctiles, cubierta superior met",
+    "text": "Huella de carbono: 31.6 kg CO2e\nDimensiones\nEspecificaciones técnicas\nRequisitos del sistema\nInforma"
+  },
+  {
+    "id": "02a5dc99acb1cf0fa65f52eb40b9b3277215f3ae",
+    "url": "https://www.logitech.com/es-ar/shop/p/g713-tkl-mechanical-gaming-keyboard",
+    "title": "Teclado mecánico G713 TKL para juegos con RGB | Logitech G",
+    "description": "Descubrir el teclado G713 para juegos Con un compacto diseño TKL, reposamanos, RGB, iluminación peri",
+    "text": "De The Aurora Collection, el G713 es un teclado con cable, compacto, sin sección numérica, diseñado "
+  },
+  {
+    "id": "ddaecd7e229902621f298f4e8216ebc7d759dbcd",
+    "url": "https://www.logitech.com/es-ar/shop/p/g815-low-profile-rgb-mechanical-gaming-keyboard",
+    "title": "Teclado mecánico RGB LIGHTSYNC Logitech G815 para juegos",
+    "description": "Comprar G815. Incluye LIGHTSYNC RGB personalizable, carcasa superior de aleación de aluminio, 5 tecl",
+    "text": "Lo último en tecnología de juegos. Diseño ultrafino. RGB LIGHTSYNC y teclas G específicas. Diseñado "
+  },
+  {
+    "id": "a7e48f9901bdd0fe33abb16317aea0e7355c0392",
+    "url": "https://www.logitech.com/es-ar/shop/p/g213-rgb-gaming-keyboard",
+    "title": "Logitech G213 Prodigy Teclado para juegos con iluminación RGB y Anti-Ghosting",
+    "description": "Descubre el teclado G213 para juegos. Diseño resistente a salpicaduras, iluminación RGB programable,",
+    "text": "Durabilidad apta para los requisitos de los videojuegos. Los interruptores de tecla Mech-Dome táctil"
+  },
+  {
+    "id": "216936c09074bb73cad384c5a39ef12a2da86808",
+    "url": "https://www.logitech.com/es-ar/shop/c/mice",
+    "title": "Mouse para computadora - Mouse inalámbrico, Bluetooth, Con cable | Logitech",
+    "description": "Descubre mouse inalámbricos y con cable. Visita Logitech y encuentra el mouse perfecto, con cable o ",
+    "text": "Descubre ratones inalámbricos y con cable. Elige entre la gama de productos Bluetooth®, Performance,"
+  },
+  {
+    "id": "8d0cd8a6c22d4cac4ba32f64f695beb3e14edbc3",
+    "url": "https://www.logitech.com/es-ar/shop/p/g513-backlit-mechanical-gaming-keyboard",
+    "title": "Teclado mecánico con retroiluminación Logitech G513 para juego",
+    "description": "Descubre el teclado mecánico G513 para juegos. Diseñado para juegos de precisión con opciones de int",
+    "text": "Teclado para juegos avanzados con interruptores mecánicos GX a elegir. El reposamanos extraíble de e"
+  },
+  {
+    "id": "619b6bbf5233ed8909c5e79b2389d0df9c064f62",
+    "url": "https://www.logitech.com/es-ar/shop/p/mx-master-3s",
+    "title": "Mouse inalámbrico MX Master 3s - Sensor óptico 8K | Logitech",
+    "description": "Descubre el mouse inalámbrico MX Master 3s. Con seguimiento de precisión, botones de click silencios",
+    "text": "Huella de carbono: 7.78 kg CO2e\nDimensiones\nEspecificaciones técnicas\nRequisitos del sistema\nInforma"
+  },
+  {
+    "id": "3ff2fa1653d0b33afd45342fa34deb3c5d78f886",
+    "url": "https://www.logitech.com/es-ar/shop/p/mx-anywhere-3s",
+    "title": "Comprar mouse inalámbrico Bluetooth MX Anywhere 3S | Logitech",
+    "description": "Descubre MX Anywhere 3S. Cuenta con un sensor de 8.000 DPI, clicks discretos, seguimiento en cualqui",
+    "text": "Huella de carbono: 3.44 kg CO2e\nDimensiones\nEspecificaciones técnicas\nRequisitos del sistema\nInforma"
+  },
+  {
+    "id": "a43ac7d8c770463f528920013b0ae916dd6ebe49",
+    "url": "https://www.wunderground.com/forecast/mx/tijuana",
+    "title": "Tijuana, Mexico 10-Day Weather Forecast | Weather Underground",
+    "description": "Tijuana Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weathe",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "6fe86c3313bbdd945e317347f9043c976da5107e",
+    "url": "https://www.wunderground.com/forecast/ca/quebec-city",
+    "title": "Quebec City, Canada 10-Day Weather Forecast | Weather Underground",
+    "description": "Quebec City Weather Forecasts. Weather Underground provides local & long-range weather forecasts, we",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "02da07b2071bac124e0269f132321fbd78d63c3c",
+    "url": "https://www.wunderground.com/forecast/ca/toronto",
+    "title": "Toronto, Canada 10-Day Weather Forecast | Weather Underground",
+    "description": "Toronto Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weathe",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "7379952b5685c4b4f935547e79a5d88395274698",
+    "url": "https://www.wunderground.com/forecast/nl/amsterdam",
+    "title": "Amsterdam, Netherlands 10-Day Weather Forecast | Weather Underground",
+    "description": "Amsterdam Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weat",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "dd8191cbb3f799a5ea5397aa5f9957abaa95fbba",
+    "url": "https://www.wunderground.com/forecast/mk/skopje",
+    "title": "Skopje, North Macedonia 10-Day Weather Forecast | Weather Underground",
+    "description": "Skopje Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weather",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "6bbab193ef341bc6723523207ca50d716c6ced02",
+    "url": "https://www.wunderground.com/forecast/de/munich",
+    "title": "Munich, Germany 10-Day Weather Forecast | Weather Underground",
+    "description": "Munich Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weather",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "9ae6c090d37ef3dcb27e3ebee8812c012c47f9eb",
+    "url": "https://www.wunderground.com/forecast/ca/calgary",
+    "title": "Calgary, Canada 10-Day Weather Forecast | Weather Underground",
+    "description": "Calgary Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weathe",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "a58a55f79d861dad7eb169bab3cc8c2b9184b0fc",
+    "url": "https://www.wunderground.com/forecast/ca/halifax",
+    "title": "Halifax, Canada 10-Day Weather Forecast | Weather Underground",
+    "description": "Halifax Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weathe",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "40be730c5ca332aecbc0d5918cff26d1b39486b7",
+    "url": "https://www.wunderground.com/forecast/bg/sofia",
+    "title": "Sofia, Bulgaria 10-Day Weather Forecast | Weather Underground",
+    "description": "Sofia Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weatherr",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "6155a6c918a7da04a7dfd5595b51f90ff2771406",
+    "url": "https://www.wunderground.com/forecast/ca/whistler",
+    "title": "Whistler, Canada 10-Day Weather Forecast | Weather Underground",
+    "description": "Whistler Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weath",
+    "text": "Thank you for reporting this station. We will review the data in question.\nYou are about to report t"
+  },
+  {
+    "id": "9e53ec654153988d450f8b2aaad19a97efea3c51",
+    "url": "https://www.eskimi.com/verification/sign-up-form",
+    "title": "Sign Up Form Verification",
+    "description": "",
+    "text": "We will reach out within a few working days!\nCopyright © 2022 Eskimi DSPAll rights reserved"
+  },
+  {
+    "id": "47006bec76dce6475d3441eee3a4435acf82ca94",
+    "url": "https://www.eskimi.com/form-submission-success/sign-up-form-successfully-submitted-social",
+    "title": "Eskimi is not a social network",
+    "description": "",
+    "text": "Now Eskimi is an advertising platform that reaches 1,5B+ profiled users worldwide. Get in touch with"
+  },
+  {
+    "id": "45d6a22b87813b6a128fe0a2ff1ed8ea8650b181",
+    "url": "https://www.eskimi.com/targeting",
+    "title": "Targeting users by Powerful Behaviour, Placement, Tech, and Demographic options",
+    "description": "Divide the audience into segments by interests, locations, devices, telco data, and more for maximum",
+    "text": "Reach your ideal customers and connect effectively with precision targeting across advanced custom a"
+  },
+  {
+    "id": "ed15d1292c7c9e36a533604c069055bc459acc48",
+    "url": "https://www.eskimi.com/telco",
+    "title": "Telco Audience Targeting - Beat Telco Wars with Eskimi",
+    "description": "Every detail counts when you’re tracking campaign performance. Target telco users based on the devic",
+    "text": "Personalize your ads, win back lost customers, and acquire new SIMS using advanced Telco data target"
+  },
+  {
+    "id": "61542d6925aca6f4353574a76f09bfbb69a6f150",
+    "url": "https://www.eskimi.com/form-submission-success/sign-up-form-successfully-submitted",
+    "title": "Sign Up Form Successfully Submited",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "99a34f50e9437c52a016c7ea545a3d40bb4f6a01",
+    "url": "https://www.eskimi.com/form-submission-success/webinar-form-successfully-submitted",
+    "title": "Webinar Form Successfully Submitted",
+    "description": "",
+    "text": "You'll receive a confirmation email shortly!‍Please check your inbox one day before the webinar, for"
+  },
+  {
+    "id": "ef2dedbc48bf6dd2e003e361185bbe62052b9376",
+    "url": "https://www.eskimi.com/contextual",
+    "title": "Eskimi contextual targeting",
+    "description": "Target your audience programmatically with innovative contextual ads, advanced targeting solutions, ",
+    "text": "Navigate around a changing landscape and deliver effective contextual ads with advanced targeting. F"
+  },
+  {
+    "id": "558aa6d6be864dcfb83a353cf9d2c154f4336f8b",
+    "url": "https://www.eskimi.com/performance",
+    "title": "Performance Branding Platform",
+    "description": "Eskimi is an AdTech platform that helps brands and agencies to conduct programmatic advertising camp",
+    "text": "We help agencies and brands plan, execute, and optimize high-performing ad campaigns with engaging c"
+  },
+  {
+    "id": "6c0e1b3dcdb34844078059ac97824c2b1fc77600",
+    "url": "https://www.eskimi.com/backup-home",
+    "title": "Backup Home",
+    "description": "Eskimi is an AdTech platform that helps brands and agencies to conduct programmatic advertising camp",
+    "text": "We help agencies and brands plan, execute, and optimize high-performing ad campaigns with engaging c"
+  },
+  {
+    "id": "149a9be3e2030a11613e4248e507b46807a316e7",
+    "url": "https://www.eskimi.com/privacy-policy",
+    "title": "Privacy Policy",
+    "description": "To know more about what information is collected via platform and website, what legal basis for data",
+    "text": ""
+  },
+  {
+    "id": "0f11f95e9ebcc1e71db9db974825815e144e51a0",
+    "url": "https://www.maricopa.gov/4132/Report",
+    "title": "Report | Maricopa County, AZ",
+    "description": "",
+    "text": "Have a question, concern, comment, or pressing complaint to make? Fill out and submit one of our for"
+  },
+  {
+    "id": "ee017545bb41bac3ff320ca548d41dac462de4c6",
+    "url": "https://www.maricopa.gov/6085/Submit-an-InquiryComplaint",
+    "title": "Permit Inquiries and Complaints | Maricopa County, AZ",
+    "description": "",
+    "text": "Report Your Concern\nReport Your Concern\nReport Your Concern\nReport Your Concern\nReport Your Concern\n"
+  },
+  {
+    "id": "8c9e42f34ffd7ee026320902d2dda73970773250",
+    "url": "https://www.maricopa.gov/5774/Maricopa-County-Rescue-Service-Programs",
+    "title": "Maricopa County Assistance Programs | Maricopa County, AZ",
+    "description": "Maricopa County is helping its residents get back on their feet after the pandemic through assistanc",
+    "text": "Victim Support Services\nFood Banks\nFood Assistance Programs\nSchool Closure Feeding Sites\nBurial or C"
+  },
+  {
+    "id": "a65804862582f85cf1f14420bf49d67e0780f0e3",
+    "url": "https://www.maricopa.gov/4131/Pay",
+    "title": "Pay Your Bills | Maricopa County, AZ",
+    "description": "",
+    "text": "If attending an event, contact the Americans with Disabilities Act (ADA) Compliance Program at least"
+  },
+  {
+    "id": "af60780edbfe9e2b2db8a1a1ba8c06052c14d05b",
+    "url": "https://www.maricopa.gov/5773/Assistance-Programs",
+    "title": "Maricopa Cares Programs | Maricopa County, AZ",
+    "description": "With the help of American Rescue Act Funds, Maricopa County is providing individuals and communities",
+    "text": "MaricopaCARES\nWith the help of American Rescue Act Funds, Maricopa County is providing individuals a"
+  },
+  {
+    "id": "fcdf15289f3c484c4f278c94d507b830be8b5d1c",
+    "url": "https://www.maricopa.gov/3272/Sheriffs-Office---Comments-Complaints",
+    "title": "Sheriff's Office - Comments / Complaints | Maricopa County, AZ",
+    "description": "Have a question, concern, comment, or pressing complaint to make? Fill out and submit one of our for",
+    "text": "If attending an event, contact the Americans with Disabilities Act (ADA) Compliance Program at least"
+  },
+  {
+    "id": "228764275d510c0070909051bc3a7ad8be478942",
+    "url": "https://www.maricopa.gov/5728/ADA-Accommodations",
+    "title": "ADA Compliance | Maricopa County, AZ",
+    "description": "The ADA prohibits discrimination on the basis of disability. Under the law, Maricopa County must ens",
+    "text": "In accordance with the requirements of title II of the Americans with Disabilities Act of 1990 (ADA)"
+  },
+  {
+    "id": "d7832a0f81b4139b38d6daf67852da4be7d6ee9c",
+    "url": "https://www.maricopa.gov/4134/Request",
+    "title": "Request | Maricopa County, AZ",
+    "description": "",
+    "text": "The ADA prohibits discrimination on the basis of disability. Under the law, Maricopa County must ens"
+  },
+  {
+    "id": "6ee65ac28d406db77ed3574a70f35a0faf99f06a",
+    "url": "https://www.maricopa.gov/5731/Grievance-Procedure",
+    "title": "Grievance Procedure  | Maricopa County, AZ",
+    "description": "This Grievance Procedure is established to meet the requirements of the Americans with Disabilities ",
+    "text": "This Grievance Procedure is established to meet the requirements of the Americans with Disabilities "
+  },
+  {
+    "id": "45255124639404b8968bbd1ef20fa4f616aa9297",
+    "url": "https://www.maricopa.gov/4214/Public-Records",
+    "title": "Public Records Request | Maricopa County, AZ",
+    "description": "Public Records Request page that displays links to various public records subjects and county depart",
+    "text": "Welcome to the Public Records Request page. We want to help you submit a request to the correct depa"
+  },
+  {
+    "id": "b0a0d2a865b0b88fb02e91fd291284343c798f0d",
+    "url": "https://www.mparticle.com/category/company/",
+    "title": "Company - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nmParticle Q4 Product Innovations\nDelivering AI-Powered Precision in CTV: How mParticle Driv"
+  },
+  {
+    "id": "3ef02b2c49d122c13cc76a66ca870b36b872da07",
+    "url": "https://www.mparticle.com/category/guide/",
+    "title": "Guide - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nDigital in-store marketing with Profile API\nWin back at-risk customers\nThe complete guide t"
+  },
+  {
+    "id": "433161a357dec7815034c474733a7708d44ac7cb",
+    "url": "https://www.mparticle.com/category/engineering/",
+    "title": "Engineering - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nKinesis vs. Kafka: Comparing performance, features, and cost\nWhat the heck is reverse ETL?\n"
+  },
+  {
+    "id": "3f1d14a206b620d8cbd85a30a8fd84ed93bccd70",
+    "url": "https://www.mparticle.com/category/growth/",
+    "title": "Growth - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nHow a Fortune 500 QSR Lifted Upsell Conversions by 30% with Predictive Insights\nCustomer En"
+  },
+  {
+    "id": "ad8f2f9884e5332ca6cfc815206ced35abd55db8",
+    "url": "https://www.mparticle.com/category/media-coverage/",
+    "title": "Media Coverage - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nQSR Magazine: How Restaurants are Building Loyalty with a Better Digital Experience\nMarley "
+  },
+  {
+    "id": "c9541d5921f4db4741b2dbbee6e2c4ba15fb31de",
+    "url": "https://www.mparticle.com/category/product/",
+    "title": "Product - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nBuild customer trust with the mParticle Didomi integration\nTurn customer journey insights i"
+  },
+  {
+    "id": "c823037f585b07c03ebe72699f7c081c8f0ea447",
+    "url": "https://www.mparticle.com/category/video/",
+    "title": "Video - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nBuild Predictive Audiences with mParticle\nOn Demand: Flexible Data Activation with mParticl"
+  },
+  {
+    "id": "c7b23e35d97ee3e8c46032f67ace365010b70524",
+    "url": "https://www.mparticle.com/category/press-release/",
+    "title": "Press Release - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nRokt and mParticle Merge to Redefine Real-Time Relevance\nmParticle Launches ComposeID, Iden"
+  },
+  {
+    "id": "ff14b750812d7438bc19912cb3a5e44d506fbac6",
+    "url": "https://www.mparticle.com/category/webinar/",
+    "title": "Webinar - mParticle",
+    "description": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, ",
+    "text": "Category\nOn Demand: Fireside chat with mParticle's new Chief Product Officer, Jason Lynn\nOn Demand: "
   }
 ]
