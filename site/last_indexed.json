@@ -34981,7 +34981,7 @@
     ]
   },
   "permutive.com": {
-    "lastAt": 1758215968607,
+    "lastAt": 1758572681063,
     "urls": [
       "https://permutive.com/",
       "http://permutive.com/how-publishers-can-reclaim-their-rightful-place-in-the-advertising-contract",
@@ -35002,21 +35002,31 @@
       "http://permutive.com/identity-crisis-first-party-data-and-beyond",
       "http://permutive.com/why-the-end-of-third-party-cookies-is-good-news-for-marketers",
       "http://permutive.com/why-seasonal-targeting-requires-publishers-insight",
-      "http://permutive.com/how-bauer-is-disrupting-the-way-its-media-is-bought-and-sold"
+      "http://permutive.com/how-bauer-is-disrupting-the-way-its-media-is-bought-and-sold",
+      "http://permutive.com/first-party-data-offers-brands-and-publishers-a-compelling-consumer-snapshot",
+      "http://permutive.com/publishers-prove-the-value-of-their-first-party-data-to-us-agency-leaders",
+      "http://permutive.com/insider-inc-future-plc-and-permutive-discuss-the-challenges-and-opportunities-for-publishers",
+      "http://permutive.com/publishers-first-party-data-has-a-positive-impact-on-brand-metrics",
+      "http://permutive.com/first-party-data-heralds-a-new-dawn-for-advertiser-relationships-with-publishers",
+      "http://permutive.com/how-publishers-first-party-data-is-reshaping-advertising",
+      "http://permutive.com/cohorts-and-consented-data-for-a-post-cookie-future",
+      "http://permutive.com/leaked-document-revealing-facebook-data-flaws",
+      "http://permutive.com/the-drive-to-first-party-data",
+      "http://permutive.com/permutive-brings-publishers-brands-and-adtech-together-to-deliver-responsible-advertising"
     ]
   },
   "windy.com": {
-    "lastAt": 1758215969330,
+    "lastAt": 1758572681696,
     "urls": [
       "https://windy.com/"
     ]
   },
   "thehill.com": {
-    "lastAt": 1758215981013,
+    "lastAt": 1758572686584,
     "urls": []
   },
   "cpanel.com": {
-    "lastAt": 1758215985626,
+    "lastAt": 1758572689471,
     "urls": [
       "https://www.cpanel.net/blog/products/blocking-attacks-with-easyapache-4s-mod_evasive/",
       "https://www.cpanel.net/blog/products/coming-very-soon-dnsonly-server-licenses/",
@@ -35037,11 +35047,21 @@
       "https://www.cpanel.net/blog/products/using-softaculous-with-cpanel/",
       "https://www.cpanel.net/blog/tips-and-tricks/keeping-your-cms-safe-and-secure/",
       "https://www.cpanel.net/blog/tips-and-tricks/my-website-is-down-what-next/",
-      "https://www.cpanel.net/blog/products/how-to-install-and-manage-nginx-on-cpanel/"
+      "https://www.cpanel.net/blog/products/how-to-install-and-manage-nginx-on-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-survive-a-ddos-attack/",
+      "https://www.cpanel.net/blog/tips-and-tricks/setting-up-and-troubleshooting-smtp-in-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-back-up-and-restore-mysql-databases-in-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-configure-and-manage-lets-encrypt-in-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/using-caldav-calendars-and-carddav-contacts-in-cpanel/",
+      "https://www.cpanel.net/blog/products/deploying-cpanel-whm-on-microsoft-azure/",
+      "https://www.cpanel.net/blog/tips-and-tricks/fixing-wordpress-login-errors-with-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-assign-permissions-to-files-and-folders-in-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-monitor-php-error-logs-in-wordpress-and-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/disk-io-errors-troubleshooting-on-linux-servers/"
     ]
   },
   "umd.edu": {
-    "lastAt": 1758215991586,
+    "lastAt": 1758572698874,
     "urls": [
       "https://umd.edu/",
       "https://umd.edu/about",
@@ -35062,11 +35082,20 @@
       "https://umd.edu/about/facts",
       "https://umd.edu/privacy",
       "https://umd.edu/privacy/information-collection",
-      "https://umd.edu/news"
+      "https://umd.edu/news",
+      "https://umd.edu/privacy/information-security",
+      "https://umd.edu/privacy/european-union",
+      "https://umd.edu/privacy/incidents",
+      "https://umd.edu/faqs-heoaconsumer-information",
+      "https://umd.edu/policies-and-procedures",
+      "https://umd.edu/web-accessibility",
+      "https://umd.edu/academic-departments-and-programs",
+      "https://umd.edu/convocation",
+      "https://umd.edu/privacy/coppa"
     ]
   },
   "ey.com": {
-    "lastAt": 1758216001214,
+    "lastAt": 1758572707584,
     "urls": [
       "https://www.ey.com/en_gl",
       "https://ey.com/",
@@ -35087,11 +35116,20 @@
       "https://www.ey.com/en_gl/people/adam-t-smith",
       "https://www.ey.com/en_gl/people/adolf-unoarumhi",
       "https://www.ey.com/en_gl/people/adrian-baschnonga",
-      "https://www.ey.com/en_gl/people/adrian-nicholls"
+      "https://www.ey.com/en_gl/people/adrian-nicholls",
+      "https://www.ey.com/en_gl/people/adrienne-figur",
+      "https://www.ey.com/en_gl/people/adrian-reisch",
+      "https://www.ey.com/en_gl/people/adrien-portafaix",
+      "https://www.ey.com/en_gl/people/ajay-anand",
+      "https://www.ey.com/en_gl/people/akshata-udiavar",
+      "https://www.ey.com/en_gl/people/akshat-dubey",
+      "https://www.ey.com/en_gl/people/ajay-rawal",
+      "https://www.ey.com/en_gl/people/ajen-sita",
+      "https://www.ey.com/en_gl/people/alan-hudson"
     ]
   },
   "home-assistant.io": {
-    "lastAt": 1758216004068,
+    "lastAt": 1758572709350,
     "urls": [
       "https://www.home-assistant.io/dashboards/button/",
       "https://home-assistant.io/",
@@ -35112,51 +35150,61 @@
       "https://www.home-assistant.io/dashboards/grid/",
       "https://www.home-assistant.io/dashboards/humidifier/",
       "https://www.home-assistant.io/dashboards/iframe/",
-      "https://www.home-assistant.io/dashboards/light/"
+      "https://www.home-assistant.io/dashboards/light/",
+      "https://www.home-assistant.io/dashboards/logbook/",
+      "https://www.home-assistant.io/dashboards/masonry/",
+      "https://www.home-assistant.io/dashboards/media-control/",
+      "https://www.home-assistant.io/dashboards/markdown/",
+      "https://www.home-assistant.io/dashboards/map/",
+      "https://www.home-assistant.io/dashboards/picture-entity/",
+      "https://www.home-assistant.io/dashboards/panel/",
+      "https://www.home-assistant.io/dashboards/picture-glance/",
+      "https://www.home-assistant.io/dashboards/picture-elements/",
+      "https://www.home-assistant.io/dashboards/picture/"
     ]
   },
   "microsoftazuread-sso.com": {
-    "lastAt": 1758216006930,
+    "lastAt": 1758572712235,
     "urls": []
   },
   "hyatt.com": {
-    "lastAt": 1758216011011,
+    "lastAt": 1758572715485,
     "urls": []
   },
   "theglobeandmail.com": {
-    "lastAt": 1758216014432,
+    "lastAt": 1758572719302,
     "urls": [
       "https://theglobeandmail.com/"
     ]
   },
   "samsungpositioning.com": {
-    "lastAt": 1758216017451,
+    "lastAt": 1758572722562,
     "urls": []
   },
   "so.com": {
-    "lastAt": 1758216025346,
+    "lastAt": 1758572734049,
     "urls": [
       "https://so.com/"
     ]
   },
   "lazada.com": {
-    "lastAt": 1758216035546,
+    "lastAt": 1758572744000,
     "urls": [
       "https://lazada.com/"
     ]
   },
   "ny.gov": {
-    "lastAt": 1758216039424,
+    "lastAt": 1758572746958,
     "urls": [
       "https://ny.gov/"
     ]
   },
   "xxpkg.com": {
-    "lastAt": 1758216046312,
+    "lastAt": 1758572754732,
     "urls": []
   },
   "qz.com": {
-    "lastAt": 1758216051236,
+    "lastAt": 1758572758612,
     "urls": [
       "https://qz.com/search",
       "https://qz.com/latest",
@@ -35172,11 +35220,18 @@
       "https://qz.com/money-markets",
       "https://qz.com/newsletter",
       "https://qz.com/quartz250",
-      "https://qz.com/gateway"
+      "https://qz.com/gateway",
+      "https://qz.com/trump-tariffs-supreme-court-expedited-ruling",
+      "https://qz.com/",
+      "https://qz.com/product-recall-explained",
+      "https://qz.com/gas-prices-by-state-cheapest-expensive-aaa",
+      "https://qz.com/us-states-home-prices-homeownership-most-unaffordable",
+      "https://qz.com/trump-wants-more-corn-in-your-gas-tank",
+      "https://qz.com/india/2180171/agnipath-protests-reflect-indian-militarys-skewed-gender-ratio"
     ]
   },
   "crazyegg.com": {
-    "lastAt": 1758216055679,
+    "lastAt": 1758572770623,
     "urls": [
       "https://www.crazyegg.com/about-us",
       "https://www.crazyegg.com/",
@@ -35197,11 +35252,21 @@
       "https://www.crazyegg.com/lead-gen",
       "https://www.crazyegg.com/list",
       "https://www.crazyegg.com/opt-out",
-      "https://www.crazyegg.com/lp/blogtohome"
+      "https://www.crazyegg.com/lp/blogtohome",
+      "https://www.crazyegg.com/overlay",
+      "https://www.crazyegg.com/pricing",
+      "https://www.crazyegg.com/overview",
+      "https://www.crazyegg.com/privacy",
+      "https://www.crazyegg.com/recordings",
+      "https://www.crazyegg.com/scrollmap",
+      "https://www.crazyegg.com/sitemap",
+      "https://www.crazyegg.com/terms",
+      "https://www.crazyegg.com/surveys",
+      "https://www.crazyegg.com/conversion-analytics"
     ]
   },
   "braze.eu": {
-    "lastAt": 1758216058667,
+    "lastAt": 1758572773093,
     "urls": [
       "https://www.braze.com/partners/technology-partners/notify-ai",
       "https://www.braze.com/partners/technology-partners/optimizely",
@@ -35222,15 +35287,25 @@
       "https://www.braze.com/test-retail-ecomm",
       "https://www.braze.com/partners/braze-amplifiers/massive-rocket",
       "https://www.braze.com/partners/braze-amplifiers/local-store-marketing",
-      "https://www.braze.com/partners/braze-amplifiers/caci"
+      "https://www.braze.com/partners/braze-amplifiers/caci",
+      "https://www.braze.com/solutions/gaming",
+      "https://www.braze.com/resources/webinars-and-events/lunch-and-learn-get-your-email-data-strategy-right",
+      "https://www.braze.com/product/testing-product-page",
+      "https://www.braze.com/resources/videos/july-2025-whats-new",
+      "https://www.braze.com/cityxcity-sydney-2024",
+      "https://www.braze.com/partners/braze-amplifiers/schmack",
+      "https://www.braze.com/resources/reports-and-guides/forge2023-on-demand-gated",
+      "https://www.braze.com/techforequitablefuture-appsoff",
+      "https://www.braze.com/",
+      "https://www.braze.com/braze-online-design-system"
     ]
   },
   "opera-api2.com": {
-    "lastAt": 1758216117475,
+    "lastAt": 1758572831902,
     "urls": []
   },
   "yg5sjx5kzy.com": {
-    "lastAt": 1758216128417,
+    "lastAt": 1758572842155,
     "urls": [
       "https://yg5sjx5kzy.com/",
       "https://hola.org/access/popular/belarus",
@@ -35249,11 +35324,20 @@
       "https://hola.org/access/popular/faroe-islands",
       "https://hola.org/access/popular/falkland-islands-malvinas",
       "https://hola.org/access/popular/fiji",
-      "https://hola.org/access/popular/ethiopia"
+      "https://hola.org/access/popular/ethiopia",
+      "https://hola.org/access/popular/japan",
+      "https://hola.org/access/popular/kenya",
+      "https://hola.org/access/popular/jordan",
+      "https://hola.org/access/popular/kazakhstan",
+      "https://hola.org/access/popular/kiribati",
+      "https://hola.org/access/popular/kosovo",
+      "https://hola.org/access/popular/kuwait",
+      "https://hola.org/access/popular/kyrgyzstan",
+      "https://hola.org/access/popular/laos"
     ]
   },
   "accenture.com": {
-    "lastAt": 1758216134164,
+    "lastAt": 1758572846722,
     "urls": [
       "https://accenture.com/",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=13549494_en",
@@ -35274,15 +35358,21 @@
       "https://www.accenture.com/ae-en/careers/jobdetails?id=R00283150_en",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=R00283160_en",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=13018162_en",
-      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00258346_en"
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00258346_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00279065_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13529082_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00287296_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00263331_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=R00283149_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13531210_en"
     ]
   },
   "imoim.net": {
-    "lastAt": 1758216137733,
+    "lastAt": 1758572850024,
     "urls": []
   },
   "customer.io": {
-    "lastAt": 1758216140940,
+    "lastAt": 1758572851678,
     "urls": [
       "https://customer.io/",
       "https://customer.io/partners",
@@ -35302,11 +35392,21 @@
       "https://customer.io/confirm",
       "https://customer.io/events",
       "https://customer.io/events/dallas-happy-hour",
-      "https://customer.io/events/aps-ldn-2025"
+      "https://customer.io/events/aps-ldn-2025",
+      "https://customer.io/events/exit-five-nyc",
+      "https://customer.io/events/growth-phest",
+      "https://customer.io/events/drive-2025",
+      "https://customer.io/events/inbox-expo-2025",
+      "https://customer.io/events/listen-more-chicago-2025",
+      "https://customer.io/events/listen-more-london-sxsw-2025",
+      "https://customer.io/events/madtech",
+      "https://customer.io/events/marketing-meetup-sf",
+      "https://customer.io/events/mwf-nyc",
+      "https://customer.io/events/listen-more-sxsw-2025"
     ]
   },
   "unc.edu": {
-    "lastAt": 1758216149235,
+    "lastAt": 1758572859558,
     "urls": [
       "https://www.unc.edu/posts/2014/03/19/a-peoples-theatre/",
       "https://www.unc.edu/posts/2014/03/21/dance-marathon-2014/",
@@ -35327,11 +35427,21 @@
       "https://www.unc.edu/posts/2016/03/04/carolina-to-award-five-honorary-degrees-at-commencement/",
       "https://www.unc.edu/posts/2016/03/30/we-love-this-team/",
       "https://www.unc.edu/posts/2016/03/15/classroom-clinic-first-years-field/",
-      "https://www.unc.edu/posts/2016/01/05/pioneering-efforts-in-pharmacoengineering/"
+      "https://www.unc.edu/posts/2016/01/05/pioneering-efforts-in-pharmacoengineering/",
+      "https://www.unc.edu/posts/2016/02/17/building-future-state/",
+      "https://www.unc.edu/posts/2016/03/03/a-passion-project/",
+      "https://www.unc.edu/posts/2016/02/29/gaining-new-perspectives-at-tedxunc/",
+      "https://www.unc.edu/posts/2016/02/15/carolina-wins-ita-national-team-indoors-championship/",
+      "https://www.unc.edu/posts/2016/02/24/berryhill-hall-building-past-prime/",
+      "https://www.unc.edu/posts/2016/02/12/siren-test-scheduled-for-feb-16/",
+      "https://www.unc.edu/posts/2016/02/03/resolve-to-eat-healthier-in-2016/",
+      "https://www.unc.edu/posts/2016/02/01/new-unc-pa-program-serves-military-students-rural-n-c/",
+      "https://www.unc.edu/posts/2017/10/25/carolina-launches-bike-share-program/",
+      "https://www.unc.edu/posts/2016/05/13/maximizing-microbiome-knowledge/"
     ]
   },
   "last.fm": {
-    "lastAt": 1758216157289,
+    "lastAt": 1758572870962,
     "urls": [
       "https://www.last.fm/music/Pink+Butter;T3+of+Slum+Village/Can+We+Go+Back",
       "https://last.fm/",
@@ -35356,13 +35466,13 @@
     ]
   },
   "iubenda.com": {
-    "lastAt": 1758216159212,
+    "lastAt": 1758572872720,
     "urls": [
       "https://iubenda.com/"
     ]
   },
   "bizjournals.com": {
-    "lastAt": 1758216164084,
+    "lastAt": 1758572875445,
     "urls": [
       "https://www.bizjournals.com/albany",
       "https://www.bizjournals.com/albany/news",
@@ -35383,11 +35493,21 @@
       "https://www.bizjournals.com/albany/news/food-and-lifestyle",
       "https://www.bizjournals.com/albany/news/travel-and-tourism",
       "https://www.bizjournals.com/albany/news/government-and-regulations",
-      "https://www.bizjournals.com/albany/news/technology"
+      "https://www.bizjournals.com/albany/news/technology",
+      "https://www.bizjournals.com/albany/news/2025/09/21/troy-farmers-market-lease-atrium.html",
+      "https://www.bizjournals.com/albany/news/2025/09/19/micron-albany-gilbane-chip-plant-contractors.html",
+      "https://www.bizjournals.com/albany/news/2025/09/21/bolton-landing-businesses-sagamore.html",
+      "https://www.bizjournals.com/albany/news/2025/09/21/loop-clifton-park-new-location.html",
+      "https://www.bizjournals.com/albany/news/2025/09/19/lake-george-campground-sold-vazza.html",
+      "https://www.bizjournals.com/albany/news/philanthropy-and-nonprofits",
+      "https://www.bizjournals.com/albany/news/2025/09/18/adirondack-tire-acquisition.html",
+      "https://www.bizjournals.com/albany/news/2025/09/18/circles-stuyvesant-plaza-remodel.html",
+      "https://www.bizjournals.com/albany/news/2025/09/18/nicolla-liberty-park-albany-proposal.html",
+      "https://www.bizjournals.com/albany/news/2025/09/18/queensbury-take-5-real-estate-sold.html"
     ]
   },
   "delfi.lt": {
-    "lastAt": 1758216176192,
+    "lastAt": 1758572881584,
     "urls": [
       "https://delfi.lt/",
       "https://www.delfi.lt/news/daily/world/valdzia-persikele-i-discord-30-mln-gyventoju-salyje-beprecedente-situacija-120148141",
@@ -35408,11 +35528,21 @@
       "https://www.delfi.lt/news/daily/world/putinas-atskleide-kiek-rusijos-kariu-kaunasi-ukrainoje-120150593",
       "https://www.delfi.lt/news/daily/world/trumpas-putinas-mane-tikrai-nuvyle-120150582",
       "https://www.delfi.lt/news/ringas/lit/koks-didziausias-issukis-dabar-laukia-jav-prezidento-120150188",
-      "https://www.delfi.lt/news/daily/world/vokietija-prieme-ilgai-atideliota-biudzeta-leisianti-papildomai-skolintis-120150592"
+      "https://www.delfi.lt/news/daily/world/vokietija-prieme-ilgai-atideliota-biudzeta-leisianti-papildomai-skolintis-120150592",
+      "https://www.delfi.lt/news/daily/world/per-putino-intervizija-paskutines-minutes-netiketumas-120151776",
+      "https://www.delfi.lt/news/daily/crime/masine-avarija-vilniuje-susidure-sesi-automobiliai-120151954",
+      "https://www.delfi.lt/news/daily/politics/nauseda-atsake-andriukaiciui-paaiskino-kaip-pasirenka-ministra-120151963",
+      "https://www.delfi.lt/news/daily/world/jav-pasiuntinys-jt-pazadejo-ginti-kiekviena-nato-teritorijos-centimetra-120151953",
+      "https://www.delfi.lt/news/daily/world/pasigirdo-daugiau-nei-10-sprogimu-pranesama-apie-dronu-ataka-pries-maskva-120151956",
+      "https://www.delfi.lt/news/daily/world/analitikai-rusija-gali-ruostis-konfliktui-su-nato-120151949",
+      "https://www.delfi.lt/news/daily/crime/kretingoje-policija-baude-rukancius-paauglius-ikliuvo-17-nepilnameciu-120151947",
+      "https://www.delfi.lt/news/daily/world/didzioji-britanija-paskelbe-esanti-pasirengusi-numusti-rusijos-lektuvus-virs-nato-saliu-120151942",
+      "https://www.delfi.lt/news/daily/lithuania/rekordines-korupcijos-byloje-mineta-imone-toliau-laimi-viesuosius-konkursus-kodel-120150025",
+      "https://www.delfi.lt/news/daily/crime/lietuvoje-gyvenantis-tadzikas-naudojosi-netikru-vairuotojo-pazymejimu-120151943"
     ]
   },
   "mindbox.ru": {
-    "lastAt": 1758220387384,
+    "lastAt": 1758572885552,
     "urls": [
       "https://mindbox.ru/comments/",
       "https://mindbox.ru/contacts/",
@@ -35433,11 +35563,21 @@
       "https://mindbox.ru/documents/consent-processing-out-of-cloud/",
       "https://mindbox.ru/documents/consent-processing-wim-agency/",
       "https://mindbox.ru/documents/event-policy/",
-      "https://mindbox.ru/documents/event-offer/"
+      "https://mindbox.ru/documents/event-offer/",
+      "https://mindbox.ru/documents/individualnye-predlozheniya/",
+      "https://mindbox.ru/documents/oferta-agentstv/6-0a/",
+      "https://mindbox.ru/documents/information-security/",
+      "https://mindbox.ru/documents/oferta-agentstv/",
+      "https://mindbox.ru/documents/oferta-agentstv/7-0a/",
+      "https://mindbox.ru/documents/oferta-agentstv/7-1a/",
+      "https://mindbox.ru/documents/oferta-agentstv/7-2a/",
+      "https://mindbox.ru/documents/oferta-na-otzyv/",
+      "https://mindbox.ru/documents/oferta-agentstv/7-3a/",
+      "https://mindbox.ru/documents/offer/"
     ]
   },
   "foodnetwork.com": {
-    "lastAt": 1758220392783,
+    "lastAt": 1758572890127,
     "urls": [
       "https://www.foodnetwork.com/",
       "https://www.foodnetwork.com/home/terms-of-use",
@@ -35458,7 +35598,17 @@
       "https://www.foodnetwork.com/recipes/tom-yum-seafood-soup-4537237",
       "https://www.foodnetwork.com/recipes/articles/pineapple-fronds-template",
       "https://www.foodnetwork.com/recipes/articles/peanut-butter-chicken-inspired-by-west-africa",
-      "https://www.foodnetwork.com/recipes/coco-lotus-soup-17125098"
+      "https://www.foodnetwork.com/recipes/coco-lotus-soup-17125098",
+      "https://www.foodnetwork.com/recipes/articles/how-to-season-a-wok",
+      "https://www.foodnetwork.com/recipes/articles/how-to-use-fresh-herbs",
+      "https://www.foodnetwork.com/recipes/articles/how-to-bake-bread",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-salad-dressing",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-pie-crust",
+      "https://www.foodnetwork.com/recipes/articles/history-of-chocolate",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-bacon-in-the-microwave",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-caramel",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-caramel/caramel-apple-pictures"
     ]
   },
   "webflow.com": {
