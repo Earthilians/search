@@ -28642,13 +28642,13 @@
     "urls": []
   },
   "aljazeera.com": {
-    "lastAt": 1758164414877,
+    "lastAt": 1758518552920,
     "urls": [
       "https://aljazeera.com/"
     ]
   },
   "vox.com": {
-    "lastAt": 1758164418239,
+    "lastAt": 1758518559720,
     "urls": [
       "https://www.vox.com/future-perfect/461340/sb53-california-ai-bill-catastrophic-risk-explained",
       "https://www.vox.com/politics/461408/charlie-kirk-shooting-killed-right-way-suspect",
@@ -28667,25 +28667,28 @@
       "https://www.vox.com/politics/461677/supreme-court-trump-dictator-economy-tax-spending",
       "https://www.vox.com/the-logoff-newsletter-trump/461764/trump-new-york-times-defamation-lawsuit-press-freedom",
       "https://www.vox.com/podcasts/461634/chris-van-hollen-shutdown-charlie-kirk-mamdani",
-      "https://www.vox.com/politics/461597/free-speech-charlie-kirk-death-first-amendment-incitement-misinformation"
+      "https://www.vox.com/politics/461597/free-speech-charlie-kirk-death-first-amendment-incitement-misinformation",
+      "https://www.vox.com/future-perfect/462172/apple-airpods-translation-hearing-device-vision-google-diabetes",
+      "https://www.vox.com/podcasts/462188/kash-patel-fbi-charlie-kirk-trump-rufo",
+      "https://www.vox.com/politics/462173/charlie-kirk-killer-motive-tyler-robinson-jimmy-kimmel"
     ]
   },
   "w55c.net": {
-    "lastAt": 1758164421294,
+    "lastAt": 1758518563060,
     "urls": []
   },
   "rainberrytv.com": {
-    "lastAt": 1758164422571,
+    "lastAt": 1758518564368,
     "urls": [
       "https://rainberrytv.com/"
     ]
   },
   "thelancet.com": {
-    "lastAt": 1758164429432,
+    "lastAt": 1758518570751,
     "urls": []
   },
   "plex.tv": {
-    "lastAt": 1758164436661,
+    "lastAt": 1758518574129,
     "urls": [
       "https://plex.tv/",
       "https://plex.tv/about",
@@ -28704,7 +28707,7 @@
     ]
   },
   "netlify.app": {
-    "lastAt": 1758164451169,
+    "lastAt": 1758518588846,
     "urls": [
       "https://www.netlify.com/",
       "https://netlify.app/",
@@ -28725,19 +28728,29 @@
       "https://www.netlify.com/dmca-submit/",
       "https://www.netlify.com/donation-matching/",
       "https://www.netlify.com/everything-you-need-to-know-about-the-netlify-platform/",
-      "https://www.netlify.com/composable-conversations/"
+      "https://www.netlify.com/composable-conversations/",
+      "https://www.netlify.com/github-pages-vs-netlify/",
+      "https://www.netlify.com/gdpr-ccpa/",
+      "https://www.netlify.com/instantly-build-exceptional-digital-experiences-with-contentful-and-netlify/",
+      "https://www.netlify.com/integrations/",
+      "https://www.netlify.com/jamstack-fund/",
+      "https://www.netlify.com/jamstack/",
+      "https://www.netlify.com/on-contentful/",
+      "https://www.netlify.com/oreilly-jamstack/",
+      "https://www.netlify.com/platform/",
+      "https://www.netlify.com/gcp-marketplace/"
     ]
   },
   "ui-dns.com": {
-    "lastAt": 1758164454204,
+    "lastAt": 1758518592069,
     "urls": []
   },
   "nominetdns.uk": {
-    "lastAt": 1758164457618,
+    "lastAt": 1758518595664,
     "urls": []
   },
   "intercom.com": {
-    "lastAt": 1758164461282,
+    "lastAt": 1758518599839,
     "urls": [
       "https://intercom.com/",
       "https://www.intercom.com/campaign/2025-ecommerce-customer-service-transformation-report",
@@ -28756,11 +28769,20 @@
       "https://www.intercom.com/customers/atlassian",
       "https://www.intercom.com/customers/bailey-nelson",
       "https://www.intercom.com/customers/baremetrics",
-      "https://www.intercom.com/customers/birdie-care"
+      "https://www.intercom.com/customers/birdie-care",
+      "https://www.intercom.com/customers/expensify",
+      "https://www.intercom.com/customers/envoy",
+      "https://www.intercom.com/customers/fathom",
+      "https://www.intercom.com/customers/frame-io",
+      "https://www.intercom.com/customers/frends",
+      "https://www.intercom.com/customers/fresh-technology",
+      "https://www.intercom.com/customers/fundrise",
+      "https://www.intercom.com/customers/fugo",
+      "https://www.intercom.com/customers/greenpal"
     ]
   },
   "segment.com": {
-    "lastAt": 1758164467434,
+    "lastAt": 1758518605809,
     "urls": [
       "https://segment.com/blog/3-awesome-examples-behavior-based-marketing-autopilot/",
       "https://segment.com/blog/2018-in-review/",
@@ -28776,27 +28798,32 @@
       "https://segment.com/blog/a-brief-history-of-the-uuid/",
       "https://segment.com/blog/a-guide-to-google-analytics-deprecation/",
       "https://segment.com/blog/a-data-driven-approach-to-building-authentic-relationships/",
-      "https://segment.com/blog/a-perfect-match-financial-services-and-cdps/"
+      "https://segment.com/blog/a-perfect-match-financial-services-and-cdps/",
+      "https://segment.com/blog/advertising-efficiency-guide/",
+      "https://segment.com/blog/advertising-week-2022-in-review/",
+      "https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/",
+      "https://segment.com/blog/ama-with-gustaf-alstromer/",
+      "https://segment.com/blog/ama-with-guillaume-cabane/"
     ]
   },
   "tenable.com": {
-    "lastAt": 1758164471503,
+    "lastAt": 1758518610079,
     "urls": [
       "https://tenable.com/"
     ]
   },
   "vivox.com": {
-    "lastAt": 1758164472984,
+    "lastAt": 1758518611231,
     "urls": [
       "https://vivox.com/"
     ]
   },
   "cdnhwc3.com": {
-    "lastAt": 1758164477557,
+    "lastAt": 1758518616400,
     "urls": []
   },
   "clevelandclinic.org": {
-    "lastAt": 1758164481936,
+    "lastAt": 1758518620640,
     "urls": [
       "https://my.clevelandclinic.org/about",
       "https://my.clevelandclinic.org/departments",
@@ -28817,17 +28844,27 @@
       "https://my.clevelandclinic.org/health-essentials-newsletter",
       "https://my.clevelandclinic.org/about/history",
       "https://my.clevelandclinic.org/daily-wellness-tip-sign-up",
-      "https://my.clevelandclinic.org/about/overview"
+      "https://my.clevelandclinic.org/about/overview",
+      "https://my.clevelandclinic.org/about/community",
+      "https://my.clevelandclinic.org/about/for-employees",
+      "https://my.clevelandclinic.org/about/website",
+      "https://my.clevelandclinic.org/about/contact",
+      "https://my.clevelandclinic.org/about/giving",
+      "https://my.clevelandclinic.org/about/history/century-of-care",
+      "https://my.clevelandclinic.org/about/overview/who-we-are",
+      "https://my.clevelandclinic.org/about/overview/our-model-healthcare",
+      "https://my.clevelandclinic.org/about/overview/leadership",
+      "https://my.clevelandclinic.org/about/overview/financial-information"
     ]
   },
   "alltel24.ru": {
-    "lastAt": 1758164488956,
+    "lastAt": 1758518627963,
     "urls": [
       "https://alltel24.ru/"
     ]
   },
   "www.nhs.uk": {
-    "lastAt": 1758164492677,
+    "lastAt": 1758518632403,
     "urls": [
       "https://www.nhs.uk/",
       "https://www.nhs.uk/conditions/acanthosis-nigricans/",
@@ -28848,19 +28885,29 @@
       "https://www.nhs.uk/conditions/amyloidosis/",
       "https://www.nhs.uk/conditions/adenoidectomy/",
       "https://www.nhs.uk/conditions/amputation/",
-      "https://www.nhs.uk/conditions/anabolic-steroid-misuse/"
+      "https://www.nhs.uk/conditions/anabolic-steroid-misuse/",
+      "https://www.nhs.uk/conditions/angelman-syndrome/",
+      "https://www.nhs.uk/conditions/animal-and-human-bites/",
+      "https://www.nhs.uk/conditions/anal-pain/",
+      "https://www.nhs.uk/conditions/antihistamines/",
+      "https://www.nhs.uk/conditions/arrhythmia/",
+      "https://www.nhs.uk/conditions/asbestosis/",
+      "https://www.nhs.uk/conditions/antacids/",
+      "https://www.nhs.uk/conditions/intrauterine-insemination-iui/",
+      "https://www.nhs.uk/conditions/athletes-foot/",
+      "https://www.nhs.uk/conditions/atherosclerosis/"
     ]
   },
   "jamanetwork.com": {
-    "lastAt": 1758164512547,
+    "lastAt": 1758518650473,
     "urls": []
   },
   "adobess.com": {
-    "lastAt": 1758164515533,
+    "lastAt": 1758518653694,
     "urls": []
   },
   "arstechnica.com": {
-    "lastAt": 1758164521555,
+    "lastAt": 1758518659972,
     "urls": [
       "https://arstechnica.com/",
       "https://arstechnica.com/tag/__suppressupdates/",
@@ -28881,15 +28928,25 @@
       "https://arstechnica.com/tag/plist/",
       "https://arstechnica.com/tag/webfont/",
       "https://arstechnica.com/tag/splosion-man/",
-      "https://arstechnica.com/tag/593-patent/"
+      "https://arstechnica.com/tag/593-patent/",
+      "https://arstechnica.com/tag/oumuamua/",
+      "https://arstechnica.com/tag/space-oddity/",
+      "https://arstechnica.com/tag/day-of-action/",
+      "https://arstechnica.com/tag/analytical-framework-for-intelligence/",
+      "https://arstechnica.com/tag/stairway-to-heaven/",
+      "https://arstechnica.com/tag/redwire/",
+      "https://arstechnica.com/tag/askars/",
+      "https://arstechnica.com/tag/attns/",
+      "https://arstechnica.com/tag/bieb/",
+      "https://arstechnica.com/tag/beib/"
     ]
   },
   "marketingcloudapis.com": {
-    "lastAt": 1758164524642,
+    "lastAt": 1758518663015,
     "urls": []
   },
   "sonobi.com": {
-    "lastAt": 1758164528660,
+    "lastAt": 1758518666000,
     "urls": [
       "https://sonobi.com/all-news/",
       "https://sonobi.com/news/connolly-ernst-and-young-entrepreneur-finalist/",
@@ -28910,15 +28967,25 @@
       "https://sonobi.com/press-release/sonobis-anthony-katsur-ad-tech-cookies-programmatic/",
       "https://sonobi.com/press-release/go-straight-publisher-buyers-beware-ssps-arbitraging-inventory/",
       "https://sonobi.com/press-release/publisher-technology-trend-improving-media-buying-today/",
-      "https://sonobi.com/press-release/cookie-based-marketing-endures/"
+      "https://sonobi.com/press-release/cookie-based-marketing-endures/",
+      "https://sonobi.com/press-release/sonobi-announces-programmatic-header-bidding-integration-facebook-audience-network/",
+      "https://sonobi.com/press-release/examining-cost-customer-acquisition-age-walled-gardens/",
+      "https://sonobi.com/press-release/groupm-linkedin-sonobi-join-iab-tech-lab-close-viewability-gap/",
+      "https://sonobi.com/press-release/truly-addressable-advertising-coming/",
+      "https://sonobi.com/press-release/facebook-opens-audience-network-header-bidding/",
+      "https://sonobi.com/press-release/hate-video-debacle-fresh-voices-warn-government-regulation/",
+      "https://sonobi.com/press-release/terror-survives-oxygen-attention/",
+      "https://sonobi.com/press-release/google-ramps-header-bidding-alternative-pressure-mounts-facebook/",
+      "https://sonobi.com/press-release/facebook-looks-partners-build-header-bidding-tool/",
+      "https://sonobi.com/press-release/not-advertise-terror/"
     ]
   },
   "vk-analytics.ru": {
-    "lastAt": 1758164533183,
+    "lastAt": 1758518670639,
     "urls": []
   },
   "wpengine.com": {
-    "lastAt": 1758164540187,
+    "lastAt": 1758518679307,
     "urls": [
       "https://wpengine.com/more/wordpress-hosting-for-small-business/",
       "https://wpengine.com/",
@@ -28939,27 +29006,37 @@
       "https://wpengine.com/more/chromatix-miss-biscuit-case-study/",
       "https://wpengine.com/more/broke-backpacker-core-web-vitals/",
       "https://wpengine.com/more/achieving-peak-performance-headless-wordpress/",
-      "https://wpengine.com/more/appealing-website-transforms-childrens-lives/"
+      "https://wpengine.com/more/appealing-website-transforms-childrens-lives/",
+      "https://wpengine.com/more/high-traffic-live-stream-solution-wordpress/",
+      "https://wpengine.com/more/must-listen-news-with-politico-europe/",
+      "https://wpengine.com/more/becoming-the-best-digital-grocer-in-town/",
+      "https://wpengine.com/more/uswnt-players-association-scores-incredible-site-with-time-left-on-the-clock/",
+      "https://wpengine.com/more/supporting-community-icon-with-power-of-wordpress/",
+      "https://wpengine.com/more/taking-the-holiday-leap-with-wp-engine-ifly/",
+      "https://wpengine.com/more/customer-qa-holiday-prep-with-ugly-christmas-sweater-com/",
+      "https://wpengine.com/more/customer-qa-a-conversation-with-ebsco/",
+      "https://wpengine.com/more/delivering-a-slam-dunk-experience-on-wordpress/",
+      "https://wpengine.com/more/recipe-for-success-migrating-to-wp-engine/"
     ]
   },
   "proofpoint.com": {
-    "lastAt": 1758164548739,
+    "lastAt": 1758518686923,
     "urls": [
       "https://proofpoint.com/"
     ]
   },
   "usercontent.microsoft": {
-    "lastAt": 1758164551619,
+    "lastAt": 1758518689777,
     "urls": []
   },
   "iponweb.net": {
-    "lastAt": 1758164553103,
+    "lastAt": 1758518691812,
     "urls": [
       "https://iponweb.net/"
     ]
   },
   "bund.de": {
-    "lastAt": 1758164560224,
+    "lastAt": 1758518698896,
     "urls": [
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1010000/sublagen/1010100",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1020000/sublagen/1020100",
@@ -28980,11 +29057,21 @@
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060200",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060300",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060100",
-      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1050000/sublagen/1050200"
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1050000/sublagen/1050200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060400",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060500",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060700",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060600",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1060000/sublagen/1060800",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1070000/sublagen/1070100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1070000/sublagen/1070200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080300"
     ]
   },
   "waze.com": {
-    "lastAt": 1758166554832,
+    "lastAt": 1758518702313,
     "urls": [
       "https://waze.com/",
       "https://www.waze.com/",
@@ -29005,11 +29092,21 @@
       "https://www.waze.com/livemap",
       "https://www.waze.com/ccp/",
       "https://www.waze.com/wazeforcities/casestudies/how-waze-improves-traffic-management-and-safety/",
-      "https://www.waze.com/wazeforcities/casestudies/how-haifa-leverages-waze-data-for-smart-intersections/"
+      "https://www.waze.com/wazeforcities/casestudies/how-haifa-leverages-waze-data-for-smart-intersections/",
+      "https://www.waze.com/wazeforcities/casestudies/easing-Monaco-traffic-and-launching-real-time-messaging-for-drivers/",
+      "https://www.waze.com/wazeforcities/casestudies/onde-tem-tiroteio-and-waze-in-rio-de-janeiro/",
+      "https://www.waze.com/wazeforcities/casestudies/using-data-for-roadway-upgrades/",
+      "https://www.waze.com/wazeforcities/casestudies/improving-the-road-to-rio/",
+      "https://www.waze.com/wazeforcities/casestudies/reducing-traffic-in-ghent-city-center/",
+      "https://www.waze.com/wazeforcities/casestudies/using-data-to-prevent-crashes/",
+      "https://www.waze.com/wazeforcities/casestudies/how-der-mg-leverages-real-time-data/",
+      "https://www.waze.com/wazeforcities/casestudies/paving-the-way-for-a-sustainable-cop30/",
+      "https://www.waze.com/wazeforcities/casestudies/keeping-people-safe-during-a-natural-disaster/",
+      "https://www.waze.com/wazeforcities/casestudies/waze-for-wildlife-protection-lynx/"
     ]
   },
   "tenor.com": {
-    "lastAt": 1758166555966,
+    "lastAt": 1758518703293,
     "urls": [
       "https://tenor.com/"
     ]
