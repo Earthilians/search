@@ -174137,5 +174137,565 @@
     "title": "How do you define generosity? | Bazaarvoice",
     "description": "",
     "text": "September 21, 2017\nWhen a business says it has core values, it can be an effective recruiting tool. "
+  },
+  {
+    "id": "c2985ff600513bddfc191928536372b986ffc516",
+    "url": "https://tailscale.com/enterprise",
+    "title": "Enterprise-Grade Zero Trust Networking | Tailscale",
+    "description": "Organizations of all sizes use Tailscale to securely connect their employees, devices, and networks ",
+    "text": "Enforce identity-based controls across your organization to authenticate, authorize, and verify ever"
+  },
+  {
+    "id": "bb558a48be4e2f8d11d307ce2e54173430170670",
+    "url": "https://tailscale.com/legal",
+    "title": "Legal Hub",
+    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables",
+    "text": "The information provided here is for Tailscale customers and users who have questions about our term"
+  },
+  {
+    "id": "b62d133ebd2850dbcf95dd897f087b8733de8ee3",
+    "url": "https://tailscale.com/daringfireball",
+    "title": "Daring Fireball · Tailscale",
+    "description": "Tailscale is the simplest way to connect to a remote system over either SSH, RDP, or VNC.",
+    "text": "Tailscale is the simplest way to connect to a remote system over either SSH, RDP, or VNC.\nTailscale "
+  },
+  {
+    "id": "9b7a9b588a77551c2c9a5bf01f0868f081a0d1a5",
+    "url": "https://tailscale.com/careers",
+    "title": "Careers at Tailscale · Tailscale",
+    "description": "When the Internet began, people thought connecting everyone together, sharing information freely, an",
+    "text": "Join the team championing small networks but launching big careers.\nWhen the Internet began, people "
+  },
+  {
+    "id": "7626ba2c7a0e70133b435af0c83a0c277a1fa21f",
+    "url": "https://tailscale.com/press",
+    "title": "We're Newsworthy | Tailscale",
+    "description": "Download our press kit, see Tailscale in the news, and learn more about how we're building the new i",
+    "text": "Product\nUse Cases\nResources\nCompany\nHelp & Support\nLearn"
+  },
+  {
+    "id": "fdecf4b01ac82c9fb271c2f0344ca3bd973af72e",
+    "url": "https://tailscale.com/how-it-works",
+    "title": "Tailscale: How it works",
+    "description": "Understand the entire Tailscale system, how it works, how we built it, and its benefits compared to ",
+    "text": "People often ask us for an overview of how Tailscale works. We’ve been putting off answering that, b"
+  },
+  {
+    "id": "55be290f59d308908121a6c00e41058d06680afd",
+    "url": "https://tailscale.com/mullvad-terms",
+    "title": "Special Terms · Tailscale",
+    "description": "The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service ",
+    "text": "The following are supplemental terms and addenda to the Tailscale Terms of Service and Main Service "
+  },
+  {
+    "id": "8c776ae60f796f155590bc5179ffe3a18a3f5173",
+    "url": "https://tailscale.com/pricing",
+    "title": "Tailscale Pricing - Compare Free Personal Plan & Business Tiers for Teams",
+    "description": "Plans that work for everyone. Free for personal use. Starter for $6 per user/month, Premium $18 per ",
+    "text": "Personal\nFor individuals who want to securely connect personal devices, for free.\n$0Free forever\nNo "
+  },
+  {
+    "id": "37497164cc0ff6513ba6a055088b07df881fc546",
+    "url": "https://tailscale.com/legal/kubeconeu24",
+    "title": "Tailscale Beelink S12 Pro Mini PC Sweepstakes Official Rules - KubeCon EU 2024",
+    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables",
+    "text": "Official Rules\nNO PURCHASE IS NECESSARY TO ENTER TO WIN THIS SWEEPSTAKES. A PURCHASE OR PAYMENT WILL"
+  },
+  {
+    "id": "9f0b98aded1a6d493be83527679201fe0aa01ff0",
+    "url": "https://tailscale.com/tailscale-ssh",
+    "title": "Manage SSH Keys Securely with Tailscale",
+    "description": "Simplify SSH access with automated key management. Connect securely to any device without bastion ho",
+    "text": "Built-in access controls, identity-based auth, and zero-trust networking. Start using Tailscale SSH "
+  },
+  {
+    "id": "dbb92f02509dc92a5a16f9711103f1b3e7c8ad82",
+    "url": "https://www.dondominio.com/ca/customerarea/",
+    "title": "Accedeix o registra't com a client - DonDominio",
+    "description": "Gestió de dominis avançada, grans preus, atenció al client professional... Encara no coneixes tots e",
+    "text": "Gestiona de manera fàcil tots els teus dominis, hostings, comptes de correu i certificats SSL des d'"
+  },
+  {
+    "id": "73629e32e7c74df2d90b785fab35f4ea8296db79",
+    "url": "https://www.dondominio.com/ca/whois/",
+    "title": "Whois d'un domini - DonDominio",
+    "description": "Realitza aquí la teva consulta Whois i descobreix tota la informació pública del domini.",
+    "text": "Comprova amb el Whois les dades de contacte públiques de qualsevol domini ja registrat\nEl whois és u"
+  },
+  {
+    "id": "f451c69f4cac6a0c04d3f29c37aae7e501402cc0",
+    "url": "https://www.dondominio.com/ca/contacto/",
+    "title": "¿Necessites ajuda? Contacta amb nosaltres - DonDominio",
+    "description": "Si tens qualsevol pregunta sobre els nostres serveis, no dubtis a contactar ¡estarem encantats d'aju",
+    "text": "Soluciones Corporativas IP, SL\nC/ Menestrals, 14\n\t\t\t\t\t\t\t\t07500 Manacor, Illes Balears\n\t\t\t\t\t\t\t\tEspaña"
+  },
+  {
+    "id": "96156147eb7b2ecc19a1efd6e7071884fdbd64b1",
+    "url": "https://www.dondominio.com/ca/nosotros/",
+    "title": "Qui som? - DonDominio",
+    "description": "Atenció al client professional, preus sense enganys i facilitat d'ús són els valors que ens acompany",
+    "text": "Obrint portes al món en línia des de 2007\nAtenció al client professional, preus sense enganys i faci"
+  },
+  {
+    "id": "53aec1ec15d0a48fd63b025f97b00372430aeb96",
+    "url": "https://www.dondominio.com/ca/nosotros/accreditations/",
+    "title": "Som agent registrador acreditat en centenars d'extensions - DonDominio",
+    "description": "Aprofita els avantatges de treballar amb un registrador acreditat: rapidesa i agilitat en les gestio",
+    "text": "Actualment oferim més de 800 extensions de domini i estem acreditats directament en la majoria d'ell"
+  },
+  {
+    "id": "a16b9feb4b06336657771d27c8054e498979b4c8",
+    "url": "https://www.dondominio.com/ca/resellers/",
+    "title": "Compte reseller: revèn dominis, hosting i SSL - DonDominio",
+    "description": "Fes-te reseller i aprofita els avantatges: Descomptes per volum, API de gestió de dominis, mòdul per",
+    "text": "Crea el teu compte reseller: reven dominis, hosting i certificats SSL\nEls nostres serveis per a dist"
+  },
+  {
+    "id": "2f1a94e3235c252b993565787b98b29f6a1f3d78",
+    "url": "https://www.dondominio.com/ca/resellers/api/",
+    "title": "API de gestió de dominis | Crea la teva aplicació de venda de dominis - DonDominio",
+    "description": "Amb l'API podràs desenvolupar des de zero la teva pròpia aplicació per registrar, renovar i gestiona",
+    "text": "Crea la teva pròpia aplicació per registrar, renovar i gestionar els teus dominis, serveis i certifi"
+  },
+  {
+    "id": "7746c8f18ae7277b2d661edf1b7411264d82bc46",
+    "url": "https://www.dondominio.com/ca/resellers/external-access/",
+    "title": "Panell de marca blanca | Proporciona accés personalitzat als teus clients - DonDominio",
+    "description": "Dóna accés sota la teva pròpia marca als teus clients perquè gestionin els dominis que tens contract",
+    "text": "Gestió de dominis, hosting web i correus per als teus clients, sense necessitat de proporcionar-los "
+  },
+  {
+    "id": "83677ac0d1e04ff331865e8db8356db3f43f2e26",
+    "url": "https://www.dondominio.com/ca/resellers/whmcs/",
+    "title": "Mòdul per WHMCS | Gestió de dominis avançada - DonDominio",
+    "description": "Tot el que necessites per crear la teva aplicació de gestió de dominis sense coneixements tècnics. C",
+    "text": "Tot el que necessites per crear la teva aplicació de gestió de dominis sense coneixements tècnics\nWH"
+  },
+  {
+    "id": "be12cca2d0e4377639e7f5879e5db719de143aaa",
+    "url": "https://www.dondominio.com/ca/domain-contact/",
+    "title": "Contacta amb el titular d'un domini allotjat amb nosaltres - DonDominio",
+    "description": "Utilitza el formulari per contactar amb el titular d'un domini gestionat amb nosaltres.",
+    "text": "Si desitges posar-te en contacte amb el titular d'un domini gestionat per un dels nostres clients, p"
+  },
+  {
+    "id": "69e77c97aacfd9e2faaf697dbee03ea6e655f7f8",
+    "url": "https://www.adswizz.com/the-podcast-opportunity/",
+    "title": "The podcast opportunity - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "c98d8374bc388a4de5399122e1f68ffb026c2bc0",
+    "url": "https://www.adswizz.com/digital-audio-advertising-101-with-adswizz/",
+    "title": "Digital audio advertising 101 with AdsWizz - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "68b3983f1e5a8f66be1bce10c3463fe2387a759b",
+    "url": "https://www.adswizz.com/adexchanger-adswizz-aims-to-make-programmatic-easier-to-buy/",
+    "title": "AdExchanger: AdsWizz Aims to Make Programmatic Easier to Buy - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "55aa52cc6f578ff0ae1ac8859387364b7879fef9",
+    "url": "https://www.adswizz.com/demystifying-programmatic-audio-qa-with-pierre-naggar-adswizz/",
+    "title": "Demystifying Programmatic Audio: Q&A with Pierre Naggar, AdsWizz - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "1422e9f2fbbd99fcfd04bad1b59548af24e51e56",
+    "url": "https://www.adswizz.com/adswizz-expected-to-surpass-1000000-podcast-episodes-available-for-enhanced-targeting-capability/",
+    "title": "AdsWizz Expected to Surpass 1,000,000 Podcast Episodes Available For Enhanced Targeting Capability -",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "1b7a3014c9c89d4e9e672ce64184ec92fa17e241",
+    "url": "https://www.adswizz.com/audiogo-ad-buying-platform-gaining-momentum-with-new-publisher-and-marketing-partners/",
+    "title": "AudioGO Ad Buying Platform Gaining Momentum with New Publisher and Marketing Partners - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "e09a223f88ee01ceddeb66158f9652aea8362d66",
+    "url": "https://www.adswizz.com/adswizz-adds-anne-frisbie-as-senior-vice-president-of-global-supply/",
+    "title": "AdsWizz Adds Anne Frisbie as Senior Vice President of Global Supply - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "f7f6e79f7f597d951d6cfe32f87aff5add99baed",
+    "url": "https://www.adswizz.com/adswizz-big-mobile-successfully-track-increase-in-store-visits-driven-by-audio-ads/",
+    "title": "AdsWizz & Big Mobile Successfully Track Increase in Store Visits Driven by Audio Ads - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "b574570d60567aa0629e1ac53bc9ca6d7f8711a2",
+    "url": "https://www.adswizz.com/adswizz-announces-partnership-with-ripple/",
+    "title": "AdsWizz Announces Partnership with Ripple - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "d8997143bdbb9a20dfd52fd8fa5169d7b72f6e93",
+    "url": "https://www.adswizz.com/adswizz-global-leader-in-audio-monetization-chooses-mediastream-as-a-premier-partner-in-latin-america/",
+    "title": "AdsWizz, Global Leader in Audio Monetization, Chooses Mediastream as a Premier Partner in Latin Amer",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "c0319d8f21070997e3220facc6330141d26e2a43",
+    "url": "https://www.infonline.de/heydu/",
+    "title": "www.hey-du.de - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "a8c1f5c8d2543362504f5b0794d36348ecb54365",
+    "url": "https://www.infonline.de/guide-anmeldung/",
+    "title": "Guide Anmeldung - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "aa7a3ebe8e4dc19161088f5f9b69d6dac35741d2",
+    "url": "https://www.infonline.de/testseite-fuer-infonline-measurement-manager/",
+    "title": "Testseite für INFOnline Measurement Manager - INFOnline GmbH",
+    "description": "",
+    "text": "Usercenterics: TCF 2.0 / Setting-ID: nc6j0MANb\nINFOnline Measurement Manager: mh: 5 / data-d5c733acc"
+  },
+  {
+    "id": "8eedcf3e104706cbe27f28eb4f9d4b018ca4745d",
+    "url": "https://www.infonline.de/info/",
+    "title": "Status und Updates - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "b92f0c5f2106d0be243bb633a8707b79d5e987b8",
+    "url": "https://www.infonline.de/junior-sales-manager/",
+    "title": "Junior Sales Manager (m/w/d) - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "4f2a1b8db1c3ceba5cfeeddf60309a643e43047f",
+    "url": "https://www.infonline.de/preisliste/",
+    "title": "Preisliste - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "0e31d787ca07dbec8ca7e3052f598c418c735f0e",
+    "url": "https://www.infonline.de/vertriebsmitarbeiter-fuer-digital-vertrieb-b2b-m-w-d-bonn/",
+    "title": "Vertriebsmitarbeiter für digital Vertrieb B2B (m/w/d), Bonn - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "aeef96e31a5d59b3daa222fbdd2bc25e7511766f",
+    "url": "https://www.infonline.de/infonline-insight/news/",
+    "title": "News - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "3cca9b3007669b1a8e59b56bd56b07efa6a877b1",
+    "url": "https://www.infonline.de/en/privacy-policy/",
+    "title": "Datenschutzerklärung - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "0b6205eb9973cf3ec249c3b09b9e315b7057cc53",
+    "url": "https://www.census.gov/",
+    "title": "Census.gov | U.S. Census Bureau Homepage",
+    "description": "The Census Bureau's mission is to serve as the nation's leading provider of quality data about its p",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "3d3bbebd7cbd19448822e2eead0f8e500b0b23c9",
+    "url": "https://www.census.gov/about/census-careers.html",
+    "title": "Census Careers",
+    "description": "Explore prospective positions available at the U.S. Census Bureau.",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "8d16248b2d79087eb88b2f7ca2a097465ac3a961",
+    "url": "https://www.census.gov/about/leadership.html",
+    "title": "Executive Leadership",
+    "description": "Learn more about the Census Bureau's Executive Leadership.",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "c7f4389a5ba39206c4e871d254f1262e86ca021d",
+    "url": "https://www.iheart.com/artist/revelation-time-4101/",
+    "title": "Revelation Time | iHeart",
+    "description": "Love Is to Give, Bright Eyes, Hey Johnny",
+    "text": "Revelation Time\nRevelation Time\nAug 2010 • 15 songs\nBob Marley\nSean Paul\nShaggy\niHeart\nLive Radio\nPo"
+  },
+  {
+    "id": "f896d1eff2837a74b739f409e1a6712e12e8a4a4",
+    "url": "https://www.iheart.com/artist/quincy-jones-3918/",
+    "title": "Quincy Jones | iHeart",
+    "description": "The Secret Garden (Sweet Seduction Suite), One Hundred Ways, Just Once",
+    "text": "Quincy Jones\nMidnight Reverie\nDec 2023 • 24 songs\nThe Music You Need\nJan 2023 • 23 songs\nQuincy Jone"
+  },
+  {
+    "id": "86ad1729bde8d02d6cf14d8ebbb4f42062edce3b",
+    "url": "https://www.iheart.com/artist/talamasca-and-yuman-8928/",
+    "title": "Talamasca And Yuman | iHeart",
+    "description": "Ambient'n'roll, Ze Masterplan",
+    "text": "Talamasca And Yuman\niHeart\nLive Radio\nPodcasts\nArtist Radio\nNews\nFeatures\nEvents\nContests\nPhotos\nAbo"
+  },
+  {
+    "id": "bbf65ba8ba12664dab186c2e8ca70c21210f7ccf",
+    "url": "https://www.iheart.com/artist/robin-meloy-goldsby-7880/",
+    "title": "Robin Meloy Goldsby | iHeart",
+    "description": "Parting Glass, Then Your Heart is Full of Love, Lotus Blossom",
+    "text": "Robin Meloy Goldsby\nParting Glass — the Piano Room Collection\nAug 2023 • 6 songs\nFamiliar Places - t"
+  },
+  {
+    "id": "44b0c28818fac8ed9289e7fcf0afb3284c7d436f",
+    "url": "https://www.iheart.com/artist/los-natas-7168/",
+    "title": "Los Natas | iHeart",
+    "description": "Die Possime, Traición En El Arrocero, Alberto Migré",
+    "text": "Los Natas\nDeath Sessions\nApr 2020 • 9 songs\nRutation\nMar 2020 • 9 songs\nLa Kaspa\nFeb 2014 • 6 songs\n"
+  },
+  {
+    "id": "12423ebabbed50618a2ba0d67cdd1bdc275cba47",
+    "url": "https://www.iheart.com/artist/chicos-aventura-9465/",
+    "title": "Chicos Aventura | iHeart",
+    "description": "Lagrimas, Spanish Girl, La Cita",
+    "text": "Chicos Aventura\nCumbia De Las Buenas\nFeb 2024 • 1 song\nRecorrido Chido\nNov 2023 • 1 song\nUna Gran Av"
+  },
+  {
+    "id": "9a8260436a96fe42a9e91889621e44283e6e436a",
+    "url": "https://www.iheart.com/artist/sheb-wooley-9558/",
+    "title": "Sheb Wooley | iHeart",
+    "description": "Purple People Eater, The Purple People Eater, Rawhide",
+    "text": "Sheb Wooley\nPurple People Eater\nDec 2024 • 1 song\nThe Novelty King\nOct 2023 • 12 songs\nMeet Mister L"
+  },
+  {
+    "id": "4b3d55d2c367ecf07f2db1cb7dca4bef373d0882",
+    "url": "https://www.iheart.com/artist/charles-dickens-9517/",
+    "title": "Charles Dickens | iHeart",
+    "description": "That's the Way Love Goes, The Trial for Murder",
+    "text": "Charles Dickens\nA Christmas Carol\nFeb 2022 • 5 songs\nThe Pye Singles As & Bs\nApr 2021 • 4 songs\nAre "
+  },
+  {
+    "id": "c4dc46929206a2180baa43871e23aac6e8a4c6f5",
+    "url": "https://www.iheart.com/artist/dave-baby-cortez-10623/",
+    "title": "Dave \"Baby\" Cortez | iHeart",
+    "description": "The Happy Organ, Rinky Dink (Rerecorded), Somebody Been Messin'",
+    "text": "Dave \"Baby\" Cortez\nTweetie Pie\nJun 2020 • 12 songs\n1960´S Rock ´N´Roll, Vol. 3\nJun 2018 • 9 songs\nOr"
+  },
+  {
+    "id": "0d1bfc820210a3a8be64f97d806d4fa29f3cd301",
+    "url": "https://www.iheart.com/artist/the-fuzz-patrol-10817/",
+    "title": "The Fuzz Patrol | iHeart",
+    "description": "Do It Now!, What Is The Location?, What Is The Location?",
+    "text": "The Fuzz Patrol\nDo It Now! w/ What Is the Location\nApr 2009 • 5 songs\nProgressive House\nDino Mileta\n"
+  },
+  {
+    "id": "63016d09462ec8cfbab0c6be6131535ba2fdce61",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-the-smashing-machine-movie-a24-safdie-1236358240/",
+    "title": "Dwayne Johnson’s ‘The Smashing Machine’ Delivers TKO at Venice Premiere,",
+    "description": "Benny Safdie’s A24 film casts Johnson as legendary mixed martial arts and UFC fighter Mark Kerr, who",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "d9b112cc2998c8c81fd44d657312bc11e47cd4b0",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/graham-greene-dead-dances-with-wolves-actor-1236358659/",
+    "title": "Graham Greene Dead: Dances With Wolves Actor Was 73",
+    "description": "'Dances With Wolves’ actor Graham Greene died Monday. He was 73.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "ab94f98a70cecb380ca4b2ebf13f97d5c661d8ca",
+    "url": "https://www.hollywoodreporter.com/business/business-news/john-malone-david-zaslav-wbd-compensation-package-1236358712/",
+    "title": "John Malone Advised David Zaslav on WBD Compensation Package",
+    "description": "In an interview with the New York Times, John Malone said he advised David Zaslav on his Warner Bros",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "759a4e5f3c4b0e1742d3dcb68b63ac4f4a632ede",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/kim-novak-vertigo-leaving-hollywood-interview-venice-1236358805/",
+    "title": "Kim Novak’s Longtime Confidante Reveals Real Reason She Left Hollywood",
+    "description": "Novak, 92, appeared in Venice to accept a Golden Lion for lifetime achievement and to debut Alexandr",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "fb8b8c8e834a77979c70d36e2a881dc9ef8bd018",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/kaouther-ben-hania-on-gaza-drama-the-voice-of-hind-rajab-1236357534/",
+    "title": "Kaouther Ben Hania on Gaza Drama 'The Voice of Hind Rajab'",
+    "description": "The director tells the story of six-year-old Hind Rajab, who phoned Red Crescent volunteers from a c",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "19cb6c2127d2f1018bb5030849884d52fa6461c3",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/film4-director-farhana-bhula-appointment-channel-4-1236358832/",
+    "title": "Film4 Director: Farhana Bhula Named to Role by Channel 4",
+    "description": "Film4 has a new director, as Farhana Bhula was named head of the film unit by Channel 4.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "69cd22388820e71ad0ece8acf8b9aa46d398ec69",
+    "url": "https://www.hollywoodreporter.com/business/business-news/howard-stern-delays-siriusxm-return-1236358874/",
+    "title": "Howard Stern Delays SiriusXM Return After Speculation of Show Ending",
+    "description": "Howard Stern delays SiriusXM return after speculation about show ending.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "db8c1acf831492e9704381f64ef877dc204595e6",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/sofia-coppola-marc-jacobs-venice-film-festival-interview-1236358848/",
+    "title": "Sofia Coppola Didn't Want Her Marc Jacobs Doc \"to Be About Me\"",
+    "description": "Sofia Coppola's intimate portrait of fashion designer and her long-time friend Marc Jacobs, 'Marc By",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "33992dbdf353ad9915539309df9d17cc994702d8",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/sheinelle-jones-returns-nbc-today-show-1236358714/",
+    "title": "Sheinelle Jones Returns to NBC Today Show Sept. 5",
+    "description": "Sheinelle Jones returns to NBC Today show Sep. 5 after husband's death.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "d1805237ecd3e5a009dec58cbad8a5497eec613e",
+    "url": "https://www.hollywoodreporter.com/business/business-news/new-vogue-editor-chloe-malle-1236358558/",
+    "title": "New Vogue Editor is Chloe Malle, Daughter of Candice Bergen",
+    "description": "New Vogue editor is Chloe Malle, daughter of Candice Bergen.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "f4c8df7cc6723fca4f736d975e11acf9287a7bcd",
+    "url": "https://www.sap.com/france/documents/2024/04/a8f21577-b87e-0010-bca6-c68f7e60039b.html",
+    "title": "SAP France Newsletter n°4 2024 -Supply Chain & Industry 4.0",
+    "description": "Découvrez dans cette newsletter les innovations, tendances, témoignages clients, nouveautés produits",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "376666e8b3a7638b3a8d5ccd18e996c3c22fa43b",
+    "url": "https://www.sap.com/france/documents/2024/04/feb77fa4-b57e-0010-bca6-c68f7e60039b.html",
+    "title": "SAP Innovation Day | Future of Finance – grandes tendances & nouveautés SAP",
+    "description": "PwC partage les résultats de leur étude annuelle réalisée auprès de 200 directions financières sur l",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "73d9d91694441ea563f0b5db84d449b47c4cd42e",
+    "url": "https://www.sap.com/france/documents/2024/04/4cbfdb07-b57e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "9c3150839ede2051b7752baa2c66229ac532fea5",
+    "url": "https://www.sap.com/france/documents/2024/04/70f739d7-b77e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "55e4cd148ba1eaa2576073667b253b846e606e93",
+    "url": "https://www.sap.com/france/documents/2024/04/8e93d717-b67e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "9e8568e511044239e8d23e0c2987aa8cfd99094d",
+    "url": "https://www.sap.com/france/documents/2023/03/e8aaa9c9-667e-0010-bca6-c68f7e60039b.html",
+    "title": "Étude d'évaluation - Mise en place d'une Supply Chain parée contre les risques et durable",
+    "description": "Découvrez comment gérer et limiter les risques commerciaux de manière globale avec une Supply Chain ",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "178fe77cf7975465601d51e24dc49b675440cdca",
+    "url": "https://www.sap.com/france/documents/2023/03/4057726c-657e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "e1632bc45c35158739450069ddb7e0c57a860f56",
+    "url": "https://www.sap.com/france/documents/2023/03/6881aea2-697e-0010-bca6-c68f7e60039b.html",
+    "title": "News 2023 DSC FR N°3",
+    "description": "Découvrez les innovations, tendances, témoignages clients, nouveautés produits, avis d'experts, évén",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "646d39179416fbca0303feede3c40745c09aac09",
+    "url": "https://www.sap.com/france/documents/2023/03/1cc5ff96-687e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "9d2fc5015e6f80645be2533a4d914b4c1deda304",
+    "url": "https://www.sap.com/france/documents/2023/03/de50e07a-6a7e-0010-bca6-c68f7e60039b.html",
+    "title": "Limitation du risque fournisseur : les 10 conseils à suivre",
+    "description": "Nous avons créé une fiche listant 10 conseils pour aider les responsables Achats à atténuer le risqu",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "ca43bbcb5210d9b4d7fd390223c5552e78787bfe",
+    "url": "https://www.thawte.com/tls-ssl-certificates/pkio-authentication-encryption",
+    "title": "DigiCert® PKIo Authentication/Encryption | PKIoverheid | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "d0c00a7568fd2a3f6deeb67ea5fbc0e1c89a117c",
+    "url": "https://www.thawte.com/tls-ssl-certificates/eu-qualified-electronic-seal-psd2",
+    "title": "EU Qualified Electronic Seal Certificates | PSD2 Qsealc | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "357ef69afd2dfa3fe62042b936f13d1a78a74533",
+    "url": "https://www.thawte.com/tls-ssl-certificates/compare-eu-qualified-web-authentication-certificates",
+    "title": "Compare PKIo Authentication and Encryption Certificates | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "741425db55e7794f257a227b4b02f98a9477713a",
+    "url": "https://www.thawte.com/tls-ssl-certificates/qualified-web-authentication-certificates-qwacs",
+    "title": "DigiCert®  EU Qualified Web Authentication Certificates | PSD2 QWACs | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "ea9e63ab5754e5f2bcc255df4c732f7c64780aae",
+    "url": "https://www.thawte.com/tls-ssl-certificates/compare-pkio-professional-signing",
+    "title": "Compare PKIo Professional Signing Certificates | PKIoverheid | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "9939f2bd9ac4d0ec90e26441691a1b233c83177a",
+    "url": "https://www.thawte.com/tls-ssl/digital-certificates",
+    "title": "Digital Certificates | Thawte",
+    "description": "Protect your website, device, or other assets with our comprehensive range of digital certificate pr",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "101bec6c456425a54612ec55b7879484baee7e81",
+    "url": "https://www.thawte.com/tls-ssl-certificates/pkio-document-signing",
+    "title": "PKIo Professional Signing Certificates | PKIoverheid | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "0e17f91e256b0ae7aa8e109c1cd0a5a35d8f349f",
+    "url": "https://www.thawte.com/tls-ssl-certificates/compare-pkio-authentication-encryption-certificates_msm_moved",
+    "title": "Compare PKIo Authentication and Encryption Certificates | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
   }
 ]
