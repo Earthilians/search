@@ -169811,5 +169811,425 @@
     "title": "What is Facility Management? Key Benefits & Checklist | Matterport",
     "description": "Matterport",
     "text": "Ventas: +34 910 482 834\nFacility Management: Benefits, Challenges & Strategies"
+  },
+  {
+    "id": "a6b6f16f51cb5e814daf9923d9e2eacbcccff451",
+    "url": "https://www.siemens.com/hk/en/company.html",
+    "title": "Company - Siemens HK",
+    "description": "Siemens is a global technology company focused on industry, infrastructure, transport, and healthcar",
+    "text": ""
+  },
+  {
+    "id": "0cd6bfe6cf973701b72be4f31703ae4eb8128f5f",
+    "url": "https://www.siemens.com/hk/en.html",
+    "title": "Home - English - Hong Kong - Siemens HK",
+    "description": "Electrification, automation and digitalization require innovative solutions: Discover Siemens as a s",
+    "text": ""
+  },
+  {
+    "id": "809c811bf0a142d6f3e635585782479615fc4058",
+    "url": "https://www.siemens.com/hk/en/company/about/businesses.html",
+    "title": "Businesses - Siemens HK",
+    "description": "As a global technology company, we help customers meet the great challenges of our time.",
+    "text": ""
+  },
+  {
+    "id": "e08a59dd2d95b7edb135ffb410b5de915d4b3900",
+    "url": "https://www.siemens.com/hk/en/company/about.html",
+    "title": "About us",
+    "description": "The Siemens AG is a technology company focused on industry, infrastructure, transport, and healthcar",
+    "text": "We are a technology company focused on industry, infrastructure, transport, and healthcare. From mor"
+  },
+  {
+    "id": "003bfb70938a3305660b0a107e8f9471ea8fe698",
+    "url": "https://www.siemens.com/hk/en/company/about/compliance.html",
+    "title": "Compliance - Siemens HK",
+    "description": "Compliance forms the basis for all our decisions and activities, and it is the key to integrity in c",
+    "text": ""
+  },
+  {
+    "id": "f5e8a337d0ba5c90d8ba0ffd5f361fafc1b247a4",
+    "url": "https://www.siemens.com/hk/en/company/about/contact-us.html",
+    "title": "Contact us",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ea5837a8a4689332eb92fc123107e499e7a14216",
+    "url": "https://www.siemens.com/hk/en/company/about/management2.html",
+    "title": "Management - Siemens HK",
+    "description": "As the top management body, the Managing Board is committed to serving the interests of the company ",
+    "text": ""
+  },
+  {
+    "id": "b4811fcca8eef6ad96a8196fb2f3ccd37e3cc6ae",
+    "url": "https://www.siemens.com/hk/en/company/fairs-events/innovation-day-hk-2020.html",
+    "title": "Innovation Day 2020 - Siemens HK",
+    "description": "Siemens Innovation Day Hong Kong 2020 explores how innovation in technology, sustainability, and sma",
+    "text": ""
+  },
+  {
+    "id": "65891b1cb9ee6b51f8657e8106dc56e86ece66d2",
+    "url": "https://www.siemens.com/hk/en/company/fairs-events.html",
+    "title": "Fairs & Events - Siemens HK",
+    "description": "Discover upcoming Siemens trade fairs and events worldwide, from energy and digital technology to he",
+    "text": ""
+  },
+  {
+    "id": "535f562eeb4f38a86e0dc04e636ec74bb146ea2b",
+    "url": "https://www.siemens.com/hk/en/company/fairs-events/siemens-innovation-forum-2023.html",
+    "title": "Siemens Innovation Forum 2023 - Siemens HK",
+    "description": "Siemens Innovation Forum 2023 showcases digital solutions and net-zero strategies empowering Hong Ko",
+    "text": ""
+  },
+  {
+    "id": "722acbd69b31f78e72fd95ef121b42176ca52ff7",
+    "url": "https://e-volution.ai/team/waylon-dalton/",
+    "title": "",
+    "description": "",
+    "text": "CEO & Lead Blockchain\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icin"
+  },
+  {
+    "id": "7b37973a37492e0ea5e2a98f47f1ea6adac1c549",
+    "url": "https://e-volution.ai/how-to-opt-out/",
+    "title": "How to Opt-out – E – Volution",
+    "description": "",
+    "text": "To delete cookies from e-volution.ai you should proceed with the following steps, eg. Google Chrome:"
+  },
+  {
+    "id": "6f86622fe5672c8e42b8792c45ae50c7db6104d4",
+    "url": "https://e-volution.ai/team/moises-teare/",
+    "title": "",
+    "description": "",
+    "text": "Blockchain App Developer\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis i"
+  },
+  {
+    "id": "347fc40fcadd6550001dac240f8c3f9290e8a925",
+    "url": "https://e-volution.ai/team/stefan-harary/",
+    "title": "",
+    "description": "",
+    "text": "CTO & Senior Developer\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis ici"
+  },
+  {
+    "id": "ad988ff9dbeee5eb18609a736c66019fdb7d1e44",
+    "url": "https://e-volution.ai/team/gabriel-bernal/",
+    "title": "",
+    "description": "",
+    "text": "Community Management\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing"
+  },
+  {
+    "id": "61fcfe0f70efe8b8eba79cd33b93838d7968a9c2",
+    "url": "https://e-volution.ai/team/jaxon-kilburn/",
+    "title": "",
+    "description": "",
+    "text": "Board Advisor\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. "
+  },
+  {
+    "id": "4d1a38d857795f70aed89cd95dd82176595985f6",
+    "url": "https://e-volution.ai/team/julian-paten/",
+    "title": "",
+    "description": "",
+    "text": "Board Advisor\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. "
+  },
+  {
+    "id": "3201e715c880e14d54c79936c2d778f087b30e34",
+    "url": "https://e-volution.ai/team/dylan-finch/",
+    "title": "",
+    "description": "",
+    "text": "Board Advisor\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. "
+  },
+  {
+    "id": "2040988cccaaf41b0e2b7e0f47f6b9ac506c8c0c",
+    "url": "https://e-volution.ai/team/waylon-dalton-2/",
+    "title": "",
+    "description": "",
+    "text": "CEO & Lead Blockchain\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icin"
+  },
+  {
+    "id": "6330f08d5b60586331f2eb3e6bf041df2f87b58d",
+    "url": "https://e-volution.ai/team/stefan-harary-2/",
+    "title": "",
+    "description": "",
+    "text": "CTO & Senior Developer\nHe is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis ici"
+  },
+  {
+    "id": "ec5aeed246e131561a87d6aa2a5e452c77c68e91",
+    "url": "https://www.techtarget.com/searchnetworking/video/The-pros-and-cons-of-SD-WAN-vs-MPLS",
+    "title": "The pros and cons of SD-WAN vs. MPLS | TechTarget",
+    "description": "When comparing SD-WAN vs. MPLS, it's helpful to consider the SD-WAN benefits of cost savings, securi",
+    "text": "The rise of software-defined WAN has caused many organizations to debate SD-WAN vs. MPLS architectur"
+  },
+  {
+    "id": "9c97617cbc15b45e926696a4cdae0fb41f6a6479",
+    "url": "https://www.techtarget.com/searchnetworking/tip/Network-scalability-issues-and-several-approaches-to-fix-them",
+    "title": "Network scalability issues and 4 approaches to fix them | TechTarget",
+    "description": "Learn how to fix network scalability issues with WAN optimization, bottleneck fixes, software improv",
+    "text": "Getty Images/iStockphoto\nNetwork teams to ensure resource consistency even in the event of traffic s"
+  },
+  {
+    "id": "245d7fba024831700bf4eb070a4fa86210d03dcc",
+    "url": "https://www.mapbox.com/contact/electric-vehicle",
+    "title": "Get Access to Mapbox for EV",
+    "description": "Enhance the EV driving experience and provide drivers with the tools they need for efficient and has",
+    "text": "Mapbox offers a wide range of solutions tailored for Electric Vehicles (EVs) to enhance the EV drivi"
+  },
+  {
+    "id": "1e90898fffb81a196f0ccf2ad2e6182f162b61fb",
+    "url": "https://www.mapbox.com/contact/early-access-mapbox-native",
+    "title": "Access New Features for Mapbox Snowflake Native App",
+    "description": "Register for early access to new and updated features.",
+    "text": "Register for early access to new and updated features, including:"
+  },
+  {
+    "id": "a9b5025feb0a3013e7c0482df1614d07834b49d2",
+    "url": "https://www.mapbox.com/contact/matrix-api-depart-at",
+    "title": "Get Access to DEPART_AT",
+    "description": "",
+    "text": "DEPART_AT is now available to specify the desired time of departure to account for future traffic co"
+  },
+  {
+    "id": "6214aa22248986759ba1087a3906e53300fe6071",
+    "url": "https://www.mapbox.com/contact/optimization-v2-api",
+    "title": "Get access to Optimization v2 API Beta",
+    "description": "",
+    "text": "We are launching a Beta program for Optimization v2 API with new features like time window constrain"
+  },
+  {
+    "id": "6f6a3c33cb5397967aa996d73ffc8ae29352b13d",
+    "url": "https://www.mapbox.com/contact/sales",
+    "title": "Contact us | Mapbox",
+    "description": "Learn more about connecting with Mapbox Sales, Mapbox Support, and our other teams.",
+    "text": "Please select a request type at the top of the form for guidance on how to contact us.\nOur sales tea"
+  },
+  {
+    "id": "9c7bd6cd591be862856aef2d8fed7d3d6b3c8bee",
+    "url": "https://www.mapbox.com/contact",
+    "title": "Contact us | Mapbox",
+    "description": "Learn more about connecting with Mapbox Sales, Mapbox Support, and our other teams.",
+    "text": "Please select a request type at the top of the form for guidance on how to contact us.\nOur sales tea"
+  },
+  {
+    "id": "97d52daceb739ff56997f74067c99cb1f4ea5efb",
+    "url": "https://www.mapbox.com/designers",
+    "title": "Designers | Mapbox",
+    "description": "Design your best custom map for web or mobile. Download The Guide To Map Design, a 128-page guide th",
+    "text": "Learn how to build beautiful maps, download our design guide! Your maps will be just amazing on your"
+  },
+  {
+    "id": "a55d9cfe280571651cd0fb70d30753dabed65286",
+    "url": "https://liveramp.com/developers/product/identity/",
+    "title": "Developer Solutions - Identity APIs | LiveRamp",
+    "description": "Work within any environment to build a comprehensive identity solution by incorporating identity API",
+    "text": "Confidently configure our solutions to meet your objectives—from resolving disparate identities and "
+  },
+  {
+    "id": "f2fd2d1f0b3f99537f7114387520315dd1d5266f",
+    "url": "https://liveramp.com/privacy-legal-compliance/",
+    "title": "Privacy & Legal Compliance | LiveRamp",
+    "description": "Our platform is used by global teams with the assurance that the use cases we enable adhere to all m",
+    "text": "Our platform is used by global teams with the assurance that the use cases we enable adhere to all m"
+  },
+  {
+    "id": "ce30290b8a55fc23595fc549fa4aa38414e9862c",
+    "url": "https://liveramp.com/developers/",
+    "title": "Developers & APIs | LiveRamp",
+    "description": "Discover new ways to better connect, control, and activate data to transform customer experiences an",
+    "text": "Discover new ways to better connect, control, and activate data to transform customer experiences an"
+  },
+  {
+    "id": "2c4f8df92f481ad6902ff8b0dd643888439a9192",
+    "url": "https://liveramp.com/our-platform/cloud/google/",
+    "title": "Google Cloud Platform - Cloud Solutions | LiveRamp",
+    "description": "LiveRamp & Google Cloud Platform address complex data challenges across the enterprise. Uncover new ",
+    "text": "Uncover new ways to collaborate in the cloud with Google Cloud Platform (GCP).\nLiveRamp has been nam"
+  },
+  {
+    "id": "f064d27fc1b8a1a362e5091653f276be65f429e7",
+    "url": "https://liveramp.com/privacy/dsp-dmp-country-specific-terms/",
+    "title": "DSPs, and DMPs RampID Services Country-Specific Terms | LiveRamp",
+    "description": "Subject to the terms of your LiveRampStatement of Work for LiveRamp Services for Real Time Bidding D",
+    "text": "Subject to the terms of your LiveRampStatement of Work for LiveRamp Services for Real Time Bidding ("
+  },
+  {
+    "id": "c71bf8b868e4530bbc27c0028a6f327a93ad1029",
+    "url": "https://liveramp.com/privacy/canada/fr/",
+    "title": "Canada - Your Rights - FR | LiveRamp",
+    "description": "Plusieurs pays accordent à leurs résidents des droits spécifiques concernant leurs informations pers",
+    "text": "Plusieurs pays accordent à leurs résidents des droits spécifiques concernant leurs informations pers"
+  },
+  {
+    "id": "793ab357743ec3ac1f737cf00d4c8f52a7019080",
+    "url": "https://liveramp.com/data-collaboration-glossary/",
+    "title": "Data Collaboration Glossary | LiveRamp",
+    "description": "Data collaboration accompanies a daunting vocabulary & set of technical terms which can be lost to c",
+    "text": "In a survey we fielded at RampUp 2023, almost 80% of respondents shared that they see data collabora"
+  },
+  {
+    "id": "f15d1a809a1a0622b0ee194bff149b03de9bc1e8",
+    "url": "https://liveramp.com/our-platform/cloud/snowflake/",
+    "title": "Snowflake Native Apps - Cloud Solutions | LiveRamp",
+    "description": "Learn how LiveRamp’s partnership with Snowflake supports expansive, scalable data infrastructure in ",
+    "text": "LiveRamp and Snowflake’s partnership supports expansive, scalable data infrastructure in the cloud.\n"
+  },
+  {
+    "id": "1be2e1091fd1d2562a658d69202d9a0f434cdc85",
+    "url": "https://liveramp.com/about/",
+    "title": "About Us | LiveRamp",
+    "description": "A groundbreaking leader in consumer privacy, data ethics, and foundational identity, LiveRamp is bas",
+    "text": "Headquartered in San Francisco, LiveRamp enables companies and their partners to better connect, con"
+  },
+  {
+    "id": "e10db9403b0f39d0896fe88ec33581bdc5b49c08",
+    "url": "https://liveramp.com/diversity-inclusion-belonging/",
+    "title": "Diversity, Inclusion, and Belonging | LiveRamp",
+    "description": "At LiveRamp, every employee is a guardian of diversity, inclusion, and belonging. We work to foster ",
+    "text": "At LiveRamp, we work to foster a sense of belonging where everyone can bring their full selves to wo"
+  },
+  {
+    "id": "4ef4b2a3b3973b62c060ac92e1ddff318e6f9623",
+    "url": "https://www.ign.com/wikis/no-more-heroes-heroes-paradise",
+    "title": "No More Heroes Guide - IGN",
+    "description": "No More Heroes is the purified essence of Japanese",
+    "text": "No More Heroes is the purified essence of Japanese geekdom.\nMeet Travis Touchdown, a spunky dude wit"
+  },
+  {
+    "id": "6d58f8424a9651f5456d8acfefc628ae2eab4edf",
+    "url": "https://www.ign.com/wikis/the-earth-defense-force-insect-armageddon",
+    "title": "Earth Defense Force: Insect Armageddon Guide - IGN",
+    "description": "Welcome to Earth Defense Force: Insect Armageddon - the eagerly-awaited follow up to the breakout cu",
+    "text": "Welcome to Earth Defense Force: Insect Armageddon - the eagerly-awaited follow up to the breakout cu"
+  },
+  {
+    "id": "2b14b31c17f3ed7da38ba3bfd16422165f936e39",
+    "url": "https://www.ign.com/wikis/the-lord-of-the-rings-war-in-the-north",
+    "title": "War in the North Guide - IGN",
+    "description": "The Lord of the Rings: War in the North is an Action-RPG adventure from developer Snowblind, who mad",
+    "text": "The Lord of the Rings: War in the North is an Action-RPG adventure from developer Snowblind, who mad"
+  },
+  {
+    "id": "bf6d8fd85f50e7b47011381d947b791087fbfd2d",
+    "url": "https://www.ign.com/wikis/the-heist",
+    "title": "The Heist Guide - IGN",
+    "description": "The Heist is a compilation of four puzzle games that the player is asked to solve to break into the ",
+    "text": "The Heist is a compilation of four puzzle games that the player is asked to solve to break into the "
+  },
+  {
+    "id": "fa6fbc59e342bb19c4e48510a80c57318e4b13c4",
+    "url": "https://www.ign.com/wikis/madden-nfl-12",
+    "title": "Madden 2012 Guide - IGN",
+    "description": "You can&apos;t control the outcome of the actual NFL season, but in Madden the fate of your team is ",
+    "text": "You can't control the outcome of the actual NFL season, but in Madden the fate of your team is direc"
+  },
+  {
+    "id": "9e7a5f4b290872bf09c5c5f6fd7bacb8b78a9e85",
+    "url": "https://www.ign.com/wikis/ratchet-clank-all-4-one",
+    "title": "Ratchet and Clank: All 4 One Guide - IGN",
+    "description": "Click the Edit Page button to get started creating this wiki",
+    "text": "Click the Edit Page button to get started creating this wiki guide."
+  },
+  {
+    "id": "e253d6125081f5430ad4920f68d7a2fdd412fa9c",
+    "url": "https://www.ign.com/wikis/red-dead-redemption",
+    "title": "Red Dead Redemption Guide - IGN",
+    "description": "Red Dead Redemption at IGN: walkthroughs, items, maps, video tips, and strategies",
+    "text": "Red Dead Redemption is an open-world action/adventure western game set along the border between the "
+  },
+  {
+    "id": "42dcc336b68f3a35533c76af6ef0c877b90b6559",
+    "url": "https://www.ign.com/wikis/zombie-gunship",
+    "title": "Zombie Gunship Guide - IGN",
+    "description": "The temptation to immediately start upgrading your guns, radar and other whiz-bang improvements is s",
+    "text": "The temptation to immediately start upgrading your guns, radar and other whiz-bang improvements is s"
+  },
+  {
+    "id": "f43eeb609d8e77874e9465beade65e3128889ded",
+    "url": "https://www.ign.com/wikis/resistance-3",
+    "title": "Resistance 3 Guide - IGN",
+    "description": "Resistance 3 is the final game in the premier PlayStation 3 sci-fi series, and, like any good trilog",
+    "text": "Resistance 3 is the final game in the premier PlayStation 3 sci-fi series, and, like any good trilog"
+  },
+  {
+    "id": "d2f2f6669a744f1762f85de6140c3142ef16bb0a",
+    "url": "https://www.ign.com/wikis/el-shaddai-ascension-of-the-metatron",
+    "title": "El Shaddai Guide - IGN",
+    "description": "Heaven is in chaos. A coven of angels have rebelled, forcing God to consider flooding the Earth and ",
+    "text": "Heaven is in chaos. A coven of angels have rebelled, forcing God to consider flooding the Earth and "
+  },
+  {
+    "id": "04e4247e7b0c373d9fa59e6392a2a6d73cd67b71",
+    "url": "https://www.uchicago.edu/searchold",
+    "title": "Search Page | University of Chicago",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "6762915b680ad5a66b520bf7439164e62e7bebd6",
+    "url": "https://www.jhu.edu/life/arts-culture/",
+    "title": "Arts & Culture | Johns Hopkins University",
+    "description": "Whether you are into drawing, painting, singing, dancing, acting, making your friends laugh, or play",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "1ec03aec81ef20db6efe7668c9bf89a1c47ebe67",
+    "url": "https://www.jhu.edu/contact/",
+    "title": "Contact the University | Johns Hopkins University",
+    "description": "Contact information and a searchable directory for Johns Hopkins University; Phone: 410-516-8000",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "e7c2d7a949a35c820e80a50d2610ff11a9e92736",
+    "url": "https://www.jhu.edu/university-policies/",
+    "title": "University Policies and Statements | Johns Hopkins University",
+    "description": "A complete, alphabetized list of Johns Hopkins University policies",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "840db6c10e713c900361a6fc61d6a243e52888cb",
+    "url": "https://www.jhu.edu/research/libraries/",
+    "title": "Libraries | Johns Hopkins University",
+    "description": "An overview of JHU's campus libraries, including the new Brody Learning Commons and the George Peabo",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "a295e20a7d3df5f17cbf387edc57bca47d3190bf",
+    "url": "https://www.jhu.edu/about/history/gilman-address/",
+    "title": "Gilman’s  Inaugural Address | Johns Hopkins University",
+    "description": "Complete text of the remarks made by the university's first president, Daniel Coit Gilman, laying ou",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "a86e5dbcfa83b101ac569fdd740b182d2f355233",
+    "url": "https://www.jhu.edu/admissions/tuition/",
+    "title": "Tuition & Costs | Johns Hopkins University",
+    "description": "Johns Hopkins tuition figures, before financial aid, scholarships, or other awards (actual cost will",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "a30f47197a609b21c5b7f47317d16c6b214f4783",
+    "url": "https://www.jhu.edu/admissions/financial-aid/",
+    "title": "Financial Aid | Johns Hopkins University",
+    "description": "We believe in making a Johns Hopkins education affordable for all qualified applicants, regardless o",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "975e83e65fc5e5cf6171106354e1b2aab72ad9a4",
+    "url": "https://www.jhu.edu/life/security/",
+    "title": "Security | Johns Hopkins University",
+    "description": "Security and emergency contact information, and sexual assault resources",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "b9f235e084b825c7927d4730a37f4c5977d41e71",
+    "url": "https://www.jhu.edu/life/security/emergency-contact-information/",
+    "title": "Emergency Contact Information | Johns Hopkins University",
+    "description": "Phone numbers for use in case of medical and security emergencies, plus student and occupational hea",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
+  },
+  {
+    "id": "76a1b5344c84790a9c0360260086c2ca00653ddf",
+    "url": "https://www.jhu.edu/maps-directions/",
+    "title": "Maps & Directions | Johns Hopkins University",
+    "description": "Includes interactive and printable campus maps, driving directions, parking information, and shuttle",
+    "text": "Johns Hopkins UniversityEst. 1876\nAmerica’s First Research University\nYou are in a modal window. Pre"
   }
 ]
