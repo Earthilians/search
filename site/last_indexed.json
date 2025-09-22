@@ -30229,11 +30229,11 @@
     "urls": []
   },
   "bcvcdn.com": {
-    "lastAt": 1758177238424,
+    "lastAt": 1758533267581,
     "urls": []
   },
   "kuaishou.com": {
-    "lastAt": 1758177246431,
+    "lastAt": 1758533275537,
     "urls": [
       "https://www.kuaishou.com/samecity",
       "https://www.kuaishou.com/brilliant",
@@ -30247,7 +30247,7 @@
     ]
   },
   "spaceweb.ru": {
-    "lastAt": 1758177253799,
+    "lastAt": 1758533280294,
     "urls": [
       "https://sweb.ru/hosting/antivirus/",
       "https://sweb.ru/hosting/additional-ip/",
@@ -30268,11 +30268,21 @@
       "https://sweb.ru/cloud/load-balancer/",
       "https://sweb.ru/cloud/database/",
       "https://sweb.ru/cloud/private-cloud/",
-      "https://sweb.ru/cloud/kubernetes/"
+      "https://sweb.ru/cloud/kubernetes/",
+      "https://sweb.ru/web/freeonline/",
+      "https://sweb.ru/web/marginsharing/",
+      "https://sweb.ru/web/hosting-gift/",
+      "https://sweb.ru/web/partnerstatus/",
+      "https://sweb.ru/domains/transfer/",
+      "https://sweb.ru/web/transfervps/",
+      "https://sweb.ru/web/testvps/",
+      "https://sweb.ru/web/transfer-rurf/",
+      "https://sweb.ru/web/freeconstructor/",
+      "https://sweb.ru/web/online125/"
     ]
   },
   "hostinger.com": {
-    "lastAt": 1758177257742,
+    "lastAt": 1758533283352,
     "urls": [
       "https://www.hostinger.com/about",
       "https://www.hostinger.com/affiliates",
@@ -30293,11 +30303,21 @@
       "https://www.hostinger.com/cheap-domain-names",
       "https://www.hostinger.com/cheap-web-hosting",
       "https://www.hostinger.com/cloud-hosting",
-      "https://www.hostinger.com/cms-hosting"
+      "https://www.hostinger.com/cms-hosting",
+      "https://www.hostinger.com/contacts",
+      "https://www.hostinger.com/domain-name-generator",
+      "https://www.hostinger.com/coupons",
+      "https://www.hostinger.com/domain-name-search",
+      "https://www.hostinger.com/drupal-hosting",
+      "https://www.hostinger.com/ecommerce-hosting",
+      "https://www.hostinger.com/email-marketing",
+      "https://www.hostinger.com/ecommerce-website",
+      "https://www.hostinger.com/event-website",
+      "https://www.hostinger.com/fitness-website"
     ]
   },
   "adkernel.com": {
-    "lastAt": 1758177262177,
+    "lastAt": 1758533286905,
     "urls": [
       "https://adkernel.com/",
       "https://adkernel.com/sitemap.html",
@@ -30318,11 +30338,21 @@
       "https://adkernel.com/privacy-policy/",
       "https://adkernel.com/service-and-support/",
       "https://adkernel.com/sales/",
-      "https://adkernel.com/faq/"
+      "https://adkernel.com/faq/",
+      "https://adkernel.com/open-source-development/",
+      "https://adkernel.com/our-founders/",
+      "https://adkernel.com/our-team/",
+      "https://adkernel.com/header-bidding-suite-suites/",
+      "https://adkernel.com/support/",
+      "https://adkernel.com/careers-at-adkernel/",
+      "https://adkernel.com/sweet-homepage/",
+      "https://adkernel.com/accountant/",
+      "https://adkernel.com/adop/",
+      "https://adkernel.com/job-description/"
     ]
   },
   "klarna.com": {
-    "lastAt": 1758177268647,
+    "lastAt": 1758533287452,
     "urls": [
       "https://www.klarna.com/us/about-us/contact/",
       "https://www.klarna.com/us/",
@@ -30347,7 +30377,7 @@
     ]
   },
   "coinmarketcap.com": {
-    "lastAt": 1758177275011,
+    "lastAt": 1758533294516,
     "urls": [
       "https://coinmarketcap.com/",
       "https://coinmarketcap.com/cs/",
@@ -30368,27 +30398,37 @@
       "https://coinmarketcap.com/cs/headlines/",
       "https://coinmarketcap.com/cs/headlines/news/",
       "https://coinmarketcap.com/cs/halving/bitcoin/",
-      "https://coinmarketcap.com/cs/headlines/signals/"
+      "https://coinmarketcap.com/cs/headlines/signals/",
+      "https://coinmarketcap.com/cs/how-to-buy-bitcoin/",
+      "https://coinmarketcap.com/cs/storage/",
+      "https://coinmarketcap.com/cs/defi/",
+      "https://coinmarketcap.com/cs/yield-farming/",
+      "https://coinmarketcap.com/cs/headlines/events/",
+      "https://coinmarketcap.com/cs/trending-cryptocurrencies/",
+      "https://coinmarketcap.com/cs/best-cryptos/",
+      "https://coinmarketcap.com/cs/most-viewed-pages/",
+      "https://coinmarketcap.com/cs/bitcoin-analytics/",
+      "https://coinmarketcap.com/cs/polkadot/"
     ]
   },
   "appier.net": {
-    "lastAt": 1758177276347,
+    "lastAt": 1758533295379,
     "urls": [
       "https://appier.net/"
     ]
   },
   "mncdn.com": {
-    "lastAt": 1758177335160,
+    "lastAt": 1758533354230,
     "urls": []
   },
   "craigslist.org": {
-    "lastAt": 1758177336311,
+    "lastAt": 1758533355276,
     "urls": [
       "https://craigslist.org/"
     ]
   },
   "express.co.uk": {
-    "lastAt": 1758177340464,
+    "lastAt": 1758533359050,
     "urls": [
       "https://www.express.co.uk/news/uk/2108246/warning-issued-dishwasher-kitchen",
       "https://express.co.uk/",
@@ -30409,15 +30449,25 @@
       "https://www.express.co.uk/news/uk/2108560/UK-s-best-place-to-retire-named-as-tiny-Peak-District-town",
       "https://www.express.co.uk/news/world/2109042/pet-camel-crushed-owner-when-knocked-her-down-tried-mate-her",
       "https://www.express.co.uk/news/uk/2109886/uk-worst-train-station-trains-cancelled",
-      "https://www.express.co.uk/news/uk/2109481/gorgeous-little-market-town-buzzing"
+      "https://www.express.co.uk/news/uk/2109481/gorgeous-little-market-town-buzzing",
+      "https://www.express.co.uk/news/world/2111548/country-law-ban-child-marriage",
+      "https://www.express.co.uk/news/world/2111568/russia-economy-meltdown-business-vanish-ukraine-war",
+      "https://www.express.co.uk/news/politics/2111384/nigel-farage-reform-welfare-uk-citizens",
+      "https://www.express.co.uk/news/uk/2111572/teenage-boy-quizzed-rape-girl",
+      "https://www.express.co.uk/news/royal/2111567/prince-harry-prince-archie-eton-uk",
+      "https://www.express.co.uk/news/uk/2111561/organ-donation-appeal-transplant-NHS",
+      "https://www.express.co.uk/news/uk/2111498/enfield-fire-live-huge-flames-70-firefighters",
+      "https://www.express.co.uk/news/royal/2111546/king-charles-prince-william-relationship-insider",
+      "https://www.express.co.uk/news/uk/2111550/jay-slater-heartbreaking-final-snapchat",
+      "https://www.express.co.uk/news/uk/2111307/dumped-lover-kills-exs-koi-carp"
     ]
   },
   "dv.tech": {
-    "lastAt": 1758177343624,
+    "lastAt": 1758533362182,
     "urls": []
   },
   "metamask.io": {
-    "lastAt": 1758177347827,
+    "lastAt": 1758533366379,
     "urls": [
       "https://metamask.io/news/industry",
       "https://metamask.io/",
@@ -30438,11 +30488,21 @@
       "https://metamask.io/security",
       "https://metamask.io/about",
       "https://metamask.io/snaps",
-      "https://metamask.io/updates/password-required"
+      "https://metamask.io/updates/password-required",
+      "https://metamask.io/buy-crypto",
+      "https://metamask.io/swaps",
+      "https://metamask.io/earn",
+      "https://metamask.io/your-metamask-account",
+      "https://metamask.io/sitemap",
+      "https://metamask.io/download",
+      "https://metamask.io/defi",
+      "https://metamask.io/security/metamask-security-program",
+      "https://metamask.io/nft",
+      "https://metamask.io/faqs"
     ]
   },
   "fyber.com": {
-    "lastAt": 1758177350553,
+    "lastAt": 1758533368561,
     "urls": [
       "https://fyber.com/",
       "https://digitalturbine.com/dt-creative-lab",
@@ -30463,19 +30523,29 @@
       "https://digitalturbine.com/apptopia-brand-brag-insights",
       "https://digitalturbine.com/brag-brand-insights-q1-2023",
       "https://digitalturbine.com/insights/pay-attention",
-      "https://digitalturbine.com/singletap-solution"
+      "https://digitalturbine.com/singletap-solution",
+      "https://digitalturbine.com/blog",
+      "https://digitalturbine.com/insights",
+      "https://digitalturbine.com/mobile-explorers",
+      "https://digitalturbine.com/careers",
+      "https://digitalturbine.com/case-studies",
+      "https://digitalturbine.com/all-resources",
+      "https://digitalturbine.com/legal",
+      "https://digitalturbine.com/the-ultimate-guide-to-interactive-mobile-video-ads",
+      "https://digitalturbine.com/trust-center",
+      "https://digitalturbine.com/alternative-future"
     ]
   },
   "atrustdns.com": {
-    "lastAt": 1758177354389,
+    "lastAt": 1758533372768,
     "urls": []
   },
   "clevertap-prod.com": {
-    "lastAt": 1758177357209,
+    "lastAt": 1758533375487,
     "urls": []
   },
   "asana.com": {
-    "lastAt": 1758177661343,
+    "lastAt": 1758533378378,
     "urls": [
       "https://asana.com/create-account-signup",
       "https://asana.com/company",
@@ -30496,11 +30566,21 @@
       "https://asana.com/site-map",
       "https://asana.com/thedaily",
       "https://asana.com/vision",
-      "https://asana.com/uses/prince2"
+      "https://asana.com/uses/prince2",
+      "https://asana.com/sales",
+      "https://asana.com/press",
+      "https://asana.com/research",
+      "https://asana.com/research/faq",
+      "https://asana.com/press/releases",
+      "https://asana.com/press/releases/pr",
+      "https://asana.com/jobs/all",
+      "https://asana.com/jobs/apply",
+      "https://asana.com/jobs/apprenticeship",
+      "https://asana.com/premium/integrations"
     ]
   },
   "slate.com": {
-    "lastAt": 1758177668802,
+    "lastAt": 1758533385446,
     "urls": [
       "https://slate.com/",
       "https://slate.com/podcasts/the-waves/2023/09/bama-rush-tok-from-sorority-life-to-trad-wife-how-the-greek-system-is-really-run-by-the-white-male-gaze-with-tressie-mcmillan-cottom",
@@ -30521,15 +30601,25 @@
       "https://slate.com/news-and-politics/modest-proposal",
       "https://slate.com/news-and-politics/moment-magazine",
       "https://slate.com/news-and-politics/mormon-explainer",
-      "https://slate.com/news-and-politics/news-quiz"
+      "https://slate.com/news-and-politics/news-quiz",
+      "https://slate.com/news-and-politics/newsmakers",
+      "https://slate.com/news-and-politics/not-the-best-policy",
+      "https://slate.com/news-and-politics/net-election",
+      "https://slate.com/news-and-politics/over-there",
+      "https://slate.com/news-and-politics/other-magazines",
+      "https://slate.com/news-and-politics/obamamania",
+      "https://slate.com/news-and-politics/obamas-facebook-feed",
+      "https://slate.com/news-and-politics/obit",
+      "https://slate.com/news-and-politics/office-pool",
+      "https://slate.com/news-and-politics/office-2000"
     ]
   },
   "volcgslb.com": {
-    "lastAt": 1758177675098,
+    "lastAt": 1758533391084,
     "urls": []
   },
   "euronews.com": {
-    "lastAt": 1758177678991,
+    "lastAt": 1758533394349,
     "urls": [
       "https://www.euronews.com/health/2025/09/14/the-sunday-scaries-why-the-end-of-the-weekend-feels-so-hard-heres-how-you-can-ease-it",
       "https://www.euronews.com/video/2025/09/14/latest-news-bulletin-september-14th-2025-morning",
@@ -30550,11 +30640,21 @@
       "https://www.euronews.com/my-europe/2025/09/18/trade-ukraine-gaza-starmer-pleading-for-concessions-from-trump",
       "https://www.euronews.com/2025/09/18/trump-and-king-charles-hail-us-uk-special-bond-in-lavish-state-dinner-speech",
       "https://www.euronews.com/2025/09/17/doctors-for-brazils-former-president-jair-bolsonaro-say-they-have-detected-early-stage-can",
-      "https://www.euronews.com/2025/09/17/ukraine-expects-29bn-fund-for-us-weapons-to-fight-russia-zelenskyy-says"
+      "https://www.euronews.com/2025/09/17/ukraine-expects-29bn-fund-for-us-weapons-to-fight-russia-zelenskyy-says",
+      "https://www.euronews.com/video/2025/09/22/russian-airstrikes-kill-three-and-wound-two-in-zaporizhzhia",
+      "https://www.euronews.com/travel/2025/09/22/airlines-struggle-with-strikes-and-aircraft-shortages-what-does-it-mean-for-your-travel-pl",
+      "https://www.euronews.com/video/2025/09/22/thousands-march-in-paris-for-recognition-of-palestinian-state",
+      "https://www.euronews.com/next/2025/09/22/how-greece-is-using-big-data-drones-and-ai-to-overhaul-its-tax-and-finance-sector",
+      "https://www.euronews.com/culture/2025/09/22/drunk-bats-and-pasta-clumps-the-winners-of-2025s-ig-nobel-prizes",
+      "https://www.euronews.com/culture/2025/09/22/intervision-2025-russias-answer-to-eurovision-names-inaugural-winner",
+      "https://www.euronews.com/culture/2025/09/22/culture-digest-the-best-things-to-do-hear-see-or-watch-in-europe-this-week",
+      "https://www.euronews.com/next/2025/09/22/trump-reveals-that-murdochs-and-tech-billionaires-could-take-part-in-tiktok-deal",
+      "https://www.euronews.com/health/2025/09/22/europes-reliance-on-foreign-health-workers-is-growing-who-report-finds-this-is-why-it-matt",
+      "https://www.euronews.com/next/2025/09/22/why-ciscos-president-isnt-worried-about-ai-taking-his-job-or-gen-z-entry-jobs"
     ]
   },
   "sendbird.com": {
-    "lastAt": 1758177688928,
+    "lastAt": 1758533403143,
     "urls": [
       "https://sendbird.com/",
       "https://sendbird.com/blog/category/security",
@@ -30575,11 +30675,21 @@
       "https://sendbird.com/blog/ai-voice-agents",
       "https://sendbird.com/blog/agentic-ai-implementation-guide",
       "https://sendbird.com/blog/introducing-voice-ai-agent",
-      "https://sendbird.com/blog/agentic-ai-in-retail"
+      "https://sendbird.com/blog/agentic-ai-in-retail",
+      "https://sendbird.com/blog/agentic-commerce",
+      "https://sendbird.com/blog/ai-in-cx-report-2025",
+      "https://sendbird.com/blog/ai-in-retail",
+      "https://sendbird.com/blog/charting-the-future-of-ai-agents-at-etail-boston",
+      "https://sendbird.com/blog/how-to-prevent-rogue-ai",
+      "https://sendbird.com/blog/introducing-trust-os-for-ai-agents",
+      "https://sendbird.com/blog/ai-agent-observability",
+      "https://sendbird.com/blog/agentic-ai-governance",
+      "https://sendbird.com/blog/ai-agent-evaluation-and-testing",
+      "https://sendbird.com/blog/agentic-ai-compliance-and-safety"
     ]
   },
   "medallia.com": {
-    "lastAt": 1758177697643,
+    "lastAt": 1758533408937,
     "urls": [
       "https://www.medallia.com/",
       "https://www.medallia.com/customers/3m-case-study/",
@@ -30600,45 +30710,55 @@
       "https://www.medallia.com/customers/massmutual/",
       "https://www.medallia.com/customers/anaplan/",
       "https://www.medallia.com/customers/best-western/",
-      "https://www.medallia.com/customers/andersen-corporation/"
+      "https://www.medallia.com/customers/andersen-corporation/",
+      "https://www.medallia.com/customers/commscope/",
+      "https://www.medallia.com/customers/cosmosdirekt/",
+      "https://www.medallia.com/customers/choice-hotels/",
+      "https://www.medallia.com/customers/comcast/",
+      "https://www.medallia.com/customers/esler-companies/",
+      "https://www.medallia.com/customers/fidelity-international/",
+      "https://www.medallia.com/customers/generali/",
+      "https://www.medallia.com/customers/brightstar/",
+      "https://www.medallia.com/customers/deliveroo/",
+      "https://www.medallia.com/customers/counter-culture-coffee/"
     ]
   },
   "acrobat.com": {
-    "lastAt": 1758177698025,
+    "lastAt": 1758533409334,
     "urls": [
       "https://acrobat.com/"
     ]
   },
   "capitalonegslbex.com": {
-    "lastAt": 1758177701512,
+    "lastAt": 1758533412479,
     "urls": []
   },
   "ads-twitter.com": {
-    "lastAt": 1758177704708,
+    "lastAt": 1758533415542,
     "urls": []
   },
   "mfms.ru": {
-    "lastAt": 1758177706835,
+    "lastAt": 1758533417622,
     "urls": [
       "https://mfms.ru/"
     ]
   },
   "mercadolibre.com": {
-    "lastAt": 1758177710006,
+    "lastAt": 1758533420670,
     "urls": []
   },
   "hhs.gov": {
-    "lastAt": 1758177713261,
+    "lastAt": 1758533423865,
     "urls": []
   },
   "tawk.to": {
-    "lastAt": 1758180094430,
+    "lastAt": 1758533425098,
     "urls": [
       "https://tawk.to/"
     ]
   },
   "caiyicloud.com": {
-    "lastAt": 1758180095991,
+    "lastAt": 1758533427269,
     "urls": [
       "https://caiyicloud.com/"
     ]
