@@ -30764,51 +30764,51 @@
     ]
   },
   "tynt.com": {
-    "lastAt": 1758180096311,
+    "lastAt": 1758536736242,
     "urls": [
       "https://tynt.com/"
     ]
   },
   "adentifi.com": {
-    "lastAt": 1758180097401,
+    "lastAt": 1758536737516,
     "urls": [
       "https://adentifi.com/"
     ]
   },
   "samsungnyc.com": {
-    "lastAt": 1758180100528,
+    "lastAt": 1758536740762,
     "urls": []
   },
   "bls.gov": {
-    "lastAt": 1758180103918,
+    "lastAt": 1758536744974,
     "urls": []
   },
   "tcylgslb.com": {
-    "lastAt": 1758180107290,
+    "lastAt": 1758536748572,
     "urls": []
   },
   "axios.com": {
-    "lastAt": 1758180114180,
+    "lastAt": 1758536755236,
     "urls": []
   },
   "addthis.com": {
-    "lastAt": 1758180117735,
+    "lastAt": 1758536758878,
     "urls": []
   },
   "quantcount.com": {
-    "lastAt": 1758180176597,
+    "lastAt": 1758536817732,
     "urls": []
   },
   "ru.com": {
-    "lastAt": 1758180179829,
+    "lastAt": 1758536820921,
     "urls": []
   },
   "alikunlun.com": {
-    "lastAt": 1758180238688,
+    "lastAt": 1758536879786,
     "urls": []
   },
   "asu.edu": {
-    "lastAt": 1758180241783,
+    "lastAt": 1758536882148,
     "urls": [
       "https://www.asu.edu/",
       "https://asu.edu/",
@@ -30829,11 +30829,21 @@
       "https://www.asu.edu/alumni/notable-famous-alumni",
       "https://www.asu.edu/news-events",
       "https://www.asu.edu/academics/colleges-schools/polytechnic",
-      "https://www.asu.edu/home"
+      "https://www.asu.edu/home",
+      "https://www.asu.edu/about/privacy",
+      "https://www.asu.edu/academics/centers-institutes/proposal-changes",
+      "https://www.asu.edu/president",
+      "https://www.asu.edu/giving",
+      "https://www.asu.edu/academics/faculty-excellence",
+      "https://www.asu.edu/about/locations-maps",
+      "https://www.asu.edu/about/innovate",
+      "https://www.asu.edu/about/leadership",
+      "https://www.asu.edu/academics/colleges-schools/havasu",
+      "https://www.asu.edu/research"
     ]
   },
   "like.video": {
-    "lastAt": 1758180259297,
+    "lastAt": 1758536900088,
     "urls": [
       "https://like.video/",
       "https://likee.video/",
@@ -30850,11 +30860,11 @@
     ]
   },
   "m.me": {
-    "lastAt": 1758180265753,
+    "lastAt": 1758536903255,
     "urls": []
   },
   "quantummetric.com": {
-    "lastAt": 1758180271610,
+    "lastAt": 1758536908188,
     "urls": [
       "https://quantummetric.com/",
       "https://www.quantummetric.com/partners/monetate",
@@ -30871,21 +30881,29 @@
       "https://www.quantummetric.com/blog/ai-powered-session-replay-customer-support-user-experience",
       "https://www.quantummetric.com/platform/performance-monitoring",
       "https://www.quantummetric.com/press-releases/quantum-metric-announces-another-record-breaking-year-of-growth",
-      "https://www.quantummetric.com/press-releases/digital-teams-waste-two-months-a-year-on-digital-escalations-with-no-business-impact-according-to-a-new-quantum-metric-report"
+      "https://www.quantummetric.com/press-releases/digital-teams-waste-two-months-a-year-on-digital-escalations-with-no-business-impact-according-to-a-new-quantum-metric-report",
+      "https://www.quantummetric.com/glossary/behavioral-cohort",
+      "https://www.quantummetric.com/blog/turning-data-into-understanding-with-the-quantified-why",
+      "https://www.quantummetric.com/blog/how-to-design-a-support-first-mobile-strategy",
+      "https://www.quantummetric.com/press-releases/quantum-metric-simplifies-digital-customer-listening-with-gen-ai-powered-solution",
+      "https://www.quantummetric.com/industries/telecom",
+      "https://www.quantummetric.com/glossary/exit-rate",
+      "https://www.quantummetric.com/blog/2025-cpd-signal-awards-finalists",
+      "https://www.quantummetric.com/empathy-by-design/fsi-executive"
     ]
   },
   "kakao.com": {
-    "lastAt": 1758180273969,
+    "lastAt": 1758536910602,
     "urls": [
       "https://kakao.com/"
     ]
   },
   "mitre.org": {
-    "lastAt": 1758180278676,
+    "lastAt": 1758536916039,
     "urls": []
   },
   "rollingstone.com": {
-    "lastAt": 1758180285852,
+    "lastAt": 1758536922728,
     "urls": [
       "https://www.rollingstone.com/politics/politics-news/giuliani-injured-hospitalized-car-crash-new-hampshire-1235419511/",
       "https://www.rollingstone.com/politics/politics-news/trump-admin-judge-blocks-guatemalan-children-deportation-1235419519/",
@@ -30906,11 +30924,21 @@
       "https://www.rollingstone.com/music/music-news/camila-cabello-shows-love-fifth-harmony-after-reunion-1235419673/",
       "https://www.rollingstone.com/music/music-latin/liniker-lincoln-center-caju-album-1235419656/",
       "https://www.rollingstone.com/culture/culture-news/burning-man-homicide-victim-police-seek-help-identifying-1235419729/",
-      "https://www.rollingstone.com/music/music-news/liam-payne-cousin-ross-harris-honors-singer-song-bones-1235419705/"
+      "https://www.rollingstone.com/music/music-news/liam-payne-cousin-ross-harris-honors-singer-song-bones-1235419705/",
+      "https://www.rollingstone.com/tv-movies/tv-movie-features/28-years-later-the-bone-temple-first-look-1235419712/",
+      "https://www.rollingstone.com/music/music-news/lil-nas-x-father-breakdown-arrest-interview-1235419772/",
+      "https://www.rollingstone.com/politics/politics-features/bernie-sanders-platner-maine-senate-oyster-oligarchs-1235419765/",
+      "https://www.rollingstone.com/tv-movies/tv-movie-news/graham-greene-dances-with-wolves-actor-obituary-1235419762/",
+      "https://www.rollingstone.com/culture/culture-news/howard-stern-delays-siriusxm-return-retirement-rumors-1235419783/",
+      "https://www.rollingstone.com/music/music-latin/maluma-farruko-grupo-firme-perform-2025-premios-juventud-1235419698/",
+      "https://www.rollingstone.com/music/music-news/zara-larsson-announces-2026-midnight-sun-tour-1235419178/",
+      "https://www.rollingstone.com/music/music-news/fugees-pras-michel-colon-cancer-surgery-1235419824/",
+      "https://www.rollingstone.com/culture/culture-news/jane-krakowski-oh-mary-broadway-1235419872/",
+      "https://www.rollingstone.com/music/music-news/sombr-hit-back-to-friends-live-mtv-global-push-artist-1235419880/"
     ]
   },
   "entrepreneur.com": {
-    "lastAt": 1758180292032,
+    "lastAt": 1758536928926,
     "urls": [
       "https://www.entrepreneur.com/money-finance/learn-pro-stock-trading-strategies-with-this-30/496963",
       "https://www.entrepreneur.com/science-technology/how-i-went-from-side-hustle-to-7-figures-in-12-months-using/497090",
@@ -30931,25 +30959,35 @@
       "https://www.entrepreneur.com/science-technology/why-its-time-to-rethink-the-health-data-economy/496524",
       "https://www.entrepreneur.com/business-news/federal-reserve-to-cut-interest-rates-analysts/497236",
       "https://www.entrepreneur.com/growing-a-business/how-working-with-rivals-can-unlock-bigger-opportunities/496533",
-      "https://www.entrepreneur.com/leadership/how-wwes-chelsea-greens-punched-her-way-to-success/497091"
+      "https://www.entrepreneur.com/leadership/how-wwes-chelsea-greens-punched-her-way-to-success/497091",
+      "https://www.entrepreneur.com/science-technology/grab-this-190-macbook-air-for-travel-meetings-and/497336",
+      "https://www.entrepreneur.com/science-technology/handle-reports-presentations-and-email-with-one-lifetime/497312",
+      "https://www.entrepreneur.com/en-in/news-and-trends/spacefields-and-equilibrium-raise-early-stage-funding/497388",
+      "https://www.entrepreneur.com/living/even-time-strapped-business-owners-can-share-a-engaging/497259",
+      "https://www.entrepreneur.com/money-finance/this-is-a-rare-chance-to-save-more-than-70-on-quickbooks/497260",
+      "https://www.entrepreneur.com/en-in/news-and-trends/ex-citi-eexecutive-and-kaha-founder-launch-usd-150-mn/497386",
+      "https://www.entrepreneur.com/en-gb/leadership/can-tradition-survive-expansion/497332",
+      "https://www.entrepreneur.com/en-ae/growth-strategies/sol-properties-unveils-sol-luxe-a-aed22-billion-landmark/497383",
+      "https://www.entrepreneur.com/en-gb/entrepreneurs/covering-the-risk-fuelling-the-rise/497328",
+      "https://www.entrepreneur.com/en-ae/finance/sanddunes-episode-3-henri-arslanian-on-shaping-the-worlds/497010"
     ]
   },
   "queniucf.com": {
-    "lastAt": 1758180297574,
+    "lastAt": 1758536933508,
     "urls": []
   },
   "iiko.it": {
-    "lastAt": 1758180301988,
+    "lastAt": 1758536939086,
     "urls": []
   },
   "crunchyroll.com": {
-    "lastAt": 1758180313929,
+    "lastAt": 1758536952144,
     "urls": [
       "https://crunchyroll.com/"
     ]
   },
   "amocrm.ru": {
-    "lastAt": 1758180322362,
+    "lastAt": 1758536961201,
     "urls": [
       "https://amocrm.ru/",
       "http://www.amocrm.ru/tour/",
@@ -30968,29 +31006,38 @@
       "http://www.amocrm.ru/vozmozhnosti-crm/upravlenie-prodazhami/",
       "http://www.amocrm.ru/vozmozhnosti-crm/crm-dlya-zvonkov/",
       "http://www.amocrm.ru/vozmozhnosti-crm/otchety-crm/",
-      "http://www.amocrm.ru/vozmozhnosti-crm/crm-marketing/"
+      "http://www.amocrm.ru/vozmozhnosti-crm/crm-marketing/",
+      "http://www.amocrm.ru/vozmozhnosti-crm/crm-s-voronkoy-prodazh/",
+      "http://www.amocrm.ru/vozmozhnosti-crm/otnosheniya-s-klientami/",
+      "http://www.amocrm.ru/vozmozhnosti-crm/crm-dlya-vedeniya-sdelok/",
+      "http://www.amocrm.ru/vozmozhnosti-crm/crm-dlya-lidogeneracii/",
+      "http://www.amocrm.ru/vozmozhnosti-crm/crm-dlya-ucheta-clientov/",
+      "http://www.amocrm.ru/blog/24/",
+      "http://www.amocrm.ru/blog/24/7759310/",
+      "http://www.amocrm.ru/blog/24/7752934/",
+      "http://www.amocrm.ru/blog/24/7732176/"
     ]
   },
   "otm-r.com": {
-    "lastAt": 1758180328098,
+    "lastAt": 1758536967891,
     "urls": []
   },
   "onenote.net": {
-    "lastAt": 1758180332156,
+    "lastAt": 1758536971987,
     "urls": []
   },
   "unicef.org": {
-    "lastAt": 1758180333425,
+    "lastAt": 1758536973318,
     "urls": [
       "https://unicef.org/"
     ]
   },
   "orderbox-dns.com": {
-    "lastAt": 1758180336294,
+    "lastAt": 1758536976262,
     "urls": []
   },
   "fullstory.com": {
-    "lastAt": 1758180358434,
+    "lastAt": 1758536998746,
     "urls": [
       "https://www.fullstory.com/blog/breaking-assumptions-and-building-better-products-with-angela-sze/",
       "https://www.fullstory.com/blog/dbt-labeling-nested-json-for-ml/",
@@ -31011,21 +31058,31 @@
       "https://www.fullstory.com/blog/the-high-cost-of-web-analytics/",
       "https://www.fullstory.com/blog/marketing-analytics-tools/",
       "https://www.fullstory.com/blog/powering-comprehensive-compliant-and-collaborative-ai/",
-      "https://www.fullstory.com/blog/mobile-app-analytics-tools/"
+      "https://www.fullstory.com/blog/mobile-app-analytics-tools/",
+      "https://www.fullstory.com/blog/quantitative-data-examples-types/",
+      "https://www.fullstory.com/blog/engaging-engineers-in-the-design-process/",
+      "https://www.fullstory.com/blog/mobile-analytics/",
+      "https://www.fullstory.com/blog/enterprise-web-analytics/",
+      "https://www.fullstory.com/blog/behavior-analytics-tools/",
+      "https://www.fullstory.com/blog/digital-analytics-tools/",
+      "https://www.fullstory.com/blog/product-analytics-tools/",
+      "https://www.fullstory.com/blog/fullstory-vs-mixpanel/",
+      "https://www.fullstory.com/blog/mobile-app-optimization-tips/",
+      "https://www.fullstory.com/blog/product-ideas-into-roadmap/"
     ]
   },
   "hoyoverse.com": {
-    "lastAt": 1758180361747,
+    "lastAt": 1758537001973,
     "urls": [
       "https://hoyoverse.com/"
     ]
   },
   "t-s1-msedge.net": {
-    "lastAt": 1758184157533,
+    "lastAt": 1758537004849,
     "urls": []
   },
   "discordapp.net": {
-    "lastAt": 1758184160722,
+    "lastAt": 1758537008076,
     "urls": []
   },
   "rosminzdrav.ru": {
