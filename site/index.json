@@ -181837,5 +181837,978 @@
     "title": "Trust Center - Frequently Asked Questions | Elastic",
     "description": "Get answers to frequently asked questions about Elastic’s data security, privacy, and compliance pra",
     "text": "Build tailored experiences with Elastic.\nScale your business with Elastic Partners\nSearch and analyt"
+  },
+  {
+    "id": "78e5a6d0e58d57bc5ffec03e9725288e29f9a309",
+    "url": "https://www.utoronto.ca/accessibility",
+    "title": "Accessibility | University of Toronto",
+    "description": "Learn about U of T accessibility services and how we strive to facilitate the accommodation of indiv",
+    "text": "It is the University of Toronto's goal to create a community that is inclusive of all persons and tr"
+  },
+  {
+    "id": "f03701c92b1abca1dc24ea7fd0b40f176eb25f5a",
+    "url": "https://www.utoronto.ca/privacy",
+    "title": "Privacy | University of Toronto",
+    "description": "U of T is committed to the protection of privacy and is covered by the Freedom of Information and Pr",
+    "text": "The University of Toronto is committed to the protection of privacy. Ontario universities are covere"
+  },
+  {
+    "id": "6a1ab19ac8439fddc5836c30d5c7174530fb9e3c",
+    "url": "https://www.utoronto.ca/contacts",
+    "title": "Contacts | University of Toronto",
+    "description": "A listing of U of T contacts for general, admissions and emergency contacts at the St. George, Missi",
+    "text": "University of Toronto\n27 King's College Circle\nToronto, Ontario M5S 1A1 Canada\nPhone: 416-978-2011\nO"
+  },
+  {
+    "id": "a9f7c814f80432de10256df578b89d88b1af0c85",
+    "url": "https://www.utoronto.ca/libraries",
+    "title": "Libraries | University of Toronto",
+    "description": "With unparalleled collections, innovative services, and inspiring spaces, U of T's library system su",
+    "text": "The University of Toronto’s extensive library system supports learning, teaching and research at the"
+  },
+  {
+    "id": "42eb7204d32c8a8179c020666e70ecc26ac98dfc",
+    "url": "https://www.utoronto.ca/site-feedback",
+    "title": "Site feedback | University of Toronto",
+    "description": "We're always looking for ways to improve and your feedback is important.",
+    "text": "Thank you for visiting the University of Toronto’s website. We're always looking for ways to improve"
+  },
+  {
+    "id": "15b38f1983e48325cda3a65226be1c5ddba3887a",
+    "url": "https://www.utoronto.ca/errors",
+    "title": "404 page not found | University of Toronto",
+    "description": "We're sorry. It looks like this page was moved or deleted.",
+    "text": "We're sorry. It looks like this page has been moved or deleted.\nStatement of Land Acknowledgement\nWe"
+  },
+  {
+    "id": "db527a554c90d46d51681eff0f9302685bbf7915",
+    "url": "https://www.utoronto.ca/social-media-directory-form",
+    "title": "Social media directory form | University of Toronto",
+    "description": "Submit your account to U of T's social media directory.",
+    "text": "If you manage a U of T social media account and would like to add or change it in the directory, ple"
+  },
+  {
+    "id": "8a6c0942c4553a724d427f8fb74b097b9ad8a2da",
+    "url": "https://www.utoronto.ca/campus-status",
+    "title": "Campus status | University of Toronto",
+    "description": "Find out the campus status for the University of Toronto's three campuses.",
+    "text": "Step 1: Call emergency services at (9) 9-1-1\nStep 2: Notify campus safety.\nFor emergency: 416-978-22"
+  },
+  {
+    "id": "3894c62247ca4e778778a419c7573b0c36c53c60",
+    "url": "https://www.utoronto.ca/alerts",
+    "title": "UTAlert: U of T's alert system | University of Toronto",
+    "description": "U of T's alert system allows the University to quickly send important messages via telephone, email ",
+    "text": "UTAlert is a service that allows the university to quickly send important messages via Email, SMS Te"
+  },
+  {
+    "id": "123da161b68deda117e5ba060242ca8f3d0295eb",
+    "url": "https://www.utoronto.ca/contest-rules",
+    "title": "Contest rules | University of Toronto",
+    "description": "The official rules for contests offered by University of Toronto Communications .",
+    "text": "Official Rules (the “Rules”) for Contests Offered by University of Toronto Communications (“U of T” "
+  },
+  {
+    "id": "1e178931a274244550114b541d86a992695e030b",
+    "url": "https://kde.org/announcements/plasma/6/6.4.2/",
+    "title": "KDE Plasma 6.4.2, Bugfix Release for July - KDE Community",
+    "description": "Today KDE releases a bugfix update to KDE Plasma 6.",
+    "text": "Select your language\nTuesday, 1 July 2025. Today KDE releases a bugfix update to KDE Plasma 6, versi"
+  },
+  {
+    "id": "84eabeb4c84bcbad2666d54af525c744c348d069",
+    "url": "https://kde.org/announcements/gear/25.04.2/",
+    "title": "KDE Gear 25.04.2 - KDE Community",
+    "description": "KDE announces the release of KDE Gear 25.04.2.",
+    "text": "Select your language\nThursday, 5 June 2025\nOver 180 individual programs plus dozens of programmer li"
+  },
+  {
+    "id": "84129956e1cafe587ebe36e7d847790800d6518f",
+    "url": "https://kde.org/announcements/plasma/6/6.4.0/",
+    "title": "Plasma 6.4 - KDE Community",
+    "description": "A smoother, friendlier and more helpful desktop experience",
+    "text": "Select your language\nTuesday, 17 June 2025\nA new version of Plasma is here, and it feels even more l"
+  },
+  {
+    "id": "5241dfbc2bf6e589583cb19e50ef374ff3c05a3b",
+    "url": "https://kde.org/info/kde-frameworks-6.15.0/",
+    "title": "KDE Frameworks 6.15.0 - KDE Community",
+    "description": "",
+    "text": "For new features, bugfixes and changes read the KDE Frameworks 6.15.0 announcement.\nThe tarballs hav"
+  },
+  {
+    "id": "cb982c54011b455e970f6b79a47492efcb78b9db",
+    "url": "https://kde.org/announcements/plasma/6/6.4.1/",
+    "title": "KDE Plasma 6.4.1, Bugfix Release for June - KDE Community",
+    "description": "Today KDE releases a bugfix update to KDE Plasma 6.",
+    "text": "Select your language\nTuesday, 24 June 2025. Today KDE releases a bugfix update to KDE Plasma 6, vers"
+  },
+  {
+    "id": "5385a97bb28852a0b5a5b3cf34b137ee2b50680d",
+    "url": "https://kde.org/announcements/frameworks/6/6.15.0/",
+    "title": "KDE Ships Frameworks 6.15.0 - KDE Community",
+    "description": "KDE today announces the release of KDE Frameworks 6.15.0.",
+    "text": "Friday, 13 June 2025\nKDE today announces the release of KDE Frameworks 6.15.0.\nThis release is part "
+  },
+  {
+    "id": "35beddf4294676cc9a3785d7edbae1a189bf8614",
+    "url": "https://kde.org/announcements/plasma/6/6.3.91/",
+    "title": "KDE Plasma 6.4 Beta Release - KDE Community",
+    "description": "KDE Ships Plasma 6.4 Beta.",
+    "text": "Select your language\nPlasma 6.4 second beta includes several bugfixes, some of notable bugfixes incl"
+  },
+  {
+    "id": "b234f1aa3836516a36fc7b4d2ca914a60769d2ce",
+    "url": "https://kde.org/info/releases-25.04.2/",
+    "title": "25.04.2 Releases Source Info Page - KDE Community",
+    "description": "KDE announces the release of KDE Gear releases-25.04.2.",
+    "text": "For new features, bugfixes and changes read the 25.04.2 releases announcement.\nBuild instructions\nar"
+  },
+  {
+    "id": "254ea56983b4113d00ea644aebba124bd9fc7bd8",
+    "url": "https://kde.org/announcements/frameworks/6/6.14.0/",
+    "title": "KDE Ships Frameworks 6.14.0 - KDE Community",
+    "description": "KDE today announces the release of KDE Frameworks 6.14.0.",
+    "text": "Friday, 9 May 2025\nKDE today announces the release of KDE Frameworks 6.14.0.\nThis release is part of"
+  },
+  {
+    "id": "ff1796cc84b04ab7c23ea9bc4a5b11a4621996d0",
+    "url": "https://kde.org/announcements/plasma/6/6.3.90/",
+    "title": "KDE Plasma 6.4 Beta Release - KDE Community",
+    "description": "KDE Ships Plasma 6.4 Beta.",
+    "text": "Select your language\nHere are the new modules available in the Plasma 6.4 beta:\nThe easiest way to t"
+  },
+  {
+    "id": "72856d6109de5d89b042047354158e413815ce8b",
+    "url": "https://verve.com/blog/benefits-of-sdk-integration/",
+    "title": "Back to Basics: SDK Integration Benefits for App Developers",
+    "description": "Ad tags, APIs, or a full-fledged mobile monetization SDK? In this article, we explore why a mobile m",
+    "text": "Ad tags, APIs, or a full-fledged mobile monetization SDK? When deciding which integration method bes"
+  },
+  {
+    "id": "5af8192e26bcf90cca20fab1488e9766ade61d4f",
+    "url": "https://verve.com/blog/the-future-of-television/",
+    "title": "What Business Leaders Need to Know About the Future of Television",
+    "description": "As Pay TV declines, and more households “cut the cord,” business leaders should be prepared for the ",
+    "text": "Television has evolved dramatically over the last century. Is your business prepared for what’s to c"
+  },
+  {
+    "id": "ed1a24beff595ada9f7da6d167f8a7d2a717b1fa",
+    "url": "https://verve.com/blog/verve-group-and-planetly-carbon-neutral-by-2022/",
+    "title": "Verve and Planetly: Carbon-neutral by 2022",
+    "description": "We’re proud to be partnering with Planetly to enhance our commitment to sustainability and to reduce",
+    "text": "“Sustainability plays an important role for MGI for many years already and even more in the future. "
+  },
+  {
+    "id": "03b93533447c696091a4e8d3dfe1a5307ae88fc0",
+    "url": "https://verve.com/blog/the-state-of-ios-14-5/",
+    "title": "The State of iOS 14.5+: Why eCPMs on Android are surpassing iOS",
+    "description": "We take another look at adoption rates of iOS versions 14.5+, IDFA opt-in rates, and the fluctuation",
+    "text": "Following up on our iOS 14.5 trend article published in July, we’re now looking at the most recent u"
+  },
+  {
+    "id": "ca8a7cfb510630c5ce17c8eadd3bbf76733c9c87",
+    "url": "https://verve.com/blog/2022-trends-in-programmatic-monetizing-without-ids/",
+    "title": "Mobile App Monetization Trends",
+    "description": "In the second edition of our 2022 Trends in Programmatic Advertising series, we dive into our publis",
+    "text": "Welcome to our latest blog series, 2022 Trends in Programmatic Advertising. We’re meeting with indus"
+  },
+  {
+    "id": "6bcca5ddecb78646ad5cafdb842bb4ca1977795a",
+    "url": "https://verve.com/blog/contextual-advertising-for-beginners/",
+    "title": "Back to Basics: Contextual Advertising for Beginners",
+    "description": "Now that cookies and identifiers are taking leave, contextual advertising is back on center stage, a",
+    "text": "Now that identifiers are taking leave, contextual advertising is back from the dead. This is what yo"
+  },
+  {
+    "id": "03b5a8c4b7a69f4a59f3d4fe0d2e5c780aad7f91",
+    "url": "https://verve.com/blog/2022-trends-in-programmatic-insights-from-verve-group/",
+    "title": "2022 Trends in Programmatic Advertising, Part 4: Insights from Verve",
+    "description": "In the fourth edition of our trends series, we talk to Verve executives on their take on opportuniti",
+    "text": "Welcome to our latest blog series, 2022 Trends in Programmatic Advertising. We’re meeting with indus"
+  },
+  {
+    "id": "46af08d12adc74576003d497b91640883181e4ea",
+    "url": "https://verve.com/blog/5-niche-contextual-audiences-to-consider-this-holiday-season/",
+    "title": "5 niche contextual audiences to consider this holiday season",
+    "description": "The secret to standing out with your ads this holiday season is contextual audiences. Check out thes",
+    "text": "‘Tis the season! With faster-than-ever shifts towards ecommerce, and global supply chain issues caus"
+  },
+  {
+    "id": "397387339507550b395abb217dc84a3297f9acf9",
+    "url": "https://verve.com/blog/2022-trends-in-programmatic-attribution-and-measurement/",
+    "title": "2022 Trends in Programmatic Advertising, Part 1: Attribution and measurement",
+    "description": "In the first part of our 2022 Trends in Programmatic Advertising series, we’re digging into campaign",
+    "text": "Welcome to our latest blog series, 2022 Trends in Programmatic Advertising. We’re meeting with indus"
+  },
+  {
+    "id": "38c0044e86589ebbea203fb0540d8a7216be01c9",
+    "url": "https://verve.com/blog/2022-trends-in-programmatic-advertising-dooh/",
+    "title": "2022 Trends in Programmatic Advertising, Part 3: Making it big with DOOH",
+    "description": "In the third edition of our 2022 Trends in Programmatic Advertising series, we dive into programmati",
+    "text": "Welcome to our latest blog series, 2022 Trends in Programmatic Advertising. We’re meeting with indus"
+  },
+  {
+    "id": "c2835381367966a93ef744819aac606bc3a20e30",
+    "url": "https://usercentrics.com/media-publishing/",
+    "title": "Media and Publishing Privacy Compliance with Usercentrics",
+    "description": "Meet regulatory and business data privacy requirements, build trust and loyalty with readers, grow r",
+    "text": "Privacy compliance not only protects your company from fines and other risks, it’s also increasingly"
+  },
+  {
+    "id": "2f8be8647b7aab3c12105f766400ffedb5608bd1",
+    "url": "https://usercentrics.com/automotive/",
+    "title": "Automotive Data Privacy Compliance with Usercentrics",
+    "description": "Meet regulatory and business data privacy requirements to deliver secure connections and data betwee",
+    "text": "Privacy compliance not only protects your company from fines, audits, and reputational damage. It’s "
+  },
+  {
+    "id": "88450e46fe71f331979c5df40981decec22126b7",
+    "url": "https://usercentrics.com/travel/",
+    "title": "Travel Data Privacy Compliance with Usercentrics",
+    "description": "Meet regulatory and business data privacy requirements to deliver trusted and personalized customer ",
+    "text": "Help future-proof your business by meeting regulatory and business requirements, as well as customer"
+  },
+  {
+    "id": "52972fd6365c68da10531c628be137f0bfd79c43",
+    "url": "https://usercentrics.com/education/",
+    "title": "Education Data Privacy Compliance with Usercentrics",
+    "description": "Meet multiple regulatory data privacy requirements to securely protect student data, build trust, an",
+    "text": "Future-proof your business by meeting regulatory and institutional requirements, as well as customer"
+  },
+  {
+    "id": "0ea14bd42b119cb709f45fe3265a4a7f6c3accd4",
+    "url": "https://usercentrics.com/terms-and-conditions-valid-for-advanced-and-premium-plans/",
+    "title": "Usercentrics | Terms and Conditions",
+    "description": "This page states the Terms and Conditions of the Usercentrics Consent Management Platform (CMP).",
+    "text": "To access the Terms and Conditions for the US please click here.\nTo access the Terms and Conditions "
+  },
+  {
+    "id": "38f326bb42d36d7c91a9b979e07b0f58c86020ea",
+    "url": "https://usercentrics.com/cmp-for-publishers/",
+    "title": "IAB TCF v2.2 Compliance with Usercentrics Web & CMP",
+    "description": "If you serve ads on your website/app, your business operates as a publisher. You need a Google-certi",
+    "text": "If you serve online advertisements on your website or app as part of your monetization strategy, you"
+  },
+  {
+    "id": "9d4d92bccb6d85748dd04db204c6c8db622d82e4",
+    "url": "https://usercentrics.com/about-us/",
+    "title": "Get to know Usercentrics | About Us",
+    "description": "Find out all about Usercentrics, their story, the company's vision and culture. Usercentrics provide",
+    "text": "COMPANY\nUsercentrics has grown from a start-up to a leading innovator of consent technology for the "
+  },
+  {
+    "id": "368d8b8feff9d4705703a964ee3974455e1a41ba",
+    "url": "https://usercentrics.com/terms-and-conditions-valid-until-march-10-2025/",
+    "title": "Usercentrics | Terms and Conditions",
+    "description": "This page states the Terms and Conditions of the Usercentrics Consent Management Platform (CMP).",
+    "text": "To access the Terms and Conditions for the US please click here.\nTo access the Terms and Conditions "
+  },
+  {
+    "id": "0ded71b8cfbb1ae85a659213e6e5bf239e8847fd",
+    "url": "https://usercentrics.com/dei/",
+    "title": "Diversity, Equity, and Inclusion (DEI) at Usercentrics",
+    "description": "Discover Usercentrics' commitment to diversity, equity, and inclusion. Explore our inclusive culture",
+    "text": "We know we have a long way to go, and that the road to growth is not always easy. We are dedicated t"
+  },
+  {
+    "id": "6e47e5aa8f02b4bd4c80ad6d3164e3269843ea09",
+    "url": "https://usercentrics.com/partner-network/",
+    "title": "Usercentrics Partner Directory | Find The Right Partner",
+    "description": "Our Partner Directory will enable you to find the right agency partner for your project. You can fin",
+    "text": "Do you have a solution or integration offering to help supercharge the Usercentrics CMP and enable c"
+  },
+  {
+    "id": "22ae41850d179e4ce549e66fa6f739746f394ad5",
+    "url": "https://canonical.com/solutions/infrastructure/sovereign-cloud",
+    "title": "Control your data and infrastructure with a sovereign cloud",
+    "description": "A sovereign cloud meets the growing global need for cloud infrastructure that gives organizations, g",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "054187c04fa3b837baf9e5fe45eab5ccf1864cf6",
+    "url": "https://canonical.com/solutions/infrastructure/private-cloud-pricing",
+    "title": "Private cloud pricing",
+    "description": "Use this private cloud pricing page and calculator to estimate the cost of running your workloads in",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "816dcb846cb5c122803978338a29c73440634552",
+    "url": "https://canonical.com/solutions/open-source-security/cyber-resilience-act",
+    "title": "Understand the Cyber Resilience Act requirements",
+    "description": "Discover what you need to know about the EU Cyber Resilience Act requirements, and get clear recomme",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "ffebbd824b4baf55162bb24dc5753071306449ce",
+    "url": "https://canonical.com/solutions/open-source-security",
+    "title": "Get open source security from Canonical",
+    "description": "Standardize your open source supply chain with the publisher of Ubuntu. Ideal to stay compliant acro",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "8d5ad6ef249768a884b43193d22d38a69dcfdb6d",
+    "url": "https://canonical.com/solutions/industrial",
+    "title": "Industrial",
+    "description": "The Ubuntu platform enables industry 4.0 digital transformation. Build industrial IoT appliances for",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "36b070c13b332b29f239e3d75cf018ee66a33d91",
+    "url": "https://canonical.com/solutions/iot-and-devices",
+    "title": "Build, secure and manage IoT devices at scale",
+    "description": "Choose the OS that ensures scalable, secure IoT for businesses. Streamline your IoT lifecycle with a",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "5b9c50f161f47da7c0edffe7d746963edf50d470",
+    "url": "https://canonical.com/open-source-adoption",
+    "title": "Enterprise open source adoption",
+    "description": "Uncover the benefits of open source adoption and how a collaborative approach and a trusted partner ",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "9cf640e625c3073c1955a9f56a3a2b5ce112acac",
+    "url": "https://canonical.com/documentation",
+    "title": "Documentation practice at Canonical",
+    "description": "At Canonical, we aim to set a standard of excellence in technical documentation, by treating it as a",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "b199907a5ab66a813bee1039baa5c3df937b57f2",
+    "url": "https://canonical.com/documentation/beyond-canonical",
+    "title": "Documentation practice beyond Canonical",
+    "description": "We work beyond Canonical, to disseminate good practice and process, and to learn from the experience",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "dcd8c835668c31e43765600bc970ba38875d0deb",
+    "url": "https://canonical.com/documentation/work-and-careers",
+    "title": "Working in documentation at Canonical",
+    "description": "A Canonical Technical Author is someone who combines technical curiosity with empathy, rigour and co",
+    "text": "Your submission was sent successfully! Close\nThank you for signing up for our newsletter!\n          "
+  },
+  {
+    "id": "3ef6ff764d23c5a0b4b8d0c8c66880337f549107",
+    "url": "https://easybrain.com/meet-nonogram-com-app-a-worthy-addition-to-easybrain-classic-puzzles-collection",
+    "title": "Nonogram.com is a worthy addition to Easybrain puzzles collection",
+    "description": "Nonogram.com app is the classic picture cross puzzle implemented into a handy and sleek mobile game ",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "9f7e56e705a04f5090e90fa49db18231140f0d19",
+    "url": "https://easybrain.com/delete-my-data",
+    "title": "User Data Deletion Instructions",
+    "description": "",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "17600940ac84798bffae5f04d823e64ba2f22087",
+    "url": "https://easybrain.com/killersudoku",
+    "title": "Killer Sudoku - Free Mobile App by Easybrain",
+    "description": "Challenge yourself with Killer Sudoku! Download mobile app on your iPhone or Android and enjoy kille",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "dd37aa916cc22b9949a566324ce9f725cc3ec6fb",
+    "url": "https://easybrain.com/news/easybrain-expands-the-office-in-limassol",
+    "title": "Easybrain expands the office in Limassol",
+    "description": "Easybrain Cyprus is now a team of 23 people and takes the whole floor of the most prominent office b",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "d3c4a15dcb9ef3f21aace6bf3def40d182c1f8d4",
+    "url": "https://easybrain.com/numbermatch",
+    "title": "Number Match - Number Games by Easybrain",
+    "description": "Challenge your logic with Number Match game! Get the app on your iPhone or Android, enjoy solving nu",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "41c640a8e3c222c3dfbcbd266978fe36f03c61fa",
+    "url": "https://easybrain.com/blockudoku",
+    "title": "Blockudoku - Block Puzzle Game by Easybrain",
+    "description": "Challenge yourself with Blockudoku puzzle. Learn how to play Blockudoku, master your strategy and en",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "375227349133edebea93a3f3cec25d1ae1a489fe",
+    "url": "https://easybrain.com/news/the-easybrain-team-is-excited-to-reach-over-200-000-000-downloads",
+    "title": "Easybrain is excited to reach 200,000,000 downloads!",
+    "description": "Easybrain hits 200,000,000 downloads! The top contributing apps include Pixel Art, Sudoku.com, and D",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "aae16e8b21d09a2e0161e3ce258b16f2fc6cb99a",
+    "url": "https://easybrain.com/news/jigsaw-puzzles-by-easybrain-now-comes-to-google-play",
+    "title": "Jigsaw Puzzles by Easybrain now comes to Google Play",
+    "description": "Android version of Jigsaw Puzzles made by Easybrain comes to Google Play. iOS version is already ava",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "eb005b42cbfd587a2b2ca60d03ad1814fc84c590",
+    "url": "https://easybrain.com/news/easybrain-opened-three-more-stem-centres",
+    "title": "Easybrain just opened three STEM centres",
+    "description": "Three school STEM (Science, Technology, Engineering, Mathematics) centres are opened as a part of Ea",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "837a79def1f61cebe09df4efcb3fb31466261d11",
+    "url": "https://easybrain.com/privacy-notice",
+    "title": "Privacy Notice",
+    "description": "",
+    "text": "Cookies are small pieces of text sent to your web browser that assist us in providing our Services a"
+  },
+  {
+    "id": "39ec05bed49dabd3ddd6afb5b16d40d1f010192c",
+    "url": "https://about.collegeboard.org/leadership/jeremy-singer",
+    "title": "Jeremy Singer – About Us | College Board",
+    "description": "Jeremy Singer helps set the strategic direction of the College Board and leads the execution of effo",
+    "text": "President\nAs president, Jeremy leads College Board in delivering its mission and serving its members"
+  },
+  {
+    "id": "e98177c47305912f1e3a2f8447667bcfacd22942",
+    "url": "https://about.collegeboard.org/leadership/john-mcgrath",
+    "title": "John McGrath – About Us | College Board",
+    "description": "John McGrath leads all communications and marketing efforts of the organization.",
+    "text": "Chief Engagement and Reach Officer\nJohn and his team are responsible for building and protecting the"
+  },
+  {
+    "id": "fea00361bbb464e6c93526b3c984370991c2eeac",
+    "url": "https://about.collegeboard.org/leadership/elissa-kim",
+    "title": "Elissa Kim – About Us | College Board",
+    "description": "As the head of global strategy and talent, Elissa helps design new approaches to the College Board m",
+    "text": "Senior Vice President, Global Strategy and Talent\nElissa also oversees the international work of Col"
+  },
+  {
+    "id": "68de2d48d357674710c0d74c0bb2f85b343c4c5e",
+    "url": "https://about.collegeboard.org/leadership/trevor-packer",
+    "title": "Trevor Packer – About Us | College Board",
+    "description": "Trevor Packer leads the AP® Program and related instructional programs and services.",
+    "text": "Senior Vice President, AP and Instruction\nTrevor Packer, head of our Advanced Placement® Program, is"
+  },
+  {
+    "id": "cb86e3ec9a95f879353d59248bc74bf6b6f84058",
+    "url": "https://about.collegeboard.org/leadership/jeff-olson",
+    "title": "Jeff Olson – About Us | College Board",
+    "description": "Jeff Olson is responsible for ensuring that data supports all our student-centered efforts.",
+    "text": "Chief Information Officer\nJeff Olson leads College Board Technology, including software engineering,"
+  },
+  {
+    "id": "0a56e3a9aa938156b8376615f833c45c8fd0b561",
+    "url": "https://about.collegeboard.org/leadership/daniela-berger-pollack",
+    "title": "Daniela Berger Pollack – About Us | College Board",
+    "description": "Daniela heads the College Board finance division, leading our long-range investments in student oppo",
+    "text": "Chief Financial Officer\nHer team oversees financial planning, investments, accounting, and procureme"
+  },
+  {
+    "id": "0d3ec582d27428377da2e26650a90f68c029dcbe",
+    "url": "https://about.collegeboard.org/leadership/matthew-wagner",
+    "title": "Matt Wagner – About Us | College Board",
+    "description": "Matt serves as chief of staff to the College Board's chief executive officer, David Coleman.",
+    "text": "Senior Vice President, Global Policy and External Relations\nMatt leads College Board’s work to advan"
+  },
+  {
+    "id": "88cfc66f6851754d10a687410ee557fa50f41df6",
+    "url": "https://about.collegeboard.org/leadership/priscilla-rodriguez",
+    "title": "Priscilla Rodriguez – About Us | College Board",
+    "description": "A first-generation American who credits the PSAT/NMSQT and SAT with changing her life, Priscilla is ",
+    "text": "Senior Vice President, College Readiness Assessments\nA first-generation American who credits the PSA"
+  },
+  {
+    "id": "1c9b16c8d332965929695ed15bea8896864ec048",
+    "url": "https://about.collegeboard.org/leadership/peter-schwartz",
+    "title": "Peter Schwartz – About Us | College Board",
+    "description": "Peter Schwartz leads our legal, compliance, and internal audit functions, as well as the policy and ",
+    "text": "Chief Legal and Risk Officer\nPeter leads our Risk Management Division, which includes the legal, com"
+  },
+  {
+    "id": "75567815275e64aa2f6d616effb786ca93534b43",
+    "url": "https://about.collegeboard.org/leadership/greg-walker",
+    "title": "Greg Walker – About Us | College Board",
+    "description": "Greg leads the State and District Partnerships team, which plays an invaluable role in our mission t",
+    "text": "Senior Vice President, State and District Partnerships\nGreg leads the State and District Partnership"
+  },
+  {
+    "id": "3c6bcddfaed7c4885213afe033eaad6d49aa0adf",
+    "url": "https://www.libero.it/tv/sport/",
+    "title": "Libero Tv Sport: video dei migliori programmi sportivi in Tv",
+    "description": "Scopri su Libero Tv tutti i migliori video dei principali programmi sportivi Mediaset: Tiki Taka, Sp",
+    "text": "Il tecnico del Napoli fa il punto sulla situazione della rosa e dei nuovi arrivati e non risparmia u"
+  },
+  {
+    "id": "de510a5094948fad1fda711b077b4136b590ee08",
+    "url": "https://www.libero.it/tv/video-tendenze/",
+    "title": "Video Trend: guarda gli ultimi video e notizie",
+    "description": "Scopri gli ultimi video Trend su Libero Tv. Resta aggiornato sulle ultime notizie e scopri curiosità",
+    "text": "Trapiantato a Padova per la prima volta al mondo un cuore che aveva smesso di battere, un intervento"
+  },
+  {
+    "id": "0bedd7926d858b74573c191e94d2c271f0e4bc01",
+    "url": "https://www.libero.it/tv/video-piu-visti/",
+    "title": "Scopri tutti i video più visti e apprezzati di Libero Tv.",
+    "description": "Vuoi sapere quali sono i video più visti nell'ultima ora sul sito di Libero Tv? Scopri ora l\\’elenco",
+    "text": "In diretta da Milano tutti gli aggiornamenti.\n© Italiaonline S.p.A. 2025Direzione e coordinamento di"
+  },
+  {
+    "id": "8c2f498d450951173292998dc4a93c4bc7178a07",
+    "url": "https://www.libero.it/tv/mattarella-a-napoli-visita-il-carcere-minorile-di-nisida-con-jovanotti_bc6379939941112",
+    "title": "Mattarella a Napoli visita il carcere minorile di Nisida con Jovanotti",
+    "description": "La scuola è strumento per futuro, la musica è libertà",
+    "text": "Napoli, 22 set. (askanews) - Il presidente della Repubblica, Sergio Mattarella ha fatto visita al ca"
+  },
+  {
+    "id": "9abfda7b5d0e1d17798d244eff28186b6eb92c8e",
+    "url": "https://www.libero.it/tv/breaking-news-delle-2130--violenze-al-corteo-per-gaza-a-milano-10-fermi_msFD00000000497584",
+    "title": "Breaking News delle 21.30 | Violenze al corteo per Gaza a Milano, 10 fermi",
+    "description": "In questa edizione: Violenze al corteo per Gaza a Milano, 10 fermi. Scontri in piazza, Meloni: Immag",
+    "text": "In questa edizione: Violenze al corteo per Gaza a Milano, 10 fermi. Scontri in piazza, Meloni: \"Imma"
+  },
+  {
+    "id": "0482844c92c033a26634a50d2bc88560b1837161",
+    "url": "https://www.libero.it/tv/scontri-e-devastazioni-per-gaza-e-per-la-pace_msF313645001059D01",
+    "title": "Scontri e devastazioni per Gaza e per la pace?",
+    "description": "Degenera a Milano la manifestazione per Gaza. Decine di migliaia in piazza in tutta Italia.",
+    "text": "Degenera a Milano la manifestazione per Gaza. Decine di migliaia in piazza in tutta Italia.\n© Italia"
+  },
+  {
+    "id": "f7fc1f257822a52d2ab9224cbe3068a5a2656f28",
+    "url": "https://www.libero.it/tv/tutti-condannino-questi-finti-pacifisti_msF313645001059D02",
+    "title": "Tutti condannino questi finti pacifisti",
+    "description": "Meloni: Da Milano immagini indegne. Le opposizioni contro le violenze.",
+    "text": "Meloni: \"Da Milano immagini indegne\". Le opposizioni contro le violenze.\n© Italiaonline S.p.A. 2025D"
+  },
+  {
+    "id": "875237f1b69122b073ac8a9a0ac3b33fc7f4f7e0",
+    "url": "https://www.libero.it/tv/allonu-va-in-scena-lo-scontro-su-gaza_msF313645001059D03",
+    "title": "All'Onu va in scena lo scontro su Gaza",
+    "description": "Tra poco l'assemblea dell'Onu su Gaza, aumentano i Paesi che riconosceranno lo stato di Palestina.",
+    "text": "Tra poco l'assemblea dell'Onu su Gaza, aumentano i Paesi che riconosceranno lo stato di Palestina.\n©"
+  },
+  {
+    "id": "c5802e36e4f7edc12d4720b3227fb5c1d295c412",
+    "url": "https://www.libero.it/tv/esondazioni-al-nord-dispersa-una-donna_msF313645001059D04",
+    "title": "Esondazioni al nord dispersa una donna",
+    "description": "Violenta ondata di maltempo sul nord Italia: esondano il lago di Como e il Seveso. Sulla Liguria 400",
+    "text": "Violenta ondata di maltempo sul nord Italia: esondano il lago di Como e il Seveso. Sulla Liguria 400"
+  },
+  {
+    "id": "6f2ce9d027cb9d91cc2976c3a7cb36f43eed0ffd",
+    "url": "https://www.libero.it/tv/jovanotti-a-scuola-ho-scoperto-mie-potenzialita-e-mia-vocazione_bc6379939524112",
+    "title": "Jovanotti: a scuola ho scoperto mie potenzialità e mia vocazione",
+    "description": "Cantautore nel carcere di Nisida con presidente Mattarella",
+    "text": "Napoli, 22 set. (askanews) - \"Io credo nella scuola, a me la scuola pubblica italiana ha dato tantis"
+  },
+  {
+    "id": "eccda6c1479775f30d2507efbd74f5732c98f4e5",
+    "url": "https://www.cookiebot.com/en/swiss-fadp/",
+    "title": "FADP Switzerland - Swiss Data Protection Act - Cookiebot™",
+    "description": "Is the FADP like the GDPR in Switzerland? Find out what the Swiss data protection act means for comp",
+    "text": "In this article, learn more about how to make your use of cookies compliant with the Swiss Data Prot"
+  },
+  {
+    "id": "7aed7fc526526269fd07ab5e2d9a8ba3c6e63edd",
+    "url": "https://www.cookiebot.com/en/us-data-privacy-laws/",
+    "title": "US Data Privacy Laws - Cookiebot",
+    "description": "Discover everything you need to know about US data privacy laws, including CCPA/CPRA, CPA & VCDPA wi",
+    "text": "In this blogpost, we gaze out at the rapidly changing landscape of US data privacy law to give you a"
+  },
+  {
+    "id": "778439bfceef2d28a909413f3cbd3a97ff6d9d4d",
+    "url": "https://www.cookiebot.com/en/kenya-dpa/",
+    "title": "Kenya Data Protection Compliance - Kenya DPA - Cookiebot™",
+    "description": "Discover everything you need to know about the Kenya Data Protection Act and how it affects your web",
+    "text": "Kenya’s Data Protection Act came into effect on November 25, 2019, and is now the primary law on dat"
+  },
+  {
+    "id": "680cf109d88eabcee0c5f41910cec626335ea0d9",
+    "url": "https://www.cookiebot.com/en/japan-appi/",
+    "title": "APPI Japan - Data Protection in Japan - Cookiebot™",
+    "description": "Do you comply with APPI Japan? Make sure your website is compliant with data protection in Japan wit",
+    "text": "Not unlike many other data privacy laws, its purpose is to protect an individual’s rights and intere"
+  },
+  {
+    "id": "6200245f8437d83cc8630cb3a19c734d7b71b9dd",
+    "url": "https://www.cookiebot.com/en/thailand-pdpa/",
+    "title": "PDPA Thailand - Personal Data Protection Act - Cookiebot™",
+    "description": "Learn about the Personal Data Protection Act in Thailand with Cookiebot. Our expert team offers deta",
+    "text": "Thailand’s Personal Data Protection Act (PDPA) regulates the processing of personal data for commerc"
+  },
+  {
+    "id": "e1824d8118ff1914fa65a4945962e7f18a95a6fe",
+    "url": "https://www.cookiebot.com/en/new-zealand/",
+    "title": "New Zealand Privacy Act 2020 - Data Privacy - Cookiebot™",
+    "description": "Stay compliant with the New Zealand Privacy Act 2020 and protect your users' data privacy with Cooki",
+    "text": "New Zealand’s Privacy Act 2020 and the NZ Privacy Principles require you to inform users located ins"
+  },
+  {
+    "id": "044667c864444220fbc39f66ef90f01119d663ed",
+    "url": "https://www.cookiebot.com/en/pipeda/",
+    "title": "PIPEDA - Canada Data Protection Law - Cookiebot™",
+    "description": "Learn about PIPEDA, Canada's federal privacy law, and how it regulates the collection, use, and disc",
+    "text": "In this blogpost, learn more about Canada’s PIPEDA, its requirements for your website’s use of cooki"
+  },
+  {
+    "id": "8c45503a8777671baa100dfab007983fec04ce8a",
+    "url": "https://www.cookiebot.com/en/noyb-cookie-banners/",
+    "title": "NOYB Cookie Banner Complaints - Cookie Consent - Cookiebot™",
+    "description": "NOYB's cookie banner campaign fights deliberately unlawful consent schemes in the EU. Use Cookiebot ",
+    "text": "Privacy group NOYB led by Max Schrems has filed 422 complaints on unlawful cookie banners to EU data"
+  },
+  {
+    "id": "1eaf156af9922c0e687706bdffe435d2b2674a46",
+    "url": "https://www.cookiebot.com/en/case-study-sobold-success-cookiebot-wordpress-plugin/",
+    "title": "Case study with SoBold",
+    "description": "Discover how SoBold leveraged the Cookiebot WordPress Plugin to offer innovative GDPR compliance sol",
+    "text": "Discover how SoBold leveraged the Cookiebot WordPress Plugin to offer innovative GDPR compliance sol"
+  },
+  {
+    "id": "0ab5e6f429a602bc151bb712b4f18f523e1f325c",
+    "url": "https://www.cookiebot.com/en/case-study-cookiebot-reseller-partner-up-blue/",
+    "title": "Case Study with Up Blue - Cookiebot",
+    "description": "Internet marketing specialists Up Blue became the second certified Cookiebot™ Reseller Partner in Po",
+    "text": "Internet marketing specialists Up Blue are committed to the best tools, best practices, and ensuring"
+  },
+  {
+    "id": "81467d995ff8260c6642b0e500dc435d3afe2645",
+    "url": "https://illinois.edu/outreach/index.html",
+    "title": "Outreach | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nIllinois was established as a land-grant institution to be a beacon of knowledge an"
+  },
+  {
+    "id": "d8db0079e7a79ec6c984d8d13f8157c6e16bf492",
+    "url": "https://illinois.edu/international/index.html",
+    "title": "International | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nThe power of Illinois can be seen across the world.\nIllinois has more than 500 acti"
+  },
+  {
+    "id": "2804287a771b17195be56fd8cafc2345b349743c",
+    "url": "https://illinois.edu/resources/contact.html",
+    "title": "ILLINOIS | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nPlease use the Illinois directory if you are looking for a specific person or depar"
+  },
+  {
+    "id": "8445c8b7e5947f3362d2ca0a1d5791d4c0e402c0",
+    "url": "https://illinois.edu/athletics/index.html",
+    "title": "Athletics | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nIllinois has 10 men’s NCAA teams and 11 women’s NCAA teams with 15 major facilities"
+  },
+  {
+    "id": "cb972cffe46478d3dd9ce332a281ce4ee5a03ac7",
+    "url": "https://illinois.edu/arts/index.html",
+    "title": "Arts & Culture | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nFrom the nation’s premier performing arts venue to the second-largest fine art muse"
+  },
+  {
+    "id": "1f9a8a7cdf088ed06a38f4bf59c537385947e614",
+    "url": "https://illinois.edu/students/prospective.html",
+    "title": "Resources for Prospective Students | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation"
+  },
+  {
+    "id": "d15d5f8483c67d944abf9e8172205ff4ba3a4890",
+    "url": "https://illinois.edu/resources/emergency.html",
+    "title": "ILLINOIS | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nTo Report Any Police, Fire, or Medical Emergency, dial 911 from any campus, off cam"
+  },
+  {
+    "id": "592f1da72da204edc53eca515cb41c5643a7a3bb",
+    "url": "https://illinois.edu/index.html",
+    "title": "Home | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation"
+  },
+  {
+    "id": "fe217da93f39f0f58032b7922a0f6e9ffbdb1125",
+    "url": "https://illinois.edu/resources/employment.html",
+    "title": "ILLINOIS | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nTo learn about open positions and working at Illinois click here.\nThe Virtual Job B"
+  },
+  {
+    "id": "5c779a8584a79bd67d9b7362e8522c6c7de39a35",
+    "url": "https://illinois.edu/resources/website/copyright.html",
+    "title": "ILLINOIS | University of Illinois Urbana-Champaign",
+    "description": "Information for students, alumni, and parents from Illinois flagship public university, a world lead",
+    "text": "Close Navigation\nThis website and its content is copyright of University of Illinois Board of Truste"
+  },
+  {
+    "id": "80f89777da3a900d6f507799e4501fd728ab800c",
+    "url": "https://www.zend.com/blog/now-available-zendphp-ibm-i",
+    "title": "ZendPHP for IBM i is Now Available | ZendPHP IBM i | Zend",
+    "description": "ZendPHP for IBM i is available! This blog gives an overview of what it is and does, and explores our",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nFebruary 11, 20"
+  },
+  {
+    "id": "5eb3fa60abe0b600af127e57a241d6be705c3867",
+    "url": "https://www.zend.com/blog/php-arm-architecture-support",
+    "title": "Complete Guide to PHP ARM Architecture Support | Zend",
+    "description": "Explore ARM architecture, how it compares to CISC architectures, the benefits of PHP ARM architectur",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nJanuary 26, 202"
+  },
+  {
+    "id": "a64d03cd0447d6475d5a1e786c31cae54d98b4c6",
+    "url": "https://www.zend.com/blog/what-zend-php",
+    "title": "What Is ZendPHP? | Secure and Supported PHP Runtimes | Zend",
+    "description": "Learn about Zend PHP runtimes, how keeping up with PHP releases can present unique challenges, and t",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nJuly 15, 2020\nP"
+  },
+  {
+    "id": "868afa40c85ed2fbc10c3702b2a445f05dcc8f0e",
+    "url": "https://www.zend.com/blog/php-ibm-i-so-much-more-you-think",
+    "title": "PHP on IBM i | Making the Most of PHP IBM i Apps | Zend",
+    "description": "Using PHP on the IBM i platform unlocks powerful opportunities for your developer team. Explore the ",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nFebruary 12, 20"
+  },
+  {
+    "id": "6d20b686f8af940a47d50be3c72647748a961865",
+    "url": "https://www.zend.com/blog/zend-guard-and-php-7",
+    "title": "PHP Encoders, Zend Guard, and PHP 7: An Overview | [site:PHP Encoders | Zend Guard | PHP 7 | Guide t",
+    "description": "Learn about the current and future state of Zend Guard and PHP 7, as well as information regarding a",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nOctober 10, 201"
+  },
+  {
+    "id": "375ac56a90b0d277d34864fb7fce14015f48d081",
+    "url": "https://www.zend.com/blog/install-zend-server-ibm-i",
+    "title": "Zend Server for IBM i | Zend Server IBM i Installation | Zend",
+    "description": "Zend Server updates for IBM i are now available and strongly recommended. Learn how to install Zend ",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nApril 29, 2022\n"
+  },
+  {
+    "id": "70f7806bd942ac66ce3c6e7c78efff85b5e091bc",
+    "url": "https://www.zend.com/blog/cloud-images",
+    "title": "PHP Cloud Images | ZendPHP Cloud Deployments | Zend",
+    "description": "The Zend PHP experts take a look at cloud images with ZendPHP and how they make deployment of PHP ap",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nApril 26, 2022\n"
+  },
+  {
+    "id": "c7256396a35efd03e45c612a4907a7aad247de56",
+    "url": "https://www.zend.com/blog/state-php-2022",
+    "title": "The State of PHP in 2022 | 2022 PHP Usage and Data | Zend",
+    "description": "In this blog, we discuss the results of our 2022 PHP Landscape Report and offer projections for the ",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nMarch 31, 2022\n"
+  },
+  {
+    "id": "2a260da0b7c2867584f1fa6111faade5dee15250",
+    "url": "https://www.zend.com/blog/state-php-2021",
+    "title": "The 2021 State of PHP | 2021 PHP Trends and Projections | Zend",
+    "description": "In this blog, we discuss the current reality of PHP in 2021, and offer projections for the future of",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nMarch 4, 2021\nS"
+  },
+  {
+    "id": "439aeebc2583e423520053a7ac18affff66f9bfe",
+    "url": "https://www.zend.com/blog/installing-zendphp-ibm-i",
+    "title": "Installing ZendPHP on IBM i | PHP IBM i Applications | Zend",
+    "description": "In this blog, we show how easy it is to install ZendPHP on IBM i via RPM — including Db2 and ILE int",
+    "text": "PHP Runtime and Support\nThe PHP Ecosystem Changes Quickly – Are You Keeping Up?\nBlog\nMarch 11, 2021\n"
+  },
+  {
+    "id": "bad131691ab27215f49b3dd760cc8cedb64a6bc4",
+    "url": "https://www.lazada.co.th/products/resistor-50w-1-ohm-50-1-i2512621169.html",
+    "title": "Resistor 50W 1 ohm, รีซีสเตอร์ 50 วัตต์ 1 โอห์ม | Lazada.co.th",
+    "description": "รีซีสเตอร์ 50 วัตต์ 1 โอห์ม สำหรับใช้งานในวงจรไฟฟ้า ผลิตจากวัสดุคุณภาพสูง สามารถใช้งานได้หลากหลาย ตั",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "d943da6e6149667548648d556a4b6f4055a006e8",
+    "url": "https://www.lazada.co.th/products/watashi-poe-switch-wsc085-16-i2526175558.html",
+    "title": "Watashi POE Switch รุ่น WSC085 16 พอร์ต | Lazada.co.th",
+    "description": "watashi. 16 พอร์ต PoE 10/100/1000Mbps 2 SFP Uplink 1 Console port. Layer 2. Switch Volume Full-duple",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "66586f87f2a7bd80a673a02d2a8212605404894d",
+    "url": "https://www.lazada.co.th/products/2b-i2514710125.html",
+    "title": "กล่องพัสดุ กล่องไปรษณีย์ ขนาด 2B | Lazada.co.th",
+    "description": "กล่องรับพัสดุหน้าบ้านกันฝน. moving boxes large. ตู้รับพัสดุใหญ่. ลังเบียร์เปล่า. กล่องขนาด 2b",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "d475ffd4371aa0d06f32b0dbf43feb557061c981",
+    "url": "https://www.lazada.co.th/products/1honda-i2537061274.html",
+    "title": "เก๊ะช่องเก็บของช่องเท่าวิทยุ1ดินสำหรับรถHondaได้ทุกรุ่น หรือแปลงใส่รถรุ่นอื่นๆ | Lazada.co.th",
+    "description": "แขวน เสือ ผ้า ติด รถยนต์ chr: ด้านล่างและด้านหลังบุด้วยผ้าฟลีซเพื่อการปกป้องเป็นพิเศษ หน้ากาก honda ",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "32ca3c5973c942aaf570b6d3a41a74fd673b79b3",
+    "url": "https://www.lazada.co.th/products/iconic-black-working-top-2831-34-18-32-i2521880675.html",
+    "title": "iCONiC BLACK WORKING TOP #2831 เสื้อแขนกุด ผ้าไหม สีดำ อก34\" ยาว18\" เอว32\" เสื้อผญ เสื้อแฟชั่น เสื้อ",
+    "description": "Iconic คอกลม ธรรมดา เสื้อแขนกุด เสื้อแขนกุด เสื้อแฟชั่น ไหมทอง. tank top TLD เสื้อกัน. เสื้อทำงานผู้",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "5d540b75baf1b202485150639c2407033dcd7401",
+    "url": "https://www.lazada.co.th/products/-i2537837407.html",
+    "title": "เหรียญโบราณ ๑ สลึง สมัยสยามรัฐ ปี พ.ศ.๒๔๕๘ (สภาพสวย)รับประกันแท้ตลอดชีพ | Lazada.co.th",
+    "description": "ของเก่าโบราณ. เหรียญ สลึง. เหรียญสลึง",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "2543baf068c149789b37dcfa6e0ff5a71a07d3b4",
+    "url": "https://www.lazada.co.th/products/dr116r116dr-116dr-116mlt-r1169k-samsung-drum-printer-samsung-xpress-sl-m2625-m2626-m2675-m2676-m2825-m2826-sl-m2835-m2875-m2876-i2544175596.html",
+    "title": "DR116/R116/DR 116/DR-116/MLT-R116(9K) ตลับดรัม หมึกพิมพ์ Samsung DRUM ใช้กับพริ้นเตอร์รุ่น Printer เ",
+    "description": "ตลับดรัม Samsung DR116 คุณภาพสูงสำหรับเครื่องปริ้นเตอร์ Samsung Xpress รุ่น M2625-2876 พร้อมการรับปร",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "cf7c729c2b4bf2ee76d0eebe11936a357b23444c",
+    "url": "https://www.lazada.co.th/products/-i2544589759.html",
+    "title": "ต้น​ลิ้น​กระบือ​ด่าง​ไม้ประดับ​ ต้นไม้ตาย ระหว่างขนส่งเคลมฟรี  ต้นไม้​สอง​สี | Lazada.co.th",
+    "description": "ต้น ลิ้น กระบือ ด่าง ไม้ประดับ ต้นไม้ตาย ระหว่างขนส่งเคลมฟรี ต้นไม้ สอง สี",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "9626ec179624961f53b54615313c24e402cd2f77",
+    "url": "https://www.lazada.co.th/products/-i2537160720.html",
+    "title": "โพรบวีโก้ พร้อมใช้งาน (รวมสาย) | Lazada.co.th",
+    "description": "โพรบวีโก้พร้อมใช้งาน สำหรับวัดไฟฟ้าในรถยนต์ พร้อมสาย 2 แบบ มีไฟและไม่มีไฟ ให้เลือก เหมาะสำหรับงานซ่อ",
+    "text": "ช้อปบนแอปดีกว่ายังไง:\nหากมีข้อสงสัยใดๆ, คลิกที่นี่"
+  },
+  {
+    "id": "939ac56d88d0feb2962fa6d28c9d17d5f51ab1e7",
+    "url": "https://woocommerce.com/",
+    "title": "WooCommerce",
+    "description": "WooCommerce is the open-source ecommerce platform that helps merchants and developers build successf",
+    "text": "Every business is unique, and every store should be too. WooCommerce empowers you to build, sell, an"
+  },
+  {
+    "id": "efa112a97776f5bee53375649e87d022c239cae5",
+    "url": "https://woocommerce.com/posts/woothemes-is-now-running-wordpress-27/",
+    "title": "WooThemes is now running WordPress 2.7! - WooCommerce",
+    "description": "We have now updated all our demo themes to the latest version of WordPress! There were no problems a",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nDecember 11, 2008\nWe have now updated all our demo themes "
+  },
+  {
+    "id": "eccecb8450ca949f1585b94efec857e99be129df",
+    "url": "https://woocommerce.com/posts/adding-breadcrumbs-to-vibrantcms-and-overeasy/",
+    "title": "Adding Breadcrumbs to VibrantCMS and OverEasy - WooCommerce",
+    "description": "This tutorial was written by one our awesome forum ninjas - Jordan Hatch. Both VibrantCMS and Over E",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nDecember 19, 2008\nThis tutorial was written by one our awe"
+  },
+  {
+    "id": "75737206b266fe57beb3919dc2c5f29c3cb47ddd",
+    "url": "https://woocommerce.com/posts/wootube-haz-homepage/",
+    "title": "WooTube haz homepage! - WooCommerce",
+    "description": "When we first designed WooTube, we only intended it to be a simple video browser theme. Some complai",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nFebruary 20, 2009\nWhen we first designed WooTube, we only "
+  },
+  {
+    "id": "fbf5dd763875a198900c6b314112424b3411bce8",
+    "url": "https://woocommerce.com/posts/customizing-the-featured-panel/",
+    "title": "Customizing The Featured Panel - WooCommerce",
+    "description": "This is a guest post by Josh Farkas, King Ninja at Cubicle Ninjas. It has been modified from it's or",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nAugust 15, 2008\nThis is a guest post by Josh Farkas, King "
+  },
+  {
+    "id": "2578ab462c7a532322cc640869457a52836ee92a",
+    "url": "https://woocommerce.com/posts/wootees-another-woocontest/",
+    "title": "WooTees - Another woocontest - WooCommerce",
+    "description": "Stop the press. We've decided we've had enough of wordpress themes and we are now going to be ventur",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nMarch 23, 2009\nStop the press. We’ve decided we’ve had eno"
+  },
+  {
+    "id": "fdd4620c30501c0d3d39ecf2512b0ffac6e8cb0d",
+    "url": "https://woocommerce.com/posts/4-for-1-christmas-special-extended/",
+    "title": "4-for-1 Christmas special extended - WooCommerce",
+    "description": "Today is supposed to be the last day of our Christmas 4-for-1 special , meaning all your Christmas s",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nDecember 24, 2008\nToday is supposed to be the last day of "
+  },
+  {
+    "id": "43a16cb2be8bb4a87a79814932b0168c82e375f6",
+    "url": "https://woocommerce.com/posts/changing-your-wordpress-permalink-structure/",
+    "title": "Changing your Wordpress permalink structure - WooCommerce",
+    "description": "Changing your wordpress permalink structure not only makes Google love you a whole heap more, it als",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nJune 9, 2009\nChanging your wordpress permalink structure n"
+  },
+  {
+    "id": "889af6f86d9f561470369d9a90bd192ed1fd9bdc",
+    "url": "https://woocommerce.com/posts/the-4-for-1-special/",
+    "title": "The 4-for-1 Special - WooCommerce",
+    "description": "Ho Ho Ho! Santa has arrived a week early here at WooThemes headquarters, bearing lots of gifts and i",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nDecember 16, 2008\nHo Ho Ho! Santa has arrived a week early"
+  },
+  {
+    "id": "b7d137c79e8f9e9d9b8326102397b14f3510cb3c",
+    "url": "https://woocommerce.com/posts/wp-postratings-integration/",
+    "title": "WP-PostRatings Integration - WooCommerce",
+    "description": "This tutorial was written by one our awesome Woo Ninjas - Jordan Hatch. Another useful plugin you ma",
+    "text": "The WooCommerce Blog\nThe WooCommerce Blog\nFebruary 23, 2009\nThis tutorial was written by one our awe"
+  },
+  {
+    "id": "12b0d2c56b6a39d3596437cee31ea3f826411419",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/citrix-daas-azure-windows-vd-wp.html",
+    "title": "Citrix Virtual Apps and Desktops service with Azure Virtual Desktop - Citrix",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "97a6c7ddf3ae39483faafa548d494b4fc4d10985",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/technology-is-complex-desktops-as-a-service-is-not.html",
+    "title": "Technology is complex.  Desktop as a service (DaaS) is not - Citrix",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "1d9d2b88109998db5c9f737d7ee564d8e87e37c5",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/5-reasons-transition-citrix-daas-azure-infographic.html",
+    "title": "5 Reasons to migrate to Citrix Virtual Apps and Desktops on Microsoft Azure - Infographics - Citrix",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "7d8af49e239556bbae7972d79a012696786eff1c",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/deliver-secure-digital-workspaces-ebook.html",
+    "title": "Deliver secure digital workspaces with Citrix Virtual Apps and Desktops on Microsoft Azure - e-book ",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "fa13723af234da65c4cf87ce732a7587c7da7a40",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/harness-the-virtualization-technology-ebook.html",
+    "title": "Harness the virtualization technology that’s right for your business with Citrix Virtual Apps and De",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "d95fa58a8fd0f3b450f86bccb3d245272ca1056f",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/secure-reliable-delivery-of-digital-workspaces-wp.html",
+    "title": "Ensure the Secure Reliable Delivery of Citrix DaaS (Formerly Citrix Virtual Apps and Desktops Servic",
+    "description": "Extend security to the endpoint while providing seamless experiences to strike the perfect balance b",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "1c56a6f68ae770a8e5517858b1d051e654396d69",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/the-true-value-of-citrix-daas-on-azure-webinar.html",
+    "title": "The true value of Citrix DaaS on Azure with special guest Forrester - Citrix",
+    "description": "",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "4bdfc75912130d62d96c2ce6cb1b923430e397ac",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/5-priorities-for-securing-hybrid-work-sb.html",
+    "title": "5 Priorities for Securing Hybrid Work with Citrix and Google - Citrix",
+    "description": "Secure your hybrid workforce with Citrix DaaS solutions and Google Chrome OS—learn the 5 must-implem",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "005c29561f2e463f92a9fd65f6ccd4df7451d259",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/meeting-the-security-challenges-of-hybrid-work-ebook.html",
+    "title": "Overcoming the Security Challenges of Hybrid Work - Citrix",
+    "description": "Reduce your risk of ransomware, phishing, and other hybrid work security challenges in this free eBo",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
+  },
+  {
+    "id": "90a84e61da2caa739224fe55288f986845f21218",
+    "url": "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/the-strength-of-simplicity-ebook.html",
+    "title": "Strengthen Your Remote Work Security with Citrix and Google - Citrix",
+    "description": "See how Citrix and Chrome OS make it easy to secure your remote workforce with comprehensive cyberth",
+    "text": "BY USE CASE\nBY INDUSTRY\nSee all use cases\nCitrix Platform overview\nDownload the Citrix Workspace App"
   }
 ]
