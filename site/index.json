@@ -176111,5 +176111,593 @@
     "title": "New ranking demonstrates Purdue prominence in AI research supercomputing - Research at Purdue",
     "description": "Purdue University’s newest supercomputing community cluster Gautschi has debuted at No. 7 among U.S.",
     "text": "Share:\nWEST LAFAYETTE, Ind. — Purdue University’s newest supercomputing community cluster Gautschi h"
+  },
+  {
+    "id": "f34230ab7eb0fc0dfcc181db0881206295283adb",
+    "url": "https://www.revenuecat.com/jp/integrations/iterable/",
+    "title": "アプリ内購入イベントをIterableに送信する – RevenueCat",
+    "description": "Iterableとの統合を使用して、顧客がどの段階にいるかをより深く理解し、それに応じて対応することができます。",
+    "text": "トライアルのアクティベーション、サブスクリプション、更新、キャンセルなどのイベントをIterableに送信して、エンゲージメントとリテンションを向上させる。\nトライアルを開始、サブスクリプションを登録"
+  },
+  {
+    "id": "21704972b6408f9039b337562561df7c080d7a6b",
+    "url": "https://www.revenuecat.com/jp/integrations/statsig/",
+    "title": "アプリ内購入イベントをStatsigに送信する – RevenueCat",
+    "description": "RevenueCatは、請求、サブスクリプション、収益のメトリクスをStatsigプロジェクトに自動的に送信して、アプリ内実験を改善することができます。",
+    "text": "RevenueCatは、iOSおよびAndroidから請求、サブスクリプション、および収益のメトリクスを自動的にStatsigプロジェクトに送信できます。\n新しい製品改善がビジネスメトリクスに与える影"
+  },
+  {
+    "id": "4b3d98d15bc7b95d630f8ed0557cfc359ae171df",
+    "url": "https://www.revenuecat.com/jp/integrations/superwall/",
+    "title": "アプリ内購入イベントをSuperwallに送信する – RevenueCat",
+    "description": "RevenueCatは、請求、サブスクリプション、および収益のメトリクスをSuperwallに自動的に送信し、ペイウォールと収益を最適化することができます。",
+    "text": "RevenueCatは、iOSおよびAndroidから請求、サブスクリプション、収益のメトリクスを自動的にSuperwallに送信できます。\nトライアルコンバージョン率が高いペイウォールを特定する。\n"
+  },
+  {
+    "id": "aaff1f6b53e942c529ed0d5797a7f2ccb25317d1",
+    "url": "https://www.revenuecat.com/jp/integrations/airship/",
+    "title": "アプリ内購入イベントをAirshipに送信する – RevenueCat",
+    "description": "RevenueCatのイベントを使用してメッセージをトリガーし、購入やトライアル行動に基づいたカスタムオートメーションを設計する。",
+    "text": "RevenueCatのイベントを使用してカスタムイベントを送信し、Airshipでメッセージをトリガーできます。これにより、購入行動に基づいてパーソナライズされたAirship Journeysやオー"
+  },
+  {
+    "id": "f6a77ff9ed1317b5c603b80f0413d4586e66c298",
+    "url": "https://www.revenuecat.com/jp/integrations/clevertap/",
+    "title": "アプリ内購入イベントをCleverTapに送信する – RevenueCat",
+    "description": "CleverTapとのアプリ内購入統合を数分で完了。Airshipに正確で最新のサブスクリプションデータを持つことで、ユーザーエンゲージメントを大幅に向上させる準備が整います ⚡️",
+    "text": "トライアルのアクティベーション、サブスクリプション、更新、キャンセルなどのイベントをCleverTapに送信して、エンゲージメントとリテンションを向上させる。\nトライアルを開始、サブスクリプションを登"
+  },
+  {
+    "id": "4e8659bc590cdf567a572a065441a8be7fb70b36",
+    "url": "https://www.revenuecat.com/jp/integrations/onesignal/",
+    "title": "アプリ内購入イベントをOneSignalに送信する – RevenueCat",
+    "description": "RevenueCatは、最新のサブスクリプションステータスを使用して、OneSignalのユーザータグを自動的に更新できます。",
+    "text": "RevenueCatは、App StoreまたはGoogle Playから取得した最新のサブスクリプションステータスを使用して、OneSignalのユーザータグを自動的に更新できます。\n解約のリスクが"
+  },
+  {
+    "id": "19a365b356b3a1e69432b872651c539e9f463705",
+    "url": "https://www.revenuecat.com/jp/integrations/mparticle/",
+    "title": "アプリ内購入イベントをmParticleに送信する – RevenueCat",
+    "description": "mParticleに正確で最新のサブスクリプションデータを持つことで、クリーンなアプリ内購入データを活用してスタック全体を強化できます。",
+    "text": "iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内購入イベントをmParticleに同期する。\nアプリ内購入イベントを簡単に分析スタックに接続する。\n特定の機能"
+  },
+  {
+    "id": "24ff4857bbf142c19955a48f4d225fcb665b2976",
+    "url": "https://www.revenuecat.com/jp/integrations/intercom/",
+    "title": "アプリ内購入イベントをIntercomに送信する – RevenueCat",
+    "description": "Intercomで正確かつ最新のサブスクリプションデータを利用することで、顧客エンゲージメントとサポートを大幅に向上させることができます。",
+    "text": "Intercomで正確かつ最新のサブスクリプションデータを使用することで、顧客エンゲージメントとサポートを大幅に向上させる準備が整います。\nアプリ内の行動に基づいて、ユーザーを実行可能なセグメントにグ"
+  },
+  {
+    "id": "caeb29744dff48c2308822ea169064383ca29172",
+    "url": "https://www.revenuecat.com/jp/integrations/segment/",
+    "title": "アプリ内購入イベントをSegmentに送信する – RevenueCat",
+    "description": "Segmentに正確で最新のサブスクリプションデータを持つことで、クリーンなアプリ内購入データを活用してスタック全体を強化できます。",
+    "text": "App StoreやPlay Storeからトライアル開始、サブスクリプション、キャンセルなどのアプリ内購入イベントをSegmentに接続\nアプリ内購入イベントを簡単に分析スタックに接続\n特定の機能を"
+  },
+  {
+    "id": "674490460cb81f04fb9451566387c85a7f317b90",
+    "url": "https://www.revenuecat.com/jp/integrations/tenjin/",
+    "title": "Tenjinアプリ内購入および収益の統合 – RevenueCat",
+    "description": "iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でTenjinに同期する。",
+    "text": "RevenueCatの事前構築済みの統合を使用すると、iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でTenjinに同期でき"
+  },
+  {
+    "id": "0620f9999af3522a224f6852c63ba9ef4d77249e",
+    "url": "https://www.mediavine.com/interview-arts-and-budgets/",
+    "title": "Publisher Interview: Latasha Peterson of Arts and Budgets - Mediavine",
+    "description": "An interview with blogger and digital marketing expert Latasha Peterson. On her site, Arts and Budge",
+    "text": "MVP Latasha Peterson may not have been blogging long, but she has seen excellent results in that sho"
+  },
+  {
+    "id": "345000e74c5f49a89858bcfeb850c3f6ffa4e418",
+    "url": "https://www.mediavine.com/keyword-proximity/",
+    "title": "Keyword Proximity: Use Your Keyphrases Together - Mediavine",
+    "description": "In our SEO series, we're exploring a concept that's essential for deploying any multi-word keyphrase",
+    "text": "Today in our SEO series, we’re going to explore a concept that’s essential for deploying any multi-w"
+  },
+  {
+    "id": "5cc86e83227bddbc3859e1baddbcc82021f99cc1",
+    "url": "https://www.mediavine.com/interview-fitnancials/",
+    "title": "Publisher Interview: Alexis Schroeder of Fitnancials - Mediavine",
+    "description": "An in-depth interview with Alexis Schroder of the website Fitnancials, a great resource for personal",
+    "text": "Today on the blog, we’re spotlighting Mediavine publisher Alexis Schroeder of Fitnancials, where she"
+  },
+  {
+    "id": "adfea2b3f1931f05da7cabefc613b9c04f5cd535",
+    "url": "https://www.mediavine.com/keyword-prominence/",
+    "title": "Keyword Prominence: Use Your Keyphrase Early! - Mediavine",
+    "description": "Keyword prominence is how close your keyword is to the beginning of a section, or element of your pa",
+    "text": "In today’s installment of Mediavine’s SEO series, we’re delving into keyword prominence — a term you"
+  },
+  {
+    "id": "ddbb73c0df0e786e4fd218b1ac0386ae829fcbb8",
+    "url": "https://www.mediavine.com/stop-words/",
+    "title": "Google Stop Words: Should You Remove Them For SEO? - Mediavine",
+    "description": "Do stop words hurt your SEO? Learn what they are and whether or not you should remove them from your",
+    "text": "In this week’s edition of the Mediavine SEO series, we’re asking you to stop what you’re doing for a"
+  },
+  {
+    "id": "ed7f0f18f220db84d6373fdd664224c1da41cd10",
+    "url": "https://www.mediavine.com/alt-text/",
+    "title": "Alt Text SEO: Building Better Rankings and More Accessible Experiences - Mediavine",
+    "description": "Learn all about alt text, or alternative text, and its roles in both SEO and website accessibility. ",
+    "text": "If you’ve been reading this blog at all lately, or following what’s going on in the blogging ecosyst"
+  },
+  {
+    "id": "23608addea1f01275c08901ac078616ed6e5f992",
+    "url": "https://www.mediavine.com/keyword-research/",
+    "title": "Keyword Research: Trust the Process (and the Right Tools) For SEO Success - Mediavine",
+    "description": "Keyword research is an important part of SEO strategy. Learn how to build an effective search and wh",
+    "text": "In this week’s installment of Mediavine’s SEO series, we’re taking our ongoing discussion of keyword"
+  },
+  {
+    "id": "29059c07286cb838bc186394e7b1dd4c9f62b876",
+    "url": "https://www.mediavine.com/blogger-interview-nicole-hunn-of-gluten-free-on-a-shoestring/",
+    "title": "Blogger Interview: Nicole Hunn of Gluten Free on a Shoestring - Mediavine",
+    "description": "We interview Nicole Hunn from Gluten Free on a shoestring!",
+    "text": "Welcome to our Blogger Interview series, where we spend time talking with Mediavine publishers in di"
+  },
+  {
+    "id": "1af9c675d9c8ba105277e4fc14c22601ebbab5bb",
+    "url": "https://www.mediavine.com/interview-be-my-travel-muse/",
+    "title": "Publisher Interview: Kristin Addis from Be My Travel Muse - Mediavine",
+    "description": "Get tips and insider knowledge in our interview with experienced Mediavine blogger Kristin Addis of ",
+    "text": "Today on the blog, we’re offering an publisher spotlight interview with Kristin Addis of the gorgeou"
+  },
+  {
+    "id": "27ee0cc212a4ff70eeaa19c28167855f9501b574",
+    "url": "https://www.mediavine.com/keyword-density/",
+    "title": "Keyword Density: Optimize Your Keyphrase, But Avoid Stuffing - Mediavine",
+    "description": "Learn what keyword density is, at what frequency and where you should use your keyphrase for SEO and",
+    "text": "In last week’s edition of Mediavine’s SEO series, we talked about keyword prominence, or where to pl"
+  },
+  {
+    "id": "a18cb88df5f3a1b5d6734cfccf34c94bef8b4328",
+    "url": "https://senderscore.org/assess/email-revenue-calculator/",
+    "title": "Email Revenue Calculator - Sender Score",
+    "description": "",
+    "text": "Assess\nSender Score\nThe original. Monitor your sender reputation.\nBlocklist Lookups\nSee if you’re on"
+  },
+  {
+    "id": "defe9ddff7b4b30047e1b034d734c2894884c36d",
+    "url": "https://senderscore.org/assess/get-your-score/report/",
+    "title": "Sender Score | Report - Sender Score",
+    "description": "",
+    "text": "Assess\nSender Score\nThe original. Monitor your sender reputation.\nBlocklist Lookups\nSee if you’re on"
+  },
+  {
+    "id": "fbac21681be034f238ee11d5c2c5dc464523335f",
+    "url": "https://senderscore.org/assess/email-list-quality-check/",
+    "title": "List Quality Check - Sender Score",
+    "description": "",
+    "text": "Assess\nSender Score\nThe original. Monitor your sender reputation.\nBlocklist Lookups\nSee if you’re on"
+  },
+  {
+    "id": "2fd8bc38df6a504a6b0c220199d82423fc2bdc94",
+    "url": "https://senderscore.org/act/subscriber-list-analyzer/",
+    "title": "Subscriber List Analyzer - Sender Score",
+    "description": "",
+    "text": "Assess\nSender Score\nThe original. Monitor your sender reputation.\nBlocklist Lookups\nSee if you’re on"
+  },
+  {
+    "id": "c169be9335af2dc755c8a04a745360beb535b936",
+    "url": "https://senderscore.org/assess/deliverability-benchmarks/",
+    "title": "Deliverability Benchmarks - Sender Score",
+    "description": "",
+    "text": "Assess\nSender Score\nThe original. Monitor your sender reputation.\nBlocklist Lookups\nSee if you’re on"
+  },
+  {
+    "id": "c30faedbd0e439cc499525b70a5a2612dbc6c098",
+    "url": "https://www.airship.com/blog/ticketmaster-tradera-mparticle-share-digital-marketing-best-practices/",
+    "title": "Ticketmaster, Tradera and mParticle Share Best Practices: Recapping Our Mobile Growth Workshop in St",
+    "description": "",
+    "text": "Sarah MacDonald\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "3adcb4512d8003a7a468f0d4c3bffb6f9a196530",
+    "url": "https://www.airship.com/blog/best-practice-digital-marketing-strategies-ryanair-hilton-lego-bbc-sport/",
+    "title": "A Highlight Reel of Best Practice Digital Marketing Strategies from RyanAir, Hilton, Lego & BBC Spor",
+    "description": "",
+    "text": "Sarah MacDonald\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "d74141b8edf7171e5f645744aca09eeef6fd47ab",
+    "url": "https://www.airship.com/blog/sxsw-mobile-saturday-recapinnovators-or-idiots-mobiles-next-hits-misses/",
+    "title": "SXSW Mobile Saturday Recap:Innovators or Idiots? Mobile’s Next Hits & Misses | Airship",
+    "description": "",
+    "text": "Melissa Manser\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "96b42035768c850205dfff228740d5b0bdc12b1f",
+    "url": "https://www.airship.com/blog/customer-first-guidelines-for-app-marketing/",
+    "title": "Put Your Users First, It Benefits the Brand | Airship",
+    "description": "",
+    "text": "Ben Reubenstein\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "c5a60df5056445b18211a2abd89609882c7381d7",
+    "url": "https://www.airship.com/blog/predictive-lifecycle-marketing-analytics-for-digital-marketers/",
+    "title": "Announcing New Predictive Lifecycle Marketing Analytics for Digital Marketers | Airship",
+    "description": "",
+    "text": "Bill Schneider\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "2b8c77c793ab0337681d5b9bf0a49d1896cf33db",
+    "url": "https://www.airship.com/blog/sxsw-mobile-saturday-recap-from-apps-to-obsession-sparking-enviable-fandom/",
+    "title": "SXSW Mobile Saturday Recap: From Apps to Obsession: Sparking Enviable Fandom | Airship",
+    "description": "",
+    "text": "Melissa Manser\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "299fa703445cb7455bf4a8a466df7e46ad672b74",
+    "url": "https://www.airship.com/blog/avoiding-touch-point-whack-a-mole/",
+    "title": "Avoiding Touch Point Whack-A-Mole | Airship",
+    "description": "",
+    "text": "Connect with our team of experts to discuss your conversion and loyalty goals, and how we can help y"
+  },
+  {
+    "id": "89c27568e1decbbfb0e53cade42c5b4692487f77",
+    "url": "https://www.airship.com/blog/marketers-mobile-wallets-3-ways-things-just-got-more-interesting/",
+    "title": "Marketers & Mobile Wallets: 3 Ways Things Just Got More Interesting | Airship",
+    "description": "",
+    "text": "Danny Ackerman\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "ea12b44969691901e1d82457a9330e06f4f7c027",
+    "url": "https://www.airship.com/blog/our-top-10-blog-posts-from-2017/",
+    "title": "Our Top 10 Blog Posts From 2017 | Airship",
+    "description": "",
+    "text": "Melissa Manser\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "2178362aac8e09a3db486c13334144592fc76206",
+    "url": "https://www.airship.com/blog/the-best-app-we-have-ever-seen-bagelnow/",
+    "title": "The Best App We Have Ever Seen: BagelNOW | Airship",
+    "description": "",
+    "text": "Leslie McCollom\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "c0445a90048c80fdf3d10017f819acb15114cea5",
+    "url": "https://www.insales.ru/page/marketplace",
+    "title": "Управление продажами на маркетплейсах от inSales: контроль остатков и цен, отчеты о продажах",
+    "description": "Управляйте продажами на маркетплейсах с помощью облачного сервиса от inSales: бухгалтерия, контроль ",
+    "text": "Товарная аналитика\nABC, XYZ и ₽₽₽- анализ\nОтчет об оборачиваемости товаров\nОтчет о прибылях и убытка"
+  },
+  {
+    "id": "f4b2805f403ee237e24b22647efbdacf2f417330",
+    "url": "https://www.insales.ru/page/site-im",
+    "title": "Конструктор интернет-магазина. Создать продающий сайт на платформе inSales",
+    "description": "Создание интернет-магазина без навыков программирования. Онлайн-конструктор с шаблонами и виджетами,",
+    "text": "Выберете шаблон дизайна и получите готовый сайт за 15 минут \n      без помощи программистов, дизайне"
+  },
+  {
+    "id": "298927f7ac792e894a9f0c42fc34806713929a1d",
+    "url": "https://www.insales.ru/page/marketplaces-start",
+    "title": "Помощь в выходе на маркетплейсы под ключ от inSales",
+    "description": "Помощь в продвижении и работе на маркетплейсах Wildberries, Ozon, Яндекс.Маркет, Мегамаркет. Регистр",
+    "text": "Мы предлагаем оплатить подписку на платформу управления онлайн-торговлей inSales, вся работа ведётся"
+  },
+  {
+    "id": "151fc84018aeaa777e293247300ac1c8660c2b1e",
+    "url": "https://www.insales.ru/page/ozon",
+    "title": "Создайте интернет-магазин бесплатно и продавайте онлайн через inSales",
+    "description": "inSales — единый инструмент для всех каналов интернет-продаж: создайте интернет-магазин, продавайте ",
+    "text": "Самостоятельно создайте интернет-магазин без программистов и дизайнеров\nИспользуйте актуальные данны"
+  },
+  {
+    "id": "e0440a90e42d9d5ee917359e8a408fa3a138a5fd",
+    "url": "https://www.insales.ru/page/site-marketplace",
+    "title": "Создайте сайт из витрины маркетплейса за 30 секунд",
+    "description": "Создайте сайт из витрины маркетплейса за 30 секунд",
+    "text": ""
+  },
+  {
+    "id": "91f19c7ff6099fec67f60eea5141e37580222860",
+    "url": "https://www.insales.ru/page/telegram-channel",
+    "title": "Telegram-канал «О чём говорят селлеры»",
+    "description": "Канал о мире электронной коммерции, онлайн-торговле и маркетплейсах",
+    "text": ""
+  },
+  {
+    "id": "09a1fee54ca619d0427d67f29524c2cb6dd8212b",
+    "url": "https://www.insales.ru/page/landing",
+    "title": "Лендинг: что это такое, отличия от сайта, из чего состоит и как правильно создать Landing Page - рук",
+    "description": "Узнайте, что такое лендинг, зачем он нужен и чем отличается от обычного сайта. Читайте, из чего сост",
+    "text": "Лендинг, или одностраничник, или посадочная страница - в наше время без него никуда. Для чего нужен "
+  },
+  {
+    "id": "ca950317905bc5a3c5b4fbfdb5e8907218870f50",
+    "url": "https://www.insales.ru/page/compliance",
+    "title": "Комплаенс и противодействие коррупции в inSales",
+    "description": "Комплаенс и противодействие коррупции",
+    "text": ""
+  },
+  {
+    "id": "1d360fe24e0a063175e027e397aeef9806f7f00d",
+    "url": "https://www.insales.ru/page/faq",
+    "title": "Часто задаваемые вопросы по платформе inSales",
+    "description": "Часто задаваемые вопросы по платформе inSales",
+    "text": "inSales - это готовое решение для создания интернет-магазинов без необходимости вникать в технически"
+  },
+  {
+    "id": "ecc30cd703d74ba924e68e8692ddb5c06dac587a",
+    "url": "https://itch.io/updates/import-indiegogo-backers-and-more",
+    "title": "Import Indiegogo backers and more - itch.io",
+    "description": "Since introducing the  Kickstarter backer import tool  last year, projects have delivered digital re",
+    "text": "Since introducing the Kickstarter backer import tool last year, projects have delivered digital rewa"
+  },
+  {
+    "id": "06eb5591eadf26f52385ddd83c00d2c3eeda9530",
+    "url": "https://itch.io/blog/14/in-our-darkest-hour-cuteness-is-here-to-save-us",
+    "title": "In Our Darkest Hour, Cuteness is Here to Save Us - itch.io",
+    "description": "There's an unblinking face on each of the trees. When I look up, there's a face on the clouds and su",
+    "text": "There's an unblinking face on each of the trees. When I look up, there's a face on the clouds and su"
+  },
+  {
+    "id": "d3f5abb8c0f4863d71a2af12c5230af5f597c251",
+    "url": "https://itch.io/blog/15/itchio-recommends-what-to-play-on-the-week-of-420",
+    "title": "itch.io Recommends: What to play on the week of 4/20 - itch.io",
+    "description": "Hey itchy people! Let's get real for a second: part of why we love itch.io is the huge breadth of co",
+    "text": "Hey itchy people! Let's get real for a second: part of why we love itch.io is the huge breadth of co"
+  },
+  {
+    "id": "22fd676e9e26dda4e9822c9c48e719c6f5ad2717",
+    "url": "https://itch.io/updates/rewards-enhanced-claimable-sales",
+    "title": "Rewards enhanced & claimable sales - itch.io",
+    "description": "As part of itch.io refinery , we released an “ Exclusive content ” system allowing you to create lim",
+    "text": "As part of itch.io refinery, we released an “Exclusive content” system allowing you to create limite"
+  },
+  {
+    "id": "cf80dca5804487c9d542915dfdc82de91faa2a7c",
+    "url": "https://itch.io/blog/11/developer-interview-with-joni-kittaka",
+    "title": "Developer interview with Joni Kittaka - itch.io",
+    "description": "This post is part of day five of itch.io week. We'll be interviewing developers all week. Learn more",
+    "text": "This post is part of day five of itch.io week. We'll be interviewing developers all week. Learn more"
+  },
+  {
+    "id": "9b5a5022a17e0707d7446d044549da548985b270",
+    "url": "https://itch.io/updates/a-good-bundle-updated-and-extended",
+    "title": "A Good Bundle — updated and extended - itch.io",
+    "description": "6 days ago, 115 creators donated 151 games and other works to A Good Bundle , a bundle to combat som",
+    "text": "6 days ago, 115 creators donated 151 games and other works to A Good Bundle, a bundle to combat some"
+  },
+  {
+    "id": "917706f5ef8215f91a1c80f9a121b3691d80785e",
+    "url": "https://itch.io/updates/a-quick-overview-of-how-awesome-our-app-has-become",
+    "title": "A quick overview of how awesome our app has become - itch.io",
+    "description": "First off, our apologies for not updating this blog recently. We've been quite busy, and we'll be po",
+    "text": "First off, our apologies for not updating this blog recently. We've been quite busy, and we'll be po"
+  },
+  {
+    "id": "6882553a65ec83d6c2946b3354ca6d4872d9bc51",
+    "url": "https://itch.io/updates/coupon-codes-for-sales-bundles",
+    "title": "Coupon codes for sales & bundles - itch.io",
+    "description": "Earlier this year, as part of itch.io week, we let you make it so sales could be made available to t",
+    "text": "Earlier this year, as part of itch.io week, we let you make it so sales could be made available to t"
+  },
+  {
+    "id": "825986e6b9a2cfbe40ecc8ed286f6d1cd0795ddf",
+    "url": "https://itch.io/updates/find-something-new-for-halloween-with-the-randomizer",
+    "title": "Find something new for Halloween with the randomizer - itch.io",
+    "description": "We’ve made a minor update to the itch.io game randomizer that lets you find something new via tags. ",
+    "text": "We’ve made a minor update to the itch.io game randomizer that lets you find something new via tags. "
+  },
+  {
+    "id": "e527e5f20b470845dbf3409a17e73fb4fdc5ea4e",
+    "url": "https://itch.io/updates/more-tools-visual-refresh-for-communities",
+    "title": "More tools & visual refresh for communities - itch.io",
+    "description": "On itch.io you can create your own message board for games and game jams . Our message boards come p",
+    "text": "On itch.io you can create your own message board for games and game jams. Our message boards come pa"
+  },
+  {
+    "id": "dbd8298b965bcae5a58cce7e96a7fb2be409c83b",
+    "url": "https://www.lazada.com.ph/products/backhorn-5-memes-in-1-backhorn-atrasikol-kay-manyak-naatrasikol-buhi-payamete-kudasaiayawkol-sakit-kul-backhorn-reverse-horn-backing-alarm-for-trucks-autovoltage-12-24v-for-all-types-of-vehicles-i4468977639.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "934bd1e517da91c80ccd315057b413c94b4d2b92",
+    "url": "https://www.lazada.com.ph/products/decibel-backup-107db-sound-warning-alarm-ipx6-waterproof-car-horn-reversing-horn-for-vehicle-reversing-reminder-12-24v-decibel-backup-107db-sound-warning-alarm-ipx6-waterproof-reversing-horn-truck-alarm-i4467571270.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a3991180ff56bf2ab1d91c116f2d0442f24b100a",
+    "url": "https://www.lazada.com.ph/products/ford-everest-2016-raptor-style-black-front-grill-i4467487910.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e04b56b3c9dbe836418358969f34284130d2f1ac",
+    "url": "https://www.lazada.com.ph/products/redlai-retro-japanese-lady-print-hard-case-compatible-for-macbook-case-2025-m4-a3240-a3241-pro-14-16-m3-m2-m1-air-pro-case-a3113-a3114-a2681-a2337-m1-pro-case-133-inch-a2338-a2251-a1708-touch-bar-a1707-pro-15-14-16-i4469063503.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4714f8dac074a66eb9bbf76e9f7180217345d422",
+    "url": "https://www.lazada.com.ph/products/ficus-benjamina-nana-money-tree-versatile-bonsai-plant-for-indoor-outdoor-use-5x5-size-7-8-inches-tall-ideal-for-home-and-office-decor-i4469006546.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "cf027a08d106aed8f1509923201b7dcd32065cba",
+    "url": "https://www.lazada.com.ph/products/15pairs-cubic-zirconia-faux-pearl-decor-stud-earringssuitable-for-holidays-parties-dates-gifts-everyday-wear-i4469563497.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e34685a56550ff863941415613199e0ae197cec8",
+    "url": "https://www.lazada.com.ph/products/self-tapping-screws-self-drilling-anchors-screws-drywall-anchors-easy-application-for-gypsum-plasterboard-dowel-i4469642649.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a9244bcdeb079d8aed1f9e8fcf066dd43d09bc61",
+    "url": "https://www.lazada.com.ph/products/1-pcs-bonsai-wires-anodized-aluminum-brown-bonsai-training-wire-total-165-feet-garden-accessories-5-sizes-115225-mm-i4469574212.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e7ec8479ebb2eb1be3ff0dd2992d605b93390ae5",
+    "url": "https://www.lazada.com.ph/products/mini-wireless-bluetooth-speaker-portable-wireless-metal-loud-speaker-super-bass-stereo-sound-small-steel-cannon-speaker-i4474122990.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bc1cd009250bcd153609f21582a0cf46f2cb843e",
+    "url": "https://www.lazada.com.ph/products/cod-hikvision-ids-7232hqhi-m2se-acusense-2mp-32ch-cctv-dvr-audio-over-coax-aoc-face-detection-i4474182186.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "dec7b109ce6550053fba5ada941b44f3970a2bdc",
+    "url": "https://www.gettyimages.ae/detail/video/cabinet-records-from-1970-are-published-today-and-reveal-news-footage/001-01-12EC",
+    "title": "Cabinet records from 1970 are published today and reveal new details... Stock Footage Video - Getty ",
+    "description": "Cabinet records from 1970 are published today and reveal new details about the former England footba",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "da4dc137d1ccbed625e2ebb8ffaa6ce9aa1e8671",
+    "url": "https://www.gettyimages.ae/detail/video/cabinet-records-from-1970-are-published-today-and-reveal-news-footage/001-01-11EC",
+    "title": "Cabinet records from 1970 are published today and reveal new details... Stock Footage Video - Getty ",
+    "description": "Cabinet records from 1970 are published today and reveal new details about the former England footba",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "beea3be9c14110159932e88dff5be456495652b4",
+    "url": "https://www.gettyimages.ae/detail/video/hundreds-of-thousands-of-revellers-braved-severe-weather-news-footage/001-01-14EC",
+    "title": "Hundreds of thousands of revellers braved severe weather to welcome... Stock Footage Video - Getty I",
+    "description": "Hundreds of thousands of revellers braved severe weather to welcome in the New Year.<br>Guid: ANBL50",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "164ebee4b5eab036006a73db97c56241936ae31f",
+    "url": "https://www.gettyimages.ae/detail/video/from-today-its-legal-to-buy-the-morning-after-pill-news-footage/001-01-15EC",
+    "title": "From today it's legal to buy the morning-after pill without a... Stock Footage Video - Getty Images",
+    "description": "From today it's legal to buy the morning-after pill without a prescription.<br>Guid: ANBL501S<br>Sto",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "16eb6592bb79b707e55d475f567d9387101eaf79",
+    "url": "https://www.gettyimages.ae/detail/video/in-the-nationwide-first-division-bolton-closed-the-gap-on-news-footage/001-01-13EC",
+    "title": "In the Nationwide First Division, Bolton closed the gap on leaders... Stock Footage Video - Getty Im",
+    "description": "In the Nationwide First Division, Bolton closed the gap on leaders Fulham to seven points after beat",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "d70d1410b75454f7790c788773728e1074195ab2",
+    "url": "https://www.gettyimages.ae/detail/video/the-most-ambitious-financial-and-political-change-ever-news-footage/001-02-01EC",
+    "title": "The most ambitious financial and political change ever attempted has... Stock Footage Video - Getty ",
+    "description": "The most ambitious financial and political change ever attempted has got underway in Europe with the",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "dad005a46e396f1d02d525fcc19b6d5b31e9a66f",
+    "url": "https://www.gettyimages.ae/detail/video/the-most-ambitious-financial-and-political-change-ever-news-footage/001-02-03EC",
+    "title": "The most ambitious financial and political change ever attempted has... Stock Footage Video - Getty ",
+    "description": "The most ambitious financial and political change ever attempted has got underway in Europe with the",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "d16264fe6ec44ebe99ac575387cab1ec8da8306c",
+    "url": "https://www.gettyimages.ae/detail/video/the-most-ambitious-financial-and-political-change-ever-news-footage/001-02-02EC",
+    "title": "The most ambitious financial and political change ever attempted has... Stock Footage Video - Getty ",
+    "description": "The most ambitious financial and political change ever attempted has got underway in Europe with the",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "04c8adff700b8630d06466a399b3657bd44b21b1",
+    "url": "https://www.gettyimages.ae/detail/video/bush-fires-which-have-been-raging-in-australia-have-now-news-footage/001-02-04EC",
+    "title": "Bush fires which have been raging in Australia have now swept into... Stock Footage Video - Getty Im",
+    "description": "Bush fires which have been raging in Australia have now swept into the suburbs of Sydney.<br>Guid: A",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "2409c73d0256bc9ab2afe57b3081029dc6a24218",
+    "url": "https://www.gettyimages.ae/detail/video/bush-fires-which-have-been-raging-in-australia-have-now-news-footage/001-02-05EC",
+    "title": "Bush fires which have been raging in Australia have now swept into... Stock Footage Video - Getty Im",
+    "description": "Bush fires which have been raging in Australia have now swept into the suburbs of Sydney.<br>Guid: A",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "a0ec21c0efced3da6833cf4ab74d28c968cbdc48",
+    "url": "https://git-scm.com/book/az/v2/ch00/_aktiv_branche_lar%C4%B1n_d%C9%99yi%C5%9Fdirilm%C9%99si.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c829053028d43e2fca04fcc657552dad2475b330",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ad%C4%B1m_3_i%CC%87%C5%9F_qovlu%C4%9Fu_yenil%C9%99m%C9%99_hard.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bc0e1961f22e31e83dd34d4a3accc68142467779",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ancestry_referanslar%C4%B1.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "94b0141d38ef4aa0520c2edbecb9a2794208397b",
+    "url": "https://git-scm.com/book/az/v2/ch00/_an_example_git_enforced_policy.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "28165a35fc4254f07cf2049823bd4a1d0a195c1c",
+    "url": "https://git-scm.com/book/az/v2/ch00/_advanced_merging.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2ac1eb28be39c7e1cc5a76fd575d2eeee4b307a2",
+    "url": "https://git-scm.com/book/az/v2/ch00/_api_comment.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ed25472ce6b3a70859a4fedfaf4d62c6e20e4742",
+    "url": "https://git-scm.com/book/az/v2/ch00/_annotated_tags.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e0eefb29dab3d1f0737eb1d724abed23bb3fb230",
+    "url": "https://git-scm.com/book/az/v2/ch00/_audit_log.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1dfc3b4a766e5f62ba790f5676d8de715b7e7624",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ayarlamaq.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1aec3b092666456724fd7763a051a6ec1f8d81cc",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ayarlamaq_2.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
   }
 ]
