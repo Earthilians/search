@@ -33724,19 +33724,19 @@
     "urls": []
   },
   "holadns.com": {
-    "lastAt": 1758205403129,
+    "lastAt": 1758561547852,
     "urls": []
   },
   "lync.com": {
-    "lastAt": 1758205407814,
+    "lastAt": 1758561551892,
     "urls": []
   },
   "doordash.com": {
-    "lastAt": 1758205422613,
+    "lastAt": 1758561560488,
     "urls": []
   },
   "medlineplus.gov": {
-    "lastAt": 1758205427995,
+    "lastAt": 1758561566009,
     "urls": [
       "https://medlineplus.gov/",
       "https://medlineplus.gov/all_easytoread.html",
@@ -33757,11 +33757,21 @@
       "https://medlineplus.gov/organizations/orgbytopic_r.html",
       "https://medlineplus.gov/organizations/orgbytopic_k.html",
       "https://medlineplus.gov/organizations/orgbytopic_n.html",
-      "https://medlineplus.gov/organizations/orgbytopic_d.html"
+      "https://medlineplus.gov/organizations/orgbytopic_d.html",
+      "https://medlineplus.gov/organizations/orgbytopic_c.html",
+      "https://medlineplus.gov/organizations/orgbytopic_v.html",
+      "https://medlineplus.gov/organizations/orgbytopic_g.html",
+      "https://medlineplus.gov/organizations/orgbytopic_o.html",
+      "https://medlineplus.gov/organizations/orgbytopic_m.html",
+      "https://medlineplus.gov/organizations/orgbytopic_l.html",
+      "https://medlineplus.gov/organizations/orgbytopic_q.html",
+      "https://medlineplus.gov/organizations/orgbytopic_p.html",
+      "https://medlineplus.gov/organizations/orgbytopic_e.html",
+      "https://medlineplus.gov/infectiousarthritis.html"
     ]
   },
   "fwmrm.net": {
-    "lastAt": 1758205433232,
+    "lastAt": 1758561571431,
     "urls": [
       "https://www.freewheel.com/",
       "https://www.freewheel.com/optout.html",
@@ -33782,21 +33792,31 @@
       "https://www.freewheel.com/privacy-policy",
       "https://www.freewheel.com/privacy-policy/de",
       "https://www.freewheel.com/privacy-policy/es",
-      "https://www.freewheel.com/privacy-policy/it"
+      "https://www.freewheel.com/privacy-policy/it",
+      "https://www.freewheel.com/privacy-policy/fr",
+      "https://www.freewheel.com/about",
+      "https://www.freewheel.com/privacy-policy/nl",
+      "https://www.freewheel.com/innovators",
+      "https://www.freewheel.com/advertisersuite",
+      "https://www.freewheel.com/go-direct",
+      "https://www.freewheel.com/publishersuite",
+      "https://www.freewheel.com/insights",
+      "https://www.freewheel.com/viewer-experience-lab",
+      "https://www.freewheel.com/insights/blog/premium-programmatic-next-level"
     ]
   },
   "altervista.org": {
-    "lastAt": 1758205435979,
+    "lastAt": 1758561575167,
     "urls": [
       "https://altervista.org/"
     ]
   },
   "yimg.jp": {
-    "lastAt": 1758205439642,
+    "lastAt": 1758561578894,
     "urls": []
   },
   "apachefriends.org": {
-    "lastAt": 1758205441295,
+    "lastAt": 1758561580541,
     "urls": [
       "https://www.apachefriends.org/blog.html",
       "https://www.apachefriends.org/404.html",
@@ -33817,17 +33837,27 @@
       "https://www.apachefriends.org/tr/index.html",
       "https://www.apachefriends.org/ur/index.html",
       "https://www.apachefriends.org/zh_tw/index.html",
-      "https://www.apachefriends.org/zh_cn/index.html"
+      "https://www.apachefriends.org/zh_cn/index.html",
+      "https://www.apachefriends.org/de/faq_linux.html",
+      "https://www.apachefriends.org/fr/faq_linux.html",
+      "https://www.apachefriends.org/faq_linux.html",
+      "https://www.apachefriends.org/hu/faq_linux.html",
+      "https://www.apachefriends.org/es/faq_linux.html",
+      "https://www.apachefriends.org/it/faq_linux.html",
+      "https://www.apachefriends.org/jp/faq_linux.html",
+      "https://www.apachefriends.org/pl/faq_linux.html",
+      "https://www.apachefriends.org/pt_br/faq_linux.html",
+      "https://www.apachefriends.org/ro/faq_linux.html"
     ]
   },
   "signal.org": {
-    "lastAt": 1758205442635,
+    "lastAt": 1758561581862,
     "urls": [
       "https://signal.org/"
     ]
   },
   "grafana.com": {
-    "lastAt": 1758205447341,
+    "lastAt": 1758561586497,
     "urls": [
       "https://grafana.com/",
       "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v11-5/",
@@ -33848,11 +33878,21 @@
       "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v9-4/",
       "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v9-3/",
       "https://grafana.com/docs/k6/latest/using-k6/scenarios/concepts/",
-      "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v9-2/"
+      "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v9-2/",
+      "https://grafana.com/docs/k6/latest/examples/get-started-with-k6/",
+      "https://grafana.com/whats-new/",
+      "https://grafana.com/docs/k6/latest/",
+      "https://grafana.com/legal/partners/",
+      "https://grafana.com/docs/grafana/latest/breaking-changes/breaking-changes-v11-0/",
+      "https://grafana.com/docs/grafana/latest/breaking-changes/breaking-changes-v10-0/",
+      "https://grafana.com/docs/grafana/latest/breaking-changes/breaking-changes-v10-3/",
+      "https://grafana.com/events/grafanacon/2022/",
+      "https://grafana.com/docs/grafana-cloud/cost-management-and-billing/analyze-costs/metrics-costs/",
+      "https://grafana.com/docs/grafana-cloud/monitor-applications/application-observability/"
     ]
   },
   "unity.com": {
-    "lastAt": 1758205457804,
+    "lastAt": 1758561590839,
     "urls": [
       "https://unity.com/blog/games/neon",
       "https://unity.com/",
@@ -33873,15 +33913,25 @@
       "https://unity.com/ru/blog/what-is-ecpm",
       "https://unity.com/ja/blog/what-is-ecpm",
       "https://unity.com/cn/blog/what-is-ecpm",
-      "https://unity.com/kr/blog/what-is-ecpm"
+      "https://unity.com/kr/blog/what-is-ecpm",
+      "https://unity.com/fr/blog/gdc-2025-recap",
+      "https://unity.com/es/blog/gdc-2025-recap",
+      "https://unity.com/kr/blog/what-is-arpdau",
+      "https://unity.com/ru/blog/gdc-2025-recap",
+      "https://unity.com/de/blog/gdc-2025-recap",
+      "https://unity.com/cn/blog/gdc-2025-recap",
+      "https://unity.com/pt/blog/gdc-2025-recap",
+      "https://unity.com/ja/blog/gdc-2025-recap",
+      "https://unity.com/blog/time-to-engagement",
+      "https://unity.com/kr/blog/gdc-2025-recap"
     ]
   },
   "amp-endpoint3.com": {
-    "lastAt": 1758205461199,
+    "lastAt": 1758561594136,
     "urls": []
   },
   "livescience.com": {
-    "lastAt": 1758205467253,
+    "lastAt": 1758561598852,
     "urls": [
       "https://www.livescience.com/space/extraterrestrial-life/chinese-scientists-hunt-for-alien-radio-signals-in-potentially-habitable-trappist-1-system",
       "https://www.livescience.com/space/astronomy/james-webb-telescopes-starlit-mountaintop-could-be-the-observatorys-best-image-yet-space-photo-of-the-week",
@@ -33902,15 +33952,25 @@
       "https://www.livescience.com/animals/birds/rare-ancestor-reveals-how-huge-flightless-birds-made-it-to-faraway-lands",
       "https://www.livescience.com/health/fertility-pregnancy-birth/even-brief-exposure-to-air-pollution-can-push-the-placenta-into-an-inflammatory-state-lab-study-suggests",
       "https://www.livescience.com/animals/dinosaurs/oldest-known-dome-headed-dinosaur-discovered-sticking-out-of-a-cliff-in-mongolias-gobi-desert",
-      "https://www.livescience.com/health/scientists-invent-new-sunscreen-made-from-pollen"
+      "https://www.livescience.com/health/scientists-invent-new-sunscreen-made-from-pollen",
+      "https://www.livescience.com/human-behavior/arts-entertainment/live-science-crossword-puzzle-11-giant-cloud-at-the-edge-of-the-solar-system-7-across",
+      "https://www.livescience.com/space/completely-unexplained-james-webb-telescope-finds-strange-dark-beads-in-saturns-atmosphere",
+      "https://www.livescience.com/archaeology/romans/statuette-of-a-comic-actor-a-2-000-year-old-depiction-of-a-roman-actor-letting-one-rip",
+      "https://www.livescience.com/technology/computing/quantum-internet-inches-closer-thanks-to-new-chip-it-helps-beam-quantum-signals-over-real-world-fiber-optic-cables",
+      "https://www.livescience.com/archaeology/ancient-egyptians/cleopatras-final-secret-documentary-reveals-hundreds-of-coins-and-port-found-in-egypt-but-does-that-mean-cleopatra-was-buried-there",
+      "https://www.livescience.com/space/asteroids/what-happened-to-the-asteroid-that-killed-the-dinosaurs",
+      "https://www.livescience.com/archaeology/1-600-year-old-coin-hoard-found-in-complex-tunnel-system-under-galilee-dates-to-last-jewish-rebellion-against-romans",
+      "https://www.livescience.com/space/astronomy/soar-through-44-million-stars-in-gaia-telescopes-latest-3d-map-of-our-galaxy-space-photo-of-the-week",
+      "https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptians-really-booby-trap-the-pyramids",
+      "https://www.livescience.com/space/black-holes/shocking-black-hole-found-growing-at-2-4-times-the-theoretical-limit"
     ]
   },
   "applvn.com": {
-    "lastAt": 1758205470383,
+    "lastAt": 1758561602412,
     "urls": []
   },
   "one.com": {
-    "lastAt": 1758205475163,
+    "lastAt": 1758561606287,
     "urls": [
       "https://www.one.com/nl/",
       "https://www.one.com/nl/over-ons",
@@ -33931,11 +33991,21 @@
       "https://www.one.com/fr/domaines",
       "https://www.one.com/it/piani-tariffe",
       "https://www.one.com/sv/glossary",
-      "https://www.one.com/it/marketing-online"
+      "https://www.one.com/it/marketing-online",
+      "https://www.one.com/fr/securite-de-site-web/qu-est-ce-qu-un-certificat-ssl",
+      "https://www.one.com/sv/domaner/registrera-doman",
+      "https://www.one.com/de/pakete-preise",
+      "https://www.one.com/fr/hebergement-web",
+      "https://www.one.com/pt/seguranca-site/sitelock",
+      "https://www.one.com/it/hosting/quale-hosting-scegliere",
+      "https://www.one.com/es/academy",
+      "https://www.one.com/pt/sobre-nos/parceiros",
+      "https://www.one.com/no/domener/hvilken-domeneutvidelse",
+      "https://www.one.com/nl/over-ons/vacatures"
     ]
   },
   "coingecko.com": {
-    "lastAt": 1758205483917,
+    "lastAt": 1758561614744,
     "urls": [
       "https://www.coingecko.com/",
       "https://www.coingecko.com/zh-tw",
@@ -33956,11 +34026,21 @@
       "https://www.coingecko.com/pl",
       "https://www.coingecko.com/ar",
       "https://www.coingecko.com/nl",
-      "https://www.coingecko.com/hu"
+      "https://www.coingecko.com/hu",
+      "https://www.coingecko.com/cs",
+      "https://www.coingecko.com/ro",
+      "https://www.coingecko.com/sv",
+      "https://www.coingecko.com/da",
+      "https://www.coingecko.com/el",
+      "https://www.coingecko.com/uk",
+      "https://www.coingecko.com/sk",
+      "https://www.coingecko.com/no",
+      "https://www.coingecko.com/hi",
+      "https://www.coingecko.com/he"
     ]
   },
   "cpmstar.com": {
-    "lastAt": 1758205486529,
+    "lastAt": 1758561615817,
     "urls": [
       "https://cpmstar.com/",
       "https://www.cpmstar.com/about",
@@ -33974,11 +34054,11 @@
     ]
   },
   "hsforms.com": {
-    "lastAt": 1758205489480,
+    "lastAt": 1758561618759,
     "urls": []
   },
   "khanacademy.org": {
-    "lastAt": 1758205498201,
+    "lastAt": 1758561626755,
     "urls": [
       "https://www.khanacademy.org/science/ka-science-grade-6",
       "https://www.khanacademy.org/humanities/art-asia",
@@ -33999,11 +34079,21 @@
       "https://www.khanacademy.org/partner-content/nova",
       "https://www.khanacademy.org/math/cc-sixth-grade-math",
       "https://www.khanacademy.org/economics-finance-domain/microeconomics",
-      "https://www.khanacademy.org/science/oscillations-and-waves-essentials"
+      "https://www.khanacademy.org/science/oscillations-and-waves-essentials",
+      "https://www.khanacademy.org/science/ka-physics-grade-12",
+      "https://www.khanacademy.org/math/8th-engage-ny",
+      "https://www.khanacademy.org/math/7th-grade-matatag",
+      "https://www.khanacademy.org/ela/6th-grade-english-foundations",
+      "https://www.khanacademy.org/science/revision-term-1-tg-chemistry-class-11",
+      "https://www.khanacademy.org/math/6th-grade-foundations-engageny",
+      "https://www.khanacademy.org/science/organic-chemistry-essentials",
+      "https://www.khanacademy.org/science/how-does-the-human-body-work",
+      "https://www.khanacademy.org/test-prep/about-the-pisa-practice-program",
+      "https://www.khanacademy.org/math/grade-7-math-tx"
     ]
   },
   "yahoo.net": {
-    "lastAt": 1758205503253,
+    "lastAt": 1758561631128,
     "urls": [
       "https://www.yahoo.com/news/weather/united-states/new-mexico/abiquiu-2351621",
       "https://www.yahoo.com/news/weather/united-states/virginia/fredericksburg-2407171",
@@ -34024,23 +34114,33 @@
       "https://www.yahoo.com/news/weather/united-states/texas/guadalupe-mountains-national-park-91608496",
       "https://www.yahoo.com/news/weather/united-states/georgia/rome-2484261",
       "https://www.yahoo.com/news/weather/united-states/georgia/monroe-2453019",
-      "https://www.yahoo.com/news/weather/united-states/nebraska/sumner-2501832"
+      "https://www.yahoo.com/news/weather/united-states/nebraska/sumner-2501832",
+      "https://www.yahoo.com/news/weather/united-states/nevada/fernley-2403093",
+      "https://www.yahoo.com/news/weather/united-states/maryland/cumberland-2388199",
+      "https://www.yahoo.com/news/weather/united-states/new-jersey/belvidere-2362381",
+      "https://www.yahoo.com/news/weather/united-states/pennsylvania/ellwood-city-2398862",
+      "https://www.yahoo.com/news/weather/united-states/pennsylvania/brookville-2370175",
+      "https://www.yahoo.com/news/weather/united-states/nebraska/beatrice-2360839",
+      "https://www.yahoo.com/news/weather/united-states/iowa/denison-2391099",
+      "https://www.yahoo.com/news/weather/united-states/wisconsin/new-post-2458873",
+      "https://www.yahoo.com/news/weather/united-states/minnesota/tower-2507353",
+      "https://www.yahoo.com/news/weather/united-states/kansas/mahaska-2444261"
     ]
   },
   "nmrodam.com": {
-    "lastAt": 1758205506421,
+    "lastAt": 1758561634408,
     "urls": []
   },
   "gpcloudservice.com": {
-    "lastAt": 1758205509599,
+    "lastAt": 1758561637551,
     "urls": []
   },
   "coloros.com": {
-    "lastAt": 1758205568451,
+    "lastAt": 1758561696413,
     "urls": []
   },
   "amazonaws.com.cn": {
-    "lastAt": 1758205590861,
+    "lastAt": 1758561715465,
     "urls": [
       "https://www.amazonaws.cn/022cb2557de33b9b96e6a799ebe8fdc7.html/",
       "https://www.amazonaws.cn/about-aws/analyst-reports/",
@@ -34061,11 +34161,21 @@
       "https://www.amazonaws.cn/about-aws/analyst-reports/2024-idc-peerscape/",
       "https://www.amazonaws.cn/about-aws/analyst-reports/2024-idc-peerscape/thank-you/",
       "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-ai-code-assistants/",
-      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-ai-code-assistants/thank-you/"
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-ai-code-assistants/thank-you/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-cloud-ai-developer-services/thank-you/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-strategic-cloud-platform-services/thank-you/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-omedia-cloud-platforms-for-games/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-cloud-ai-developer-services/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-cloud-database-management-systems/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-omedia-cloud-platforms-for-games/thank-you/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-global-industrial-iot-platforms/thank-you/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-magic-quadrant-for-global-industrial-iot-platforms/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-open-source-big-data-industry-development-insight-report/",
+      "https://www.amazonaws.cn/about-aws/analyst-reports/2024-open-source-big-data-industry-development-insight-report/thank-you/"
     ]
   },
   "smh.com.au": {
-    "lastAt": 1758205605537,
+    "lastAt": 1758561728376,
     "urls": [
       "https://www.smh.com.au/sport/athletics/this-australian-teen-prodigy-just-matched-one-of-the-world-s-best-but-not-the-way-he-wanted-20250914-p5muuw.html",
       "https://www.smh.com.au/culture/celebrity/when-bruce-willis-would-check-out-wife-emma-knew-something-was-wrong-20250914-p5muys.html",
@@ -34086,29 +34196,39 @@
       "https://www.smh.com.au/politics/nsw/community-safety-shouldn-t-be-traded-off-expert-s-fears-over-planning-reforms-20250918-p5mw5l.html",
       "https://www.smh.com.au/world/middle-east/no-point-hesitating-to-name-israel-s-genocide-australia-is-already-legally-culpable-20250918-p5mw5d.html",
       "https://www.smh.com.au/national/nsw/the-bondi-breakfast-of-champions-20250918-p5mvzw.html",
-      "https://www.smh.com.au/environment/climate-change/bowen-has-committed-australia-to-reduce-emissions-by-62-to-70-per-cent-by-2035-what-does-this-even-mean-20250918-p5mw18.html"
+      "https://www.smh.com.au/environment/climate-change/bowen-has-committed-australia-to-reduce-emissions-by-62-to-70-per-cent-by-2035-what-does-this-even-mean-20250918-p5mw18.html",
+      "https://www.smh.com.au/politics/federal/we-would-reverse-it-ley-writes-back-to-republicans-over-recognition-of-palestine-20250922-p5mx1h.html",
+      "https://www.smh.com.au/politics/federal/real-hope-for-a-place-they-call-home-albanese-s-plea-to-world-leaders-on-palestine-20250922-p5mwun.html",
+      "https://www.smh.com.au/business/companies/qantas-suspends-hong-kong-flights-for-36-hours-as-super-typhoon-approaches-20250922-p5mx4r.html",
+      "https://www.smh.com.au/national/superquiz-tuesday-september-23-20250922-p5mwy0.html",
+      "https://www.smh.com.au/business/companies/trump-s-split-reality-while-suing-murdoch-he-woos-him-over-tiktok-20250922-p5mx0h.html",
+      "https://www.smh.com.au/politics/federal/so-much-for-cosying-up-to-trump-albanese-has-asserted-his-independence-on-day-one-20250922-p5mwup.html",
+      "https://www.smh.com.au/national/nsw/residents-furious-at-plans-to-build-30-000-homes-in-sydney-s-inner-west-20250919-p5mwe2.html",
+      "https://www.smh.com.au/national/nsw/a-powder-keg-of-a-production-20250922-p5mwva.html",
+      "https://www.smh.com.au/politics/federal/bid-to-fast-track-overdue-triple-zero-watchdog-laws-after-deaths-20250922-p5mwxx.html",
+      "https://www.smh.com.au/sport/racing/racing-nsw-says-atc-owes-millions-and-can-t-pay-its-loans-20250922-p5mx3q.html"
     ]
   },
   "featureassets.org": {
-    "lastAt": 1758205608947,
+    "lastAt": 1758561731584,
     "urls": []
   },
   "oaistatic.com": {
-    "lastAt": 1758205612190,
+    "lastAt": 1758561734594,
     "urls": []
   },
   "magnit.ru": {
-    "lastAt": 1758205671010,
+    "lastAt": 1758561811069,
     "urls": []
   },
   "senate.gov": {
-    "lastAt": 1758209029422,
+    "lastAt": 1758561812077,
     "urls": [
       "https://senate.gov/"
     ]
   },
   "mwscdn.ru": {
-    "lastAt": 1758209033964,
+    "lastAt": 1758561817096,
     "urls": []
   },
   "mts-ws.net": {
