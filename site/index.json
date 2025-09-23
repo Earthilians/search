@@ -187675,5 +187675,838 @@
     "title": "AI on Android: features, apps & your AI assistant | Android",
     "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant, and Circle to Se",
     "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, Android AI assist"
+  },
+  {
+    "id": "23de83d1be9d7e9718203e9f1d411c48ad693b0d",
+    "url": "https://meraki.cisco.com/de-de/products/switches/features/",
+    "title": "Netzwerk-Switch mit Cloud-Management | Switching | Cisco Meraki",
+    "description": "Cisco Meraki Switches vereinen die Einfachheit des Dashboards mit Cloud-Management und die Leistung ",
+    "text": "Von hybriden Belegschaften bis hin zu intelligenteren Arbeitsbereichen – bringen Sie Technologie und"
+  },
+  {
+    "id": "e7fc243181492e0367073e01a5cf7f9a964cad60",
+    "url": "https://meraki.cisco.com/pt-br/products/smart-cameras/videos/",
+    "title": "Câmeras inteligentes | Sistema de segurança baseado na nuvem | Cisco Meraki",
+    "description": "Veja por que os sistemas de câmera de segurança Cisco Meraki MV são as câmeras inteligentes gerencia",
+    "text": "De forças de trabalho híbridas a espaços de trabalho mais inteligentes, reúna tecnologia e pontos de"
+  },
+  {
+    "id": "4ce7f66a450d1ecce318c192f72efb7a47fb4bf1",
+    "url": "https://meraki.cisco.com/pt-br/webinars/",
+    "title": "Webinares da Cisco Meraki",
+    "description": "Inscreva-se em um webinar da Cisco organizado pela Meraki ou assista a webinares sob demanda sobre t",
+    "text": "De forças de trabalho híbridas a espaços de trabalho mais inteligentes, reúna tecnologia e pontos de"
+  },
+  {
+    "id": "23dbf49ef90fa642ddb45569cb68b06e5748703c",
+    "url": "https://meraki.cisco.com/pt-br/products/meraki-insight/",
+    "title": "Produtos e Tecnologia de TI | Cisco Meraki",
+    "description": "Saiba mais sobre as ofertas de produtos da Cisco Meraki, como LAN sem fio, Segurança/SD-WAN, switche",
+    "text": "De forças de trabalho híbridas a espaços de trabalho mais inteligentes, reúna tecnologia e pontos de"
+  },
+  {
+    "id": "dc58c4986fe9d1d1daf98cc4151170c3161a1e65",
+    "url": "https://meraki.cisco.com/de-de/products/meraki-insight/",
+    "title": "IT-Produkte & Technologie | Cisco Meraki",
+    "description": "Erfahren Sie mehr über die IT-Produktangebote von Cisco Meraki wie unser Wireless LAN, Sicherheit / ",
+    "text": "Von hybriden Belegschaften bis hin zu intelligenteren Arbeitsbereichen – bringen Sie Technologie und"
+  },
+  {
+    "id": "204d0997b9bd5182b5a9b0105e2b5e63647c52d5",
+    "url": "https://meraki.cisco.com/ja-jp/products/meraki-insight/",
+    "title": "Meraki 製品 | ワイヤレス LAN | スイッチ | SD WAN",
+    "description": "シスコのワイヤレス LAN、セキュリティ/SD-WAN、スイッチ、スマート カメラなどの Cisco Meraki 製品の詳細をご覧ください。無償トライアルはこちらをクリックしてください。",
+    "text": "ハイブリッドな労働力からよりスマートなワークスペースまで、テクノロジーとタッチポイントを組み合わせて、卓越したエクスペリエンスを提供します。\nワークフォース\nハイブリッドワークフォース\nチームはあらゆ"
+  },
+  {
+    "id": "4bde5a3886319342a511b8b66ee127466ea28273",
+    "url": "https://meraki.cisco.com/ja-jp/products/smart-cameras/videos/",
+    "title": "スマート カメラ | クラウドベースのセキュリティ システム | Cisco Meraki",
+    "description": "ビジネスと組織を保護するクラウド管理型スマート カメラをお探しなら、Cisco MerakiのMVセキュリティ カメラが最適です。その理由をご覧ください。",
+    "text": "ハイブリッドな労働力からよりスマートなワークスペースまで、テクノロジーとタッチポイントを組み合わせて、卓越したエクスペリエンスを提供します。\nワークフォース\nハイブリッドワークフォース\nチームはあらゆ"
+  },
+  {
+    "id": "7c94538dc0ba65b4b7c46d4539c3ed2a78a60722",
+    "url": "https://meraki.cisco.com/ja-jp/products/switches/features/",
+    "title": "クラウド管理型ネットワーク スイッチ | スイッチング | Cisco Meraki",
+    "description": "Cisco Merakiのネットワーク スイッチは、クラウド管理型ダッシュボードのシンプルさと、エンタープライズレベルのハードウェアのパワフルさを掛け合わせた製品です。今すぐ導入する方法をチェックしま",
+    "text": "ハイブリッドな労働力からよりスマートなワークスペースまで、テクノロジーとタッチポイントを組み合わせて、卓越したエクスペリエンスを提供します。\nワークフォース\nハイブリッドワークフォース\nチームはあらゆ"
+  },
+  {
+    "id": "c87d6c3e7dae041c13c890c50f3a46f0da29aaa2",
+    "url": "https://meraki.cisco.com/zh-cn/webinars/",
+    "title": "思科 Meraki 网络研讨会",
+    "description": "注册参加即将由 Meraki 举行的思科网络研讨会，或观看有关无线、网络、设备管理和安全技术的网络研讨会的视频点播。",
+    "text": "从混合劳动力到更智能的工作空间，将技术和接触点结合在一起，提供卓越的体验。\n员工\n混合办公\n赋能团队，突破环境限制，实现卓越绩效。\n远程办公\n赋能员工，借助精心打造的工具获得成功。\n工作空间\n安全的环"
+  },
+  {
+    "id": "7339a388b574fff6514a4f083323613fbba72073",
+    "url": "https://meraki.cisco.com/m/physical-security/",
+    "title": "physical-security | Cisco Meraki",
+    "description": "",
+    "text": "From hybrid workforces to smarter workspaces, bring together technology and touchpoints to deliver e"
+  },
+  {
+    "id": "62011aea8301ea51c1f8e68c76f384a5da678668",
+    "url": "https://www.taboola.com/de/resources/e-book",
+    "title": "E-Bücher | Resourcen | Taboola",
+    "description": "Hier finden Sie alle E-Bücher von Taboola. Möchten Sie in die Welt von Discovery für Ihre Digital-St",
+    "text": "Tauchen Sie In Ihre Nische, Ihren Markt Und Anderes Ein\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "40e026f826eca6be3e0fd3a20768ba678eda7b1f",
+    "url": "https://www.taboola.com/fr/resources/e-book",
+    "title": "E-books | Ressources | Taboola",
+    "description": "Tous les E-books Taboola. Envie de vous plonger dans la découverte de contenu pour votre stratégie d",
+    "text": "Plongez Au Coeur De Votre Niche, Marché Et Plus\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "66a70b35177c7a2becf742cd3f462e7a8762112f",
+    "url": "https://www.taboola.com/pt/resources/e-book",
+    "title": "E-books | Recursos | Taboola",
+    "description": "E-book sobre como anunciar na Taboola. Pensando em explorar \"Descoberta\" em sua estratégia digital? ",
+    "text": "Mergulhe Afundo No Seu Nicho, Mercado E Muito Mais\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "fbb3550c01c5601e769ae8ef484914e3f92b7df7",
+    "url": "https://www.taboola.com/zh-hans/resources/e-book",
+    "title": "电子书 | 资源 | Taboola",
+    "description": "所有Taboola的电子书。想深入了解您的数字营销策略吗？把自己变成一台严谨的数字营销机器",
+    "text": "深入探讨您的利基、市场以及更多\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "60c7b108046c7d2f34170b933f245065fb859f34",
+    "url": "https://www.taboola.com/zh-hant/resources",
+    "title": "資源 | Taboola.com",
+    "description": "",
+    "text": "我們的資源為發現平台的新手、專家及介於兩者之間的所有人提供資訊\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "232b36dd7e7a6ea5e2d512f54b3e8f0b3b1d2a81",
+    "url": "https://www.taboola.com/ko/resources/e-book",
+    "title": "이북 | Taboola.com",
+    "description": "",
+    "text": "틈새시장과 마켓 그 이상을 공략해보세요\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "569cebd0d4870861ba8a0e79328d540ca95dbaaa",
+    "url": "https://www.taboola.com/ja/resources/e-book",
+    "title": "タイトル：電子書籍 | リソース | Taboola",
+    "description": "Taboolaの全ての電子書籍。ディスカバリーをあなたのデジタル戦略に取り込むことに興味がありますか？デジタルを熟知した人になろう。",
+    "text": "ニッチな分野やマーケットにディープダイブしてみよう\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "1dae72e0086d7e2d6c0334529f8ca2ce3d82f5f6",
+    "url": "https://www.taboola.com/zh-hant/resources/e-book",
+    "title": "電子書 | Taboola.com",
+    "description": "",
+    "text": "深入探討您的利基、市場以及更多\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "9a9f5a4dbf2ff9b1b12477611c8e178d94bef4c2",
+    "url": "https://www.taboola.com/de/resources/best-practices",
+    "title": "Best Practices | Taboola.com",
+    "description": "Tabools datenbasierte Best Practices zeigen Vermarktern, Agenturen und Publisher genau das, was Sie ",
+    "text": "Mehr User erreichen und konvertieren\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "8059be768b23f342e4eab25a474a70792c257265",
+    "url": "https://www.taboola.com/fr/resources/best-practices",
+    "title": "Nos bonnes pratiques | Taboola.com",
+    "description": "Les bonnes pratiques Taboola - nous savons exactement ce dont les annonceurs, agences et éditeurs on",
+    "text": "Touchez Et Générez Plus D'utilisateurs Dès Aujourd'hui\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "82b092478c6f0faf0b4d1808a7768ec3f311c5ae",
+    "url": "https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates",
+    "title": "Medical and autism experts decry Trump’s Tylenol claims – US politics live | US news | The Guardian",
+    "description": "Coalition of Autism Scientists says that president’s assertions ‘only stoke fear’",
+    "text": "Coalition of Autism Scientists says that president’s assertions ‘only stoke fear’\nTrump attacks Tyle"
+  },
+  {
+    "id": "edc9a850261a7dcc9c745f24a3b6a9829cb88546",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/23/asylum-seeker-at-centre-of-essex-hotel-protests-jailed-for-12-months",
+    "title": "Asylum seeker at centre of Essex hotel protests jailed for 12 months | UK news | The Guardian",
+    "description": "Hadush Gerberslasie Kebatu, 38, was convicted last month of assaulting a 14-year-old girl and a woma",
+    "text": "Hadush Gerberslasie Kebatu, 38, was convicted last month of assaulting a 14-year-old girl and a woma"
+  },
+  {
+    "id": "57bead331cd31ab06e1941401aa01a4d7b574d25",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/23/lib-dem-ed-davey-conference-donald-trump-keir-starmer-labour-reform-tory-latest-politics-live-news-updates",
+    "title": "‘Don’t pay any attention to what Trump says about medicine’, Wes Streeting tells Britons – UK politi",
+    "description": "Medical experts concerned alarms after US president warned pregnant women to avoid taking Tylenol in",
+    "text": "Medical experts concerned alarms after US president warned pregnant women to avoid taking Tylenol in"
+  },
+  {
+    "id": "32a33719fcabcd2acd2d22c741faf4aebe8a14a3",
+    "url": "https://www.theguardian.com/us-news/2025/sep/23/trump-legal-groups-resistance",
+    "title": "Legal groups resist Trump authoritarian moves with pro bono work | Donald Trump | The Guardian",
+    "description": "Groups of lawyers battling to get clients’ jobs back, avoid prosecutions or recoup money that has be",
+    "text": "Groups of lawyers battling to get clients’ jobs back, avoid prosecutions or recoup money that has be"
+  },
+  {
+    "id": "96dd6846f28c9c5da2855447b7be3d6a5c43b97e",
+    "url": "https://www.theguardian.com/world/live/2025/sep/23/copenhagen-oslo-airport-drones-denmark-norway-russia-nato-estonia-europe-live-latest-news-updates",
+    "title": "Nato ready to ‘defend every inch of allied territory’, says Rutte after Russian incursions – Europe ",
+    "description": "Nato chief’s address on last week’s violation of Estonian airspace comes amid drone incidents at Cop",
+    "text": "Nato chief’s address on last week’s violation of Estonian airspace comes amid drone incidents at Cop"
+  },
+  {
+    "id": "fc4283a6b0b93e13ee07cabb2190b1eaf6705695",
+    "url": "https://www.theguardian.com/artanddesign/2025/sep/23/simone-leigh-royal-academy-show-2027",
+    "title": "Simone Leigh’s ‘monumental’ Royal Academy show set for 2027 | Art | The Guardian",
+    "description": "Exhibition by African American artist to focus on architecture, art under fascism and her own links ",
+    "text": "Exhibition by African American artist to focus on architecture, art under fascism and her own links "
+  },
+  {
+    "id": "a37ae46b3fb469c91a44ff700a8c28fa0e78cf22",
+    "url": "https://www.theguardian.com/us-news/2025/sep/23/professors-us-south-leaving",
+    "title": "‘Fear and hopelessness’: one in four professors in the US south are leaving | US news | The Guardian",
+    "description": "Survey by American Association of Professors shows nearly quarter of respondents are switching due t",
+    "text": "Survey by American Association of Professors shows nearly quarter of respondents are switching due t"
+  },
+  {
+    "id": "009984e620fba5cca44500adb926b83021775746",
+    "url": "https://www.theguardian.com/commentisfree/2025/sep/23/charlie-kirk-bigoted-far-right-podcaster",
+    "title": "Charlie Kirk was a divisive far-right podcaster. Why is he being rebranded as a national hero? | Sai",
+    "description": "Celebrating a bigoted rage-baiter sends a clear message to people of color, LGBTQ+ folks and women",
+    "text": "Celebrating a bigoted rage-baiter sends a clear message to people of color, LGBTQ+ folks and women\nT"
+  },
+  {
+    "id": "cadc98b33095413e3752b29597b9bf6b7c04ff0b",
+    "url": "https://www.theguardian.com/us-news/2025/sep/23/cornelius-taylor-death-homelessness-atlanta",
+    "title": "He was bulldozed to death when Atlanta cleared his homeless camp. Will there ever be justice? | Atla",
+    "description": "After Cornelius Taylor’s death, the city made promises to change its homelessness policy – but his f",
+    "text": "After Cornelius Taylor’s death, the city made promises to change its homelessness policy – but his f"
+  },
+  {
+    "id": "dcbf727aff9e738a4f2f9da25de2f352804a6bc7",
+    "url": "https://www.theguardian.com/sport/2025/sep/23/cheltenham-festival-woos-racegoers-cheaper-guinness-smaller-crowds-ladies-day-horse-racing",
+    "title": "Cheltenham woos back racegoers with cheaper Guinness and return of Ladies Day | Cheltenham festival ",
+    "description": "Cheaper beer at all meetings, the return of an official “Ladies Day” at the festival meeting in Marc",
+    "text": "Track rings changes to improve ‘raceday experience’\nFestival second day crowds down 34% in three yea"
+  },
+  {
+    "id": "2b0380617c14994108ad534cf5889cb0ba166f18",
+    "url": "https://doubleverify.com/doubleverify-ajuda-marca-global-a-tomar-decisoes-de-compra-em-plataformas-sociais-no-brasil/",
+    "title": "DoubleVerify ajuda marca global a tomar decisões de compra em plataformas sociais no Brasil - Double",
+    "description": "Download this case study to learn how DV helped a global CPG brand in Brazil make informed media buy",
+    "text": "Uma empresa global de bens de consumo embalados (CPG) queria aumentar o conhecimento de sua marca po"
+  },
+  {
+    "id": "2fc58cb4b03fe600e6555491dbb238ba7e320b94",
+    "url": "https://doubleverify.com/dv-brand-safety-and-suitability-solution-allows-major-fashion-brand-to-safeguard-its-brand-reputation-without-limiting-scale/",
+    "title": "DV Brand Safety and Suitability Solution Allows Major Fashion Brand to Safeguard Its Brand Reputatio",
+    "description": "Download this case study to learn how DV's brand safety and suitability solution helped a fashion br",
+    "text": "A major fashion brand needed a new brand safety and suitability strategy after their previous approa"
+  },
+  {
+    "id": "d1931d1c0290f1f631c324d441020e3ddff54d95",
+    "url": "https://doubleverify.com/dv-helped-a-global-cpg-brand-in-brazil-make-informed-buying-decisions-across-social-platforms-jp/",
+    "title": "DVがブラジルのグローバル消費財ブランドのソーシャルを活用した購買決定を支援 - DoubleVerify",
+    "description": "当事例をダウンロードし、DVがどのように複数のプラットフォーム間で、包括的にメディアパフォーマンスを比較検討し、当ブランド広告主の意思決定を支援したかをご覧ください。",
+    "text": "グローバルに事業を展開する某消費財ブランド企業は、ブラジルでのメディア予算を効率的に配分し、複数のソーシャルメディアを通じてブランドの認知度をさらに高める方法を必要としていました。\nしかし、複数のプラ"
+  },
+  {
+    "id": "5a472c025e171823ef2580c8508673aba066db82",
+    "url": "https://doubleverify.com/ask-the-experts-delivering-a-best-in-class-customer-experience/",
+    "title": "Ask The Experts: Delivering a Best-in-Class Customer Experience - DoubleVerify",
+    "description": "Learn how DoubleVerify's Victoria Spencer executes our EMEA client management strategy to deliver be",
+    "text": "Account management is essential to DoubleVerify’s (DV) customer success. DV’s account management tea"
+  },
+  {
+    "id": "98cf59e679ded795baa23a0d8bf246b27fc165b0",
+    "url": "https://doubleverify.com/dv-brand-safety-and-suitability-solution-allows-major-fashion-brand-to-safeguard-its-brand-reputation-without-limiting-scale-jp/",
+    "title": "DVブランドセーフティ＆スータビリティ（適合性） ソリューションにより、大手ファッションブランドは、リーチを狭めることなくブランド評価を確保 - DoubleVerify",
+    "description": "当事例をダウンロードし、DVのブランドセーフティとスータビリティ（適合性） ソリューションが、どのようにリーチ規模を制限することなくファッションブランドの評価を確保したかをご覧ください。",
+    "text": "某大手ファッションブランドは、既存の広告キャンペーンではブロック率が高く、キャンペーンの規模も限られていたため、新しいブランドセーフティとスータビリティ（適合性） 戦略を必要としていました。\n同ブラン"
+  },
+  {
+    "id": "73dfe074a189cb2c8d89d5633ad6a033d0a4afbf",
+    "url": "https://doubleverify.com/dvs-privacy-friendly-performance-solutions-enabled-a-leading-tech-brand-to-drive-higher-ad-engagement-jp/",
+    "title": "プライバシーに配慮したDVパフォーマンスソリューションにより大手テクノロジー企業の広告エンゲージメントが向上 - DoubleVerify",
+    "description": "当事例をダウンロードし、DVパフォーマンスソリューションが、どのように大手テクノロジー企業の広告エンゲージメントを向上させたかをご覧ください。",
+    "text": "某大手テクノロジーブランド企業は、 ユーザーのプライバシーを守りつつ、アプリのダウンロード数を促進するため、モバイルアプリ内デジタル広告キャンペーンのパフォーマンスを向上させるソリューションを探してい"
+  },
+  {
+    "id": "e29256858ca7fbca754b8ed55ddc4882837f2152",
+    "url": "https://doubleverify.com/ctv-fully-on-screen-targeting-jp/",
+    "title": "CTV フルオンスクリーンターゲティング - DoubleVerify",
+    "description": "広告主がCTV環境におけるビューアビリティの問題に対処するには、DoubleVerifyのフルオンスクリーン（FOS）ソリューションが役立ちます。DVのフルオンスクリーン（FOS）セグメントは、広告主",
+    "text": "DoubleVerify（以下DV）のフルオンスクリーン（FOS）セグメントは、広告主がビューアビリティの課題を解決し、CTVでのキャンペーンパフォーマンスを向上できるよう支援します。\nDVのFOSセ"
+  },
+  {
+    "id": "aaab93ccb968fef033e2031e275627afe2305e8d",
+    "url": "https://doubleverify.com/authentic-brand-suitability-one-sheet-jp/",
+    "title": "Authentic Brand Suitability One Sheet - DoubleVerify",
+    "description": "DoubleVerifyのAuthentic Brand Suitabilityソリューションは、広告主がブランドセーフティに関するコントロールを一元的に管理し、複数のプログラマティック バイイング ",
+    "text": "DoubleVerifyのAuthentic Brand Suitabilityソリューションは、広告主がブランドセーフティの管理を一元化し、複数のプログラマティック バイイング プラットフォームとキ"
+  },
+  {
+    "id": "c42831fb46de117a279cbc1008faaeaad1542495",
+    "url": "https://doubleverify.com/punch-above-your-programmatic-weight/",
+    "title": "Punch Above Your Programmatic Weight - DoubleVerify",
+    "description": "DV's guide for programmatic buying outlines the tools to further drive the performance of your adver",
+    "text": "As a programmatic buyer, you’re focused on driving results – no matter how big or small your campaig"
+  },
+  {
+    "id": "d0ba409878ef29bf0534e507159b65d8a4a31891",
+    "url": "https://doubleverify.com/fully-on-screen-pre-bid-activation-for-ctv/",
+    "title": "Fully On-Screen Pre-Bid Activation For CTV - DoubleVerify",
+    "description": "DoubleVerify’s Fully On-Screen (FOS) segment helps advertisers solve viewability challenges and impr",
+    "text": "DoubleVerify’s Fully On-Screen (FOS) segment helps advertisers solve viewability challenges and impr"
+  },
+  {
+    "id": "60d57a89d77a56c99d75f5c464d9fae04263886e",
+    "url": "https://vungle.com/blog/how-to-bid-your-best-precision-bidding/",
+    "title": "How to Bid Your Best: Precision Bidding - Vungle",
+    "description": "Vungle's multi-bidding tool lets you bid more precisely on a publisher/country level and unlock oppo",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "39616e8689f45f9bdae6dfdaa54e873b1579edab",
+    "url": "https://vungle.com/event/chinajoy/",
+    "title": "Vungle is Back in Shanghai for ChinaJoy 2019 - Vungle",
+    "description": "Vungle is coming back to ChinaJoy 2019 to help you connect with new mobile gaming audiences. RSVP fo",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "8631ed183dd08b93305133d700e42eae53253c52",
+    "url": "https://vungle.com/blog/vungle-vs-other-top-mobile-marketing-networks-soomlas-results-are-in/",
+    "title": "Vungle vs. Other Top Mobile Marketing Networks — SOOMLA’s Results Are In - Vungle",
+    "description": "Find out how Vungle’s interstitial and rewarded video impressions compare to the world’s top mobile ",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "d560d68213377b8ec6596febd1c23e0986f2481b",
+    "url": "https://vungle.com/event/gamescom/",
+    "title": "Join Vungle at Gamescom - Vungle",
+    "description": "Vungle is heading to Cologne for one of the biggest global events for gaming enthusiasts! Meet us th",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "f5f20af45eaf9d26ccafb39acdefdc6c956036fd",
+    "url": "https://vungle.com/event/gamedailyconnect/",
+    "title": "Meet Vungle for GameDaily Connect at Disneyland - Vungle",
+    "description": "We're going to the Happiest Place on Earth for GameDaily Connect, August 27th - 29th! Check out our ",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "794a88a0abd90d85f14c2a84410b11fbdbbc5d7a",
+    "url": "https://vungle.com/blog/the-vungalow-meet-udit-account-director-demand/",
+    "title": "The Vungalow: Meet Udit, Account Director, Demand - Vungle",
+    "description": "Welcome back to the Vungalow! Learn about Udit, our Account Director for Demand, one of the dedicate",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "9e14ebf763270bcefedd3237097e5b251cad6543",
+    "url": "https://vungle.com/blog/vungle-named-best-mobile-marketing-company-by-leading-martech-org/",
+    "title": "Vungle Named Best Mobile Marketing Company by Leading Martech Org - Vungle",
+    "description": "Vungle is immensely honored to be named Best Overall Mobile Marketing Company of 2019 by MarTech Bre",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "2bc2342692f59ff351d667c86edb1bad498477c7",
+    "url": "https://vungle.com/blog/singular-adds-vungle-as-a-certified-partner-in-new-data-integrity-program/",
+    "title": "Singular Adds Vungle as a Certified Partner in New Data Integrity Program - Vungle",
+    "description": "Vungle is excited to be an inaugural member of Singular’s Certified Partner Program, setting a stand",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "fd3bbc6eddec42c430b0f17a790f84dd4dbc9f8c",
+    "url": "https://vungle.com/event/meet-vungle-at-busan-indie-connect-festival-bic/",
+    "title": "Meet Vungle at Busan Indie Connect Festival (BIC) - Vungle",
+    "description": "",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "fdf86b685e3222c6d467b981a65400534dfbdbff",
+    "url": "https://vungle.com/blog/sdk-6-4-available-for-ios-android-windows-ios-13-supported/",
+    "title": "SDK 6.4 Available for iOS, Android & Windows — iOS 13 supported! - Vungle",
+    "description": "Vungle's latest SDK supports iOS 13 to give mobile publishers the best-possible user experience that",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "06fd8fae5b80ee38f5264f72e4251d706dea424c",
+    "url": "https://pubmatic.com/in-app-guide-book-ch/",
+    "title": "指导手册: 应用程序内置广告(IAA)的构成及其在发行商业务中的潜力 | PubMatic",
+    "description": "",
+    "text": "近年来APP内置广告（IAA）的普及，为数字广告市场的整体发展做出了贡献。APP内置广告*对于APP开发人员和APP发行商来说，是重要的收入来源。从全球大型SNS公司到个人开发者，多数都从中获益。\n本"
+  },
+  {
+    "id": "f76c44671664165ce7881a15811ff45dc6329071",
+    "url": "https://pubmatic.com/thinking/",
+    "title": "Digital Advertising Technology Resources | PubMatic AdTech Resources",
+    "description": "Stay ahead of the constantly evolving digital advertising technology landscape with PubMatic. Check ",
+    "text": "Knowledge sharing is a cornerstone of any successful partnership. At PubMatic, we\n    understand the"
+  },
+  {
+    "id": "732551037cb18b4bbf557bc938c8822c4a7eab77",
+    "url": "https://pubmatic.com/forrester-ctv-report-thank-you/",
+    "title": "Thank You-Forrester Mid-Tier CTV Report | PubMatic",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5b49c020521c9abc084657eeee731d60676824c0",
+    "url": "https://pubmatic.com/ml-hackathon-2021/",
+    "title": "ML Hackathon 2021 | PubMatic",
+    "description": "",
+    "text": "Please enter the correct password\nThe PubMatic ML Hackathon is a multi-day event where employees acr"
+  },
+  {
+    "id": "93ba632e91c698a7821e886a63c22bcac868a6d7",
+    "url": "https://pubmatic.com/media-buyers-guide-addressability-se/",
+    "title": "Rapport: Annonsköparens guide till addressability | PubMatic",
+    "description": "Google har kanske givit lite respit åt marknaden, men kritik mot tredjeparts-cookies och nya lagar s",
+    "text": "Google har kanske givit lite respit åt marknaden, men kritik mot tredjeparts-cookies och nya lagar s"
+  },
+  {
+    "id": "01e2408633e529a2f24507bed09852115773db6c",
+    "url": "https://pubmatic.com/media-buyers-guide-addressability-it/",
+    "title": "La guida del media buyer all’addressability | PubMatic",
+    "description": "Google può aver aggiunto un periodo supplementare all’equazione, ma la deprecazione dei cookie di te",
+    "text": "Google può aver aggiunto un periodo supplementare all’equazione, ma la deprecazione dei cookie di te"
+  },
+  {
+    "id": "1d0b0041637d826d92c8133a3abf01ba6e2cb9ac",
+    "url": "https://pubmatic.com/how-publift-drove-a-33-uplift-in-programmatic-revenue-for-a-popular-australian-weather-app-kr/",
+    "title": "PUBLIFT가 프로그래매틱 광고를 통해 호주에 본사를 두고 있는 어떤 인기있는 날씨 앱의 수익을33%증가시킨 방법 | PubMatic",
+    "description": "",
+    "text": "Publift는 프리미엄급 웹 및 앱 퍼블리셔를 위해 광고 기술 솔루션을 제공하는 기업입니다. Publift와 함께 협력하고 있는퍼블리셔들은 평균 55 %의 수익 증가를 기록하고 "
+  },
+  {
+    "id": "0eb3016e8ae8eb89000cca3f1329f55fbf509332",
+    "url": "https://pubmatic.com/state-of-in-app-advertising-apac-kr/",
+    "title": "아시아 태평양 지역 내 프로그래매틱 방식의 인앱 광고 현황 | PubMatic",
+    "description": "아시아 태평양 지역에서 광고 담당 의사 결정권자를 대상으로 진행한 이번 연구 조사에 따르면, 미디어 구매자들은 프로그래매틱 방식의 인앱을 지속적으로 채택하고 있는 것으로 나타났습니",
+    "text": "아시아 태평양 지역에서 광고 담당 의사 결정권자를 대상으로 진행한 이번 연구 조사에 따르면, 미디어 구매자들은 프로그래매틱 방식의 인앱을 지속적으로 채택하고 있는 것으로 나타났습니"
+  },
+  {
+    "id": "8f44ebe19196f8cebc6edfa75b462d653c2ceb5f",
+    "url": "https://pubmatic.com/state-of-in-app-advertising-apac-cn/",
+    "title": "亚太地区移动端程序化广告现状 | PubMatic",
+    "description": "面向亚太地区广告决策者开展的一项调研表明：广告买主正在转向移动应用内程序化广告",
+    "text": "面向亚太地区广告决策者开展的一项调研表明：广告买主正在转向移动应用内程序化广告\n随着消费者纷纷转战移动端，广告买主也开始相应地增加在移动渠道中的广告预算¹，并希望增加移动应用内广告的投放。\n为了深入探"
+  },
+  {
+    "id": "d85f58b1463e7594168035dee4921af321eaded2",
+    "url": "https://pubmatic.com/identity-hub-acquisition-marketing-paid-search-04-2022/",
+    "title": "Identity Management | Identity (ID) Resolution Solution | PubMatic",
+    "description": "Centralize, implement, test, and optimize alternative identity solutions for scale and performance. ",
+    "text": "Centralize, implement, test and optimize alternative identity approaches for scale and performance.\n"
+  },
+  {
+    "id": "7b23c31f0a4661a40dcb0f124a8c01d511776587",
+    "url": "https://www.forbes.com/sites/martingutmann/2025/09/23/the-electricity-trap-why-ai-alone-wont-transform-your-business/",
+    "title": "The Electricity Trap: Why AI Alone Won’t Transform Your Business",
+    "description": "Why AI isn’t boosting productivity—yet. A historical lesson from electricity shows why real transfor",
+    "text": "ByMartin Gutmann,\nContributor.\nIn 1987, the Nobel laureate Robert Solow looked at a world awash in c"
+  },
+  {
+    "id": "66c97f05742a10cb63b9dbeae1c6d0fb38293924",
+    "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/09/23/escaping-the-river-of-thinking-and-why-experience-can-be-the-enemy-of-innovation/",
+    "title": "Escaping The 'River Of Thinking' And Why Experience Can Be The Enemy Of Innovation",
+    "description": "The “River of Thinking” is a mental current shaped by past successes, deep expertise and industry no",
+    "text": "ByDuncan Wardle,\nForbes Councils Member.\nDuncan Wardle, former vice president at The Walt Disney Com"
+  },
+  {
+    "id": "24d173ba77771553b3e2dac94c95647a6dea9124",
+    "url": "https://www.forbes.com/councils/forbescoachescouncil/2025/09/23/how-great-facilitation-happens-preparation-flow-and-follow-through/",
+    "title": "How Great Facilitation Happens: Preparation, Flow And Follow-Through",
+    "description": "The foundation of all this—the trust, vulnerability and engagement necessary for meaningful conversa",
+    "text": "ByAntonia Bowring,\nForbes Councils Member.\nAntonia Bowring ABstrategies LLC, MBA. Top Ranked Executi"
+  },
+  {
+    "id": "27302931c4ac857b408708889e371cfe30b0e42c",
+    "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2025/09/23/the-ai-powered-customer-journey-mapping-optimizing-and-anticipating-customers-needs/",
+    "title": "Mapping, Optimizing, And Anticipating Customers' Needs",
+    "description": "Here's how organizations can use AI to reduce friction, personalize engagement, and proactively supp",
+    "text": "ByKurt Allen,\nForbes Councils Member.\nKurt Allen, LSSBB, Vice President, Enrollment, Marketing & Com"
+  },
+  {
+    "id": "12d30abf918b13f7aafa5478dfe2a9b22ec9a2b6",
+    "url": "https://www.forbes.com/councils/forbesagencycouncil/2025/09/23/visual-tempo-why-visual-speed-is-the-new-key-to-effective-marketing/",
+    "title": "Visual Tempo: Why Visual Speed Is The New Key To Effective Marketing",
+    "description": "Fast, fluid and in-context visual communications have become a new way to stand out.",
+    "text": "BySebastian Bondo Petit,\nForbes Councils Member.\nSebastian Bondo Petit, Co-Founder at WHY CGI.\nIn to"
+  },
+  {
+    "id": "7510cdb6e16a1a3e5940079c29a8dd103af38ffb",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2025/09/23/vibe-coding-how-prompt-based-ai-is-transforming-software-development/",
+    "title": "Vibe Coding: How Prompt-Based AI Is Transforming Software Development",
+    "description": "Coding is no longer just about writing. It’s about orchestrating.",
+    "text": "ByDevendra Goyal,\nForbes Councils Member.\nDave Goyal | CEO, Think AI | Author | Speaker | AI Patent "
+  },
+  {
+    "id": "193f2c88e878c1b049f029d8c3c93a965a3b1316",
+    "url": "https://www.forbes.com/sites/greatspeculations/2025/09/23/stubhub-ipo-a-hot-ticket-or-a-risky-bet/",
+    "title": "StubHub IPO: A Hot Ticket Or A Risky Bet?",
+    "description": "The offering generated $800 million at $23.50 per share, valuing StubHub at approximately $8.6 billi",
+    "text": "ByTrefis Team,\nContributor.\nIf you’ve ever purchased a last-minute ticket for a sold-out concert or "
+  },
+  {
+    "id": "f919a5d7f8ed0d4d8224da395e0d5abe9b1fb7c1",
+    "url": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2025/09/23/were-not-in-the-realm-of-dale-carnegies-soft-skills-anymore/",
+    "title": "We're Not In The Realm Of Dale Carnegie’s Soft Skills Anymore",
+    "description": "Our understanding of soft skills, including how to refer to them, has changed considerably since the",
+    "text": "ByCaitlin MacGregor,\nForbes Councils Member.\nCaitlin MacGregor, co-founder and CEO of Plum, is passi"
+  },
+  {
+    "id": "95008ed220ef7eeb7501a2d9c2264810bdc83b5f",
+    "url": "https://www.forbes.com/councils/forbesfinancecouncil/2025/09/23/the-hidden-risks-of-interest-rate-cuts-and-what-investors-should-really-be-watching/",
+    "title": "The Hidden Risks Of Interest Rate Cuts",
+    "description": "As we approach what many believe will be a new stage of monetary policy, here are some key hidden ri",
+    "text": "ByGabriela Berrospi,\nForbes Councils Member.\nGabriela Berrospi is the founder of the Latino Wall Str"
+  },
+  {
+    "id": "6d3eb75ba1c2f1bc349456045c48ed82c5f0fdac",
+    "url": "https://www.forbes.com/sites/forbes-books-news/2025/09/23/new-guide-equips-executives-to-align-teams-and-foster-thriving-workplaces/",
+    "title": "New Guide Equips Executives To Align Teams And Foster Thriving Workplaces",
+    "description": "“Cultural Excellence: A Leader’s Guide to Strengthening the Heart of Your Organization” by Michele H",
+    "text": "ByForbes Books Press Release Official,\nForbes Books Author.\nNEW YORK (September 23, 2025)—Cultural E"
+  },
+  {
+    "id": "e6da6d0dc0dfb574b588718ea0822a4a1a474000",
+    "url": "https://www.twitch.tv/ufdmusic",
+    "title": "Twitch",
+    "description": "UFD Music 24/7 - Dealmaster Beats to Relax/Study To | !prize !points !giveaway",
+    "text": ""
+  },
+  {
+    "id": "92b19e82479d711f80c4db0ed0471040aa999f14",
+    "url": "https://www.twitch.tv/djmissshelton",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "49ae31a2cfc13972c93c0d780602282a67bcf7d1",
+    "url": "https://www.twitch.tv/directory/category/minecraft",
+    "title": "Twitch",
+    "description": "Minecraft focuses on allowing the player to explore, interact with, and modify a dynamically-generat",
+    "text": ""
+  },
+  {
+    "id": "b7c7167420d6e374526fb83853ee3ca11e2ff5ef",
+    "url": "https://www.twitch.tv/retrospectradio",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e753390cd3d4f7725929f2fb20518a763eb70261",
+    "url": "https://www.twitch.tv/directory/category/art",
+    "title": "Twitch",
+    "description": "Watch Art channels streaming live on Twitch. Sign up or login to join the community and follow your ",
+    "text": ""
+  },
+  {
+    "id": "75090da4c7300bfa0a6563cf6029a1c77f11c44c",
+    "url": "https://www.twitch.tv/",
+    "title": "Twitch",
+    "description": "Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, m",
+    "text": ""
+  },
+  {
+    "id": "28350faf291f6f0baf54ca8071d37015eb2b23ed",
+    "url": "https://www.twitch.tv/xqc",
+    "title": "Twitch",
+    "description": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+    "text": ""
+  },
+  {
+    "id": "a0b9c29a2075e5a74a5bb20c7a4ee429d1d2f558",
+    "url": "https://www.twitch.tv/directory/category/sports-1",
+    "title": "Twitch",
+    "description": "Watch Sports channels streaming live on Twitch. Sign up or login to join the community and follow yo",
+    "text": ""
+  },
+  {
+    "id": "92def06a2b42d77d670b56af220da3ef9cad640c",
+    "url": "https://www.twitch.tv/directory/all/tags/English",
+    "title": "Twitch",
+    "description": "Watch the best English channels and streamers that are live on Twitch! Check out their featured vide",
+    "text": ""
+  },
+  {
+    "id": "f23ef7fc691e95db12ceb1edf0f13ada41567f0e",
+    "url": "https://www.twitch.tv/directory/category/zevent",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "79e9292aad149a87fdb888643574adad845fdbbe",
+    "url": "https://creativecommons.org/2002/09/25/seattletimes/",
+    "title": "Seattle Times - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "b6a8d823c78972c8ff9e3b872aebc2c6289006fe",
+    "url": "https://creativecommons.org/2002/09/25/informationtodayinc/",
+    "title": "Information Today Inc. - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "285103c3cec0b65af1bb78cd2ed2fbf90bffdce3",
+    "url": "https://creativecommons.org/2002/09/25/sanjosemercurynews/",
+    "title": "San Jose Mercury News - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "0d456ee38a93aa87a262516b4788c8c89bf8670d",
+    "url": "https://creativecommons.org/2002/09/25/nrchandelsblad/",
+    "title": "NRC Handelsblad - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "6c1dd2f94b43fa18a33d013389b25fb80d3d6995",
+    "url": "https://creativecommons.org/2002/09/25/slashdotorg/",
+    "title": "Slashdot.org - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "18902fb20a8b5c1eb8ac606cef805594c2902265",
+    "url": "https://creativecommons.org/2002/09/25/serverworldmagazine/",
+    "title": "Server World Magazine - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "95b3f2569e76c8daaf5570df416bf9449733d829",
+    "url": "https://creativecommons.org/2002/09/25/wirednews/",
+    "title": "Wired News - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "10f6d4e5732477aa44df5c9b60f31085888510ad",
+    "url": "https://creativecommons.org/2002/09/25/usatoday/",
+    "title": "USA Today - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "493f507ed8753cc53021c894a6fab83e37abec85",
+    "url": "https://creativecommons.org/2002/09/25/pcmagazine/",
+    "title": "PC Magazine - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "f25f1d6a59fea5fc5cbf92e7bf5d739c65db5a22",
+    "url": "https://creativecommons.org/2002/09/25/graphicsnews/",
+    "title": "GraphicsNews - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "77fcd6b0a15b523e15b3f2ba36251d123eefbaa3",
+    "url": "https://www.bbc.co.uk/sport/football/fa-cup",
+    "title": "FA Cup - Latest news, draws & results - BBC Sport",
+    "description": "The home of FA Cup on BBC Sport online. Includes the latest news stories, results, fixtures, video a",
+    "text": "Jersey Bulls consider costs before making FA Cup return\nJersey Bulls boss Elliot Powell says the clu"
+  },
+  {
+    "id": "1e0b3f7ecae019edac5d1870492c7f001d0ee125",
+    "url": "https://www.bbc.co.uk/sport/basketball",
+    "title": "NBA News, Results & Scores - Basketball - BBC Sport",
+    "description": "The home of Basketball on BBC Sport online. Includes the latest news stories, standings, video and a",
+    "text": "More Than The Score. Why aren't WNBA players dunking? Audio, 19 minutesMore Than The Score\nWhy aren'"
+  },
+  {
+    "id": "928c774f6b89dd25205bb045fec5394a0ed71829",
+    "url": "https://www.bbc.co.uk/sport/football/teams/everton",
+    "title": "Everton FC - Transfer news, results, fixtures, video and audio",
+    "description": "The home of Everton on BBC Sport online. Includes the latest news stories, transfers, results, fixtu",
+    "text": "Do you have a question? Tell us what you want to know\nEverton captain James Tarkowski believes the c"
+  },
+  {
+    "id": "872e13d5cab5b5cb62d7b56ca011b0a9748b5b35",
+    "url": "https://www.bbc.co.uk/sport/football/teams/chelsea",
+    "title": "Chelsea FC - Transfer news, results, fixtures, video and audio",
+    "description": "The home of Chelsea on BBC Sport online. Includes the latest news stories, transfers, results, fixtu",
+    "text": "Do you have a question? Tell us what you want to know\nWill FaulksFan writer\nLast season's return to "
+  },
+  {
+    "id": "8656fab85d2e8a0872c062a899eaf6aefc87c71a",
+    "url": "https://www.bbc.co.uk/sport/cricket/counties",
+    "title": "County Cricket - Latest news, updates & results - BBC Sport",
+    "description": "The home of County Cricket on BBC Sport online. Includes the latest news stories, results, fixtures,",
+    "text": "All you need to know for the County Championship finale\nNottinghamshire and Surrey vie for the title"
+  },
+  {
+    "id": "7312c4b0bd003ada81cfd01f1de778f828dbd835",
+    "url": "https://www.bbc.co.uk/sport/football/teams/england",
+    "title": "England Men's Football Team - BBC Sport",
+    "description": "The home of England Men's Football Team on BBC Sport online. Includes the latest news stories, resul",
+    "text": "'I believe in him but he can do better' - Amorim on Mainoo's future\nWhy Rooney partied with Man City"
+  },
+  {
+    "id": "fd17e65c785d7b6f310ea1029781264e98a0dcdb",
+    "url": "https://www.bbc.co.uk/sport/olympics",
+    "title": "Paris Olympics 2024 - Latest news, updates & highlights - BBC Sport",
+    "description": "The home of Paris Olympics on BBC Sport online. Includes the latest news stories, results, fixtures,",
+    "text": "IOC sets up working group 'to protect women's sport'\nThe International Olympic Committee has set up "
+  },
+  {
+    "id": "c2f14a5136319dead0a1e6ee051ce3595d47c647",
+    "url": "https://www.bbc.co.uk/sport/football/world-cup",
+    "title": "FIFA World Cup 2026",
+    "description": "Latest News, Updates & Video Highlights",
+    "text": "Why will September international break be longer from 2026?\nCape Verde on brink of 2026 World Cup - "
+  },
+  {
+    "id": "75c5fbccdba39c162e497c213e20e80a354d27bc",
+    "url": "https://www.bbc.co.uk/sport/commonwealth-games",
+    "title": "Commonwealth Games - Latest news, updates & highlights - BBC Sport",
+    "description": "The home of Commonwealth Games on BBC Sport online. Includes the latest news stories, results, fixtu",
+    "text": "Seven nations plan 2030 & 2034 Commonwealth bids\nFears that Glasgow 2026 might be the last ever Comm"
+  },
+  {
+    "id": "dd12a675f97511fa7c9e10599c13cf4fc0cd6524",
+    "url": "https://www.bbc.co.uk/sport/mixed-martial-arts",
+    "title": "MMA News - UFC, PFL, fight results & schedule - BBC Sport",
+    "description": "Mixed Martial Arts",
+    "text": "Elliott 'more dangerous' on return after first UFC loss\nWelsh fighter Oban Elliott says he is out fo"
+  },
+  {
+    "id": "9e43aed6e8d19d2f287d456d2803f214c92ba36b",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090623_mz_leaders_lifespan_tc2",
+    "title": "أطول عشرة زعماء أفارقة بقاءً في السلطة - BBC News عربي",
+    "description": "بعد رحيل بونجو: القذافي في المركز الأول ومبارك في المركز الخامس.",
+    "text": "توفي رئيس الجابون عمر بونجو الأسبوع الماضي بعد ما يقرب من 42 عاماً في السلطة أهلته ليكون أطول الحكام"
+  },
+  {
+    "id": "71841a2389d7b91f0f6c6d7297f4b14fbaad6518",
+    "url": "https://www.bbc.com/arabic/middleeast/2009/06/090625_af_mousavi-tc2",
+    "title": "موسوي: \"سنستمر في الاحتجاج\" - BBC News عربي",
+    "description": "مير حسين موسوي يعلن مواصلة الاحتجاج على نتائج الانتخابات الإيرانية، ونحو ثلثي نواب البرلمان يغيبون ع",
+    "text": "قال زعيم المعارضة الايرانية مير حسين موسوي انه وأنصاره سيواصلون الاحتجاج على  \"التلاعب بنتائج الانتخ"
+  },
+  {
+    "id": "f8f716b6db56b6326dd4527aecd7a99ddf88ed9b",
+    "url": "https://www.bbc.com/arabic/tvandradio/2009/06/090625_programme_talkofthehour",
+    "title": "حديث الساعة - BBC News عربي",
+    "description": "حديث الساعة",
+    "text": "حديث الساعة برنامج يومي يركز على قضية مثار اهتمام في الوقت الراهن، قد تكون  سياسية أو اقتصادية أو اج"
+  },
+  {
+    "id": "61c18a79ac61666d47478ec50baf319a21084c16",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090623_or_afghanistan_britain_tc2",
+    "title": "أفغانستان: هجوم واسع للقوات البريطانية على معاقل طالبان - BBC News عربي",
+    "description": "الجيش البريطاني يشن هجوما جويا واسع النطاق على معاقل طالبان جنوبي أفغانستان، شمل إنزالا جويا لأكثر م",
+    "text": "شن الجيش البريطاني هجوما جويا واسع النطاق على معاقل طالبان جنوبي أفغانستان،  شمل إنزالا جويا لأكثر م"
+  },
+  {
+    "id": "89b53c5ab206ee24cdf00d5ce1bd15d2d2f4c5bf",
+    "url": "https://www.bbc.com/arabic/artandculture/2009/06/090625_me_greek_antiques_tc2",
+    "title": "اليونان تجدد طلبها من بريطانيا إعادة منحوتات البارثينون  - BBC News عربي",
+    "description": "اليونان تطالب بريطانيا باعادة منحوتات أُزيلت من مبنى البارثينون في اثينا قبل نحو 200 عام.",
+    "text": "جدَّد الرئيس اليوناني كارلوس بابولياس دعوة بلاده لبريطانيا لإعادة منحوتات كانت قد أُزيلت من مبنى الب"
+  },
+  {
+    "id": "7bb2a91f48dd66d76ce5c8ca27991f6f3db195fb",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090625_mek_cuberuk_tc2",
+    "title": "بريطانيا \"لها قدرات هجوم إلكترونية\" - BBC News عربي",
+    "description": "وزير الأمن البريطاني يقول إن لبريطانيا القدرة على شن هجمات إلكترونية عبر شبكة الإنترنت، لكنها لا تست",
+    "text": "قال وزير الأمن البريطاني لورد ويست إن لبريطانيا القدرة على شن هجمات إلكترونية على شبكة الإنترنت، لكن"
+  },
+  {
+    "id": "cdf433bd380412c288d239a999d8bdde2f05a041",
+    "url": "https://www.bbc.com/arabic/middleeast/2009/06/090624_sf_syria_us_ambass_tc2",
+    "title": "أنباء عن قرب إعادة السفير الأمريكي إلى سوريا  - BBC News عربي",
+    "description": "ذكرت وسائل إعلام أمريكية أن الولايات المتحدة تستعد لإعادة سفيرها إلى سوريا، وذلك بعد أربعة أعوام من ",
+    "text": "ذكرت وسائل إعلام أمريكية أن الولايات المتحدة تستعد لإعادة سفيرها إلى سوريا، وذلك بعد أربعة أعوام من "
+  },
+  {
+    "id": "58f88192f6eb6d2f1f9cfb0375ec8255cfdd8a07",
+    "url": "https://www.bbc.com/arabic/business/2009/06/090623_airbus_china_tc2",
+    "title": "ايرباص تصنع اول طائرة في الصين - BBC News عربي",
+    "description": "ايرباص تصنع اول طائرة في الصين",
+    "text": "سلمت شركة ايرباص رسميا اول طائرة تصنعها الشركة في الصين.\nوتم الكشف عن الطائرة، وهي من طراز A320 متوس"
+  },
+  {
+    "id": "e44e828d6ee98f844f7b27c355ff7b2ae4c3b4cc",
+    "url": "https://www.bbc.com/arabic/middleeast/2009/06/090620_iraq_blast_tc2",
+    "title": "مقتل العشرات في هجوم انتحاري قرب كركوك - BBC News عربي",
+    "description": "مقتل واصابة العشرات في انفجار شاحنة مفخخة قرب مسجد شيعي في مدينة كركوك الواقعة شمالي العراق.",
+    "text": "قالت الشرطة العراقية ان 64 شخصا على الاقل قتلوا في انفجار شاحنة مفخخة في مدينة كركوك شمال العراق.\nوق"
+  },
+  {
+    "id": "59b4fb1bc47e4e350937f00ccedb472879b649e4",
+    "url": "https://www.bbc.com/arabic/middleeast/2009/06/090623_om_iran_europe_tc2",
+    "title": "عواصم اوروبية تستدعي سفراء ايران لديها للاحتجاج  - BBC News عربي",
+    "description": "عدة عواصم اوروبية تستدعي الثلاثاء السفراء الايرانيين لديها للاحتجاج على تطورات الاوضاع في ايران.",
+    "text": "استدعت عدة عواصم اوروبية الثلاثاء السفراء الايرانيين لديها للاحتجاج على  تطورات الاوضاع في ايران.\nفف"
+  },
+  {
+    "id": "9f925c07ed55bc5b10d1b893f9f5e2ed6b23386c",
+    "url": "https://slack.com/blog/collaboration/a-guide-to-client-communication-for-the-digital-age",
+    "title": "Tips for effective client communication | Slack",
+    "description": "Dive into our guide on best practices for client communication",
+    "text": "Make the most of client communications with thoughtful strategies, an empathetic approach and an AI-"
+  },
+  {
+    "id": "f8d2cd73434caf67306ab771eeeeda8589766de4",
+    "url": "https://slack.com/blog/collaboration/a-change-calls-for-champions",
+    "title": "A change calls for champions | Slack",
+    "description": "Slack is where work flows. It's where the people you need, the information you share, and the tools ",
+    "text": "Slack Experience Specialist Min Young Lee shares her tips for finding influential leaders and peers "
+  },
+  {
+    "id": "c25c7fdec31b3dedee2c934d8d04eb23f8d3e39d",
+    "url": "https://slack.com/blog/collaboration/a-crash-course-on-the-art-of-external-business-communication",
+    "title": "External communications: its definition, examples, and strategy tips for business success | Slack",
+    "description": "Learn what is good external communication and how to develop strategies to bridge the gap between bu",
+    "text": "Effective external communication strategies can go a long way for business success.\nBy the team at S"
+  },
+  {
+    "id": "ecddf5860951788194f3dee6cefd2b1f52eb0cf3",
+    "url": "https://slack.com/blog/collaboration/a-guide-to-running-better-virtual-meetings",
+    "title": "Virtual meetings: What are they and how can I use them effectively? | Slack",
+    "description": "Learn how to plan, host and run successful virtual meetings with our handy guide.",
+    "text": "By the team at SlackNovember 6th, 2023\nVirtual meetings are a fixture of the modern office. Although"
+  },
+  {
+    "id": "de313b2604c0f9a685b6fb594c7360107a4b1c85",
+    "url": "https://slack.com/blog/collaboration/a-guide-to-the-best-chat-apps-for-businesses",
+    "title": "The Best Chat Apps for Business | Slack",
+    "description": "Discover the best chat apps for business to improve team communication, collaboration, and productiv",
+    "text": "Explore the best business chat apps to boost team communication, collaboration, and productivity.\nBy"
+  },
+  {
+    "id": "7508b48829b0e7bff6df17853caa8c0f73356469",
+    "url": "https://slack.com/blog/collaboration/83bar-agents-help-patients-halp",
+    "title": "83bar gives agents more time to help patients, using Halp in Slack | Slack",
+    "description": "Patient activation company 83bar integrates Atlassian ticketing system Halp with Slack, so health-ca",
+    "text": "Patient activation company 83bar integrates Atlassian ticketing system Halp with Slack, so health-ca"
+  },
+  {
+    "id": "c87ce015ca95520ea066bcba6f57ae87143d6235",
+    "url": "https://slack.com/blog/collaboration/adapting-to-our-remote-work-reality",
+    "title": "Adapting to our new remote-work reality | Slack",
+    "description": "Slack is where work flows. It's where the people you need, the information you share, and the tools ",
+    "text": "Trying to navigate rapid workplace change? You're not alone. Slack’s services partners can help\nBy t"
+  },
+  {
+    "id": "f795ca918e17db6046351eff6c476c4c33187a47",
+    "url": "https://slack.com/blog/collaboration/advice-for-large-teams-on-slack",
+    "title": "Advice for large teams on Slack | Slack",
+    "description": "Slack is where work flows. It's where the people you need, the information you share, and the tools ",
+    "text": "How hundreds, or thousands, can communicate better\nAuthor: Matt HaugheyJune 23rd, 2017Illustration b"
+  },
+  {
+    "id": "ae7367854a59e7473b134c1c9942a80fe75616e1",
+    "url": "https://slack.com/blog/collaboration/achieve-common-goals-through-real-time-collaboration",
+    "title": "How to achieve a common goal through real-time collaboration | Slack",
+    "description": "Don’t let valuable information and ideas get lost in unread emails and chats. Keep teams engaged and",
+    "text": "Keep valuable ideas and information in front of team members and out of overstuffed inboxes\nBy the t"
   }
 ]
