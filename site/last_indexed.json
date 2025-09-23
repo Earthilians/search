@@ -3775,13 +3775,13 @@
     "urls": []
   },
   "googleblog.com": {
-    "lastAt": 1758286008074,
+    "lastAt": 1758634292817,
     "urls": [
       "https://googleblog.com/"
     ]
   },
   "linktr.ee": {
-    "lastAt": 1758286023846,
+    "lastAt": 1758634295244,
     "urls": [
       "https://linktr.ee/discover/profile-directory/c/business/page-1/",
       "https://linktr.ee/",
@@ -3812,29 +3812,39 @@
       "https://linktr.ee/discover/profile-directory/c/business/page-28/",
       "https://linktr.ee/discover/profile-directory/c/business/page-29/",
       "https://linktr.ee/discover/profile-directory/c/business/page-24/",
-      "https://linktr.ee/discover/profile-directory/c/business/page-23/"
+      "https://linktr.ee/discover/profile-directory/c/business/page-23/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-30/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-31/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-32/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-33/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-34/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-35/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-36/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-37/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-38/",
+      "https://linktr.ee/discover/profile-directory/c/business/page-39/"
     ]
   },
   "steampowered.com": {
-    "lastAt": 1758286026029,
+    "lastAt": 1758634296472,
     "urls": [
       "https://steampowered.com/"
     ]
   },
   "youtube-nocookie.com": {
-    "lastAt": 1758286029159,
+    "lastAt": 1758634299338,
     "urls": []
   },
   "wixsite.com": {
-    "lastAt": 1758286032342,
+    "lastAt": 1758634302205,
     "urls": []
   },
   "ttdns2.com": {
-    "lastAt": 1758286035403,
+    "lastAt": 1758634305093,
     "urls": []
   },
   "doi.org": {
-    "lastAt": 1758286037159,
+    "lastAt": 1758634307470,
     "urls": [
       "https://www.doi.org/the-identifier/resources/logos/",
       "https://doi.org/",
@@ -3865,11 +3875,21 @@
       "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-openurl/",
       "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-the-handle-system/",
       "https://www.doi.org/the-identifier/resources/factsheets/identifier-interoperability/",
-      "https://www.doi.org/the-identifier/resources/factsheets/the-indecs-framework/"
+      "https://www.doi.org/the-identifier/resources/factsheets/the-indecs-framework/",
+      "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-persistent-urls/",
+      "https://www.doi.org/the-identifier/resources/factsheets/doi-system-and-standard-identifier-schemes/",
+      "https://www.doi.org/the-identifier/resources/factsheets/designing-doi-applications/",
+      "https://www.doi.org/the-foundation/board-and-governance/",
+      "https://www.doi.org/the-identifier/resources/handbook/data_dictionary/",
+      "https://www.doi.org/categories/",
+      "https://www.doi.org/tags/",
+      "https://www.doi.org/the-community/existing-registration-agencies/",
+      "https://www.doi.org/the-foundation/sustainability/",
+      "https://www.doi.org/the-community/who-are-the-members-and-users/"
     ]
   },
   "hubspot.com": {
-    "lastAt": 1758286040708,
+    "lastAt": 1758634310771,
     "urls": [
       "https://hubspot.com/",
       "https://www.hubspot.com/blog/bid/31882/hubspot-launches-new-conversion-assists-report",
@@ -3900,11 +3920,21 @@
       "https://www.hubspot.com/careers-blog/stigma-in-support",
       "https://www.hubspot.com/careers-blog/5-simple-ways-to-de-stress-at-work",
       "https://www.hubspot.com/hubspot-red-cross",
-      "https://www.hubspot.com/product-updates/updates-in-email-unsubscribe-process"
+      "https://www.hubspot.com/product-updates/updates-in-email-unsubscribe-process",
+      "https://www.hubspot.com/company-news/introducing-the-2024-partner-advisory-council",
+      "https://www.hubspot.com/company-news/hubspot-ranks-1-in-venturebeat-marketing-automation-index",
+      "https://www.hubspot.com/careers-blog/3-reasons-why-starting-at-the-bottom-is-the-catalyst-to-getting-to-the-top",
+      "https://www.hubspot.com/company-news/hubspot-named-one-of-bostons-best-places-to-work-by-boston-business-journal",
+      "https://www.hubspot.com/careers-blog/first-week-new-job-tips",
+      "https://www.hubspot.com/company/advisory-board",
+      "https://www.hubspot.com/case-studies/t-pro",
+      "https://www.hubspot.com/crm-for-education",
+      "https://www.hubspot.com/blog/bid/4808/meet-hubspot-s-summer-interns",
+      "https://www.hubspot.com/product-updates/january-2019-hubspot-updates-in-less-time-than-a-coffee-break"
     ]
   },
   "mikrotik.com": {
-    "lastAt": 1758286046338,
+    "lastAt": 1758634315750,
     "urls": [
       "https://mikrotik.com/",
       "https://mikrotik.com/support",
@@ -3923,23 +3953,23 @@
     ]
   },
   "wikimedia.org": {
-    "lastAt": 1758286048028,
+    "lastAt": 1758634316590,
     "urls": [
       "https://wikimedia.org/"
     ]
   },
   "cloud.microsoft": {
-    "lastAt": 1758286048908,
+    "lastAt": 1758634317321,
     "urls": [
       "https://cloud.microsoft/"
     ]
   },
   "omtrdc.net": {
-    "lastAt": 1758286051980,
+    "lastAt": 1758634320201,
     "urls": []
   },
   "appsflyer.com": {
-    "lastAt": 1758286054566,
+    "lastAt": 1758634322472,
     "urls": [
       "https://www.appsflyer.com/blog/topic/remarketing/",
       "https://www.appsflyer.com/company/newsroom/pr/global-app-spending-habits-report/",
@@ -3970,27 +4000,37 @@
       "https://www.appsflyer.com/glossary/deep-linking/",
       "https://www.appsflyer.com/use-cases/raw-data-apis/raw-data-at-your-fingertips/",
       "https://www.appsflyer.com/company/newsroom/pr/appsflyer-named-studies-market-leader/",
-      "https://www.appsflyer.com/blog/mobile-fraud/ios-14-fraud/"
+      "https://www.appsflyer.com/blog/mobile-fraud/ios-14-fraud/",
+      "https://www.appsflyer.com/company/newsroom/pr/gaming-app-marketing-2023/",
+      "https://www.appsflyer.com/company/newsroom/pr/ecommerce-apps-spend-surge/",
+      "https://www.appsflyer.com/blog/mobile-marketing/ios-13-universal-link-behavior/",
+      "https://www.appsflyer.com/resources/guides/return-on-experience/",
+      "https://www.appsflyer.com/use-cases/customer-experience-deep-linking/setting-ios-9-universal-links/",
+      "https://www.appsflyer.com/blog/ceo/mission-critical-marketing-platform-elements/",
+      "https://www.appsflyer.com/company/newsroom/pr/remarketing-fuels-app-marketing-conversions/",
+      "https://www.appsflyer.com/blog/in-the-sandbox-with/ad-fraud/",
+      "https://www.appsflyer.com/customers/papaya-gaming/",
+      "https://www.appsflyer.com/resources/reports/finance-app-marketing-us/"
     ]
   },
   "moe.video": {
-    "lastAt": 1758286057849,
+    "lastAt": 1758634325280,
     "urls": [
       "https://moe.video/"
     ]
   },
   "nr-data.net": {
-    "lastAt": 1758286060813,
+    "lastAt": 1758634328171,
     "urls": []
   },
   "vkontakte.ru": {
-    "lastAt": 1758286064757,
+    "lastAt": 1758634331281,
     "urls": [
       "https://vkontakte.ru/"
     ]
   },
   "mts.ru": {
-    "lastAt": 1758286070816,
+    "lastAt": 1758634341538,
     "urls": [
       "https://moskva.mts.ru/personal",
       "https://mts.ru/",
@@ -4021,29 +4061,39 @@
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/dzerzhinskij",
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/dolgoprudniy",
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/dmitrov",
-      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/zheleznodorozhnyj"
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/zheleznodorozhnyj",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/kommunarka",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/vidnoe",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/ivanteevka",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/krasnogorsk",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/kotelniki",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/moskovskij",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/orehovozuevo",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/nahabino",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/odintsovo",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/mytishi"
     ]
   },
   "byteoversea.net": {
-    "lastAt": 1758286074372,
+    "lastAt": 1758634344523,
     "urls": []
   },
   "hp.com": {
-    "lastAt": 1758286152882,
+    "lastAt": 1758634421626,
     "urls": [
       "https://hp.com/"
     ]
   },
   "mtgglobals.com": {
-    "lastAt": 1758286156111,
+    "lastAt": 1758634424910,
     "urls": []
   },
   "amazon.co.uk": {
-    "lastAt": 1758286160898,
+    "lastAt": 1758634429537,
     "urls": []
   },
   "tinyurl.com": {
-    "lastAt": 1758286164772,
+    "lastAt": 1758634433226,
     "urls": [
       "https://tinyurl.com/",
       "https://tinyurl.com/app/features/custom-links",
@@ -4061,27 +4111,27 @@
     ]
   },
   "who.int": {
-    "lastAt": 1758286174856,
+    "lastAt": 1758634443431,
     "urls": [
       "https://who.int/"
     ]
   },
   "adtrafficquality.google": {
-    "lastAt": 1758286176168,
+    "lastAt": 1758634444573,
     "urls": [
       "https://adtrafficquality.google/"
     ]
   },
   "facebook.net": {
-    "lastAt": 1758286179324,
+    "lastAt": 1758634447830,
     "urls": []
   },
   "samsungcloud.com": {
-    "lastAt": 1758286182324,
+    "lastAt": 1758634450878,
     "urls": []
   },
   "avast.com": {
-    "lastAt": 1758286188502,
+    "lastAt": 1758634456409,
     "urls": [
       "https://www.avast.com/cs-cz/about",
       "https://www.avast.com/ar-sa/about",
@@ -4112,21 +4162,31 @@
       "https://www.avast.com/es-mx/about",
       "https://www.avast.com/es-us/about",
       "https://www.avast.com/es-ww/about",
-      "https://www.avast.com/fi-fi/about"
+      "https://www.avast.com/fi-fi/about",
+      "https://www.avast.com/fr-fr/about",
+      "https://www.avast.com/he-il/about",
+      "https://www.avast.com/fr-ch/about",
+      "https://www.avast.com/fr-be/about",
+      "https://www.avast.com/fr-ca/about",
+      "https://www.avast.com/hi-in/about",
+      "https://www.avast.com/id-id/about",
+      "https://www.avast.com/hu-hu/about",
+      "https://www.avast.com/it-it/about",
+      "https://www.avast.co.jp/about"
     ]
   },
   "openx.net": {
-    "lastAt": 1758286189536,
+    "lastAt": 1758634457344,
     "urls": [
       "https://openx.net/"
     ]
   },
   "playstation.net": {
-    "lastAt": 1758286196665,
+    "lastAt": 1758634461086,
     "urls": []
   },
   "crashlytics.com": {
-    "lastAt": 1758286197977,
+    "lastAt": 1758634461993,
     "urls": [
       "https://crashlytics.com/"
     ]
