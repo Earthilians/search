@@ -37069,13 +37069,13 @@
     ]
   },
   "notion.site": {
-    "lastAt": 1758230486519,
+    "lastAt": 1758591845357,
     "urls": [
       "https://notion.site/"
     ]
   },
   "semanticscholar.org": {
-    "lastAt": 1758230493425,
+    "lastAt": 1758591852261,
     "urls": [
       "https://www.semanticscholar.org/author/R.-Gansevoort/51975835",
       "https://www.semanticscholar.org/author/W.-Markesbery/5599752",
@@ -37096,11 +37096,21 @@
       "https://www.semanticscholar.org/author/V.-Li/144354165",
       "https://www.semanticscholar.org/author/Galileo-Namata/1686834",
       "https://www.semanticscholar.org/author/A.-Gambardella/48660159",
-      "https://www.semanticscholar.org/author/B.-Mesi%C4%87/143859946"
+      "https://www.semanticscholar.org/author/B.-Mesi%C4%87/143859946",
+      "https://www.semanticscholar.org/author/Chi-Zhang/2115811672",
+      "https://www.semanticscholar.org/author/Gaohua-Wang/47226961",
+      "https://www.semanticscholar.org/author/L.-Pinna/2079990",
+      "https://www.semanticscholar.org/author/N.-Kiyotaki/3394188",
+      "https://www.semanticscholar.org/author/N.-Clarke/2315913",
+      "https://www.semanticscholar.org/author/T.-Peto/2474754",
+      "https://www.semanticscholar.org/author/A.-M.-Cauce/5438865",
+      "https://www.semanticscholar.org/author/S.-Vucetic/1729326",
+      "https://www.semanticscholar.org/author/V.-Guryev/3110179",
+      "https://www.semanticscholar.org/author/V.-Danos/1790936"
     ]
   },
   "ubisoft.com": {
-    "lastAt": 1758230498611,
+    "lastAt": 1758591857502,
     "urls": [
       "https://ubisoft.com/",
       "https://www.ubisoft.com/es-es/entertainment/film-tv/fellowship",
@@ -37121,11 +37131,21 @@
       "https://www.ubisoft.com/pt-br/entertainment/film-tv/fellowship",
       "https://www.ubisoft.com/de-de/game/trackmania/trackmania/tournament-license",
       "https://www.ubisoft.com/en-sg/entertainment/film-tv/fellowship",
-      "https://www.ubisoft.com/en-au/game/trackmania/trackmania/tournament-license"
+      "https://www.ubisoft.com/en-au/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/en-ca/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/en-us/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/es-mx/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/es-es/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/en-gb/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/fr-ca/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/pt-br/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/pl-pl/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/fr-fr/game/trackmania/trackmania/tournament-license",
+      "https://www.ubisoft.com/it-it/game/trackmania/trackmania/tournament-license"
     ]
   },
   "connectad.io": {
-    "lastAt": 1758230503526,
+    "lastAt": 1758591862561,
     "urls": [
       "https://connectad.io/",
       "https://connectad.io/blog/the-open-web-a-vital-counterbalance-to-the-disinformation-crisis/",
@@ -37146,17 +37166,27 @@
       "https://connectad.io/blog/the-rise-of-programmatic-curation-a-game-changer-for-digital-advertising/",
       "https://connectad.io/blog/6-trends-to-keep-on-your-radar-in-programmatic-advertising-for-2024/",
       "https://connectad.io/blog/cpm-vs-ecpm-vs-rpm-a-publishers-guide-through-the-alphabet-soup-of-the-advertising-industry/",
-      "https://connectad.io/blog/how-publishers-retain-full-control-over-their-inventory/"
+      "https://connectad.io/blog/how-publishers-retain-full-control-over-their-inventory/",
+      "https://connectad.io/blog/supplychain-object-why-your-sellers-json-needs-a-side-kick/",
+      "https://connectad.io/blog/in-the-blink-of-an-eye-the-life-of-a-programmatic-ad-impression/",
+      "https://connectad.io/blog/the-last-click-attribution-trap-why-its-misleading-and-how-to-fix-it/",
+      "https://connectad.io/blog/the-open-internet-is-dead-long-live-the-open-internet/",
+      "https://connectad.io/press-releases/connectad-launches-private-marketplace-to-promote-sustainable-publishers/",
+      "https://connectad.io/blog/spo-and-sustainability-why-looking-beyond-ads-txt-is-crucial/",
+      "https://connectad.io/blog/programmatic-efficiency-isnt-new-weve-been-doing-it-since-before-it-was-cool/",
+      "https://connectad.io/blog/quality-over-quantity-the-smarter-way-forward-for-publishers/",
+      "https://connectad.io/blog/decode-the-buzzwords-a-glossary-of-programmatic-advertising-terms/",
+      "https://connectad.io/blog/why-efficiency-matters-in-adtech/"
     ]
   },
   "macomnet.ru": {
-    "lastAt": 1758230506918,
+    "lastAt": 1758591865298,
     "urls": [
       "https://macomnet.ru/"
     ]
   },
   "nielsen.com": {
-    "lastAt": 1758230517996,
+    "lastAt": 1758591874208,
     "urls": [
       "https://www.nielsen.com/",
       "https://nielsen.com/",
@@ -37177,19 +37207,29 @@
       "https://www.nielsen.com/marketplace/",
       "https://www.nielsen.com/nielsen-marketplace-contact-us/",
       "https://www.nielsen.com/checkout/",
-      "https://www.nielsen.com/swiper-test/"
+      "https://www.nielsen.com/swiper-test/",
+      "https://www.nielsen.com/marketplace/diverse-audience/",
+      "https://www.nielsen.com/marketplace/sports-reports/",
+      "https://www.nielsen.com/insights/",
+      "https://www.nielsen.com/insights/2022/streaming-claims-more-than-one-third-of-total-tv-time-in-june-and-hits-fourth-straight-monthly-viewing-record/",
+      "https://www.nielsen.com/insights/2022/ota-ott-the-new-tv-bundle/",
+      "https://www.nielsen.com/womens-world-cup-2023-data-hub/",
+      "https://www.nielsen.com/insights/2022/ota-ott-the-new-tv-bundle_jp/",
+      "https://www.nielsen.com/insights/2022/streaming-usage-increases-21-in-a-year-to-now-account-for-nearly-one-third-of-total-tv-time/",
+      "https://www.nielsen.com/insights/2022/the-champions-league-how-media-rights-deals-are-shaping-the-global-soccer-landscape/",
+      "https://www.nielsen.com/insights/2022/how-to-comprehensively-understand-and-improve-the-effectiveness-of-tv-and-digital-advertising/"
     ]
   },
   "drupal.org": {
-    "lastAt": 1758230521972,
+    "lastAt": 1758591877912,
     "urls": []
   },
   "privacy-center.org": {
-    "lastAt": 1758230525357,
+    "lastAt": 1758591881137,
     "urls": []
   },
   "traffmonetizer.com": {
-    "lastAt": 1758230530031,
+    "lastAt": 1758591884527,
     "urls": [
       "https://traffmonetizer.com/unlock-the-secrets-to-making-money-from-home-without-any-investment/",
       "https://traffmonetizer.com/discover-how-to-earn-money-from-home-without-any-investment/",
@@ -37210,11 +37250,13 @@
       "https://traffmonetizer.com/downloads/",
       "https://traffmonetizer.com/for-developers/",
       "https://traffmonetizer.com/for-affiliates/",
-      "https://traffmonetizer.com/blog/"
+      "https://traffmonetizer.com/blog/",
+      "https://traffmonetizer.com/test-popup/",
+      "https://traffmonetizer.com/croc/"
     ]
   },
   "lg.com": {
-    "lastAt": 1758230621181,
+    "lastAt": 1758591946078,
     "urls": [
       "https://lg.com/",
       "https://www.lg.com/ae/65-inch-tvs",
@@ -37235,29 +37277,39 @@
       "https://www.lg.com/ae/about-lg/press-media/at-lg-future-talk-powered-by-ifa-lg-shows-how-ai-can-make-anywhere-feel-like-home",
       "https://www.lg.com/ae/about-lg/press-media/at-lg-customer-centricity-revolves-around-sustainability",
       "https://www.lg.com/ae/about-lg/press-media/be-productive-and-creative-with-lg-q-stylus",
-      "https://www.lg.com/ae/about-lg/press-media/beat-the-heat-lg-keeps-mea-cool-with-its-new-range-of-air-conditioners"
+      "https://www.lg.com/ae/about-lg/press-media/beat-the-heat-lg-keeps-mea-cool-with-its-new-range-of-air-conditioners",
+      "https://www.lg.com/ae/about-lg/press-media/beat-the-heat-this-summer-with-lgs-titan-air-conditioner",
+      "https://www.lg.com/ae/about-lg/press-media/capture-your-special-moments-this-eid-with-the-all-new-lg-g4-smartphone",
+      "https://www.lg.com/ae/about-lg/press-media/ces2017-lg-4k-blu-ray-player-release",
+      "https://www.lg.com/ae/about-lg/press-media/ces2017-lg-oled-tv-lineup",
+      "https://www.lg.com/ae/about-lg/press-media/ces2017-lg-robot-lineup-release",
+      "https://www.lg.com/ae/about-lg/press-media/ces-2017-lg-post-awards-release",
+      "https://www.lg.com/ae/about-lg/press-media/cloi-service-robot",
+      "https://www.lg.com/ae/about-lg/press-media/connectivity-is-key-to-ultimate-convenience-when-it-comes-to-lg-appliances-in-the-kitchen",
+      "https://www.lg.com/ae/about-lg/press-media/consumer-empowerment-lg-building-a-smarter-future",
+      "https://www.lg.com/ae/about-lg/press-media/constructing-house-of-cards-on-running-washing-machine-earns-lg-prestigious-industry-award"
     ]
   },
   "slgnt.eu": {
-    "lastAt": 1758230625008,
+    "lastAt": 1758591949426,
     "urls": []
   },
   "congress.gov": {
-    "lastAt": 1758230629304,
+    "lastAt": 1758591953382,
     "urls": []
   },
   "epluscdn.com": {
-    "lastAt": 1758230633375,
+    "lastAt": 1758591957008,
     "urls": []
   },
   "yammer.com": {
-    "lastAt": 1758230633719,
+    "lastAt": 1758591957496,
     "urls": [
       "https://yammer.com/"
     ]
   },
   "google.pl": {
-    "lastAt": 1758230635341,
+    "lastAt": 1758591958634,
     "urls": [
       "https://google.pl/",
       "https://www.google.com/intl/tr/gmail/about/policy/",
@@ -37272,7 +37324,7 @@
     ]
   },
   "dns.pt": {
-    "lastAt": 1758230640496,
+    "lastAt": 1758591963233,
     "urls": [
       "https://dns.pt/pt/procurar/",
       "https://dns.pt/en/search/",
@@ -37293,21 +37345,31 @@
       "https://dns.pt/pt/perguntas-frequentes/nic-handles-e-contas-de-utilizador/",
       "https://dns.pt/en/faq/mfa-multifactor-authentication/",
       "https://dns.pt/pt/perguntas-frequentes/mfa-autenticacao-multifactor/",
-      "https://dns.pt/en/faq/whois/"
+      "https://dns.pt/en/faq/whois/",
+      "https://dns.pt/en/faq/statuses-in-the-pt-system/",
+      "https://dns.pt/pt/perguntas-frequentes/whois/",
+      "https://dns.pt/pt/perguntas-frequentes/estados-no-sistema-do-pt/",
+      "https://dns.pt/en/contacts/",
+      "https://dns.pt/pt/contactos/",
+      "https://dns.pt/en/pt/",
+      "https://dns.pt/pt/pt/",
+      "https://dns.pt/en/domain/",
+      "https://dns.pt/pt/dominio/",
+      "https://dns.pt/en/registrar/"
     ]
   },
   "tmall.com": {
-    "lastAt": 1758230643687,
+    "lastAt": 1758591966587,
     "urls": [
       "https://tmall.com/"
     ]
   },
   "meta.com": {
-    "lastAt": 1758230649610,
+    "lastAt": 1758591971391,
     "urls": []
   },
   "kochava.com": {
-    "lastAt": 1758230659112,
+    "lastAt": 1758591979015,
     "urls": [
       "https://www.kochava.com/blog/",
       "https://kochava.com/",
@@ -37327,21 +37389,29 @@
       "https://www.kochava.com/blog/exclusive-kochava-and-fetch-partner-on-streaming-rewards-program-loyalty/",
       "https://www.kochava.com/blog/mmm-101-what-is-marketing-mix-modeling/",
       "https://www.kochava.com/blog/fetch-and-kochava-partner-to-introduce-performance-based-rewards-solution-for-streaming-services/",
-      "https://www.kochava.com/blog/fetch-kochava-launch-loyalty-programme/"
+      "https://www.kochava.com/blog/fetch-kochava-launch-loyalty-programme/",
+      "https://www.kochava.com/blog/ad-veteran-peter-naylor-joins-kochava-board-and-sees-opportunity-in-market-flux/",
+      "https://www.kochava.com/blog/tiktok-media-mix-modeling-badge/",
+      "https://www.kochava.com/blog/apple-search-ads-now-apple-ads/",
+      "https://www.kochava.com/blog/kochava-welcomes-renowned-media-executive-peter-naylor-to-board-of-directors/",
+      "https://www.kochava.com/blog/peter-naylor-says-upfronts-are-evolving-not-going-away/",
+      "https://www.kochava.com/blog/beyond-the-click-mobile-retargeting-reality-check/",
+      "https://www.kochava.com/blog/apple-search-ads-skadnetwork-registration/",
+      "https://www.kochava.com/blog/kochava-product-partnership-updates-bulletin-q1-2025/"
     ]
   },
   "emxdgt.com": {
-    "lastAt": 1758230660418,
+    "lastAt": 1758591980010,
     "urls": [
       "https://emxdgt.com/"
     ]
   },
   "drmgms.com": {
-    "lastAt": 1758230663950,
+    "lastAt": 1758591983209,
     "urls": []
   },
   "nodejs.org": {
-    "lastAt": 1758230666155,
+    "lastAt": 1758591984892,
     "urls": [
       "https://nodejs.org/",
       "https://nodejs.org/en/eol",
@@ -37362,41 +37432,51 @@
       "https://nodejs.org/en/learn/migrations/introduction",
       "https://nodejs.org/en/learn/modules/publishing-a-package",
       "https://nodejs.org/en/learn/manipulating-files/nodejs-file-paths",
-      "https://nodejs.org/en/learn/manipulating-files/nodejs-file-stats"
+      "https://nodejs.org/en/learn/manipulating-files/nodejs-file-stats",
+      "https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs",
+      "https://nodejs.org/en/learn/manipulating-files/reading-files-with-nodejs",
+      "https://nodejs.org/en/learn/manipulating-files/working-with-file-descriptors-in-nodejs",
+      "https://nodejs.org/en/learn/manipulating-files/working-with-folders-in-nodejs",
+      "https://nodejs.org/en/learn/manipulating-files/working-with-different-filesystems",
+      "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+      "https://nodejs.org/en/learn/getting-started/debugging",
+      "https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser",
+      "https://nodejs.org/en/learn/getting-started/ecmascript-2015-es6-and-beyond",
+      "https://nodejs.org/en/learn/getting-started/fetch"
     ]
   },
   "ubc.ca": {
-    "lastAt": 1758230667456,
+    "lastAt": 1758591986035,
     "urls": [
       "https://ubc.ca/"
     ]
   },
   "disney.com": {
-    "lastAt": 1758230671159,
+    "lastAt": 1758591989572,
     "urls": []
   },
   "perplexity.ai": {
-    "lastAt": 1758230678362,
+    "lastAt": 1758591996066,
     "urls": []
   },
   "p-cdn.us": {
-    "lastAt": 1758230681467,
+    "lastAt": 1758591999026,
     "urls": []
   },
   "crowsember.com": {
-    "lastAt": 1758230684806,
+    "lastAt": 1758592002314,
     "urls": []
   },
   "thewsoral.com": {
-    "lastAt": 1758230688199,
+    "lastAt": 1758592005652,
     "urls": []
   },
   "dnse1.com": {
-    "lastAt": 1758233885970,
+    "lastAt": 1758592009333,
     "urls": []
   },
   "cedexis-radar.net": {
-    "lastAt": 1758233888958,
+    "lastAt": 1758592012374,
     "urls": []
   },
   "ably.io": {
