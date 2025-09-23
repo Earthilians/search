@@ -808,7 +808,7 @@
     ]
   },
   "adobe.com": {
-    "lastAt": 1758263683633,
+    "lastAt": 1758612227116,
     "urls": [
       "https://adobe.com/",
       "https://www.adobe.com/ie/metaverse.html",
@@ -828,11 +828,16 @@
       "https://www.adobe.com/no/creativecloud/plans.html",
       "https://www.adobe.com/au/metaverse.html",
       "https://www.adobe.com/fr/metaverse.html",
-      "https://www.adobe.com/at/creativecloud/plans.html"
+      "https://www.adobe.com/at/creativecloud/plans.html",
+      "https://www.adobe.com/sk/creativecloud/plans.html",
+      "https://www.adobe.com/no/products/catalog.html",
+      "https://www.adobe.com/ie/creativecloud/plans.html",
+      "https://www.adobe.com/africa/metaverse.html",
+      "https://www.adobe.com/th_en/metaverse.html"
     ]
   },
   "spotify.com": {
-    "lastAt": 1758263694263,
+    "lastAt": 1758612231193,
     "urls": [
       "https://www.spotify.com/us/signup",
       "https://www.spotify.com/ae-en/signup",
@@ -863,11 +868,21 @@
       "https://www.spotify.com/al/select-your-country-region/",
       "https://www.spotify.com/am/select-your-country-region/",
       "https://www.spotify.com/ao-pt/select-your-country-region/",
-      "https://www.spotify.com/ao-en/select-your-country-region/"
+      "https://www.spotify.com/ao-en/select-your-country-region/",
+      "https://www.spotify.com/bd-bn/signup",
+      "https://www.spotify.com/be-nl/signup",
+      "https://www.spotify.com/bf-en/signup",
+      "https://www.spotify.com/bf-fr/signup",
+      "https://www.spotify.com/be-fr/signup",
+      "https://www.spotify.com/bg-bg/signup",
+      "https://www.spotify.com/bg-en/signup",
+      "https://www.spotify.com/bh-en/signup",
+      "https://www.spotify.com/bh-ar/signup",
+      "https://www.spotify.com/bi-fr/signup"
     ]
   },
   "vimeo.com": {
-    "lastAt": 1758263697908,
+    "lastAt": 1758612235369,
     "urls": [
       "https://vimeo.com/",
       "https://vimeo.com/blog",
@@ -898,15 +913,25 @@
       "https://vimeo.com/blog/author/blakewhitman",
       "https://vimeo.com/blog/author/brad",
       "https://vimeo.com/blog/author/bpark",
-      "https://vimeo.com/blog/author/caitland"
+      "https://vimeo.com/blog/author/caitland",
+      "https://vimeo.com/blog/author/caroline-mwaura",
+      "https://vimeo.com/blog/author/carolineharris",
+      "https://vimeo.com/blog/author/calexis",
+      "https://vimeo.com/blog/author/candacewilliams",
+      "https://vimeo.com/blog/author/camillesafadi",
+      "https://vimeo.com/blog/author/caseypu",
+      "https://vimeo.com/blog/author/cbhughes",
+      "https://vimeo.com/blog/author/charlieungashick",
+      "https://vimeo.com/blog/author/cestchristine",
+      "https://vimeo.com/blog/author/chriskurdziel"
     ]
   },
   "ln-msedge.net": {
-    "lastAt": 1758263700836,
+    "lastAt": 1758612238233,
     "urls": []
   },
   "tiktok.com": {
-    "lastAt": 1758263708956,
+    "lastAt": 1758612240901,
     "urls": [
       "https://www.tiktok.com/following",
       "https://www.tiktok.com/about",
@@ -934,37 +959,46 @@
       "https://www.tiktok.com/safety/en-sg",
       "https://www.tiktok.com/safety/resources/tiktok-transparency-report-2021-h-1",
       "https://www.tiktok.com/safety/resources/transparency-report-2020-2",
-      "https://www.tiktok.com/legal/open-source"
+      "https://www.tiktok.com/legal/open-source",
+      "https://www.tiktok.com/creators/creator-portal/en-us",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/tiktok-creation-essentials",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/getting-started-on-tiktok",
+      "https://www.tiktok.com/legal/virtual-items",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/tiktok-content-strategy",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/foundations-for-success",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/community-guidelines-and-safety",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/getting-paid-to-create",
+      "https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/qa-engaging-with-your-community/"
     ]
   },
   "cloudfront.net": {
-    "lastAt": 1758263711919,
+    "lastAt": 1758612243961,
     "urls": []
   },
   "tiktokv.com": {
-    "lastAt": 1758263716958,
+    "lastAt": 1758612248198,
     "urls": []
   },
   "x.com": {
-    "lastAt": 1758263717895,
+    "lastAt": 1758612249057,
     "urls": [
       "https://x.com/"
     ]
   },
   "gvt2.com": {
-    "lastAt": 1758263720892,
+    "lastAt": 1758612252006,
     "urls": []
   },
   "gvt1.com": {
-    "lastAt": 1758263723940,
+    "lastAt": 1758612254954,
     "urls": []
   },
   "akam.net": {
-    "lastAt": 1758263726831,
+    "lastAt": 1758612258301,
     "urls": []
   },
   "gandi.net": {
-    "lastAt": 1758263730373,
+    "lastAt": 1758612261202,
     "urls": [
       "https://www.gandi.net/en",
       "https://www.gandi.net/en/simple-hosting/wordpress",
@@ -995,49 +1029,59 @@
       "https://www.gandi.net/en/domain/tld?prefix=s",
       "https://www.gandi.net/en/domain/tld?prefix=t",
       "https://www.gandi.net/en/domain/tld?prefix=u",
-      "https://www.gandi.net/en/domain/tld?prefix=q"
+      "https://www.gandi.net/en/domain/tld?prefix=q",
+      "https://www.gandi.net/en-US",
+      "https://www.gandi.net/en-US/simple-hosting/prestashop",
+      "https://www.gandi.net/en-US/simple-hosting/wordpress",
+      "https://www.gandi.net/en-US/simple-hosting/nextcloud",
+      "https://www.gandi.net/en-US/simple-hosting",
+      "https://www.gandi.net/en-US/domain/email",
+      "https://www.gandi.net/en-US/domain",
+      "https://www.gandi.net/en-US/domain/tld",
+      "https://www.gandi.net/en-US/domain/tld?prefix=a",
+      "https://www.gandi.net/en-US/domain/tld?prefix=b"
     ]
   },
   "a-msedge.net": {
-    "lastAt": 1758263733303,
+    "lastAt": 1758612264083,
     "urls": []
   },
   "bit.ly": {
-    "lastAt": 1758263754469,
+    "lastAt": 1758612285487,
     "urls": [
       "https://bit.ly/"
     ]
   },
   "ytimg.com": {
-    "lastAt": 1758263757411,
+    "lastAt": 1758612288426,
     "urls": []
   },
   "office365.com": {
-    "lastAt": 1758263820535,
+    "lastAt": 1758612351320,
     "urls": []
   },
   "edgekey.net": {
-    "lastAt": 1758263823462,
+    "lastAt": 1758612354368,
     "urls": []
   },
   "nic.ru": {
-    "lastAt": 1758263826454,
+    "lastAt": 1758612356877,
     "urls": [
       "https://nic.ru/"
     ]
   },
   "cloudflare.net": {
-    "lastAt": 1758263829527,
+    "lastAt": 1758612359903,
     "urls": []
   },
   "yandex.net": {
-    "lastAt": 1758263833188,
+    "lastAt": 1758612363036,
     "urls": [
       "https://yandex.net/"
     ]
   },
   "qq.com": {
-    "lastAt": 1758263839740,
+    "lastAt": 1758612369199,
     "urls": [
       "https://news.qq.com/rain/a/20250911V03ELI00",
       "https://news.qq.com/rain/a/20250911V039BM00",
@@ -1068,11 +1112,21 @@
       "https://news.qq.com/rain/a/20250906V06WQQ00",
       "https://news.qq.com/rain/a/20250912A063F600",
       "https://news.qq.com/rain/a/20250919A04VM300",
-      "https://news.qq.com/rain/a/20250919V04UKV00"
+      "https://news.qq.com/rain/a/20250919V04UKV00",
+      "https://news.qq.com/rain/a/20250923V04MWH00",
+      "https://news.qq.com/rain/a/20250923V04LQ400",
+      "https://news.qq.com/rain/a/20250923V04LK200",
+      "https://news.qq.com/rain/a/20250923V04KX600",
+      "https://news.qq.com/rain/a/20250923V04MNH00",
+      "https://news.qq.com/rain/a/20250923V04LU200",
+      "https://news.qq.com/rain/a/20250923V04MTK00",
+      "https://news.qq.com/rain/a/20250923V04MUH00",
+      "https://news.qq.com/rain/a/20250923A04MTZ00",
+      "https://news.qq.com/rain/a/20250923A04LJ700"
     ]
   },
   "wordpress.com": {
-    "lastAt": 1758263843580,
+    "lastAt": 1758612374322,
     "urls": [
       "https://wordpress.com/",
       "https://gd.wordpress.com/",
@@ -1103,11 +1157,21 @@
       "https://wordpress.com/100-year/",
       "https://wordpress.com/business-name-generator/",
       "https://wordpress.com/business/",
-      "https://wordpress.com/bigsky/"
+      "https://wordpress.com/bigsky/",
+      "https://wordpress.com/hire-an-expert/",
+      "https://wordpress.com/start-with-square/",
+      "https://wordpress.com/th-pricing/",
+      "https://wordpress.com/nb-pricing/",
+      "https://wordpress.com/pl-pricing/",
+      "https://wordpress.com/ai-website-builder/",
+      "https://wordpress.com/ecommerce/",
+      "https://wordpress.com/social-web/",
+      "https://wordpress.com/domain-registration-data-disclosure-policy/",
+      "https://wordpress.com/ro-pricing/"
     ]
   },
   "zoom.us": {
-    "lastAt": 1758263846194,
+    "lastAt": 1758612376526,
     "urls": [
       "https://zoom.us/download",
       "https://zoom.us/join",
@@ -1138,11 +1202,21 @@
       "https://zoom.us/es/pricing/zoom-phone",
       "https://zoom.us/es/pricing/zoom-contact-center",
       "https://zoom.us/es/pricing/zoom-rooms",
-      "https://zoom.us/es/pricing/developer"
+      "https://zoom.us/es/pricing/developer",
+      "https://zoom.us/fr/pricing/events",
+      "https://zoom.us/fr/pricing/healthcare",
+      "https://zoom.us/fr/pricing/zoom-contact-center",
+      "https://zoom.us/fr/pricing/education",
+      "https://zoom.us/fr/pricing",
+      "https://zoom.us/fr/pricing/zoom-phone",
+      "https://zoom.us/fr/signin",
+      "https://zoom.us/fr/pricing/zoom-rooms",
+      "https://zoom.us/fr/signup",
+      "https://zoom.us/fr/test"
     ]
   },
   "opera.com": {
-    "lastAt": 1758263850237,
+    "lastAt": 1758612384493,
     "urls": [
       "https://www.opera.com/",
       "https://www.opera.com/features",
@@ -1173,35 +1247,45 @@
       "https://www.opera.com/es/features/bookmarks",
       "https://www.opera.com/pt-br/features/bookmarks",
       "https://www.opera.com/fr/features/bookmarks",
-      "https://www.opera.com/pt/features/bookmarks"
+      "https://www.opera.com/pt/features/bookmarks",
+      "https://www.opera.com/ru/features/bookmarks",
+      "https://www.opera.com/ko/features/bookmarks",
+      "https://www.opera.com/tr/features/bookmarks",
+      "https://www.opera.com/it/features/bookmarks",
+      "https://www.opera.com/id/features/bookmarks",
+      "https://www.opera.com/ja/features/bookmarks",
+      "https://www.opera.com/vi/features/bookmarks",
+      "https://www.opera.com/nb/features/bookmarks",
+      "https://www.opera.com/uk/features/bookmarks",
+      "https://www.opera.com/zh-cn/features/bookmarks"
     ]
   },
   "samsung.com": {
-    "lastAt": 1758263917026,
+    "lastAt": 1758612444621,
     "urls": [
       "https://samsung.com/"
     ]
   },
   "google-analytics.com": {
-    "lastAt": 1758263917933,
+    "lastAt": 1758612445490,
     "urls": [
       "https://google-analytics.com/"
     ]
   },
   "baidu.com": {
-    "lastAt": 1758263921304,
+    "lastAt": 1758612450210,
     "urls": [
       "https://baidu.com/"
     ]
   },
   "cloudflare-dns.com": {
-    "lastAt": 1758263922326,
+    "lastAt": 1758612451180,
     "urls": [
       "https://cloudflare-dns.com/"
     ]
   },
   "windows.com": {
-    "lastAt": 1758263926163,
+    "lastAt": 1758612453343,
     "urls": [
       "https://www.microsoft.com/en-us/windows/apps-for-windows",
       "https://www.microsoft.com/en-us/windows/ai-features",
@@ -1232,11 +1316,21 @@
       "https://www.microsoft.com/en-us/windows/paint",
       "https://www.microsoft.com/en-us/windows/laptop-buying-guide",
       "https://www.microsoft.com/en-us/windows/transfer-your-data-with-windows-backup",
-      "https://www.microsoft.com/en-us/windows/tips/snipping-tool"
+      "https://www.microsoft.com/en-us/windows/tips/snipping-tool",
+      "https://www.microsoft.com/en-us/windows/tips/clipboard-history",
+      "https://www.microsoft.com/en-us/windows/tips/multiple-desktops",
+      "https://www.microsoft.com/en-us/windows/tips/accessibility-settings",
+      "https://www.microsoft.com/en-us/windows/tips/widgets",
+      "https://www.microsoft.com/en-us/windows/tips/snap",
+      "https://www.microsoft.com/en-us/windows/tips/windows-hello",
+      "https://www.microsoft.com/en-us/windows/tips/photos-app",
+      "https://www.microsoft.com/en-us/windows/tips/voice",
+      "https://www.microsoft.com/en-us/windows/tips/touch",
+      "https://www.microsoft.com/en-us/windows/tips/clipchamp"
     ]
   },
   "nginx.org": {
-    "lastAt": 1758263933880,
+    "lastAt": 1758612459992,
     "urls": [
       "https://nginx.org/"
     ]
