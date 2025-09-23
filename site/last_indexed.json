@@ -4856,11 +4856,11 @@
     ]
   },
   "clarity.ms": {
-    "lastAt": 1758295469650,
+    "lastAt": 1758644942032,
     "urls": []
   },
   "php.net": {
-    "lastAt": 1758295474842,
+    "lastAt": 1758644947584,
     "urls": [
       "https://php.net/",
       "http://php.net/archive/",
@@ -4890,21 +4890,30 @@
       "http://php.net/mirroring.php",
       "http://php.net/my.php",
       "http://php.net/privacy.php",
-      "http://php.net/quickref.php"
+      "http://php.net/quickref.php",
+      "http://php.net/releases/",
+      "http://php.net/sitemap.php",
+      "http://php.net/security-note.php",
+      "http://php.net/security/",
+      "http://php.net/sites.php",
+      "http://php.net/software.php",
+      "http://php.net/support.php",
+      "http://php.net/thanks.php",
+      "http://php.net/unsub.php"
     ]
   },
   "ys7.com": {
-    "lastAt": 1758295479110,
+    "lastAt": 1758644952013,
     "urls": [
       "https://ys7.com/"
     ]
   },
   "reuters.com": {
-    "lastAt": 1758295490797,
+    "lastAt": 1758644964837,
     "urls": []
   },
   "opendns.com": {
-    "lastAt": 1758295493060,
+    "lastAt": 1758644967182,
     "urls": [
       "https://www.opendns.com/",
       "https://www.opendns.com/opendns-smartcache/",
@@ -4927,7 +4936,7 @@
     ]
   },
   "ea.com": {
-    "lastAt": 1758295503061,
+    "lastAt": 1758644971332,
     "urls": [
       "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/efl",
       "https://www.ea.com/ar-sa/games/fifa/fifa-23/ultimate-team/tots/mode-reward-changes",
@@ -4947,26 +4956,36 @@
       "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/buy",
       "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/disclaimers",
       "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/faq",
-      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/community"
+      "https://www.ea.com/ar-sa/games/battlefield/battlefield-2042/community",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/ones-to-watch",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/road-to-the-final",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/features",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/future-stars",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/super-lig",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/saudi-pro-league",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/la-liga-santander",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/efl",
+      "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/liga-nos"
     ]
   },
   "bidswitch.net": {
-    "lastAt": 1758295506307,
+    "lastAt": 1758644974626,
     "urls": []
   },
   "allawnos.com": {
-    "lastAt": 1758295509602,
+    "lastAt": 1758644977846,
     "urls": []
   },
   "go.com": {
-    "lastAt": 1758295510681,
+    "lastAt": 1758644978838,
     "urls": [
       "https://www.go.com/",
       "https://go.com/"
     ]
   },
   "dailymotion.com": {
-    "lastAt": 1758295515753,
+    "lastAt": 1758644984351,
     "urls": [
       "https://www.dailymotion.com/video/x8jggli",
       "https://www.dailymotion.com/video/x8q3dek",
@@ -4997,11 +5016,21 @@
       "https://www.dailymotion.com/video/x8yd3ti",
       "https://www.dailymotion.com/video/x8yafa4",
       "https://www.dailymotion.com/video/x8yiweu",
-      "https://www.dailymotion.com/video/x8yiwf4"
+      "https://www.dailymotion.com/video/x8yiwf4",
+      "https://www.dailymotion.com/video/x8guom8",
+      "https://www.dailymotion.com/video/x8orvpk",
+      "https://www.dailymotion.com/video/x8te9p0",
+      "https://www.dailymotion.com/video/x8te9p6",
+      "https://www.dailymotion.com/video/x8te9p4",
+      "https://www.dailymotion.com/video/x8te9pa",
+      "https://www.dailymotion.com/video/x8wnrm2",
+      "https://www.dailymotion.com/video/x8wnrm6",
+      "https://www.dailymotion.com/video/x8y6zm2",
+      "https://www.dailymotion.com/video/x8y6zm6"
     ]
   },
   "booking.com": {
-    "lastAt": 1758295521209,
+    "lastAt": 1758644990220,
     "urls": [
       "https://booking.com/",
       "https://www.booking.com/airport/us/ord.vi.html",
@@ -5032,11 +5061,21 @@
       "https://www.booking.com/airport/us/dfw.id.html",
       "https://www.booking.com/airport/fr/cdg.id.html",
       "https://www.booking.com/airport/nl/ams.id.html",
-      "https://www.booking.com/airport/us/den.id.html"
+      "https://www.booking.com/airport/us/den.id.html",
+      "https://www.booking.com/airport/us/ord.bg.html",
+      "https://www.booking.com/airport/us/atl.bg.html",
+      "https://www.booking.com/airport/us/lax.bg.html",
+      "https://www.booking.com/airport/gb/lhr.bg.html",
+      "https://www.booking.com/airport/jp/hnd.bg.html",
+      "https://www.booking.com/airport/us/dfw.bg.html",
+      "https://www.booking.com/airport/fr/cdg.bg.html",
+      "https://www.booking.com/airport/de/fra.bg.html",
+      "https://www.booking.com/airport/nl/ams.bg.html",
+      "https://www.booking.com/airport/us/den.bg.html"
     ]
   },
   "aol.com": {
-    "lastAt": 1758295525779,
+    "lastAt": 1758644995808,
     "urls": [
       "https://aol.com/",
       "https://www.aol.com/article/entertainment/2018/06/14/world-cup-robbie-williams-flips-off-the-camera-at-the-opening-ceremony/23459343/",
@@ -5067,21 +5106,31 @@
       "https://www.aol.com/2011/06/20/cruisers-choice-awards-cruise-critic-survey-ranks-top-vacation/",
       "https://www.aol.com/2013/07/03/disney-wants-its-heroes-back-from-viacom/",
       "https://www.aol.com/article/2015/11/22/7-secrets-that-will-make-you-much-more-likable/21270861/",
-      "https://www.aol.com/article/news/2019/09/06/trophy-hunter-can-import-rare-black-rhinos-remains-says-trump-admin/23808309/"
+      "https://www.aol.com/article/news/2019/09/06/trophy-hunter-can-import-rare-black-rhinos-remains-says-trump-admin/23808309/",
+      "https://www.aol.com/2010/09/10/5-tips-for-students-and-parents-on-insurance-at-col/",
+      "https://www.aol.com/article/news/2017/07/05/charlie-gard-popes-hospital-offers-take-in-terminally-ill-baby/23017143/",
+      "https://www.aol.com/article/news/2020/09/30/sports-world-frustrated-urging-people-to-vote-on-social-media-after-first-presidential-debate/24635331/",
+      "https://www.aol.com/2012/03/21/elvis-bagged-graceland-for-1-000-down-just-over-55-years-ago/",
+      "https://www.aol.com/article/entertainment/2018/08/24/kirstie-alley-i-wanted-to-have-an-affair-with-patrick-swayze/23508811/",
+      "https://www.aol.com/2013/05/07/motorola-solutions-declares-quarterly-dividend/",
+      "https://www.aol.com/2012/06/26/why-chimeras-looking-lackluster-in-2012/",
+      "https://www.aol.com/2013/09/10/semtech-enables-the-future-of-video-transport-with/",
+      "https://www.aol.com/2013/03/27/1st-source-bank-named-to-bank-director-magazine-ni/",
+      "https://www.aol.com/article/news/2018/04/23/capitals-eliminate-blue-jackets-with-game-6-win/23418582/"
     ]
   },
   "smartadserver.com": {
-    "lastAt": 1758295526676,
+    "lastAt": 1758644996520,
     "urls": [
       "https://smartadserver.com/"
     ]
   },
   "douyincdn.com": {
-    "lastAt": 1758295530303,
+    "lastAt": 1758645000090,
     "urls": []
   },
   "forter.com": {
-    "lastAt": 1758295543375,
+    "lastAt": 1758645017321,
     "urls": [
       "https://www.forter.com/blog/",
       "https://www.forter.com/blog/2015-03-the-post-emv-fraud-tsunami-101-guide-for-online-retailers/",
@@ -5112,69 +5161,79 @@
       "https://www.forter.com/blog/ecommerce-fraud-protection-data-domestic-fraud-ato-are-up/",
       "https://www.forter.com/blog/customers-choose-forter-best-mobile-fraud-prevention-and-heres-why/",
       "https://www.forter.com/blog/ecommerce-fraud-protection-and-refugee-flights/",
-      "https://www.forter.com/blog/mothers-day-and-online-fraud-detection/"
+      "https://www.forter.com/blog/mothers-day-and-online-fraud-detection/",
+      "https://www.forter.com/blog/why-you-should-disrupt-your-thinking-on-ecommerce-fraud-protection/",
+      "https://www.forter.com/blog/equifax-e-commerce-and-what-it-means-for-online-fraud-attacks/",
+      "https://www.forter.com/blog/students-are-mobile-your-back-to-school-strategy-needs-mobile-fraud-protection/",
+      "https://www.forter.com/blog/the-2017-fraudster-wish-list-holiday-fraud-attack/",
+      "https://www.forter.com/blog/mobile-commerce-means-mobile-fraud/",
+      "https://www.forter.com/blog/handling-the-holiday-hurry-ecommerce-fraud-prevention/",
+      "https://www.forter.com/blog/new-year-new-fraud-solution/",
+      "https://www.forter.com/blog/forters-2017-best-of-edition/",
+      "https://www.forter.com/blog/mobile-is-the-word/",
+      "https://www.forter.com/blog/valentines-day-flavors-of-fraud/"
     ]
   },
   "debian.org": {
-    "lastAt": 1758295544392,
+    "lastAt": 1758645019282,
     "urls": [
       "https://debian.org/"
     ]
   },
   "akamaihd.net": {
-    "lastAt": 1758295547524,
+    "lastAt": 1758645022443,
     "urls": []
   },
   "lijit.com": {
-    "lastAt": 1758295548449,
+    "lastAt": 1758645023386,
     "urls": [
       "https://lijit.com/"
     ]
   },
   "netflix.net": {
-    "lastAt": 1758295556507,
+    "lastAt": 1758645031421,
     "urls": []
   },
   "tiktokcdn-eu.com": {
-    "lastAt": 1758295559561,
+    "lastAt": 1758645034610,
     "urls": []
   },
   "nstld.com": {
-    "lastAt": 1758295562555,
+    "lastAt": 1758645037646,
     "urls": []
   },
   "googletagservices.com": {
-    "lastAt": 1758295565492,
+    "lastAt": 1758645040566,
     "urls": []
   },
   "huawei.com": {
-    "lastAt": 1758295571526,
+    "lastAt": 1758645046612,
     "urls": []
   },
   "nease.net": {
-    "lastAt": 1758295630384,
+    "lastAt": 1758645105469,
     "urls": []
   },
   "weibo.com": {
-    "lastAt": 1758295632021,
+    "lastAt": 1758645107193,
     "urls": [
       "https://weibo.com/"
     ]
   },
   "fastly-edge.com": {
-    "lastAt": 1758295635127,
+    "lastAt": 1758645110100,
     "urls": []
   },
   "autodesk.com": {
-    "lastAt": 1758299231281,
+    "lastAt": 1758645113491,
     "urls": []
   },
   "vedsalb.com": {
-    "lastAt": 1758299235873,
+    "lastAt": 1758645118757,
     "urls": []
   },
   "wiley.com": {
-    "lastAt": 1758299240397,
+    "lastAt": 1758645122226,
     "urls": [
       "https://www.wiley.com/en-us/Herding+Chickens%3A+Innovative+Techniques+for+Project+Management-p-9780782150575",
       "https://wiley.com/",
@@ -5205,11 +5264,21 @@
       "https://www.wiley.com/en-us/Big+Picture+Strategy%3A+The+Six+Choices+That+Will+Transform+Your+Business-p-9781119712077",
       "https://www.wiley.com/en-us/Leading+Change%3A+Overcoming+the+Ideology+of+Comfort+and+the+Tyranny+of+Custom-p-9781555426088",
       "https://www.wiley.com/en-us/Budgeting%3A+Technology%2C+Trends%2C+Software+Selection%2C+and+Implementation-p-9780471392071",
-      "https://www.wiley.com/en-us/Children's+Nursing+in+Practice%3A+The+Nottingham+Model-p-9780632039098"
+      "https://www.wiley.com/en-us/Children's+Nursing+in+Practice%3A+The+Nottingham+Model-p-9780632039098",
+      "https://www.wiley.com/en-us/Borderline+Personality+Disorder+For+Dummies%2C+2nd+Edition-p-9781119714354",
+      "https://www.wiley.com/en-us/Conservation%3A+Replacing+Quantity+with+Quality+as+a+Goal+for+Global+Management-p-9780471595151",
+      "https://www.wiley.com/en-us/Freshwater+Ecology%3A+A+Scientific+Introduction-p-9781444311136",
+      "https://www.wiley.com/en-us/Clinical+Examination+of+Farm+Animals-p-9781405147392",
+      "https://www.wiley.com/en-us/Making+Groups+Effective%2C+2nd+Edition-p-9780787900090",
+      "https://www.wiley.com/en-us/Fractal-Based+Point+Processes-p-9780471754701",
+      "https://www.wiley.com/en-us/Philosophy+of+Social+Science%3A+The+Methods%2C+Ideals+and+Politics+of+Social+Inquiry-p-9780631190424",
+      "https://www.wiley.com/en-us/Materials+and+Equipment+-+Whitewares%2C+Volume+1%2C+Issue+9%2F10-p-9780470291450",
+      "https://www.wiley.com/en-us/Global+Challenges%3A+War%2C+Self-Determination+and+Responsibility+for+Justice-p-9780745638355",
+      "https://www.wiley.com/en-us/The+Project+Manager's+MBA%3A+How+to+Translate+Project+Decisions+into+Business+Success-p-9780787958572"
     ]
   },
   "nature.com": {
-    "lastAt": 1758299246572,
+    "lastAt": 1758645126660,
     "urls": [
       "https://www.nature.com/articles/s41387-025-00388-5",
       "https://www.nature.com/articles/s41387-025-00386-7",
@@ -5240,7 +5309,17 @@
       "https://www.nature.com/subjects/actuators",
       "https://www.nature.com/subjects/acute-inflammation",
       "https://www.nature.com/subjects/acute-inflammatory-arthritis",
-      "https://www.nature.com/subjects/acute-kidney-injury"
+      "https://www.nature.com/subjects/acute-kidney-injury",
+      "https://www.nature.com/subjects/acute-myeloid-leukaemia",
+      "https://www.nature.com/subjects/adaptive-immunity",
+      "https://www.nature.com/subjects/acute-lymphocytic-leukaemia",
+      "https://www.nature.com/subjects/adaptive-designs",
+      "https://www.nature.com/subjects/acute-pancreatitis",
+      "https://www.nature.com/subjects/adaptive-optics",
+      "https://www.nature.com/subjects/adaptive-radiation",
+      "https://www.nature.com/subjects/addiction",
+      "https://www.nature.com/subjects/adenovirus",
+      "https://www.nature.com/subjects/adherens-junctions"
     ]
   },
   "appcenter.ms": {

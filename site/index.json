@@ -190860,5 +190860,558 @@
     "title": "Innovative education and student support | UCL 2034 - UCL – University College London",
     "description": "We inspire our students at every stage of their UCL careers and equip them with the knowledge and sk",
     "text": "UCL 2034\nOne of our recent scholars was chemistry student Eleanor Smith, who supervised by Professor"
+  },
+  {
+    "id": "ba038957de37eccc5348afbae8e8cb785b30f868",
+    "url": "http://php.net/releases/",
+    "title": "PHP: Releases",
+    "description": "",
+    "text": "We have collected all the official information and code available for\n past PHP releases. You can fi"
+  },
+  {
+    "id": "08c4f67a0b639eb196a70fac8232ac19b6549aa3",
+    "url": "http://php.net/sitemap.php",
+    "title": "PHP: Sitemap",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3e1a453025104796f82da60b8bdf09c0da63d598",
+    "url": "http://php.net/security-note.php",
+    "title": "PHP: A Note on Security in PHP",
+    "description": "",
+    "text": "PHP is a powerful and flexible tool.  This power and flexibility comes\n from PHP being a very thin f"
+  },
+  {
+    "id": "62775c8ed437f5ec73cfbc346b7498dac0a438ca",
+    "url": "http://php.net/security/",
+    "title": "PHP: Security - Manual",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "338085eeb0112ba89e9de20c1d1a3cc1dd9c428b",
+    "url": "http://php.net/sites.php",
+    "title": "PHP: A Tourist's Guide",
+    "description": "",
+    "text": "Everyone knows the php.net site. All of us went there sooner or later,\n and will keep going back the"
+  },
+  {
+    "id": "f96c4dda787cbd159ab651d707bfff02fe3bcff2",
+    "url": "http://php.net/software.php",
+    "title": "PHP: PHP Software",
+    "description": "",
+    "text": "This page contains a list of sites where you can find software distributed\n under the PHP license.\np"
+  },
+  {
+    "id": "28893cd5bc9b3524a0206396ad4cff4940f2b787",
+    "url": "http://php.net/support.php",
+    "title": "PHP: Getting Help",
+    "description": "",
+    "text": "A good place to start is by skimming through the ever-growing list of frequently asked questions (wi"
+  },
+  {
+    "id": "ea9dfe82be7beacf1e31f89f3b732a8975981f26",
+    "url": "http://php.net/thanks.php",
+    "title": "PHP: Thanks",
+    "description": "",
+    "text": "Provides DNS services for the PHP domains.\nDDoS protection, along with hosting www.php.net and git.p"
+  },
+  {
+    "id": "1a51a91c8f307d302fc097333bf139adfc16a9be",
+    "url": "http://php.net/unsub.php",
+    "title": "PHP: Unsubscribing",
+    "description": "",
+    "text": "If the mailing list you would like to unsubscribe from is\n in the list on our mailing lists page,\n t"
+  },
+  {
+    "id": "23f814b23bc7513ee0762b5dc1a5e974135178de",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/ones-to-watch",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "f7f5d3c12657f82997a4903e55fb8a3745b9be81",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/road-to-the-final",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "ab7ff34ecf3202cca1194bd6a6324ea060982a01",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "25d0ab3ab0ede10012666e7b77f5efccb7050aae",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/features",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "4ef3a052f4496083e4becf86f136f245aba9d43f",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/future-stars",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "1730ae6d6bcc1d237ea5271f899c796f567ee247",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/super-lig",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "d852163b5536c8bc40c7b309ce913f18e387220f",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/saudi-pro-league",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "838c295dd80064863440ab54c8478a0ee117f4ab",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/la-liga-santander",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "0a645aa0d8c76b82840690f63474c7ad73da44b6",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/efl",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "df50369d3491c0b7dec0aa174fd0e47fc749eb12",
+    "url": "https://www.ea.com/ar-sa/games/fifa/fifa-20/ultimate-team/team-of-the-season-so-far/liga-nos",
+    "title": "EA SPORTS FC - الموقع الرسمي",
+    "description": "EA SPORTS FC هو الفصل التالي في لعبة العالم. انضم للنادي في يوليو القادم.",
+    "text": "النادي بين يديك في EA SPORTS FC™ 26. العب بطريقتك مع تجربة لعب محدثة مدعومة بتعليقات المجتمع، وتحديا"
+  },
+  {
+    "id": "1e7fe9fddbd9216a654cdefdfda0237e168d9025",
+    "url": "https://www.dailymotion.com/video/x8guom8",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bd2203a2727de39886de8bbba4e95d64046a1205",
+    "url": "https://www.dailymotion.com/video/x8orvpk",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "cdfaab647805ff1ba4110548a3d475098511a23c",
+    "url": "https://www.dailymotion.com/video/x8te9p0",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4b329b0e3d7acaa1d6ccfb5f9b296b7fc7d37c38",
+    "url": "https://www.dailymotion.com/video/x8te9p6",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3ca4398a54a52c57671e9ccbbb368c21d12a7a24",
+    "url": "https://www.dailymotion.com/video/x8te9p4",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d00779b0129d3d1dd4aa3e94859a7af6e3185981",
+    "url": "https://www.dailymotion.com/video/x8te9pa",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0123f9de6fc20b97d08681b71d7a908063bd252b",
+    "url": "https://www.dailymotion.com/video/x8wnrm2",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "88ef11b391ea7c951ea62e92d34cec033f40c91a",
+    "url": "https://www.dailymotion.com/video/x8wnrm6",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "88b9aa312114c4a1a142783c84015b028290f7cf",
+    "url": "https://www.dailymotion.com/video/x8y6zm2",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4d8855e1f987a07c88f71d381798df3b6d80e4f7",
+    "url": "https://www.dailymotion.com/video/x8y6zm6",
+    "title": "Dailymotion",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a6e80eae6d14537713c4a4e3eb719b50530224f7",
+    "url": "https://www.booking.com/airport/us/ord.bg.html",
+    "title": "Най-близките 10 хотела до Летище Chicago O'Hare International (ORD), Чикаго | Booking.com",
+    "description": "Хотели близо до Летище Chicago O'Hare International ORD, us. Изключителни отстъпки при резервиране. ",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Роузмънт\n( 30 м)\nLocat"
+  },
+  {
+    "id": "6009b6f439fba9824865db91600372c88a64b444",
+    "url": "https://www.booking.com/airport/us/atl.bg.html",
+    "title": "Най-близките 10 хотела до Летище Hartsfield-Jackson (ATL), Атланта | Booking.com",
+    "description": "Хотели близо до Летище Hartsfield-Jackson ATL, us. Изключителни отстъпки при резервиране. Резервирай",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Атланта\n( 1.5 км)\nТози"
+  },
+  {
+    "id": "3c7c02733790b7cd2cd859524d42573b055149d9",
+    "url": "https://www.booking.com/airport/us/lax.bg.html",
+    "title": "Най-близките 10 хотела до Летище Los Angeles International (LAX), Лос Анджелис | Booking.com",
+    "description": "Хотели близо до Летище Los Angeles International LAX, us. Изключителни отстъпки при резервиране. Рез",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в района на LAX Area, Ло"
+  },
+  {
+    "id": "84ee6dda0cee81d94faa7f9aea9ae1e77c9d8cb7",
+    "url": "https://www.booking.com/airport/gb/lhr.bg.html",
+    "title": "Най-близките 10 хотела до Летище Heathrow, London (LHR), Лондон | Booking.com",
+    "description": "Хотели близо до Летище Heathrow, London LHR, gb. Изключителни отстъпки при резервиране. Резервирайте",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Хилингдън\n( 0.2 км)\nHi"
+  },
+  {
+    "id": "dd36e470592ac8800c2d59f0e9f989d77a631d96",
+    "url": "https://www.booking.com/airport/jp/hnd.bg.html",
+    "title": "Най-близките 10 хотела до Летище Tokyo Haneda International (HND), Токио | Booking.com",
+    "description": "Хотели близо до Летище Tokyo Haneda International HND, jp. Изключителни отстъпки при резервиране. Ре",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в района на Ota Ward, То"
+  },
+  {
+    "id": "417993ffca2d90b0934b37836c8166ca304d30b9",
+    "url": "https://www.booking.com/airport/us/dfw.bg.html",
+    "title": "Най-близките 10 хотела до Летище Dallas-Fort Worth International (DFW), Далас | Booking.com",
+    "description": "Хотели близо до Летище Dallas-Fort Worth International DFW, us. Изключителни отстъпки при резервиран",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Ървинг\n( 0.2 км)\nFeatu"
+  },
+  {
+    "id": "7dcb2ec133f044089ac67573e9ef4811e6cc7a9f",
+    "url": "https://www.booking.com/airport/fr/cdg.bg.html",
+    "title": "Най-близките 10 хотела до Летище Paris - Charles de Gaulle (CDG), Париж | Booking.com",
+    "description": "Хотели близо до Летище Paris - Charles de Gaulle CDG, fr. Изключителни отстъпки при резервиране. Рез",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Роаси ан Франс\n( 0.4 к"
+  },
+  {
+    "id": "48c91576dd0e1e73dcf4a0f514edd5344251b356",
+    "url": "https://www.booking.com/airport/de/fra.bg.html",
+    "title": "Най-близките 10 хотела до Летище Frankfurt (FRA), Франкфурт на Майн | Booking.com",
+    "description": "Хотели близо до Летище Frankfurt FRA, de. Изключителни отстъпки при резервиране. Резервирайте онлайн",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в района на Frankfurt Ai"
+  },
+  {
+    "id": "7ecffc218f520a97996cf99e303e6d4358ca2498",
+    "url": "https://www.booking.com/airport/nl/ams.bg.html",
+    "title": "Най-близките 10 хотела до Летище Schiphol (AMS), Амстердам | Booking.com",
+    "description": "Хотели близо до Летище Schiphol AMS, nl. Изключителни отстъпки при резервиране. Резервирайте онлайн,",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в Схипхол\n( 0.2 км)\nYOTE"
+  },
+  {
+    "id": "f04e8e1a43609a66e0bbde12b35e5c3934892df6",
+    "url": "https://www.booking.com/airport/us/den.bg.html",
+    "title": "Най-близките 10 хотела до Летище Denver International (DEN), Денвър | Booking.com",
+    "description": "Хотели близо до Летище Denver International DEN, us. Изключителни отстъпки при резервиране. Резервир",
+    "text": "Вижте най-актуалните цени и оферти, като изберете дати. Избор на дати\nХотел в района на Denver Airpo"
+  },
+  {
+    "id": "3413f54077def63a6a26fcf4df6b77d469ef2458",
+    "url": "https://www.aol.com/2010/09/10/5-tips-for-students-and-parents-on-insurance-at-col/",
+    "title": "Five insurance tips for college students and parents",
+    "description": "A decade ago, students heading back to college in the fall may have just shown up with an old TV, a ",
+    "text": "For premium support please call:\nFor premium support please call:\nA decade ago, students heading bac"
+  },
+  {
+    "id": "2abc30139cc0b531dc3121a5fe2b6d8bab890fcb",
+    "url": "https://www.aol.com/article/news/2017/07/05/charlie-gard-popes-hospital-offers-take-in-terminally-ill-baby/23017143/",
+    "title": "Charlie Gard: Pope's hospital offers to take in terminally-ill baby",
+    "description": "A Vatican-owned hospital in Rome has offered to take Charlie Gard into its care in efforts to preven",
+    "text": "For premium support please call:\nFor premium support please call:\nA Vatican-owned hospital in Rome h"
+  },
+  {
+    "id": "a5176c8a745119a285d71ce80d61ced015de849d",
+    "url": "https://www.aol.com/article/news/2020/09/30/sports-world-frustrated-urging-people-to-vote-on-social-media-after-first-presidential-debate/24635331/",
+    "title": "Sports world reacts on Twitter after Trump-Biden debate [Video]",
+    "description": "\"PLEASE VOTE PLEASE VOTE PLEASE VOTE!!!\"",
+    "text": "For premium support please call:\nFor premium support please call:\nA chaotic presidential debate took"
+  },
+  {
+    "id": "38e85bbd086936d512a87a0c1ac59d9cd7ef5337",
+    "url": "https://www.aol.com/2012/03/21/elvis-bagged-graceland-for-1-000-down-just-over-55-years-ago/",
+    "title": "Elvis' 'Graceland' Deal: 55 Years Ago for $1,000 Down",
+    "description": "Just over 55 years ago, Elvis Presley pulled off a rocking purchase for his parents: He bought them ",
+    "text": "For premium support please call:\nFor premium support please call:\nJust over 55 years ago, Elvis Pres"
+  },
+  {
+    "id": "1d4771837f89589d717133895bd567bc3e366502",
+    "url": "https://www.aol.com/article/entertainment/2018/08/24/kirstie-alley-i-wanted-to-have-an-affair-with-patrick-swayze/23508811/",
+    "title": "Kirstie Alley: I wanted to have an affair with Patrick Swayze",
+    "description": "Kirstie Alley continued to make waves from the 'Celebrity Big Brother UK' house this week when talki",
+    "text": "For premium support please call:\nFor premium support please call:\nKirstie Alley is coming clean. The"
+  },
+  {
+    "id": "72176de9503f1dc9f2a9f551406b33691b824739",
+    "url": "https://www.aol.com/2013/05/07/motorola-solutions-declares-quarterly-dividend/",
+    "title": "Motorola Solutions Declares Quarterly Dividend",
+    "description": "Motorola Solutions Declares Quarterly Dividend  SCHAUMBURG, Ill.--(BUSINESS WIRE)-- Motorola Solutio",
+    "text": "For premium support please call:\nFor premium support please call:\nMotorola Solutions Declares Quarte"
+  },
+  {
+    "id": "90faf4f4a4fc7d56005502ea4527e6b014c65e03",
+    "url": "https://www.aol.com/2012/06/26/why-chimeras-looking-lackluster-in-2012/",
+    "title": "Why Chimera's Looking Lackluster in 2012",
+    "description": "As we approach the halfway point for 2012, now's a good time to look back at what's happening with t",
+    "text": "For premium support please call:\nFor premium support please call:\nAs we approach the halfway point f"
+  },
+  {
+    "id": "889f9c17e454375d3f3518d12f38b9790f971c85",
+    "url": "https://www.aol.com/2013/09/10/semtech-enables-the-future-of-video-transport-with/",
+    "title": "Semtech Enables the Future of Video Transport with Industry's First 6G UHD-SDI Adaptive Cable Equali",
+    "description": "Semtech Enables the Future of Video Transport with Industry's First 6G UHD-SDI Adaptive Cable Equali",
+    "text": "For premium support please call:\nFor premium support please call:\nSemtech Enables the Future of Vide"
+  },
+  {
+    "id": "105a0dff987ae445dae372cb331be7ddb94e69df",
+    "url": "https://www.aol.com/2013/03/27/1st-source-bank-named-to-bank-director-magazine-ni/",
+    "title": "1st Source Bank Named to Bank Director Magazine 'Nifty Fifty' List",
+    "description": "1st Source Bank Named to Bank Director Magazine 'Nifty Fifty' List  SOUTH BEND, Ind.--(BUSINESS WIRE",
+    "text": "For premium support please call:\nFor premium support please call:\n1st Source Bank Named to Bank Dire"
+  },
+  {
+    "id": "58557112026374cdf2a97914fef6966e70b513d8",
+    "url": "https://www.aol.com/article/news/2018/04/23/capitals-eliminate-blue-jackets-with-game-6-win/23418582/",
+    "title": "Capitals eliminate Blue Jackets with Game 6 win",
+    "description": "The Washington Capitals beat the Columbus Blue Jackets 6-3 on Monday night to win their series 4-2 d",
+    "text": "For premium support please call:\nFor premium support please call:\nAlex Ovechkin scored the 50th play"
+  },
+  {
+    "id": "92c0cb09bcf35bc1666a01c754f661ee1922d57e",
+    "url": "https://www.forter.com/blog/why-you-should-disrupt-your-thinking-on-ecommerce-fraud-protection/",
+    "title": "Ecommerce Fraud Prevention: What You Need to Know – Forter",
+    "description": "",
+    "text": "There’s nothing more important in ecommerce than the ability to adapt quickly. The needs and demands"
+  },
+  {
+    "id": "b63f28c2a82539f2d4f26a97bb056bc7d830b212",
+    "url": "https://www.forter.com/blog/equifax-e-commerce-and-what-it-means-for-online-fraud-attacks/",
+    "title": "Equifax Online Fraud Attacks – Forter",
+    "description": "",
+    "text": "The Equifax data breach has been making headlines, and it’s no surprise. As our CEO Michael Reitblat"
+  },
+  {
+    "id": "478652c8385592bf957e3d8741a480214bbe734a",
+    "url": "https://www.forter.com/blog/students-are-mobile-your-back-to-school-strategy-needs-mobile-fraud-protection/",
+    "title": "The Importance of Mobile Fraud Protection for Back to School – Forter",
+    "description": "",
+    "text": "This year, back-to-college spending is expected to hit an all-time high. And back-to-school spending"
+  },
+  {
+    "id": "73ccc1a1254894fc877d343aa5f2962f55b2078f",
+    "url": "https://www.forter.com/blog/the-2017-fraudster-wish-list-holiday-fraud-attack/",
+    "title": "Here's What Is on the Holiday Fraud Attack Wish List – Forter",
+    "description": "",
+    "text": "The 2017 holiday season is a big one for e-commerce — the first time that online shopping is set to "
+  },
+  {
+    "id": "9eb585a38908b42854bb517a453480cee9d49fc1",
+    "url": "https://www.forter.com/blog/mobile-commerce-means-mobile-fraud/",
+    "title": "The Challenges of Mobile Commerce Fraud Prevention – Forter",
+    "description": "",
+    "text": "We live in a world where the 7.3 billion people on the planet now have an estimated 3.4 billion smar"
+  },
+  {
+    "id": "65a2aaf3565200b98ab599cd57093e937cfd38bb",
+    "url": "https://www.forter.com/blog/handling-the-holiday-hurry-ecommerce-fraud-prevention/",
+    "title": "Holiday Ecommerce Fraud Prevention – Forter",
+    "description": "",
+    "text": "For the very first time, online shopping is set to attract more holiday shoppers than physical store"
+  },
+  {
+    "id": "01ad1c28b3bbfc02482c853cfb5999fd2d840a4d",
+    "url": "https://www.forter.com/blog/new-year-new-fraud-solution/",
+    "title": "Online Fraud Solution for the New Year – Forter",
+    "description": "",
+    "text": "If you are like millions of other people on the planet, you too probably made a New Year’s resolutio"
+  },
+  {
+    "id": "fb7d9b7af2302ecfbbdb5ce2a0ea429bf250ab81",
+    "url": "https://www.forter.com/blog/forters-2017-best-of-edition/",
+    "title": "Online Fraud Prevention: Forter's 2017 Best-of\" Edition\" – Forter",
+    "description": "",
+    "text": "As we ring in the New Year and look forward to the incredible developments 2018 will bring, let’s ta"
+  },
+  {
+    "id": "39a4b4c77aaf456fd9913d8025f541a90b784f9e",
+    "url": "https://www.forter.com/blog/mobile-is-the-word/",
+    "title": "The Importance of End-To-End Mobile Fraud Prevention – Forter",
+    "description": "",
+    "text": "Mobile is the word on everyone’s lips. Office kitchens are buzzing with questions of who has the lat"
+  },
+  {
+    "id": "805a656aeeeba8ecd498deb48f3ad8b48ba19b32",
+    "url": "https://www.forter.com/blog/valentines-day-flavors-of-fraud/",
+    "title": "The Most Popular Types of Fraud on Valentine's Day – Forter",
+    "description": "",
+    "text": "Just like life, fraud is like a box of chocolates, you never know what you’re going to get. In honor"
+  },
+  {
+    "id": "c94b6cd54a8434807e8904efe658756b774e7a1c",
+    "url": "https://www.wiley.com/en-us/Borderline+Personality+Disorder+For+Dummies%2C+2nd+Edition-p-9781119714354",
+    "title": "Borderline Personality Disorder For Dummies, 2nd Edition | Wiley",
+    "description": "<p><b>Get to know the ins and outs of BPD&mdash;and make the choice to change!</b></p>  <p>Borderlin",
+    "text": "ISBN: 978-1-119-71435-4\nOctober 2020\n416 pages\nISBN: 978-1-119-71435-4\nOctober 2020\n416 pages\nCharle"
+  },
+  {
+    "id": "ab3c9174cefe53941956c526051465244672fb3b",
+    "url": "https://www.wiley.com/en-us/Conservation%3A+Replacing+Quantity+with+Quality+as+a+Goal+for+Global+Management-p-9780471595151",
+    "title": "Conservation: Replacing Quantity with Quality as a Goal for Global Management | Wiley",
+    "description": "Conservation is evolving into an exciting new field, much broader and more relevant than in past dec",
+    "text": "ISBN: 978-0-471-59515-1\nFebruary 1995\n392 pages\nISBN: 978-0-471-59515-1\nFebruary 1995\n392 pages\nCarl"
+  },
+  {
+    "id": "831d5ec521b720074b9a48701e11a5df3eb25507",
+    "url": "https://www.wiley.com/en-us/Freshwater+Ecology%3A+A+Scientific+Introduction-p-9781444311136",
+    "title": "Freshwater Ecology: A Scientific Introduction | Wiley",
+    "description": "<p>Freshwater ecosystems are under increasing pressure as human populations grow and the need for cl",
+    "text": "ISBN: 978-1-444-31113-6\nApril 2009\nWiley-Blackwell\n240 pages\nISBN: 978-1-444-31113-6\nApril 2009\nWile"
+  },
+  {
+    "id": "ed94d70d757b1e328596413d607fa8153aa4b15f",
+    "url": "https://www.wiley.com/en-us/Clinical+Examination+of+Farm+Animals-p-9781405147392",
+    "title": "Clinical Examination of Farm Animals | Wiley",
+    "description": "Clinical examination is a fundamental part of the process of  veterinary diagnosis. Without a profic",
+    "text": "ISBN: 978-1-405-14739-2\nApril 2008\nWiley-Blackwell\n320 pages\nISBN: 978-1-405-14739-2\nApril 2008\nWile"
+  },
+  {
+    "id": "b436ca914549a483aa872663be9773654ce07e04",
+    "url": "https://www.wiley.com/en-us/Making+Groups+Effective%2C+2nd+Edition-p-9780787900090",
+    "title": "Making Groups Effective, 2nd Edition | Wiley",
+    "description": "Draws on the latest research to show how groups can function moreeffectively to achieve the full pot",
+    "text": "ISBN: 978-0-787-90009-0\nSeptember 1994\nJossey-Bass\n280 pages\nISBN: 978-0-787-90009-0\nSeptember 1994\n"
+  },
+  {
+    "id": "4fe17a5a0b0c6f0e8574927351cfc6d0554ecc47",
+    "url": "https://www.wiley.com/en-us/Fractal-Based+Point+Processes-p-9780471754701",
+    "title": "Fractal-Based Point Processes | Wiley",
+    "description": "An integrated approach to fractals and point processes<br />  <br />  This publication provides a co",
+    "text": "ISBN: 978-0-471-75470-1\nSeptember 2005\n626 pages\nISBN: 978-0-471-75470-1\nSeptember 2005\n626 pages\nSt"
+  },
+  {
+    "id": "63754cbd433034365f98a8db3b6fdce7f39200f2",
+    "url": "https://www.wiley.com/en-us/Philosophy+of+Social+Science%3A+The+Methods%2C+Ideals+and+Politics+of+Social+Inquiry-p-9780631190424",
+    "title": "Philosophy of Social Science: The Methods, Ideals and Politics of Social Inquiry | Wiley",
+    "description": "This book is a critical introduction to the philosophy of social science. While most social scientis",
+    "text": "ISBN: 978-0-631-19042-4\nDecember 1993\nWiley-Blackwell\n288 pages\nISBN: 978-0-631-19042-4\nDecember 199"
+  },
+  {
+    "id": "3ab9a6d3749531ecef712e52089d1512af2e2478",
+    "url": "https://www.wiley.com/en-us/Materials+and+Equipment+-+Whitewares%2C+Volume+1%2C+Issue+9%2F10-p-9780470291450",
+    "title": "Materials and Equipment - Whitewares, Volume 1, Issue 9/10 | Wiley",
+    "description": "This volume is part of the <b>Ceramic Engineering and Science Proceeding (CESP)</b> series. This ser",
+    "text": "ISBN: 978-0-470-29145-0\nSeptember 2009\n178 pages\nISBN: 978-0-470-29145-0\nSeptember 2009\n178 pages\nWi"
+  },
+  {
+    "id": "ad422b02ef22584f45e42668935a66767d44547b",
+    "url": "https://www.wiley.com/en-us/Global+Challenges%3A+War%2C+Self-Determination+and+Responsibility+for+Justice-p-9780745638355",
+    "title": "Global Challenges: War, Self-Determination and Responsibility for Justice | Wiley",
+    "description": "In the late twentieth century many writers and activists envisioned  new possibilities of transnatio",
+    "text": "ISBN: 978-0-745-63835-5\nFebruary 2006\nPolity\n224 pages\nISBN: 978-0-745-63835-5\nFebruary 2006\nPolity\n"
+  },
+  {
+    "id": "71e3f7ca07343da529e35c39d7f35b4d5d6e451e",
+    "url": "https://www.wiley.com/en-us/The+Project+Manager's+MBA%3A+How+to+Translate+Project+Decisions+into+Business+Success-p-9780787958572",
+    "title": "The Project Manager's MBA: How to Translate Project Decisions into Business Success | Wiley",
+    "description": "Project managers are no longer judged by the technical success of their projects alone. They're also",
+    "text": "ISBN: 978-0-787-95857-2\nJuly 2001\nJossey-Bass\n264 pages\nISBN: 978-0-787-95857-2\nJuly 2001\nJossey-Bas"
+  },
+  {
+    "id": "4824920144caedd088bcce0fb708127394c324d0",
+    "url": "https://www.nature.com/subjects/acute-myeloid-leukaemia",
+    "title": "Acute myeloid leukaemia - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "a9b1ba7c1a5dbcc32709d51570377f18fe1e4dd1",
+    "url": "https://www.nature.com/subjects/adaptive-immunity",
+    "title": "Adaptive immunity - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "d15f4041295d29faaf931127594a10df9bd633dd",
+    "url": "https://www.nature.com/subjects/acute-lymphocytic-leukaemia",
+    "title": "Acute lymphocytic leukaemia - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "9ba6d0926fb5d196d13f7b4b95cf8891a309eb3e",
+    "url": "https://www.nature.com/subjects/adaptive-designs",
+    "title": "Adaptive clinical trial - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "863a7ea8d1209f0ada7d8964ed116dfd7fdb17f2",
+    "url": "https://www.nature.com/subjects/acute-pancreatitis",
+    "title": "Acute pancreatitis - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "27f3ee4fe739f76f59d34e15e208578f9c530add",
+    "url": "https://www.nature.com/subjects/adaptive-optics",
+    "title": "Adaptive optics - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "a1007c23fead343714e833701b0f26490915634b",
+    "url": "https://www.nature.com/subjects/adaptive-radiation",
+    "title": "Adaptive radiation - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "e19ad625e0a9dc93680d637063eac22c7fbaec64",
+    "url": "https://www.nature.com/subjects/addiction",
+    "title": "Addiction - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "575f543885ca15b41ca9531145752823f9a8f3c4",
+    "url": "https://www.nature.com/subjects/adenovirus",
+    "title": "Adenovirus - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
+  },
+  {
+    "id": "f5972d77c34446c72e08fcb7b463f6af96675627",
+    "url": "https://www.nature.com/subjects/adherens-junctions",
+    "title": "Adherens junctions - Latest research and news | Nature",
+    "description": "",
+    "text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To "
   }
 ]
