@@ -5323,29 +5323,29 @@
     ]
   },
   "appcenter.ms": {
-    "lastAt": 1758299248737,
+    "lastAt": 1758648403073,
     "urls": [
       "https://appcenter.ms/"
     ]
   },
   "adsafeprotected.com": {
-    "lastAt": 1758299251133,
+    "lastAt": 1758648405580,
     "urls": []
   },
   "adobe.net": {
-    "lastAt": 1758299256426,
+    "lastAt": 1758648410213,
     "urls": []
   },
   "washingtonpost.com": {
-    "lastAt": 1758299468439,
+    "lastAt": 1758648622433,
     "urls": []
   },
   "kaspersky-labs.com": {
-    "lastAt": 1758299471869,
+    "lastAt": 1758648625895,
     "urls": []
   },
   "cdc.gov": {
-    "lastAt": 1758299484695,
+    "lastAt": 1758648637225,
     "urls": [
       "https://www.cdc.gov/contact/accessibility.html",
       "https://www.cdc.gov/covidtreatment/index.html",
@@ -5376,21 +5376,31 @@
       "https://www.cdc.gov/other/information-received.html",
       "https://www.cdc.gov/other/generative-ai.html",
       "https://www.cdc.gov/other/link.html",
-      "https://www.cdc.gov/other/mobileprivacypolicy.html"
+      "https://www.cdc.gov/other/mobileprivacypolicy.html",
+      "https://www.cdc.gov/other/other-languages/index.html",
+      "https://www.cdc.gov/other/plainwriting.html",
+      "https://www.cdc.gov/other/privacy.html",
+      "https://www.cdc.gov/other/plugins/index.html",
+      "https://www.cdc.gov/other/nondiscrimination.html",
+      "https://www.cdc.gov/other/phishing.html",
+      "https://www.cdc.gov/other/public-comments.html",
+      "https://www.cdc.gov/other/policies.html",
+      "https://www.cdc.gov/other/riskmanagement.html",
+      "https://www.cdc.gov/other/searchtips.html"
     ]
   },
   "pages.dev": {
-    "lastAt": 1758299485141,
+    "lastAt": 1758648637666,
     "urls": [
       "https://pages.dev/"
     ]
   },
   "mynetname.net": {
-    "lastAt": 1758299489229,
+    "lastAt": 1758648641679,
     "urls": []
   },
   "dailymail.co.uk": {
-    "lastAt": 1758299495938,
+    "lastAt": 1758648647304,
     "urls": [
       "https://www.dailymail.co.uk/news/article-15088457/Silk-Road-Charlie-Kirk-pardon.html",
       "https://www.dailymail.co.uk/travel/article-15088233/Brit-living-Thailand-expenses-cheaper-UK-rent.html",
@@ -5421,23 +5431,33 @@
       "https://www.dailymail.co.uk/news/article-15115159/truck-driver-stowaway-migrants-UK-bound-lorry-Starmers-one-policy-kept-out.html",
       "https://www.dailymail.co.uk/tvshowbiz/article-15115251/Kate-Garraway-left-red-faced-blocked-entering-house-accidentally-ordering-12-TONNES-hardcore-garden.html",
       "https://www.dailymail.co.uk/tvshowbiz/article-15115151/Charlie-Kirk-friend-calls-South-Park-restore-episode.html",
-      "https://www.dailymail.co.uk/sport/darts/article-15115237/darts-star-luke-littler-theory-test-seventh-time.html"
+      "https://www.dailymail.co.uk/sport/darts/article-15115237/darts-star-luke-littler-theory-test-seventh-time.html",
+      "https://www.dailymail.co.uk/news/article-15126485/Hurricane-Gabrielle-Britain-Forecasters-storm-Atlantic-Europe.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15126457/Busy-Philipps-heartbreak-James-Van-Der-Beek-Dawsons-Creek-reunion.html",
+      "https://www.dailymail.co.uk/sport/football/article-15126593/Mikel-Arteta-critics-tactics-Man-City.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15124281/tori-spelling-date-charlie-sheen-one-condition.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15126439/Salma-Hayek-59-shares-rare-photo-mini-daughter-Valentina-turns-18-British-castle.html",
+      "https://www.dailymail.co.uk/yourmoney/article-15125777/powell-risk-tariffs-unemployment.html",
+      "https://www.dailymail.co.uk/news/article-15126179/joe-biden-youtube-censor-creators.html",
+      "https://www.dailymail.co.uk/sport/football/article-15125617/Carabao-Cup-LIVE-build-Liverpool-host-Southampton-Chelsea-travel-Lincoln-City.html",
+      "https://www.dailymail.co.uk/femail/article-15123301/woman-coma-feel-hear-trapped-body-nightmare-medical-ordeal.html",
+      "https://www.dailymail.co.uk/sport/college-football/article-15126583/Legendary-Oklahoma-State-coach-Mike-Gundy-gets-fired-20-seasons.html"
     ]
   },
   "wsj.com": {
-    "lastAt": 1758299502826,
+    "lastAt": 1758648653052,
     "urls": []
   },
   "heytapmobile.com": {
-    "lastAt": 1758299505890,
+    "lastAt": 1758648656152,
     "urls": []
   },
   "etsy.com": {
-    "lastAt": 1758299966876,
+    "lastAt": 1758649095948,
     "urls": []
   },
   "checkpoint.com": {
-    "lastAt": 1758299969529,
+    "lastAt": 1758649098390,
     "urls": [
       "https://checkpoint.com/",
       "https://www.checkpoint.com/infinity/threatcloud-ai/brand-spoofing-prevention/",
@@ -5468,11 +5488,21 @@
       "https://www.checkpoint.com/industry/industrial-control-systems/",
       "https://www.checkpoint.com/solutions/enterprise-network-security/",
       "https://www.checkpoint.com/industry/service-provider/",
-      "https://www.checkpoint.com/wef-2023/"
+      "https://www.checkpoint.com/wef-2023/",
+      "https://www.checkpoint.com/quantum/edge-branch-virtual-security-gateway/",
+      "https://www.checkpoint.com/pages/2022-gigaom-radar-reports/",
+      "https://www.checkpoint.com/latest-cyber-attacks/openssl-gives-heads-up-to-critical-vulnerability-disclosure-check-point-alerts-organizations-to-prepare-now/",
+      "https://www.checkpoint.com/solutions/hybrid-data-center-security/",
+      "https://www.checkpoint.com/horizon/soc/",
+      "https://www.checkpoint.com/cloudguard/cloud-security-posture-management/",
+      "https://www.checkpoint.com/horizon/mdr-mpr/",
+      "https://www.checkpoint.com/horizon/xdr-xpr/",
+      "https://www.checkpoint.com/horizon/events/",
+      "https://www.checkpoint.com/horizon/ndr/"
     ]
   },
   "gosuslugi.ru": {
-    "lastAt": 1758299975381,
+    "lastAt": 1758649102695,
     "urls": [
       "https://www.gosuslugi.ru/help/news/27",
       "https://gosuslugi.ru/",
@@ -5493,55 +5523,67 @@
       "https://www.gosuslugi.ru/help/news/127",
       "https://www.gosuslugi.ru/help/news/147",
       "https://www.gosuslugi.ru/help/news/15",
-      "https://www.gosuslugi.ru/help/news/167"
+      "https://www.gosuslugi.ru/help/news/167",
+      "https://www.gosuslugi.ru/help/news/187",
+      "https://www.gosuslugi.ru/help/news/467",
+      "https://www.gosuslugi.ru/help/news/227",
+      "https://www.gosuslugi.ru/help/news/207",
+      "https://www.gosuslugi.ru/help/news/247",
+      "https://www.gosuslugi.ru/help/news/307",
+      "https://www.gosuslugi.ru/help/news/507",
+      "https://www.gosuslugi.ru/help/news/568",
+      "https://www.gosuslugi.ru/help/news/647",
+      "https://www.gosuslugi.ru/help/news/927"
     ]
   },
   "cmediahub.ru": {
-    "lastAt": 1758299979623,
+    "lastAt": 1758649107051,
     "urls": []
   },
   "cedexis.net": {
-    "lastAt": 1758299982626,
+    "lastAt": 1758649110214,
     "urls": []
   },
   "rambler.ru": {
-    "lastAt": 1758299986908,
+    "lastAt": 1758649113863,
     "urls": [
       "https://rambler.ru/"
     ]
   },
   "springer.com": {
-    "lastAt": 1758299987856,
+    "lastAt": 1758649114584,
     "urls": [
       "https://springer.com/"
     ]
   },
   "id5-sync.com": {
-    "lastAt": 1758299990941,
+    "lastAt": 1758649117450,
     "urls": [
       "https://id5-sync.com/"
     ]
   },
   "fb-t-msedge.net": {
-    "lastAt": 1758299993898,
+    "lastAt": 1758649120309,
     "urls": []
   },
   "bloomberg.com": {
-    "lastAt": 1758300001118,
-    "urls": []
+    "lastAt": 1758649126756,
+    "urls": [
+      "https://www.bloomberg.com/news/articles/2025-09-22/first-brands-mulls-restructuring-options-including-bankruptcy"
+    ]
   },
   "ok.ru": {
-    "lastAt": 1758300015677,
+    "lastAt": 1758649137628,
     "urls": [
       "https://ok.ru/"
     ]
   },
   "myshopify.com": {
-    "lastAt": 1758300019528,
+    "lastAt": 1758649140955,
     "urls": []
   },
   "telegraph.co.uk": {
-    "lastAt": 1758300030209,
+    "lastAt": 1758649150540,
     "urls": [
       "https://telegraph.co.uk/",
       "https://www.telegraph.co.uk/wrestling/2021/04/08/wrestling-artistic-should-funded-like-theatre-opera-mps-say/",
@@ -5572,37 +5614,47 @@
       "https://www.telegraph.co.uk/theatre/what-to-see/look-back-in-anger-roots-almeida-theatre-review/",
       "https://www.telegraph.co.uk/theatre/what-to-see/1984-theatre-royal-bath-review-keith-allen/",
       "https://www.telegraph.co.uk/theatre/what-to-see/death-of-england-closing-time-soho-place-review/",
-      "https://www.telegraph.co.uk/theatre/what-to-see/shifters-duke-of-yorks-theatre-review/"
+      "https://www.telegraph.co.uk/theatre/what-to-see/shifters-duke-of-yorks-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/death-of-england-soho-place-review-paapa-essideu-racism/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-birthday-party-theatre-royal-bath-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/echo-royal-court-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/as-you-like-it-rsc-holloway-garden-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-years-almeida-theatre-review-annie-ernaux/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/racist-romeo-and-juliet-trolling-cultural-history/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/review-your-lie-april-west-end-musical-harold-pinter/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/laughing-boy-jermyn-street-theatre-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/some-demon/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/the-comeuppance-almeida-review/"
     ]
   },
   "consultant.ru": {
-    "lastAt": 1758300033456,
+    "lastAt": 1758649154024,
     "urls": [
       "https://consultant.ru/"
     ]
   },
   "naver.com": {
-    "lastAt": 1758300036229,
+    "lastAt": 1758649156951,
     "urls": [
       "https://naver.com/"
     ]
   },
   "sberbank.ru": {
-    "lastAt": 1758302321455,
+    "lastAt": 1758649159224,
     "urls": [
       "https://sberbank.ru/"
     ]
   },
   "vkuser.net": {
-    "lastAt": 1758302380307,
+    "lastAt": 1758649218038,
     "urls": []
   },
   "sc-cdn.net": {
-    "lastAt": 1758302383528,
+    "lastAt": 1758649221318,
     "urls": []
   },
   "dropcatch.com": {
-    "lastAt": 1758302384544,
+    "lastAt": 1758649222248,
     "urls": [
       "https://dropcatch.com/"
     ]
