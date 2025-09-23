@@ -2079,13 +2079,13 @@
     ]
   },
   "lencr.org": {
-    "lastAt": 1758273855981,
+    "lastAt": 1758623037199,
     "urls": [
       "https://lencr.org/"
     ]
   },
   "paypal.com": {
-    "lastAt": 1758273867641,
+    "lastAt": 1758623043513,
     "urls": [
       "https://www.paypal.com/ae/home?locale.x=ar_AE",
       "https://paypal.com/",
@@ -2114,11 +2114,21 @@
       "https://www.paypal.com/ae/cshelp/article/can-i-cancel-a-withdrawal-from-my-paypal-account-help494?locale.x=ar_AE",
       "https://www.paypal.com/ae/cshelp/article/can-i-archive-delete-or-cancel-an-invoice-help312?locale.x=ar_AE",
       "https://www.paypal.com/ae/cshelp/article/can-i-change-my-reason-for-filing-a-dispute-or-claim-help178?locale.x=ar_AE",
-      "https://www.paypal.com/ae/cshelp/article/can-i-customize-buttons-in-checkout-ts2174?locale.x=ar_AE"
+      "https://www.paypal.com/ae/cshelp/article/can-i-customize-buttons-in-checkout-ts2174?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/can-i-send-paypal-feedback-for-virtual-terminal-ts2236?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/can-i-have-my-balance-automatically-transferred-to-my-bank-account-help398?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/can-i-transfer-money-to-my-debit-card-help497?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/can-i-log-in-to-my-paypal-account-if-i-have-a-new-email-address-help152?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-are-fees-for-payouts-calculated-and-reported-ts2216?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/does-paypal-cover-my-purchase-if-theres-a-problem-help364?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-can-data-be-migrated-using-the-paypal-credit-card-vault-tool-ts2245?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/given-an-email-or-phone-number-how-do-i-check-the-status-of-a-paypal-account-using-the-php-api-ts1985?locale.x=ar_AE",
+      "https://www.paypal.com/ae/business/how-paypal-works?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-can-i-accept-payments-help217?locale.x=ar_AE"
     ]
   },
   "kaspersky.com": {
-    "lastAt": 1758273873546,
+    "lastAt": 1758623050742,
     "urls": [
       "https://www.kaspersky.com/renewal-center/home",
       "https://www.kaspersky.com/small-business-security/downloads/kart",
@@ -2149,21 +2159,31 @@
       "https://www.kaspersky.com/enterprise-security/wiki-section/products/online-banking-the-safe-money-technology",
       "https://www.kaspersky.com/enterprise-security/wiki-section/products/kaspersky-security-network",
       "https://www.kaspersky.com/enterprise-security/wiki-section/products/big-data-the-astraea-technology",
-      "https://www.kaspersky.com/enterprise-security/wiki-section/products/ransomware-protection"
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/ransomware-protection",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/kaspersky-anti-targeted-attack-platform",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/sandbox",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/emulator",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/encryption",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/kaspersky-endpoint-detection-and-response-edr",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/protecting-mobile-devices",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/application-control-and-hips",
+      "https://www.kaspersky.com/enterprise-security/wiki-section/products/exploit-prevention",
+      "https://www.kaspersky.com/enterprise-security/mitre/evaluation-details",
+      "https://www.kaspersky.com/enterprise-security/mitre/visiting"
     ]
   },
   "discord.gg": {
-    "lastAt": 1758273874141,
+    "lastAt": 1758623051248,
     "urls": [
       "https://discord.gg/"
     ]
   },
   "forms.gle": {
-    "lastAt": 1758273877678,
+    "lastAt": 1758623054435,
     "urls": []
   },
   "nytimes.com": {
-    "lastAt": 1758273881953,
+    "lastAt": 1758623057217,
     "urls": [
       "https://www.nytimes.com/2025/09/10/us/charlie-kirk-political-violence.html",
       "https://nytimes.com/",
@@ -2194,11 +2214,21 @@
       "https://www.nytimes.com/athletic/6643473/2025/09/19/how-to-watch-yankees-at-orioles-tv-channel-and-streaming-options-for-september-19/",
       "https://www.nytimes.com/athletic/6642524/2025/09/18/how-to-watch-athletics-at-pirates-tv-channel-and-streaming-options-for-september-19/",
       "https://www.nytimes.com/athletic/6643465/2025/09/19/how-to-watch-mariners-at-astros-tv-channel-and-streaming-options-for-september-19/",
-      "https://www.nytimes.com/athletic/6643475/2025/09/19/how-to-watch-guardians-at-twins-tv-channel-and-streaming-options-for-september-19/"
+      "https://www.nytimes.com/athletic/6643475/2025/09/19/how-to-watch-guardians-at-twins-tv-channel-and-streaming-options-for-september-19/",
+      "https://www.nytimes.com/2025/09/23/world/europe/zelensky-trump-meeting-un-ukraine-us.html",
+      "https://www.nytimes.com/interactive/2025/09/22/us/earthquake-san-francisco-tracker.html",
+      "https://www.nytimes.com/2025/09/23/world/asia/korea-zealand-suitcase-murders.html",
+      "https://www.nytimes.com/athletic/6653870/2025/09/23/canadiens-preseason-opener-owen-beck/",
+      "https://www.nytimes.com/athletic/live-blogs/ryder-cup-2025-live-updates-team-usa-europe-practice/AYv77iR3g8AX/",
+      "https://www.nytimes.com/2025/09/23/world/europe/ukraine-gas-stations.html",
+      "https://www.nytimes.com/athletic/6650982/2025/09/23/seattle-mariners-cal-raleigh-home-run-tracker/",
+      "https://www.nytimes.com/athletic/6653187/2025/09/23/bears-2-minute-drill-caleb-williams-cowboys/",
+      "https://www.nytimes.com/athletic/6652861/2025/09/23/cleveland-guardians-detroit-tigers-series-preview/",
+      "https://www.nytimes.com/athletic/6653166/2025/09/23/panthers-ryan-fitzgerald-kickoffs-knuckleball/"
     ]
   },
   "f5.com": {
-    "lastAt": 1758273896069,
+    "lastAt": 1758623060690,
     "urls": [
       "https://www.f5.com/appworld/tools/config",
       "https://www.f5.com/appworld/tools",
@@ -2229,15 +2259,25 @@
       "https://www.f5.com/authors/gary-newe",
       "https://www.f5.com/authors/frank-strobel",
       "https://www.f5.com/authors/greg-w--davis",
-      "https://www.f5.com/authors/glenn-graham"
+      "https://www.f5.com/authors/glenn-graham",
+      "https://www.f5.com/authors/jonathan-george",
+      "https://www.f5.com/authors/hitesh-patel",
+      "https://www.f5.com/authors/james-hendergart",
+      "https://www.f5.com/authors/jay-kelley",
+      "https://www.f5.com/authors/kara-sprague",
+      "https://www.f5.com/authors/kuna-nallappan",
+      "https://www.f5.com/authors/kyle-oliver",
+      "https://www.f5.com/authors/mani-gadde",
+      "https://www.f5.com/authors/mike-convertino",
+      "https://www.f5.com/authors/lori-macvittie"
     ]
   },
   "macromedia.com": {
-    "lastAt": 1758273954909,
+    "lastAt": 1758623119536,
     "urls": []
   },
   "rubiconproject.com": {
-    "lastAt": 1758273961857,
+    "lastAt": 1758623127134,
     "urls": [
       "https://www.magnite.com/press/discovery-selects-magnite-to-strengthen-dtc-advertising-proposition-for-streaming-services-in-the-uk-japan-and-india/",
       "https://rubiconproject.com/",
@@ -2268,19 +2308,29 @@
       "https://www.magnite.com/blog/how-publicis-aims-to-improve-multicultural-marketing-with-its-verified-process/",
       "https://www.magnite.com/press/fubotv-selects-magnite-as-preferred-ssp/",
       "https://www.magnite.com/blog/advertising-consumer-goods-and-the-ott-advantage-in-indonesia/",
-      "https://www.magnite.com/press/frndly-tv-taps-magnite-to-monetize-ctv-inventory-grow-ad-supported-revenue/"
+      "https://www.magnite.com/press/frndly-tv-taps-magnite-to-monetize-ctv-inventory-grow-ad-supported-revenue/",
+      "https://www.magnite.com/press-it/magnite-and-tvscientific-launch-performance-ctv-program-to-connect-dtc-performance-advertisers-with-premium-ctv-inventory/",
+      "https://www.magnite.com/blog/live-in-five-political-advertisers-achieve-instant-scale-with-programmatic-offering/",
+      "https://www.magnite.com/press/french-streaming-platform-molotov-selects-magnite-as-ssp-and-springserve-as-ad-server/",
+      "https://www.magnite.com/press/magnite-strengthens-audience-data-capabilities-with-addition-of-nth-party-team/",
+      "https://www.magnite.com/press-ja/magnite-research-finds-91-of-tv-viewers-in-latam-watch-streaming-tv-weekly/",
+      "https://www.magnite.com/press-it/frndly-tv-taps-magnite-to-monetize-ctv-inventory-grow-ad-supported-revenue/",
+      "https://www.magnite.com/press/groupm-preferred-technology-partner-globally/",
+      "https://www.magnite.com/blog/the-live-sports-advertising-opportunity-with-fubotv/",
+      "https://www.magnite.com/press/magnite-expands-ctv-business-in-india-with-samsung-ads/",
+      "https://www.magnite.com/press/magnite-ctv-live-research/"
     ]
   },
   "l-msedge.net": {
-    "lastAt": 1758273964731,
+    "lastAt": 1758623129982,
     "urls": []
   },
   "spo-msedge.net": {
-    "lastAt": 1758273967597,
+    "lastAt": 1758623132832,
     "urls": []
   },
   "flickr.com": {
-    "lastAt": 1758273971773,
+    "lastAt": 1758623137421,
     "urls": [
       "https://flickr.com/",
       "https://www.flickr.com/photos/203406655@N06/galleries",
@@ -2311,35 +2361,45 @@
       "https://www.flickr.com/photos/203079555@N06/favorites",
       "https://www.flickr.com/photos/202083609@N03/albums",
       "https://www.flickr.com/photos/202324818@N05/favorites",
-      "https://www.flickr.com/people/203230611@N07"
+      "https://www.flickr.com/people/203230611@N07",
+      "https://www.flickr.com/photos/202645337@N03/galleries",
+      "https://www.flickr.com/photos/203497664@N07/galleries",
+      "https://www.flickr.com/photos/203351608@N07/favorites",
+      "https://www.flickr.com/photos/201637032@N05",
+      "https://www.flickr.com/people/202624472@N05",
+      "https://www.flickr.com/photos/202851819@N04/galleries",
+      "https://www.flickr.com/photos/201562630@N05/galleries",
+      "https://www.flickr.com/people/202605714@N07",
+      "https://www.flickr.com/photos/203380435@N07",
+      "https://www.flickr.com/people/202064611@N04"
     ]
   },
   "wildberries.ru": {
-    "lastAt": 1758273978861,
+    "lastAt": 1758623144486,
     "urls": []
   },
   "ozon.ru": {
-    "lastAt": 1758274004604,
+    "lastAt": 1758623172709,
     "urls": []
   },
   "aliyuncs.com": {
-    "lastAt": 1758274009596,
+    "lastAt": 1758623177427,
     "urls": []
   },
   "ripn.net": {
-    "lastAt": 1758274068441,
+    "lastAt": 1758623236265,
     "urls": []
   },
   "shifen.com": {
-    "lastAt": 1758274127303,
+    "lastAt": 1758623295127,
     "urls": []
   },
   "msftconnecttest.com": {
-    "lastAt": 1758274130202,
+    "lastAt": 1758623298041,
     "urls": []
   },
   "shopify.com": {
-    "lastAt": 1758274133031,
+    "lastAt": 1758623301099,
     "urls": [
       "https://www.shopify.com/",
       "https://www.shopify.com/1mbb",
@@ -2367,25 +2427,34 @@
       "https://www.shopify.com/blog/latest",
       "https://www.shopify.com/blog/email-marketing",
       "https://www.shopify.com/b2b-demo-store/redirect",
-      "https://www.shopify.com/blog/markets"
+      "https://www.shopify.com/blog/markets",
+      "https://www.shopify.com/blog/topics",
+      "https://www.shopify.com/bugbounty",
+      "https://www.shopify.com/blog/topics/guides",
+      "https://www.shopify.com/blog/what-is-shopify",
+      "https://www.shopify.com/bugbounty/about",
+      "https://www.shopify.com/bugbounty/criteria",
+      "https://www.shopify.com/bugbounty/calculator",
+      "https://www.shopify.com/bugbounty/faq",
+      "https://www.shopify.com/bugbounty/resources"
     ]
   },
   "pv-cdn.net": {
-    "lastAt": 1758274136120,
+    "lastAt": 1758623304125,
     "urls": []
   },
   "chatgpt.com": {
-    "lastAt": 1758274139400,
+    "lastAt": 1758623307156,
     "urls": []
   },
   "discord.com": {
-    "lastAt": 1758274140758,
+    "lastAt": 1758623308343,
     "urls": [
       "https://discord.com/"
     ]
   },
   "medium.com": {
-    "lastAt": 1758274146520,
+    "lastAt": 1758623313721,
     "urls": [
       "https://medium.com/",
       "https://medium.com/@faintliesh",
@@ -2416,11 +2485,21 @@
       "https://medium.com/tag/siddhiwear",
       "https://medium.com/tag/pipe-protector",
       "https://medium.com/tag/btcfi",
-      "https://medium.com/tag/compound-pharmacies"
+      "https://medium.com/tag/compound-pharmacies",
+      "https://medium.com/floris-playground/new-teaching-stories-iii-f0a1e941454d",
+      "https://medium.com/analytics-vidhya/vae-generative-modelling-for-face-recognition-71e8ba16950c",
+      "https://medium.com/wisdom-body-collective/the-kaleidoscope-in-my-window-d511f9243a9",
+      "https://medium.com/@rubenmarcus/rafa-tudo-bem-575ae20482bf",
+      "https://medium.com/@mathewmba/i-agree-with-you-that-what-happened-in-wisconsin-doesnt-make-sense-a04907a3c48f",
+      "https://medium.com/@victorialambert/i-find-it-interesting-that-the-most-critical-responses-to-this-article-are-coming-from-fit-white-d2073fae46cd",
+      "https://medium.com/@awolffwriting/thank-you-misa-ferreira-de-rezende-i-appreciate-that-6d0fb74569a9",
+      "https://medium.com/swlh/how-to-set-up-a-react-app-with-a-flask-and-mongodb-backend-using-docker-19b356180199",
+      "https://medium.com/offtop/tiger-king-winners-and-losers-b42a0c986d62",
+      "https://medium.com/graphiteworks/taiwan-can-help-518cff025da3"
     ]
   },
   "soundcloud.com": {
-    "lastAt": 1758274154532,
+    "lastAt": 1758623319978,
     "urls": [
       "https://soundcloud.com/",
       "https://soundcloud.com/charts/new",
@@ -2439,23 +2518,28 @@
       "https://soundcloud.com/pages/competition",
       "https://soundcloud.com/pages/copyright/report",
       "https://soundcloud.com/pages/copyright",
-      "https://soundcloud.com/pages/model-withdrawal-form"
+      "https://soundcloud.com/pages/model-withdrawal-form",
+      "https://soundcloud.com/pages/embed",
+      "https://soundcloud.com/pages/contact",
+      "https://soundcloud.com/pages/modern-slavery-act",
+      "https://soundcloud.com/pages/promote-terms-and-conditions",
+      "https://soundcloud.com/search"
     ]
   },
   "miui.com": {
-    "lastAt": 1758274157540,
+    "lastAt": 1758623322854,
     "urls": [
       "https://miui.com/"
     ]
   },
   "casalemedia.com": {
-    "lastAt": 1758274159266,
+    "lastAt": 1758623330200,
     "urls": [
       "https://casalemedia.com/"
     ]
   },
   "adobe.io": {
-    "lastAt": 1758274164141,
+    "lastAt": 1758623336279,
     "urls": [
       "https://developer.adobe.com/",
       "https://adobe.io/",
@@ -2486,15 +2570,25 @@
       "https://developer.adobe.com/adobe-status/guides/get-started/",
       "https://developer.adobe.com/adobe-status/guides/dummy_oauth_client/",
       "https://developer.adobe.com/adobe-status/guides/migrating/",
-      "https://developer.adobe.com/adobe-status/guides/product-hierarchy/"
+      "https://developer.adobe.com/adobe-status/guides/product-hierarchy/",
+      "https://developer.adobe.com/adobe-status/support/",
+      "https://developer.adobe.com/adobe-status/guides/sample-api-calls/",
+      "https://developer.adobe.com/adobe-status/support/contribute/",
+      "https://developer.adobe.com/adobesign-api/",
+      "https://developer.adobe.com/adobe-status/guides/using_postman/",
+      "https://developer.adobe.com/adobe-status/support/community/",
+      "https://developer.adobe.com/adobe-status/support/FAQ/",
+      "https://developer.adobe.com/after-effects",
+      "https://developer.adobe.com/after-effects/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/"
     ]
   },
   "cdn-apple.com": {
-    "lastAt": 1758274167122,
+    "lastAt": 1758623339152,
     "urls": []
   },
   "cnn.com": {
-    "lastAt": 1758274179568,
+    "lastAt": 1758623348276,
     "urls": [
       "https://cnn.com/",
       "https://www.cnn.com/videos/tv/2024/05/15/an-travel-market-spotlights-middle-east-tourism-spc-intl.cnn",
@@ -2525,11 +2619,21 @@
       "https://www.cnn.com/2025/09/19/business/deepseek-ai-training-cost-china-intl",
       "https://www.cnn.com/2025/09/19/politics/redistricting-2026-midterm-election-gop-analysis",
       "https://www.cnn.com/2025/09/19/style/marie-antoinette-fashion-exhibition",
-      "https://www.cnn.com/2025/09/19/entertainment/jon-stewart-stephen-colbert-kimmel-reaction-intl-hnk"
+      "https://www.cnn.com/2025/09/19/entertainment/jon-stewart-stephen-colbert-kimmel-reaction-intl-hnk",
+      "https://www.cnn.com/2025/09/22/asia/typhoon-ragasa-china-guangdong-hong-kong-intl-hnk",
+      "https://www.cnn.com/2025/09/23/health/autism-acetaminophen-pregnancy-questions",
+      "https://www.cnn.com/2025/09/22/health/trump-autism-announcement-cause-tylenol",
+      "https://www.cnn.com/2025/09/23/business/video/jimmy-kimmel-live-return-to-air-michael-musto-es",
+      "https://www.cnn.com/world/live-news/israel-france-palestine-un-09-22-25",
+      "https://www.cnn.com/2025/09/22/health/acetaminophen-pregnancy-autism-what-to-know",
+      "https://www.cnn.com/2025/09/23/politics/us-citizen-children-separated-parents-deported-ice-invs",
+      "https://www.cnn.com/2025/09/23/politics/un-general-assembly-trump-speech",
+      "https://www.cnn.com/2025/09/23/us/uvalde-robb-elementary-teacher-amy-franco",
+      "https://www.cnn.com/2025/09/23/travel/fat-bear-week-katmai-alaska-2025"
     ]
   },
   "android.com": {
-    "lastAt": 1758274182080,
+    "lastAt": 1758623350622,
     "urls": [
       "https://www.android.com/",
       "https://android.com/",
@@ -2560,7 +2664,17 @@
       "https://www.android.com/intl/pt_pt/",
       "https://www.android.com/intl/pt_br/",
       "https://www.android.com/intl/sv_se/",
-      "https://www.android.com/intl/ru_ru/"
+      "https://www.android.com/intl/ru_ru/",
+      "https://www.android.com/intl/zh-HK_hk/",
+      "https://www.android.com/intl/th_th/",
+      "https://www.android.com/intl/vi_vn/",
+      "https://www.android.com/intl/tr_tr/",
+      "https://www.android.com/intl/zh-CN_cn/",
+      "https://www.android.com/intl/zh-TW_tw/",
+      "https://www.android.com/ai/",
+      "https://www.android.com/intl/da_dk/ai/",
+      "https://www.android.com/intl/de_de/ai/",
+      "https://www.android.com/intl/en_au/ai/"
     ]
   },
   "myfritz.net": {

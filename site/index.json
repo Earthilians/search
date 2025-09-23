@@ -186877,5 +186877,803 @@
     "title": "The Challenges of Understanding and Communicating Health Risks | National Institutes of Health (NIH)",
     "description": "Health communicators of all kinds—from researchers to journalists to health care workers—often find ",
     "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov  "
+  },
+  {
+    "id": "ffa4afa24666822c0cbfa4c8b4fe9b9fbc9a9dfd",
+    "url": "https://www.paypal.com/ae/cshelp/article/can-i-send-paypal-feedback-for-virtual-terminal-ts2236?locale.x=ar_AE",
+    "title": "Can I send PayPal feedback for Virtual Terminal? | PayPal AE",
+    "description": "Yes. We welcome your feedback about your Virtual Terminal experience — how well\nthings work for you ",
+    "text": "Yes. We welcome your feedback about your Virtual Terminal experience — how well things work for you "
+  },
+  {
+    "id": "82bdeee1a33fff192c1bceb2c7f6b2b099311c19",
+    "url": "https://www.paypal.com/ae/cshelp/article/can-i-have-my-balance-automatically-transferred-to-my-bank-account-help398?locale.x=ar_AE",
+    "title": "هل يمكنني تحويل رصيدي تلقائيا إلى حسابي المصرفي؟ | PayPal AE",
+    "description": "إن التحويلات الآلية لـ PayPal تتيح لك جدولة السحب الدوري لرصيدك إلى حسابك المصرفي. قم بإعداد التحويل",
+    "text": "تمكنك التحويلات التلقائية من جدولة تحويل رصيدك على PayPal إلى حسابك البنكي بالوتيرة والمقدار المطلوب"
+  },
+  {
+    "id": "f2530e871bfe90f9540f5191a95a81b7ef4b2d36",
+    "url": "https://www.paypal.com/ae/cshelp/article/can-i-transfer-money-to-my-debit-card-help497?locale.x=ar_AE",
+    "title": "هل يمكنني تحويل أموال إلى بطاقة السحب الخاصة بي؟ | PayPal AE",
+    "description": "تحتاج سحب بطاقة باي بال إلى تأكيد وفحص مؤهلات مختلفة للتحويل بأوقات ورسوم مختلفة. قد يكون هناك حاجة ",
+    "text": "لا تتوفر إمكانية السحب عبر البطاقات لجميع الدول. يرجى مراجعة حسابك لمعرفة ما إذا كنتَ مؤهلاً لتلك ال"
+  },
+  {
+    "id": "01c14c1802ceaaec15d501bf53ccc7f88caf0f89",
+    "url": "https://www.paypal.com/ae/cshelp/article/can-i-log-in-to-my-paypal-account-if-i-have-a-new-email-address-help152?locale.x=ar_AE",
+    "title": "هل أستطيع تسجيل الدخول إلى حسابي على PayPal إذا كان لدي عنوان بريد إلكتروني جديد؟ | PayPal AE",
+    "description": "يمكنك تسجيل الدخول إلى باي بال باستخدام عنوان بريد إلكتروني جديد عن طريق إضافته إلى حسابك وتأكيده أو",
+    "text": "إذا كنت تستخدم عنوان بريد إلكتروني جديد يمكنك تسجيل الدخول\nإلى حسابك على PayPal. عليك تسجيل الدخول إ"
+  },
+  {
+    "id": "5fdf108199d4e3193e06f4a13b4a1dc8133a945f",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-are-fees-for-payouts-calculated-and-reported-ts2216?locale.x=ar_AE",
+    "title": "How are fees for Payouts calculated and reported? | PayPal AE",
+    "description": "Payout fees\n\nPayout fees are calculated individually for each Payout that you send. Fees vary\nby sen",
+    "text": "Payout fees\nPayout fees are calculated individually for each Payout that you send. Fees vary by send"
+  },
+  {
+    "id": "9b874118c2f53e8ff50a6c245a71c162ac42e77a",
+    "url": "https://www.paypal.com/ae/cshelp/article/does-paypal-cover-my-purchase-if-theres-a-problem-help364?locale.x=ar_AE",
+    "title": "هل يغطي PayPal مشترياتي إذا حدثت مشكلة؟ | PayPal AE",
+    "description": "تغطي \"حماية المشتريات\" من PayPal جميع المعاملات المؤهلة. حافظ على حسابك بوضع جيد وارفع منازعة خلال ا",
+    "text": "تغطي سياسة حماية المشتريات لدينا جميع معاملات PayPal المؤهلة.\nللاستفادة من سياسة حماية المشتريات لدي"
+  },
+  {
+    "id": "1abdc5581d061712a7f7f3532622d77d9e16ce8d",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-data-be-migrated-using-the-paypal-credit-card-vault-tool-ts2245?locale.x=ar_AE",
+    "title": "How can data be migrated using the PayPal Credit Card Vault tool? | PayPal AE",
+    "description": "Use the PayPal Credit Card Vault to import or export sensitive customer data,\nsuch as credit card da",
+    "text": "Use the PayPal Credit Card Vault to import or export sensitive customer data, such as credit card da"
+  },
+  {
+    "id": "80a844990ca0767ab7cdd6446245b02e8833509c",
+    "url": "https://www.paypal.com/ae/cshelp/article/given-an-email-or-phone-number-how-do-i-check-the-status-of-a-paypal-account-using-the-php-api-ts1985?locale.x=ar_AE",
+    "title": "مقالات مركز المساعدة في PayPal | PayPal AE",
+    "description": "مقالة مركز المساعدة في PayPal",
+    "text": "حل مشكلات المعاملة والحساب المتصلة\nاطلب نموذج 1099-K وبيانات ضريبية أخرى هنا\nاطلب المساعدة في استخدا"
+  },
+  {
+    "id": "4acb559b475fc553609f418a7906451936150b9d",
+    "url": "https://www.paypal.com/ae/business/how-paypal-works?locale.x=ar_AE",
+    "title": "Page Not Found | PayPal AE",
+    "description": "The page you’re looking for can’t be found.",
+    "text": "Have questions? We have answers. From personal to business to technical.\nFrom sending money to payin"
+  },
+  {
+    "id": "70b07d1d255e090e9cf853c5dacdef63c815933b",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-accept-payments-help217?locale.x=ar_AE",
+    "title": "كيف يمكنني قبول المدفوعات عبر PayPal؟ | PayPal AE",
+    "description": "يعمل حل الدفع الإلكتروني الذي نوفره على تبسيط معالجة المدفوعات من خلال قبول طرق الدفع عبر PayPal وبا",
+    "text": "مع PayPal، ستتلقى المدفوعات عندما يرسل شخص دفعة إلى عنوان بريدك الإلكتروني أو رقم هاتفك المحمول. وبم"
+  },
+  {
+    "id": "f6340f7da653876b105caafcc53ac5def5e3f7d0",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/kaspersky-anti-targeted-attack-platform",
+    "title": "Anti Targeted Attack Platform | Kaspersky",
+    "description": "Aggregating events and objects from a whole corporate network, KATA applies machine-learning models,",
+    "text": "So called Advanced Persistent Threats are sophisticated, targeted, long-term and usually extremely w"
+  },
+  {
+    "id": "12c030741a77d666de9bed3c01d246b8dbe206e4",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/sandbox",
+    "title": "Sandbox  | Kaspersky",
+    "description": "Running on-premises, in the cloud and in Kaspersky Lab’s malware analysis infrastructure, our sandbo",
+    "text": "A sandbox is a system for malware detection that runs a suspicious object in a virtual machine (VM) "
+  },
+  {
+    "id": "c9301025bef28808bf98348cdb122013c8251036",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/emulator",
+    "title": "Emulator | Kaspersky",
+    "description": "Emulator executes the object’s instructions one by one in a safe virtual environment, collects artif",
+    "text": "The code emulation method of malware detection scans a file’s behavior by emulating its execution in"
+  },
+  {
+    "id": "39d7380ea1bc37750143f90b77070bddf76d8c2c",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/encryption",
+    "title": "Cloud threat intel: Kaspersky Security Network (KSN) | Kaspersky",
+    "description": "Full disk encryption prevents data leakage via loss of a device, file-level encryption protects file",
+    "text": "Kaspersky Endpoint Security for Windows has integrated tools for data encryption. They work accordin"
+  },
+  {
+    "id": "9d54bb2cb6aba83fa28c34adb5a044aa0755b4ff",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/kaspersky-endpoint-detection-and-response-edr",
+    "title": "Endpoint Detection and Response | Kaspersky",
+    "description": "Unlike single endpoint solutions, the EDR-class solution provides multi-host event visibility and “h",
+    "text": "Kaspersky EDR is a cybersecurity solution for the protection of corporate IT systems. It adds endpoi"
+  },
+  {
+    "id": "75ca21c7fb96c1e3902876f02d913abfce4ade97",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/protecting-mobile-devices",
+    "title": "Mobile Device Protection | Kaspersky",
+    "description": "Modern mobile devices require the whole range of security measures, from anti-malware protection and",
+    "text": "Mobile devices are popular targets for a cyberattack for several reasons:\nKaspersky Lab products use"
+  },
+  {
+    "id": "d81dea0757a4576ea4cc4e8c9d33b3725014be03",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/application-control-and-hips",
+    "title": "Application Control and HIPS | Kaspersky",
+    "description": "By limiting an application’s ability to launch or access critical system resources, even unknown thr",
+    "text": "Traditional protection from cyberattacks is based on malware detection that checks any application a"
+  },
+  {
+    "id": "10cf7759653bec5dbe881e81a7499a2adccb99fa",
+    "url": "https://www.kaspersky.com/enterprise-security/wiki-section/products/exploit-prevention",
+    "title": "Exploit Prevention | Kaspersky",
+    "description": "This technology reveals and blocks in real time the malware's attempts to benefit from software vuln",
+    "text": "Exploit Prevention (EP), part of Kaspersky Lab’s multi-layered, next generation protection, specific"
+  },
+  {
+    "id": "180d78faf541de3a8961670d2057a68b4b8389c5",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/evaluation-details",
+    "title": "ATT&CK Evaluation Insights | Kaspersky",
+    "description": "MITRE methodology specifics",
+    "text": "Since 2018, The MITRE Corporation has been evaluating the performance of EDR-class security products"
+  },
+  {
+    "id": "f1c53f23c20e2592957f07f1eea4aa48a0931ba5",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/visiting",
+    "title": "Visiting MITRE | Kaspersky",
+    "description": "Kaspersky experts' impressions about MITRE ATT&CK Evaluation procedure",
+    "text": "The MITRE Corporation is located in the town of McLean, not far from Washington. The second round of"
+  },
+  {
+    "id": "b232d778d84c41e3a3e57e06f0274f703d21fc9a",
+    "url": "https://www.nytimes.com/2025/09/23/world/europe/zelensky-trump-meeting-un-ukraine-us.html",
+    "title": "Zelensky to Meet With Trump on Sidelines of U.N. General Assembly - The New York Times",
+    "description": "The leaders of Ukraine and the United States will hold talks weeks after President Trump agreed to p",
+    "text": "Russia-Ukraine War\nAdvertisement\nSupported by\nThe leaders of Ukraine and the United States will hold"
+  },
+  {
+    "id": "d951b6c848dafe663ef01f1526c7d775ace871c4",
+    "url": "https://www.nytimes.com/interactive/2025/09/22/us/earthquake-san-francisco-tracker.html",
+    "title": "Map: 4.3-Magnitude Earthquake Strikes the San Francisco Bay Area - The New York Times",
+    "description": "View the location of the quake’s epicenter and shake area.",
+    "text": "Earthquakes\nAdvertisement\nBy William B. Davis, Madison Dong, Judson Jones, John Keefe, Joey K. Lee a"
+  },
+  {
+    "id": "af3de11a338fc3cebbdfbce59ced0c772779d77b",
+    "url": "https://www.nytimes.com/2025/09/23/world/asia/korea-zealand-suitcase-murders.html",
+    "title": "Woman Is Convicted of Killing Her Children and Leaving Them in Suitcases - The New York Times",
+    "description": "Years after Hakyung Lee left New Zealand for her native South Korea, the bodies of her children were",
+    "text": "Advertisement\nSupported by\nYears after Hakyung Lee left New Zealand for her native South Korea, the "
+  },
+  {
+    "id": "a82ecc5d806d37b82279adec2f7da2ab436b8386",
+    "url": "https://www.nytimes.com/athletic/6653870/2025/09/23/canadiens-preseason-opener-owen-beck/",
+    "title": "The psychology of a Canadiens hopeful through the eyes and ears of Owen Beck - The Athletic",
+    "description": "How Martin St. Louis handled the recall and demotion of Beck last season says a lot about his import",
+    "text": "NHL\nMONTREAL — Owen Beck’s call-up to the Montreal Canadiens last season, at least the very end of i"
+  },
+  {
+    "id": "f9c58c98e236605128a31bdca4ca27f5b7e5d30c",
+    "url": "https://www.nytimes.com/athletic/live-blogs/ryder-cup-2025-live-updates-team-usa-europe-practice/AYv77iR3g8AX/",
+    "title": "Ryder Cup 2025 live updates: Latest from Team USA and Europe practice rounds today - The Athletic",
+    "description": "Follow the latest news and analysis as Team USA and Team Europe ramp up to this weekend’s tournament",
+    "text": "Golf\nlive\nUpdated 10m ago\nTeam USA and Team Europe hit the course at Bethpage Black today as prepara"
+  },
+  {
+    "id": "0a77cc464a782bfd7d2909156659aba71f0b68ad",
+    "url": "https://www.nytimes.com/2025/09/23/world/europe/ukraine-gas-stations.html",
+    "title": "For a Glimpse Into Ukraine’s War, Stop at a Gas Station - The New York Times",
+    "description": "Filling stations have become must-stop spots for soldiers traveling to and from the front, helping t",
+    "text": "Russia-Ukraine War\nAdvertisement\nSupported by\nUkraine Dispatch\nFilling stations have become must-sto"
+  },
+  {
+    "id": "e57e195054128ea3367ae91ff8195f8c5565320f",
+    "url": "https://www.nytimes.com/athletic/6650982/2025/09/23/seattle-mariners-cal-raleigh-home-run-tracker/",
+    "title": "Cal Raleigh homer watch: Can Mariners’ slugger reach 60 home runs? - The Athletic",
+    "description": "The \"Big Dumper\" has set the Mariners' franchise record with his 58th homer. Is 60 next?",
+    "text": "MLB\nMLB Playoff\nHunt\nThe race to October isn’t the only exciting thing happening in baseball’s wanin"
+  },
+  {
+    "id": "b6450cf6a246692fc2a3a925eee2395c067f584c",
+    "url": "https://www.nytimes.com/athletic/6653187/2025/09/23/bears-2-minute-drill-caleb-williams-cowboys/",
+    "title": "How some 2-minute magic put the Bears in complete control against the Cowboys - The Athletic",
+    "description": "Sunday's two-minute operation before halftime offered Caleb Williams and the Bears teach tape on clo",
+    "text": "NFL\nNFL Week 3\nIn the moment, it was difficult to discern the Chicago Bears’ mindset. Just a little "
+  },
+  {
+    "id": "ab5fd2360147c2df78744fd29ad75abb35241a0c",
+    "url": "https://www.nytimes.com/athletic/6652861/2025/09/23/cleveland-guardians-detroit-tigers-series-preview/",
+    "title": "Guardians-Tigers series preview: The AL Central battle has a lot at stake - The Athletic",
+    "description": "Here’s what to watch when the Tigers and Guardians collide this week in Cleveland.",
+    "text": "MLB\nMLB Playoff\nHunt\nCLEVELAND — Three hundred forty-six days later, the scene might look familiar: "
+  },
+  {
+    "id": "54fe9cf2f0d1ca92666cc54424f1e546b92ca01e",
+    "url": "https://www.nytimes.com/athletic/6653166/2025/09/23/panthers-ryan-fitzgerald-kickoffs-knuckleball/",
+    "title": "Panthers rookie kicker Ryan Fitzgerald finding early success as a knuckleballer - The Athletic",
+    "description": "The Falcons had trouble handling Fitzgerald's wobbly kickoffs Sunday and averaged just 11.6 yards on",
+    "text": "NFL\nNFL Week 3\nCHARLOTTE, N.C. — Film sessions are always more fun after a win.\nA day after dispatch"
+  },
+  {
+    "id": "83de001bb5603a8a4c5e7761b3e7ab069c190444",
+    "url": "https://www.f5.com/authors/jonathan-george",
+    "title": "Jonathan George",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "20d542e9312b0a185fae308c6b2851ff16eb3871",
+    "url": "https://www.f5.com/authors/hitesh-patel",
+    "title": "Hitesh Patel",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "d8d0cc140672a5d587a355c073017b125746b991",
+    "url": "https://www.f5.com/authors/james-hendergart",
+    "title": "James Hendergart",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "3a7c188436f92d0adafc300b80df8225dcb35ee4",
+    "url": "https://www.f5.com/authors/jay-kelley",
+    "title": "Jay Kelley",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "d4e1c7bc5efd8586404eac363121f66ae8ba8287",
+    "url": "https://www.f5.com/authors/kara-sprague",
+    "title": "Kara Sprague",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "726382e20a56d33255dca51f06a2db77f6fd907a",
+    "url": "https://www.f5.com/authors/kuna-nallappan",
+    "title": "Kuna Nallappan",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "cf46a84e9fa47a41413d1a588ebc1e7c5a09b4cd",
+    "url": "https://www.f5.com/authors/kyle-oliver",
+    "title": "Kyle Oliver",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "688d26ea2a8f32693ea29d4df9243fad3937b4c1",
+    "url": "https://www.f5.com/authors/mani-gadde",
+    "title": "Mani Gadde",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "af9dfbf1793db7f2823c5544fb802dd64429eaaf",
+    "url": "https://www.f5.com/authors/mike-convertino",
+    "title": "Mike Convertino",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "86f6255d63b209866257a43e43941102f277ab82",
+    "url": "https://www.f5.com/authors/lori-macvittie",
+    "title": "Lori MacVittie",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "f02142f17c9f538658b9c394687ae0aaebe07b63",
+    "url": "https://www.magnite.com/press-it/magnite-and-tvscientific-launch-performance-ctv-program-to-connect-dtc-performance-advertisers-with-premium-ctv-inventory/",
+    "title": "Magnite and tvScientific Launch Performance CTV Program to Connect DTC Performance Advertisers with ",
+    "description": "Initiative will help CTV publishers reach a new class of first-time TV buyers that value data-driven",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "fb7552cae100a24729c71fd2eee2606d8ecd2ce5",
+    "url": "https://www.magnite.com/blog/live-in-five-political-advertisers-achieve-instant-scale-with-programmatic-offering/",
+    "title": "Live in Five: Political Advertisers Achieve Instant Scale with Programmatic Offering",
+    "description": "Magnite’s political offering delivers scale and efficiency for buyers.",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "5746430aed8c1aa5a2c16b8729286956716032e2",
+    "url": "https://www.magnite.com/press/french-streaming-platform-molotov-selects-magnite-as-ssp-and-springserve-as-ad-server/",
+    "title": "Molotov Selects Magnite as SSP & SpringServe as Ad Server",
+    "description": "Molotov is leveraging Magnite as their SSP & SpringServe as their ad server for their ad-supported s",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "ac10a04feaa296c2a7b1bb8e19f8991d63919d82",
+    "url": "https://www.magnite.com/press/magnite-strengthens-audience-data-capabilities-with-addition-of-nth-party-team/",
+    "title": "Magnite brings on Nth Party Team to Strengthen Audience Data Capabilities",
+    "description": "Magnite is bringing on the team from Nth Party, a startup developing cryptographic software for secu",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "77591d6271bdc2be893c00e369f9380a2e3ac71a",
+    "url": "https://www.magnite.com/press-ja/magnite-research-finds-91-of-tv-viewers-in-latam-watch-streaming-tv-weekly/",
+    "title": "Magnite Research Finds 91% of TV Viewers in LATAM Watch Streaming TV Weekly|Magnite Research Finds 9",
+    "description": "Magnite’s “CTV in LATAM: The Future Forward” study explores the evolving consumer attitudes and cons",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "bddf99419bf0021a3241815ee6cab8f7e2f15674",
+    "url": "https://www.magnite.com/press-it/frndly-tv-taps-magnite-to-monetize-ctv-inventory-grow-ad-supported-revenue/",
+    "title": "Frndly TV Taps Magnite to Monetize CTV Inventory, Grow Ad-Supported Revenue",
+    "description": "Frndly TV selected Magnite to power its advertising revenue growth and enable the streaming platform",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "09700d5f5ba67d7b2a0bb471cdb2a71cc71f06fa",
+    "url": "https://www.magnite.com/press/groupm-preferred-technology-partner-globally/",
+    "title": "Magnite Selected by GroupM to Power GroupM Premium Marketplace in North America and as a Preferred T",
+    "description": "Partnership will see GroupM consolidate omnichannel media buys across CTV, digital video, and displa",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "f3b6992d0a7579a71db390fbe0b616bc6ebe763e",
+    "url": "https://www.magnite.com/blog/the-live-sports-advertising-opportunity-with-fubotv/",
+    "title": "The Live Sports Advertising Opportunity, With fuboTV",
+    "description": "Diana Horowitz, SVP, advertising sales at fuboTV talks about the state of the current marketplace an",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "c36e1940d546abb987ccdab87a754a0a89001176",
+    "url": "https://www.magnite.com/press/magnite-expands-ctv-business-in-india-with-samsung-ads/",
+    "title": "Magnite Expands CTV Business in India with Samsung Ads",
+    "description": "Magnite partners with Samsung Ads to power programmatic OTT and CTV inventory for Samsung TV Plus in",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "b719c95153c3f620713af74b6f7d5218b299d787",
+    "url": "https://www.magnite.com/press/magnite-ctv-live-research/",
+    "title": "Research Finds 68% of CTV Viewers Use At Least One Live Streaming TV Service",
+    "description": "44% of cable subscribers said they would cancel cable if they could get access to live streamed spor",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "25dcc6bf4e9bbf2bef6269f6f9f7b009427764b5",
+    "url": "https://www.flickr.com/photos/202645337@N03/galleries",
+    "title": "Stephanie Langley-George’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nstephanienlgeorge\n0 Followers•1 Following\n1 Photo\nLebanon, Indiana\nJoined 2025\nGive Pro\nste"
+  },
+  {
+    "id": "287e2dfe8e73f07028fb1072aefefa1cb69406a4",
+    "url": "https://www.flickr.com/photos/203497664@N07/galleries",
+    "title": "Andre Marques Moreira’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\ndev.fugu\n0 Followers•2 Following\nJoined 2025\nGive Pro\ndev.fugu\n0 Followers•2 Following\nJoin"
+  },
+  {
+    "id": "f48211aab1b69f9e249ae88e37d60ad427e29779",
+    "url": "https://www.flickr.com/photos/203351608@N07/favorites",
+    "title": "Murilo Bauer’s favorites | Flickr",
+    "description": "",
+    "text": "Give Pro\nmurilo129\n0 Followers•1 Following\nJoined 2025\nGive Pro\nmurilo129\n0 Followers•1 Following\nJo"
+  },
+  {
+    "id": "d008b7b9e42bcb703a0964b02484cfc36266b952",
+    "url": "https://www.flickr.com/photos/201637032@N05",
+    "title": "Frank Fehrenbach | Flickr",
+    "description": "",
+    "text": "Give Pro\nfehrenb\n0 Followers•1 Following\nJoined 2024\nGive Pro\nfehrenb\n0 Followers•1 Following\nJoined"
+  },
+  {
+    "id": "cb5d929fd507db7eec0ac10982f4bbbba27c8db6",
+    "url": "https://www.flickr.com/people/202624472@N05",
+    "title": "About Maddey Mcquaig | Flickr",
+    "description": "",
+    "text": "Give Pro\nmaddeylogan\n0 Followers•1 Following\nJoined 2025\nGive Pro\nmaddeylogan\n0 Followers•1 Followin"
+  },
+  {
+    "id": "e3e173cac64919327a75185bccc8cbbc37873401",
+    "url": "https://www.flickr.com/photos/202851819@N04/galleries",
+    "title": "Saionara  Santos de Jesus’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nsaionara.jesus\n0 Followers•1 Following\nJoined 2025\nGive Pro\nsaionara.jesus\n0 Followers•1 Fo"
+  },
+  {
+    "id": "8043858574e7110487752ffae529d7bddec35a73",
+    "url": "https://www.flickr.com/photos/201562630@N05/galleries",
+    "title": "Алевтина Зверова’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nzvarovaalisa\n0 Followers•1 Following\nJoined 2024\nGive Pro\nzvarovaalisa\n0 Followers•1 Follow"
+  },
+  {
+    "id": "a9cf3fb2620cb48e979eada4a74d8c9ed5d10316",
+    "url": "https://www.flickr.com/people/202605714@N07",
+    "title": "About Arantza Garayoa Pérez | Flickr",
+    "description": "",
+    "text": "Give Pro\narantzagarayoa\n0 Followers•1 Following\nJoined 2025\nGive Pro\narantzagarayoa\n0 Followers•1 Fo"
+  },
+  {
+    "id": "1c097a88a2d4b8ff2f43c219fb43e63eafea53e1",
+    "url": "https://www.flickr.com/photos/203380435@N07",
+    "title": "Diane Barstow | Flickr",
+    "description": "",
+    "text": "Give Pro\nikjwxvxx81\n0 Followers•1 Following\nJoined 2025\nGive Pro\nikjwxvxx81\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "081fee32489f52d693dca063bfb4c7633fda93f2",
+    "url": "https://www.flickr.com/people/202064611@N04",
+    "title": "About Lorena Thimm | Flickr",
+    "description": "",
+    "text": "Give Pro\nluzy9000\n0 Followers•1 Following\nJoined 2025\nGive Pro\nluzy9000\n0 Followers•1 Following\nJoin"
+  },
+  {
+    "id": "219f0a8a049a2fc0358580ac570900f6b1a72e55",
+    "url": "https://www.shopify.com/blog/topics",
+    "title": "Popular topics from Ecommerce Marketing Blog - Shopify",
+    "description": "Visit over 200 topics covering ecommerce marketing, running an online business, and more.",
+    "text": "Tips and guides for everything happening behind the scenes, including funding, accounting, and insur"
+  },
+  {
+    "id": "c3e438f2a319395aaa670ea735f98db18193f0df",
+    "url": "https://www.shopify.com/bugbounty",
+    "title": "Shopify Bug Bounty",
+    "description": "We take merchant trust and safety very seriously. Our maximum bounty of $200,000 reflects that.",
+    "text": "Program statistics\nStart by exploring our scope, eligibility and known issues to understand how to d"
+  },
+  {
+    "id": "f0e7fccdf583d2016e651b69587feff5bba7de75",
+    "url": "https://www.shopify.com/blog/topics/guides",
+    "title": "- Shopify",
+    "description": "",
+    "text": "In-depth resources to help you navigate starting and growing your business.\nSep 17, 2025\nSep 3, 2025"
+  },
+  {
+    "id": "2c5aeb47bbba525e9d1070ad187ab68cf54c1aff",
+    "url": "https://www.shopify.com/blog/what-is-shopify",
+    "title": "What Is Shopify and How Does It Work? (2025) - Shopify",
+    "description": "Discover how Shopify helps you sell online and in person. Explore features and pricing plans. Start ",
+    "text": "Start selling with Shopify today\nStart your free trial with Shopify today—then use these resources t"
+  },
+  {
+    "id": "4b7c67a6a5e212374bff10cdfaecc1373e52f552",
+    "url": "https://www.shopify.com/bugbounty/about",
+    "title": "About | Shopify Bug Bounty",
+    "description": "We reward security researchers for finding and reporting vulnerabilities that help keep our platform",
+    "text": "We reward security researchers for finding and reporting vulnerabilities that help keep our platform"
+  },
+  {
+    "id": "98bbe40969fb5a84972455f66c894acc1a113fcb",
+    "url": "https://www.shopify.com/bugbounty/criteria",
+    "title": "Criteria | Shopify Bug Bounty",
+    "description": "Discover which issues fall into the known and illegible issues categories and the rules to participa",
+    "text": "Issues eligibility, scope and guidelines\nAt Shopify we allow merchants to use HTML in their store de"
+  },
+  {
+    "id": "faedca5db6aa720b5160558d4775ad3031d68c45",
+    "url": "https://www.shopify.com/bugbounty/calculator",
+    "title": "Calculator | Shopify Bug Bounty",
+    "description": "Get an estimate of the bounty you could receive for a vulnerability you've discovered.",
+    "text": "Bug Bounty Severity Calculator\nThis metric reflects the context by which vulnerability exploitation "
+  },
+  {
+    "id": "57776bdf3fd31c41554eb7de198501441c649106",
+    "url": "https://www.shopify.com/bugbounty/faq",
+    "title": "FAQs | Shopify Bug Bounty",
+    "description": "Shopify Bug Bounty FAQs",
+    "text": "Rules & FAQ"
+  },
+  {
+    "id": "7dd8d9d238d81222715db399283619546df0bbd2",
+    "url": "https://www.shopify.com/bugbounty/resources",
+    "title": "Resources | Shopify Bug Bounty - Shopify",
+    "description": "Find resources to craft exceptional reports and understand our program's processes.",
+    "text": "Enhance your hacking experience"
+  },
+  {
+    "id": "0a0d6765771e32636b73ff1a32c0c5958517f17e",
+    "url": "https://medium.com/floris-playground/new-teaching-stories-iii-f0a1e941454d",
+    "title": "New Teaching Stories III. To find wisdom we need to go beyond the… | by Floris Koot | Floris’ Playgr",
+    "description": "The art of the teaching story was developed to educate about the complexities of life. I wrote these",
+    "text": "Sign up\nSign in\nSign up\nSign in\nPoetry, Short Stories, Experiments\n--\nListen\nShare\nBefore even relig"
+  },
+  {
+    "id": "6347c480f9ff28ed97929a6042bf4fd103567402",
+    "url": "https://medium.com/analytics-vidhya/vae-generative-modelling-for-face-recognition-71e8ba16950c",
+    "title": "VAE Generative Modelling for Face Recognition | by Seshadri Senthamaraikannan | Analytics Vidhya | M",
+    "description": "VAE Generative Modelling for Face Recognition Introduction: Generative modelling is another interest",
+    "text": "Sign up\nSign in\nSign up\nSign in\nAnalytics Vidhya is a community of Generative AI and Data Science pr"
+  },
+  {
+    "id": "2af23f4a47de36dfa45163d78d090886219ea643",
+    "url": "https://medium.com/wisdom-body-collective/the-kaleidoscope-in-my-window-d511f9243a9",
+    "title": "The Kaleidoscope in My Window. on rest and (re)production | by amy bobeda | Wisdom Body Collective |",
+    "description": "The Kaleidoscope in My Window on rest and (re)production My kaleidoscopic bits are refracting, foldi",
+    "text": "Sign up\nSign in\nSign up\nSign in\nWe are a process oriented collective. We seek knowledge of sensation"
+  },
+  {
+    "id": "6ba22fe6197a85737eecbd800b1683b2eae4f1cf",
+    "url": "https://medium.com/@rubenmarcus/rafa-tudo-bem-575ae20482bf",
+    "title": "Rafa , tudo bem?. Eu não achei o repositório do seu… | by Ruben Marcus | Medium",
+    "description": "Rafa , tudo bem? O projeto é muito legal. Mas o intuito da lista é divulgar repositórios que desenvo",
+    "text": "Sign up\nSign in\nSign up\nSign in\nRafa\n--\nShare\nRafa , tudo bem? O projeto é muito legal.Mas o intuito"
+  },
+  {
+    "id": "1e8c3057db831e8427a9f87f5f3289fe1e124ff2",
+    "url": "https://medium.com/@mathewmba/i-agree-with-you-that-what-happened-in-wisconsin-doesnt-make-sense-a04907a3c48f",
+    "title": "I agree with you that what happened in Wisconsin doesn’t make sense. | by Mathew A | Medium",
+    "description": "I agree with you that what happened in Wisconsin doesn’t make sense. Reasonable accommodations shoul",
+    "text": "Sign up\nSign in\nSign up\nSign in\nTim Libretti, PhD\n--\n2\nListen\nShare\nI agree with you that what happe"
+  },
+  {
+    "id": "1447b29bf2751aa2db918fc77387f53bd58ff0d5",
+    "url": "https://medium.com/@victorialambert/i-find-it-interesting-that-the-most-critical-responses-to-this-article-are-coming-from-fit-white-d2073fae46cd",
+    "title": "I find it interesting that the most critical responses to this article are coming from fit, white… |",
+    "description": "I find it interesting that the most critical responses to this article are coming from fit, white me",
+    "text": "Sign up\nSign in\nSign up\nSign in\nRami Bailony, MD\n--\n1\nListen\nShare\nI find it interesting that the mo"
+  },
+  {
+    "id": "e6ad7d7f02afb5840eec2e5d3715ea5589c47f92",
+    "url": "https://medium.com/@awolffwriting/thank-you-misa-ferreira-de-rezende-i-appreciate-that-6d0fb74569a9",
+    "title": "Thank you, Misa Ferreira de Rezende, I appreciate that. | by Aurora McDaniel | Medium",
+    "description": "“Thank you, Misa Ferreira de Rezende, I appreciate that.” is published by Aurora McDaniel.",
+    "text": "Sign up\nSign in\nSign up\nSign in\nMisa Ferreira de Rezende\n--\nShare\nThank you,\n--\n--\nHelp\nStatus\nAbout"
+  },
+  {
+    "id": "ce968156cf9d836e3206d25237981ea9764f054d",
+    "url": "https://medium.com/swlh/how-to-set-up-a-react-app-with-a-flask-and-mongodb-backend-using-docker-19b356180199",
+    "title": "How to set up a React app with a Flask and MongoDB backend using Docker | by Emil Johansson | The St",
+    "description": "How to set up a React app with a Flask and MongoDB backend using Docker In this short article I will",
+    "text": "Sign up\nSign in\nSign up\nSign in\nGet smarter at building your thing. Follow to join The Startup’s +8 "
+  },
+  {
+    "id": "cdd89ab4b62c8bee58ee2a2831ca028c5c7da57f",
+    "url": "https://medium.com/offtop/tiger-king-winners-and-losers-b42a0c986d62",
+    "title": "Tiger King Winners and Losers. Who came away with the crown? Who got… | by T.G. Shepherd | OffTop | ",
+    "description": "Tiger King Winners and Losers Who came away with the crown? Who got put through the meat grinder? Ho",
+    "text": "Sign up\nSign in\nSign up\nSign in\nA cultural observatory.\n--\nListen\nShare\nHow do you win in Tiger King"
+  },
+  {
+    "id": "de236b134d15418a033f7d70472df0f98f0dbfa7",
+    "url": "https://medium.com/graphiteworks/taiwan-can-help-518cff025da3",
+    "title": "譚德塞的指控、回應的文案，都是我的教材. 整件事情的緣由，是台灣一些網路上的朋友針對WHO秘書長譚德塞的發言，發起了一個募… | by Fred Jame | 石墨工房8.0",
+    "description": "譚德塞的指控、回應的文案，都是我的教材 整件事情的緣由，是台灣一些網路上的朋友針對WHO秘書長譚德塞的發言，發起了一個募款在紐約時報上購買� …",
+    "text": "Sign up\nSign in\nSign up\nSign in\nFollow publication\n傅瑞德的書房、工作室、玩具間。\nFollow publication\n--\nShare\n這個運動很"
+  },
+  {
+    "id": "c427cc7a91cf61ea575f89d5713457ed0c3fbee1",
+    "url": "https://soundcloud.com/pages/embed",
+    "title": "SoundCloud - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nHere’s a guide to using the e"
+  },
+  {
+    "id": "40345ee36086726dc4efd3854b59fc7630fc643c",
+    "url": "https://soundcloud.com/pages/contact",
+    "title": "Contact SoundCloud",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "69899a672d84a7947d1de47758555f02643f1291",
+    "url": "https://soundcloud.com/pages/modern-slavery-act",
+    "title": "SoundCloud - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nThis statement is made on beh"
+  },
+  {
+    "id": "680afe8491954758551c8d2f4f1f10226577047c",
+    "url": "https://soundcloud.com/pages/promote-terms-and-conditions",
+    "title": "Promote on SoundCloud - Terms and Conditions - Listen to music",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nWelcome to Promote on SoundCl"
+  },
+  {
+    "id": "beafe1ca6f0f1bb93ea64a3d52f30ad28c3b938f",
+    "url": "https://soundcloud.com/search",
+    "title": "null results on SoundCloud - Listen to music",
+    "description": "Explore all things null in the SoundCloud catalog.",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nYour current browser isn't co"
+  },
+  {
+    "id": "db812c236bf8abc346cc3c1ae3538ceaf2aaa1ac",
+    "url": "https://developer.adobe.com/adobe-status/support/",
+    "title": "Support - Status API",
+    "description": "This is the support page of the Status API",
+    "text": "Find answers to frequently asked questions here.\nNo. Status API's provide the same information as st"
+  },
+  {
+    "id": "d15d7d53f2b8c4ff2507f26b43ad8776cbbe54e2",
+    "url": "https://developer.adobe.com/adobe-status/guides/sample-api-calls/",
+    "title": "",
+    "description": "",
+    "text": "Gateway URL: https://status.adobe.io\nBase URL: https://status.adobe.io/api/v1/\nAPI Key: StatusAdobeI"
+  },
+  {
+    "id": "086acbb02d11286539db608e6f6bad51eda7d75b",
+    "url": "https://developer.adobe.com/adobe-status/support/contribute/",
+    "title": "",
+    "description": "",
+    "text": "Lorem ipsum"
+  },
+  {
+    "id": "f5b5aa5549ba5b6c9d8b01039f6ef2979af8461c",
+    "url": "https://developer.adobe.com/adobesign-api/",
+    "title": "Elevate customer experiences with secure, trusted e-signatures.",
+    "description": "It’s fast and easy to integrate e-signature capabilities into your mobile apps, website, or platform",
+    "text": "It’s fast and easy to integrate e-signature capabilities into your mobile apps, website, or platform"
+  },
+  {
+    "id": "b1abcaa3c364d962d68c1713528dc3224b2de55b",
+    "url": "https://developer.adobe.com/adobe-status/guides/using_postman/",
+    "title": "",
+    "description": "",
+    "text": "Download Status API postman collection and environment variable from here - Postman Collection\nImpor"
+  },
+  {
+    "id": "724011c8cc346d3f521dff7a0914228a879990fb",
+    "url": "https://developer.adobe.com/adobe-status/support/community/",
+    "title": "",
+    "description": "",
+    "text": "Lorem ipsum"
+  },
+  {
+    "id": "52c40d91bed809a3e9573b2c21bb091cbd01f4df",
+    "url": "https://developer.adobe.com/adobe-status/support/FAQ/",
+    "title": "",
+    "description": "",
+    "text": "Lorem ipsum"
+  },
+  {
+    "id": "9b1e0db27ed69e3e8ec12d72fcf60327c5da5efb",
+    "url": "https://developer.adobe.com/after-effects",
+    "title": "Creative Cloud - After Effects",
+    "description": "This is the home page of After Effects APIs",
+    "text": "Opportunities abound for building for After Effects. Extend the capabilities of After Effects using "
+  },
+  {
+    "id": "e98cc76c457ea625959ebaee08673406ed4d985a",
+    "url": "https://developer.adobe.com/after-effects/",
+    "title": "Creative Cloud - After Effects",
+    "description": "This is the home page of After Effects APIs",
+    "text": "Opportunities abound for building for After Effects. Extend the capabilities of After Effects using "
+  },
+  {
+    "id": "4c34e4dbf1483adabab5e36b1fdc949ba218fe6c",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/",
+    "title": "Adobe Analytics 1.4 APIs",
+    "description": "The Analytics 1.4 API overview page.",
+    "text": "The Adobe Analytics 1.4 APIs are the predecessor to the Analytics 2.0 APIs. They allow for the creat"
+  },
+  {
+    "id": "2b8a89ad57182139ac645274008dc6f42fc26776",
+    "url": "https://www.cnn.com/2025/09/22/asia/typhoon-ragasa-china-guangdong-hong-kong-intl-hnk",
+    "title": "Typhoon Ragasa: Hong Kong, southern China brace for powerful typhoon after it batters the Philippine",
+    "description": "A huge and powerful typhoon is headed toward southern China after lashing the Philippines with destr",
+    "text": "A huge and powerful typhoon is headed toward southern China after lashing the Philippines with destr"
+  },
+  {
+    "id": "bf2abfec717e18a4d799f1bb7be84c8bd1ca6ae8",
+    "url": "https://www.cnn.com/2025/09/23/health/autism-acetaminophen-pregnancy-questions",
+    "title": "What are your questions about autism and acetaminophen during pregnancy? | CNN",
+    "description": "President Trump and federal health officials said this week that women should limit acetaminophen us",
+    "text": "President Trump and federal health officials said this week that women should limit acetaminophen us"
+  },
+  {
+    "id": "fa1fe871fdfa4e40e64f4157ed38ee6522b4ea4f",
+    "url": "https://www.cnn.com/2025/09/22/health/trump-autism-announcement-cause-tylenol",
+    "title": "Trump links autism to Tylenol use during pregnancy, despite decades of evidence it’s safe | CNN",
+    "description": "President Donald Trump announced Monday that the US Food and Drug Administration will be notifying p",
+    "text": "President Donald Trump announced Monday that the US Food and Drug Administration will notify doctors"
+  },
+  {
+    "id": "356ec6dbfc076c3a89d5aa1f316b73b8ca11aa52",
+    "url": "https://www.cnn.com/2025/09/23/business/video/jimmy-kimmel-live-return-to-air-michael-musto-es",
+    "title": "Video: Journalist shares prediction for Sinclair’s move with Kimmel | CNN Business",
+    "description": "Entertainment journalist Michael Musto joins Polo Sandoval on “Early Start” to discuss the return of",
+    "text": "Entertainment journalist Michael Musto joins Polo Sandoval on “Early Start” to discuss the return of"
+  },
+  {
+    "id": "948704e045f8076b195d84c8cfc5d5ae83dcda68",
+    "url": "https://www.cnn.com/world/live-news/israel-france-palestine-un-09-22-25",
+    "title": "September 22, 2025: UN two-state solution summit and Middle East news | CNN",
+    "description": "Multiple European countries announced recognition of a Palestinian state during a summit at the UN G",
+    "text": "• Multiple European countries announced recognition of a Palestinian state during a summit at the UN"
+  },
+  {
+    "id": "6e9b31236df07b188390c3535742664b19f81fd9",
+    "url": "https://www.cnn.com/2025/09/22/health/acetaminophen-pregnancy-autism-what-to-know",
+    "title": "What pregnant people should know about acetaminophen | CNN",
+    "description": "Experts say that pregnant people should not be afraid to take Tylenol, rebuking unproven claims made",
+    "text": "Pregnant people should not be afraid to take Tylenol, experts say, rebuking unproven claims made by "
+  },
+  {
+    "id": "9e577481c9fd8046f4c4354bce9a6df1c90bac57",
+    "url": "https://www.cnn.com/2025/09/23/politics/us-citizen-children-separated-parents-deported-ice-invs",
+    "title": "‘The new family separation crisis’: More than 100 US citizen kids left stranded by ICE enforcement a",
+    "description": "Children across the US have ended up in the care of relatives, neighbors, friends, coworkers and eve",
+    "text": "Febe and Angelo Perez were asleep in their beds when immigration agents came for their mother.\nOnly "
+  },
+  {
+    "id": "f8dcf35f1c36a5e23b89f44f0586b67a6fcf0afb",
+    "url": "https://www.cnn.com/2025/09/23/politics/un-general-assembly-trump-speech",
+    "title": "Trump was once laughed at on the UN stage. Now, world leaders are courting him | CNN Politics",
+    "description": "When President Donald Trump brought his trademark braggadocio to the United Nations’ rostrum in his ",
+    "text": "When President Donald Trump brought his trademark braggadocio to the United Nations’ rostrum in his "
+  },
+  {
+    "id": "42ae6e9be2e00515f0621d4341b2f18be2084cab",
+    "url": "https://www.cnn.com/2025/09/23/us/uvalde-robb-elementary-teacher-amy-franco",
+    "title": "Uvalde teacher seeks video to clear her name | CNN",
+    "description": "Amy Marin-Franco says there’s proof she closed a door at Robb Elementary School before a massacre, b",
+    "text": "When teacher Amy Marin-Franco saw a pickup truck crash in a ditch outside her school, her first thou"
+  },
+  {
+    "id": "c94fa7424cada82150d28c3e369d10623ce83f2b",
+    "url": "https://www.cnn.com/2025/09/23/travel/fat-bear-week-katmai-alaska-2025",
+    "title": "Fat Bear Week 2025 is the distraction everybody needs | CNN",
+    "description": "The annual contest runs from September 23-30 in Alaska’s Katmai National Park.",
+    "text": "September 23, 2025 marks two important holidays: Rosh Hashanah, the Jewish New Year, and Fat Bear We"
+  },
+  {
+    "id": "9c5823f6aab698501546f06b052ec514013cfa77",
+    "url": "https://www.android.com/intl/zh-HK_hk/",
+    "title": "Android | 透過 Android 手機和裝置體驗更多元的 Google 服務",
+    "description": "進一步探索 Android，瞭解如何利用 Google 裝置體驗更多元的 Google 服務，享受超強的連線能力、強大的保護功能和 Google 應用程式。",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "2735df8347d47ff9a413f941a452d164413447e6",
+    "url": "https://www.android.com/intl/th_th/",
+    "title": "Android | ทำสิ่งต่างๆ ได้มากขึ้นด้วย Google บนโทรศัพท์และอุปกรณ์ Android",
+    "description": "ค้นพบสิ่งใหม่ๆ เกี่ยวกับ Android และดูวิธีที่อุปกรณ์ของเราช่วยให้คุณทำสิ่งต่างๆ ได้มากขึ้นด้วย Googl",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "2e362da44b6dcb30688ae7788a29be54e332e0ff",
+    "url": "https://www.android.com/intl/vi_vn/",
+    "title": "Android | Làm được nhiều việc hơn với Google trên điện thoại và thiết bị Android",
+    "description": "Khám phá thêm về Android và tìm hiểu cách các thiết bị của chúng tôi có thể giúp bạn Làm được nhiều ",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "814223b4e2ab1dbe5760371f27036dccee04fc2c",
+    "url": "https://www.android.com/intl/tr_tr/",
+    "title": "Android | Android Telefonlarda ve Cihazlarda Google ile Daha Fazlasını Yapın",
+    "description": "Android'i daha yakından tanıyın. Geniş bağlantı olanakları, güçlü koruma özellikleri ve Google uygul",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "89e659b34be9a13478ead51358f7ee8b3a63d6f7",
+    "url": "https://www.android.com/intl/zh-CN_cn/",
+    "title": "Android | 在 Android 手机和设备上，利用 Google 产品和服务，更快更轻松地处理更多事务",
+    "description": "进一步探索 Android，了解我们的设备上如何利用超级连接、强大保护机制和实用 Google 应用，帮您运用 Google 产品和服务更快更轻松地处理更多事务。",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "ef9cdf21ef17b420d4bb90d88f1be2cb6517f91a",
+    "url": "https://www.android.com/intl/zh-TW_tw/",
+    "title": "Android | 透過 Android 手機和裝置體驗更多元的 Google 服務",
+    "description": "進一步探索 Android，瞭解如何利用 Google 裝置體驗更多元的 Google 服務，享受卓越的連線能力、強大的防護功能及便利的 Google 應用程式。",
+    "text": "Android XR\nGemini\n......\n......\n......\n......\n......\n......\n....\n....\n....\n....\n....\n....\nGemini\nCir"
+  },
+  {
+    "id": "b17df5309d7d1a8181f9f09be03e0acc6a190ded",
+    "url": "https://www.android.com/ai/",
+    "title": "AI on Android: Features, Apps & Your AI Assistant | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant, Circle to Search",
+    "text": "Google Gemini: Free Pro Plan for college students. Terms apply.\nWhether you need decoration advice f"
+  },
+  {
+    "id": "c2951f56459cbe946a2f5b5feabe475b90f5aece",
+    "url": "https://www.android.com/intl/da_dk/ai/",
+    "title": "AI på Android: Funktioner, apps og din AI-assistent | Android",
+    "description": "Udforsk de nyeste AI-funktioner på Android såsom Gemini, der er din personlige AI-assistent, Circle ",
+    "text": "Uanset om du har brug for råd til at finde den rette pynt til en begivenhed eller hjælp til at fordo"
+  },
+  {
+    "id": "f8ab5a702dc6db219b4f1a40703914fb7efa309c",
+    "url": "https://www.android.com/intl/de_de/ai/",
+    "title": "Google AI für Android: Funktionen, Apps und dein persönlicher KI-Assistent | Android",
+    "description": "Entdecke die neuesten KI-Funktionen für Android. Zum Beispiel Gemini, deinen persönlichen KI-Assiste",
+    "text": "Google Gemini: Kostenloses Pro-Abo für Studierende. Jetzt anmelden.\nOb du Deko-Ideen für ein Event b"
+  },
+  {
+    "id": "0edd9fdb185a9a1120bfe4387f541a8c929995be",
+    "url": "https://www.android.com/intl/en_au/ai/",
+    "title": "AI on Android: features, apps & your AI assistant | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant, and Circle to Se",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, Android AI assist"
   }
 ]
