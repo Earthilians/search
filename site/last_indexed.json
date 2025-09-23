@@ -6972,11 +6972,11 @@
     "urls": []
   },
   "entrust.net": {
-    "lastAt": 1758313512435,
+    "lastAt": 1758662383667,
     "urls": []
   },
   "verisign.com": {
-    "lastAt": 1758313514100,
+    "lastAt": 1758662386399,
     "urls": [
       "https://www.verisign.com/en_US/domain-names/index.xhtml",
       "https://www.verisign.com/en_US/",
@@ -7007,21 +7007,31 @@
       "https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml",
       "https://www.verisign.com/en_US/website-presence/online/ssl-certificates/index.xhtml",
       "https://www.verisign.com/en_US/website-presence/online/what-is-a-url/index.xhtml",
-      "https://www.verisign.com/en_US/internet-technology-news/index.xhtml"
+      "https://www.verisign.com/en_US/internet-technology-news/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/verisign-press-releases/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/cert-alert/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/verisign-events/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/published-reports/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/verisign-press-releases/archives/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml",
+      "https://www.verisign.com/en_US/internet-technology-news/verisign-events/registrar-days/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/index.xhtml"
     ]
   },
   "live-video.net": {
-    "lastAt": 1758313517414,
+    "lastAt": 1758662389309,
     "urls": []
   },
   "tds.net": {
-    "lastAt": 1758313518511,
+    "lastAt": 1758662391239,
     "urls": [
       "https://tds.net/"
     ]
   },
   "eset.com": {
-    "lastAt": 1758313525455,
+    "lastAt": 1758662399849,
     "urls": [
       "https://www.eset.com/za/beta/",
       "https://www.eset.com/za/beta/form/",
@@ -7052,25 +7062,35 @@
       "https://www.eset.com/za/business/partner/find/",
       "https://www.eset.com/za/business/partner/technology-alliance/",
       "https://www.eset.com/za/business/partner/integration/download-tigerpaw-plugin/",
-      "https://www.eset.com/za/business/partner/integration/download-autotask-plugin/"
+      "https://www.eset.com/za/business/partner/integration/download-autotask-plugin/",
+      "https://www.eset.com/za/business/partner/integration/download-connectwise-plugin/",
+      "https://www.eset.com/za/business/partner/integration/download-connectwise-automate-plugin/",
+      "https://www.eset.com/za/business/partner/integration/download-kaseya-plugin/",
+      "https://www.eset.com/za/business/partner/reseller/",
+      "https://www.eset.com/za/business/partner/msp/",
+      "https://www.eset.com/za/business/services/",
+      "https://www.eset.com/za/business/services/threat-intelligence/",
+      "https://www.eset.com/za/business/services/eset-authorized-training-center/",
+      "https://www.eset.com/za/business/services/micro-updates/",
+      "https://www.eset.com/za/business/security-management-center-azure/"
     ]
   },
   "comcast.com": {
-    "lastAt": 1758313528553,
+    "lastAt": 1758662403362,
     "urls": []
   },
   "hichina.com": {
-    "lastAt": 1758313532868,
+    "lastAt": 1758662407481,
     "urls": []
   },
   "giphy.com": {
-    "lastAt": 1758313533862,
+    "lastAt": 1758662408664,
     "urls": [
       "https://giphy.com/"
     ]
   },
   "speedtest.net": {
-    "lastAt": 1758313536203,
+    "lastAt": 1758662411400,
     "urls": [
       "https://www.speedtest.net/apps/desktop",
       "https://www.speedtest.net/about",
@@ -7101,23 +7121,33 @@
       "https://www.speedtest.net/de/privacy",
       "https://www.speedtest.net/de/login",
       "https://www.speedtest.net/de/terms",
-      "https://www.speedtest.net/es"
+      "https://www.speedtest.net/es",
+      "https://www.speedtest.net/es/about",
+      "https://www.speedtest.net/es/help",
+      "https://www.speedtest.net/es/apps/desktop",
+      "https://www.speedtest.net/es/mobile",
+      "https://www.speedtest.net/es/audience-landing",
+      "https://www.speedtest.net/es/mobile/android",
+      "https://www.speedtest.net/es/mobile/windowsphone",
+      "https://www.speedtest.net/es/mobile/amazon",
+      "https://www.speedtest.net/es/mobile/ios",
+      "https://www.speedtest.net/es/privacy"
     ]
   },
   "addtoany.com": {
-    "lastAt": 1758313537174,
+    "lastAt": 1758662412559,
     "urls": [
       "https://addtoany.com/"
     ]
   },
   "wired.com": {
-    "lastAt": 1758313541691,
+    "lastAt": 1758662421723,
     "urls": [
       "https://wired.com/"
     ]
   },
   "outbrain.com": {
-    "lastAt": 1758313543422,
+    "lastAt": 1758662423969,
     "urls": [
       "https://www.outbrain.com/",
       "https://outbrain.com/",
@@ -7148,11 +7178,21 @@
       "https://www.outbrain.com/try-outbrain-demo/",
       "https://www.outbrain.com/try-outbrain-ads/",
       "https://www.outbrain.com/trust-and-transparency/",
-      "https://www.outbrain.com/ligatus/"
+      "https://www.outbrain.com/ligatus/",
+      "https://www.outbrain.com/ligatus/terms-and-conditions/",
+      "https://www.outbrain.com/ligatus/nl/",
+      "https://www.outbrain.com/ligatus/disclaimer/",
+      "https://www.outbrain.com/ligatus/imprint/",
+      "https://www.outbrain.com/ligatus/fr/",
+      "https://www.outbrain.com/ligatus/es/",
+      "https://www.outbrain.com/ligatus/de/",
+      "https://www.outbrain.com/ligatus/it/",
+      "https://www.outbrain.com/careers/detail/",
+      "https://www.outbrain.com/careers/"
     ]
   },
   "google.co.uk": {
-    "lastAt": 1758313544510,
+    "lastAt": 1758662425322,
     "urls": [
       "https://www.google.com/intl/et/gmail/about/",
       "https://www.google.com/intl/eu_es/gmail/about/",
@@ -7177,35 +7217,35 @@
     ]
   },
   "rzone.de": {
-    "lastAt": 1758313547970,
+    "lastAt": 1758662429076,
     "urls": []
   },
   "line.me": {
-    "lastAt": 1758313549914,
+    "lastAt": 1758662430543,
     "urls": [
       "https://line.me/"
     ]
   },
   "wb.ru": {
-    "lastAt": 1758313555942,
+    "lastAt": 1758662437266,
     "urls": []
   },
   "wbbasket.ru": {
-    "lastAt": 1758313559769,
+    "lastAt": 1758662442352,
     "urls": []
   },
   "icloud-content.com": {
-    "lastAt": 1758313560158,
+    "lastAt": 1758662442830,
     "urls": [
       "https://icloud-content.com/"
     ]
   },
   "s-msedge.net": {
-    "lastAt": 1758313563049,
+    "lastAt": 1758662445700,
     "urls": []
   },
   "slideshare.net": {
-    "lastAt": 1758313570152,
+    "lastAt": 1758662453584,
     "urls": [
       "https://slideshare.net/",
       "https://de.slideshare.net/slideshow/class-5/5884",
@@ -7236,31 +7276,41 @@
       "https://de.slideshare.net/slideshow/grafiksoundkarte/9837",
       "https://de.slideshare.net/slideshow/keynote-zu-einem-panel-bei-den-medientagen-2006/9902",
       "https://de.slideshare.net/slideshow/fotos-usa-kideakblogspotcom-mikel-agirregabiria/10077",
-      "https://de.slideshare.net/slideshow/kundenmanagement-im-web-20/10051"
+      "https://de.slideshare.net/slideshow/kundenmanagement-im-web-20/10051",
+      "https://de.slideshare.net/slideshow/projektprsentation/10338",
+      "https://de.slideshare.net/slideshow/spielerei/10161",
+      "https://de.slideshare.net/slideshow/aufbau-einer-pki-in-einer-domino-umgebung/10230",
+      "https://de.slideshare.net/slideshow/cogneonpraesentationregionaleswissensmanagement/10116",
+      "https://de.slideshare.net/slideshow/meet-me-everywhere-ibm-lotus-sametime-75-web-conferencing/10228",
+      "https://de.slideshare.net/slideshow/mikrolernobjekte-fr-einsteiger/10391",
+      "https://de.slideshare.net/slideshow/web-20-nutzenpotenzial-fr-schule/10521",
+      "https://de.slideshare.net/slideshow/medienkompetenzen-messen-und-erfassen/10623",
+      "https://de.slideshare.net/slideshow/die-methode-expert-debriefing/10955",
+      "https://de.slideshare.net/slideshow/rss-the-door-to-elearning-20/10911"
     ]
   },
   "mega.co.nz": {
-    "lastAt": 1758313571782,
+    "lastAt": 1758662455537,
     "urls": [
       "https://mega.co.nz/"
     ]
   },
   "beian.gov.cn": {
-    "lastAt": 1758313577393,
+    "lastAt": 1758662461061,
     "urls": []
   },
   "dns-parking.com": {
-    "lastAt": 1758313580666,
+    "lastAt": 1758662464150,
     "urls": []
   },
   "timeweb.ru": {
-    "lastAt": 1758313584079,
+    "lastAt": 1758662468200,
     "urls": [
       "https://timeweb.ru/"
     ]
   },
   "eventbrite.com": {
-    "lastAt": 1758313590706,
+    "lastAt": 1758662475833,
     "urls": [
       "https://eventbrite.com/",
       "https://www.eventbrite.com/d/pa--blairsville/singles/",
@@ -7275,11 +7325,11 @@
     ]
   },
   "cdnbuild.net": {
-    "lastAt": 1758313595206,
+    "lastAt": 1758662479797,
     "urls": []
   },
   "aliexpress.com": {
-    "lastAt": 1758313606363,
+    "lastAt": 1758662490626,
     "urls": [
       "https://aliexpress.com/",
       "https://www.aliexpress.com/star/en/d-article-4000026915107411.html",
@@ -7289,17 +7339,18 @@
       "https://www.aliexpress.com/star/ru/d-article-10003536128976.html",
       "https://www.aliexpress.com/star/en/d-article-4000022304396045.html",
       "https://www.aliexpress.com/star/ru/d-article-2529060483.html",
-      "https://www.aliexpress.com/star/ru/d-article-10001289154057.html"
+      "https://www.aliexpress.com/star/ru/d-article-10001289154057.html",
+      "https://www.aliexpress.com/star/ru/d-article-10013680401390.html"
     ]
   },
   "360yield.com": {
-    "lastAt": 1758316762001,
+    "lastAt": 1758662492838,
     "urls": [
       "https://360yield.com/"
     ]
   },
   "uber.com": {
-    "lastAt": 1758316770261,
+    "lastAt": 1758662505263,
     "urls": [
       "https://uber.com/",
       "https://www.uber.com/fr/en/r/cities/car-rentals/paris-idf-fr/suv/",
@@ -7330,11 +7381,21 @@
       "https://www.uber.com/global/ko/r/cities/arakawa-tokyo-jp/",
       "https://www.uber.com/global/en/r/cities/kaminokawa-tochigi-jp/",
       "https://www.uber.com/global/en/r/cities/tsubata-ishikawa-jp/",
-      "https://www.uber.com/global/ja/r/cities/kuki-saitama-jp/"
+      "https://www.uber.com/global/ja/r/cities/kuki-saitama-jp/",
+      "https://www.uber.com/au/en/r/cities/car-rentals/cairns-qld-au/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/sandhurst-eng-gb/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/headland-eng-gb/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/smiths-wood-eng-gb/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/luton-eng-gb/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/hedge-end-eng-gb/van/",
+      "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/new-westminster-bc-ca/electric/",
+      "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/ubc-point-grey-bc-ca/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/radbourne-eng-gb/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/westhoughton-eng-gb/electric/"
     ]
   },
   "msidentity.com": {
-    "lastAt": 1758316773182,
+    "lastAt": 1758662508170,
     "urls": []
   },
   "usatoday.com": {
