@@ -184847,5 +184847,656 @@
     "title": "NTP BUG 3382: Data Structure terminated insufficiently (Windows installer ONLY)",
     "description": "The Windows installer for NTP calls strcpy() which copies a single terminating null character into t",
     "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe Windows installer for NTP calls strcpy() with "
+  },
+  {
+    "id": "19a66ec986891f8aa8f38cd1d379cd3abea25c34",
+    "url": "https://www.msn.com/en-us/play/block",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d45d163410711d12517179b6622eea90e26dece4",
+    "url": "https://www.msn.com/en-us/play/board",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "9bb45fa12b1c7fa15c8a69c4edfed2a89cf0ae87",
+    "url": "https://www.msn.com/en-us/play/clicker",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3a1f23ce555e044145f9b0be512dc0f5d3b49751",
+    "url": "https://www.msn.com/en-us/play/hiddenobject",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f39a73bcfbcdc150f2813da9a5da36d913473433",
+    "url": "https://www.msn.com/en-us/play/daily",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b836cb8e791eecd13be4c2aabf726829a8c7dad8",
+    "url": "https://www.msn.com/en-us/play/idle",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "563fe23ca3b96c19801eba74b4163f3d68f87160",
+    "url": "https://www.msn.com/en-us/play/io",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b7a310a59799a2b7397152edfe37c4cc42dc2800",
+    "url": "https://www.msn.com/en-us/play/merge",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "dc0c0c472083cfe8e0f20f6a63d1e6a5761d68c3",
+    "url": "https://www.msn.com/en-us/play/mahjong",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5c73a126531761d10c1f8652d606fa750bc46c2c",
+    "url": "https://www.msn.com/en-us/play/rpg",
+    "title": "MSN",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d6f3a097e100b99cf7ba16f0af49cbf63f3db3d7",
+    "url": "https://adguard.com/en/adguard-ios/overview.html",
+    "title": "iOS ad blocker by AdGuard: remove all ads on iOS devices",
+    "description": "AdGuard adblock for iOS is able to eliminate all kinds of ads in Safari, protect your privacy, and r",
+    "text": "Arthur\n                                            \n                                            \n   "
+  },
+  {
+    "id": "a007cf5da4ea6897b308a7e41e7f2a6024931b25",
+    "url": "https://adguard.com/en/adguard-android-tv/overview.html",
+    "title": "AdGuard for Android TV: The only adblock for TV | AdGuard",
+    "description": "AdGuard is a unique app that blocks ads, protects your privacy, and encrypts TV traffic. Stream safe",
+    "text": "Rinan\n                                            \n                                            \n    "
+  },
+  {
+    "id": "34e982547ba140fb0e9fd9377f3695d64066fbd3",
+    "url": "https://adguard.com/en/adguard-browser-extension/overview.html",
+    "title": "AdGuard AdBlocker Browser Extension | Overview | AdGuard",
+    "description": "AdGuard browser extensions are among the fastest and most lightweight adblock extensions available. ",
+    "text": "Claver M.\n                                            \n                                            \n"
+  },
+  {
+    "id": "3ddef1d6437039191380c767b786509d822d3ccb",
+    "url": "https://adguard.com/en/adguard-mac/overview.html",
+    "title": "Ad blocker for Mac by AdGuard: remove all kinds of ads",
+    "description": "AdGuard for Mac is the world’s first standalone adblock app designed specifically for macOS. It bloc",
+    "text": "DKJTR\n                                            \n                                            \n    "
+  },
+  {
+    "id": "82ce894ad5a7bc8ae15c9775e296ae4c949e2eaa",
+    "url": "https://adguard.com/en/adguard-ios-pro/overview.html",
+    "title": "AdGuard Pro — Adblock for iOS | Overview | AdGuard",
+    "description": "AdGuard Pro offers a lot on top of ad blocking in Safari. By providing access to custom DNS settings",
+    "text": "Arthur\n                                            \n                                            \n   "
+  },
+  {
+    "id": "5e0d16c7bdfd20e2bf7c4b5e904dbb438e89b08c",
+    "url": "https://adguard.com/en/adguard-safari/overview.html",
+    "title": "AdGuard for Safari | Overview | AdGuard",
+    "description": "Ad blocking extensions for Safari are having a hard time since Apple started to force everyone to us",
+    "text": "suddenlyPONY\n                                            \n                                          "
+  },
+  {
+    "id": "a4a31ab6cd2e45fa4730d9b0ae4c12e0d57bbf8f",
+    "url": "https://adguard.com/en/adguard-linux/overview.html",
+    "title": "AdGuard for Linux — the world’s first system-wide Linux ad blocker",
+    "description": "Install AdGuard Ad Blocker through your command-line interface to block ads, trackers, and threats a",
+    "text": "Thank you ADGuard\n                                            \n                                     "
+  },
+  {
+    "id": "00dbac23f7355220ee7c343ef980393426b7a815",
+    "url": "https://adguard.com/en/adguard-assistant/overview.html",
+    "title": "AdGuard Assistant | Overview | AdGuard",
+    "description": "AdGuard Assistant is a tool to help you block ads right from the browser without leaving the current",
+    "text": "83 locations worldwide\nAccess to any content\nStrong encryption\nNo-logging policy\nFastest connection\n"
+  },
+  {
+    "id": "6fa35396c711def3efd7f3c3ee3d21ef666750e8",
+    "url": "https://adguard.com/en/adguard-content-blocker/overview.html",
+    "title": "AdGuard Content Blocker | Overview | AdGuard",
+    "description": "AdGuard Content Blocker eliminates all ads in mobile browsers that support content blocker technolog",
+    "text": "Rinan\n                                            \n                                            \n    "
+  },
+  {
+    "id": "dd37588cbb1139106dd6b248ae1974ab108d5b5c",
+    "url": "https://adguard.com/en/adguard-home/overview.html",
+    "title": "AdGuard Home | Network-wide software for any OS: Windows, macOS, Linux",
+    "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it’ll cove",
+    "text": "Clau\n                                            \n                                            \n     "
+  },
+  {
+    "id": "8112a939d6ea50c6df368d811d39226a16a19e55",
+    "url": "https://www.postman.com/explore/popular-apis",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8e048b6ea4a79972b6b5798192b24277cb3a17f8",
+    "url": "https://www.postman.com/explore/startup-apis",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "35e0ad280ddda455c9b3156b9781909761cc98e2",
+    "url": "https://www.postman.com/explore/postman-flows-gallery",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a91ae7e0368092572fb1c83f97d5ff7f73547f9f",
+    "url": "https://www.postman.com/explore/insight",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "dd9265f822e838eb8adf951232d0d12187a0e8b2",
+    "url": "https://www.postman.com/explore/football-apis",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "65a6398af92f90ac02c815f5ab928d57118aee69",
+    "url": "https://www.postman.com/explore/api-hackathon-winners",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "936a35124ff00b6f0188065224ccb9d99b6ca55c",
+    "url": "https://www.postman.com/explore/staff-picks-apis-workspaces",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c1f9cc0ff084ce879cad9aea42d892b507929cad",
+    "url": "https://www.postman.com/explore/gaming-apis",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5a5ef31fa8d1e81e78ba3fdf50f089fc2cc01d46",
+    "url": "https://www.postman.com/explore/payments",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5f86f4e9113b94fd9bfa334b5ca8d971d355ffb8",
+    "url": "https://www.postman.com/explore/new-and-noteworthy",
+    "title": "Postman",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0840cfc438f923c30044543bcd2f499e194da730",
+    "url": "https://www.tizen.org/blogs/tsg/2013/tizen-2-2-platform-release/",
+    "title": "",
+    "description": "",
+    "text": "Technical Steering Group, 23 Sep 2025\nWe are pleased to announce that Tizen platform 2.2 source code"
+  },
+  {
+    "id": "e9acb868f546d971076242046042532ca69263ef",
+    "url": "https://www.tizen.org/blogs/bdub/2013/tdc2013-slides-audio-and-video/",
+    "title": "",
+    "description": "",
+    "text": "Brian Warner, 23 Sep 2025\nHopefully you were able to make it to this year’s Tizen Developer Conferen"
+  },
+  {
+    "id": "b176863db6c00f5a8f90bfcb2bd4790609dfc3b6",
+    "url": "https://www.tizen.org/blogs/bbranch/2013/tizen-3-0-m2-aug-for-ivi-released/",
+    "title": "",
+    "description": "",
+    "text": "3 Comments                            \n                                                Brett Branch,"
+  },
+  {
+    "id": "e5b3c3a69628a25382344a691fe7819b849a8342",
+    "url": "https://www.tizen.org/blogs/bdub/2013/cocos2d-x-others-now-support-tizen/",
+    "title": "",
+    "description": "",
+    "text": "Brian Warner, 23 Sep 2025\nIn case you hadn’t heard, Tizen SDK isn’t the only way you can produce app"
+  },
+  {
+    "id": "cfce835e7a8f3cf18d903d79464153ff78c4cbd2",
+    "url": "https://www.tizen.org/blogs/tsg/2013/tizen-2-2-1-platform-release/",
+    "title": "",
+    "description": "",
+    "text": "Technical Steering Group, 23 Sep 2025\nWe are pleased to announce that Tizen platform 2.2.1 source co"
+  },
+  {
+    "id": "9b05f41da70e5493c7cc476c2a6cabb29152f016",
+    "url": "https://www.tizen.org/blogs/bspencer/2013/tizen-2-2-1-compliance-specification-and-tests-released-for-mobile-profile/",
+    "title": "",
+    "description": "",
+    "text": "Bob Spencer, 23 Sep 2025\nTizen Steering Group would like to announce that the official version of Ti"
+  },
+  {
+    "id": "a408d64ab5d06be42ca76d726f0ffe052701959b",
+    "url": "https://www.tizen.org/blogs/tsg/2014/tizen-sdk-for-wearable-1-0-0-beta1-release/",
+    "title": "",
+    "description": "",
+    "text": "Technical Steering Group, 23 Sep 2025\nWe are pleased to announce that Tizen SDK for Wearable 1.0.0 B"
+  },
+  {
+    "id": "61a5d7aa2995c82286d872d357a539e67ead1f7c",
+    "url": "https://www.tizen.org/blogs/tsg/2014/tizen-sdk-for-wearable-1-0-0-beta2-release/",
+    "title": "",
+    "description": "",
+    "text": "Technical Steering Group, 23 Sep 2025\nTizen SDK for Wearable 1.0.0 Beta2 is now available on the SDK"
+  },
+  {
+    "id": "0bab990b859092ca3c46d598a3ece9362871efed",
+    "url": "https://www.tizen.org/blogs/tsg/2014/tizen-developer-conference-2014-agenda-and-event-highlights/",
+    "title": "",
+    "description": "",
+    "text": "1 Comment                            \n                                                Technical Stee"
+  },
+  {
+    "id": "39f336b52236ebef32025cc6261465c059fd9c4f",
+    "url": "https://www.tmz.com/2025/09/22/bryan-kohberger-new-crime-scene-photos/",
+    "title": "Cops Release More Photos From Bryan Kohberger Murder House",
+    "description": "Here's a fresh batch of crime scene photos from the Idaho home where Bryan Kohberger brutally murder",
+    "text": "Here's a fresh batch of crime scene photos from the Idaho home where Bryan Kohberger brutally murder"
+  },
+  {
+    "id": "92dd566f24254245927cc27dd8c1b70572636b59",
+    "url": "https://www.tmz.com/2025/09/22/rhom-lea-black-prepping-to-sell-hollywood-home/",
+    "title": "'RHOM' Lea Black Preparing to Sell Los Angeles Home for $7 Million",
+    "description": "'Real Housewives' star Lea Black is ready to part ways with her jaw dropping Hollywood Hills mansion",
+    "text": "'Real Housewives' star Lea Black is ready to part ways with her jaw dropping Hollywood Hills mansion"
+  },
+  {
+    "id": "886337c299c2d95401fe5aff3e379b5c139b66bf",
+    "url": "https://www.tmz.com/2025/09/22/diddy-defense-wants-lighter-sentence/",
+    "title": "Diddy's Defense Team Lays Out Reasons for Light Sentence in Criminal Case",
+    "description": "Sean \"Diddy\" Combs' army of attorneys is laying out all the reasons why they say he should not have ",
+    "text": "Sean \"Diddy\" Combs' army of attorneys is laying out all the reasons why they say he should not have "
+  },
+  {
+    "id": "f8e3c5c7cf19c046e8794ef46179d2355601d03f",
+    "url": "https://www.tmz.com/2025/09/22/sinclair-not-airing-jimmy-kimmel-abc-affiliate-stations/",
+    "title": "Sinclair Won't Air 'Jimmy Kimmel Live!' on ABC Affiliates When Show Returns",
+    "description": "Jimmy Kimmel is getting back on the air after a brief suspension, but not everyone will be able to s",
+    "text": "Jimmy Kimmel is getting back on the air after a brief suspension, but not everyone will be able to s"
+  },
+  {
+    "id": "44b9a1111db4bc1fe9bb0ce1ef584698230e927a",
+    "url": "https://www.tmz.com/2025/08/31/rock-of-love-star-kelsey-bateman-dies/",
+    "title": "'Rock of Love' Star Kelsey Bateman Dead at 39",
+    "description": "Kelsey Bateman -- a contestant on Bret Michaels' reality show 'Rock of Love' -- has died ... TMZ has",
+    "text": "Kelsey Bateman -- a contestant on Bret Michaels' reality show 'Rock of Love' -- has died ... TMZ has"
+  },
+  {
+    "id": "8895cc67282a394601888a99c45fbaa5eff9c80f",
+    "url": "https://www.tmz.com/2025/08/31/burning-man-festivalgoer-found-dead-lying-pool-blood/",
+    "title": "Burning Man Festivalgoer Found Dead, Lying in Pool of Blood",
+    "description": "A Burning Man attendee was found dead in what can only be described as a gruesome scene ... accordin",
+    "text": "A Burning Man attendee was found dead in what can only be described as a gruesome scene ... accordin"
+  },
+  {
+    "id": "4c84000b129020ed0155a810f174df5f44eddf5a",
+    "url": "https://www.tmz.com/2025/09/01/nfl-kickoff-needs-on-amazon/",
+    "title": "NFL Season Kickoff Necessities on Amazon",
+    "description": "We're just days away from the official kickoff of the 2025 NFL season -- and there's still time left",
+    "text": "TMZ may collect a share of sales or other compensation from links on this page.\nWe're just days away"
+  },
+  {
+    "id": "926e0a2c7a8695e1a0a1c36589a4eb449e36e254",
+    "url": "https://www.tmz.com/2025/09/01/celebrity-baby-bumps-guess-who/",
+    "title": "Celebrity Baby Bumps -- Guess Who!",
+    "description": "These moms-to-be have been puttin' in that work, and if anyone deserves a day off to kick back and r",
+    "text": "These moms-to-be have been puttin' in that work, and if anyone deserves a day off to kick back and r"
+  },
+  {
+    "id": "7db77aa960396d63bf4ee55047c96229b6278440",
+    "url": "https://www.tmz.com/2025/09/01/guess-who-this-kid-with-a-summer-tan-turned-into/",
+    "title": "Guess Who This Kid With A Summer Tan Turned Into!",
+    "description": "He played Ted Mosby on 'How I Met Your Mother.' Can you guess who he is?",
+    "text": "Before this cool kiddo -- sportin' his Lacoste striped shirt -- turned into an American actor, he wa"
+  },
+  {
+    "id": "712a099c1c5e3e36bd3b9be505bda6d4e52b979b",
+    "url": "https://www.tmz.com/2025/09/01/frankie-edgar-bkfc-fight-ufc/",
+    "title": "Frankie Edgar Opens Up On Unretiring, Says Family Doesn't Love Him Fighting",
+    "description": "Frankie Edgar's coming out of retirement, but not everyone is thrilled with the decision!",
+    "text": "Frankie Edgar's coming out of retirement ... but not everyone is thrilled with the decision!\nTMZ Spo"
+  },
+  {
+    "id": "b72819e0f2bb9f13690b0d96012d27bf1cd96b65",
+    "url": "http://www.colorado.edu/admissions",
+    "title": "Admissions | University of Colorado Boulder",
+    "description": "At CU Boulder, we believe in opportunity. It signals possibility. Opportunity is everywhere at CU Bo",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "37b6ff4d9e0c5410d17c5a83cb1f4185fc3e6623",
+    "url": "http://www.colorado.edu/resources",
+    "title": "Campus Resources | University of Colorado Boulder",
+    "description": "Find resources with contact and location information for a broad range of services.",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "f22713953ea3773154042a6cce089706ebfeef09",
+    "url": "http://www.colorado.edu/academics/cmdi",
+    "title": "Communication, Media, Design and Information | University of Colorado Boulder",
+    "description": "The College of Communication, Media, Design and Information (CMDI) was created to match the times we",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "0e130f8eacdd75dd211f16f097a10fbbd6d308ec",
+    "url": "http://www.colorado.edu/academics/grad-anthropology",
+    "title": "Graduate Degrees in Anthropology | University of Colorado Boulder",
+    "description": "Ranked as the #1 anthropology school in Colorado, CU Boulder’s Department of Anthropology is respect",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "95d85e861744f6d26235e2290aade56c604588ee",
+    "url": "http://www.colorado.edu/resources/academic-support",
+    "title": "Academic Support Resources | University of Colorado Boulder",
+    "description": "CU Boulder combines a world-class education with personalized support to ensure you succeed in the c",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "a0dc8f0e2bb429ef6d5702dd1020c41e2f1d6a1b",
+    "url": "http://www.colorado.edu/resources/community-groups",
+    "title": "Community & Group Resources | University of Colorado Boulder",
+    "description": "At CU Boulder, we are committed to building a diverse, inclusive campus community where all thrive. ",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "9db981bb75b9138120b19149220a5628a9811c5e",
+    "url": "http://www.colorado.edu/resources/health-wellness",
+    "title": "Health & Wellness Resources | University of Colorado Boulder",
+    "description": "Nurture your whole self in and out of the classroom with help from our health and wellness resources",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "11de11fb962528c03c9b71a95d2ab29675e1eb38",
+    "url": "http://www.colorado.edu/resources/jobs-internships",
+    "title": "Jobs & Internships Resources | University of Colorado Boulder",
+    "description": "Explore resources designed to empower you to take your next career steps confidently, from finding o",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "7049bf47f45a73d793975d2eb3d771c5ba2b85ce",
+    "url": "http://www.colorado.edu/academics/ba-anthropology",
+    "title": "Bachelor of Arts in Anthropology | University of Colorado Boulder",
+    "description": "As an anthropology major, you will apply basic methods, concepts, theories and modes of explanation ",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "d8a44227aa09109f381fdeb205c84c569a063be8",
+    "url": "http://www.colorado.edu/academics/minor-anthropology",
+    "title": "Minor in Anthropology | University of Colorado Boulder",
+    "description": "Anthropology is the study of people, both ancient and modern, in their cultural, biological and envi",
+    "text": "Colorado’s leading public research university, transforming lives since 1876.\nLearn More\nCustomize y"
+  },
+  {
+    "id": "273081a8cc35a5aeeb952fe337003e5c7c323c7d",
+    "url": "https://www.ti.com/document-viewer/lit/html/sbaa290",
+    "title": "SBAA290 Application brief | TI.com",
+    "description": "Reduce Bridge Measurement Offset and Drift Using the AC Excitation Mode in the ADS1235 and ADS1261",
+    "text": "SBAA290A\n\tMay\n\t \n\t2018\n\t\n\t – May 2021\n\t\n\t \n\t\t\t\n\n\t\t\t\t ADS1235 , ADS1261\nIntroduction\nMany industrial "
+  },
+  {
+    "id": "9cfca04a35e46eaa40a37c8e2ec8a12d4c8f92e5",
+    "url": "https://www.ti.com/document-viewer/lit/html/sbaa311",
+    "title": "SBAA311 Application brief | TI.com",
+    "description": "±12-V Input, Next-Generation, Reinforced Isolated Amplifier for Voltage Sensing",
+    "text": "SBAA311A\n\tSeptember\n\t \n\t2018\n\t\n\t – August 2022\n\t\n\t \n\t\t\t\n\n\t\t\t\t ISO224\nIn high-voltage industrial\n    "
+  },
+  {
+    "id": "425e17a2871a16bf68018c16223c841ae40b3c5b",
+    "url": "https://www.ti.com/document-viewer/lit/html/sbaa324",
+    "title": "SBAA324 Application brief | TI.com",
+    "description": "Shunt-Based Current-Sensing Solutions for BMS Applications in HEVs and EVs",
+    "text": "SBAA324B\n\tDecember\n\t \n\t2018\n\t\n\t – February 2021\n\t\n\t \n\t\t\t\n\n\t\t\t\t INA226-Q1 , INA228-Q1 , INA229-Q1 , I"
+  },
+  {
+    "id": "8fdd4efb61494c59376da5078e68dfc63a4e70eb",
+    "url": "https://www.ti.com/document-viewer/lit/html/sbaa399",
+    "title": "SBAA399 Application brief | TI.com",
+    "description": "ADS7x28 True Root-Mean-Square Module",
+    "text": "SBAA399\n\tFebruary\n\t \n\t2023\n\t\n\t \n\t\t\t\n\n\t\t\t\t ADS7028 , ADS7128\nThe root-mean-square (RMS) value of\n    "
+  },
+  {
+    "id": "1491653af3d04f8a819483104098da274f7ff125",
+    "url": "https://auth0.com/features",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "83b50cfe009139d2523b817ed0168f2c74c2a05b",
+    "url": "https://auth0.com/enterprise",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b5c237f0642ca9ed2cc9c8288d2c1989778439c9",
+    "url": "https://auth0.com/digital-transformation",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0753632625e7f4053f1eb25431a1c4c8eade4f71",
+    "url": "https://auth0.com/explore/data-privacy/",
+    "title": "Secure AI Agent & User Authentication | Auth0",
+    "description": "Secure users, AI agents, and more with Auth0, an easy-to-implement, scalable, and adaptable authenti",
+    "text": "Developers\nDevelopers\nDeveloper Tools\nGet Involved\nDocumentation\nDocumentation\nSupport Center\nProduc"
+  },
+  {
+    "id": "dfbe57b2916f7354b4882020d98065418808b0a2",
+    "url": "https://auth0.com/devs-buy-saas-bvp",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "7e44c19fe9edae7a1c18ca96eee64551b556cbe2",
+    "url": "https://auth0.com/features/actions",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8b35cbdd15658f54f02af62690a79609b9fb6c23",
+    "url": "https://auth0.com/features/breached-passwords",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f2d0fb5a60fc8f4e285c2e39f34c59d20c963816",
+    "url": "https://auth0.com/features/forms",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1b279d36f2f0bc015caff4bb4a8dfb78a4e2c243",
+    "url": "https://auth0.com/features/highly-regulated-identity",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1e292a434d568b3d343f0ca44765a81780ccea1c",
+    "url": "https://auth0.com/features/machine-to-machine",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ada31d7d30af964ee5a14f3fdf7c1eaab0c48563",
+    "url": "https://www.ucweb.com/blog/use-vpn-win-labubu",
+    "title": "How to Claim Free Labubu & Exclusive Giveaways with a Secure VPN Setup",
+    "description": "Complete guide to bypassing geo-restrictions and securing exclusive Labubu giveaways using UC Browse",
+    "text": "Complete guide to bypassing geo-restrictions and securing exclusive Labubu giveaways using UC Browse"
+  },
+  {
+    "id": "9db56c70e97a924932f135ab9fa63c7f53cc9d18",
+    "url": "https://www.ucweb.com/id/blog/best-vpn",
+    "title": "5 Layanan VPN Terbaik untuk Indonesia",
+    "description": "Jelajahi layanan VPN pilihan kami yang dirancang khusus untuk pengguna di Indonesia, menyediakan kon",
+    "text": "Jelajahi layanan VPN pilihan kami yang dirancang khusus untuk pengguna di Indonesia, menyediakan kon"
+  },
+  {
+    "id": "fd9b68225f92e5664602375d640f98e35c174e92",
+    "url": "https://www.ucweb.com/blog/watch-youtube-blocked-videos",
+    "title": "Quick Methods to Watch Blocked YouTube Videos Using  VPN",
+    "description": "Unlock unlimited access to YouTube content from anywhere in the world. Discover the most effective m",
+    "text": "Unlock unlimited access to YouTube content from anywhere in the world. Discover the most effective m"
+  },
+  {
+    "id": "22bd4a0231558a26035f8a0b2072f7e6fb14552f",
+    "url": "https://www.ucweb.com/id/blog/use-vpn-win-labubu",
+    "title": "Cara Klaim Labubu Gratis & Giveaway Eksklusif dengan Pengaturan VPN yang Aman",
+    "description": "Panduan lengkap untuk melewati pembatasan geografis dan mendapatkan giveaway Labubu eksklusif menggu",
+    "text": "Panduan lengkap untuk melewati pembatasan geografis dan mendapatkan giveaway Labubu eksklusif menggu"
+  },
+  {
+    "id": "3cab7f93443ab73866e999fe679fbefbe02b2cdc",
+    "url": "https://www.ucweb.com/id/blog/watch-youtube-blocked-videos",
+    "title": "Metode Cepat Menonton Video YouTube yang Diblokir Menggunakan VPN",
+    "description": "Dapatkan akses tak terbatas ke konten YouTube dari mana saja di dunia. Temukan metode paling efektif",
+    "text": "Dapatkan akses tak terbatas ke konten YouTube dari mana saja di dunia. Temukan metode paling efektif"
+  },
+  {
+    "id": "4add0ae25a3d818f03808320573013fdcf780ab9",
+    "url": "https://www.ucweb.com/blog/use-vpn-buy-labubu",
+    "title": "How to Use a VPN to buy Labubu for Global Deals",
+    "description": "Discover how to use VPNs to securely access Labubu merchandise. Bypass regional restrictions and sho",
+    "text": "Discover how to use VPNs to securely access Labubu merchandise. Bypass regional restrictions and sho"
+  },
+  {
+    "id": "7de749b9c78bff91e0a96c9f3f81efddd312a559",
+    "url": "https://www.ucweb.com/id/blog/use-vpn-buy-labubu",
+    "title": "Cara Menggunakan VPN untuk membeli Labubu untuk Penawaran Global",
+    "description": "Temukan cara menggunakan VPN untuk mengakses barang dagangan Labubu dengan aman. Lewati batasan regi",
+    "text": "Temukan cara menggunakan VPN untuk mengakses barang dagangan Labubu dengan aman. Lewati batasan regi"
+  },
+  {
+    "id": "41763407c28399530b338f83bde9b564d3631728",
+    "url": "https://www.ucweb.com/blog/best-vpn-buy-labubu",
+    "title": "Top 5 Best VPNs for Buying Labubu in 2025",
+    "description": "Discover the top 5 VPNs to access Labubu merchandise securely in 2025. Bypass regional restrictions ",
+    "text": "Discover the top 5 VPNs to access Labubu merchandise securely in 2025. Bypass regional restrictions "
+  },
+  {
+    "id": "2d38188fc9476d33267cb844ee01c9a468c47eb4",
+    "url": "https://www.ucweb.com/blog/watch-gonjiam-haunted-aslum",
+    "title": "Gonjiam: Haunted Asylum Streaming Guide – Find Out Where to Watch It Online",
+    "description": "Follow this secure guide to bypass regional restrictions and enjoy Gonjiam: Haunted Asylum (2018), t",
+    "text": "Follow this secure guide to bypass regional restrictions and enjoy Gonjiam: Haunted Asylum (2018), t"
+  },
+  {
+    "id": "97c9a94870d42140731436150ce9c06ff87f3f3f",
+    "url": "https://www.ucweb.com/id/blog/best-vpn-buy-labubu",
+    "title": "5 VPN Terbaik untuk Membeli Labubu di Tahun 2025",
+    "description": "Temukan 5 VPN terbaik untuk mengakses merchandise Labubu secara aman di tahun 2025. Lewati pembatasa",
+    "text": "Temukan 5 VPN terbaik untuk mengakses merchandise Labubu secara aman di tahun 2025. Lewati pembatasa"
+  },
+  {
+    "id": "a6b41110315c118573dd61d91ff6e7d4d1987577",
+    "url": "https://phantom.com/learn/crypto-101/perpetual-futures-trading",
+    "title": "Perpetual futures trading: How to trade like a pro • Phantom",
+    "description": "Simplify perpetual futures trading with Phantom Perps—intuitive design and built-in tools for every ",
+    "text": "It looks like you're located outside the English.\nPerpetual futures trading is not for the faint of "
+  },
+  {
+    "id": "005b26001d6d89ee6cea942b7f9d30b33b40a2fe",
+    "url": "https://phantom.com/learn/blog/introducing-phantom-multichain",
+    "title": "Introducing Phantom Multichain • Phantom",
+    "description": "Phantom provides a single, convenient solution for managing all your accounts and tokens across Sola",
+    "text": "It looks like you're located outside the English.\nWe are thrilled to announce that Phantom multichai"
+  },
+  {
+    "id": "3fbf6bf77c2efa7b909756c6f9ce8cdf84cd4ab3",
+    "url": "https://phantom.com/learn/crypto-101/zeta-airdrop",
+    "title": "Zeta airdrop: The $ZEX token guide",
+    "description": "We explore all things Zeta and take a look at the $ZEX token airdrop.",
+    "text": "It looks like you're located outside the English.\nZeta is one of the longest standing DeFi protocols"
+  },
+  {
+    "id": "7eff90a208bf44888ba7cd904fdb99ec4d3162b2",
+    "url": "https://phantom.com/learn/crypto-101/solana-vs-ethereum",
+    "title": "Solana vs Ethereum: Everything you need to know",
+    "description": "We break down the differences between Solana and Ethereum to help you understand how each blockchain",
+    "text": "It looks like you're located outside the English.\nAt first glance, Solana and Ethereum might seem li"
+  },
+  {
+    "id": "84f78a1bcb35c73798f83d02b3a49adbefbb9bfe",
+    "url": "https://phantom.com/learn/crypto-101/what-is-staking",
+    "title": "What is staking in crypto and how does it work? • Phantom",
+    "description": "In this guide, you'll learn about native staking and liquid staking on Solana and Ethereum.",
+    "text": "It looks like you're located outside the English.\nSo, you’ve finally wrapped your head around crypto"
+  },
+  {
+    "id": "70c14312a6a8ab0dfc69dd33f3fa55fcabcf2942",
+    "url": "https://phantom.com/learn/crypto-101/crypto-chart-patterns",
+    "title": "Crypto chart patterns: How to trade smarter • Phantom",
+    "description": "Explore crypto chart patterns, from bullish flags to head & shoulders, and how to trade them smarter",
+    "text": "It looks like you're located outside the English.\nCrypto chart patterns look like modern art sometim"
+  },
+  {
+    "id": "a10ebcfb7306b7f8e9a20d41a220bfb46da9ffcb",
+    "url": "https://phantom.com/learn/crypto-101/polymarket-prediction-market",
+    "title": "Turn predictions into profits with Polymarket",
+    "description": "Learn how Polymarket blends finance, news, and blockchain to create a live, decentralized market for",
+    "text": "It looks like you're located outside the English.\nImagine a universe where you can hedge your bets n"
+  },
+  {
+    "id": "4ce1ae498bd4925fa0ffd7a4cc6449913d0f1e17",
+    "url": "https://phantom.com/learn/crypto-101/decentralized-science-desci",
+    "title": "Breaking barriers: Decentralized science (DeSci) • Phantom",
+    "description": "Learn about decentralized science (DeSci) and the latest advancements happening on Solana.",
+    "text": "It looks like you're located outside the English.\nDecentralized science, or DeSci, represents a tran"
+  },
+  {
+    "id": "dec99a44bceaac8a924c4e03b8c248145bc03ce4",
+    "url": "https://phantom.com/learn/crypto-101/solana-tokens",
+    "title": "Solana tokens: 5 bluechips you need to know",
+    "description": "We take a look at 5 Solana protocols and their associated bluechip governance tokens.",
+    "text": "It looks like you're located outside the English.\nSolana's recovery after the FTX collapse has been "
+  },
+  {
+    "id": "16d405a7cbb282b1c4c988b62694f94f4e676623",
+    "url": "https://phantom.com/learn/blog/anti-spoofing-security",
+    "title": "Anti-Spoofing Security With Lighthouse • Phantom",
+    "description": "Phantom and Lighthouse Protocol join forces to launch Guard Instructions.",
+    "text": "It looks like you're located outside the English.\nIn the rapidly evolving world of crypto, securing "
   }
 ]
