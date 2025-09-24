@@ -10445,7 +10445,7 @@
     "urls": []
   },
   "marriott.com": {
-    "lastAt": 1758342351056,
+    "lastAt": 1758695651904,
     "urls": [
       "https://www.marriott.com/luxury",
       "https://marriott.com/",
@@ -10476,15 +10476,25 @@
       "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-maldives",
       "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-reserve-dorado-beach",
       "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-st-thomas",
-      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-grand-cayman"
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-grand-cayman",
+      "https://www.marriott.com/luxury/explore-luxury-suites/w-south-beach",
+      "https://www.marriott.com/luxury/explore-luxury-suites/the-west-hollywood-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/the-miami-beach-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/jw-marriott-essex-house",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-new-york",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-naples",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-aspen",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-washington-dc",
+      "https://www.marriott.com/luxury/explore-luxury-suites/w-shanghai",
+      "https://www.marriott.com/luxury/explore-luxury-suites/canyon-suites-at-the-phoenician-scottsdale"
     ]
   },
   "bamgrid.com": {
-    "lastAt": 1758342354317,
+    "lastAt": 1758695654959,
     "urls": []
   },
   "cloudns.net": {
-    "lastAt": 1758342356974,
+    "lastAt": 1758695657483,
     "urls": [
       "https://www.cloudns.net/",
       "https://www.cloudns.net/managed-dns/",
@@ -10515,15 +10525,25 @@
       "https://www.cloudns.net/private-dns-servers-nl/",
       "https://www.cloudns.net/private-dns-servers-uk/",
       "https://www.cloudns.net/private-dns-servers-fr/",
-      "https://www.cloudns.net/private-dns-servers-tx-us/"
+      "https://www.cloudns.net/private-dns-servers-tx-us/",
+      "https://www.cloudns.net/private-dns-servers-ca-us/",
+      "https://www.cloudns.net/private-dns-servers-il-us/",
+      "https://www.cloudns.net/private-dns-servers-au/",
+      "https://www.cloudns.net/private-dns-servers-va-us/",
+      "https://www.cloudns.net/private-dns-servers-ru/",
+      "https://www.cloudns.net/private-dns-servers-br/",
+      "https://www.cloudns.net/private-dns-servers-md/",
+      "https://www.cloudns.net/private-dns-servers-lv/",
+      "https://www.cloudns.net/private-dns-servers-ua/",
+      "https://www.cloudns.net/private-dns-servers-hk/"
     ]
   },
   "quantserve.com": {
-    "lastAt": 1758342360716,
+    "lastAt": 1758695661408,
     "urls": []
   },
   "anydesk.com": {
-    "lastAt": 1758342365052,
+    "lastAt": 1758695665387,
     "urls": [
       "https://anydesk.com/en/abuse-prevention",
       "https://anydesk.com/en/all-platforms",
@@ -10554,27 +10574,37 @@
       "https://anydesk.com/en/case-studies/stefanini",
       "https://anydesk.com/en/case-studies/sunchemical",
       "https://anydesk.com/en/case-studies/uni-magdeburg",
-      "https://anydesk.com/en/case-studies/wanzl"
+      "https://anydesk.com/en/case-studies/wanzl",
+      "https://anydesk.com/en/changelog",
+      "https://anydesk.com/en/changelog/android",
+      "https://anydesk.com/en/changelog/freebsd",
+      "https://anydesk.com/en/changelog/linux",
+      "https://anydesk.com/en/changelog/apple-tv",
+      "https://anydesk.com/en/changelog/ios",
+      "https://anydesk.com/en/changelog/chrome-os",
+      "https://anydesk.com/en/changelog/mac-os",
+      "https://anydesk.com/en/changelog/on-premises",
+      "https://anydesk.com/en/changelog/raspberry-pi"
     ]
   },
   "dfn.nl": {
-    "lastAt": 1758342370631,
+    "lastAt": 1758695670162,
     "urls": []
   },
   "substack.com": {
-    "lastAt": 1758342373830,
+    "lastAt": 1758695673161,
     "urls": []
   },
   "amazon.ca": {
-    "lastAt": 1758342377554,
+    "lastAt": 1758695676731,
     "urls": []
   },
   "fb.com": {
-    "lastAt": 1758342382061,
+    "lastAt": 1758695680905,
     "urls": []
   },
   "cambridge.org": {
-    "lastAt": 1758342396670,
+    "lastAt": 1758695706146,
     "urls": [
       "https://www.cambridge.org/highereducation/books/the-origins-of-the-first-world-war/F1F0321D2E082F6CC0FBB0F9F744F0A4/listing",
       "https://www.cambridge.org/highereducation/forms/flippingtheclassroom",
@@ -10597,51 +10627,58 @@
       "https://www.cambridge.org/highereducation/subjects/geography",
       "https://www.cambridge.org/highereducation/subjects/health-and-medicine",
       "https://www.cambridge.org/highereducation/subjects/history",
-      "https://www.cambridge.org/highereducation/subjects/language-and-linguistics"
+      "https://www.cambridge.org/highereducation/subjects/language-and-linguistics",
+      "https://www.cambridge.org/highereducation/subjects/life-sciences",
+      "https://www.cambridge.org/highereducation/subjects/literature",
+      "https://www.cambridge.org/highereducation/subjects/music",
+      "https://www.cambridge.org/highereducation/subjects/law",
+      "https://www.cambridge.org/highereducation/subjects/philosophy",
+      "https://www.cambridge.org/highereducation/subjects/mathematics",
+      "https://www.cambridge.org/highereducation/subjects/physics-and-astronomy"
     ]
   },
   "cloudflareinsights.com": {
-    "lastAt": 1758342397021,
+    "lastAt": 1758695706443,
     "urls": [
       "https://cloudflareinsights.com/"
     ]
   },
   "alidns.com": {
-    "lastAt": 1758342399343,
+    "lastAt": 1758695709142,
     "urls": [
       "https://alidns.com/"
     ]
   },
   "grammarly.io": {
-    "lastAt": 1758342402764,
+    "lastAt": 1758695712466,
     "urls": []
   },
   "telephony.goog": {
-    "lastAt": 1758342462669,
+    "lastAt": 1758695772027,
     "urls": []
   },
   "bidr.io": {
-    "lastAt": 1758342465685,
+    "lastAt": 1758695775369,
     "urls": []
   },
   "samsungacr.com": {
-    "lastAt": 1758342468982,
+    "lastAt": 1758695778417,
     "urls": []
   },
   "pvp.net": {
-    "lastAt": 1758342472447,
+    "lastAt": 1758695781718,
     "urls": []
   },
   "e-msedge.net": {
-    "lastAt": 1758342475309,
+    "lastAt": 1758695784582,
     "urls": []
   },
   "asus.com": {
-    "lastAt": 1758342480888,
+    "lastAt": 1758695789747,
     "urls": []
   },
   "spiegel.de": {
-    "lastAt": 1758342500117,
+    "lastAt": 1758695808351,
     "urls": [
       "https://www.spiegel.de/ausland/drohnen-ueber-polen-donald-trump-spekuliert-ueber-russisches-versehen-a-752aa674-758c-4671-9428-fbce0af36f88",
       "https://www.spiegel.de/ausland/charlie-kirk-fbi-bittet-nach-toedlichem-schuss-mit-fotos-um-hinweise-a-55f7af6d-2fc6-4318-90b2-9c8ab7d3ad68",
@@ -10672,31 +10709,41 @@
       "https://www.spiegel.de/ausland/donald-trump-gebuehren-fuer-h1b-visa-von-fachkraeften-steigt-auf-100-000-dollar-a-d05a8cdf-189b-4d52-a53d-2a1ae726aec4",
       "https://www.spiegel.de/sport/fussball/souveraener-sieg-vfb-stuttgart-verhindert-st-paulis-tabellenfuehrung-ueber-nacht-a-bde99197-8c70-47f8-bd90-010ee8a7c359",
       "https://www.spiegel.de/panorama/gesellschaft/nur-wenige-ostdeutsche-in-fuehrungspositionen-a-f2d925a9-4542-42e1-92f6-03c8e88d7290",
-      "https://www.spiegel.de/ausland/trotz-maha-kampagne-impfempfehlung-fuer-hepatitis-b-bleibt-in-den-usa-vorerst-unveraendert-a-53496a33-2890-4afc-8993-2af28fe490a5"
+      "https://www.spiegel.de/ausland/trotz-maha-kampagne-impfempfehlung-fuer-hepatitis-b-bleibt-in-den-usa-vorerst-unveraendert-a-53496a33-2890-4afc-8993-2af28fe490a5",
+      "https://www.spiegel.de/panorama/justiz/biederitz-stellwerkbrand-an-bahnstrecke-in-sachsen-anhalt-polizei-ermittelt-a-b0f1e58e-2d9a-4f45-a586-dc48cc40792d",
+      "https://www.spiegel.de/wirtschaft/sondervermoegen-institut-der-deutschen-wirtschaft-warnt-vor-risiken-fuer-effiziente-umsetzung-a-574dce99-aa54-429b-84de-0d89ab9056a6",
+      "https://www.spiegel.de/ausland/uno-generalversammlung-pannen-bei-donald-trump-weisses-haus-verlangt-untersuchung-a-d41b00a4-8697-4047-a8ea-a01ec0304c04",
+      "https://www.spiegel.de/ausland/jimmy-kimmel-kaempft-mit-den-traenen-und-weiter-gegen-donald-trump-a-822b7ab5-4b14-47ab-b819-f7cd74f1cab4",
+      "https://www.spiegel.de/wirtschaft/berlin-flughafen-ber-kaempft-weiter-mit-it-problemen-a-d16dc13c-2b4c-4803-8f6b-71c16eba037b",
+      "https://www.spiegel.de/sport/fussball/fc-liverpool-hugo-ekitike-erzielt-den-siegtreffer-und-fliegt-wegen-seines-jubels-vom-platz-a-efd5857f-02f8-4874-a8f4-c40d2e5af298",
+      "https://www.spiegel.de/sport/fussball/fussball-bundesliga-giulia-gwinn-vom-fc-bayern-muenchen-kehrt-nach-81-tagen-auf-den-platz-zurueck-a-b9f7c387-ce81-4182-9ae1-9664b1587d00",
+      "https://www.spiegel.de/wirtschaft/vorsorgevollmacht-viel-zu-wenige-sichern-sich-rechtlich-fuer-fall-der-eigenen-demenz-ab-a-a22e8823-70ed-48e4-bd76-b4b399401f34",
+      "https://www.spiegel.de/wirtschaft/airbus-gegen-dassault-europaeisches-kampfjet-projekt-droht-zu-scheitern-a-22770768-97b3-40c7-959a-0c5898c59e3d",
+      "https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-will-wohlhabende-bei-sozialstaat-finanzierung-staerker-heranziehen-a-1bb5c994-62fb-4d4f-97b3-0d14a8745610"
     ]
   },
   "onelink.me": {
-    "lastAt": 1758342500650,
+    "lastAt": 1758695808687,
     "urls": [
       "https://onelink.me/"
     ]
   },
   "service.gov.uk": {
-    "lastAt": 1758342501291,
+    "lastAt": 1758695809633,
     "urls": [
       "https://service.gov.uk/"
     ]
   },
   "ks-cdn.com": {
-    "lastAt": 1758342505385,
+    "lastAt": 1758695813865,
     "urls": []
   },
   "zillow.com": {
-    "lastAt": 1758342513247,
+    "lastAt": 1758695821223,
     "urls": []
   },
   "rackspace.com": {
-    "lastAt": 1758342517130,
+    "lastAt": 1758695824956,
     "urls": [
       "https://www.rackspace.com/",
       "https://www.rackspace.com/about/culture",
@@ -10727,21 +10774,31 @@
       "https://www.rackspace.com/about/data-centers/sydney",
       "https://www.rackspace.com/about/forrester-wave",
       "https://www.rackspace.com/about/leadership/d-k-sinha",
-      "https://www.rackspace.com/about/leadership/gajen-kandiah"
+      "https://www.rackspace.com/about/leadership/gajen-kandiah",
+      "https://www.rackspace.com/about/leadership/josh-prewitt",
+      "https://www.rackspace.com/about/leadership/kathleen-schneider",
+      "https://www.rackspace.com/about/leadership/kellie-teal-guess",
+      "https://www.rackspace.com/about/leadership/greg-hrncir",
+      "https://www.rackspace.com/about/leadership/mark-marino",
+      "https://www.rackspace.com/about/leadership/michael-bross",
+      "https://www.rackspace.com/about/leadership/srini-koushik",
+      "https://www.rackspace.com/about/responsibility",
+      "https://www.rackspace.com/about/leadership/sandeep-bhargava",
+      "https://www.rackspace.com/about/strategic-alliances"
     ]
   },
   "myhuaweicloud.com": {
-    "lastAt": 1758342520708,
+    "lastAt": 1758695828776,
     "urls": []
   },
   "box.com": {
-    "lastAt": 1758342521846,
+    "lastAt": 1758695829842,
     "urls": [
       "https://box.com/"
     ]
   },
   "rbc.ru": {
-    "lastAt": 1758342529911,
+    "lastAt": 1758695839833,
     "urls": [
       "https://www.rbc.ru/rbcfreenews/68c14f139a7947895a1d5c7b",
       "https://www.rbc.ru/society/10/09/2025/68c149919a7947f254927c09",
@@ -10772,15 +10829,24 @@
       "https://www.rbc.ru/rbcfreenews/68cbbc339a7947b15a226f29",
       "https://www.rbc.ru/wine/news/68cbb2db9a794701ae28351c",
       "https://www.rbc.ru/rbcfreenews/68cbb8989a7947e525aca0be",
-      "https://www.rbc.ru/crypto/news/68cb0ec29a794737d8da2d83"
+      "https://www.rbc.ru/crypto/news/68cb0ec29a794737d8da2d83",
+      "https://www.rbc.ru/rbcfreenews/68d2217b9a79471fd8b53c7a",
+      "https://www.rbc.ru/rbcfreenews/68d207149a794711112bfeb9",
+      "https://www.rbc.ru/sport/23/09/2025/68c3f8e39a7947a615bdde11",
+      "https://www.rbc.ru/rbcfreenews/68d221059a794767afecacc1",
+      "https://www.rbc.ru/rbcfreenews/68d1f0029a7947888a5a6137",
+      "https://www.rbc.ru/politics/23/09/2025/68d1b91a9a79472997043f44",
+      "https://www.rbc.ru/politics/23/09/2025/68d217a89a794752f1ccdcf5",
+      "https://www.rbc.ru/politics/23/09/2025/68d1deec9a79476f985319eb",
+      "https://www.rbc.ru/rbcfreenews/68d2018d9a7947ebc178eaa6"
     ]
   },
   "steamstatic.com": {
-    "lastAt": 1758342533757,
+    "lastAt": 1758695844327,
     "urls": []
   },
   "lemonde.fr": {
-    "lastAt": 1758342540272,
+    "lastAt": 1758695849504,
     "urls": [
       "https://www.lemonde.fr/international/live/2025/09/12/en-direct-gaza-le-qatar-assure-vouloir-continuer-a-jouer-son-role-de-mediation-pour-la-paix-malgre-les-frappes-israeliennes-a-doha_6640485_3210.html",
       "https://www.lemonde.fr/culture/article/2025/09/12/labyrinthe-le-crepuscule-radieux-de-feu-chatterton_6640484_3246.html",
@@ -10811,7 +10877,17 @@
       "https://www.lemonde.fr/campus/article/2025/09/20/je-recycle-je-recycle-et-bayrou-prend-un-jet-prive-le-pessimisme-climatique-chez-les-jeunes_6641945_4401467.html",
       "https://www.lemonde.fr/culture/article/2025/09/20/les-replays-du-week-end-affaire-jubillar-aides-publiques-brame-du-cerf_6641943_3246.html",
       "https://www.lemonde.fr/argent/article/2025/09/20/quand-des-voyageurs-ayant-perdu-des-bagages-mettent-abusivement-en-cause-aeroports-de-paris_6641942_1657007.html",
-      "https://www.lemonde.fr/sport/article/2025/09/20/coupe-du-monde-feminine-de-rugby-avec-gaelle-mignot-et-david-ortiz-un-xv-de-france-bicephale-au-defi-des-red-roses_6641941_3242.html"
+      "https://www.lemonde.fr/sport/article/2025/09/20/coupe-du-monde-feminine-de-rugby-avec-gaelle-mignot-et-david-ortiz-un-xv-de-france-bicephale-au-defi-des-red-roses_6641941_3242.html",
+      "https://www.lemonde.fr/culture/article/2025/09/24/disco-afrika-une-histoire-malgache-l-eveil-politique-d-un-jeune-homme-revisitant-les-luttes-des-annees-1970_6642724_3246.html",
+      "https://www.lemonde.fr/international/article/2025/09/24/jimmy-kimmel-de-retour-a-l-antenne-de-la-chaine-abc-reconnait-des-propos-mal-choisis-ou-ambigus-a-propos-de-la-mort-de-charlie-kirk_6642719_3210.html",
+      "https://www.lemonde.fr/politique/article/2025/09/24/les-grands-groupes-mettent-en-garde-contre-un-nouveau-choc-fiscal_6642723_823448.html",
+      "https://www.lemonde.fr/culture/article/2025/09/24/mort-de-claudia-cardinale-muse-des-plus-grands-elle-incarna-avec-eclat-la-liberte-la-force-et-l-elegance_6642722_3246.html",
+      "https://www.lemonde.fr/societe/article/2025/09/24/attributions-des-logements-sociaux-les-prefets-franciliens-assignes-en-justice_6642720_3224.html",
+      "https://www.lemonde.fr/culture/article/2025/09/24/classe-moyenne-la-lutte-des-classes-version-clinquante_6642718_3246.html",
+      "https://www.lemonde.fr/idees/article/2025/09/24/rodrigo-arenas-sous-l-etendard-de-la-protection-des-mineurs-l-ue-s-apprete-a-faire-un-pas-decisif-vers-une-societe-de-controle_6642716_3232.html",
+      "https://www.lemonde.fr/idees/article/2025/09/24/que-resterait-il-d-intelligible-dans-une-decision-de-justice-ultra-censuree-en-occultant-noms-prenoms-adresses-et-dates_6642717_3232.html",
+      "https://www.lemonde.fr/sciences/article/2025/09/24/dans-les-secrets-du-nuancier-d-antoine-janot-maitre-teinturier-du-xviii-siecle_6642715_1650684.html",
+      "https://www.lemonde.fr/idees/article/2025/09/24/philippe-juvin-depute-il-y-a-trop-de-fonctionnaires-en-france-nous-avons-besoin-de-mesures-rapides-efficaces-et-justes-pour-en-faire-baisser-le-nombre_6642714_3232.html"
     ]
   },
   "afternic.com": {
