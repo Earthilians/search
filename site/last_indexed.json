@@ -9629,21 +9629,21 @@
     "urls": []
   },
   "cookielaw.org": {
-    "lastAt": 1758336995488,
+    "lastAt": 1758688002446,
     "urls": [
       "https://cookielaw.org/"
     ]
   },
   "adobedtm.com": {
-    "lastAt": 1758336998404,
+    "lastAt": 1758688005342,
     "urls": []
   },
   "chinamobile.com": {
-    "lastAt": 1758337057264,
+    "lastAt": 1758688064193,
     "urls": []
   },
   "klaviyo.com": {
-    "lastAt": 1758337062553,
+    "lastAt": 1758688068806,
     "urls": [
       "https://www.klaviyo.com/b2c-crm",
       "https://www.klaviyo.com/about",
@@ -9672,11 +9672,19 @@
       "https://www.klaviyo.com/customer-resources/advanced-capabilities",
       "https://www.klaviyo.com/customer-resources/beyond-basics",
       "https://www.klaviyo.com/customer-resources/getting-started",
-      "https://www.klaviyo.com/customer-resources/optimize-performance"
+      "https://www.klaviyo.com/customer-resources/optimize-performance",
+      "https://www.klaviyo.com/customers",
+      "https://www.klaviyo.com/customers/case-studies/100pure-email-revenue",
+      "https://www.klaviyo.com/customer-resources/power-up-welcome",
+      "https://www.klaviyo.com/customers/case-studies/2xist-cdp",
+      "https://www.klaviyo.com/customers/case-studies/6-reasons-top-brands-leave-traditional-marketing-solutions",
+      "https://www.klaviyo.com/customers/case-studies/absolute-web",
+      "https://www.klaviyo.com/customers/case-studies/ad-hoc-atelier-email-revenue",
+      "https://www.klaviyo.com/customers/case-studies/alessi-email-marketing-revenue"
     ]
   },
   "gdemoideti.ru": {
-    "lastAt": 1758337070652,
+    "lastAt": 1758688077215,
     "urls": [
       "https://gdemoideti.ru/",
       "https://gdemoideti.ru/semejnyj-lokator",
@@ -9684,17 +9692,17 @@
     ]
   },
   "tapad.com": {
-    "lastAt": 1758337071693,
+    "lastAt": 1758688078488,
     "urls": [
       "https://tapad.com/"
     ]
   },
   "ozone.ru": {
-    "lastAt": 1758337077854,
+    "lastAt": 1758688084976,
     "urls": []
   },
   "wattpad.com": {
-    "lastAt": 1758337082356,
+    "lastAt": 1758688089686,
     "urls": [
       "https://www.wattpad.com/stories/romance?locale=en_US",
       "https://www.wattpad.com/stories/fanfiction?locale=en_US",
@@ -9725,15 +9733,25 @@
       "https://www.wattpad.com/story/156325829-mariage-anormal",
       "https://www.wattpad.com/story/209911929-%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%B2-un-asunto-del-coraz%C3%B3n-crimson-city-",
       "https://www.wattpad.com/story/171441753-my-immortal-taekook",
-      "https://www.wattpad.com/story/173437544-the-playboy-sa"
+      "https://www.wattpad.com/story/173437544-the-playboy-sa",
+      "https://www.wattpad.com/story/219538348-highway-to-heaven",
+      "https://www.wattpad.com/story/233702412-the-legendary-couple",
+      "https://www.wattpad.com/story/229733241-%F0%9D%90%87%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%85%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%84%F0%9D%90%91-",
+      "https://www.wattpad.com/story/250083686-the-flames-consume-me-buck-eddie-x-male-reader",
+      "https://www.wattpad.com/story/251934129-sweet-home-",
+      "https://www.wattpad.com/story/234235514-fate",
+      "https://www.wattpad.com/story/258214776--his-way-yn-x-jung-hoseok-",
+      "https://www.wattpad.com/story/265210688-mafias-bully-kim-taehyung-currently-editing",
+      "https://www.wattpad.com/story/280911527-naabermaja-m%C3%A4ngur",
+      "https://www.wattpad.com/story/274302356-peccato-"
     ]
   },
   "live.net": {
-    "lastAt": 1758337085219,
+    "lastAt": 1758688092613,
     "urls": []
   },
   "cbsnews.com": {
-    "lastAt": 1758337088296,
+    "lastAt": 1758688095613,
     "urls": [
       "https://www.cbsnews.com/chicago/news/chicago-weather-forecast-7-day-radar/",
       "https://www.cbsnews.com/chicago/news/weapons-charges-gun-ammunition-traffic-stop-aurora-illinois/",
@@ -9764,19 +9782,29 @@
       "https://www.cbsnews.com/philadelphia/news/north-allegheny-bus-crash-pennsylvania-turnpike/",
       "https://www.cbsnews.com/chicago/news/broadview-ice-facility-protest-illinois/",
       "https://www.cbsnews.com/colorado/news/glenwood-caverns-adventure-park-colorado-negligent-death-wongel-estifanos/",
-      "https://www.cbsnews.com/baltimore/news/trump-key-bridge-funding-dei-governor-moore/"
+      "https://www.cbsnews.com/baltimore/news/trump-key-bridge-funding-dei-governor-moore/",
+      "https://www.cbsnews.com/news/jimmy-kimmel-first-monologue-since-suspension/",
+      "https://www.cbsnews.com/philadelphia/news/phillies-vs-marlins-extra-innings-xavier-edwards/",
+      "https://www.cbsnews.com/losangeles/news/riverside-county-sheriffs-deputy-deadly-shooting-coachella-luis-morin/",
+      "https://www.cbsnews.com/sanfrancisco/news/healdsburg-tourism-boost-hidden-gem/",
+      "https://www.cbsnews.com/texas/news/damaging-wind-hail-flooding-storms-north-texas-first-alert-weather-day/",
+      "https://www.cbsnews.com/detroit/news/residents-voice-concern-proposal-data-center-howell-township/",
+      "https://www.cbsnews.com/texas/news/rangers-eliminated-from-playoff-chase-with-8th-straight-loss-4-1-to-the-twins/",
+      "https://www.cbsnews.com/chicago/news/illinois-dcfs-children-and-family-services-interns-rep-jed-davis/",
+      "https://www.cbsnews.com/colorado/news/colorado-parent-concerns-denver-school-bus-transportation/",
+      "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-wednesday-humid-rain/"
     ]
   },
   "browser-intake-datadoghq.com": {
-    "lastAt": 1758337091200,
+    "lastAt": 1758688098511,
     "urls": []
   },
   "cncdn.com": {
-    "lastAt": 1758337096784,
+    "lastAt": 1758688103301,
     "urls": []
   },
   "optimizely.com": {
-    "lastAt": 1758337100013,
+    "lastAt": 1758688106316,
     "urls": [
       "https://www.optimizely.com/no/",
       "https://www.optimizely.com/de/",
@@ -9807,31 +9835,41 @@
       "https://www.optimizely.com/no/products/content-management/headless/",
       "https://www.optimizely.com/products/content-management/headless/",
       "https://www.optimizely.com/sv/products/content-management/headless/",
-      "https://www.optimizely.com/de/products/web-experimentation/"
+      "https://www.optimizely.com/de/products/web-experimentation/",
+      "https://www.optimizely.com/products/web-experimentation/",
+      "https://www.optimizely.com/no/products/web-experimentation/",
+      "https://www.optimizely.com/sv/tested-to-perfection/",
+      "https://www.optimizely.com/sv/products/web-experimentation/",
+      "https://www.optimizely.com/de/tested-to-perfection/",
+      "https://www.optimizely.com/no/tested-to-perfection/",
+      "https://www.optimizely.com/de/products/web-experimentation/experiment-collaboration/",
+      "https://www.optimizely.com/sv/products/web-experimentation/experiment-collaboration/",
+      "https://www.optimizely.com/tested-to-perfection/",
+      "https://www.optimizely.com/no/products/web-experimentation/experiment-collaboration/"
     ]
   },
   "ring.com": {
-    "lastAt": 1758337108942,
+    "lastAt": 1758688110992,
     "urls": [
       "https://ring.com/"
     ]
   },
   "expireddomains.com": {
-    "lastAt": 1758337109825,
+    "lastAt": 1758688111894,
     "urls": [
       "https://expireddomains.com/"
     ]
   },
   "tandfonline.com": {
-    "lastAt": 1758337113918,
+    "lastAt": 1758688116066,
     "urls": []
   },
   "mgts.ru": {
-    "lastAt": 1758337172729,
+    "lastAt": 1758688174876,
     "urls": []
   },
   "stackadapt.com": {
-    "lastAt": 1758337176883,
+    "lastAt": 1758688178771,
     "urls": [
       "https://www.stackadapt.com/",
       "https://www.stackadapt.com/academy",
@@ -9858,23 +9896,31 @@
       "https://www.stackadapt.com/careers/marketing",
       "https://www.stackadapt.com/careers/partnerships",
       "https://www.stackadapt.com/careers/finance",
-      "https://www.stackadapt.com/careers/business-operations"
+      "https://www.stackadapt.com/careers/business-operations",
+      "https://www.stackadapt.com/news",
+      "https://www.stackadapt.com/terms-of-use",
+      "https://www.stackadapt.com/data-processing-agreement",
+      "https://www.stackadapt.com/careers/people-and-culture",
+      "https://www.stackadapt.com/cookie-policy",
+      "https://www.stackadapt.com/platform-and-services-privacy-policy",
+      "https://www.stackadapt.com/quebec-privacy-statement",
+      "https://www.stackadapt.com/accessibility-commitment"
     ]
   },
   "typekit.net": {
-    "lastAt": 1758337235694,
+    "lastAt": 1758688237581,
     "urls": []
   },
   "smaato.net": {
-    "lastAt": 1758337238999,
+    "lastAt": 1758688240834,
     "urls": []
   },
   "oraclecloud.com": {
-    "lastAt": 1758337242607,
+    "lastAt": 1758688244443,
     "urls": []
   },
   "mailchimp.com": {
-    "lastAt": 1758337252013,
+    "lastAt": 1758688253519,
     "urls": [
       "https://mailchimp.com/resources/sms-event-marketing/",
       "https://mailchimp.com/resources/omnichannel-marketing-automation/",
@@ -9905,41 +9951,51 @@
       "https://mailchimp.com/resources/flash-sale-sms-template/",
       "https://mailchimp.com/resources/micro-segmentation/",
       "https://mailchimp.com/resources/hard-bounce-vs-soft-bounce/",
-      "https://mailchimp.com/resources/marketing-vs-transactional-emails/"
+      "https://mailchimp.com/resources/marketing-vs-transactional-emails/",
+      "https://mailchimp.com/resources/ai-chatbots/",
+      "https://mailchimp.com/resources/ai-personalization/",
+      "https://mailchimp.com/resources/omnichannel-personalization/",
+      "https://mailchimp.com/resources/dynamic-ads/",
+      "https://mailchimp.com/marketing-glossary/banner-ad/",
+      "https://mailchimp.com/newsroom/holiday-report-2025/",
+      "https://mailchimp.com/help/use-layouts-new-builder/",
+      "https://mailchimp.com/resources/holiday-shopping-unwrapped/",
+      "https://mailchimp.com/resources/marketing-success-season-2025/",
+      "https://mailchimp.com/resources/multi-channel-marketing-automation/"
     ]
   },
   "mozgcp.net": {
-    "lastAt": 1758337255152,
+    "lastAt": 1758688256641,
     "urls": []
   },
   "withgoogle.com": {
-    "lastAt": 1758337255527,
+    "lastAt": 1758688257073,
     "urls": [
       "https://withgoogle.com/"
     ]
   },
   "nel.goog": {
-    "lastAt": 1758337258437,
+    "lastAt": 1758688260010,
     "urls": []
   },
   "dnspod.net": {
-    "lastAt": 1758337317248,
+    "lastAt": 1758688318821,
     "urls": []
   },
   "impervadns.net": {
-    "lastAt": 1758337320134,
+    "lastAt": 1758688321707,
     "urls": []
   },
   "agkn.com": {
-    "lastAt": 1758337323102,
+    "lastAt": 1758688324623,
     "urls": []
   },
   "ieee.org": {
-    "lastAt": 1758337328620,
+    "lastAt": 1758688329555,
     "urls": []
   },
   "newrelic.com": {
-    "lastAt": 1758337331214,
+    "lastAt": 1758688332164,
     "urls": [
       "https://newrelic.com/",
       "https://newrelic.com/blog/nerdlog/unify-monitoring-across-the-entire-sap-landscape",
@@ -9970,7 +10026,17 @@
       "https://newrelic.com/blog/how-to-relic/setting-cookies-in-synthetic-monitors-using-cdp",
       "https://newrelic.com/blog/how-to-relic/real-time-business-insights-with-new-relic-pathpoint",
       "https://newrelic.com/press-release/20161107-1",
-      "https://newrelic.com/instant-observability/drupal"
+      "https://newrelic.com/instant-observability/drupal",
+      "https://newrelic.com/instant-observability/aws-appsync",
+      "https://newrelic.com/instant-observability/browser-segment-investigation",
+      "https://newrelic.com/instant-observability/azure-key-vault",
+      "https://newrelic.com/instant-observability/aws-aurora",
+      "https://newrelic.com/instant-observability/aws-dynamodb",
+      "https://newrelic.com/instant-observability/circleci",
+      "https://newrelic.com/press-release/20161107-3",
+      "https://newrelic.com/instant-observability/cwv-example",
+      "https://newrelic.com/instant-observability/gcp-memcached",
+      "https://newrelic.com/instant-observability/node-exporter"
     ]
   },
   "bytefcdn-ttpus.com": {
