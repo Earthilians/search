@@ -19732,45 +19732,45 @@
     "urls": []
   },
   "janitorai.com": {
-    "lastAt": 1758403045292,
+    "lastAt": 1758756003909,
     "urls": []
   },
   "digikala.com": {
-    "lastAt": 1758403063406,
+    "lastAt": 1758756027195,
     "urls": [
       "https://digikala.com/"
     ]
   },
   "umbrella.com": {
-    "lastAt": 1758403064209,
+    "lastAt": 1758756028703,
     "urls": [
       "https://umbrella.com/"
     ]
   },
   "itmedia.co.jp": {
-    "lastAt": 1758403066217,
+    "lastAt": 1758756030375,
     "urls": [
       "https://itmedia.co.jp/"
     ]
   },
   "ox.ac.uk": {
-    "lastAt": 1758403072462,
+    "lastAt": 1758756038743,
     "urls": [
       "https://ox.ac.uk/"
     ]
   },
   "hurriyet.com.tr": {
-    "lastAt": 1758403076285,
+    "lastAt": 1758756043162,
     "urls": [
       "https://hurriyet.com.tr/"
     ]
   },
   "tendawifi.com": {
-    "lastAt": 1758403081841,
+    "lastAt": 1758756047791,
     "urls": []
   },
   "apa.org": {
-    "lastAt": 1758403086465,
+    "lastAt": 1758756052919,
     "urls": [
       "https://www.apa.org/store",
       "https://www.apa.org/",
@@ -19801,17 +19801,27 @@
       "https://www.apa.org/about/commercial-use",
       "https://www.apa.org/about/social-media-policy",
       "https://www.apa.org/about/cookies",
-      "https://www.apa.org/about/business-innovation-growth"
+      "https://www.apa.org/about/business-innovation-growth",
+      "https://www.apa.org/about/financial-conflict-of-interest",
+      "https://www.apa.org/about/students",
+      "https://www.apa.org/about/finance",
+      "https://www.apa.org/about/pdf",
+      "https://www.apa.org/about/search",
+      "https://www.apa.org/about/termsofuse",
+      "https://www.apa.org/about/apa/chart",
+      "https://www.apa.org/about/apa/2018-strategic-plan",
+      "https://www.apa.org/about/apa/directions",
+      "https://www.apa.org/about/apa/pdf"
     ]
   },
   "lichess.org": {
-    "lastAt": 1758403087960,
+    "lastAt": 1758756054509,
     "urls": [
       "https://lichess.org/"
     ]
   },
   "udn.com": {
-    "lastAt": 1758403093682,
+    "lastAt": 1758756061679,
     "urls": [
       "https://udn.com/",
       "https://udn.com/news/story/6839/9000875",
@@ -19842,11 +19852,21 @@
       "https://udn.com/news/story/6897/9012756",
       "https://udn.com/news/story/6854/9012359",
       "https://udn.com/news/story/6854/9012358",
-      "https://udn.com/news/story/6839/9012895"
+      "https://udn.com/news/story/6839/9012895",
+      "https://udn.com/news/story/6839/9026164",
+      "https://udn.com/news/story/6839/9026140",
+      "https://udn.com/news/story/6839/9026148",
+      "https://udn.com/news/story/6839/9026160",
+      "https://udn.com/news/story/6851/9026062",
+      "https://udn.com/news/story/6851/9026044",
+      "https://udn.com/news/story/6851/9026042",
+      "https://udn.com/news/story/6851/9026049",
+      "https://udn.com/news/story/6839/9025979",
+      "https://udn.com/news/story/6851/9026033"
     ]
   },
   "rightmove.co.uk": {
-    "lastAt": 1758403110556,
+    "lastAt": 1758756080975,
     "urls": [
       "https://rightmove.co.uk/",
       "https://www.rightmove.co.uk/estate-agents/agent/1-4-Sale/Glasgow-51804.html",
@@ -19877,15 +19897,25 @@
       "https://www.rightmove.co.uk/estate-agents/agent/2016-HA-Investor-Test/2017-HA-Test---Premium-59664.html",
       "https://www.rightmove.co.uk/estate-agents/agent/2016-Corp-Test-Investor/Coming-Soon---Cleveland-211655.html",
       "https://www.rightmove.co.uk/estate-agents/agent/24.7-Property-(Scotland)-Ltd/Glasgow-56892.html",
-      "https://www.rightmove.co.uk/estate-agents/agent/222-Estates-Ltd/Warrington-51893.html"
+      "https://www.rightmove.co.uk/estate-agents/agent/222-Estates-Ltd/Warrington-51893.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/24k-Properties-Marbella/Malaga-292496.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/28-Estate-Agent-Limited/Ilford-and-Romford-292973.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/24.7-Property-Scotland/Kilmarnock-42651.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/2C-Properties-Limited/Bristol-201404.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/28-Estate-Agent-Limited/London-261344.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/2Let2Sell2Buy-SL/Mazarron-53706.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/3-Point-Property-Management-Ltd/Mendlesham-143042.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/2Roost/Sheffield-74839.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/360-Property-Ventures-Ltd/London-81348.html",
+      "https://www.rightmove.co.uk/estate-agents/agent/2Roost/Sheffield-76541.html"
     ]
   },
   "dropboxapi.com": {
-    "lastAt": 1758403113615,
+    "lastAt": 1758756083959,
     "urls": []
   },
   "deezer.com": {
-    "lastAt": 1758403121974,
+    "lastAt": 1758756095228,
     "urls": [
       "https://www.deezer.com/ar/",
       "https://www.deezer.com/cs/",
@@ -19916,11 +19946,21 @@
       "https://www.deezer.com/ja/",
       "https://www.deezer.com/bg/",
       "https://www.deezer.com/br/artist/4876653",
-      "https://www.deezer.com/br/artist/54330242"
+      "https://www.deezer.com/br/artist/54330242",
+      "https://www.deezer.com/br/artist/91717162",
+      "https://www.deezer.com/br/artist/5895828",
+      "https://www.deezer.com/br/artist/3881631",
+      "https://www.deezer.com/br/artist/1541592",
+      "https://www.deezer.com/br/artist/362764",
+      "https://www.deezer.com/br/artist/4611283",
+      "https://www.deezer.com/br/artist/3120261",
+      "https://www.deezer.com/br/artist/7068771",
+      "https://www.deezer.com/br/artist/8691",
+      "https://www.deezer.com/br/artist/7068753"
     ]
   },
   "marktplaats.nl": {
-    "lastAt": 1758403126559,
+    "lastAt": 1758756099373,
     "urls": [
       "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-bestek/",
       "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-emaille/",
@@ -19951,11 +19991,21 @@
       "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-speelgoed/",
       "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-servies-compleet/",
       "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-servies-los/",
-      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-spiegels/"
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-spiegels/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-tv-s-en-audio/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-tin/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-wandborden-en-tegels/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-woonaccessoires/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-vazen/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/antiek-overige-antiek/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/curiosa-en-brocante/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/kunst-beelden-en-houtsnijwerken/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/kunst-designobjecten/",
+      "https://www.marktplaats.nl/l/antiek-en-kunst/kunst-etsen-en-gravures/"
     ]
   },
   "nintendo.com": {
-    "lastAt": 1758403129626,
+    "lastAt": 1758756105413,
     "urls": [
       "https://nintendo.com/",
       "https://www.nintendo.com/au/",
@@ -19986,15 +20036,25 @@
       "https://www.nintendo.com/au/games/nintendo-switch-2/pokemon-legends-z-a-nintendo-switch-2-edition/",
       "https://www.nintendo.com/au/games/nintendo-switch-2/super-mario-party-jamboree-nintendo-switch-2-edition-plus-jamboree-tv/",
       "https://www.nintendo.com/au/games/nintendo-switch-2/shadow-labyrinth-nintendo-switch-2-edition/",
-      "https://www.nintendo.com/au/games/nintendo-switch/tales-of-kenzera-zau/"
+      "https://www.nintendo.com/au/games/nintendo-switch/tales-of-kenzera-zau/",
+      "https://www.nintendo.com/au/games/nintendo-switch-2/borderlands-4/",
+      "https://www.nintendo.com/au/games/nintendo-switch/grime-definitive-edition/",
+      "https://www.nintendo.com/au/games/nintendo-switch/quilts-and-cats-of-calico/",
+      "https://www.nintendo.com/au/games/nintendo-switch/my-time-at-sandrock/",
+      "https://www.nintendo.com/au/games/nintendo-switch/the-jackbox-party-pack-7/",
+      "https://www.nintendo.com/au/games/nintendo-switch/broken-age/",
+      "https://www.nintendo.com/au/games/nintendo-switch/kill-knight/",
+      "https://www.nintendo.com/au/games/nintendo-switch/dredge/",
+      "https://www.nintendo.com/au/games/nintendo-switch/the-jackbox-party-pack-8/",
+      "https://www.nintendo.com/au/games/nintendo-switch/spiritfarer/"
     ]
   },
   "service-now.com": {
-    "lastAt": 1758403133853,
+    "lastAt": 1758756111296,
     "urls": []
   },
   "psu.edu": {
-    "lastAt": 1758403135756,
+    "lastAt": 1758756113602,
     "urls": [
       "https://www.psu.edu/costs-aid/managing-aid/special-circumstances",
       "https://www.psu.edu/resources/international-students/credentials/anguilla",
@@ -20025,17 +20085,27 @@
       "https://www.psu.edu/academics/graduate",
       "https://www.psu.edu/academics/undergraduate",
       "https://www.psu.edu/academics/colleges",
-      "https://www.psu.edu/academics"
+      "https://www.psu.edu/academics",
+      "https://www.psu.edu/subscribe-news",
+      "https://www.psu.edu/prospective-students",
+      "https://www.psu.edu/costs-aid/managing-aid/paying-your-bill",
+      "https://www.psu.edu/our-impact/sustainable-clothing-procell-biomimetic-materials-biomanufacturing",
+      "https://www.psu.edu/research/real-world-solutions",
+      "https://www.psu.edu/admission",
+      "https://www.psu.edu/our-impact/alcohol-disorder-education-underage-drinking",
+      "https://www.psu.edu/admission/undergraduate/explore/visit-penn-state",
+      "https://www.psu.edu/admission/undergraduate/tour-guides",
+      "https://www.psu.edu/costs-aid/types-of-aid/loans/federal-direct-loans/federal-direct-graduate-plus-loan/how-to-apply-for-a-graduate-plus-loan"
     ]
   },
   "abc.net.au": {
-    "lastAt": 1758403139241,
+    "lastAt": 1758756117020,
     "urls": [
       "https://abc.net.au/"
     ]
   },
   "va.gov": {
-    "lastAt": 1758403142846,
+    "lastAt": 1758756120987,
     "urls": [
       "https://www.va.gov/kansas-city-health-care/events/50536/",
       "https://www.va.gov/roseburg-health-care/events/70372/",
@@ -20066,11 +20136,21 @@
       "https://www.va.gov/milwaukee-health-care/events/75918/",
       "https://www.va.gov/minneapolis-health-care/events/74256/",
       "https://www.va.gov/western-colorado-health-care/events/76000/",
-      "https://www.va.gov/lovell-federal-health-care-va/events/76046/"
+      "https://www.va.gov/lovell-federal-health-care-va/events/76046/",
+      "https://www.va.gov/salisbury-health-care/events/76079/",
+      "https://www.va.gov/outreach-and-events/events/76250/",
+      "https://www.va.gov/outreach-and-events/events/76247/",
+      "https://www.va.gov/outreach-and-events/events/76249/",
+      "https://www.va.gov/salisbury-health-care/events/76077/",
+      "https://www.va.gov/outreach-and-events/events/76251/",
+      "https://www.va.gov/outreach-and-events/events/76252/",
+      "https://www.va.gov/outreach-and-events/events/76253/",
+      "https://www.va.gov/minneapolis-health-care/events/74254/",
+      "https://www.va.gov/san-diego-health-care/events/75783/"
     ]
   },
   "mundodeportivo.com": {
-    "lastAt": 1758403145816,
+    "lastAt": 1758756123686,
     "urls": [
       "https://www.mundodeportivo.com/solomoto/clasificados/",
       "https://www.mundodeportivo.com/solomoto/clasificados/cambio-de-nombre",
@@ -20101,29 +20181,39 @@
       "https://www.mundodeportivo.com/solomoto/clasificados/b-harley-davidson/",
       "https://www.mundodeportivo.com/solomoto/clasificados/b-zontes/",
       "https://www.mundodeportivo.com/solomoto/clasificados/b-benelli/",
-      "https://www.mundodeportivo.com/solomoto/clasificados/b-moto-guzzi/"
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-moto-guzzi/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-vespa/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-cf-moto/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-voge/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-royal-enfield/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-sym/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-husqvarna/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-macbor/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-fantic/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-rieju/",
+      "https://www.mundodeportivo.com/solomoto/clasificados/b-qj-motor/"
     ]
   },
   "fb.me": {
-    "lastAt": 1758403149882,
+    "lastAt": 1758756128044,
     "urls": []
   },
   "gihc.net": {
-    "lastAt": 1758403208695,
+    "lastAt": 1758756186856,
     "urls": []
   },
   "cnnbrasil.com.br": {
-    "lastAt": 1758403210533,
+    "lastAt": 1758756188734,
     "urls": [
       "https://cnnbrasil.com.br/"
     ]
   },
   "espncricinfo.com": {
-    "lastAt": 1758403215631,
+    "lastAt": 1758756193978,
     "urls": []
   },
   "tabor.ru": {
-    "lastAt": 1758403224499,
+    "lastAt": 1758756200796,
     "urls": [
       "https://tabor.ru/",
       "https://tabor.ru/search/znakomstva-sajt-moskva-poznakomitsa-s-muzhchinoj-v-moskva",
@@ -20154,11 +20244,21 @@
       "https://tabor.ru/search/znakomstva-s-telefonom-moskva-devushki-s-foto",
       "https://tabor.ru/search/znakomstva-s-telefonom-moskva-muzhchiny-s-foto",
       "https://tabor.ru/search/znakomstva-onlajn-moskva-muzhchiny-s-foto",
-      "https://tabor.ru/search/znakomstva-moskva-dlya-sozdaniya-semi-devushki"
+      "https://tabor.ru/search/znakomstva-moskva-dlya-sozdaniya-semi-devushki",
+      "https://tabor.ru/search/znakomstva-onlajn-moskva-devushki-s-foto",
+      "https://tabor.ru/search/znakomstva-sajt-aleysk-poznakomitsa-s-devushkoj-szhenshhinoj-v-aleysk",
+      "https://tabor.ru/search/znakomstva-sajt-v-aleysk-dlja-sereznyh-otnoshenij-devushka-szhenshhina",
+      "https://tabor.ru/search/znakomstva-sajt-aleysk-poznakomitsa-s-muzhchinoj-v-aleysk",
+      "https://tabor.ru/search/znakomstva-sajt-v-aleysk-dlja-sereznyh-otnoshenij-muzhchina",
+      "https://tabor.ru/search/znakomstva-sajt-znakomstv-aleysk",
+      "https://tabor.ru/search/znakomstva-sajt-v-aleysk-dlja-seksa-i-vstrech",
+      "https://tabor.ru/search/poznakomitsa-s-muzhchinoj-v-aleysk",
+      "https://tabor.ru/search/poznakomitsa-s-devushkoj-szhenshhinoj-v-aleysk",
+      "https://tabor.ru/search/znakomstva-s-muzhchinami-v-aleysk-komu-za-30"
     ]
   },
   "ucla.edu": {
-    "lastAt": 1758403226884,
+    "lastAt": 1758756203027,
     "urls": [
       "https://www.ucla.edu/about",
       "https://www.ucla.edu/",
@@ -20189,11 +20289,21 @@
       "https://www.ucla.edu/about/notable-bruins/04-amander-clark",
       "https://www.ucla.edu/about/notable-bruins/10-anastasia-loukaitou-sideris",
       "https://www.ucla.edu/about/notable-bruins/12-todd-presner",
-      "https://www.ucla.edu/about/notable-bruins/11-john-mazziotta"
+      "https://www.ucla.edu/about/notable-bruins/11-john-mazziotta",
+      "https://www.ucla.edu/about/notable-bruins/13-dennis-slamon",
+      "https://www.ucla.edu/about/notable-bruins/15-terence-tao",
+      "https://www.ucla.edu/about/notable-bruins/17-kenny-burrell",
+      "https://www.ucla.edu/about/notable-bruins/14-laurence-smith",
+      "https://www.ucla.edu/about/notable-bruins/16-owen-witte",
+      "https://www.ucla.edu/about/notable-bruins/21-abel-valenzuela",
+      "https://www.ucla.edu/about/notable-bruins/18-jared-diamond",
+      "https://www.ucla.edu/about/notable-bruins/19-al-osborne",
+      "https://www.ucla.edu/about/notable-bruins/22-linda-liau",
+      "https://www.ucla.edu/about/notable-bruins/20-tyrone-howard"
     ]
   },
   "plos.org": {
-    "lastAt": 1758403231745,
+    "lastAt": 1758756209142,
     "urls": [
       "https://plos.org/",
       "https://plos.org/resources/for-reviewers/about/",
@@ -20224,23 +20334,33 @@
       "https://plos.org/research-communities/population-aging/",
       "https://plos.org/blogs/about/",
       "https://plos.org/blogs/contact/",
-      "https://plos.org/research-communities/food-security/"
+      "https://plos.org/research-communities/food-security/",
+      "https://plos.org/research-communities/impacts-of-hazards/",
+      "https://plos.org/research-communities/precision-agriculture/",
+      "https://plos.org/research-communities/health-literacy/",
+      "https://plos.org/research-communities/personalized-medicine/",
+      "https://plos.org/research-communities/artificial-intelligence/",
+      "https://plos.org/research-communities/marine-ecosystems/",
+      "https://plos.org/research-communities/terrestrial-ecosystems/",
+      "https://plos.org/libraries/faq/",
+      "https://plos.org/libraries/",
+      "https://plos.org/funder-compliance/"
     ]
   },
   "ynet.co.il": {
-    "lastAt": 1758403233361,
+    "lastAt": 1758756211053,
     "urls": [
       "https://ynet.co.il/"
     ]
   },
   "armgs.team": {
-    "lastAt": 1758403238797,
+    "lastAt": 1758756217835,
     "urls": [
       "https://armgs.team/"
     ]
   },
   "ddns.net": {
-    "lastAt": 1758403297608,
+    "lastAt": 1758756276645,
     "urls": []
   },
   "ltwebstatic.com": {
