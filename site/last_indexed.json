@@ -12386,7 +12386,7 @@
     "urls": []
   },
   "lefigaro.fr": {
-    "lastAt": 1758356813625,
+    "lastAt": 1758709439804,
     "urls": [
       "https://www.lefigaro.fr/bons-plans/high-tech/deja-41-de-remise-sur-le-samsung-galaxy-s25-decouvrez-l-offre-du-moment-sur-le-dernier-smartphone-20250912",
       "https://www.lefigaro.fr/sports/football/marseille-lorient-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-1-en-direct-20250912",
@@ -12417,11 +12417,21 @@
       "https://www.lefigaro.fr/culture/patrimoine/journees-du-patrimoine-2025-decouvrez-en-cartes-les-tresors-francais-et-europeens-20250920",
       "https://video.lefigaro.fr/figaro/international/etats-unis-un-procureur-presente-sa-demission-apres-avoir-refuse-de-poursuivre-des-adversaires-de-trump-20250920",
       "https://www.lefigaro.fr/conjoncture/retards-annulations-une-cyberattaque-cause-la-pagaille-dans-les-aeroports-de-bruxelles-et-berlin-20250920",
-      "https://www.lefigaro.fr/sports/athletisme/mondiaux-d-athletisme-la-triple-championne-olympique-nafissatou-thiam-abandonne-l-heptathlon-20250920"
+      "https://www.lefigaro.fr/sports/athletisme/mondiaux-d-athletisme-la-triple-championne-olympique-nafissatou-thiam-abandonne-l-heptathlon-20250920",
+      "https://www.lefigaro.fr/sports/tennis/tennis-jannik-sinner-assure-avoir-change-beaucoup-de-petites-choses-dans-son-jeu-depuis-l-us-open-20250924",
+      "https://www.lefigaro.fr/bons-plans/high-tech/des-ecouteurs-sans-fil-samsung-a-moins-de-80-euros-profitez-vite-de-cette-offre-signee-electro-depot-20250924",
+      "https://www.lefigaro.fr/nice/en-fuite-depuis-debut-aout-un-garde-a-vue-proche-du-banditisme-corse-finalement-rattrape-a-nice-20250924",
+      "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-lille-et-lyon-favoris-nice-dans-le-dur-les-predictions-d-opta-pour-cette-edition-2025-26-20250924",
+      "https://www.lefigaro.fr/vox/economie/france-televisions-gere-ses-comptes-comme-son-information-selon-ses-desirs-et-non-selon-la-realite-20250924",
+      "https://www.lefigaro.fr/actualite-france/eurotunnel-et-eurostar-prets-a-lancer-les-nouveaux-controles-biometriques-aux-frontieres-de-l-ue-20250924",
+      "https://www.lefigaro.fr/musique/taylor-swift-accompagne-la-sortie-de-son-nouvel-album-d-un-film-sur-les-coulisses-de-sa-conception-20250924",
+      "https://www.lefigaro.fr/faits-divers/paris-une-femme-tuee-dans-le-20e-arrondissement-son-conjoint-interpelle-20250924",
+      "https://www.lefigaro.fr/bons-plans/high-tech/decouvrez-vite-cette-nouvelle-offre-samsung-sur-le-smartphone-galaxy-s25-20250924",
+      "https://www.lefigaro.fr/flash-actu/une-enseignante-poignardee-par-un-eleve-encadrement-des-loyers-hommages-a-claudia-cardinale-les-3-infos-a-retenir-a-la-mi-journee-20250924"
     ]
   },
   "mayoclinic.org": {
-    "lastAt": 1758356818220,
+    "lastAt": 1758709444413,
     "urls": [
       "https://mayoclinic.org/",
       "https://www.mayoclinic.org/ar/diseases-conditions/congenital-heart-defects-children/doctors-departments/ddc-20350082",
@@ -12452,29 +12462,39 @@
       "https://www.mayoclinic.org/ar/diseases-conditions/brain-metastases/care-at-mayo-clinic/mac-20350143",
       "https://www.mayoclinic.org/ar/diseases-conditions/brain-metastases/doctors-departments/ddc-20350142",
       "https://www.mayoclinic.org/ar/diseases-conditions/tinnitus/diagnosis-treatment/drc-20350162",
-      "https://www.mayoclinic.org/ar/diseases-conditions/brain-metastases/symptoms-causes/syc-20350136"
+      "https://www.mayoclinic.org/ar/diseases-conditions/brain-metastases/symptoms-causes/syc-20350136",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tinnitus/symptoms-causes/syc-20350156",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tricuspid-valve-regurgitation/doctors-departments/ddc-20350176",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tinnitus/doctors-departments/ddc-20350166",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tricuspid-valve-regurgitation/symptoms-causes/syc-20350168",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tricuspid-valve-regurgitation/diagnosis-treatment/drc-20350173",
+      "https://www.mayoclinic.org/ar/diseases-conditions/tricuspid-valve-regurgitation/care-at-mayo-clinic/mac-20350177",
+      "https://www.mayoclinic.org/ar/diseases-conditions/mitral-valve-regurgitation/doctors-departments/ddc-20350186",
+      "https://www.mayoclinic.org/ar/diseases-conditions/mitral-valve-regurgitation/diagnosis-treatment/drc-20350183",
+      "https://www.mayoclinic.org/ar/diseases-conditions/mitral-valve-regurgitation/care-at-mayo-clinic/mac-20350187",
+      "https://www.mayoclinic.org/ar/diseases-conditions/mitral-valve-regurgitation/symptoms-causes/syc-20350178"
     ]
   },
   "azure-devices.net": {
-    "lastAt": 1758356821087,
+    "lastAt": 1758709447263,
     "urls": []
   },
   "primevideo.com": {
-    "lastAt": 1758356822434,
+    "lastAt": 1758709448541,
     "urls": [
       "https://primevideo.com/"
     ]
   },
   "fda.gov": {
-    "lastAt": 1758356825607,
+    "lastAt": 1758709451609,
     "urls": []
   },
   "lgtvcommon.com": {
-    "lastAt": 1758356828644,
+    "lastAt": 1758709454892,
     "urls": []
   },
   "xbox.com": {
-    "lastAt": 1758356831779,
+    "lastAt": 1758709457832,
     "urls": [
       "https://xbox.com/",
       "https://www.xbox.com/es-AR",
@@ -12505,11 +12525,21 @@
       "https://www.xbox.com/fr-CH",
       "https://www.xbox.com/fi-FI",
       "https://www.xbox.com/sv-SE",
-      "https://www.xbox.com/en-GB"
+      "https://www.xbox.com/en-GB",
+      "https://www.xbox.com/en-AU",
+      "https://www.xbox.com/el-GR",
+      "https://www.xbox.com/ru-RU",
+      "https://www.xbox.com/en-IN",
+      "https://www.xbox.com/en-HK",
+      "https://www.xbox.com/en-SG",
+      "https://www.xbox.com/en-NZ",
+      "https://www.xbox.com/ko-KR",
+      "https://www.xbox.com/ja-JP",
+      "https://www.xbox.com/zh-TW"
     ]
   },
   "sapo.pt": {
-    "lastAt": 1758356836433,
+    "lastAt": 1758709464547,
     "urls": [
       "https://sapo.pt/artigo/adorava-fazer-uma-temporada-de-the-walking-dead-daryl-dixon-no-porto-adoro-portugal-a-conversa-com-norman-reedus-68bb455491fec082046849fb",
       "https://sapo.pt/artigo/quiz-anos-80-que-musica-e-esta-68bc1bd2344020afa7064315",
@@ -12540,11 +12570,20 @@
       "https://sapo.pt/artigo/economia-com-arte-traz-inovacao-1687-68a4a03d2765c02fac738d59",
       "https://sapo.pt/artigo/a-arte-para-fazer-um-mundo-melhor-78a0-68a4a03920291f011ada82aa",
       "https://sapo.pt/artigo/estimular-o-empreendedorismo-e-a-inovacao-tambem-pesa-na-educacao-cb5e-68a49fec2765c02fac736711",
-      "https://sapo.pt/artigo/um-pais-de-futuro-passa-por-ensinar-os-miudos-a-procurar-respostas-e-levar-os-adultos-a-continuar-a-aprender-a817-68a49fee20291f011ada61b4"
+      "https://sapo.pt/artigo/um-pais-de-futuro-passa-por-ensinar-os-miudos-a-procurar-respostas-e-levar-os-adultos-a-continuar-a-aprender-a817-68a49fee20291f011ada61b4",
+      "https://sapo.pt/artigo/aprender-na-escola-a-ter-boas-ideias-e-arriscar-a1ed-68a49fec20291f011ada610f",
+      "https://sapo.pt/artigo/gerir-para-a-comunidade-amor-e-uma-cabana-e-dinheiro-para-gastos-1cd9-68a49f5f20291f011ada1ca5",
+      "https://sapo.pt/artigo/falar-para-fazer-acontecer-conversas-improvaveis-sobre-os-desafios-do-nosso-tempo-d928-68a49f462765c02fac7317ad",
+      "https://sapo.pt/artigo/pedro-abrunhosa-na-super-bock-arena-comemorar-30-anos-de-uma-linda-viagem-e-impar-81bc-68ad24fb1b42150e604c0550",
+      "https://sapo.pt/artigo/sapo-30-anos-e2d9-68a4a0e92765c02fac73eca1",
+      "https://sapo.pt/artigo/ha-muita-vida-alem-do-lucro-uma-empresa-que-impacta-a-comunidade-esta-a-caminho-do-sucesso-6173-68a49f452765c02fac73171d",
+      "https://sapo.pt/artigo/como-a-amazon-se-tornou-a-gigante-exotica-que-bezos-imaginou-5fe8-68a4a0e420291f011adae234",
+      "https://sapo.pt/artigo/casa-dos-segredos-vera-passa-se-com-fabio-por-causa-de-liliana-ciumes-ou-preocupacao-68d31b36ba33a196b1ea11c3",
+      "https://sapo.pt/artigo/blind-zero-na-casa-da-musica-como-assim-30-anos-66f9-68ad19ed1b42150e6043ffbc"
     ]
   },
   "pccc.com": {
-    "lastAt": 1758356839265,
+    "lastAt": 1758709467335,
     "urls": [
       "https://pccc.com/",
       "https://pccc.com/it-support-pricing/",
@@ -12569,15 +12608,15 @@
     ]
   },
   "allegro.pl": {
-    "lastAt": 1758356868457,
+    "lastAt": 1758709496461,
     "urls": []
   },
   "isappcloud.com": {
-    "lastAt": 1758356871516,
+    "lastAt": 1758709499717,
     "urls": []
   },
   "vivo.com.cn": {
-    "lastAt": 1758356885800,
+    "lastAt": 1758709517970,
     "urls": [
       "https://www.vivo.com/sa/ar/about-vivo/career/jobs",
       "https://www.vivo.com/sa/ar/about-vivo",
@@ -12608,11 +12647,21 @@
       "https://www.vivo.com/sa/ar/products/param/v23e5g",
       "https://www.vivo.com/sa/ar/products/param/v29",
       "https://www.vivo.com/sa/ar/products/param/v27",
-      "https://www.vivo.com/sa/ar/products/param/v25-pro"
+      "https://www.vivo.com/sa/ar/products/param/v25-pro",
+      "https://www.vivo.com/sa/ar/products/param/y12",
+      "https://www.vivo.com/sa/ar/products/param/y15",
+      "https://www.vivo.com/sa/ar/products/param/y12s",
+      "https://www.vivo.com/sa/ar/products/param/y15s",
+      "https://www.vivo.com/sa/ar/products/param/y16",
+      "https://www.vivo.com/sa/ar/products/param/y17",
+      "https://www.vivo.com/sa/ar/products/param/y19",
+      "https://www.vivo.com/sa/ar/products/param/y17s",
+      "https://www.vivo.com/sa/ar/products/param/y21",
+      "https://www.vivo.com/sa/ar/products/param/y20"
     ]
   },
   "academia.edu": {
-    "lastAt": 1758356894279,
+    "lastAt": 1758709525717,
     "urls": [
       "https://www.academia.edu/148846/A_Short_Method_for_On_line_Alphanumeric_Character_Recognition",
       "https://academia.edu/",
@@ -12643,21 +12692,31 @@
       "https://www.academia.edu/148926/Between_fundamentalisms",
       "https://www.academia.edu/148913/Assessing_the_role_of_stimulus_probability_on_the_Colavita_visual_dominance_effect",
       "https://www.academia.edu/148928/Cosmopolitanism_or_Clash_of_Civilisations",
-      "https://www.academia.edu/148930/Grounding_Multiculturalism_From_Minority_Rights_to_Civic_Pluralism"
+      "https://www.academia.edu/148930/Grounding_Multiculturalism_From_Minority_Rights_to_Civic_Pluralism",
+      "https://www.academia.edu/148934/Integration_and_Australian_Values",
+      "https://www.academia.edu/148936/After_Cronulla_Debating_Australian_Multiculturalism_and_National_Identity",
+      "https://www.academia.edu/148937/Multiculturalism_has_run_its_race_but_lets_debate_the_result",
+      "https://www.academia.edu/148950/Semantic_congruency_and_the_Colavita_visual_dominance_effect",
+      "https://www.academia.edu/148948/Audiovisual_asynchrony_modulates_the_Colavita_visual_dominance_effect",
+      "https://www.academia.edu/149023/Racial_anxieties_rule_in_Britannia",
+      "https://www.academia.edu/149074/Awake_upper_airway_obstruction_in_children_with_spastic_quadriplegic_cerebral_palsy",
+      "https://www.academia.edu/149068/Influenza_in_the_Neonatal_Intensive_Care_Unit",
+      "https://www.academia.edu/149025/When_vision_extinguishes_touch_in_neurologically_normal_people_Extending_the_Colavita_visual_dominance_effect",
+      "https://www.academia.edu/149075/Pharyngeal_pressure_with_high_flow_nasal_cannulae_in_premature_infants"
     ]
   },
   "mdpi.com": {
-    "lastAt": 1758356897187,
+    "lastAt": 1758709528669,
     "urls": []
   },
   "unpkg.com": {
-    "lastAt": 1758356897710,
+    "lastAt": 1758709529162,
     "urls": [
       "https://unpkg.com/"
     ]
   },
   "ameblo.jp": {
-    "lastAt": 1758356902026,
+    "lastAt": 1758709532317,
     "urls": [
       "https://ameblo.jp/tsuji-nozomi/",
       "https://ameblo.jp/",
@@ -12688,15 +12747,25 @@
       "https://ameblo.jp/syunkon/",
       "https://ameblo.jp/ayaofpetitprice-a/",
       "https://ameblo.jp/uehara-sakura/",
-      "https://ameblo.jp/mari-okamoto/"
+      "https://ameblo.jp/mari-okamoto/",
+      "https://ameblo.jp/nao810to/",
+      "https://ameblo.jp/yamadahanako-2021/",
+      "https://ameblo.jp/mimarvel/",
+      "https://ameblo.jp/daioki0430oka/",
+      "https://ameblo.jp/kawasaki-nozomi/",
+      "https://ameblo.jp/amakokatsuki/",
+      "https://ameblo.jp/takahashihideki-official/",
+      "https://ameblo.jp/rumiko-koyanagi/",
+      "https://ameblo.jp/ogura-yuko1101/",
+      "https://ameblo.jp/naomi-hosokawa/"
     ]
   },
   "namebrightdns.com": {
-    "lastAt": 1758356904897,
+    "lastAt": 1758709535202,
     "urls": []
   },
   "apnews.com": {
-    "lastAt": 1758356911256,
+    "lastAt": 1758709542698,
     "urls": [
       "https://apnews.com/",
       "https://apnews.com/high-court-blocks-execution-of-mentally-ill-killer-in-texas-12th-ld-writethru-7500f8bf2948483896a9a38a019ac612",
@@ -12727,11 +12796,21 @@
       "https://apnews.com/article/israel-palestinians-protests-cycling-eurovision-olympics-fifa-49e8b5ada11a5407f430464cfec9c479",
       "https://apnews.com/article/parsons-garrett-packers-browns-relacion-capturas-972f1d35d1797ebd0ae20e604ddf4b76",
       "https://apnews.com/article/lotteries-5bb6885f497c4764a6a9d8164d5699fd",
-      "https://apnews.com/article/jimmy-kimmel-trump-medios-de-comunicacion-314de257daf80b09b840065d26b71a14"
+      "https://apnews.com/article/jimmy-kimmel-trump-medios-de-comunicacion-314de257daf80b09b840065d26b71a14",
+      "https://apnews.com/newsletter/ground-game/september-22-2025",
+      "https://apnews.com/article/pennsylvania-04007bef3db75c5fee84875b70974ab0",
+      "https://apnews.com/article/lotteries-c0b701e5743840a6a3651491d3fb812f",
+      "https://apnews.com/live/donald-trump-news-updates-9-22-2025",
+      "https://apnews.com/article/energy-industry-texas-ed-longanecker-data-management-and-storage-general-news-9b732ee4dab07b7bb584eb3d137446d4",
+      "https://apnews.com/live/donald-trump-news-updates-9-23-2025",
+      "https://apnews.com/article/lotteries-f9bd4b244d2d47f38212042b661ba977",
+      "https://apnews.com/article/lotteries-e3af10a1ee334b11a636cc1e8b114f37",
+      "https://apnews.com/article/lotteries-685ad31ffa5444f9a933be20419a0972",
+      "https://apnews.com/article/earthquake-san-francisco-berkeley-california-52502daeb6bf1293726f07da64c35478"
     ]
   },
   "change.org": {
-    "lastAt": 1758356916002,
+    "lastAt": 1758709547723,
     "urls": [
       "https://change.org/",
       "https://www.change.org/p/he-deserves-a-second-chance",
@@ -12759,11 +12838,20 @@
       "https://www.change.org/p/provide-clean-water-and-sanitation-for-iran",
       "https://www.change.org/p/address-wrongful-conviction-and-legal-injustice",
       "https://www.change.org/p/help-life-below-water-in-south-korea",
-      "https://www.change.org/p/enforcement-of-ada-and-fair-housing-law-compliance-for-residential-complexes-in-gilbert-az"
+      "https://www.change.org/p/enforcement-of-ada-and-fair-housing-law-compliance-for-residential-complexes-in-gilbert-az",
+      "https://www.change.org/p/support-mental-health-services-for-immigrant-women-in-columbus-ohio",
+      "https://www.change.org/p/revoke-the-phone-ban-at-laurel-highlands-high-school",
+      "https://www.change.org/p/upgrade-helen-s-reserve-dog-park-gorokan-we-need-watering-station-tap-drainage",
+      "https://www.change.org/p/demand-accountability-for-grateful-living-in-silver-city-nm",
+      "https://www.change.org/p/toronto-replace-dangerous-sand-and-rusted-equipment-at-trinity-bellwoods-playground",
+      "https://www.change.org/p/bring-back-the-throne-of-maharaja-ranjit-singh-ji-restore-sikh-heritage-to-punjab",
+      "https://www.change.org/p/ask-freebee-to-divest-from-tesla",
+      "https://www.change.org/p/demand-south-orange-county-community-colleges-refuse-grant-from-compass-energy-bess",
+      "https://www.change.org/p/achieve-zero-hunger-worldwide-bb7a92ca-5f61-4d9a-adc4-a6731a7ea1ed"
     ]
   },
   "healthline.com": {
-    "lastAt": 1758356921699,
+    "lastAt": 1758709553580,
     "urls": [
       "https://healthline.com/",
       "https://www.healthline.com/health/i-walked-after-eating-for-a-week",
@@ -12794,11 +12882,21 @@
       "https://www.healthline.com/health/anxiety/5-4-3-2-1-grounding-technique-for-anxiety",
       "https://www.healthline.com/health/diabetes/the-prediabetes-diet",
       "https://www.healthline.com/health/menopause/sleep-tips-for-night-sweats",
-      "https://www.healthline.com/health/high-blood-pressure/natural-ways-to-lower-blood-pressure"
+      "https://www.healthline.com/health/high-blood-pressure/natural-ways-to-lower-blood-pressure",
+      "https://www.healthline.com/health/heart-disease/managing-costs-for-transthyretin-amyloidosis-treatment",
+      "https://www.healthline.com/health/menopause/natural-remedies-for-hot-flashes",
+      "https://www.healthline.com/health/nutrition/20-low-carb-nutrient-dense-snack-ideas",
+      "https://www.healthline.com/health/drugs/nemluvio",
+      "https://www.healthline.com/health/senior-health/wheelchair-safety",
+      "https://www.healthline.com/health/drugs/privigen-side-effects",
+      "https://www.healthline.com/health/riedel-thyroiditis",
+      "https://www.healthline.com/health/infectious-thyroiditis",
+      "https://www.healthline.com/health/hypochlorous-acid-for-skin",
+      "https://www.healthline.com/health/drugs/do-prescriptions-count-towards-deductible"
     ]
   },
   "welt.de": {
-    "lastAt": 1758356926138,
+    "lastAt": 1758709558984,
     "urls": [
       "https://welt.de/",
       "https://www.welt.de/debatte/plus68c2d115b57f8e2dfedfcb2e/patriotismus-verantwortung-disziplin-solidaritaet-was-den-deutschen-fehlt.html",
@@ -12829,11 +12927,21 @@
       "https://www.welt.de/regionales/rheinland-pfalz-saarland/article68ce61be44d43c3789d526a3/Leiche-in-Ludwigshafen-viele-Details-noch-unklar.html",
       "https://www.welt.de/regionales/rheinland-pfalz-saarland/article68ce609204d57a2086027d91/Mehrere-Tausend-Menschen-von-Stromausfall-betroffen.html",
       "https://www.welt.de/regionales/hessen/article68ce60566199625f8c0f7460/34-Jaehriger-in-Rodgau-angeschossen.html",
-      "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article68cded7e5d604c6d7adac4bd/Luftraumverletzung-oder-nicht-Moskau-kontert-Vorwuerfe.html"
+      "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article68cded7e5d604c6d7adac4bd/Luftraumverletzung-oder-nicht-Moskau-kontert-Vorwuerfe.html",
+      "https://www.welt.de/motor/news/article68d3c6dd6199625f8c0fb948/Lucid-wird-bodenstaendiger.html",
+      "https://www.welt.de/politik/deutschland/article68d38d6b6199625f8c0fb3dd/Bundestag-im-Liveticker-Wer-so-redet-der-will-verunsichern-hetzen-und-spalten-Hoffmann-attackiert-Weidel.html",
+      "https://www.welt.de/regionales/bayern/article68d3c50a4a958e24fe6c060e/Polizeikontrolle-Hunderte-Kinder-nicht-richtig-angeschnallt.html",
+      "https://www.welt.de/regionales/nrw/article68d3c5fa6199625f8c0fb93c/BaFin-prueft-Gerresheimer-Zahlen-von-2024-Kurseinbruch.html",
+      "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article68d3c4564a958e24fe6c0603/In-sieben-Bundeslaendern-schrumpft-die-Wirtschaft.html",
+      "https://www.welt.de/regionales/hessen/article68d3b5cef690fb3eb9734a6f/Wirtschaft-in-Hessen-stagniert-im-ersten-Halbjahr-2025.html",
+      "https://www.welt.de/kultur/theater/article68cbff8ba609990af70f1149/regisseurin-lena-brasch-hat-tiktok-die-kraft-das-theater-zu-veraendern.html",
+      "https://www.welt.de/regionales/berlin/article68d3c41a4a958e24fe6c05f9/Feuer-in-Berliner-Hochhaus-Ermittlungen-gegen-Mieter.html",
+      "https://www.welt.de/regionales/hamburg/article68d3c2eef690fb3eb9734c0c/Auftakt-im-Prozess-um-toedliche-Messerstiche-in-Kiel.html",
+      "https://www.welt.de/regionales/hessen/article68d3c10d4a958e24fe6c0591/U-Bahn-in-Frankfurt-entgleist-Bergung-dauert-an.html"
     ]
   },
   "globalsign.com": {
-    "lastAt": 1758356931573,
+    "lastAt": 1758709585290,
     "urls": [
       "https://www.globalsign.com/en",
       "https://globalsign.com/",
@@ -12864,41 +12972,51 @@
       "https://www.globalsign.com/en/company/news-events/events",
       "https://www.globalsign.com/en/company/news-events/press",
       "https://www.globalsign.com/en/resources",
-      "https://www.globalsign.com/en/resources/webinars"
+      "https://www.globalsign.com/en/resources/webinars",
+      "https://www.globalsign.com/en/company/news-events/press/globalsign-launches-iot-developer-program-and-iot-developer-portal",
+      "https://www.globalsign.com/en/company/news-events/press/collaboration-globalsign-iot-instigate-iot-developer-program",
+      "https://www.globalsign.com/en/company/news-events/press/globalsign-unveils-iot-developer-portal-device-identity-integrations",
+      "https://www.globalsign.com/en/company/news-events/press/globalsigns-iot-developer-program-and-portal-assist-developers-device-identity-integrations",
+      "https://www.globalsign.com/en/company/news-events/press/new-developer-program-helps-strengthen-iot-security",
+      "https://www.globalsign.com/en/search",
+      "https://www.globalsign.com/en/company/news-events/press/httpswwwsmartgridtodaycommembersglobalsign-help-lxi-consortium-iot-securitycfm",
+      "https://www.globalsign.com/en/company/news-events/press/lxi-appoints-globalsign-approved-security-vendor",
+      "https://www.globalsign.com/en/company/news-events/press/globalsign-introduces-iot-developer-program-and-iot-developer-portal-streamline-iot-security-integrations",
+      "https://www.globalsign.com/en/company/news-events/press/why-nist-announced-cybersecurity-guidelines-iot"
     ]
   },
   "hbr.org": {
-    "lastAt": 1758356933823,
+    "lastAt": 1758709587762,
     "urls": [
       "https://hbr.org/"
     ]
   },
   "360.cn": {
-    "lastAt": 1758356938533,
+    "lastAt": 1758709592300,
     "urls": [
       "https://360.cn/"
     ]
   },
   "kontur.ru": {
-    "lastAt": 1758356941107,
+    "lastAt": 1758709594483,
     "urls": [
       "https://kontur.ru/"
     ]
   },
   "upwork.com": {
-    "lastAt": 1758356944704,
+    "lastAt": 1758709597942,
     "urls": []
   },
   "mozilla.net": {
-    "lastAt": 1758356947686,
+    "lastAt": 1758709600887,
     "urls": []
   },
   "stickyadstv.com": {
-    "lastAt": 1758357006494,
+    "lastAt": 1758709659697,
     "urls": []
   },
   "kaspi.kz": {
-    "lastAt": 1758357019791,
+    "lastAt": 1758709671846,
     "urls": [
       "https://kaspi.kz/",
       "https://kaspi.kz/shop/fort-shevchenko/c/scanners/",
@@ -12929,11 +13047,21 @@
       "https://kaspi.kz/shop/fort-shevchenko/c/tanks%20for%20construction%20work/",
       "https://kaspi.kz/shop/fort-shevchenko/c/tool%20chargers/",
       "https://kaspi.kz/shop/fort-shevchenko/c/oilers%20and%20lemongrasses/",
-      "https://kaspi.kz/shop/fort-shevchenko/c/aquarium%20nets/"
+      "https://kaspi.kz/shop/fort-shevchenko/c/aquarium%20nets/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/tillers/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/air%20intake%20hose/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/lice%20removal%20products/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/chargers%20for%20airsoft%20guns/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/composting%20toilets/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/utensils%20for%20cooking/?q=%3Acategory%3AUtensils%20for%20cooking%3AmanufacturerName%3AKorkmaz&sort=relevance&sc=?ref=link",
+      "https://kaspi.kz/shop/fort-shevchenko/c/bed%20pillows%20and%20pillowcases/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/men%20shoes/?q=:category:Men%20shoes:manufacturerName:Nike&sort=relevance&ref=fashion-landing-Nike&started_by=popular%20brands",
+      "https://kaspi.kz/shop/fort-shevchenko/c/boy%20tights/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/pet%20mats/"
     ]
   },
   "onlyfans.com": {
-    "lastAt": 1758357020253,
+    "lastAt": 1758709672288,
     "urls": [
       "https://onlyfans.com/"
     ]
