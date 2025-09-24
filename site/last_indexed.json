@@ -11397,23 +11397,23 @@
     ]
   },
   "hihonorcloud.com": {
-    "lastAt": 1758349851147,
+    "lastAt": 1758702643798,
     "urls": [
       "https://hihonorcloud.com/"
     ]
   },
   "miwifi.com": {
-    "lastAt": 1758349858341,
+    "lastAt": 1758702651766,
     "urls": []
   },
   "discordapp.com": {
-    "lastAt": 1758349859564,
+    "lastAt": 1758702653039,
     "urls": [
       "https://discordapp.com/"
     ]
   },
   "bestbuy.com": {
-    "lastAt": 1758349927577,
+    "lastAt": 1758702741662,
     "urls": [
       "https://bestbuy.com/",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
@@ -11444,11 +11444,19 @@
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=15&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=16&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=12&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
-      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories"
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=17&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=2&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=3&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=5&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=19&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=18&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=7&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=6&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories"
     ]
   },
   "mixpanel.com": {
-    "lastAt": 1758349933179,
+    "lastAt": 1758702751128,
     "urls": [
       "https://mixpanel.com/about/",
       "https://mixpanel.com/",
@@ -11479,29 +11487,39 @@
       "https://mixpanel.com/legal/mixpanel-ccpa/",
       "https://mixpanel.com/legal/mixpanel-hipaa/",
       "https://mixpanel.com/legal/mixpanel-lgpd/",
-      "https://mixpanel.com/legal/mixpanel-pdpa/"
+      "https://mixpanel.com/legal/mixpanel-pdpa/",
+      "https://mixpanel.com/legal/mixpanel-security-questionnaire/",
+      "https://mixpanel.com/legal/security-awareness/",
+      "https://mixpanel.com/legal/security-overview/",
+      "https://mixpanel.com/legal/privacy-policy/",
+      "https://mixpanel.com/legal/partner-program-agreement/",
+      "https://mixpanel.com/legal/session-replay-beta-service-addendum/",
+      "https://mixpanel.com/legal/subprocessor-list/",
+      "https://mixpanel.com/legal/supplemental-terms/",
+      "https://mixpanel.com/legal/supplier-code-of-conduct/",
+      "https://mixpanel.com/legal/tc-for-goods-and-services/"
     ]
   },
   "contextweb.com": {
-    "lastAt": 1758349934056,
+    "lastAt": 1758702752011,
     "urls": [
       "https://contextweb.com/"
     ]
   },
   "xiaohongshu.com": {
-    "lastAt": 1758349936201,
+    "lastAt": 1758702755075,
     "urls": [
       "https://xiaohongshu.com/"
     ]
   },
   "webmd.com": {
-    "lastAt": 1758349937743,
+    "lastAt": 1758702756440,
     "urls": [
       "https://webmd.com/"
     ]
   },
   "google.cn": {
-    "lastAt": 1758349938694,
+    "lastAt": 1758702757238,
     "urls": [
       "https://www.google.com/intl/gl_es/gmail/about/policy/",
       "https://www.google.com/intl/gu_in/gmail/about/",
@@ -11516,11 +11534,11 @@
     ]
   },
   "everesttech.net": {
-    "lastAt": 1758349997504,
+    "lastAt": 1758702816048,
     "urls": []
   },
   "disqus.com": {
-    "lastAt": 1758349997815,
+    "lastAt": 1758702816323,
     "urls": [
       "https://disqus.com/platform/moderation/",
       "https://disqus.com/",
@@ -11536,11 +11554,11 @@
     ]
   },
   "perfectdomain.com": {
-    "lastAt": 1758350000761,
+    "lastAt": 1758702819412,
     "urls": []
   },
   "latimes.com": {
-    "lastAt": 1758350010003,
+    "lastAt": 1758702828795,
     "urls": [
       "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-walter-rothwell-19191025-story.html",
       "https://www.latimes.com/local/obituaries/archives/la-me-john-muir-19141225-story.html",
@@ -11571,11 +11589,21 @@
       "https://www.latimes.com/lifestyle/story/2025-09-19/la-affairs-alexa-loftus-i-invited-an-ex-boyfriend-to-my-improv-show-it-did-not-go-well",
       "https://www.latimes.com/business/story/2025-09-18/la-fi-silicon-valley-defense-pivot",
       "https://www.latimes.com/lifestyle/story/2025-09-19/magic-castle-randy-pitchford-reorganization-plan-academy-of-magical-arts",
-      "https://www.latimes.com/sports/usc/story/2025-09-19/usc-vs-michigan-state-what-to-watch"
+      "https://www.latimes.com/sports/usc/story/2025-09-19/usc-vs-michigan-state-what-to-watch",
+      "https://www.latimes.com/california/story/2025-09-22/predator-drones-shift-from-border-patrol-to-protest-surveillance",
+      "https://www.latimes.com/about/pressreleases/story/2025-09-23/los-angeles-times-to-present-nuhw-governor-candidate-forum-on-sept-28",
+      "https://www.latimes.com/sports/dodgers/story/2025-09-23/dodgers-dbacks-shohei-ohtani",
+      "https://www.latimes.com/california/story/2025-09-23/eric-tung-trump-9th-circuit",
+      "https://www.latimes.com/sports/angels/story/2025-09-23/angels-royals-tuesday",
+      "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
+      "https://www.latimes.com/entertainment-arts/story/2025-09-22/cristela-alonzo-netflix-upper-classy-comedy-special",
+      "https://www.latimes.com/california/story/2025-09-23/this-program-is-using-augmented-reality-to-teach-kids-spatial-awareness",
+      "https://www.latimes.com/california/story/2025-09-23/low-tests-scores-show-math-crisis-began-a-decade-ago-and-worsened",
+      "https://www.latimes.com/entertainment-arts/books/story/2025-09-22/will-there-ever-be-another-you-review-patricia-lockwood-covid"
     ]
   },
   "datadoghq.com": {
-    "lastAt": 1758350011788,
+    "lastAt": 1758702830764,
     "urls": [
       "https://datadoghq.com/",
       "https://www.datadoghq.com/summit/london25/agenda/lunch/",
@@ -11606,15 +11634,25 @@
       "https://www.datadoghq.com/product/sensitive-data-scanner/",
       "https://www.datadoghq.com/product/audit-trail/",
       "https://www.datadoghq.com/product/observability-pipelines/",
-      "https://www.datadoghq.com/product/data-jobs-monitoring/"
+      "https://www.datadoghq.com/product/data-jobs-monitoring/",
+      "https://www.datadoghq.com/product/code-security/",
+      "https://www.datadoghq.com/content_type/",
+      "https://www.datadoghq.com/product/cloudcraft/",
+      "https://www.datadoghq.com/name_company/aws/",
+      "https://www.datadoghq.com/legal/hipaa-eligible-services/2025-09-19/",
+      "https://www.datadoghq.com/legal/hipaa-eligible-services/",
+      "https://www.datadoghq.com/name_company/",
+      "https://www.datadoghq.com/legal/",
+      "https://www.datadoghq.com/content_type/webinar/",
+      "https://www.datadoghq.com/core_product/apm/"
     ]
   },
   "fiverr.com": {
-    "lastAt": 1758350021709,
+    "lastAt": 1758702840730,
     "urls": []
   },
   "sagepub.com": {
-    "lastAt": 1758350025427,
+    "lastAt": 1758702843862,
     "urls": [
       "https://www.sagepub.com/journals/information-for-authors/submitting-your-manuscript",
       "https://www.sagepub.com/journals/information-for-reviewers/what-is-peer-review",
@@ -11645,30 +11683,40 @@
       "https://www.sagepub.com/journals/member-subscription/social-psychological-and-personality-science-for-arp-easp-sesp-and-spsp-members",
       "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/czechelib",
       "https://www.sagepub.com/journals/information-for-editors/publishing-special-issues",
-      "https://www.sagepub.com/explore-our-content/blogs/sage-perspectives/books-blogposts"
+      "https://www.sagepub.com/explore-our-content/blogs/sage-perspectives/books-blogposts",
+      "https://www.sagepub.com/explore-our-content/blogs/sage-perspectives",
+      "https://www.sagepub.com/journals/information-for-editors/journal-editorial-board-members",
+      "https://www.sagepub.com/journals/information-for-editors/promote-your-journal",
+      "https://www.sagepub.com/journals/information-for-reviewers/using-sage-track",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/singapore-alliance-of-university-libraries-saul",
+      "https://www.sagepub.com/journals/permissions/posting-to-an-institutional-repository-green-open-access",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/hybrid-open-access-sage-choice-faqs",
+      "https://www.sagepub.com/journals",
+      "https://www.sagepub.com/about/sage-history-timeline",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/finelib"
     ]
   },
   "shopee.com.br": {
-    "lastAt": 1758350025986,
+    "lastAt": 1758702844422,
     "urls": [
       "https://shopee.com.br/"
     ]
   },
   "amazon.in": {
-    "lastAt": 1758350028239,
+    "lastAt": 1758702846228,
     "urls": [
       "https://amazon.in/"
     ]
   },
   "ipify.org": {
-    "lastAt": 1758350028964,
+    "lastAt": 1758702846907,
     "urls": [
       "https://www.ipify.org/",
       "https://ipify.org/"
     ]
   },
   "prnewswire.com": {
-    "lastAt": 1758350034051,
+    "lastAt": 1758702855407,
     "urls": [
       "https://www.prnewswire.com/resources/",
       "https://www.prnewswire.com/resources/case-studies/How-the-National-Association-of-REALTORS-Boosted-Earned-Media-and-Audience-Engagement-with-a-New-Content-Strategy/",
@@ -11699,11 +11747,21 @@
       "https://www.prnewswire.com/resources/tip-sheets/the-benefits-of-guaranteed-paid-placement/thank-you/",
       "https://www.prnewswire.com/resources/tip-sheets/2024-state-of-the-press-release-report-by-numbers/thank-you/",
       "https://www.prnewswire.com/resources/tip-sheets/how-to-write-press-release-four-easy-steps/",
-      "https://www.prnewswire.com/resources/tip-sheets/how-to-write-press-release-four-easy-steps/thank-you/"
+      "https://www.prnewswire.com/resources/tip-sheets/how-to-write-press-release-four-easy-steps/thank-you/",
+      "https://www.prnewswire.com/resources/videos-webinars/how-to-maximize-your-press-release/",
+      "https://www.prnewswire.com/resources/tip-sheets/guide-to-writing-a-great-press-release/thank-you/",
+      "https://www.prnewswire.com/resources/videos-webinars/how-esg-storytelling-impacts-your-brand-webinar/",
+      "https://www.prnewswire.com/resources/?sortCategory=videos-webinars",
+      "https://www.prnewswire.com/resources/videos-webinars/how-to-amplify-your-news/",
+      "https://www.prnewswire.com/resources/videos-webinars/navigating-the-next-earnings-season/",
+      "https://www.prnewswire.com/resources/videos-webinars/innovative-methods-strengthening-your-brand-story/",
+      "https://www.prnewswire.com/resources/tip-sheets/guide-to-writing-a-great-press-release/",
+      "https://www.prnewswire.com/resources/videos-webinars/strategies-for-breaking-through-the-noise-to-elevate-your-brand/",
+      "https://www.prnewswire.com/resources/videos-webinars/reimagine-the-press-release-with-AI/"
     ]
   },
   "rakuten.com": {
-    "lastAt": 1758350038782,
+    "lastAt": 1758702860079,
     "urls": [
       "https://www.rakuten.com/",
       "https://www.rakuten.com/shop/reissonline",
@@ -11734,11 +11792,21 @@
       "https://www.rakuten.com/shop/vans",
       "https://www.rakuten.com/shop/rest",
       "https://www.rakuten.com/shop/indochino",
-      "https://www.rakuten.com/july-4th-sale/store/reebok.com"
+      "https://www.rakuten.com/july-4th-sale/store/reebok.com",
+      "https://www.rakuten.com/shop/billyreid",
+      "https://www.rakuten.com/help/article/how-long-does-it-take-for-pending-cash-back-to-be-confirmed-34494180297875",
+      "https://www.rakuten.com/shop/stevemadden",
+      "https://www.rakuten.com/shop/muckbootcompany",
+      "https://www.rakuten.com/help/article/privacy-policy-and-notice-of-personal-information-collection-360002101688",
+      "https://www.rakuten.com/shop/tramontina",
+      "https://www.rakuten.com/shop/drmartens",
+      "https://www.rakuten.com/shop/alexmill",
+      "https://www.rakuten.com/help/article/updating-your-account-settings-360002117727",
+      "https://www.rakuten.com/shop/famousfootwear"
     ]
   },
   "nbcnews.com": {
-    "lastAt": 1758350044216,
+    "lastAt": 1758702873264,
     "urls": [
       "https://nbcnews.com/",
       "https://www.nbcnews.com/select/shopping/shark-air-purifier-max-deal-of-the-day-2025-rcna230699",
@@ -11766,43 +11834,54 @@
       "https://www.nbcnews.com/video/shorts/-plant-bandit-targets-bay-area-neighborhood-247984197777",
       "https://www.nbcnews.com/video/aoc-speaks-on-charlie-kirk-resolution-247981125840",
       "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-september-19th-247984197620",
-      "https://www.nbcnews.com/video/artists-struggle-to-break-through-to-listeners-as-streaming-platforms-offer-100m-songs-247975493873"
+      "https://www.nbcnews.com/video/artists-struggle-to-break-through-to-listeners-as-streaming-platforms-offer-100m-songs-247975493873",
+      "https://www.nbcnews.com/select/shopping/best-lice-treatments-rcna232433",
+      "https://www.nbcnews.com/select/shopping/walmart-oct-deals-announcement-2025-rcna233259",
+      "https://www.nbcnews.com/select/shopping/best-cold-sore-treatment-rcna192663",
+      "https://www.nbcnews.com/select/shopping/best-ingrown-hair-treatments-prevention-rcna101598",
+      "https://www.nbcnews.com/select/shopping/amazon-recall-september-2025-rcna232972",
+      "https://www.nbcnews.com/select/shopping/best-tvs-rcna232192",
+      "https://www.nbcnews.com/select/shopping/fall-accessories-from-amazon-rcna232395",
+      "https://www.nbcnews.com/select/shopping/amazon-cleaning-gadgets-ncna1303946",
+      "https://www.nbcnews.com/select/shopping/best-shampoos-rcna232478"
     ]
   },
   "curseforge.com": {
-    "lastAt": 1758350045617,
+    "lastAt": 1758702874365,
     "urls": [
       "https://curseforge.com/"
     ]
   },
   "life360.com": {
-    "lastAt": 1758350048635,
+    "lastAt": 1758702877399,
     "urls": []
   },
   "a-mo.net": {
-    "lastAt": 1758350049786,
+    "lastAt": 1758702878409,
     "urls": [
       "https://a-mo.net/"
     ]
   },
   "criteo.net": {
-    "lastAt": 1758350053174,
+    "lastAt": 1758702881803,
     "urls": []
   },
   "amazon.es": {
-    "lastAt": 1758350057745,
-    "urls": []
+    "lastAt": 1758702886408,
+    "urls": [
+      "https://amazon.es/"
+    ]
   },
   "iso.org": {
-    "lastAt": 1758350062232,
+    "lastAt": 1758702891100,
     "urls": []
   },
   "turn.com": {
-    "lastAt": 1758350065135,
+    "lastAt": 1758702894026,
     "urls": []
   },
   "omnitagjs.com": {
-    "lastAt": 1758350068265,
+    "lastAt": 1758702897182,
     "urls": []
   },
   "amazon.it": {
