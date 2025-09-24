@@ -16372,15 +16372,15 @@
     "urls": []
   },
   "ttlivecdn.com": {
-    "lastAt": 1758381588265,
+    "lastAt": 1758734423473,
     "urls": []
   },
   "docomo.ne.jp": {
-    "lastAt": 1758381593130,
+    "lastAt": 1758734430224,
     "urls": []
   },
   "frontiersin.org": {
-    "lastAt": 1758381604506,
+    "lastAt": 1758734455587,
     "urls": [
       "https://frontiersin.org/",
       "https://www.frontiersin.org/research-topics/74106/the-fmr1-premutation-expanding-the-clinical-and-molecular-spectrum/impact",
@@ -16411,17 +16411,27 @@
       "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all/impact",
       "https://www.frontiersin.org/research-topics/73917/creating-powerful-ai-learning-environments-to-foster-effective-learning-and-instruction-for-all/authors",
       "https://www.frontiersin.org/research-topics/74048/bridging-scales-in-mechanobiology-origins-functions-and-emerging-paradigms",
-      "https://www.frontiersin.org/research-topics/74048/bridging-scales-in-mechanobiology-origins-functions-and-emerging-paradigms/articles"
+      "https://www.frontiersin.org/research-topics/74048/bridging-scales-in-mechanobiology-origins-functions-and-emerging-paradigms/articles",
+      "https://www.frontiersin.org/research-topics/73966/advancing-orthopedic-surgery-unique-case-reports-driving-progress/impact",
+      "https://www.frontiersin.org/research-topics/73966/advancing-orthopedic-surgery-unique-case-reports-driving-progress/authors",
+      "https://www.frontiersin.org/research-topics/73966/advancing-orthopedic-surgery-unique-case-reports-driving-progress/articles",
+      "https://www.frontiersin.org/research-topics/73966/advancing-orthopedic-surgery-unique-case-reports-driving-progress",
+      "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii",
+      "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii/authors",
+      "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii/articles",
+      "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii/impact",
+      "https://www.frontiersin.org/research-topics/74530/motivations-for-physical-activity---volume-v",
+      "https://www.frontiersin.org/research-topics/74530/motivations-for-physical-activity---volume-v/articles"
     ]
   },
   "cbc.ca": {
-    "lastAt": 1758381606257,
+    "lastAt": 1758734457042,
     "urls": [
       "https://cbc.ca/"
     ]
   },
   "tinkoff.ru": {
-    "lastAt": 1758381612720,
+    "lastAt": 1758734464866,
     "urls": [
       "https://www.tbank.ru/bank/help/apps/eng/",
       "https://www.tbank.ru/bank/help/apps/uz/",
@@ -16449,19 +16459,28 @@
       "https://www.tbank.ru/business/help/loan-documents/",
       "https://www.tbank.ru/bank/help/protect-money/",
       "https://www.tbank.ru/bank/help/loans/carloan-customer/photo-instruction/",
-      "https://www.tbank.ru/business/help/app/"
+      "https://www.tbank.ru/business/help/app/",
+      "https://www.tbank.ru/bank/help/payments/transfers/another-bank/sber-pull/",
+      "https://www.tbank.ru/invest/help/profit-options/",
+      "https://www.tbank.ru/invest/help/web-app/",
+      "https://www.tbank.ru/business/help/happy-holidays/",
+      "https://www.tbank.ru/bank/help/certificates/",
+      "https://www.tbank.ru/business/help/business-payout/salary/about-for-yandex/",
+      "https://www.tbank.ru/business/help/faq-crisis/",
+      "https://www.tbank.ru/bank/help/cross-border/outgoing-another-bank/",
+      "https://www.tbank.ru/invest/help/shareholder/"
     ]
   },
   "transsion-os.com": {
-    "lastAt": 1758381616457,
+    "lastAt": 1758734468554,
     "urls": []
   },
   "konami.net": {
-    "lastAt": 1758381619718,
+    "lastAt": 1758734471801,
     "urls": []
   },
   "note.com": {
-    "lastAt": 1758381627530,
+    "lastAt": 1758734479367,
     "urls": [
       "https://note.com/recommend",
       "https://note.com/",
@@ -16486,11 +16505,19 @@
       "https://note.com/sugarcorp",
       "https://note.com/notemag",
       "https://note.com/uuum_official",
-      "https://note.com/zochang"
+      "https://note.com/zochang",
+      "https://note.com/turkeyzawa",
+      "https://note.com/warc",
+      "https://note.com/yuki_doro",
+      "https://note.com/guchimarie",
+      "https://note.com/spla_premier",
+      "https://note.com/ochyai",
+      "https://note.com/serene_eel862",
+      "https://note.com/player_twi"
     ]
   },
   "rapid7.com": {
-    "lastAt": 1758381630537,
+    "lastAt": 1758734482959,
     "urls": [
       "https://www.rapid7.com/about/leadership/",
       "https://rapid7.com/",
@@ -16521,31 +16548,41 @@
       "https://www.rapid7.com/about/news/awards/",
       "https://www.rapid7.com/about/press-releases/",
       "https://www.rapid7.com/about/news/in-the-news/",
-      "https://www.rapid7.com/about/public-policy/"
+      "https://www.rapid7.com/about/public-policy/",
+      "https://www.rapid7.com/about/rapid7-foundation/",
+      "https://www.rapid7.com/about/social-good/",
+      "https://www.rapid7.com/about/rapid7-cybersecurity-partner-boston-bruins/",
+      "https://www.rapid7.com/compare/rapid7-siem-vs-sumo-logic/",
+      "https://www.rapid7.com/blog/",
+      "https://www.rapid7.com/compare/rapid7-vs-axonius/",
+      "https://www.rapid7.com/compare/rapid7-vs-tenable/",
+      "https://www.rapid7.com/compare/rapid7-vs-qualys/",
+      "https://www.rapid7.com/contact/",
+      "https://www.rapid7.com/customers/"
     ]
   },
   "gamepass.com": {
-    "lastAt": 1758381634596,
+    "lastAt": 1758734487028,
     "urls": []
   },
   "redfin.com": {
-    "lastAt": 1758381654960,
+    "lastAt": 1758734504212,
     "urls": [
       "https://redfin.com/"
     ]
   },
   "interia.pl": {
-    "lastAt": 1758381657498,
+    "lastAt": 1758734506843,
     "urls": [
       "https://interia.pl/"
     ]
   },
   "kunlungr.com": {
-    "lastAt": 1758381716309,
+    "lastAt": 1758734565655,
     "urls": []
   },
   "nic.do": {
-    "lastAt": 1758381726185,
+    "lastAt": 1758734575062,
     "urls": [
       "https://www.nic.do/2016/11/necesitas-renovar-tu-dominio-paga-en-linea-con-tarjeta-de-credito/",
       "https://www.nic.do/2017/02/que-es-lo-nuevo-de-nic-do/",
@@ -16576,15 +16613,25 @@
       "https://www.nic.do/2024/07/aviso-de-mantenimiento-830-pm/",
       "https://www.nic.do/2024/11/aviso-de-mantenimiento-700-am-2/",
       "https://www.nic.do/2024/04/cambios-a-la-politica-de-solucion-de-controversias-en-materia-de-nombres-de-dominio-para-do-a-partir-del-24-05-2024/",
-      "https://www.nic.do/2024/07/aviso-de-mantenimiento-700-am/"
+      "https://www.nic.do/2024/07/aviso-de-mantenimiento-700-am/",
+      "https://www.nic.do/2024/11/aviso-de-mantenimiento-800-pm-29-11-2024/",
+      "https://www.nic.do/dominios/nuestros-dominios-do/",
+      "https://www.nic.do/dominios/registrar-y-gestionar-dominios/",
+      "https://www.nic.do/",
+      "https://www.nic.do/dominios/",
+      "https://www.nic.do/politicas/",
+      "https://www.nic.do/dominios/formas-de-pago/",
+      "https://www.nic.do/dominios/dominios-reservados/",
+      "https://www.nic.do/acerca-de-nic-do/",
+      "https://www.nic.do/acerca-de-nic-do/historia/"
     ]
   },
   "olx.com.br": {
-    "lastAt": 1758381729558,
+    "lastAt": 1758734578545,
     "urls": []
   },
   "skroutz.gr": {
-    "lastAt": 1758381737285,
+    "lastAt": 1758734586155,
     "urls": [
       "https://www.skroutz.gr/cyber-monday",
       "https://www.skroutz.gr/black-friday",
@@ -16597,27 +16644,27 @@
     ]
   },
   "ouest-france.fr": {
-    "lastAt": 1758381740911,
+    "lastAt": 1758734589979,
     "urls": []
   },
   "macys.com": {
-    "lastAt": 1758381745017,
+    "lastAt": 1758734593956,
     "urls": []
   },
   "weforum.org": {
-    "lastAt": 1758381749465,
+    "lastAt": 1758734598353,
     "urls": []
   },
   "tsyndicate.com": {
-    "lastAt": 1758381752322,
+    "lastAt": 1758734601344,
     "urls": []
   },
   "umich.edu": {
-    "lastAt": 1758381755342,
+    "lastAt": 1758734604507,
     "urls": []
   },
   "surfshark.com": {
-    "lastAt": 1758381760318,
+    "lastAt": 1758734609710,
     "urls": [
       "https://surfshark.com/",
       "https://surfshark.com/blog/data-hoarding",
@@ -16648,21 +16695,31 @@
       "https://surfshark.com/blog/surfshark-merges-with-nord-security",
       "https://surfshark.com/blog/surfshark-releases-manual-wireguard-connection",
       "https://surfshark.com/blog/surfshark-upgraded-to-ram-only-servers",
-      "https://surfshark.com/blog/surfshark-news-november-2022"
+      "https://surfshark.com/blog/surfshark-news-november-2022",
+      "https://surfshark.com/blog/surfshark-news-december-2022",
+      "https://surfshark.com/blog/best-for-unlimited-connections-by-forbes-advisor",
+      "https://surfshark.com/blog/shark-awareness-day-2023",
+      "https://surfshark.com/blog/biggest-data-breaches",
+      "https://surfshark.com/blog/surfshark-news-june-2023",
+      "https://surfshark.com/blog/linux-gui",
+      "https://surfshark.com/blog/cleanweb-2",
+      "https://surfshark.com/blog/dating-tracking-app",
+      "https://surfshark.com/blog/ride-hailing-taxi-apps-data-tracking",
+      "https://surfshark.com/blog/privacy-invasive-covid-19-apps"
     ]
   },
   "flipkart.com": {
-    "lastAt": 1758381829126,
+    "lastAt": 1758734678519,
     "urls": []
   },
   "dyndns.org": {
-    "lastAt": 1758381829939,
+    "lastAt": 1758734679388,
     "urls": [
       "https://dyndns.org/"
     ]
   },
   "abc.es": {
-    "lastAt": 1758381832227,
+    "lastAt": 1758734681601,
     "urls": [
       "https://abc.es/",
       "https://www.abc.es/espana/aragon/lengua-azul-huesca-lleva-aragon-animar-prevencion-20250912144305-nt.html",
@@ -16693,21 +16750,31 @@
       "https://www.abc.es/recreo/biologa-explica-verdaderas-consecuencias-dos-primos-hijo-20250920185151-nt.html",
       "https://www.abc.es/gente/hombres-tiempo-brooks-nader-explosiva-confesion-sobre-20250920160000-nt.html",
       "https://www.abc.es/internacional/rusia-ejecuta-nuevo-bombardeo-masivo-ciudades-ucrania-20250920163235-nt.html",
-      "https://www.abc.es/espana/castilla-la-mancha/pp-asegura-politicas-socialistas-castillala-mancha-confirman-20250920165834-nt.html"
+      "https://www.abc.es/espana/castilla-la-mancha/pp-asegura-politicas-socialistas-castillala-mancha-confirman-20250920165834-nt.html",
+      "https://www.abc.es/gastronomia/bar-madrid-queda-puertas-ranking-the-worlds-20250924185643-nt.html",
+      "https://www.abc.es/economia/alianza-hidrogeno-verde-incorpora-nuevos-miembros-acelerar-20250924191505-nt.html",
+      "https://www.abc.es/espana/castilla-la-mancha/toledo/por-antonio-lazaro-cuarto-congreso-toledo-magico-luminosa-consolidacion-20250924191449-nt.html",
+      "https://www.abc.es/sociedad/congreso-reprueba-ministra-igualdad-fiasco-pulseras-antimaltrato-20250924170618-nt.html",
+      "https://www.abc.es/opinion/ignacio-camacho-claro-cuesta-comprender-20250925191938-nt.html",
+      "https://www.abc.es/gente/lady-gaga-protagoniza-cameo-mejor-pagado-historia-20250924190000-nt.html",
+      "https://www.abc.es/deportes/motos/loris-capirossi-marc-marquez-esperaba-alex-gran-20250924194259-nt.html",
+      "https://www.abc.es/opinion/aniceto-masferrer-peso-culpa-20250925191339-nt.html",
+      "https://www.abc.es/espana/unanimidad-congreso-politica-migratoria-gobierno-caos-20250924184327-nt.html",
+      "https://www.abc.es/opinion/angel-antonio-herrera-caniche-desgrava-20250925191328-nt.html"
     ]
   },
   "statcounter.com": {
-    "lastAt": 1758381833335,
+    "lastAt": 1758734682768,
     "urls": [
       "https://statcounter.com/"
     ]
   },
   "bytefcdn.com": {
-    "lastAt": 1758381837243,
+    "lastAt": 1758734688092,
     "urls": []
   },
   "deloitte.com": {
-    "lastAt": 1758381841805,
+    "lastAt": 1758734694759,
     "urls": [
       "https://www.deloitte.com/global/en/services/tax/perspectives/eu-list-non-cooperative-jurisdictions.html",
       "https://deloitte.com/",
@@ -16733,15 +16800,17 @@
       "https://www.deloitte.com/global/en/about/people/profiles.clare-campbell-smith+f864304.html",
       "https://www.deloitte.com/global/en/about/people/profiles.tamara-armoush+61c5914a.html",
       "https://www.deloitte.com/global/en/about/people/profiles.eoin-drumm+260730ec.html",
-      "https://www.deloitte.com/global/en/about/people/profiles.zoe-burton+f1646003.html"
+      "https://www.deloitte.com/global/en/about/people/profiles.zoe-burton+f1646003.html",
+      "https://www.deloitte.com/global/en/services/tax/services/business-tax.html",
+      "https://www.deloitte.com/global/en/services/tax/services/corporate-tax-compliance.html"
     ]
   },
   "amagi.tv": {
-    "lastAt": 1758381900614,
+    "lastAt": 1758734753569,
     "urls": []
   },
   "ecosia.org": {
-    "lastAt": 1758381904532,
+    "lastAt": 1758734757108,
     "urls": []
   },
   "inkuai.com": {
