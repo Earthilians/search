@@ -10891,7 +10891,7 @@
     ]
   },
   "afternic.com": {
-    "lastAt": 1758345609572,
+    "lastAt": 1758698548074,
     "urls": [
       "https://www.afternic.com/sell-domains",
       "https://www.afternic.com/domain-broker",
@@ -10903,7 +10903,7 @@
     ]
   },
   "gumgum.com": {
-    "lastAt": 1758345612954,
+    "lastAt": 1758698555678,
     "urls": [
       "https://gumgum.com/",
       "https://gumgum.com/advertisers",
@@ -10934,21 +10934,31 @@
       "https://gumgum.com/press-releases",
       "https://gumgum.com/publishers",
       "https://gumgum.com/style-guide",
-      "https://gumgum.com/forms/internal-referral-program-emea"
+      "https://gumgum.com/forms/internal-referral-program-emea",
+      "https://gumgum.com/contextual",
+      "https://gumgum.com/units",
+      "https://gumgum.com/forms/verity-managed-campaigns",
+      "https://gumgum.com/forms/verity-for-publishers",
+      "https://gumgum.com/forms/verity-pre-bid",
+      "https://gumgum.com/forms/verity-tm-activation-application-gumgum",
+      "https://gumgum.com/webinars",
+      "https://gumgum.com/contact-thank-you",
+      "https://gumgum.com/forms/verity-request-a-demo-pmp",
+      "https://gumgum.com/terms-and-policies"
     ]
   },
   "33across.com": {
-    "lastAt": 1758345616600,
+    "lastAt": 1758698559256,
     "urls": []
   },
   "viber.com": {
-    "lastAt": 1758345617867,
+    "lastAt": 1758698560384,
     "urls": [
       "https://viber.com/"
     ]
   },
   "redhat.com": {
-    "lastAt": 1758345623754,
+    "lastAt": 1758698567581,
     "urls": [
       "https://www.redhat.com/ja",
       "https://redhat.com/",
@@ -10978,33 +10988,42 @@
       "https://www.redhat.com/en/blog/red-hat-the-linux-foundation-and-canonical-publish-white-paper-on-unfied-extensible-firmware-interface",
       "https://www.redhat.com/en/blog/spotlight-feature-GNOME-makes-fedora-16-more-efficient-and-easier-to-use",
       "https://www.redhat.com/en/about/press-releases/rajesh-rege-joins-red-hat-lead-red-hat-india",
-      "https://www.redhat.com/en/blog/Red-Hats-Pathway-to-IT-Freedom-Helps-Customers-Create-Their-Own-Vision-for-IT"
+      "https://www.redhat.com/en/blog/Red-Hats-Pathway-to-IT-Freedom-Helps-Customers-Create-Their-Own-Vision-for-IT",
+      "https://www.redhat.com/en/blog/next-fedora-%E2%80%93-fedora-21-beta-here",
+      "https://www.redhat.com/en/blog/nfv-openstack-and-red-hat-leveraging-industry-leading-ecosystem-modernize-telecommunications-industry",
+      "https://www.redhat.com/en/about/press-releases/red-hat-collaborates-dell-drive-platform-service-innovation-devops-solution-starter-pack",
+      "https://www.redhat.com/en/blog/spotlight-feature-no-fluff-just-full-features-in-the-Fedora-16-cloud",
+      "https://www.redhat.com/en/blog/Its-Big-Its-on-the-Cloud-Its-Free-Its-Easy-MongoDB-on-OpenShift-Keeps-Getting-Better",
+      "https://www.redhat.com/en/blog/top-10-reasons-to-get-certified-0",
+      "https://www.redhat.com/en/blog/Downloadable-Version-of-Red-Hat-Enterprise-Virtualization-3-0-Beta-Now-Available-to-All",
+      "https://www.redhat.com/en/about/press-releases/red-hat-and-wipro-extend-partnership-and-collaborate-advance-enterprise-openstack-implementations-deliver-devops-solutions-openshift",
+      "https://www.redhat.com/en/about/press-releases/red-hat-launches-new-release-openshift-enterprise-and-adds-private-ipaas"
     ]
   },
   "wp.pl": {
-    "lastAt": 1758345629651,
+    "lastAt": 1758698574571,
     "urls": []
   },
   "mediafire.com": {
-    "lastAt": 1758345633173,
+    "lastAt": 1758698578525,
     "urls": []
   },
   "thesun.co.uk": {
-    "lastAt": 1758345642981,
+    "lastAt": 1758698588493,
     "urls": [
       "https://thesun.co.uk/"
     ]
   },
   "creativecdn.com": {
-    "lastAt": 1758345646943,
+    "lastAt": 1758698592288,
     "urls": []
   },
   "heylink.me": {
-    "lastAt": 1758345650597,
+    "lastAt": 1758698595713,
     "urls": []
   },
   "bitrix24.ru": {
-    "lastAt": 1758345659651,
+    "lastAt": 1758698601031,
     "urls": [
       "https://www.bitrix24.ru/",
       "https://www.bitrix24.ru/about/agreement_add.php",
@@ -11035,15 +11054,25 @@
       "https://www.bitrix24.ru/about/publishing_rules.php",
       "https://www.bitrix24.ru/about/sign.php",
       "https://www.bitrix24.ru/about/site_map.php",
-      "https://www.bitrix24.ru/about/site-usage-aggreement.php"
+      "https://www.bitrix24.ru/about/site-usage-aggreement.php",
+      "https://www.bitrix24.ru/about/sites.php",
+      "https://www.bitrix24.ru/about/terms-of-use-ai.php",
+      "https://www.bitrix24.ru/about/subscribe_helpdesk.php",
+      "https://www.bitrix24.ru/about/terms_of_use_videocalls.php",
+      "https://www.bitrix24.ru/about/wa_channel_b24.php",
+      "https://www.bitrix24.ru/about/terms_of_use_ed.php",
+      "https://www.bitrix24.ru/apps/api.php",
+      "https://www.bitrix24.ru/apps/",
+      "https://www.bitrix24.ru/apps/base.php",
+      "https://www.bitrix24.ru/apps/mobile-and-desktop-apps-rk.php"
     ]
   },
   "exp-tas.com": {
-    "lastAt": 1758345662589,
+    "lastAt": 1758698603879,
     "urls": []
   },
   "xvideos.com": {
-    "lastAt": 1758345666670,
+    "lastAt": 1758698606004,
     "urls": [
       "https://www.xvideos.com/",
       "https://www.xvideos.com/c/ass_to_mouths-29",
@@ -11078,13 +11107,13 @@
     ]
   },
   "shopee.co.id": {
-    "lastAt": 1758345668102,
+    "lastAt": 1758698607814,
     "urls": [
       "https://shopee.co.id/"
     ]
   },
   "ya.ru": {
-    "lastAt": 1758345673951,
+    "lastAt": 1758698613885,
     "urls": [
       "https://ya.ru/",
       "https://yandex.ru/medicine/roddom_berezniki",
@@ -11115,21 +11144,31 @@
       "https://yandex.ru/medicine/roddom_pugachev",
       "https://yandex.ru/medicine/roddom_yekaterinburg",
       "https://yandex.ru/medicine/roddom_kamensk-shakhtinsky",
-      "https://yandex.ru/medicine/roddom_solikamsk"
+      "https://yandex.ru/medicine/roddom_solikamsk",
+      "https://yandex.ru/medicine/roddom_bryansk",
+      "https://yandex.ru/medicine/roddom_gelendgik",
+      "https://yandex.ru/medicine/roddom_kirov",
+      "https://yandex.ru/medicine/roddom_krasnoturinsk",
+      "https://yandex.ru/medicine/roddom_nizhny-novgorod",
+      "https://yandex.ru/medicine/roddom_nurlat",
+      "https://yandex.ru/medicine/roddom_nalchik",
+      "https://yandex.ru/medicine/roddom_sunzha",
+      "https://yandex.ru/medicine/roddom_tikhoretsk",
+      "https://yandex.ru/medicine/roddom_orenburg"
     ]
   },
   "tencent.com": {
-    "lastAt": 1758345678702,
+    "lastAt": 1758698632305,
     "urls": [
       "https://tencent.com/"
     ]
   },
   "imrworldwide.com": {
-    "lastAt": 1758345681750,
+    "lastAt": 1758698635243,
     "urls": []
   },
   "people.com": {
-    "lastAt": 1758345685230,
+    "lastAt": 1758698638881,
     "urls": [
       "https://people.com/18-year-old-victim-of-colorado-high-school-shooting-identified-as-family-requests-privacy-11808579",
       "https://people.com/racist-pipe-bomb-discovered-elementary-school-campus-11808663",
@@ -11160,15 +11199,25 @@
       "https://people.com/gunfire-struck-abc-sacramento-affiliate-station-11814083",
       "https://people.com/once-thought-dead-witness-in-university-of-miami-murder-case-is-found-alive-weeks-before-trial-11814072",
       "https://people.com/jennifer-lopez-ben-affleck-put-beverly-hills-mansion-back-on-market-for-52-million-11814063",
-      "https://people.com/best-fall-fashion-deals-amazon-september-2025-11813903"
+      "https://people.com/best-fall-fashion-deals-amazon-september-2025-11813903",
+      "https://people.com/outer-banks-actress-madelyn-cline-sparks-romance-rumors-with-prince-of-greece-11816004",
+      "https://people.com/everything-jimmy-kimmel-said-return-to-abc-full-transcript-monologue-11816007",
+      "https://people.com/ben-stiller-and-more-celebrities-react-to-jimmy-kimmels-return-to-air-11816008",
+      "https://people.com/violet-affleck-ben-affleck-and-jennifer-garners-daughter-speaks-about-the-impacts-of-covid-in-united-nations-address-our-present-is-being-stolen-11816006",
+      "https://people.com/camp-mystic-reopening-next-summer-sparks-outrage-from-parents-11816000",
+      "https://people.com/simon-cowell-calls-out-mel-b-live-agt-finale-tells-finalist-be-nice-11815998",
+      "https://people.com/glen-powell-shows-support-jimmy-kimmel-following-suspension-11815694",
+      "https://people.com/sarah-mclachlan-performs-on-jimmy-kimmel-live-as-show-returns-after-suspension-11815760",
+      "https://people.com/jimmy-kimmel-breaks-silence-on-abc-indefinitely-pulling-his-show-emotional-monologue-11812442",
+      "https://people.com/body-of-celeste-rivas-girl-found-in-d4vds-trunk-has-been-released-back-to-her-family-11815999"
     ]
   },
   "dbankcloud.com": {
-    "lastAt": 1758345689242,
+    "lastAt": 1758698642229,
     "urls": []
   },
   "bugsnag.com": {
-    "lastAt": 1758345695490,
+    "lastAt": 1758698648391,
     "urls": [
       "https://bugsnag.com/",
       "https://www.bugsnag.com/blog/",
@@ -11183,13 +11232,13 @@
     ]
   },
   "arxiv.org": {
-    "lastAt": 1758345698491,
+    "lastAt": 1758698649584,
     "urls": [
       "https://arxiv.org/"
     ]
   },
   "mlb.com": {
-    "lastAt": 1758345702568,
+    "lastAt": 1758698652991,
     "urls": [
       "https://www.mlb.com/news/kyle-stowers-marlins-oblique-injury-during-rehab",
       "https://mlb.com/",
@@ -11220,25 +11269,35 @@
       "https://www.mlb.com/news/cubs-clinch-2025-postseason-berth",
       "https://www.mlb.com/news/shohei-ohtani-open-to-playing-outfield-in-postseason",
       "https://www.mlb.com/news/phillies-2025-postseason-faq",
-      "https://www.mlb.com/news/yankees-magazine-spencer-jones"
+      "https://www.mlb.com/news/yankees-magazine-spencer-jones",
+      "https://www.mlb.com/news/bobby-witt-jr-earns-clemente-award-nomination",
+      "https://www.mlb.com/news/spencer-strider-roberto-clemente-award-nomination-2025",
+      "https://www.mlb.com/news/press-release-atlanta-braves-homestand-highlights-september-22-28",
+      "https://www.mlb.com/news/aaron-judge-trying-to-become-tallest-batting-champion",
+      "https://www.mlb.com/news/best-power-speed-combo-seasons-in-mlb-history",
+      "https://www.mlb.com/news/will-kyle-tucker-be-ready-for-cubs-in-2025-playoffs",
+      "https://www.mlb.com/es/news/lo-que-hay-en-juego-ultima-semana-temporada-2025-mlb",
+      "https://www.mlb.com/news/odicci-alexander-bennett-ausl-bandits-star-played-2025-season-pregnant",
+      "https://www.mlb.com/news/how-padres-could-line-up-starting-rotation-for-playoffs",
+      "https://www.mlb.com/es/news/kershaw-agradece-a-los-aficionados-de-los-dodgers-por-18-anos-increibles"
     ]
   },
   "scdn.co": {
-    "lastAt": 1758345705663,
+    "lastAt": 1758698656001,
     "urls": []
   },
   "myspace.com": {
-    "lastAt": 1758345708903,
+    "lastAt": 1758698659452,
     "urls": []
   },
   "unesco.org": {
-    "lastAt": 1758345712589,
+    "lastAt": 1758698663604,
     "urls": [
       "https://unesco.org/"
     ]
   },
   "theverge.com": {
-    "lastAt": 1758345715763,
+    "lastAt": 1758698666740,
     "urls": [
       "https://www.theverge.com/news/776884/openai-microsoft-mou",
       "https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models",
@@ -11269,11 +11328,21 @@
       "https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life",
       "https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson",
       "https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous",
-      "https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups"
+      "https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups",
+      "https://www.theverge.com/entertainment/782939/alien-earth-andy-nicholson-interview",
+      "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale",
+      "https://www.theverge.com/tech/783795/microsoft-ai-ceo-mustafa-suleyman-future-of-browser-interview-notepad",
+      "https://www.theverge.com/policy/783707/charlie-kirk-memorial-christian-nationalism-maga",
+      "https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase",
+      "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables",
+      "https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion",
+      "https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update",
+      "https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting"
     ]
   },
   "homedepot.com": {
-    "lastAt": 1758345718462,
+    "lastAt": 1758698669195,
     "urls": [
       "https://www.homedepot.com/services/c/window-treatment-installation-h/24a343ba1",
       "https://www.homedepot.com/services/h/appliance",
@@ -11295,15 +11364,15 @@
     ]
   },
   "githubusercontent.com": {
-    "lastAt": 1758345721386,
+    "lastAt": 1758698672128,
     "urls": []
   },
   "usgovcloudapi.net": {
-    "lastAt": 1758345724348,
+    "lastAt": 1758698675141,
     "urls": []
   },
   "airbnb.com": {
-    "lastAt": 1758345727379,
+    "lastAt": 1758698679410,
     "urls": [
       "https://www.airbnb.com/airbnb-friendly/apartments/towson-md",
       "https://www.airbnb.com/airbnb-friendly/apartments/petaluma-ca",
@@ -11314,7 +11383,17 @@
       "https://www.airbnb.com/airbnb-friendly/apartments/sarasota-fl",
       "https://www.airbnb.com/airbnb-friendly/apartments/oakland-ca",
       "https://www.airbnb.com/airbnb-friendly/apartments/tulsa-ok",
-      "https://www.airbnb.com/airbnb-friendly/apartments/indianapolis-in"
+      "https://www.airbnb.com/airbnb-friendly/apartments/indianapolis-in",
+      "https://www.airbnb.com/airbnb-friendly/apartments/birmingham-al",
+      "https://www.airbnb.com/airbnb-friendly/apartments/boise-id",
+      "https://www.airbnb.com/airbnb-friendly/apartments/greer-sc",
+      "https://www.airbnb.com/airbnb-friendly/apartments/fort-myers-fl",
+      "https://www.airbnb.com/airbnb-friendly/apartments/minneapolis-mn",
+      "https://www.airbnb.com/airbnb-friendly/apartments/chicago-il",
+      "https://www.airbnb.com/airbnb-friendly/apartments/nicasio-ca",
+      "https://www.airbnb.com/airbnb-friendly/apartments/narragansett-ri",
+      "https://www.airbnb.com/airbnb-friendly/apartments/raleigh-nc",
+      "https://www.airbnb.com/airbnb-friendly/apartments/denver-co"
     ]
   },
   "hihonorcloud.com": {
