@@ -221352,5 +221352,376 @@
     "title": "What is a Modern Contact Center | Sprinklr Glossary",
     "description": "Modern contact centers integrate AI, omnichannel support and cloud technology for remote and real-ti",
     "text": "Sprinklr Service\nOverview\nSprinklr Social\nOverview\nWorks Best With\nSprinklr Insights\nOverview\nSprink"
+  },
+  {
+    "id": "8df0b7386446ad440f7e27ff16f4a75cce11f35a",
+    "url": "https://www.foreca.fi/Saint_Helena/Jamestown",
+    "title": "Täsmäsää Jamestown - Foreca.fi",
+    "description": "Täsmäsää Jamestown. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon m",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "7068990b024f8c3294d86bb3712fa09e65924313",
+    "url": "https://www.foreca.fi/Saint_Helena/Longwood",
+    "title": "Täsmäsää Longwood - Foreca.fi",
+    "description": "Täsmäsää Longwood. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon mu",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "2de6a5b56d57c5507fbae31354df9746b263c233",
+    "url": "https://www.foreca.fi/Saint_Helena/Half_Tree_Hollow",
+    "title": "Täsmäsää Half Tree Hollow - Foreca.fi",
+    "description": "Täsmäsää Half Tree Hollow. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja p",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "4ba439c886b2156bc3b8e769017288d39e77d047",
+    "url": "https://www.foreca.fi/Saint_Helena/Levelwood",
+    "title": "Täsmäsää Levelwood - Foreca.fi",
+    "description": "Täsmäsää Levelwood. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon m",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "9105f8167c73a881597b1bcfa6246ce821a252c2",
+    "url": "https://www.foreca.fi/Saint_Helena/Edinburgh",
+    "title": "Täsmäsää Edinburgh - Foreca.fi",
+    "description": "Täsmäsää Edinburgh. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon m",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "06dfe46c1330492f3cc4913068d9b726f3cf0aba",
+    "url": "https://www.foreca.fi/Mayotte/Mamoudzou",
+    "title": "Täsmäsää Mamoutzou - Foreca.fi",
+    "description": "Täsmäsää Mamoutzou. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon m",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "05dd0162c8be5cae7b4f3785c2cc633f3a33cd79",
+    "url": "https://www.foreca.fi/Mayotte/Mtsamboro",
+    "title": "Täsmäsää Mtsamboro - Foreca.fi",
+    "description": "Täsmäsää Mtsamboro. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon m",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "6a3c588ca02ea3ef57da1060d658f0d3243ca06f",
+    "url": "https://www.foreca.fi/Mayotte/Bandraboua",
+    "title": "Täsmäsää Bandraboua - Foreca.fi",
+    "description": "Täsmäsää Bandraboua. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon ",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "17da0981b0ee0b4254797be7ad67d5c0e59fda2a",
+    "url": "https://www.foreca.fi/Mayotte/Acoua",
+    "title": "Täsmäsää Acoua - Foreca.fi",
+    "description": "Täsmäsää Acoua. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon muuta",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "8a7c9bb1a6f0650043ad52b06ee1c87f503b2c94",
+    "url": "https://www.foreca.fi/Mayotte/Tsingoni",
+    "title": "Täsmäsää Tsingoni - Foreca.fi",
+    "description": "Täsmäsää Tsingoni. Paikkakuntakohtainen täsmäsää, tutkakuvat, havainnot, sade-ennusteet ja paljon mu",
+    "text": "Klo\nIlma\nTie\nTeema\nOletusVaaleaTumma\nLähetä palautetta\nNäytä sijainti kartalla\nSääennusteet\nSadekart"
+  },
+  {
+    "id": "7c19ebf440e7a219bc47131b6a01f4551c8c479b",
+    "url": "https://grapee.jp/5557",
+    "title": "存在しない部活、帰宅部。その傑作勧誘ポスター15点  –  grape [グレイプ]",
+    "description": "いっしょに帰ろ？「はい！」って言ってしまう帰宅部ポスター１５選",
+    "text": "grape [グレイプ]\nBy - grape編集部\n\t\t　公開：2014-06-24\n\t\t　更新：2018-05-17\nおもしろ画像部活\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント\n実"
+  },
+  {
+    "id": "b44f49c6b056b74f05f38ef91b4e5312264c0dd1",
+    "url": "https://grapee.jp/5794",
+    "title": "たった10時間の結婚生活。末期がんの花婿。病室での結婚式に涙が止まらない  –  grape [グレイプ]",
+    "description": "",
+    "text": "grape [グレイプ]\ntrend\nBy - grape編集部\n\t\t　公開：2014-06-27\n\t\t　更新：2018-05-31\nがん泣ける話病気結婚式\nShare\n\tPost\n\tLINE\n\tはて"
+  },
+  {
+    "id": "a2237bfb74342c036768229f2fa6a3aef6bc9017",
+    "url": "https://grapee.jp/5928",
+    "title": "JPモルガンCEOの「金持ちと結婚する方法」はコピペ改ざんでした【話題の真相】  –  grape [グレイプ]",
+    "description": "ネットで拡散される情報には、誤ったものも少なくない。そんな話題の真相に迫るシリーズ",
+    "text": "grape [グレイプ]\nBy - grape編集部\n\t\t　公開：2014-06-29\n\t\t　更新：2018-05-28\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント\n出典：vogue.c"
+  },
+  {
+    "id": "280d08d3dd0d55c097a29471952148492a3b9b9a",
+    "url": "https://grapee.jp/6088",
+    "title": "ネットで話題の季菓『天の川』　美しすぎて食べられない！  –  grape [グレイプ]",
+    "description": "Twitterで話題の七夕にオススメの和菓子！",
+    "text": "grape [グレイプ]\nBy - grape編集部\n\t\t　公開：2014-07-01\n\t\t　更新：2018-05-29\nお菓子七夕和菓子夏\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント\n"
+  },
+  {
+    "id": "c6138b7d6c2374656dbb4dd4738850399e94fff4",
+    "url": "https://grapee.jp/6343",
+    "title": "批判が多すぎて監督が謝罪!? 映画「渇き。」の評価が賛否両論真っ二つ！  –  grape [グレイプ]",
+    "description": "6月27日に公開された映画「渇き。」中島哲也監督最新作ですが、この作品が前作の「告白」以上に賛否両論となっています。",
+    "text": "grape [グレイプ]\nBy - grape編集部\n\t\t　公開：2014-07-04\n\t\t　更新：2016-10-12\n小松菜奈\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント\n6月27日"
+  },
+  {
+    "id": "1207f3774b673865948fcbd0ca2d980b0f81557f",
+    "url": "https://grapee.jp/5831",
+    "title": "綺麗な和菓子15選　見てるだけで涼しくなる♪  –  grape [グレイプ]",
+    "description": "見ているだけで涼しくなるような、本当に美しい和菓子をご紹介！",
+    "text": "grape [グレイプ]\nBy - grape編集部\n\t\t　公開：2014-06-28\n\t\t　更新：2018-04-30\nお菓子和菓子夏\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント\n洋菓"
+  },
+  {
+    "id": "47bf64f62207750f52ad9f8f717954fb52002482",
+    "url": "https://grapee.jp/6444",
+    "title": "みんな痛みとともに生まれた。いのちとは、家族とは、生きるとは、幸せとは…【閲覧注意】  –  grape [グレイプ]",
+    "description": "「育児に疲れてしまっていたけれど、子供が産まれてきてくれた事に心から感謝するようになった」と思える映画",
+    "text": "grape [グレイプ]\ntrend\nBy - grape編集部\n\t\t　公開：2014-07-05\n\t\t　更新：2018-06-11\n出産動画妊婦子育て赤ちゃん\nShare\n\tPost\n\tLINE\n\t"
+  },
+  {
+    "id": "c8c4a52cd5685090ad722e23218a19c21f192c9c",
+    "url": "https://grapee.jp/6791",
+    "title": "発達障害の子供への『声かけ変換表』に、多くの人が『反省させられる』と話題  –  grape [グレイプ]",
+    "description": "いま、Facebookで話題の『声かけ変換表』。声のかけ方１つでまったく変わってきます。",
+    "text": "grape [グレイプ]\nlifestyle\nBy - grape編集部\n\t\t　公開：2014-07-08\n\t\t　更新：2019-09-30\n発達障害\nShare\n\tPost\n\tLINE\n\tはてな\nい"
+  },
+  {
+    "id": "c163c2406a114c09370f0138fba648008b502d58",
+    "url": "https://grapee.jp/6679",
+    "title": "３０秒で悶絶！耳に触られたハムスターのリアクションが悶えるほど可愛い！  –  grape [グレイプ]",
+    "description": "ネットで悶える人続出の可愛いらしいハムスターのリアクション♪",
+    "text": "grape [グレイプ]\ntrend\nBy - grape編集部\n\t\t　公開：2014-07-07\n\t\t　更新：2016-08-12\nハムスター動画\nShare\n\tPost\n\tLINE\n\tはてな\n\tコ"
+  },
+  {
+    "id": "40977ba39d7ae37113fbece7af50ef5efff4d887",
+    "url": "https://grapee.jp/6887",
+    "title": "猫さん大好きハムハム！はしゃぐ子犬にされるがままの優しい野良猫♪  –  grape [グレイプ]",
+    "description": "辛抱強い優しい野良猫。耳にしゃぶりついてくる子犬のおいたにじっと我慢",
+    "text": "grape [グレイプ]\ntrend\nBy - grape編集部\n\t\t　公開：2014-07-09\n\t\t　更新：2016-08-12\n動画犬猫\nShare\n\tPost\n\tLINE\n\tはてな\n\tコメント"
+  },
+  {
+    "id": "40a587eacc979c7695fddd1046307de06cb09840",
+    "url": "https://www.canada.ca/en/one-canadian-economy.html",
+    "title": "One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "Efforts to build one Canadian economy are guided by the mandates of the Minister responsible for Can"
+  },
+  {
+    "id": "b8f7cb4e81e3294a8dce55cb5a7161e0a4fd80db",
+    "url": "https://www.canada.ca/en/one-canadian-economy/services/building-canada-act-projects-national-interest.html",
+    "title": "Building Canada Act – Projects of National Interest - One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "Canada must build critical new infrastructure at speeds not seen in generations. This includes the i"
+  },
+  {
+    "id": "44fb087ad053ee9ba3fea105d353ec243d7bbe04",
+    "url": "https://www.canada.ca/en/one-canadian-economy/corporate/contact-us.html",
+    "title": "Contact One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "The One Canadian Economy Act is supported secretarially by the Privy Council Office to remove intern"
+  },
+  {
+    "id": "fc9288a8e0a771335c24310faebda2b93a0db7b7",
+    "url": "https://www.canada.ca/en/one-canadian-economy/corporate/transparency.html",
+    "title": "Transparency - One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "Browse the proactive disclosure of financial and human resources-related information."
+  },
+  {
+    "id": "39d9b568e90aa07b344ff608b157c976f0b5d679",
+    "url": "https://www.canada.ca/en/one-canadian-economy/services/free-trade-labour-mobility-canada-act.html",
+    "title": "Free Trade and Labour Mobility in Canada Act - One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "The Free Trade and Labour Mobility in Canada Act promotes free trade and labour mobility by removing"
+  },
+  {
+    "id": "be787329436726fa8a5141a64b6c5015f6b63a88",
+    "url": "https://www.canada.ca/en/one-canadian-economy/news/2025/08/government-of-canada-launches-consultation-on-the-free-trade-and-labour-mobility-in-canada-act.html",
+    "title": "Government of Canada launches consultation on the Free Trade and Labour Mobility in Canada Act - Can",
+    "description": "The Government of Canada has initiated consultations with Canadian industry, businesses and labour r",
+    "text": "From: One Canadian Economy\nThe Government of Canada has initiated consultations with Canadian indust"
+  },
+  {
+    "id": "d2538ce8990ada21656c3231f734ef1494c47d0b",
+    "url": "https://www.canada.ca/en/one-canadian-economy/services/building.html",
+    "title": "Building One Canadian Economy -  One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "The Government of Canada is creating one Canadian economy - an economy that will improve productivit"
+  },
+  {
+    "id": "96df123579050e4474fc0d6a0239ee5c298aef5f",
+    "url": "https://www.canada.ca/en/one-canadian-economy/services/free-trade-labour-mobility-canada-act/stakeholder-feedback.html",
+    "title": "Free Trade and Labour Mobility in Canada Act – Stakeholder Feedback - One Canadian Economy - Canada.",
+    "description": "",
+    "text": "The Government of Canada is seeking feedback from interested parties to support the development of r"
+  },
+  {
+    "id": "77fa288f1cca35da70150a3aeb2a03762f759a9a",
+    "url": "https://www.canada.ca/en/one-canadian-economy/services/answers-top-questions-about-one-canadian-economy-act.html",
+    "title": "Frequently asked questions about the One Canadian Economy Act - One Canadian Economy - Canada.ca",
+    "description": "",
+    "text": "The One Canadian Economy legislation was introduced to maximize Canada’s economic potential and redu"
+  },
+  {
+    "id": "abd378d5840e0a0e869adb046a503b8af9f23944",
+    "url": "https://www.canada.ca/en/one-canadian-economy/news/2025/09/minister-leblanc-to-make-announcement-on-major-projects.html",
+    "title": "Minister LeBlanc to make announcement on major projects - Canada.ca",
+    "description": "The Honourable Dominic LeBlanc, President of the King’s Privy Council for Canada and Minister respon",
+    "text": "From: One Canadian Economy\nThe Honourable Dominic LeBlanc, President of the King’s Privy Council for"
+  },
+  {
+    "id": "a098a671cb72fd066d00cd161f0c1fa17be827c6",
+    "url": "https://goal5.co/analyse/?id=4709393",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "9e50d0de05590cefb1be7502101dd1e53c66ea24",
+    "url": "https://goal5.co/analyse/?id=4709948",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "63a28c26434531b0503820d3249dfe9524b218fb",
+    "url": "https://goal5.co/webboard/index.php?menu=topic&id=162115",
+    "title": "Goal.co Webboard",
+    "description": "",
+    "text": "วิเคราะห์บอล แชมเปี้ยนชิพ : เปรสตัน(15) -vs- สวอนซี(16)\nสนาม : ดีพเดล\nเวลา : 02.45 น.\nราคาบอล : เปรส"
+  },
+  {
+    "id": "20a6ddd50a28956c0cad552b7b7796f31a7246c2",
+    "url": "https://goal5.co/webboard/index.php?menu=topic&id=162113",
+    "title": "Goal.co Webboard",
+    "description": "",
+    "text": "วิเคราะห์บอล ลีก วัน : โบลตัน(7) -vs- เบอร์มิงแฮม(1)\nสนาม : ยูนิเวอร์ ซิตี้ ออฟ โบลตัน\nเวลา : 02.45 "
+  },
+  {
+    "id": "ca313cce79b8e6116c69215e4a334b155fb55912",
+    "url": "https://goal5.co/analyse/?id=4709387",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "7505143baed000ed1705adb3a41b099289b6c9ba",
+    "url": "https://goal5.co/webboard/index.php?menu=topic&id=162114",
+    "title": "Goal.co Webboard",
+    "description": "",
+    "text": "วิเคราะห์บอล แชมเปี้ยนชิพ : ฮัลล์ ซิตี้ (21) -vs- พลีมัธ (23)\nสนาม : เดอะ เอ็มเคเอ็ม สเตเดี้ยม\nเวลา "
+  },
+  {
+    "id": "ff6f541cc6aa7c2a4efdeec90583f7e6cd4a78e6",
+    "url": "https://goal5.co/analyse/?id=4709952",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fb2b41acbd28920e39a5804e6149ed52b563ccc6",
+    "url": "https://goal5.co/analyse/?id=4709957",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3d20d36808d5d4e1423b3cb5656ad35e13297105",
+    "url": "https://goal5.co/webboard/index.php?menu=topic&id=162112",
+    "title": "Goal.co Webboard",
+    "description": "",
+    "text": "วิเคราะห์บอล ลีก วัน : ฮัดเดอร์สฟิลด์ -vs- เร็กซ์แฮม\nสนาม : จอห์น สมิธ สเตเดี้ยม\nเวลา : 02.45 น.\nราค"
+  },
+  {
+    "id": "85e4127a9fadd1708b6ca5ebb36aaa7fd6509439",
+    "url": "https://goal5.co/webboard/index.php?menu=topic&id=162111",
+    "title": "Goal.co Webboard",
+    "description": "",
+    "text": "วิเคราะห์บอล ลีก วัน : นอร์ทแฮมป์ตัน -vs- สต็อคพอร์ท\nสนาม : ซิกฟิลด์ส สเตเดี้ยม\nเวลา : 02.45 น.\nราคา"
+  },
+  {
+    "id": "d83f20274c682da5c6455c4f75ff083d6fcf19f1",
+    "url": "https://letsencrypt.org/docs/oids/",
+    "title": "Object Identifiers -  Let's Encrypt",
+    "description": "An Object Identifier (OID) is a dot-separated sequence of numbers used to uniquely identify various ",
+    "text": "An Object Identifier (OID) is a dot-separated sequence of numbers used to uniquely identify various "
+  },
+  {
+    "id": "417bfd0bc6f35960c700906dbc0ab19995f48106",
+    "url": "https://letsencrypt.org/2025/05/14/ending-tls-client-authentication.html",
+    "title": "Ending TLS Client Authentication Certificate Support in 2026 -  Let's Encrypt",
+    "description": "Let’s Encrypt will no longer include the “TLS Client Authentication” Extended Key Usage (EKU) in our",
+    "text": "Let’s Encrypt will no longer include the “TLS Client Authentication” Extended Key Usage (EKU) in our"
+  },
+  {
+    "id": "7c2c9f5b958be69e998f23163eef64c1b5fe9269",
+    "url": "https://letsencrypt.org/docs/staging-environment/",
+    "title": "Staging Environment -  Let's Encrypt",
+    "description": "We highly recommend testing against our staging environment before using our production environment.",
+    "text": "We highly recommend testing against our staging environment before using our production environment."
+  },
+  {
+    "id": "5efab0d318bfa0eb0e66908f962bba00af0a7cc7",
+    "url": "https://letsencrypt.org/2025/05/21/power-of-recurring-donations.html",
+    "title": "Sustaining a More Secure Internet: The Power of Recurring Donations -  Let's Encrypt",
+    "description": "At Let’s Encrypt we know that building a secure Internet isn’t just a technical challenge—it’s a lon",
+    "text": "At Let’s Encrypt we know that building a secure Internet isn’t just a technical challenge—it’s a lon"
+  },
+  {
+    "id": "69fa9eed9a78a475850563eba3848a929f87de35",
+    "url": "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients.html",
+    "title": "How We Reduced the Impact of Zombie Clients -  Let's Encrypt",
+    "description": "Every night, right around midnight (mainly UTC), a horde of zombies wakes up and clamors for … digit",
+    "text": "Every night, right around midnight (mainly UTC), a horde of zombies wakes up and clamors for … digit"
+  },
+  {
+    "id": "934962921b3a250d3280d4b9db42fb4b1adc78da",
+    "url": "https://letsencrypt.org/2025/04/30/pebbleacmeimplementation.html",
+    "title": "How Pebble Supports ACME Client Developers -  Let's Encrypt",
+    "description": "How Pebble Supports ACME Client Developers Together with the IETF community, we created the ACME sta",
+    "text": "Together with the IETF community, we created the ACME standard to support completely automated certi"
+  },
+  {
+    "id": "c81ac4afb7ec384060ad6f6fd050a517728de595",
+    "url": "https://letsencrypt.org/docs/faq/",
+    "title": "FAQ -  Let's Encrypt",
+    "description": "This FAQ is divided into the following sections:\nGeneral Questions Technical Questions General Quest",
+    "text": "This FAQ is divided into the following sections:\nLet’s Encrypt is a global Certificate Authority (CA"
+  },
+  {
+    "id": "a005f6495454c0fb21cdfd5d1c53dc28e2be5ccc",
+    "url": "https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued.html",
+    "title": "We Issued Our First Six Day Cert -  Let's Encrypt",
+    "description": "Earlier this year we announced our intention to introduce short-lived certificates with lifetimes of",
+    "text": "Earlier this year we announced our intention to introduce short-lived certificates with lifetimes of"
+  },
+  {
+    "id": "35ec3ea2e1a3f950d6b3fc950d89a720c4082a97",
+    "url": "https://letsencrypt.org/donate/",
+    "title": "Support Encryption for Everyone -  Let's Encrypt",
+    "description": "",
+    "text": "of the funding for Let's Encrypt comes from charitable contributions.\nFree, automated, and easy to u"
+  },
+  {
+    "id": "0ceda34dcd9ec1e3089b19d7f034630ff714ad22",
+    "url": "https://letsencrypt.org/2025/03/18/community-of-funders.html",
+    "title": "Ten Years of Let's Encrypt: Announcing support from Jeff Atwood -  Let's Encrypt",
+    "description": "As we touched on in our first blog post highlighting ten years of Let’s Encrypt: Just as remarkable ",
+    "text": "As we touched on in our first blog post highlighting ten years of Let’s Encrypt: Just as remarkable "
+  },
+  {
+    "id": "70bf044eb3c3ba4e0a69423cf9d3441313d87b17",
+    "url": "https://lotterysambad.one/mobile-app/privacy-policy/",
+    "title": "Privacy Policy",
+    "description": "",
+    "text": "At Lottery Sambad, accessible from lotterysambad.one, one of our main priorities is the privacy of o"
+  },
+  {
+    "id": "62a980c5980ab32dbc0b4956db605e24a988b487",
+    "url": "https://lotterysambad.one/buy-adspace/",
+    "title": "Buy Adspace",
+    "description": "",
+    "text": "Lottery Sambad\nNagaland State Lottery\nSikkim State Lottery\nWest Bengal State Lottery\nDhankesari\nKera"
+  },
+  {
+    "id": "a294b1de6fbc71fe1c9ff954e0eebf0a759aeabf",
+    "url": "https://lotterysambad.one/disable-ads/",
+    "title": "Hide Ads for Premium Members",
+    "description": "",
+    "text": "Lottery Sambad\nNagaland State Lottery\nSikkim State Lottery\nWest Bengal State Lottery\nDhankesari\nKera"
   }
 ]
