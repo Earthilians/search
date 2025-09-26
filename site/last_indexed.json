@@ -41919,7 +41919,7 @@
     ]
   },
   "permutive.com": {
-    "lastAt": 1758572681063,
+    "lastAt": 1758925179968,
     "urls": [
       "https://permutive.com/",
       "http://permutive.com/how-publishers-can-reclaim-their-rightful-place-in-the-advertising-contract",
@@ -41950,21 +41950,31 @@
       "http://permutive.com/cohorts-and-consented-data-for-a-post-cookie-future",
       "http://permutive.com/leaked-document-revealing-facebook-data-flaws",
       "http://permutive.com/the-drive-to-first-party-data",
-      "http://permutive.com/permutive-brings-publishers-brands-and-adtech-together-to-deliver-responsible-advertising"
+      "http://permutive.com/permutive-brings-publishers-brands-and-adtech-together-to-deliver-responsible-advertising",
+      "http://permutive.com/googles-delayed-the-death-of-cookies-dont-wait-for-it-to-solve-your-marketing-problems",
+      "http://permutive.com/publishers-hold-a-strong-hand-for-the-future-of-advertising-now-they-must-play-it-wisely",
+      "http://permutive.com/explainer-what-are-publisher-cohorts",
+      "http://permutive.com/reedpop-launches-new-engage-data-platform",
+      "http://permutive.com/75-of-us-uk-consumers-uncomfortable-buying-from-brands-with-poor-data-ethics",
+      "http://permutive.com/in-the-wake-of-bidstream-identifiers-publishers-will-become-the-guardians-of-data",
+      "http://permutive.com/seven-common-pitfalls-digital-publishers-face-when-shifting-their-focus-to-first-party-data",
+      "http://permutive.com/permutive-has-secured-75m-in-series-c-funding-led-by-softbank-vision-fund-2",
+      "http://permutive.com/publishers-step-up-to-prove-the-power-the-of-their-first-party-data-to-advertisers",
+      "http://permutive.com/consumer-trust-is-the-future-of-digital-advertising"
     ]
   },
   "windy.com": {
-    "lastAt": 1758572681696,
+    "lastAt": 1758925181600,
     "urls": [
       "https://windy.com/"
     ]
   },
   "thehill.com": {
-    "lastAt": 1758572686584,
+    "lastAt": 1758925186771,
     "urls": []
   },
   "cpanel.com": {
-    "lastAt": 1758572689471,
+    "lastAt": 1758925189574,
     "urls": [
       "https://www.cpanel.net/blog/products/blocking-attacks-with-easyapache-4s-mod_evasive/",
       "https://www.cpanel.net/blog/products/coming-very-soon-dnsonly-server-licenses/",
@@ -41995,11 +42005,21 @@
       "https://www.cpanel.net/blog/tips-and-tricks/fixing-wordpress-login-errors-with-cpanel/",
       "https://www.cpanel.net/blog/tips-and-tricks/how-to-assign-permissions-to-files-and-folders-in-cpanel/",
       "https://www.cpanel.net/blog/tips-and-tricks/how-to-monitor-php-error-logs-in-wordpress-and-cpanel/",
-      "https://www.cpanel.net/blog/tips-and-tricks/disk-io-errors-troubleshooting-on-linux-servers/"
+      "https://www.cpanel.net/blog/tips-and-tricks/disk-io-errors-troubleshooting-on-linux-servers/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-install-and-configure-modsecurity-in-cpanel/",
+      "https://www.cpanel.net/blog/announcements/centos-8-end-of-life-announcement/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-configure-and-manage-webdav-web-disks-with-cpanel/",
+      "https://www.cpanel.net/blog/products/the-evolution-of-wp-management-with-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/linux-security-enhancement-with-cpanel-whm/",
+      "https://www.cpanel.net/blog/tips-and-tricks/adding-cpanel-university-certifications-to-linkedin/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-use-a-remote-mysql-database-with-cpanel/",
+      "https://www.cpanel.net/blog/products/wordpress-auto-updates-should-you-use-them/",
+      "https://www.cpanel.net/blog/products/how-to-deploy-a-wordpress-staging-site-with-cpanel/",
+      "https://www.cpanel.net/blog/business-knowledge/discord-and-your-business/"
     ]
   },
   "umd.edu": {
-    "lastAt": 1758572698874,
+    "lastAt": 1758925193696,
     "urls": [
       "https://umd.edu/",
       "https://umd.edu/about",
@@ -42033,7 +42053,7 @@
     ]
   },
   "ey.com": {
-    "lastAt": 1758572707584,
+    "lastAt": 1758925204664,
     "urls": [
       "https://www.ey.com/en_gl",
       "https://ey.com/",
@@ -42063,11 +42083,20 @@
       "https://www.ey.com/en_gl/people/akshat-dubey",
       "https://www.ey.com/en_gl/people/ajay-rawal",
       "https://www.ey.com/en_gl/people/ajen-sita",
-      "https://www.ey.com/en_gl/people/alan-hudson"
+      "https://www.ey.com/en_gl/people/alan-hudson",
+      "https://www.ey.com/en_gl/people/aleksandar-stoilov",
+      "https://www.ey.com/en_gl/people/alessandro-bucci",
+      "https://www.ey.com/en_gl/people/alasdair-c-gee",
+      "https://www.ey.com/en_gl/people/alec-hirsch",
+      "https://www.ey.com/en_gl/people/alex-hanmer",
+      "https://www.ey.com/en_gl/people/alex-campbell",
+      "https://www.ey.com/en_gl/people/alex-jiang",
+      "https://www.ey.com/en_gl/people/alex-lewis",
+      "https://www.ey.com/en_gl/people/alex-noble"
     ]
   },
   "home-assistant.io": {
-    "lastAt": 1758572709350,
+    "lastAt": 1758925207363,
     "urls": [
       "https://www.home-assistant.io/dashboards/button/",
       "https://home-assistant.io/",
@@ -42098,51 +42127,61 @@
       "https://www.home-assistant.io/dashboards/panel/",
       "https://www.home-assistant.io/dashboards/picture-glance/",
       "https://www.home-assistant.io/dashboards/picture-elements/",
-      "https://www.home-assistant.io/dashboards/picture/"
+      "https://www.home-assistant.io/dashboards/picture/",
+      "https://www.home-assistant.io/dashboards/plant-status/",
+      "https://www.home-assistant.io/dashboards/sections/",
+      "https://www.home-assistant.io/dashboards/sensor/",
+      "https://www.home-assistant.io/dashboards/shopping-list/",
+      "https://www.home-assistant.io/dashboards/sidebar/",
+      "https://www.home-assistant.io/dashboards/tile/",
+      "https://www.home-assistant.io/dashboards/statistics-graph/",
+      "https://www.home-assistant.io/dashboards/thermostat/",
+      "https://www.home-assistant.io/dashboards/statistic/",
+      "https://www.home-assistant.io/dashboards/todo-list/"
     ]
   },
   "microsoftazuread-sso.com": {
-    "lastAt": 1758572712235,
+    "lastAt": 1758925210320,
     "urls": []
   },
   "hyatt.com": {
-    "lastAt": 1758572715485,
+    "lastAt": 1758925214105,
     "urls": []
   },
   "theglobeandmail.com": {
-    "lastAt": 1758572719302,
+    "lastAt": 1758925220129,
     "urls": [
       "https://theglobeandmail.com/"
     ]
   },
   "samsungpositioning.com": {
-    "lastAt": 1758572722562,
+    "lastAt": 1758925223236,
     "urls": []
   },
   "so.com": {
-    "lastAt": 1758572734049,
+    "lastAt": 1758925232002,
     "urls": [
       "https://so.com/"
     ]
   },
   "lazada.com": {
-    "lastAt": 1758572744000,
+    "lastAt": 1758925246599,
     "urls": [
       "https://lazada.com/"
     ]
   },
   "ny.gov": {
-    "lastAt": 1758572746958,
+    "lastAt": 1758925250125,
     "urls": [
       "https://ny.gov/"
     ]
   },
   "xxpkg.com": {
-    "lastAt": 1758572754732,
+    "lastAt": 1758925257104,
     "urls": []
   },
   "qz.com": {
-    "lastAt": 1758572758612,
+    "lastAt": 1758925261884,
     "urls": [
       "https://qz.com/search",
       "https://qz.com/latest",
@@ -42165,11 +42204,18 @@
       "https://qz.com/gas-prices-by-state-cheapest-expensive-aaa",
       "https://qz.com/us-states-home-prices-homeownership-most-unaffordable",
       "https://qz.com/trump-wants-more-corn-in-your-gas-tank",
-      "https://qz.com/india/2180171/agnipath-protests-reflect-indian-militarys-skewed-gender-ratio"
+      "https://qz.com/india/2180171/agnipath-protests-reflect-indian-militarys-skewed-gender-ratio",
+      "https://qz.com/2119634/spotify-isnt-just-a-platform-that-hosts-joe-rogans-podcast",
+      "https://qz.com/2189163/what-is-the-price-of-oil-around-the-world",
+      "https://qz.com/india/2115128/bharatpe-and-shark-tanks-ashneer-grover-takes-a-leave-of-absence",
+      "https://qz.com/work/2133841/orpheus-chamber-orchestra-offers-lessons-in-leadership-and-collaboration",
+      "https://qz.com/2146052/mackenzie-scotts-wealth-is-growing-faster-than-her-donation-list",
+      "https://qz.com/2154395/delta-expects-to-turn-a-profit-because-of-high-demand-for-flights",
+      "https://qz.com/africa/1975305/what-ngozi-okonjo-iwealas-wto-role-means-for-african-women"
     ]
   },
   "crazyegg.com": {
-    "lastAt": 1758572770623,
+    "lastAt": 1758925274546,
     "urls": [
       "https://www.crazyegg.com/about-us",
       "https://www.crazyegg.com/",
@@ -42200,11 +42246,21 @@
       "https://www.crazyegg.com/sitemap",
       "https://www.crazyegg.com/terms",
       "https://www.crazyegg.com/surveys",
-      "https://www.crazyegg.com/conversion-analytics"
+      "https://www.crazyegg.com/conversion-analytics",
+      "https://www.crazyegg.com/ctas",
+      "https://www.crazyegg.com/visual-website-analytics",
+      "https://www.crazyegg.com/web-analytics",
+      "https://www.crazyegg.com/errors-tracking",
+      "https://www.crazyegg.com/traffic-analysis",
+      "https://www.crazyegg.com/wordpress-plugin",
+      "https://www.crazyegg.com/case-study/happy-trails",
+      "https://www.crazyegg.com/case-study/radio-free-europe",
+      "https://www.crazyegg.com/case-study/sendible",
+      "https://www.crazyegg.com/case-study/wall-monkeys"
     ]
   },
   "braze.eu": {
-    "lastAt": 1758572773093,
+    "lastAt": 1758925278605,
     "urls": [
       "https://www.braze.com/partners/technology-partners/notify-ai",
       "https://www.braze.com/partners/technology-partners/optimizely",
@@ -42235,15 +42291,25 @@
       "https://www.braze.com/resources/reports-and-guides/forge2023-on-demand-gated",
       "https://www.braze.com/techforequitablefuture-appsoff",
       "https://www.braze.com/",
-      "https://www.braze.com/braze-online-design-system"
+      "https://www.braze.com/braze-online-design-system",
+      "https://www.braze.com/resources/videos/testimonial-kmart",
+      "https://www.braze.com/partners/solutions-partners/MORAYMAGmbH",
+      "https://www.braze.com/resources/reports-and-guides/forge2022-on-demand-gated",
+      "https://www.braze.com/partners/technology-partners/eagle-eye",
+      "https://www.braze.com/big-customer-stories",
+      "https://www.braze.com/company/legal/candidate-privacy-ccpa",
+      "https://www.braze.com/resources/webinars-and-events/offerfit-personalization-at-scale",
+      "https://www.braze.com/resources/videos/may-2025-whats-new",
+      "https://www.braze.com/channels-hub-test",
+      "https://www.braze.com/product/mobile-app-messaging/in-app-messaging-platform"
     ]
   },
   "opera-api2.com": {
-    "lastAt": 1758572831902,
+    "lastAt": 1758925337416,
     "urls": []
   },
   "yg5sjx5kzy.com": {
-    "lastAt": 1758572842155,
+    "lastAt": 1758925349024,
     "urls": [
       "https://yg5sjx5kzy.com/",
       "https://hola.org/access/popular/belarus",
@@ -42271,11 +42337,20 @@
       "https://hola.org/access/popular/kosovo",
       "https://hola.org/access/popular/kuwait",
       "https://hola.org/access/popular/kyrgyzstan",
-      "https://hola.org/access/popular/laos"
+      "https://hola.org/access/popular/laos",
+      "https://hola.org/access/popular/new-zealand",
+      "https://hola.org/access/popular/nicaragua",
+      "https://hola.org/access/popular/niger",
+      "https://hola.org/access/popular/new-caledonia",
+      "https://hola.org/access/popular/nigeria",
+      "https://hola.org/access/popular/niue",
+      "https://hola.org/access/popular/norfolk-island",
+      "https://hola.org/access/popular/north-korea",
+      "https://hola.org/access/popular/northern-mariana-islands"
     ]
   },
   "accenture.com": {
-    "lastAt": 1758572846722,
+    "lastAt": 1758925353585,
     "urls": [
       "https://accenture.com/",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=13549494_en",
@@ -42302,15 +42377,17 @@
       "https://www.accenture.com/ae-en/careers/jobdetails?id=R00287296_en",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=R00263331_en",
       "https://www.accenture.com/ae-en/careers/jobdetails?id=R00283149_en",
-      "https://www.accenture.com/ae-en/careers/jobdetails?id=13531210_en"
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13531210_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13347417_en",
+      "https://www.accenture.com/ae-en/careers/jobdetails?id=13531211_en"
     ]
   },
   "imoim.net": {
-    "lastAt": 1758572850024,
+    "lastAt": 1758925356899,
     "urls": []
   },
   "customer.io": {
-    "lastAt": 1758572851678,
+    "lastAt": 1758925360114,
     "urls": [
       "https://customer.io/",
       "https://customer.io/partners",
@@ -42340,11 +42417,19 @@
       "https://customer.io/events/madtech",
       "https://customer.io/events/marketing-meetup-sf",
       "https://customer.io/events/mwf-nyc",
-      "https://customer.io/events/listen-more-sxsw-2025"
+      "https://customer.io/events/listen-more-sxsw-2025",
+      "https://customer.io/events/mwf-sf",
+      "https://customer.io/events/portland-happy-hour",
+      "https://customer.io/events/say-more-barcelona-2025",
+      "https://customer.io/events/say-more-berlin-2025",
+      "https://customer.io/events/say-more-london-customers-2025",
+      "https://customer.io/events/say-more-madrid-2025",
+      "https://customer.io/events/slush",
+      "https://customer.io/events/think-summit-uk"
     ]
   },
   "unc.edu": {
-    "lastAt": 1758572859558,
+    "lastAt": 1758925368303,
     "urls": [
       "https://www.unc.edu/posts/2014/03/19/a-peoples-theatre/",
       "https://www.unc.edu/posts/2014/03/21/dance-marathon-2014/",
@@ -42375,11 +42460,21 @@
       "https://www.unc.edu/posts/2016/02/03/resolve-to-eat-healthier-in-2016/",
       "https://www.unc.edu/posts/2016/02/01/new-unc-pa-program-serves-military-students-rural-n-c/",
       "https://www.unc.edu/posts/2017/10/25/carolina-launches-bike-share-program/",
-      "https://www.unc.edu/posts/2016/05/13/maximizing-microbiome-knowledge/"
+      "https://www.unc.edu/posts/2016/05/13/maximizing-microbiome-knowledge/",
+      "https://www.unc.edu/posts/2016/04/15/pho-nomenal-business-carolina-grad/",
+      "https://www.unc.edu/posts/2016/02/22/compelled-to-starve/",
+      "https://www.unc.edu/posts/2016/01/11/welcome-back-message-from-chancellor-carol-l-folt/",
+      "https://www.unc.edu/posts/2016/02/10/wanted-doctors-with-a-rural-heart/",
+      "https://www.unc.edu/posts/2017/11/16/carolina-usfq-reaffirm-commitment-partnership-engagement-galapagos/",
+      "https://www.unc.edu/posts/2015/12/10/connecting-science-with-business/",
+      "https://www.unc.edu/posts/2015/10/30/student-teams-get-a-clue-about-wilson-library/",
+      "https://www.unc.edu/posts/2016/03/07/top-of-the-hill-back-bar/",
+      "https://www.unc.edu/posts/2016/01/24/unc-chapel-hill-researchers-discover-shadow-detector-in-plants/",
+      "https://www.unc.edu/posts/2015/10/28/unc-kenan-flagler-koury-auditorium/"
     ]
   },
   "last.fm": {
-    "lastAt": 1758572870962,
+    "lastAt": 1758925379970,
     "urls": [
       "https://www.last.fm/music/Pink+Butter;T3+of+Slum+Village/Can+We+Go+Back",
       "https://last.fm/",
@@ -42404,13 +42499,13 @@
     ]
   },
   "iubenda.com": {
-    "lastAt": 1758572872720,
+    "lastAt": 1758925382606,
     "urls": [
       "https://iubenda.com/"
     ]
   },
   "bizjournals.com": {
-    "lastAt": 1758572875445,
+    "lastAt": 1758925384043,
     "urls": [
       "https://www.bizjournals.com/albany",
       "https://www.bizjournals.com/albany/news",
@@ -42445,7 +42540,7 @@
     ]
   },
   "delfi.lt": {
-    "lastAt": 1758572881584,
+    "lastAt": 1758925392550,
     "urls": [
       "https://delfi.lt/",
       "https://www.delfi.lt/news/daily/world/valdzia-persikele-i-discord-30-mln-gyventoju-salyje-beprecedente-situacija-120148141",
@@ -42476,11 +42571,21 @@
       "https://www.delfi.lt/news/daily/crime/kretingoje-policija-baude-rukancius-paauglius-ikliuvo-17-nepilnameciu-120151947",
       "https://www.delfi.lt/news/daily/world/didzioji-britanija-paskelbe-esanti-pasirengusi-numusti-rusijos-lektuvus-virs-nato-saliu-120151942",
       "https://www.delfi.lt/news/daily/lithuania/rekordines-korupcijos-byloje-mineta-imone-toliau-laimi-viesuosius-konkursus-kodel-120150025",
-      "https://www.delfi.lt/news/daily/crime/lietuvoje-gyvenantis-tadzikas-naudojosi-netikru-vairuotojo-pazymejimu-120151943"
+      "https://www.delfi.lt/news/daily/crime/lietuvoje-gyvenantis-tadzikas-naudojosi-netikru-vairuotojo-pazymejimu-120151943",
+      "https://www.delfi.lt/news/daily/world/zacharova-ukrainai-pazere-nauju-kaltinimu-rengia-provokacija-del-kurios-gali-kilti-treciasis-pasaulinis-karas-120154003",
+      "https://www.delfi.lt/news/daily/world/lenkija-nusluoste-nosi-kitoms-salims-varsuvos-sekme-dabar-stebisi-visas-pasaulis-120153717",
+      "https://www.delfi.lt/news/daily/lithuania/sauleta-savaitgali-siluma-nedziugins-kasdien-bus-vis-vesiau-120154012",
+      "https://www.delfi.lt/news/daily/crime/klaipedietis-ikliuvo-i-sukciu-spastus-patikejes-melu-pats-atidave-banko-kortele-120154002",
+      "https://www.delfi.lt/news/daily/world/mes-dirbsime-siuo-klausimu-trumpas-svarsto-zelenskio-prasyma-120153977",
+      "https://www.delfi.lt/news/daily/crime/sostineje-pavogti-du-automobiliai-patirti-nuostoliai-siekia-35-tukst-euru-120153563",
+      "https://www.delfi.lt/news/daily/world/ekspertas-perspeja-tai-yra-rusijos-puolimo-pries-nato-ankstyvasis-pasirengimo-etapas-120153999",
+      "https://www.delfi.lt/news/daily/world/paaiskejo-priezastis-kodel-pentagonas-skubiai-sukviete-simtus-jav-generolu-ir-admirolu-is-viso-pasaulio-120153993",
+      "https://www.delfi.lt/news/daily/world/palestinos-pareigunas-netanyahu-kalba-jt-persmelkta-melo-120153992",
+      "https://www.delfi.lt/news/daily/crime/savaites-kriminalai-policijai-ikliuvo-girtas-komikas-sugriuvus-namui-zuvo-zmogus-120153866"
     ]
   },
   "mindbox.ru": {
-    "lastAt": 1758572885552,
+    "lastAt": 1758925398450,
     "urls": [
       "https://mindbox.ru/comments/",
       "https://mindbox.ru/contacts/",
@@ -42511,11 +42616,21 @@
       "https://mindbox.ru/documents/oferta-agentstv/7-2a/",
       "https://mindbox.ru/documents/oferta-na-otzyv/",
       "https://mindbox.ru/documents/oferta-agentstv/7-3a/",
-      "https://mindbox.ru/documents/offer/"
+      "https://mindbox.ru/documents/offer/",
+      "https://mindbox.ru/documents/offer/6-0/",
+      "https://mindbox.ru/documents/offer/7-0/",
+      "https://mindbox.ru/documents/offer/7-1/",
+      "https://mindbox.ru/documents/policy/",
+      "https://mindbox.ru/documents/offer/7-2/",
+      "https://mindbox.ru/documents/offer/7-3/",
+      "https://mindbox.ru/documents/pricing/",
+      "https://mindbox.ru/documents/pricing/6-0/",
+      "https://mindbox.ru/documents/pricing/7-0/",
+      "https://mindbox.ru/documents/pricing/7-1/"
     ]
   },
   "foodnetwork.com": {
-    "lastAt": 1758572890127,
+    "lastAt": 1758925403076,
     "urls": [
       "https://www.foodnetwork.com/",
       "https://www.foodnetwork.com/home/terms-of-use",
@@ -42546,7 +42661,17 @@
       "https://www.foodnetwork.com/recipes/articles/history-of-chocolate",
       "https://www.foodnetwork.com/recipes/articles/how-to-make-bacon-in-the-microwave",
       "https://www.foodnetwork.com/recipes/articles/how-to-make-caramel",
-      "https://www.foodnetwork.com/recipes/articles/how-to-make-caramel/caramel-apple-pictures"
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-caramel/caramel-apple-pictures",
+      "https://www.foodnetwork.com/recipes/articles/how-to-feed-a-crowd-for-thanksgiving",
+      "https://www.foodnetwork.com/recipes/articles/make-deviled-eggs-instant-pot",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-hot-chocolate",
+      "https://www.foodnetwork.com/recipes/articles/how-to-store-garlic",
+      "https://www.foodnetwork.com/recipes/articles/healthy-dark-chocolate-covered-snacks",
+      "https://www.foodnetwork.com/recipes/articles/how-to-make-4-egg-white-cocktails",
+      "https://www.foodnetwork.com/recipes/articles/how-to-ripen-avocados",
+      "https://www.foodnetwork.com/recipes/articles/how-dry-herbs-microwave",
+      "https://www.foodnetwork.com/recipes/articles/how-to-use-candy-melts",
+      "https://www.foodnetwork.com/recipes/articles/how-to-dehydrate-fruits-and-vegetables"
     ]
   },
   "webflow.com": {
