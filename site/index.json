@@ -223389,5 +223389,467 @@
     "title": "Ad Gallery - Reykjavik Excursions\n      \n    \n    \n      \n    \n     | AdRoll",
     "description": "",
     "text": "Run full-funnel, multi-channel advertising campaigns Learn more\nGenerate and close B2B pipeline with"
+  },
+  {
+    "id": "71b06d2dfcec160858451382ead3ead8f11f591d",
+    "url": "https://www.ovhcloud.com/asia/case-studies/justhostme/",
+    "title": "UK-based Dedicated Servers for a leading web hosting company | OVHcloud Asia",
+    "description": "JustHostMe – one of the leading providers of UK web hosting – utilised Dedicated Servers at OVH’s fl",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "534a12ed21aa1cf30e8c2dd6e198fd4210a6abeb",
+    "url": "https://www.ovhcloud.com/asia/case-studies/exotrail/",
+    "title": "Exotrail | OVHcloud Asia",
+    "description": "",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "8fa154d5a3bdd65c0b6a0179f7e1c3a8504f69fb",
+    "url": "https://www.ovhcloud.com/asia/enterprise/products/hosted-private-cloud/vscope/",
+    "title": "vRealize Operations (vROps) | OVHcloud Asia",
+    "description": "Using vROps, you can easily anticipate your resource requirements to ensure QoS for your platform, w",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "3e68a59a04bbc5a91ea57dcaf055743703f7226d",
+    "url": "https://www.ovhcloud.com/asia/case-studies/sentione/",
+    "title": "Improving the performance of a conversational AI platform with OVH dedicated servers | OVHcloud Asia",
+    "description": "SentiOne deploys an Elasticsearch cluster, built with Advance dedicated servers, to support their co",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "f3b432897ce1cc2a4c5ae6da334ff668d565f62d",
+    "url": "https://www.ovhcloud.com/asia/case-studies/medria/",
+    "title": "A fleet of dedicated servers for connected farms | OVHcloud Asia",
+    "description": "Medria utilised a fleet of 18 OVH Dedicated Servers to deliver a fast, scalable and secure analysis ",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "b44665215f91c68d3c2fa31e4516bdc94f5d432d",
+    "url": "https://www.ovhcloud.com/asia/case-studies/ilovepdf/",
+    "title": "iLovePDF offers online PDF tools powered by OVHcloud | OVHcloud Asia",
+    "description": "iLovePDF is based on an OVHcloud infrastructure, to offer its online PDF tools to users across the g",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "b51ebc2bb1d2ac5fad9c8ead8584166cbe6b480b",
+    "url": "https://www.ovhcloud.com/asia/case-studies/clickmeeting/",
+    "title": "ClickMeeting | OVHcloud Asia",
+    "description": "",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "3efe5835b8117fff3520fca63efcec44046be215",
+    "url": "https://www.ovhcloud.com/asia/case-studies/loisigroup/",
+    "title": "OVHcloud and Loisigroup | OVHcloud Asia",
+    "description": "Loisigroup chooses OVHcloud solutions to promote their entertainment complexes online",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "8a2828b05e1a3ebdb8f39ece24409bd2a5515735",
+    "url": "https://www.ovhcloud.com/asia/case-studies/ethstaker/",
+    "title": "EthStaker | OVHcloud Asia",
+    "description": "Discover how EthStaker scaled Ethereum decentralised staking with OVHcloud’s high-performance, affor",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "36995ef31471bb124680545e05e248cef6e9daf8",
+    "url": "https://www.ovhcloud.com/asia/case-studies/combigo/",
+    "title": "Combigo relies on OVHcloud DBaaS to support its growth | OVHcloud Asia",
+    "description": "The startup chose the MongoDB cloud solution managed by OVHcloud to increase its efficiency, ease of",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "2b2e0443d353add0b46d11db4dd5ae27cd16bcf5",
+    "url": "https://evernote.com/ai-text-to-voice",
+    "title": "AI Text to Voice by Evernote - Free Text to Speech",
+    "description": "Instantly convert text, files, or documents into lifelike speech with Evernote's AI-powered text-to-",
+    "text": "Transcribe files to text\nConvert files\nEdit PDFs and images\nRewrite text with AI\nTake and draft note"
+  },
+  {
+    "id": "0ba1a93e8da053d7012fb0f7aca5fae3f5a345b8",
+    "url": "https://evernote.com/ai-rewrite",
+    "title": "AI Rewrite by Evernote | Rephrase, Improve & Summarize Text with AI",
+    "description": "Edit your text with AI: Summarize, Reword and Improve Writing",
+    "text": "Transcribe files to text\nConvert files\nEdit PDFs and images\nConvert text to audio\nTake and draft not"
+  },
+  {
+    "id": "3d6d9b50b43fd8fc1ce931b75799c08ac30722e1",
+    "url": "https://evernote.com/ai-transcribe",
+    "title": "AI Transcribe by Evernote",
+    "description": "Turn audio, video, or image files into text with just one click.",
+    "text": "AI for Enterprises\nTranscribe image\nTranscribe audio\nTranscribe video\nTranscribe video link\nMeeting "
+  },
+  {
+    "id": "28dd3638119aade539c3f509af25adb1d8e16185",
+    "url": "https://evernote.com/online-notepad",
+    "title": "Online Notepad by Evernote - Take Notes Online for Free",
+    "description": "Create, edit, and organize your notes online with Evernote's free online notepad. Access your notes ",
+    "text": "1 note\nLast synced: Now\nAn AI assistant that helps you write and polish your notes.\nAttach images, P"
+  },
+  {
+    "id": "bc6a7d0bdcdef22f1d134e5af0c6a88a9858a31d",
+    "url": "https://evernote.com/pdf-convert",
+    "title": "PDF Convert by Evernote | Convert PDFs to and from Images, Word & More",
+    "description": "Convert PDFs to Word, images, or vice versa in seconds. Our all-in-one PDF converter is fast, secure",
+    "text": "PDF to image\nImage to PDF\nPDF to Word\nWord to PDF\nConvert PDFs, words, and images · Keep files quali"
+  },
+  {
+    "id": "42bb490075f8937f955b3136ab015efc68e9255d",
+    "url": "https://evernote.com/pdf-editor",
+    "title": "PDF Editor by Evernote | Edit, Annotate, Highlight & Comment PDFs Online",
+    "description": "Edit, annotate, and highlight PDF files directly in your browser with Evernote. Add text, draw, inse",
+    "text": "Easily upload, edit and format · Keep pdf formatting intact\nSupports PDF and image file formats (max"
+  },
+  {
+    "id": "930da56c32f2c0f0b4c172361ad18199f718354f",
+    "url": "https://evernote.com/word-counter",
+    "title": "Word Counter by Evernote - Count Words, Characters & More Online",
+    "description": "Free online word counter tool by Evernote. Count words, characters, sentences, and paragraphs from t",
+    "text": "Select what to calculate\nTranscribe files to text\nConvert files\nEdit PDFs and images\nRewrite text wi"
+  },
+  {
+    "id": "6ea976cd309d9ab21cd5e2b65305a6e6d2044ae1",
+    "url": "https://support.connatix.com/",
+    "title": "Connatix",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fa46ae9cb1af6f6662175786268aa7a4181e3adb",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass",
+    "title": "TV apps on Sky | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Get help with using apps available on Sky Q, Sky Glass and Sky Stream - from Netflix and Paramount+,",
+    "text": "You're up to date\n    No new alerts\nHelp using an app\nFixing a problem with an app\nAccount and billi"
+  },
+  {
+    "id": "b3e79513cdd56ddfeab66277ccae92981f3094d1",
+    "url": "https://www.sky.com/help/articles/4g-calling",
+    "title": "4G calling | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Make and receive clearer voice and video calls over the 4G network. Available on selected Sky Mobile",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "6b205c9b81304e136a740e36cfb92764ad8b33b2",
+    "url": "https://www.sky.com/help/articles/adding-channels-from-other-pay-tv-providers",
+    "title": "Subscribing to channels from other pay TV providers | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Sky Q: How to subscribe to channels from other pay TV providers, and what to do if you want to watch",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "1a75cf7e1471a73d5c517490a77dc6e3700aabe6",
+    "url": "https://www.sky.com/help/articles/app-desktop-lookup",
+    "title": "Sky apps system requirements | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Information about Sky apps and desktop players, such as what operating system and device they're ava",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "ccba9035f76d2d7ea9637a6227425c457cbd51a5",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-bbc-iplayer",
+    "title": "BBC iPlayer | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "How to use the BBC iPlayer app on Sky Q and Sky Glass.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "e858be745c733239b7ac5a195a3df1e8dd92427a",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-disney-plus",
+    "title": "Disney+ help | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "How to use the Disney+ app on Sky Q and Sky Glass.",
+    "text": "You're up to date\n    No new alerts\nSign up to Disney+"
+  },
+  {
+    "id": "143a5ba9a60147dd90ef7001b37422589a8654b5",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-my-5",
+    "title": "My 5 | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "The My 5 app has your favourite TV from Channel 5, 5STAR, 5USA, 5SELECT and 5ACTION.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "c3a1be72e8ba60ea35c206424782ec4369020da3",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-itvx",
+    "title": "ITVX | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Get help using the ITVX app on Sky Glass and Sky Stream.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "7fe39b30889514c5216473140a1159ac5b06ba19",
+    "url": "https://www.barnesandnoble.com/w/the-academy-elin-hilderbrand/1146823022",
+    "title": "The Academy: A Novel by Elin Hilderbrand,  Shelby Cunningham, Hardcover | Barnes & Noble®",
+    "description": "From #1 bestselling author of The Perfect Couple Elin Hilderbrand, and her daughter, Shelby Cunningh",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "4b4ac4f1588e4f7de4005159f319b344a7ceced6",
+    "url": "https://www.barnesandnoble.com/w/immortal-dark-tigest-girma/1144547348",
+    "title": "Immortal Dark by Tigest Girma, Paperback | Barnes & Noble®",
+    "description": "An Instant #1 New York Times Bestseller! An Instant Indie Bestseller! A USA Today Bestseller! \"Entir",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "fb5c07087789c4fe561654795506f1b8b5304d96",
+    "url": "https://www.barnesandnoble.com/w/the-long-walk-stephen-king/1100623173",
+    "title": "The Long Walk by Stephen King, Paperback | Barnes & Noble®",
+    "description": "In this #1 national bestseller, master storyteller Stephen King, writing as Richard Bachman, tells t",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "19b38d08b530d996d7fadcf9beab0d9651518b92",
+    "url": "https://www.barnesandnoble.com/w/the-housemaid-freida-mcfadden/1142009317",
+    "title": "The Housemaid by Freida McFadden, Paperback | Barnes & Noble®",
+    "description": "Don't miss the USA Today bestseller and addictive psychological thriller with a jaw-dropping twist t",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "b6abda865d88655c232a56dbfa44ed17c462a9fa",
+    "url": "https://www.barnesandnoble.com/w/long-live-evil-sarah-rees-brennan/1144328593",
+    "title": "Long Live Evil by Sarah Rees Brennan, Paperback | Barnes & Noble®",
+    "description": "ONE OF THE NEW YORK TIMES \"BEST SCIENCE FICTION AND FANTASY OF 2024\" AND \"BEST ROMANCE NOVELS OF 202",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "19062cf744480bc26c7a6f9f094fece3cbeecf5e",
+    "url": "https://www.barnesandnoble.com/w/buckeye-patrick-ryan/1146518591",
+    "title": "Buckeye (B&N Exclusive Edition) by Patrick Ryan, Hardcover | Barnes & Noble®",
+    "description": "This Barnes & Noble Exclusive Edition includes a conversation between Patrick Ryan and Ann Patchett,",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "8f066de813ea16ce02106a6b27fe8198c2d3342c",
+    "url": "https://www.barnesandnoble.com/w/the-knave-and-the-moon-rachel-gillig/1148304786",
+    "title": "The Knave and the Moon (B&N Exclusive Edition) by Rachel Gillig, Hardcover | Barnes & Noble®",
+    "description": "This Barnes & Noble Exclusive Edition will have exclusive design treatments and content.  Rachel Gil",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "d469c5780db5817567d8c24627744c6d7e82c4d4",
+    "url": "https://www.barnesandnoble.com/w/the-gingerbread-bakery-laurie-gilmore/1146412383",
+    "title": "The Gingerbread Bakery (Dream Harbor, Book 5) (B&N Exclusive Edition) by Laurie Gilmore, Paperback |",
+    "description": "This Barnes and Noble Exclusive Edition of The Gingerbread Bakery will have an exclusive New Years E",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "ab5af2857692c09176c3863ea081c70f0c52ae7a",
+    "url": "https://www.barnesandnoble.com/w/game-on-navessa-allen/1148120629",
+    "title": "Game On (B&N Exclusive Edition) (Into Darkness Series #3) by Navessa Allen, Paperback | Barnes & Nob",
+    "description": "This Barnes & Noble Exclusive Edition features foil accents on the cover, a bonus chapter unique to ",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "c7b10c19e747afd9215edddf7c59c12cdd799399",
+    "url": "https://www.barnesandnoble.com/w/alchemised-senlinyu/1146838848",
+    "title": "Alchemised by SenLinYu, Hardcover | Barnes & Noble®",
+    "description": "In this riveting dark fantasy debut, a woman with missing memories fights to survive a war-torn worl",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "59b61064216fb14eaff229cb51416b8ede79ae79",
+    "url": "https://www.mirror.co.uk/sport/golf/ryder-cup-rule-mcilroy-europe-35949997",
+    "title": "Ryder Cup ball rule and the huge impact it could have on Rory McIlroy and Team Europe - The Mirror",
+    "description": "The one-ball rule will not be in effect at this year's Ryder Cup, after a significant change in 2006",
+    "text": "The Ryder Cup will not implement the one-ball rule for 2025. This rule, which meant pairings during "
+  },
+  {
+    "id": "429adea640fd8df9be5bcd9f6bf1007cd88651f3",
+    "url": "https://www.mirror.co.uk/news/world-news/gran-grandson-7-rushed-hospital-35968264",
+    "title": "Gran and grandson, 7, rushed to hospital after electricity pole fell on them in Gran Canaria - The M",
+    "description": "A day out for a grandmother and her grandsoon ended in disaster when they found themselves in hospit",
+    "text": "A seven-year-old boy and his grandmother have been rushed to hospital after an electricity pole fell"
+  },
+  {
+    "id": "0fe992368d780ae388ae7c49747025c569ad6484",
+    "url": "https://www.mirror.co.uk/sport/football/man-utd-latest-bruno-fernandes-35964932",
+    "title": "Man Utd news: Bruno Fernandes gives advice and Ruben Amorim puts trio on transfer list - The Mirror",
+    "description": "Bruno Fernandes has praised one young Manchester United talent for his training performances, while ",
+    "text": "Manchester United captain Bruno Fernandes was on hand to offer praise and advice to one of the club'"
+  },
+  {
+    "id": "d8dfd08ee053dd9ab8ea285b4d20e996c1814f44",
+    "url": "https://www.mirror.co.uk/sport/football/news/chelsea-nicolas-jackson-raheem-sterling-35965521",
+    "title": "Chelsea news: Summer transfer agreement 'reached' as Blues handed fine - The Mirror",
+    "description": "A round-up of Chelsea news as Enzo maresca's side are fined by the FA and two players contracted to ",
+    "text": "Chelsea may have concluded their summer transfer business, but fresh claims are still being made abo"
+  },
+  {
+    "id": "b680dfc208f56c8b5335a86e96c253445f5c734e",
+    "url": "https://www.mirror.co.uk/lifestyle/motoring/drivers-born-before-certain-date-35962330",
+    "title": "Drivers born before certain date warned they may 'have to take tests to keep licence' - The Mirror",
+    "description": "Campaigners and authorities are hoping to find the perfect balance between the safety of all road us",
+    "text": "Older Brit motorists may soon have to take another driving test when they reach a certain age, with "
+  },
+  {
+    "id": "091dfdbe1f9a99fc5e4113bc34c7337ed96ede31",
+    "url": "https://www.mirror.co.uk/travel/uk-ireland/charming-destination-named-uks-cosiest-35962398",
+    "title": "Charming destination named 'UK's cosiest city' for autumn escapes - The Mirror",
+    "description": "For some people as the weather gets colder it's time to escape to a hot country but for many a hot c",
+    "text": "As the autumn takes hold, we can often expect damp, dull weather but there's so much more to the sea"
+  },
+  {
+    "id": "9d0525fd1146cec8f263fccd38a1d466f627b67a",
+    "url": "https://www.mirror.co.uk/money/shopping-deals/boots-no7-christmas-gift-set-35963766",
+    "title": "Boots fans bag £37 No7 Christmas set that 'reduces wrinkles in days' for £10  - The Mirror",
+    "description": "No7 has unveiled a range of beauty gift sets available to buy from Boots with many containing belove",
+    "text": "Although it's hard to believe, as it feels like we've just said farewell to summer, the festive peri"
+  },
+  {
+    "id": "a1136da51d5cc38decffd89b39b21c89e6c98dbd",
+    "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-saliba-mbappe-35964320",
+    "title": "Arsenal news: Mikel Arteta told he'll 'regret' decision as Kylian Mbappe gets transfer snub - The Mi",
+    "description": "Mikel Arteta has been told he will regret his team selection for last week's draw against Manchester",
+    "text": "Mikel Arteta will regret his conservative team selection for Arsenal's clash against Manchester City"
+  },
+  {
+    "id": "e5970978c8fcbf5a6fc100c60e434f708c37fad8",
+    "url": "https://www.mirror.co.uk/sport/golf/ryder-cup-bethpage-black-sign-35955719",
+    "title": "Ryder Cup players given urgent warning before teeing off on first hole at Bethpage Black - The Mirro",
+    "description": "The Black Course at Bethpage State Park has long had a reputation as one of the toughest tests in go",
+    "text": "The highly-anticipated Ryder Cup gets underway on Friday at Bethpage State Park's Black Course, loca"
+  },
+  {
+    "id": "0cacc02b58ece06c71498a951df03fc6d2920f2b",
+    "url": "https://www.mirror.co.uk/news/us-news/tragedy-boy-7-dies-after-35968171",
+    "title": "Tragedy as boy, 7, dies after 'medical emergency' at school as tributes pour in - The Mirror",
+    "description": "Emergency services were called to a report of a \"student who wasn't breathing\" while at shcool - he ",
+    "text": "A 7-year-old boy has sadly died after having a medical emergency at school.\nOn September 16 just bef"
+  },
+  {
+    "id": "0eb9c73502ccf625e716123e3e2364f427d88919",
+    "url": "https://www.utexas.edu/military",
+    "title": "UT Austin Military and Veteran Connections | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "fba82b1752a5e695eea15e94d29e2bdb9c3f33e8",
+    "url": "https://www.utexas.edu/faculty-and-staff-resources",
+    "title": "Faculty and Staff Resources | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "8f82c76d4e721403967cc431ec4261880ee5b2af",
+    "url": "https://www.utexas.edu/longhornlights",
+    "title": "Longhorn Lights | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "074acfc2eefa91118333cc34ca92d82aa180641e",
+    "url": "https://www.utexas.edu/campus-life/arts-and-culture",
+    "title": "Arts & Culture | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "4666797004480feeb84104f896d9cbd3d0f71ae5",
+    "url": "https://www.utexas.edu/about/longhorn-traditions",
+    "title": "Longhorn Traditions | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "64ed32888ed0fc300eb18c626234b277d58da18f",
+    "url": "https://www.utexas.edu/jobs/executive-searches",
+    "title": "Executive Searches | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "d0e2f9ccb033506060d0b80881604bf7a0737bb5",
+    "url": "https://www.utexas.edu/campus-life/report-misconduct",
+    "title": "Report Violence, Misconduct, Harassment, or Discrimination | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "b4d715c8dacbd6807cebbe8941a562a2f0138bf8",
+    "url": "https://www.utexas.edu/mhart",
+    "title": "Mental Health Assistance and Response Team (MHART) | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "56068fbcd0d00abd4986f8d66bb4d105957a888d",
+    "url": "https://www.utexas.edu/podcasts",
+    "title": "UT Podcasts | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "5277c9018231d72efab21099548760159c6e0577",
+    "url": "https://www.utexas.edu/honor-the-horns",
+    "title": "Honor the Horns | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "24c6785901f9f72ca455552e6051ef865c42bd70",
+    "url": "https://getbootstrap.com/docs/5.3/components/progress/",
+    "title": "Progress · Bootstrap v5.3",
+    "description": "Documentation and examples for using Bootstrap custom progress bars featuring support for stacked ba",
+    "text": "Documentation and examples for using Bootstrap custom progress bars featuring support for stacked ba"
+  },
+  {
+    "id": "da19d4d2067e5fb71700c138602654188957f772",
+    "url": "https://getbootstrap.com/docs/5.3/components/spinners/",
+    "title": "Spinners · Bootstrap v5.3",
+    "description": "Indicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML,",
+    "text": "Indicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML,"
+  },
+  {
+    "id": "9b1c1b7007ccc1c233a5c7721f5f17f2f6ffea9f",
+    "url": "https://getbootstrap.com/docs/5.3/components/scrollspy/",
+    "title": "Scrollspy · Bootstrap v5.3",
+    "description": "Automatically update Bootstrap navigation or list group components based on scroll position to indic",
+    "text": "Automatically update Bootstrap navigation or list group components based on scroll position to indic"
+  },
+  {
+    "id": "36ed908b317ea433d4ce01f62cdb2951fd26d9f4",
+    "url": "https://getbootstrap.com/docs/5.3/components/tooltips/",
+    "title": "Tooltips · Bootstrap v5.3",
+    "description": "Documentation and examples for adding custom Bootstrap tooltips with CSS and JavaScript using CSS3 f",
+    "text": "Documentation and examples for adding custom Bootstrap tooltips with CSS and JavaScript using CSS3 f"
+  },
+  {
+    "id": "c8c427d5bf3a0504a9d4d47e4486210dbe33acdb",
+    "url": "https://getbootstrap.com/docs/5.3/components/toasts/",
+    "title": "Toasts · Bootstrap v5.3",
+    "description": "Push notifications to your visitors with a toast, a lightweight and easily customizable alert messag",
+    "text": "Push notifications to your visitors with a toast, a lightweight and easily customizable alert messag"
+  },
+  {
+    "id": "85dc27dde1bbb08b575bac4cdb245a34ec6b3ee0",
+    "url": "https://getbootstrap.com/docs/5.3/content/",
+    "title": "Bootstrap",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "49ad58b76de03bf07283ffb9d8108268425e8ae5",
+    "url": "https://getbootstrap.com/docs/5.3/content/figures/",
+    "title": "Figures · Bootstrap v5.3",
+    "description": "Documentation and examples for displaying related images and text with the figure component in Boots",
+    "text": "Documentation and examples for displaying related images and text with the figure component in Boots"
+  },
+  {
+    "id": "e1f831e7b9aa418bfa9dbef2925ba786880e1aea",
+    "url": "https://getbootstrap.com/docs/5.3/content/images/",
+    "title": "Images · Bootstrap v5.3",
+    "description": "Documentation and examples for opting images into responsive behavior (so they never become wider th",
+    "text": "Documentation and examples for opting images into responsive behavior (so they never become wider th"
+  },
+  {
+    "id": "1997f12b45d83660d68b09da62fe7949564545f2",
+    "url": "https://getbootstrap.com/docs/5.3/content/reboot/",
+    "title": "Reboot · Bootstrap v5.3",
+    "description": "Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provid",
+    "text": "Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provid"
+  },
+  {
+    "id": "273cd3d0edb4aabe9520955580f6b32a7270484e",
+    "url": "https://getbootstrap.com/docs/5.3/content/tables/",
+    "title": "Tables · Bootstrap v5.3",
+    "description": "Documentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plu",
+    "text": "Documentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plu"
   }
 ]
