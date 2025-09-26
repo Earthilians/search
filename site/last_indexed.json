@@ -34857,11 +34857,11 @@
     ]
   },
   "proofpoint.us": {
-    "lastAt": 1758522950103,
+    "lastAt": 1758875459908,
     "urls": []
   },
   "sectigo.com": {
-    "lastAt": 1758522975111,
+    "lastAt": 1758875468868,
     "urls": [
       "https://www.sectigo.com/",
       "https://www.sectigo.com/contributors/nick-france",
@@ -34892,21 +34892,31 @@
       "https://www.sectigo.com/enterprise-support-validation-service",
       "https://www.sectigo.com/privacy-policy",
       "https://www.sectigo.com/iot-and-enterprise-private-pki-archive",
-      "https://www.sectigo.com/certificate-practice-statement-archive"
+      "https://www.sectigo.com/certificate-practice-statement-archive",
+      "https://www.sectigo.com/privacy-policies-archive",
+      "https://www.sectigo.com/privacy-portal",
+      "https://www.sectigo.com/legal/cookie-policy",
+      "https://www.sectigo.com/legal",
+      "https://www.sectigo.com/relying-parties-archive",
+      "https://www.sectigo.com/subscriber-agreement-archive",
+      "https://www.sectigo.com/sectigo-legacy-rest-api",
+      "https://www.sectigo.com/trust-seal",
+      "https://www.sectigo.com/sectigo-certificate-manager-trial",
+      "https://www.sectigo.com/terms-of-use"
     ]
   },
   "ad-delivery.net": {
-    "lastAt": 1758522978374,
+    "lastAt": 1758875472087,
     "urls": []
   },
   "ed.gov": {
-    "lastAt": 1758522983265,
+    "lastAt": 1758875477250,
     "urls": [
       "https://ed.gov/"
     ]
   },
   "hcaptcha.com": {
-    "lastAt": 1758522986193,
+    "lastAt": 1758875479946,
     "urls": [
       "https://www.hcaptcha.com/",
       "https://www.hcaptcha.com/pro",
@@ -34936,15 +34946,24 @@
       "https://www.hcaptcha.com/post/hcaptcha-vs-recaptcha",
       "https://www.hcaptcha.com/post/can-dogs-smile",
       "https://www.hcaptcha.com/enterprise-privacy",
-      "https://www.hcaptcha.com/post/introducing-hcaptcha-pro"
+      "https://www.hcaptcha.com/post/introducing-hcaptcha-pro",
+      "https://www.hcaptcha.com/post/protecting-user-privacy-is-not-optional",
+      "https://www.hcaptcha.com/post/how-invalid-traffic-is-damaging-your-marketing-operations",
+      "https://www.hcaptcha.com/post/bots-botkits-and-botnets-know-your-enemy",
+      "https://www.hcaptcha.com/post/announcing-support-for-private-access-tokens",
+      "https://www.hcaptcha.com/post/fake-diurnals-malicious-bots-hiding-in-plain-sight",
+      "https://www.hcaptcha.com/post/how-to-defend-your-organization-against-a-card-testing-attack",
+      "https://www.hcaptcha.com/post/fastmail-puts-privacy-first-with-hcaptcha",
+      "https://www.hcaptcha.com/post/why-ecommerce-leader-shopify-uses-hcaptcha",
+      "https://www.hcaptcha.com/post/hcaptcha-advice-on-soc2-type-ii-certification"
     ]
   },
   "glassdoor.com": {
-    "lastAt": 1758522989794,
+    "lastAt": 1758875483080,
     "urls": []
   },
   "shop.app": {
-    "lastAt": 1758522992584,
+    "lastAt": 1758875485538,
     "urls": [
       "https://shop.app/legal-and-policies",
       "https://shop.app/privacy",
@@ -34959,7 +34978,7 @@
     ]
   },
   "smadex.com": {
-    "lastAt": 1758522997780,
+    "lastAt": 1758875490311,
     "urls": [
       "https://smadex.com/smadex-in-the-latest-mobile-lumascape/",
       "https://smadex.com/ios-9-targeting-now-supported-on-smadex/",
@@ -34990,23 +35009,33 @@
       "https://smadex.com/one-video-integrated-for-more-premium-video/",
       "https://smadex.com/theres-still-time-to-make-an-impact-this-holiday-season-with-mobile-video/",
       "https://smadex.com/smadex-launches-dmp-for-video-targeting/",
-      "https://smadex.com/inventory-forecasting-now-available-for-advertisers/"
+      "https://smadex.com/inventory-forecasting-now-available-for-advertisers/",
+      "https://smadex.com/meet-smadex-at-mwc/",
+      "https://smadex.com/smadex-expands-premium-video-marketplace-with-more-options/",
+      "https://smadex.com/integrating-adcolony-adds-more-global-video-app-inventory/",
+      "https://smadex.com/smadex-mwc-2017-drinks/",
+      "https://smadex.com/new-video-optimization-algorithm/",
+      "https://smadex.com/smadex-integrates-adsquare-data-marketplace-for-video-audiences/",
+      "https://smadex.com/bid-stream-level-reporting-to-reporting-to-optimize-programmatic-campaigns/",
+      "https://smadex.com/meet-smadex-at-cannes-lions/",
+      "https://smadex.com/smadex-integrates-ias-for-brand-safety-and-viewabilityhttpsmadex-comwp-adminpost-phppost7063actionedit/",
+      "https://smadex.com/smadex-adds-weve-insights-to-power-programmatic-video-audience-buying/"
     ]
   },
   "sc-static.net": {
-    "lastAt": 1758523001852,
+    "lastAt": 1758875493891,
     "urls": []
   },
   "dbankcdn.com": {
-    "lastAt": 1758523005241,
+    "lastAt": 1758875497166,
     "urls": []
   },
   "ctgcdn.com": {
-    "lastAt": 1758523008798,
+    "lastAt": 1758875501803,
     "urls": []
   },
   "bbb.org": {
-    "lastAt": 1758523013120,
+    "lastAt": 1758875505476,
     "urls": [
       "https://bbb.org/",
       "https://www.bbb.org/us/md/nottingham/profile/auto-body-repair-and-painting/chucks-body-fender-0011-10000178",
@@ -35037,19 +35066,29 @@
       "https://www.bbb.org/us/md/baltimore/profile/insurance-companies/rodgers-insurance-agency-inc-0011-10388",
       "https://www.bbb.org/us/md/essex/profile/fire-water-damage-restoration/samons-services-inc-0011-10391",
       "https://www.bbb.org/us/md/baltimore/profile/mobile-auto-repair/bill-earls-automotive-corp-0011-1041",
-      "https://www.bbb.org/us/md/millersville/profile/auto-maintenance/atl-international-inc-0011-10466"
+      "https://www.bbb.org/us/md/millersville/profile/auto-maintenance/atl-international-inc-0011-10466",
+      "https://www.bbb.org/us/md/pikesville/profile/dating-services/great-expectations-0011-10577",
+      "https://www.bbb.org/us/md/sparrows-point/profile/heating-and-air-conditioning/bills-refrigeration-air-conditioning-inc-0011-1052",
+      "https://www.bbb.org/us/md/baltimore/profile/veterinarian/academy-animal-hospital-0011-105",
+      "https://www.bbb.org/us/md/baltimore/profile/transmission/bills-transmission-0011-1053",
+      "https://www.bbb.org/us/md/salisbury/profile/auto-body-repair-and-painting/johns-auto-body-shop-0011-10597",
+      "https://www.bbb.org/us/md/church-creek/profile/boat-dealers/gootees-marine-inc-0011-10714",
+      "https://www.bbb.org/us/md/towson/profile/electric-tools/black-decker-us-inc-0011-1070",
+      "https://www.bbb.org/us/md/white-marsh/profile/new-car-dealers/koons-chevrolet-of-white-marsh-0011-10724",
+      "https://www.bbb.org/us/md/glen-burnie/profile/tattoos/dragon-moon-tattoo-studio-inc-0011-10778",
+      "https://www.bbb.org/us/md/lutherville-timonium/profile/building-construction-consultants/blair-sons-company-inc-0011-1077"
     ]
   },
   "cdnhwcbqs106.com": {
-    "lastAt": 1758523019177,
+    "lastAt": 1758875512122,
     "urls": []
   },
   "adidas.com": {
-    "lastAt": 1758523087985,
+    "lastAt": 1758875580932,
     "urls": []
   },
   "safety.google": {
-    "lastAt": 1758523090143,
+    "lastAt": 1758875583041,
     "urls": [
       "https://safety.google/",
       "https://safety.google/assistant/",
@@ -35080,11 +35119,21 @@
       "https://safety.google/pixel/",
       "https://safety.google/principles/",
       "https://safety.google/privacy/data/",
-      "https://safety.google/privacy/privacy-controls/"
+      "https://safety.google/privacy/privacy-controls/",
+      "https://safety.google/security-privacy/",
+      "https://safety.google/security/built-in-protection/",
+      "https://safety.google/products/",
+      "https://safety.google/search/",
+      "https://safety.google/security/security-tips/",
+      "https://safety.google/stories/ads-safety-online/",
+      "https://safety.google/security/security-leadership/",
+      "https://safety.google/stories/backend/",
+      "https://safety.google/stories/dsin/",
+      "https://safety.google/stories/chrome-profile/"
     ]
   },
   "wpastra.com": {
-    "lastAt": 1758523111869,
+    "lastAt": 1758875589051,
     "urls": [
       "https://wpastra.com/",
       "https://wpastra.com/blog/",
@@ -35115,15 +35164,25 @@
       "https://wpastra.com/resources/digital-products-to-sell/",
       "https://wpastra.com/guides-and-tutorials/start-online-coaching-business/",
       "https://wpastra.com/review/ottokit-review/",
-      "https://wpastra.com/comparison/gutenberg-vs-elementor/"
+      "https://wpastra.com/comparison/gutenberg-vs-elementor/",
+      "https://wpastra.com/comparison/memberpress-vs-learndash/",
+      "https://wpastra.com/resources/video-hosting/",
+      "https://wpastra.com/review/memberpress-review/",
+      "https://wpastra.com/plugins/best-beaver-builder-addons/",
+      "https://wpastra.com/plugins/wordpress-membership-plugins/",
+      "https://wpastra.com/comparison/wishlistmember-vs-memberpress-vs-suremembers/",
+      "https://wpastra.com/resources/memberpress-alternatives/",
+      "https://wpastra.com/guides-and-tutorials/install-wordpress-in-xampp/",
+      "https://wpastra.com/resources/web-safe-fonts/",
+      "https://wpastra.com/guides-and-tutorials/build-blog-with-elementor/"
     ]
   },
   "mosspf.com": {
-    "lastAt": 1758523114951,
+    "lastAt": 1758875592235,
     "urls": []
   },
   "ninjarmm.com": {
-    "lastAt": 1758523135078,
+    "lastAt": 1758875623039,
     "urls": [
       "https://www.ninjaone.com/blog/patch-management-policy/",
       "https://ninjarmm.com/",
@@ -35158,21 +35217,21 @@
     ]
   },
   "smilewanted.com": {
-    "lastAt": 1758523140181,
+    "lastAt": 1758875627684,
     "urls": []
   },
   "inc.com": {
-    "lastAt": 1758523145830,
+    "lastAt": 1758875632863,
     "urls": []
   },
   "feedburner.com": {
-    "lastAt": 1758523146901,
+    "lastAt": 1758875633832,
     "urls": [
       "https://feedburner.com/"
     ]
   },
   "pcmag.com": {
-    "lastAt": 1758523151496,
+    "lastAt": 1758875638453,
     "urls": [
       "https://pcmag.com/",
       "https://www.pcmag.com/categories/lenses/brands/sigma",
@@ -35203,25 +35262,35 @@
       "https://www.pcmag.com/categories/mobile-phones/brands/google",
       "https://www.pcmag.com/categories/graphics-cards/brands/nvidia",
       "https://www.pcmag.com/categories/processors/brands/intel",
-      "https://www.pcmag.com/categories/laptops/brands/msi"
+      "https://www.pcmag.com/categories/laptops/brands/msi",
+      "https://www.pcmag.com/categories/laptops/brands/asus",
+      "https://www.pcmag.com/categories/tvs/brands/amazon",
+      "https://www.pcmag.com/categories/desktop-pcs/brands/lenovo",
+      "https://www.pcmag.com/categories/printers/brands/canon",
+      "https://www.pcmag.com/categories/motherboards/brands/asus",
+      "https://www.pcmag.com/categories/projectors/brands/benq",
+      "https://www.pcmag.com/categories/cameras/brands/fujifilm",
+      "https://www.pcmag.com/categories/graphics-cards/brands/amd",
+      "https://www.pcmag.com/categories/desktop-pcs/brands/hp",
+      "https://www.pcmag.com/categories/mobile-phones/brands/motorola"
     ]
   },
   "vercel.app": {
-    "lastAt": 1758523152310,
+    "lastAt": 1758875638981,
     "urls": [
       "https://vercel.app/"
     ]
   },
   "inbake.com": {
-    "lastAt": 1758523211124,
+    "lastAt": 1758875697797,
     "urls": []
   },
   "samsungiotcloud.com": {
-    "lastAt": 1758523214228,
+    "lastAt": 1758875700812,
     "urls": []
   },
   "squareup.com": {
-    "lastAt": 1758523217912,
+    "lastAt": 1758875703979,
     "urls": [
       "https://squareup.com/",
       "https://squareup.com/us/en/legal/general/odd-pricing",
@@ -35252,11 +35321,21 @@
       "https://squareup.com/us/en/legal/general/square-potc-nts",
       "https://squareup.com/us/en/legal/general/global-developer-integration-marketing-agreement",
       "https://squareup.com/us/en/legal/general/slow-season-giveaway-terms-and-conditions",
-      "https://squareup.com/us/en/legal/general/appointments/clp/chris-appleton-sf/legal"
+      "https://squareup.com/us/en/legal/general/appointments/clp/chris-appleton-sf/legal",
+      "https://squareup.com/us/en/legal/general/consumer-health-privacy",
+      "https://squareup.com/us/en/legal/general/square-pay-tos",
+      "https://squareup.com/us/en/legal/general/promotion-terms-conditions-stand-giveaway",
+      "https://squareup.com/us/en/legal/general/pos",
+      "https://squareup.com/us/en/legal/general/privacy-no-account",
+      "https://squareup.com/us/en/legal/general/payroll",
+      "https://squareup.com/us/en/legal/general/baber-evo-legal",
+      "https://squareup.com/us/en/legal/general/billpay-bpf",
+      "https://squareup.com/us/en/legal/general/appointments/clp/savanna-boda-nyc-official-rules",
+      "https://squareup.com/us/en/legal/general/data-processing-terms"
     ]
   },
   "ringcentral.com": {
-    "lastAt": 1758523221777,
+    "lastAt": 1758875707053,
     "urls": [
       "https://www.ringcentral.com/",
       "https://www.ringcentral.com/1800-number.html",
@@ -35287,15 +35366,25 @@
       "https://www.ringcentral.com/call-center-qa.html",
       "https://www.ringcentral.com/call-center-service.html",
       "https://www.ringcentral.com/call-management.html",
-      "https://www.ringcentral.com/call-center.html"
+      "https://www.ringcentral.com/call-center.html",
+      "https://www.ringcentral.com/call-monitoring.html",
+      "https://www.ringcentral.com/call-routing.html",
+      "https://www.ringcentral.com/call-queueing.html",
+      "https://www.ringcentral.com/can-i-buy-a-specific-phone-number.html",
+      "https://www.ringcentral.com/call-transfers.html",
+      "https://www.ringcentral.com/cavell-telephony-for-ms-teams-smb.html",
+      "https://www.ringcentral.com/chatbots.html",
+      "https://www.ringcentral.com/ccaas.html",
+      "https://www.ringcentral.com/cheap-voip-service.html",
+      "https://www.ringcentral.com/cloud_pbx_microsoft_teams.html"
     ]
   },
   "startappservice.com": {
-    "lastAt": 1758523225012,
+    "lastAt": 1758875710170,
     "urls": []
   },
   "kpmg.com": {
-    "lastAt": 1758523228591,
+    "lastAt": 1758875715733,
     "urls": [
       "https://kpmg.com/xx/en.html",
       "https://kpmg.com/",
@@ -35326,11 +35415,21 @@
       "https://kpmg.com/xx/en/contacts/a/alexey-abramov.html",
       "https://kpmg.com/xx/en/contacts/a/ali-alam.html",
       "https://kpmg.com/xx/en/contacts/a/amie-ahanchian.html",
-      "https://kpmg.com/xx/en/contacts/a/alton-adams.html"
+      "https://kpmg.com/xx/en/contacts/a/alton-adams.html",
+      "https://kpmg.com/xx/en/contacts/a/ann-atchade.html",
+      "https://kpmg.com/xx/en/contacts/a/araya-apiboonchaikru.html",
+      "https://kpmg.com/xx/en/contacts/a/angelo-adasme.html",
+      "https://kpmg.com/xx/en/contacts/a/ann-armstrong.html",
+      "https://kpmg.com/xx/en/contacts/a/anderson-martin.html",
+      "https://kpmg.com/xx/en/contacts/a/asif-akhtar.html",
+      "https://kpmg.com/xx/en/contacts/a/bozorg-amiri.html",
+      "https://kpmg.com/xx/en/contacts/a/attila-aranyi.html",
+      "https://kpmg.com/xx/en/contacts/a/austin-abas.html",
+      "https://kpmg.com/xx/en/contacts/a/bronwyn-allan.html"
     ]
   },
   "hwcdn.ru": {
-    "lastAt": 1758523233661,
+    "lastAt": 1758875720233,
     "urls": []
   },
   "bing.net": {
