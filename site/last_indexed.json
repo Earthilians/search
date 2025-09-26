@@ -36193,11 +36193,11 @@
     "urls": []
   },
   "bcvcdn.com": {
-    "lastAt": 1758533267581,
+    "lastAt": 1758885514351,
     "urls": []
   },
   "kuaishou.com": {
-    "lastAt": 1758533275537,
+    "lastAt": 1758885537217,
     "urls": [
       "https://www.kuaishou.com/samecity",
       "https://www.kuaishou.com/brilliant",
@@ -36211,7 +36211,7 @@
     ]
   },
   "spaceweb.ru": {
-    "lastAt": 1758533280294,
+    "lastAt": 1758885542519,
     "urls": [
       "https://sweb.ru/hosting/antivirus/",
       "https://sweb.ru/hosting/additional-ip/",
@@ -36242,11 +36242,21 @@
       "https://sweb.ru/web/testvps/",
       "https://sweb.ru/web/transfer-rurf/",
       "https://sweb.ru/web/freeconstructor/",
-      "https://sweb.ru/web/online125/"
+      "https://sweb.ru/web/online125/",
+      "https://sweb.ru/web/tech125/",
+      "https://sweb.ru/web/shop140/",
+      "https://sweb.ru/web/servers/",
+      "https://sweb.ru/web/2weeks/",
+      "https://sweb.ru/web/ispgift-dedicated/",
+      "https://sweb.ru/web/advertising/",
+      "https://sweb.ru/web/testit/",
+      "https://sweb.ru/partner/special/",
+      "https://sweb.ru/web/freealphassl/",
+      "https://sweb.ru/contactinfo/"
     ]
   },
   "hostinger.com": {
-    "lastAt": 1758533283352,
+    "lastAt": 1758885620059,
     "urls": [
       "https://www.hostinger.com/about",
       "https://www.hostinger.com/affiliates",
@@ -36277,11 +36287,21 @@
       "https://www.hostinger.com/email-marketing",
       "https://www.hostinger.com/ecommerce-website",
       "https://www.hostinger.com/event-website",
-      "https://www.hostinger.com/fitness-website"
+      "https://www.hostinger.com/fitness-website",
+      "https://www.hostinger.com/free-domain",
+      "https://www.hostinger.com/google-workspace",
+      "https://www.hostinger.com/free-ssl-certificate",
+      "https://www.hostinger.com/joomla-hosting",
+      "https://www.hostinger.com/horizons",
+      "https://www.hostinger.com/landing-page-builder",
+      "https://www.hostinger.com/link-in-bio",
+      "https://www.hostinger.com/newsroom",
+      "https://www.hostinger.com/logo-maker",
+      "https://www.hostinger.com/payments"
     ]
   },
   "adkernel.com": {
-    "lastAt": 1758533286905,
+    "lastAt": 1758885624072,
     "urls": [
       "https://adkernel.com/",
       "https://adkernel.com/sitemap.html",
@@ -36312,11 +36332,21 @@
       "https://adkernel.com/sweet-homepage/",
       "https://adkernel.com/accountant/",
       "https://adkernel.com/adop/",
-      "https://adkernel.com/job-description/"
+      "https://adkernel.com/job-description/",
+      "https://adkernel.com/content-writer/",
+      "https://adkernel.com/sales-manager/",
+      "https://adkernel.com/success/",
+      "https://adkernel.com/marketing/",
+      "https://adkernel.com/support-associate/",
+      "https://adkernel.com/home-new/",
+      "https://adkernel.com/realtime-intent/",
+      "https://adkernel.com/form-test/",
+      "https://adkernel.com/white-label-cpa-suite/",
+      "https://adkernel.com/billing-auth-code/"
     ]
   },
   "klarna.com": {
-    "lastAt": 1758533287452,
+    "lastAt": 1758885627981,
     "urls": [
       "https://www.klarna.com/us/about-us/contact/",
       "https://www.klarna.com/us/",
@@ -36337,11 +36367,21 @@
       "https://www.klarna.com/us/business/ad-policy/",
       "https://www.klarna.com/us/our-promise/",
       "https://www.klarna.com/us/business/retail-insider/",
-      "https://www.klarna.com/us/blog/"
+      "https://www.klarna.com/us/blog/",
+      "https://www.klarna.com/us/business/small-medium-business/",
+      "https://www.klarna.com/us/financial-wellness/",
+      "https://www.klarna.com/us/business/payment-methods/",
+      "https://www.klarna.com/us/business/indochino-case-study/",
+      "https://www.klarna.com/us/customer-service/",
+      "https://www.klarna.com/us/my-privacy-request-form/",
+      "https://www.klarna.com/us/business/",
+      "https://www.klarna.com/us/business/on-site-messaging/",
+      "https://www.klarna.com/us/business/luxury/",
+      "https://www.klarna.com/us/business/klarna-for-gen-z/"
     ]
   },
   "coinmarketcap.com": {
-    "lastAt": 1758533294516,
+    "lastAt": 1758885634076,
     "urls": [
       "https://coinmarketcap.com/",
       "https://coinmarketcap.com/cs/",
@@ -36372,27 +36412,37 @@
       "https://coinmarketcap.com/cs/best-cryptos/",
       "https://coinmarketcap.com/cs/most-viewed-pages/",
       "https://coinmarketcap.com/cs/bitcoin-analytics/",
-      "https://coinmarketcap.com/cs/polkadot/"
+      "https://coinmarketcap.com/cs/polkadot/",
+      "https://coinmarketcap.com/cs/currencies/bitcoin/",
+      "https://coinmarketcap.com/cs/currencies/namecoin/",
+      "https://coinmarketcap.com/cs/currencies/litecoin/",
+      "https://coinmarketcap.com/cs/nfts/",
+      "https://coinmarketcap.com/cs/currencies/terracoin/",
+      "https://coinmarketcap.com/cs/currencies/peercoin/",
+      "https://coinmarketcap.com/cs/currencies/novacoin/",
+      "https://coinmarketcap.com/cs/currencies/feathercoin/",
+      "https://coinmarketcap.com/cs/bsc/",
+      "https://coinmarketcap.com/cs/currencies/mincoin/"
     ]
   },
   "appier.net": {
-    "lastAt": 1758533295379,
+    "lastAt": 1758885635094,
     "urls": [
       "https://appier.net/"
     ]
   },
   "mncdn.com": {
-    "lastAt": 1758533354230,
+    "lastAt": 1758885693954,
     "urls": []
   },
   "craigslist.org": {
-    "lastAt": 1758533355276,
+    "lastAt": 1758885695090,
     "urls": [
       "https://craigslist.org/"
     ]
   },
   "express.co.uk": {
-    "lastAt": 1758533359050,
+    "lastAt": 1758885698420,
     "urls": [
       "https://www.express.co.uk/news/uk/2108246/warning-issued-dishwasher-kitchen",
       "https://express.co.uk/",
@@ -36423,15 +36473,25 @@
       "https://www.express.co.uk/news/uk/2111498/enfield-fire-live-huge-flames-70-firefighters",
       "https://www.express.co.uk/news/royal/2111546/king-charles-prince-william-relationship-insider",
       "https://www.express.co.uk/news/uk/2111550/jay-slater-heartbreaking-final-snapchat",
-      "https://www.express.co.uk/news/uk/2111307/dumped-lover-kills-exs-koi-carp"
+      "https://www.express.co.uk/news/uk/2111307/dumped-lover-kills-exs-koi-carp",
+      "https://www.express.co.uk/news/uk/2113656/blackpool-pleasure-seaside-town-hails",
+      "https://www.express.co.uk/news/politics/2113829/Starmer-ID-Card-security-threat",
+      "https://www.express.co.uk/news/politics/2113828/Migration-asylum-population-pressure-Labour-Farage",
+      "https://www.express.co.uk/news/politics/2113436/politics-live-keir-starmer-nigel-farage",
+      "https://www.express.co.uk/news/royal/2113582/royal-family-live-prince-harry-desperate-rift",
+      "https://www.express.co.uk/news/uk/2113697/m4-traffic-road-closed",
+      "https://www.express.co.uk/news/weather/2113607/storm-maps-rain-gales-hit-uk",
+      "https://www.express.co.uk/news/world/2113789/pentagon-emergency-meeting",
+      "https://www.express.co.uk/news/politics/2113810/liberal-democrat-statesman-menzies-ming",
+      "https://www.express.co.uk/news/uk/2113784/britain-s-deadliest-roads-mapped"
     ]
   },
   "dv.tech": {
-    "lastAt": 1758533362182,
+    "lastAt": 1758885701895,
     "urls": []
   },
   "metamask.io": {
-    "lastAt": 1758533366379,
+    "lastAt": 1758885704827,
     "urls": [
       "https://metamask.io/news/industry",
       "https://metamask.io/",
@@ -36462,11 +36522,12 @@
       "https://metamask.io/defi",
       "https://metamask.io/security/metamask-security-program",
       "https://metamask.io/nft",
-      "https://metamask.io/faqs"
+      "https://metamask.io/faqs",
+      "https://metamask.io/fund-loss-investigation"
     ]
   },
   "fyber.com": {
-    "lastAt": 1758533368561,
+    "lastAt": 1758885707443,
     "urls": [
       "https://fyber.com/",
       "https://digitalturbine.com/dt-creative-lab",
@@ -36497,19 +36558,29 @@
       "https://digitalturbine.com/legal",
       "https://digitalturbine.com/the-ultimate-guide-to-interactive-mobile-video-ads",
       "https://digitalturbine.com/trust-center",
-      "https://digitalturbine.com/alternative-future"
+      "https://digitalturbine.com/alternative-future",
+      "https://digitalturbine.com/ultimate-guide-to-interactive-mobile-video-ads",
+      "https://digitalturbine.com/game-changing-shift-reports",
+      "https://digitalturbine.com/events/beyond-the-event",
+      "https://digitalturbine.com/mobile-gaming-incrementality-report",
+      "https://digitalturbine.com/product/app-select",
+      "https://digitalturbine.com/product/dt-creative-lab",
+      "https://digitalturbine.com/product/dt-exchange",
+      "https://digitalturbine.com/product/dt-fairbid",
+      "https://digitalturbine.com/product/dt-growth",
+      "https://digitalturbine.com/product/dt-offer-wall"
     ]
   },
   "atrustdns.com": {
-    "lastAt": 1758533372768,
+    "lastAt": 1758885711559,
     "urls": []
   },
   "clevertap-prod.com": {
-    "lastAt": 1758533375487,
+    "lastAt": 1758885714280,
     "urls": []
   },
   "asana.com": {
-    "lastAt": 1758533378378,
+    "lastAt": 1758885725936,
     "urls": [
       "https://asana.com/create-account-signup",
       "https://asana.com/company",
@@ -36540,11 +36611,21 @@
       "https://asana.com/jobs/all",
       "https://asana.com/jobs/apply",
       "https://asana.com/jobs/apprenticeship",
-      "https://asana.com/premium/integrations"
+      "https://asana.com/premium/integrations",
+      "https://asana.com/",
+      "https://asana.com/jobs/business",
+      "https://asana.com/jobs/engineering",
+      "https://asana.com/jobs/chicago",
+      "https://asana.com/jobs/dublin",
+      "https://asana.com/jobs/intern",
+      "https://asana.com/jobs/internal",
+      "https://asana.com/jobs/london",
+      "https://asana.com/jobs/munich",
+      "https://asana.com/jobs/new-graduates"
     ]
   },
   "slate.com": {
-    "lastAt": 1758533385446,
+    "lastAt": 1758885732733,
     "urls": [
       "https://slate.com/",
       "https://slate.com/podcasts/the-waves/2023/09/bama-rush-tok-from-sorority-life-to-trad-wife-how-the-greek-system-is-really-run-by-the-white-male-gaze-with-tressie-mcmillan-cottom",
@@ -36575,15 +36656,25 @@
       "https://slate.com/news-and-politics/obamas-facebook-feed",
       "https://slate.com/news-and-politics/obit",
       "https://slate.com/news-and-politics/office-pool",
-      "https://slate.com/news-and-politics/office-2000"
+      "https://slate.com/news-and-politics/office-2000",
+      "https://slate.com/news-and-politics/advanced-search",
+      "https://slate.com/news-and-politics/omnivore",
+      "https://slate.com/news-and-politics/on-the-trail",
+      "https://slate.com/news-and-politics/altered-states",
+      "https://slate.com/news-and-politics/altered-state",
+      "https://slate.com/news-and-politics/articles",
+      "https://slate.com/news-and-politics/bushisms",
+      "https://slate.com/news-and-politics/backstory",
+      "https://slate.com/news-and-politics/ballot-box",
+      "https://slate.com/news-and-politics/bigsort"
     ]
   },
   "volcgslb.com": {
-    "lastAt": 1758533391084,
+    "lastAt": 1758885740597,
     "urls": []
   },
   "euronews.com": {
-    "lastAt": 1758533394349,
+    "lastAt": 1758885745121,
     "urls": [
       "https://www.euronews.com/health/2025/09/14/the-sunday-scaries-why-the-end-of-the-weekend-feels-so-hard-heres-how-you-can-ease-it",
       "https://www.euronews.com/video/2025/09/14/latest-news-bulletin-september-14th-2025-morning",
@@ -36614,11 +36705,21 @@
       "https://www.euronews.com/culture/2025/09/22/culture-digest-the-best-things-to-do-hear-see-or-watch-in-europe-this-week",
       "https://www.euronews.com/next/2025/09/22/trump-reveals-that-murdochs-and-tech-billionaires-could-take-part-in-tiktok-deal",
       "https://www.euronews.com/health/2025/09/22/europes-reliance-on-foreign-health-workers-is-growing-who-report-finds-this-is-why-it-matt",
-      "https://www.euronews.com/next/2025/09/22/why-ciscos-president-isnt-worried-about-ai-taking-his-job-or-gen-z-entry-jobs"
+      "https://www.euronews.com/next/2025/09/22/why-ciscos-president-isnt-worried-about-ai-taking-his-job-or-gen-z-entry-jobs",
+      "https://www.euronews.com/culture/2025/09/26/spanish-band-accuses-the-rolling-stones-of-plagiarism-over-lockdown-song-living-in-a-ghost",
+      "https://www.euronews.com/business/2025/09/26/germanys-bosch-to-cut-13000-jobs-at-its-auto-parts-business",
+      "https://www.euronews.com/health/2025/09/26/drinking-any-amount-of-alcohol-raises-dementia-risks-study-warns",
+      "https://www.euronews.com/culture/2025/09/26/british-court-throws-out-terror-related-charge-against-kneecap-member-liam-og-o-hannaidh",
+      "https://www.euronews.com/green/2025/09/26/california-wildfire-report-points-to-lack-of-resources-and-outdated-policies",
+      "https://www.euronews.com/video/2025/09/26/finance-workers-in-south-korea-stage-first-general-strike-rally-in-three-years",
+      "https://www.euronews.com/my-europe/2025/09/26/cop30-eu-set-to-double-fairness-payments-offer-for-climate-transition-leak",
+      "https://www.euronews.com/video/2025/09/26/latest-news-bulletin-september-26th-2025-midday",
+      "https://www.euronews.com/my-europe/2025/09/26/unidentified-drones-spark-security-alert-at-french-military-base",
+      "https://www.euronews.com/video/2025/09/26/thousands-evacuated-as-typhoon-bualoi-triggers-flood-and-landslide-warnings"
     ]
   },
   "sendbird.com": {
-    "lastAt": 1758533403143,
+    "lastAt": 1758885754899,
     "urls": [
       "https://sendbird.com/",
       "https://sendbird.com/blog/category/security",
@@ -36649,11 +36750,21 @@
       "https://sendbird.com/blog/ai-agent-observability",
       "https://sendbird.com/blog/agentic-ai-governance",
       "https://sendbird.com/blog/ai-agent-evaluation-and-testing",
-      "https://sendbird.com/blog/agentic-ai-compliance-and-safety"
+      "https://sendbird.com/blog/agentic-ai-compliance-and-safety",
+      "https://sendbird.com/blog/ai-hallucination-detection",
+      "https://sendbird.com/blog/enterprise-ai-agents-with-scalable-architecture-and-infrastructure",
+      "https://sendbird.com/blog/ai-agent-role-based-access-control",
+      "https://sendbird.com/blog/how-to-safeguard-ai-agents",
+      "https://sendbird.com/blog/best-ai-agent-features",
+      "https://sendbird.com/blog/using-ai-securely",
+      "https://sendbird.com/blog/localized-ai-agents-for-multilingual-customer-service",
+      "https://sendbird.com/blog/ai-agents-for-sentiment-analysis",
+      "https://sendbird.com/blog/ai-for-leaders-in-customer-service",
+      "https://sendbird.com/blog/ai-transparency-activity-trails"
     ]
   },
   "medallia.com": {
-    "lastAt": 1758533408937,
+    "lastAt": 1758885758406,
     "urls": [
       "https://www.medallia.com/",
       "https://www.medallia.com/customers/3m-case-study/",
@@ -36684,45 +36795,55 @@
       "https://www.medallia.com/customers/generali/",
       "https://www.medallia.com/customers/brightstar/",
       "https://www.medallia.com/customers/deliveroo/",
-      "https://www.medallia.com/customers/counter-culture-coffee/"
+      "https://www.medallia.com/customers/counter-culture-coffee/",
+      "https://www.medallia.com/customers/holiday-inn-club-vacations/",
+      "https://www.medallia.com/customers/hr-block/",
+      "https://www.medallia.com/customers/ihg/",
+      "https://www.medallia.com/customers/latam/",
+      "https://www.medallia.com/customers/posadas/",
+      "https://www.medallia.com/customers/johnson-johnson/",
+      "https://www.medallia.com/customers/rent-a-center/",
+      "https://www.medallia.com/customers/sams-club/",
+      "https://www.medallia.com/customers/schneider-electric/",
+      "https://www.medallia.com/customers/sgicanada/"
     ]
   },
   "acrobat.com": {
-    "lastAt": 1758533409334,
+    "lastAt": 1758885759028,
     "urls": [
       "https://acrobat.com/"
     ]
   },
   "capitalonegslbex.com": {
-    "lastAt": 1758533412479,
+    "lastAt": 1758885762166,
     "urls": []
   },
   "ads-twitter.com": {
-    "lastAt": 1758533415542,
+    "lastAt": 1758885765326,
     "urls": []
   },
   "mfms.ru": {
-    "lastAt": 1758533417622,
+    "lastAt": 1758885767799,
     "urls": [
       "https://mfms.ru/"
     ]
   },
   "mercadolibre.com": {
-    "lastAt": 1758533420670,
+    "lastAt": 1758885770927,
     "urls": []
   },
   "hhs.gov": {
-    "lastAt": 1758533423865,
+    "lastAt": 1758885774138,
     "urls": []
   },
   "tawk.to": {
-    "lastAt": 1758533425098,
+    "lastAt": 1758885775100,
     "urls": [
       "https://tawk.to/"
     ]
   },
   "caiyicloud.com": {
-    "lastAt": 1758533427269,
+    "lastAt": 1758885776659,
     "urls": [
       "https://caiyicloud.com/"
     ]
