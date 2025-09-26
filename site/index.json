@@ -228688,5 +228688,565 @@
     "title": "3 Ways to get creative with holiday social media campaigns | Bazaarvoice",
     "description": "",
     "text": "December 18, 2017\nThe holidays are just around the corner. Now more than any other time of year, sho"
+  },
+  {
+    "id": "e2910d77608a5d9f4ba58dd14d9bf9c1f80e024a",
+    "url": "https://tailscale.com/blog",
+    "title": "Blog | Tailscale",
+    "description": "Updates on innovations and the state of virtual private networks - globally, as well as Tailscale pr",
+    "text": "With Tailscale and tsidp, it’s even possible to securely isolate and authorize MCP servers for priva"
+  },
+  {
+    "id": "eeac5b9090bf03b9adcc1cfbf0c946e00a6ea3e9",
+    "url": "https://tailscale.com/use-cases/site-to-site-networking",
+    "title": "Site-to-Site VPNs and Networking (Get Started - It's Free) | Tailscale",
+    "description": "Tailscale’s high-performance mesh network provides secure site-to-site connectivity by enabling end-",
+    "text": "Connect clouds and VPCs in different regions and on-premises networks in physical offices and stores"
+  },
+  {
+    "id": "6e728ab89282e17ff8c9a0f8209db07cdd2ca984",
+    "url": "https://tailscale.com/solutions/it",
+    "title": "Tailscale for IT",
+    "description": "Tailscale modernizes secure remote access and streamlines networking and security for your entire IT",
+    "text": "Tailscale for IT\nTailscale provides a zero-config business VPN, secure remote access, and Zero Trust"
+  },
+  {
+    "id": "2c30cf4fb6947dd5890d91e1964367a1bac90f92",
+    "url": "https://tailscale.com/deal-registration",
+    "title": "Deal Registration | Tailscale",
+    "description": "Register for Tailscale",
+    "text": "Product\nUse Cases\nResources\nCompany\nHelp & Support\nLearn"
+  },
+  {
+    "id": "4bd00fe58c45707ca08ede1e6a07c883d7c03c5e",
+    "url": "https://tailscale.com/ato-24",
+    "title": "Tailscale, a virtual programmable network for DevOps",
+    "description": "Achieve connectivity across VPCs, clusters, and heterogeneous environments quickly.",
+    "text": "Tailscale for DevOps\nWelcome All Things Open attendees\nCreate a new account from this page and we wi"
+  },
+  {
+    "id": "92ce2f98bdb9ee6726770c237d8907481ce9d22f",
+    "url": "https://tailscale.com/customers",
+    "title": "Why Devs Love Tailscale | Customer Success Stories",
+    "description": "See how customers use Tailscale to build the private networks of their dreams.",
+    "text": "See how Tailscale simplifies networking, and brings peace-of-mind for teams of every size.\nProduct\nU"
+  },
+  {
+    "id": "6ed5cdce37fc450a13ee17373cc11d4a7a9005cf",
+    "url": "https://tailscale.com/taildrop",
+    "title": "Taildrop Business File Sharing Without Limits | Secure & Simple",
+    "description": "Secure large file sharing for business. Send documents of any size with fast, encrypted transfers. N",
+    "text": "Taildrop makes large document sharing for business fast, private, and easy.\nTaildrop lets you send u"
+  },
+  {
+    "id": "49602bd82fdf21440a31efb4251daf42e2394a58",
+    "url": "https://tailscale.com/company",
+    "title": "We're Building the New Internet | About Tailscale",
+    "description": "Learn about Tailscale as a company and our mission: to remove the overhead and complexity of buildin",
+    "text": "We’re returning to the original vision of the Internet. We want to help everyone create their own se"
+  },
+  {
+    "id": "877e724ba44d8277bfc31f24646304822b59c896",
+    "url": "https://tailscale.com/mullvad",
+    "title": "Surf the Web Privately with Mullvad's Global Network + Tailscale",
+    "description": "Understand how to securely and privately browse the web with Tailscale and Mullvad. Tailscale has pa",
+    "text": "Connect your users, machines, and devices with Tailscale, surf the web privately and securely using "
+  },
+  {
+    "id": "df30fe36bf4e4c75eaed79546e9a529491ef3a23",
+    "url": "https://tailscale.com/ai-startup-program",
+    "title": "AI Network Management | Join Tailscale's Free AI Startup Program",
+    "description": "Secure your AI infrastructure, workloads and improve your AI network management with Tailscale Enter",
+    "text": "AI Startup Program\nSpend your funding on GPUs, not your secure networking.\nJoin the Tailscale AI Sta"
+  },
+  {
+    "id": "404b2c2fd6eee7200f7e10474c3228e3c8f85233",
+    "url": "https://www.dondominio.com/ca/abuse/",
+    "title": "Informe d'Abús i Queixes - DonDominio",
+    "description": "",
+    "text": "Si desitja informar-nos sobre activitats relacionades amb l'ús indegut dels nostres serveis, incloen"
+  },
+  {
+    "id": "f1837118ae296f4d10792f14653918e7690adbd4",
+    "url": "https://www.adswizz.com/tapad-and-adswizz-partner-to-enable-digital-identity-resolution-across-audio-ad-campaigns/",
+    "title": "Tapad and AdsWizz Partner to Enable Digital Identity Resolution Across Audio Ad Campaigns - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "6e6555843d9426106f9ebe993c003ba9bab3991a",
+    "url": "https://www.adswizz.com/audioone-partners-with-adswizz-for-soundcloud-ads/",
+    "title": "AudioOne Partners With AdsWizz For Soundcloud Ads - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "4eac28609cc17e4eb0c7a27087d466eeb3a20d59",
+    "url": "https://www.adswizz.com/audioone-adds-music-streaming-service-soundcloud-to-its-portfolio/",
+    "title": "AudioOne Adds Music Streaming Service Soundcloud to its Portfolio - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "45229ef4fd69a2db78ebcd84ea95f5cb024a602d",
+    "url": "https://www.adswizz.com/prisma-media-souvre-au-programmatique-audio-avec-adswizz/",
+    "title": "Prisma Media s’ouvre au programmatique audio avec AdsWizz - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "b6e265ce68a4c59d8e45856663dff3c065663478",
+    "url": "https://www.adswizz.com/how-the-aa-used-audio-to-target-and-convert-customers/",
+    "title": "How the AA used audio to target and convert customers - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "bd42da7aa8976d724c4e881d1db1bad4bb3f73c7",
+    "url": "https://www.adswizz.com/il-gruppo-24-ore-ha-scelto-la-piattaforma-digitale-adswizz-per-le-inserzioni-pubblicitarie-in-digital-audio-su-radio24/",
+    "title": "Il Gruppo 24 ORE ha scelto la piattaforma digitale AdsWizz per le inserzioni pubblicitarie in digita",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "6b40bb50ade8616fcc4b3506bc99a84462d96b24",
+    "url": "https://www.adswizz.com/inma-award-nomination-targeted-surf-reports-corona-sponsored/",
+    "title": "INMA Award Nomination: Targeted Surf Reports, Corona Sponsored - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "71c6f69c9d0f4a6e56177d6903f1d1f2b00e57f8",
+    "url": "https://www.adswizz.com/spark-foundry-launches-new-audio-ad-format-on-adswizz/",
+    "title": "Spark Foundry Launches New Audio Ad Format on AdsWizz - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "9a4f1c32f988a41ee28183c802481168366ff093",
+    "url": "https://www.adswizz.com/what-the-future-sounds-like-the-power-of-programmatic/",
+    "title": "What the Future Sounds Like: The Power of Programmatic - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "96bb58688a7ecd6dd6974c7529b794e43ff4d418",
+    "url": "https://www.adswizz.com/2021-iab-alm-resetting-the-future-with-anne-frisbie-svp-global-supply/",
+    "title": "2021 IAB ALM: Resetting the Future with Anne Frisbie, SVP Global Supply - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "696e229e90556697db1ad6210bf6c9a1efdcf874",
+    "url": "https://www.infonline.de/metriken-qualified-client/",
+    "title": "Redirect - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "2dfa1900f053d598281e6aa1ea8a604ce8aac716",
+    "url": "https://www.infonline.de/reporting-api/",
+    "title": "Reporting API - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "b26239e29a9e921034139528290f197a12851bf9",
+    "url": "https://www.infonline.de/measurement/",
+    "title": "INFOnline Measurement - INFOnline GmbH",
+    "description": "𝟭𝟬𝟬% 𝗱𝗮𝘁𝗲𝗻𝘀𝗰𝗵𝘂𝘁𝘇𝗸𝗼𝗻𝗳𝗼𝗿𝗺. 𝗖𝗼𝗼𝗸𝗶𝗲𝗹𝗼𝘀. 𝗢𝗵𝗻𝗲 𝗢𝗽𝘁-𝗜𝗻-𝗣𝗳𝗹𝗶𝗰𝗵\ud835",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "57bf21a8427a3ac539aee3b5b0daf66ad7c1a611",
+    "url": "https://www.infonline.de/measurement/kunde/",
+    "title": "Kunde - INFOnline GmbH",
+    "description": "𝟭𝟬𝟬% 𝗱𝗮𝘁𝗲𝗻𝘀𝗰𝗵𝘂𝘁𝘇𝗸𝗼𝗻𝗳𝗼𝗿𝗺. 𝗖𝗼𝗼𝗸𝗶𝗲𝗹𝗼𝘀. 𝗢𝗵𝗻𝗲 𝗢𝗽𝘁-𝗜𝗻-𝗣𝗳𝗹𝗶𝗰𝗵\ud835",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "467e282602673bafd2f9837d1e9f799c1d0cbda7",
+    "url": "https://www.infonline.de/tests/oewa-mit-mh5/",
+    "title": "ÖWA Test II / mit mh:5 - INFOnline GmbH",
+    "description": "",
+    "text": "IOMb und IOMp sollten ausgespielt werden."
+  },
+  {
+    "id": "20854a829f0b4d3e911afac299c4d630c178349b",
+    "url": "https://www.infonline.de/tests/",
+    "title": "tests - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "ccb0d7a9c2179cbf0c7703f866c6f537370fdbc8",
+    "url": "https://www.infonline.de/tests/oewa-ohne-mh5/",
+    "title": "ÖWA Test I / ohne mh:5 - INFOnline GmbH",
+    "description": "",
+    "text": "nur IOMb sollte ausgespielt werden."
+  },
+  {
+    "id": "f5219b5e5fd9ddf42d1e6833ef03f8f64e571622",
+    "url": "https://www.infonline.de/tests/oewa-cmp/",
+    "title": "ÖWA Test II / mit mh:5 mit CMP - INFOnline GmbH",
+    "description": "",
+    "text": "IOMb und IOMp sollten ausgespielt werden – und CMP"
+  },
+  {
+    "id": "3b6f6ec946a931bd812e32d27574ab36a3bcbee5",
+    "url": "https://www.infonline.de/qualifiedclient/dailys/",
+    "title": "login - INFOnline GmbH",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fc81d0bb8904e329edf2f79b4cbd805b0f329e7f",
+    "url": "https://www.census.gov/quickfacts/fact/sitemap/US/PST045217",
+    "title": "U.S. Census Bureau QuickFacts",
+    "description": "",
+    "text": "An official website of the United States government\nOfficial websites use .gov \n              \n     "
+  },
+  {
+    "id": "22d8b665dd024109ee022d3e2032bfb3783b95ef",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/dice-overview.html",
+    "title": "Building a Data-Centric Business Ecosystem",
+    "description": "Optimizing foundational operations for a world driven by and dependent on\naccurate, timely and relev",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "7f3cd359a123d5c949d5facac5e952a849d1f20d",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/dice-overview/dice.html",
+    "title": "Questionnaire Design Guidelines",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "12f7e724467a2608ef24713086cf42aaa0a4a419",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/frames.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "c68bd0a331365f6c15a1aa80ca6a25c7e5ff4b3b",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview.html",
+    "title": "Building a Data-Centric Business Ecosystem",
+    "description": "Optimizing foundational operations for a world driven by and dependent on\naccurate, timely and relev",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "09e684c16de4c3983e1f4a5ee7dbc037b7f32fb6",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/geospatial-frame.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "fedc0ec870a8cef984009abf08915efa29089746",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/business-frame.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "078b2e70f690474972d02c5b73afb4130899ff0a",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/job-frame.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "4105c2ba2d9f1c97a0946f74846134632a5505d0",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/about-frames.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "3d667ecde811a033b60ca7549a15187829e453b8",
+    "url": "https://www.census.gov/about/what/transformation/maximizing-operational-efficiency/data-centric-business-ecosystem/frames-overview/demographic-frame.html",
+    "title": "Frames Program",
+    "description": "",
+    "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov\n "
+  },
+  {
+    "id": "5678bf26a4219c241f7c2d593be2150dfcc6dc6e",
+    "url": "https://www.iheart.com/artist/markus-vail-12046/",
+    "title": "Markus Vail | iHeart",
+    "description": "Every Moment ( Marc Depulse rmx), Every Moment ( Original Mix )",
+    "text": "Markus Vail\nEvery Moment\nSep 2005 • 2 songs\nBlack Artists\nAlt & J\nElla Montclare, Pan Papason\niHeart"
+  },
+  {
+    "id": "36a293a32341d55d4babb6c3581842dad9abba19",
+    "url": "https://www.iheart.com/artist/robert-pete-williams-10914/",
+    "title": "Robert Pete Williams | iHeart",
+    "description": "High As I Want To Be, This Is A Mean Old World To Me, Up and Down Blues",
+    "text": "Robert Pete Williams\nServing Time: The Early Robert Pete Williams Anthology\nNov 2023 • 13 songs\nRobe"
+  },
+  {
+    "id": "e385103bdc7605f61f292cdee475da528f840252",
+    "url": "https://www.iheart.com/artist/the-bobbettes-13289/",
+    "title": "The Bobbettes | iHeart",
+    "description": "Mr. Lee, I Shot Mr Lee, Stay By My Side (feat. James Turner)",
+    "text": "The Bobbettes\nThe Complete Diamond Records Recordings\nAug 2024 • 16 songs\nAnthology: The Deluxe Coll"
+  },
+  {
+    "id": "793b3b12809fd7525adfa237c55a894ef32eacb8",
+    "url": "https://www.iheart.com/artist/destra-garcia-12626/",
+    "title": "Destra Garcia | iHeart",
+    "description": "Destra vs. Lucy, Bacchanal, Dip N Ride",
+    "text": "Destra Garcia\nNeon Riddim\nFeb 2022 • 1 song\nN.O.W. (No One Waiting)\nJan 2018 • 2 songs\nTechnically\nN"
+  },
+  {
+    "id": "ab9fcea0448c2d37330b8055618fb2a5dde1d015",
+    "url": "https://www.iheart.com/artist/peter-godwin-johnson-somerset-nuevo-12139/",
+    "title": "Peter Godwin | iHeart",
+    "description": "Images of Heaven, You!, Spoken Images",
+    "text": "Peter Godwin\nSunset Rise\nJan 2024 • 12 songs\n80s Remixes, Singles and B-Sides\nApr 2023 • 14 songs\nYo"
+  },
+  {
+    "id": "fe48ec84574c4ec1a7499c4cc71e3f441f39c4f2",
+    "url": "https://www.iheart.com/artist/judge-d-13483/",
+    "title": "Judge D | iHeart",
+    "description": "Voicez, Just Remember, Survive",
+    "text": "Judge D\nFree to Be Free\nSep 2019 • 5 songs\nGolden State of Mind\nJul 2019 • 1 song\nRhythm of Kaos\nJul"
+  },
+  {
+    "id": "138cfab357ecdd9ccd04c9b06df49e3e34c3183b",
+    "url": "https://www.iheart.com/artist/mr-sinister-16339/",
+    "title": "Mr. Sinister | iHeart",
+    "description": "Kill Mumble Rap, Pt. 1 (feat. 47), On A Mission, The Unknown #TiH",
+    "text": "Mr. Sinister\nKill Mumble Rap, Pt. 1 (feat. 47)\nJul 2018 • 1 song\nMad Skills\nNov 2015 • 2 songs\nOn A "
+  },
+  {
+    "id": "872bc7dfa93ffc29e4da85431bcf18613f35cb5a",
+    "url": "https://www.iheart.com/artist/deadwaiter-16534/",
+    "title": "Deadwaiter | iHeart",
+    "description": "The Liar",
+    "text": "Deadwaiter\niHeart\nLive Radio\nPodcasts\nArtist Radio\nNews\nFeatures\nEvents\nContests\nPhotos\nAbout\nAdvert"
+  },
+  {
+    "id": "50ebe7a76f1c596c99ed6c79ffd4fac9158bcc14",
+    "url": "https://www.iheart.com/artist/the-northern-way-17783/",
+    "title": "The Northern Way | iHeart",
+    "description": "The One (Acoustic), Never be the Same, Starting Line",
+    "text": "The Northern Way\nStarting Line (Remix)\nSep 2010 • 1 song\nStarting Line - EP\nSep 2010 • 6 songs\niHear"
+  },
+  {
+    "id": "b6e9544b7ae1f575a919c562df7d64b84a97b75b",
+    "url": "https://www.iheart.com/artist/black-lodge-14837/",
+    "title": "Black Lodge | iHeart",
+    "description": "Mordwasser, When the Credits Roll, Ravelin",
+    "text": "Black Lodge\n1\nMar 2024 • 5 songs\nTime Never Sleeps\nDec 2018 • 9 songs\nPromo 2018\nMar 2018 • 2 songs\n"
+  },
+  {
+    "id": "0b6eac40565bb645f17b72d801434951221e1ce9",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/kathryn-bigelow-a-house-of-dynamite-nuclear-annihilation-1236358876/",
+    "title": "Kathryn Bigelow:  'House of Dynamite' Is Nuclear Annihilation Warning",
+    "description": "Kathryn Bigelow Made Political Thriller 'House of Dynamite' to Warn the World About Nuclear Annihila",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "e13d25c3903a2926a4dc58c1cffce7517c42c060",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/corporation-for-public-broadcasting-pbs-governors-award-1236358897/",
+    "title": "Corporation for Public Broadcasting to Receive 2025 Governors Award",
+    "description": "The Corporation for Public Broadcasting will receive the 2025 Governors Award at the Creative Arts E",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "3b47a2a9fd5470ad72bce9bc24ed5f9f92b0477b",
+    "url": "https://www.hollywoodreporter.com/business/business-news/fox-cbs-nexstar-local-tv-buying-1236358490/",
+    "title": "Fox, CBS Mull TV Station Deals If FCC Allows It",
+    "description": "As Nexstar and Tegna gobble up more stations, broadcasters don't want to sit on the sidelines. Will ",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "aae9d0764adcf1086f63122a4b80426b1093a8db",
+    "url": "https://www.hollywoodreporter.com/news/general-news/gerard-depardieu-trial-rape-charges-1236358934/",
+    "title": "Gerard Depardieu to Stand Trial on Rape Charges",
+    "description": "A French judge orders actor Gerard Depardieu to stand trial for an alleged 2018 rape and sexual assa",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "68e7a7607b8671727ac4273ba90c23772227c62e",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-the-studio-smashing-machine-venice-film-festival-1236358931/",
+    "title": "Seth Rogen’s Surprise Venice Film Festival Outing Tied to ’The Studio’",
+    "description": "“It’s so beautiful here,” Rogen said after an outing at ‘The Smashing Machine’ premiere, “but I have",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "feb8f08051a1addd916b4f010186cf8837384642",
+    "url": "https://www.hollywoodreporter.com/news/general-news/trump-la-national-guard-illegal-federal-judge-1236358968/",
+    "title": "Trump L.A. National Guard Deployment Illegal, Federal Judge Rules",
+    "description": "A federal judge ruled that the Trump administration violated federal law in using National Guard tro",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "5cf5aae1c5c013c7a0c18eed093f110008575232",
+    "url": "https://www.hollywoodreporter.com/lifestyle/arts/jane-krakowski-to-star-in-oh-mary-on-broadway-1236358982/",
+    "title": "Jane Krakowski To Star in 'Oh, Mary!' on Broadway",
+    "description": "Jane Krakowski will take over the lead role of Mary Todd Lincoln in 'Oh, Mary!' on Broadway starting",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "650f50efd116bb9ee1d00eb624ade30f71034954",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/call-of-duty-paramount-live-action-movie-coming-1236358976/",
+    "title": "Call of Duty Live Action Movie Coming From Paramount in Major Deal",
+    "description": "Call of Duty live action movie coming from Paramount in major deal with Activision.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "b0839cc85d3eb3b2a65c44e9dd8f3184c339d229",
+    "url": "https://www.hollywoodreporter.com/news/general-news/graham-linehan-arrest-trans-tweets-1236358981/",
+    "title": "'Father Ted' Co-Creator Graham Linehan Arrested Over Trans Tweets",
+    "description": "'Father Ted' co-creator Graham Linehan was arrested at Heathrow on Monday and faces an investigation",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "4d54606cd6bb942c379c1ebb854d670eb3a8e2e0",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/judy-reyes-scrubs-revival-abc-1236359021/",
+    "title": "Judy Reyes Set for ‘Scrubs’ Revival at ABC",
+    "description": "Judy Reyes will return for ABC’s ‘Scrubs’ revival as a special guest star while keeping her role on ",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "b3863113f4103992fee28971c30d4734336990c0",
+    "url": "https://www.sap.com/france/documents/2023/08/981ae967-877e-0010-bca6-c68f7e60039b.html",
+    "title": "Thème de la nouvelle pratique industry cloud : planification prédictive dans le Retail",
+    "description": "Cette infographie illustre comment l'ensemble de solutions SAP industry cloud pour la planification ",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "d6ce3e84517beb4dbea1240e56e90a54ca5506d3",
+    "url": "https://www.sap.com/france/documents/2023/08/eea3c19a-887e-0010-bca6-c68f7e60039b.html",
+    "title": "Aligner les ressources humaines, les processus et la technologie pour développer votre entreprise",
+    "description": "Philip Carter, Dee Houchen et Andreas Hauser font part de leurs observations sur l'importance des co",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "6e5359681f6066578121343504652654932106ea",
+    "url": "https://www.sap.com/france/documents/2023/08/dea603ca-837e-0010-bca6-c68f7e60039b.html",
+    "title": "Comment les institutions financières peuvent adopter rapidement l'ERP cloud en toute confiance",
+    "description": "Découvrez comment la solution GROW with SAP peut vous aider à faire progresser votre entreprise grâc",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "cee85937e55b72d9cc9e6107c9f7c7c9425087fa",
+    "url": "https://www.sap.com/france/documents/2023/08/72042590-877e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "6c05013583d0370650d72a24e501cee7bf1b0139",
+    "url": "https://www.sap.com/france/documents/2023/08/f6b4dbfc-847e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "2be981bc5a512ac6d99f2a34377bfabef636baa7",
+    "url": "https://www.sap.com/france/documents/2023/03/1e4adc63-657e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "fdcbcd39de40b41840d8222b7eb49ddef656133b",
+    "url": "https://www.sap.com/france/documents/2023/01/76d315ba-5d7e-0010-bca6-c68f7e60039b.html",
+    "title": "News 2023 DSC FR N°1",
+    "description": "L’équipe Digital Supply Chain France vous souhaite une bonne et agréable année 2023 ! Découvrez les ",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "6978b61aa9d93ceb8ad8dcc4f4de9ba00ffd59c1",
+    "url": "https://www.sap.com/france/documents/2023/08/4e131bc3-877e-0010-bca6-c68f7e60039b.html",
+    "title": "SAP France Newsletter n°7 2023 Supply Chain & Industry 4.0",
+    "description": "Découvrez les innovations, tendances, témoignages clients, nouveautés produits, avis d'experts, évén",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "8a9d3eb601e2452bf3cccea7a7c870df272069cc",
+    "url": "https://www.sap.com/france/documents/2023/08/568c33dc-847e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "2fd02195dde95f0d9ba5a3dc4137bf0a6b905d9d",
+    "url": "https://www.sap.com/france/documents/2023/11/c4cb364b-977e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "29a655555fced95a9507ba7e33b7242a953c4c40",
+    "url": "https://www.thawte.com/tls-ssl-certificates/psd2-qualified-electronic-seal-qsealc",
+    "title": "EU Qualified Electronic Seal Certificates | PSD2 Qsealc | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "335983389c892cd386ac4c44c5ed502b518299c4",
+    "url": "https://www.thawte.com/tls-ssl-certificates/compare-solutions-for-psd2-compliance",
+    "title": "Compare PKIo Authentication and Encryption Certificates | Thawte",
+    "description": "",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "49631268170ea825178d7eca7b83dd6bb3519f63",
+    "url": "https://www.thawte.com/tls-ssl/secure-email-smime-certificates",
+    "title": "Secure Email (S/MIME) Certificates from DigiCert | Thawte",
+    "description": "Pair your Thawte certificate with an S/MIME certificate from DigiCert to get end-to-end encryption t",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "9c088cfd6f52e73777259b38e55d86e357132023",
+    "url": "https://www.thawte.com/resources",
+    "title": "Thawte Resources | Learn About TLS/SSL Certificates | Thawte",
+    "description": "Explore Thawte resources to learn about TLS/SSL certificates, their benefits, and how they secure yo",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "04f52bab400a0906caa1475b3dec9fb0b8dc7f78",
+    "url": "https://www.thawte.com/signing/document-signing-certificates",
+    "title": "Buy Document Signing Certificates | Thawte",
+    "description": "Buy a DigiCert Document Signing Certificate to enable publicly trusted digital signatures and electr",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "e7e47cc04f7b535c0ad27b7cbf8fc18bba1f0c48",
+    "url": "https://www.thawte.com/contact-us",
+    "title": "SSL Digital Certificate Technical Support | Contact Us | Thawte",
+    "description": "Contact Thawte for any support queries. Call toll free: 1-800-896-7973 for help with TLS/SSL Certifi",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "08a967d1905671896f5c70a19d52592707ec44ce",
+    "url": "https://www.thawte.com/certificate-management",
+    "title": "CertCentral TLS/SSL Certificate Management | Thawte",
+    "description": "Simplify and automate ssl certificate management with DigiCert CertCentral. CertCentral simplifies t",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "b5fea0b2974db4acdc169863bf697261f3346938",
+    "url": "https://www.thawte.com/support/ssl-validation-process",
+    "title": "TLS/SSL Certificate Validation Process | Thawte",
+    "description": "TLS/SSL certificates verify identity and encrypt data, requiring validation before issuance. Learn a",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "53e4c9d6d372ffa885c79888b87e19bd119c7d58",
+    "url": "https://www.thawte.com/signing/code-signing-certificates",
+    "title": "Buy Code Signing Certificates | Thawte",
+    "description": "Pair your Thawte certificate with a DigiCert Code Signing Certificate to show customers, app stores ",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "aba0091c8862edf7d801117f575144eff1a4a736",
+    "url": "https://www.thawte.com/tls-ssl/verified-mark-certificates",
+    "title": "Verified Mark Certificates from DigiCert | Thawte",
+    "description": "Pair your Thawte certificate with a DigiCertÆ†Verified Mark Certificate (VMC) to deliver trusted ema",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
   }
 ]
