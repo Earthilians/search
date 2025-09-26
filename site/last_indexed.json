@@ -35433,11 +35433,11 @@
     "urls": []
   },
   "bing.net": {
-    "lastAt": 1758525857404,
+    "lastAt": 1758878690968,
     "urls": []
   },
   "photobucket.com": {
-    "lastAt": 1758525857973,
+    "lastAt": 1758878691369,
     "urls": [
       "https://photobucket.com/",
       "https://photobucket.com/accessibility-commitment",
@@ -35448,7 +35448,7 @@
     ]
   },
   "tbank.ru": {
-    "lastAt": 1758525864185,
+    "lastAt": 1758878700803,
     "urls": [
       "https://www.tbank.ru/bank/help/general/self-employed/work/connect-to-the-service/",
       "https://www.tbank.ru/bank/help/loans/nopledge/use-and-pay/",
@@ -35476,57 +35476,66 @@
       "https://www.tbank.ru/bank/help/payments/transfers/another-bank/otkr-pull/",
       "https://www.tbank.ru/bank/help/payments/transfers/sbp-turn-on/",
       "https://www.tbank.ru/invest/help/terminal-diagnostics/",
-      "https://www.tbank.ru/bank/help/credit-cards/tinkoff-platinum/balance-transfer/"
+      "https://www.tbank.ru/bank/help/credit-cards/tinkoff-platinum/balance-transfer/",
+      "https://www.tbank.ru/bank/help/cross-border/incoming/",
+      "https://www.tbank.ru/invest/help/situation/844-funds/",
+      "https://www.tbank.ru/invest/help/decree-138/",
+      "https://www.tbank.ru/bank/help/cross-border/outgoing-terms/",
+      "https://www.tbank.ru/invest/help/services/new-releases/",
+      "https://www.tbank.ru/insurance/help/europrotocol-pomoshnik-osago/",
+      "https://www.tbank.ru/business/help/business-payout/salary/connect-for-yandex/",
+      "https://www.tbank.ru/bank/help/debit-cards/magnit-black/",
+      "https://www.tbank.ru/bank/help/credit-cards/magnit-platinum/"
     ]
   },
   "akamai.com": {
-    "lastAt": 1758525932993,
+    "lastAt": 1758878769613,
     "urls": []
   },
   "chartbeat.net": {
-    "lastAt": 1758525991848,
+    "lastAt": 1758878828473,
     "urls": []
   },
   "ctmail.com": {
-    "lastAt": 1758526050709,
+    "lastAt": 1758878887333,
     "urls": []
   },
   "script.ac": {
-    "lastAt": 1758526053707,
+    "lastAt": 1758878891002,
     "urls": []
   },
   "usgs.gov": {
-    "lastAt": 1758526065531,
+    "lastAt": 1758878902272,
     "urls": [
       "https://usgs.gov/"
     ]
   },
   "fortinet.net": {
-    "lastAt": 1758526124344,
+    "lastAt": 1758878961084,
     "urls": []
   },
   "eyeota.net": {
-    "lastAt": 1758526131415,
+    "lastAt": 1758878967557,
     "urls": []
   },
   "ria.ru": {
-    "lastAt": 1758526152073,
+    "lastAt": 1758878987947,
     "urls": [
       "https://ria.ru/"
     ]
   },
   "servicepipe.ru": {
-    "lastAt": 1758526156961,
+    "lastAt": 1758878992606,
     "urls": []
   },
   "themoviedb.org": {
-    "lastAt": 1758526158440,
+    "lastAt": 1758878995079,
     "urls": [
       "https://themoviedb.org/"
     ]
   },
   "primis.tech": {
-    "lastAt": 1758526161313,
+    "lastAt": 1758878998346,
     "urls": [
       "https://primis.tech/",
       "https://www.primis.tech/resources/blogs/primis-technology-updates-api-2-10/",
@@ -35557,19 +35566,29 @@
       "https://www.primis.tech/resources/blogs/expansion-of-net15-payment-initiative/",
       "https://www.primis.tech/resources/blogs/8-estrategias-de-monetizacion-para-publishers-digitales/",
       "https://www.primis.tech/resources/blogs/todo-lo-que-debes-saber-sobre-sellers-json/",
-      "https://www.primis.tech/resources/blogs/glosario-de-publicidad-en-video/"
+      "https://www.primis.tech/resources/blogs/glosario-de-publicidad-en-video/",
+      "https://www.primis.tech/resources/blogs/como-los-publishers-pueden-crear-mas-inventario-de-anuncios-en-video/",
+      "https://www.primis.tech/resources/blogs/como-funciona-ads-txt-y-las-mejores-practicas/",
+      "https://www.primis.tech/resources/blogs/como-aumentar-la-visibilidad-de-los-videos-y-por-que-es-tan-importante/",
+      "https://www.primis.tech/resources/blogs/como-la-tecnologia-5g-ayudara-a-los-publishers-a-ganar-con-el-video/",
+      "https://www.primis.tech/resources/blogs/la-guia-definitiva-para-el-descubrimiento-de-contenido/",
+      "https://www.primis.tech/resources/blogs/los-7-factores-de-toda-estrategia-exitosa-para-la-publicacion-de-videos/",
+      "https://www.primis.tech/resources/blogs/por-que-el-video-es-bueno-para-la-experiencia-del-usuario/",
+      "https://www.primis.tech/resources/blogs/generacion-video-como-llegar-a-la-generacion-que-crecio-con-los-videos-en-linea/",
+      "https://www.primis.tech/resources/blogs/como-los-publishers-pueden-sacar-provecho-del-crecimiento-del-consumo-de-videos-durante-el-confinamiento/",
+      "https://www.primis.tech/resources/blogs/la-posicion-ideal-para-las-unidades-de-video/"
     ]
   },
   "bfmio.com": {
-    "lastAt": 1758526220120,
+    "lastAt": 1758879057159,
     "urls": []
   },
   "discomax.com": {
-    "lastAt": 1758526223317,
+    "lastAt": 1758879060391,
     "urls": []
   },
   "logitech.com": {
-    "lastAt": 1758526226149,
+    "lastAt": 1758879063734,
     "urls": [
       "https://www.logitech.com/es-ar",
       "https://www.logitech.com/es-ar/shop",
@@ -35600,37 +35619,47 @@
       "https://www.logitech.com/es-ar/shop/c/mice",
       "https://www.logitech.com/es-ar/shop/p/g513-backlit-mechanical-gaming-keyboard",
       "https://www.logitech.com/es-ar/shop/p/mx-master-3s",
-      "https://www.logitech.com/es-ar/shop/p/mx-anywhere-3s"
+      "https://www.logitech.com/es-ar/shop/p/mx-anywhere-3s",
+      "https://www.logitech.com/es-ar/shop/p/ergo-m575s-wireless-trackball",
+      "https://www.logitech.com/es-ar/shop/p/pebble-2-m350s-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/mx-ergo-s-wireless-trackball-mouse",
+      "https://www.logitech.com/es-ar/shop/p/mx-vertical-ergonomic-mouse",
+      "https://www.logitech.com/es-ar/shop/p/lift-vertical-ergonomic-mouse",
+      "https://www.logitech.com/es-ar/shop/p/pop-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m720-triathlon",
+      "https://www.logitech.com/es-ar/shop/p/mx-ergo-wireless-trackball-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m650-signature-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/limited-edition-wireless-mouse"
     ]
   },
   "dropbox-dns.com": {
-    "lastAt": 1758526229036,
+    "lastAt": 1758879066946,
     "urls": []
   },
   "jwpltx.com": {
-    "lastAt": 1758526229916,
+    "lastAt": 1758879068590,
     "urls": [
       "https://jwpltx.com/"
     ]
   },
   "verizon.com": {
-    "lastAt": 1758526231671,
+    "lastAt": 1758879070414,
     "urls": [
       "https://verizon.com/"
     ]
   },
   "sfgate.com": {
-    "lastAt": 1758526237291,
+    "lastAt": 1758879077349,
     "urls": []
   },
   "harman.com": {
-    "lastAt": 1758526239492,
+    "lastAt": 1758879080004,
     "urls": [
       "https://harman.com/"
     ]
   },
   "wunderground.com": {
-    "lastAt": 1758526244860,
+    "lastAt": 1758879086609,
     "urls": [
       "https://wunderground.com/",
       "https://www.wunderground.com/forecast/mx/puerto-vallarta",
@@ -35661,17 +35690,27 @@
       "https://www.wunderground.com/forecast/ca/calgary",
       "https://www.wunderground.com/forecast/ca/halifax",
       "https://www.wunderground.com/forecast/bg/sofia",
-      "https://www.wunderground.com/forecast/ca/whistler"
+      "https://www.wunderground.com/forecast/ca/whistler",
+      "https://www.wunderground.com/forecast/mx/cabo-san-lucas",
+      "https://www.wunderground.com/forecast/bs/nassau",
+      "https://www.wunderground.com/forecast/es/barcelona",
+      "https://www.wunderground.com/forecast/be/brussels",
+      "https://www.wunderground.com/forecast/sg/singapore",
+      "https://www.wunderground.com/forecast/ua/kiev",
+      "https://www.wunderground.com/forecast/ca/hamilton",
+      "https://www.wunderground.com/forecast/us/ga/athens",
+      "https://www.wunderground.com/forecast/is/reykjav%C3%ADk",
+      "https://www.wunderground.com/forecast/ua/odessa"
     ]
   },
   "timeanddate.com": {
-    "lastAt": 1758526246122,
+    "lastAt": 1758879088160,
     "urls": [
       "https://timeanddate.com/"
     ]
   },
   "eskimi.com": {
-    "lastAt": 1758526247659,
+    "lastAt": 1758879092183,
     "urls": [
       "https://www.eskimi.com/career-page",
       "https://www.eskimi.com/blog",
@@ -35702,15 +35741,25 @@
       "https://www.eskimi.com/contextual",
       "https://www.eskimi.com/performance",
       "https://www.eskimi.com/backup-home",
-      "https://www.eskimi.com/privacy-policy"
+      "https://www.eskimi.com/privacy-policy",
+      "https://www.eskimi.com/alternative/adcolony",
+      "https://www.eskimi.com/geotargeting",
+      "https://www.eskimi.com/telco-new",
+      "https://www.eskimi.com/alternative/mediamath",
+      "https://www.eskimi.com/alternative/digilant",
+      "https://www.eskimi.com/platform",
+      "https://www.eskimi.com/blog-post",
+      "https://www.eskimi.com/high-impact-ads",
+      "https://www.eskimi.com/resource",
+      "https://www.eskimi.com/whitelabel"
     ]
   },
   "science.org": {
-    "lastAt": 1758526254538,
+    "lastAt": 1758879099027,
     "urls": []
   },
   "maricopa.gov": {
-    "lastAt": 1758526259285,
+    "lastAt": 1758879103278,
     "urls": [
       "https://maricopa.gov/",
       "https://www.maricopa.gov/9/I-Want-To",
@@ -35741,19 +35790,29 @@
       "https://www.maricopa.gov/5728/ADA-Accommodations",
       "https://www.maricopa.gov/4134/Request",
       "https://www.maricopa.gov/5731/Grievance-Procedure",
-      "https://www.maricopa.gov/4214/Public-Records"
+      "https://www.maricopa.gov/4214/Public-Records",
+      "https://www.maricopa.gov/5312/Cities-Towns",
+      "https://www.maricopa.gov/5304/Visit",
+      "https://www.maricopa.gov/5332/Community-Resources",
+      "https://www.maricopa.gov/3663/Improvement-Districts",
+      "https://www.maricopa.gov/101/Services",
+      "https://www.maricopa.gov/5285/Find-Your-Districts",
+      "https://www.maricopa.gov/3665/Steps-Procedures",
+      "https://www.maricopa.gov/3873/Frequently-Asked-Questions",
+      "https://www.maricopa.gov/3877/Active-Districts",
+      "https://www.maricopa.gov/3874/County-Districts"
     ]
   },
   "msecnd.net": {
-    "lastAt": 1758526262212,
+    "lastAt": 1758879106214,
     "urls": []
   },
   "zdnscloud.com": {
-    "lastAt": 1758526266791,
+    "lastAt": 1758879110899,
     "urls": []
   },
   "mparticle.com": {
-    "lastAt": 1758526270176,
+    "lastAt": 1758879115398,
     "urls": [
       "https://www.mparticle.com/about-us/",
       "https://mparticle.com/",
@@ -35781,7 +35840,16 @@
       "https://www.mparticle.com/category/product/",
       "https://www.mparticle.com/category/video/",
       "https://www.mparticle.com/category/press-release/",
-      "https://www.mparticle.com/category/webinar/"
+      "https://www.mparticle.com/category/webinar/",
+      "https://www.mparticle.com/ai-within-reach/",
+      "https://www.mparticle.com/boost-your-website-traffic-and-conversions/",
+      "https://www.mparticle.com/calculated-attributes-use-case-guide/",
+      "https://www.mparticle.com/bringing-ai-to-your-marketing-stack/",
+      "https://www.mparticle.com/composeid-sign-up/",
+      "https://www.mparticle.com/customer-data-platform-vendor-comparison/",
+      "https://www.mparticle.com/customer-data-maturity-learn-more/",
+      "https://www.mparticle.com/customer-data-platform-buying-guide/",
+      "https://www.mparticle.com/data-plan-builder-download/"
     ]
   },
   "pnas.org": {
