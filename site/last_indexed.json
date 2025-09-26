@@ -34295,13 +34295,13 @@
     "urls": []
   },
   "aljazeera.com": {
-    "lastAt": 1758518552920,
+    "lastAt": 1758871333772,
     "urls": [
       "https://aljazeera.com/"
     ]
   },
   "vox.com": {
-    "lastAt": 1758518559720,
+    "lastAt": 1758871336883,
     "urls": [
       "https://www.vox.com/future-perfect/461340/sb53-california-ai-bill-catastrophic-risk-explained",
       "https://www.vox.com/politics/461408/charlie-kirk-shooting-killed-right-way-suspect",
@@ -34323,25 +34323,35 @@
       "https://www.vox.com/politics/461597/free-speech-charlie-kirk-death-first-amendment-incitement-misinformation",
       "https://www.vox.com/future-perfect/462172/apple-airpods-translation-hearing-device-vision-google-diabetes",
       "https://www.vox.com/podcasts/462188/kash-patel-fbi-charlie-kirk-trump-rufo",
-      "https://www.vox.com/politics/462173/charlie-kirk-killer-motive-tyler-robinson-jimmy-kimmel"
+      "https://www.vox.com/politics/462173/charlie-kirk-killer-motive-tyler-robinson-jimmy-kimmel",
+      "https://www.vox.com/politics/462958/james-comey-indictment-read-perjury-trump-bondi",
+      "https://www.vox.com/podcasts/462672/trump-tiktok-deal-oracle-fox-larry-ellison",
+      "https://www.vox.com/politics/462706/trump-corruption-tom-homan-bribery",
+      "https://www.vox.com/politics/462814/russia-nato-drones-jets-war-ukraine",
+      "https://www.vox.com/culture/462451/jet2-tunis-us-open-tiktok-millennial-cringe",
+      "https://www.vox.com/technology/462755/apple-iphone-ios26-call-screening",
+      "https://www.vox.com/technology/458875/ai-cheating-data-education-panic",
+      "https://www.vox.com/on-the-right-newsletter/462695/charlie-kirk-george-floyd-trump-kimmel",
+      "https://www.vox.com/advice/462018/mental-health-myths-social-media-love-bombing-narcissism",
+      "https://www.vox.com/politics/462486/charlie-kirk-maga-christian-evangelical-martyr-trump"
     ]
   },
   "w55c.net": {
-    "lastAt": 1758518563060,
+    "lastAt": 1758871340318,
     "urls": []
   },
   "rainberrytv.com": {
-    "lastAt": 1758518564368,
+    "lastAt": 1758871341564,
     "urls": [
       "https://rainberrytv.com/"
     ]
   },
   "thelancet.com": {
-    "lastAt": 1758518570751,
+    "lastAt": 1758871347457,
     "urls": []
   },
   "plex.tv": {
-    "lastAt": 1758518574129,
+    "lastAt": 1758871350778,
     "urls": [
       "https://plex.tv/",
       "https://plex.tv/about",
@@ -34360,7 +34370,7 @@
     ]
   },
   "netlify.app": {
-    "lastAt": 1758518588846,
+    "lastAt": 1758871366293,
     "urls": [
       "https://www.netlify.com/",
       "https://netlify.app/",
@@ -34391,19 +34401,29 @@
       "https://www.netlify.com/on-contentful/",
       "https://www.netlify.com/oreilly-jamstack/",
       "https://www.netlify.com/platform/",
-      "https://www.netlify.com/gcp-marketplace/"
+      "https://www.netlify.com/gcp-marketplace/",
+      "https://www.netlify.com/pricing/",
+      "https://www.netlify.com/products/",
+      "https://www.netlify.com/research-program/",
+      "https://www.netlify.com/roi-calculator/",
+      "https://www.netlify.com/security/",
+      "https://www.netlify.com/support/",
+      "https://www.netlify.com/support-scope/",
+      "https://www.netlify.com/press/",
+      "https://www.netlify.com/resources/",
+      "https://www.netlify.com/privacy/"
     ]
   },
   "ui-dns.com": {
-    "lastAt": 1758518592069,
+    "lastAt": 1758871369452,
     "urls": []
   },
   "nominetdns.uk": {
-    "lastAt": 1758518595664,
+    "lastAt": 1758871373075,
     "urls": []
   },
   "intercom.com": {
-    "lastAt": 1758518599839,
+    "lastAt": 1758871377002,
     "urls": [
       "https://intercom.com/",
       "https://www.intercom.com/campaign/2025-ecommerce-customer-service-transformation-report",
@@ -34431,11 +34451,20 @@
       "https://www.intercom.com/customers/fresh-technology",
       "https://www.intercom.com/customers/fundrise",
       "https://www.intercom.com/customers/fugo",
-      "https://www.intercom.com/customers/greenpal"
+      "https://www.intercom.com/customers/greenpal",
+      "https://www.intercom.com/customers/miss-group",
+      "https://www.intercom.com/customers/mebit",
+      "https://www.intercom.com/customers/motosumo",
+      "https://www.intercom.com/customers/mony-group",
+      "https://www.intercom.com/customers/mpb",
+      "https://www.intercom.com/customers/nuuly-pioneer",
+      "https://www.intercom.com/customers/numan",
+      "https://www.intercom.com/customers/october",
+      "https://www.intercom.com/customers/otus"
     ]
   },
   "segment.com": {
-    "lastAt": 1758518605809,
+    "lastAt": 1758871382583,
     "urls": [
       "https://segment.com/blog/3-awesome-examples-behavior-based-marketing-autopilot/",
       "https://segment.com/blog/2018-in-review/",
@@ -34460,23 +34489,23 @@
     ]
   },
   "tenable.com": {
-    "lastAt": 1758518610079,
+    "lastAt": 1758871386857,
     "urls": [
       "https://tenable.com/"
     ]
   },
   "vivox.com": {
-    "lastAt": 1758518611231,
+    "lastAt": 1758871388249,
     "urls": [
       "https://vivox.com/"
     ]
   },
   "cdnhwc3.com": {
-    "lastAt": 1758518616400,
+    "lastAt": 1758871392800,
     "urls": []
   },
   "clevelandclinic.org": {
-    "lastAt": 1758518620640,
+    "lastAt": 1758871397434,
     "urls": [
       "https://my.clevelandclinic.org/about",
       "https://my.clevelandclinic.org/departments",
@@ -34507,17 +34536,27 @@
       "https://my.clevelandclinic.org/about/overview/who-we-are",
       "https://my.clevelandclinic.org/about/overview/our-model-healthcare",
       "https://my.clevelandclinic.org/about/overview/leadership",
-      "https://my.clevelandclinic.org/about/overview/financial-information"
+      "https://my.clevelandclinic.org/about/overview/financial-information",
+      "https://my.clevelandclinic.org/about/overview/who-we-are/mission-vision-values",
+      "https://my.clevelandclinic.org/about/overview/who-we-are/northeast-ohio-business-ethics",
+      "https://my.clevelandclinic.org/about/overview/who-we-are/integrity-innovations",
+      "https://my.clevelandclinic.org/about/overview/who-we-are/facts-figures",
+      "https://my.clevelandclinic.org/about/overview/who-we-are/employee-notice",
+      "https://my.clevelandclinic.org/about/overview/leadership/board-of-directors",
+      "https://my.clevelandclinic.org/about/overview/leadership/board-of-governors",
+      "https://my.clevelandclinic.org/about/overview/leadership/executive",
+      "https://my.clevelandclinic.org/about/overview/leadership/board-of-trustees",
+      "https://my.clevelandclinic.org/about/overview/leadership/board-of-directors/crawford-deborah"
     ]
   },
   "alltel24.ru": {
-    "lastAt": 1758518627963,
+    "lastAt": 1758871406003,
     "urls": [
       "https://alltel24.ru/"
     ]
   },
   "www.nhs.uk": {
-    "lastAt": 1758518632403,
+    "lastAt": 1758871409681,
     "urls": [
       "https://www.nhs.uk/",
       "https://www.nhs.uk/conditions/acanthosis-nigricans/",
@@ -34548,19 +34587,29 @@
       "https://www.nhs.uk/conditions/antacids/",
       "https://www.nhs.uk/conditions/intrauterine-insemination-iui/",
       "https://www.nhs.uk/conditions/athletes-foot/",
-      "https://www.nhs.uk/conditions/atherosclerosis/"
+      "https://www.nhs.uk/conditions/atherosclerosis/",
+      "https://www.nhs.uk/conditions/auditory-processing-disorder/",
+      "https://www.nhs.uk/conditions/balanitis/",
+      "https://www.nhs.uk/conditions/bedbugs/",
+      "https://www.nhs.uk/conditions/black-eye/",
+      "https://www.nhs.uk/conditions/beta-blockers/",
+      "https://www.nhs.uk/conditions/blood-groups/",
+      "https://www.nhs.uk/conditions/blood-in-semen/",
+      "https://www.nhs.uk/conditions/barium-enema/",
+      "https://www.nhs.uk/conditions/blood-pressure-test/",
+      "https://www.nhs.uk/conditions/blood-in-urine/"
     ]
   },
   "jamanetwork.com": {
-    "lastAt": 1758518650473,
+    "lastAt": 1758871427562,
     "urls": []
   },
   "adobess.com": {
-    "lastAt": 1758518653694,
+    "lastAt": 1758871430582,
     "urls": []
   },
   "arstechnica.com": {
-    "lastAt": 1758518659972,
+    "lastAt": 1758871437766,
     "urls": [
       "https://arstechnica.com/",
       "https://arstechnica.com/tag/__suppressupdates/",
@@ -34591,15 +34640,25 @@
       "https://arstechnica.com/tag/askars/",
       "https://arstechnica.com/tag/attns/",
       "https://arstechnica.com/tag/bieb/",
-      "https://arstechnica.com/tag/beib/"
+      "https://arstechnica.com/tag/beib/",
+      "https://arstechnica.com/tag/brief-2/",
+      "https://arstechnica.com/tag/cloud_future/",
+      "https://arstechnica.com/tag/coolestjobs/",
+      "https://arstechnica.com/tag/congressedits/",
+      "https://arstechnica.com/tag/budgetbox/",
+      "https://arstechnica.com/tag/dellconsumer/",
+      "https://arstechnica.com/tag/edited/",
+      "https://arstechnica.com/tag/facebook-com/",
+      "https://arstechnica.com/tag/ericsson/",
+      "https://arstechnica.com/tag/futureofbandwidth/"
     ]
   },
   "marketingcloudapis.com": {
-    "lastAt": 1758518663015,
+    "lastAt": 1758871440757,
     "urls": []
   },
   "sonobi.com": {
-    "lastAt": 1758518666000,
+    "lastAt": 1758871443556,
     "urls": [
       "https://sonobi.com/all-news/",
       "https://sonobi.com/news/connolly-ernst-and-young-entrepreneur-finalist/",
@@ -34630,15 +34689,25 @@
       "https://sonobi.com/press-release/terror-survives-oxygen-attention/",
       "https://sonobi.com/press-release/google-ramps-header-bidding-alternative-pressure-mounts-facebook/",
       "https://sonobi.com/press-release/facebook-looks-partners-build-header-bidding-tool/",
-      "https://sonobi.com/press-release/not-advertise-terror/"
+      "https://sonobi.com/press-release/not-advertise-terror/",
+      "https://sonobi.com/press-release/aawarc-expenditure-report-shows-uk-ad-spend-maintains-strength-experts-comment/",
+      "https://sonobi.com/press-release/10-things-advertising-need-know-today/",
+      "https://sonobi.com/news/wpp-client-info-looks-safe-ransomware-attacks-can-mask-data-grabs/",
+      "https://sonobi.com/press-release/cutting-middleman-facebook-expands-header-bidding/",
+      "https://sonobi.com/news/strength-numbers-publishers-team-fight-google-facebook/",
+      "https://sonobi.com/news/giving-control-advertisers-facebook/",
+      "https://sonobi.com/news/ad-tech-consolidation-poised-accelerate-gdpr/",
+      "https://sonobi.com/news/snapchats-value-lies-discover-platform-not-ads/",
+      "https://sonobi.com/news/quarterly-earnings-google-facebook-reflect-growing-dominance-digital-ad-market/",
+      "https://sonobi.com/news/apples-move-kill-cookies-brings-plea-six-major-trade-associations/"
     ]
   },
   "vk-analytics.ru": {
-    "lastAt": 1758518670639,
+    "lastAt": 1758871448457,
     "urls": []
   },
   "wpengine.com": {
-    "lastAt": 1758518679307,
+    "lastAt": 1758871455939,
     "urls": [
       "https://wpengine.com/more/wordpress-hosting-for-small-business/",
       "https://wpengine.com/",
@@ -34669,27 +34738,37 @@
       "https://wpengine.com/more/customer-qa-holiday-prep-with-ugly-christmas-sweater-com/",
       "https://wpengine.com/more/customer-qa-a-conversation-with-ebsco/",
       "https://wpengine.com/more/delivering-a-slam-dunk-experience-on-wordpress/",
-      "https://wpengine.com/more/recipe-for-success-migrating-to-wp-engine/"
+      "https://wpengine.com/more/recipe-for-success-migrating-to-wp-engine/",
+      "https://wpengine.com/more/helping-agencies-wow-new-clients-fast/",
+      "https://wpengine.com/more/getting-up-to-speed-with-a-new-dxp/",
+      "https://wpengine.com/more/prioritizing-security-for-a-growing-brand/",
+      "https://wpengine.com/more/cxr-sony-wonderverse-customer-story/",
+      "https://wpengine.com/more/secret-sounds-cruickshanks-case-study/",
+      "https://wpengine.com/more/hallam-sonovate-case-study/",
+      "https://wpengine.com/more/a-smarter-more-personalized-education-experience/",
+      "https://wpengine.com/more/wide-eye-healthcare-directory-atlas/",
+      "https://wpengine.com/more/bamboo-clothing-case-study/",
+      "https://wpengine.com/more/wpromote-central-square-case-study/"
     ]
   },
   "proofpoint.com": {
-    "lastAt": 1758518686923,
+    "lastAt": 1758871464095,
     "urls": [
       "https://proofpoint.com/"
     ]
   },
   "usercontent.microsoft": {
-    "lastAt": 1758518689777,
+    "lastAt": 1758871467020,
     "urls": []
   },
   "iponweb.net": {
-    "lastAt": 1758518691812,
+    "lastAt": 1758871468925,
     "urls": [
       "https://iponweb.net/"
     ]
   },
   "bund.de": {
-    "lastAt": 1758518698896,
+    "lastAt": 1758871476178,
     "urls": [
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1010000/sublagen/1010100",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1020000/sublagen/1020100",
@@ -34720,11 +34799,21 @@
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1070000/sublagen/1070200",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080100",
       "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080200",
-      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080300"
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080300",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1080000/sublagen/1080400",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1090000/sublagen/1090100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1090000/sublagen/1090200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1100000/sublagen/1100100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1100000/sublagen/1100200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1110000/sublagen/1110100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1110000/sublagen/1110200",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1110000/sublagen/1110300",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1120000/sublagen/1120100",
+      "https://verwaltung.bund.de/leistungsverzeichnis/de/lagen/1120000/sublagen/1120200"
     ]
   },
   "waze.com": {
-    "lastAt": 1758518702313,
+    "lastAt": 1758871479209,
     "urls": [
       "https://waze.com/",
       "https://www.waze.com/",
@@ -34755,11 +34844,14 @@
       "https://www.waze.com/wazeforcities/casestudies/how-der-mg-leverages-real-time-data/",
       "https://www.waze.com/wazeforcities/casestudies/paving-the-way-for-a-sustainable-cop30/",
       "https://www.waze.com/wazeforcities/casestudies/keeping-people-safe-during-a-natural-disaster/",
-      "https://www.waze.com/wazeforcities/casestudies/waze-for-wildlife-protection-lynx/"
+      "https://www.waze.com/wazeforcities/casestudies/waze-for-wildlife-protection-lynx/",
+      "https://www.waze.com/wazeforcities/casestudies/keeping-streets-safer-one-alert-at-a-time/",
+      "https://www.waze.com/wazeforcities/casestudies/wazes-role-in-sustainable-crisis-response-during-the-greater-la-wildfires/",
+      "https://www.waze.com/wazeforcities/casestudies/how-real-time-data-is-making-a-difference/"
     ]
   },
   "tenor.com": {
-    "lastAt": 1758518703293,
+    "lastAt": 1758871480167,
     "urls": [
       "https://tenor.com/"
     ]
