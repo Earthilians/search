@@ -36849,51 +36849,53 @@
     ]
   },
   "tynt.com": {
-    "lastAt": 1758536736242,
+    "lastAt": 1758890859651,
     "urls": [
       "https://tynt.com/"
     ]
   },
   "adentifi.com": {
-    "lastAt": 1758536737516,
+    "lastAt": 1758890860977,
     "urls": [
       "https://adentifi.com/"
     ]
   },
   "samsungnyc.com": {
-    "lastAt": 1758536740762,
+    "lastAt": 1758890863975,
     "urls": []
   },
   "bls.gov": {
-    "lastAt": 1758536744974,
+    "lastAt": 1758890868017,
     "urls": []
   },
   "tcylgslb.com": {
-    "lastAt": 1758536748572,
+    "lastAt": 1758890871323,
     "urls": []
   },
   "axios.com": {
-    "lastAt": 1758536755236,
-    "urls": []
+    "lastAt": 1758890879592,
+    "urls": [
+      "https://www.axios.com/legal/contests"
+    ]
   },
   "addthis.com": {
-    "lastAt": 1758536758878,
+    "lastAt": 1758890883071,
     "urls": []
   },
   "quantcount.com": {
-    "lastAt": 1758536817732,
+    "lastAt": 1758890941928,
     "urls": []
   },
   "ru.com": {
-    "lastAt": 1758536820921,
+    "lastAt": 1758890944990,
     "urls": []
   },
   "alikunlun.com": {
-    "lastAt": 1758536879786,
+    "lastAt": 1758891003854,
     "urls": []
   },
   "asu.edu": {
-    "lastAt": 1758536882148,
+    "lastAt": 1758891006047,
     "urls": [
       "https://www.asu.edu/",
       "https://asu.edu/",
@@ -36924,11 +36926,21 @@
       "https://www.asu.edu/about/innovate",
       "https://www.asu.edu/about/leadership",
       "https://www.asu.edu/academics/colleges-schools/havasu",
-      "https://www.asu.edu/research"
+      "https://www.asu.edu/research",
+      "https://www.asu.edu/about/privacy/security",
+      "https://www.asu.edu/academics/colleges-schools/tempe",
+      "https://www.asu.edu/about/terms-of-use",
+      "https://www.asu.edu/academics/colleges-schools/west-valley",
+      "https://www.asu.edu/lake-havasu-city",
+      "https://www.asu.edu/academics/centers-and-institutes/categories",
+      "https://www.asu.edu/about/leadershipold",
+      "https://www.asu.edu/academics/centers-and-institutes/search",
+      "https://www.asu.edu/about/trustees",
+      "https://www.asu.edu/academics/faculty-excellence/highly-prestigious-awards"
     ]
   },
   "like.video": {
-    "lastAt": 1758536900088,
+    "lastAt": 1758891024913,
     "urls": [
       "https://like.video/",
       "https://likee.video/",
@@ -36945,11 +36957,11 @@
     ]
   },
   "m.me": {
-    "lastAt": 1758536903255,
+    "lastAt": 1758891027884,
     "urls": []
   },
   "quantummetric.com": {
-    "lastAt": 1758536908188,
+    "lastAt": 1758891033908,
     "urls": [
       "https://quantummetric.com/",
       "https://www.quantummetric.com/partners/monetate",
@@ -36974,21 +36986,28 @@
       "https://www.quantummetric.com/industries/telecom",
       "https://www.quantummetric.com/glossary/exit-rate",
       "https://www.quantummetric.com/blog/2025-cpd-signal-awards-finalists",
-      "https://www.quantummetric.com/empathy-by-design/fsi-executive"
+      "https://www.quantummetric.com/empathy-by-design/fsi-executive",
+      "https://www.quantummetric.com/blog/ai-in-healthcare-balancing-innovation-with-the-human-touch",
+      "https://www.quantummetric.com/glossary/user-behavior-analytics",
+      "https://www.quantummetric.com/partners/integration-looker",
+      "https://www.quantummetric.com/customers/case-study/vista",
+      "https://www.quantummetric.com/blog/heatmaps-to-improve-website-usability-and-design",
+      "https://www.quantummetric.com/demo-center/product-tour-library/product-tour-for-airlines",
+      "https://www.quantummetric.com/glossary/ux-analytics"
     ]
   },
   "kakao.com": {
-    "lastAt": 1758536910602,
+    "lastAt": 1758891036008,
     "urls": [
       "https://kakao.com/"
     ]
   },
   "mitre.org": {
-    "lastAt": 1758536916039,
+    "lastAt": 1758891041184,
     "urls": []
   },
   "rollingstone.com": {
-    "lastAt": 1758536922728,
+    "lastAt": 1758891047895,
     "urls": [
       "https://www.rollingstone.com/politics/politics-news/giuliani-injured-hospitalized-car-crash-new-hampshire-1235419511/",
       "https://www.rollingstone.com/politics/politics-news/trump-admin-judge-blocks-guatemalan-children-deportation-1235419519/",
@@ -37019,11 +37038,21 @@
       "https://www.rollingstone.com/music/music-news/zara-larsson-announces-2026-midnight-sun-tour-1235419178/",
       "https://www.rollingstone.com/music/music-news/fugees-pras-michel-colon-cancer-surgery-1235419824/",
       "https://www.rollingstone.com/culture/culture-news/jane-krakowski-oh-mary-broadway-1235419872/",
-      "https://www.rollingstone.com/music/music-news/sombr-hit-back-to-friends-live-mtv-global-push-artist-1235419880/"
+      "https://www.rollingstone.com/music/music-news/sombr-hit-back-to-friends-live-mtv-global-push-artist-1235419880/",
+      "https://www.rollingstone.com/tv-movies/tv-movie-news/gerard-depardieu-trial-charlotte-arnould-rape-allegations-1235419875/",
+      "https://www.rollingstone.com/culture/culture-features/age-verification-legislation-united-states-online-safety-1235419895/",
+      "https://www.rollingstone.com/music/music-news/green-day-perform-haushinka-first-time-since-1997-1235419959/",
+      "https://www.rollingstone.com/politics/politics-news/trump-judge-illegal-military-police-force-los-angeles-1235419900/",
+      "https://www.rollingstone.com/music/music-features/x-cetra-stardust-album-kids-story-1235418348/",
+      "https://www.rollingstone.com/music/music-features/wednesday-bleeds-karly-hartzman-mj-lenderman-1235418897/",
+      "https://www.rollingstone.com/music/music-features/inside-francis-ford-coppolas-megalopolis-megadoc-trailer-1235419994/",
+      "https://www.rollingstone.com/music/music-news/jonas-brothers-kelsea-ballerini-perform-fly-with-me-1235420089/",
+      "https://www.rollingstone.com/music/music-news/why-taylor-swift-headlining-2026-super-bowl-makes-sense-1235420064/",
+      "https://www.rollingstone.com/music/music-features/drake-bobbi-althoff-interview-1235419941/"
     ]
   },
   "entrepreneur.com": {
-    "lastAt": 1758536928926,
+    "lastAt": 1758891060549,
     "urls": [
       "https://www.entrepreneur.com/money-finance/learn-pro-stock-trading-strategies-with-this-30/496963",
       "https://www.entrepreneur.com/science-technology/how-i-went-from-side-hustle-to-7-figures-in-12-months-using/497090",
@@ -37054,25 +37083,35 @@
       "https://www.entrepreneur.com/en-gb/leadership/can-tradition-survive-expansion/497332",
       "https://www.entrepreneur.com/en-ae/growth-strategies/sol-properties-unveils-sol-luxe-a-aed22-billion-landmark/497383",
       "https://www.entrepreneur.com/en-gb/entrepreneurs/covering-the-risk-fuelling-the-rise/497328",
-      "https://www.entrepreneur.com/en-ae/finance/sanddunes-episode-3-henri-arslanian-on-shaping-the-worlds/497010"
+      "https://www.entrepreneur.com/en-ae/finance/sanddunes-episode-3-henri-arslanian-on-shaping-the-worlds/497010",
+      "https://www.entrepreneur.com/franchises/franchising-insight-questions-when-buying-a-franchise/70484",
+      "https://www.entrepreneur.com/money-finance/taxes-money-why-not-e-file-your-tax-return-this-year/82920",
+      "https://www.entrepreneur.com/business-news/marketing-market-research-what-lies-beneath/77152",
+      "https://www.entrepreneur.com/business-news/canine-calling/160108",
+      "https://www.entrepreneur.com/business-news/the-big-question/159838",
+      "https://www.entrepreneur.com/leadership/government-help-for-women-entrepreneurs/159056",
+      "https://www.entrepreneur.com/growing-a-business/4-easy-ways-to-get-advertisers-on-your-site/159412",
+      "https://www.entrepreneur.com/business-news/hire-my-mom-entrepreneurcom/183688",
+      "https://www.entrepreneur.com/science-technology/biggest-it-challenges-for-entrepreneurs/172858",
+      "https://www.entrepreneur.com/leadership/healthy-travels-entrepreneurcom/186142"
     ]
   },
   "queniucf.com": {
-    "lastAt": 1758536933508,
+    "lastAt": 1758891064984,
     "urls": []
   },
   "iiko.it": {
-    "lastAt": 1758536939086,
+    "lastAt": 1758891071031,
     "urls": []
   },
   "crunchyroll.com": {
-    "lastAt": 1758536952144,
+    "lastAt": 1758891083381,
     "urls": [
       "https://crunchyroll.com/"
     ]
   },
   "amocrm.ru": {
-    "lastAt": 1758536961201,
+    "lastAt": 1758891093901,
     "urls": [
       "https://amocrm.ru/",
       "http://www.amocrm.ru/tour/",
@@ -37100,29 +37139,38 @@
       "http://www.amocrm.ru/blog/24/",
       "http://www.amocrm.ru/blog/24/7759310/",
       "http://www.amocrm.ru/blog/24/7752934/",
-      "http://www.amocrm.ru/blog/24/7732176/"
+      "http://www.amocrm.ru/blog/24/7732176/",
+      "http://www.amocrm.ru/blog/30/",
+      "http://www.amocrm.ru/blog/22/",
+      "http://www.amocrm.ru/blog/30/7547272/",
+      "http://www.amocrm.ru/blog/22/7730872/",
+      "http://www.amocrm.ru/blog/28/7549866/",
+      "http://www.amocrm.ru/blog/28/",
+      "http://www.amocrm.ru/blog/24/7544946/",
+      "http://www.amocrm.ru/blog/24/7516350/",
+      "http://www.amocrm.ru/blog/26/7536276/"
     ]
   },
   "otm-r.com": {
-    "lastAt": 1758536967891,
+    "lastAt": 1758891099972,
     "urls": []
   },
   "onenote.net": {
-    "lastAt": 1758536971987,
+    "lastAt": 1758891103669,
     "urls": []
   },
   "unicef.org": {
-    "lastAt": 1758536973318,
+    "lastAt": 1758891105255,
     "urls": [
       "https://unicef.org/"
     ]
   },
   "orderbox-dns.com": {
-    "lastAt": 1758536976262,
+    "lastAt": 1758891108377,
     "urls": []
   },
   "fullstory.com": {
-    "lastAt": 1758536998746,
+    "lastAt": 1758891122323,
     "urls": [
       "https://www.fullstory.com/blog/breaking-assumptions-and-building-better-products-with-angela-sze/",
       "https://www.fullstory.com/blog/dbt-labeling-nested-json-for-ml/",
@@ -37153,21 +37201,31 @@
       "https://www.fullstory.com/blog/product-analytics-tools/",
       "https://www.fullstory.com/blog/fullstory-vs-mixpanel/",
       "https://www.fullstory.com/blog/mobile-app-optimization-tips/",
-      "https://www.fullstory.com/blog/product-ideas-into-roadmap/"
+      "https://www.fullstory.com/blog/product-ideas-into-roadmap/",
+      "https://www.fullstory.com/blog/optimizing-employee-workflows-how-fullstory-workforce-drives-ai-adoption/",
+      "https://www.fullstory.com/blog/rethinking-the-digital-employee-experience-with-the-team-behind-fullstory/",
+      "https://www.fullstory.com/blog/improving-the-employee-experience-with-workforce/",
+      "https://www.fullstory.com/blog/digital-employee-experience/",
+      "https://www.fullstory.com/blog/responsible-online-gambling-identify-trends-ensure-compliance-and-protect/",
+      "https://www.fullstory.com/blog/prevent-online-gambling-fraud/",
+      "https://www.fullstory.com/blog/feature-engineering-pipeline-with-polars/",
+      "https://www.fullstory.com/blog/rethinking-data-timeliness-the-shift-from-real-time-to-just-in-time/",
+      "https://www.fullstory.com/blog/pinch-to-zoom/",
+      "https://www.fullstory.com/blog/ios-26-ui-and-how-to-prepare/"
     ]
   },
   "hoyoverse.com": {
-    "lastAt": 1758537001973,
+    "lastAt": 1758891125579,
     "urls": [
       "https://hoyoverse.com/"
     ]
   },
   "t-s1-msedge.net": {
-    "lastAt": 1758537004849,
+    "lastAt": 1758891128593,
     "urls": []
   },
   "discordapp.net": {
-    "lastAt": 1758537008076,
+    "lastAt": 1758891131652,
     "urls": []
   },
   "rosminzdrav.ru": {
