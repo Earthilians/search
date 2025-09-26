@@ -230627,5 +230627,558 @@
     "title": "Campus Safety Status",
     "description": "Find current information about Purdue Alerts that are issued by the office of Environmental Health a",
     "text": "Timely Warning messages and the Annual Security Reports are part of Purdue University’s commitment t"
+  },
+  {
+    "id": "7c60f5a8474cff893c5f8f66587eab9ffdd69d00",
+    "url": "https://www.revenuecat.com/jp/integrations/branch/",
+    "title": "Branchとアプリ内購入データを統合する – RevenueCat",
+    "description": "iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でBranchに同期する。",
+    "text": "RevenueCatの事前構築済みの統合機能を使用すると、iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でBranchに同期"
+  },
+  {
+    "id": "900741dcc23d2a763bfdb28a2cc4f74f57928acb",
+    "url": "https://www.revenuecat.com/jp/integrations/discord/",
+    "title": "Discordチャンネルにアプリ内購入イベントを送信する – RevenueCat",
+    "description": "RevenueCatはイベントが発生するたびにDiscordチャンネルにメッセージを送信し、チームにアプリビジネスのリアルタイムの状況を把握できるようにします。",
+    "text": "RevenueCatは、iOSまたはAndroidアプリでアプリ内購入イベントが発生するたびに、Discordチャンネルにメッセージを送信することができます。\n新しいサブスクリプションが開始されるたび"
+  },
+  {
+    "id": "ff33909a2f970556b31cebd8f7f83400c21c820f",
+    "url": "https://www.revenuecat.com/feature/customer-center/",
+    "title": "RevenueCat Customer Center",
+    "description": "Automate in-app subscription support and reduce churn with a customizable user interface.",
+    "text": "Build a customizable user interface in seconds to automate in-app subscription support and show cust"
+  },
+  {
+    "id": "f55d31f47839890a32418a44a7b3ba60e7c74337",
+    "url": "https://www.revenuecat.com/jp/integrations/appsflyer/",
+    "title": "AppsFlyerにアプリ内購入イベントを送信する – RevenueCat",
+    "description": "iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でAppsFlyerに同期する。",
+    "text": "当社の事前構築済みの統合を使用すると、iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でAppsFlyerに同期できます\nAp"
+  },
+  {
+    "id": "c7115136f30bfd568d38a3092d832030fe9e64f8",
+    "url": "https://www.revenuecat.com/jp/integrations/singular/",
+    "title": "Singular アプリ内購入および収益の統合 – RevenueCat",
+    "description": "iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でSingularに同期する。",
+    "text": "RevenueCatの事前構築済みの統合を使用すると、iOSおよびAndroidからトライアル開始、サブスクリプション、キャンセルなどのアプリ内サブスクリプションイベントを数分でSingularに同期"
+  },
+  {
+    "id": "b74083d1f7e5500a735bb1547eb9d5bf9669566e",
+    "url": "https://www.revenuecat.com/billing/",
+    "title": "RevenueCat Web Billing",
+    "description": "Web purchases designed to work seamlessly with your mobile app.",
+    "text": "Gain control over your purchase journey and profits with web purchases that seamlessly connect to yo"
+  },
+  {
+    "id": "379f8cbae0bc6741cd1fcbf950619f33c7f12ffe",
+    "url": "https://www.revenuecat.com/jp/integrations/mixpanel/",
+    "title": "アプリ内購入イベントをMixpanelに送信する – RevenueCat",
+    "description": "RevenueCatのアプリ内サブスクリプションイベントをMixpanelと統合しましょう。Mixpanelに正確で最新のサブスクリプションデータを取り込むことで、プロダクト分析を強化する準備が整いま",
+    "text": "iOSおよびAndroidのアプリ内購入およびサブスクリプションイベントでプロダクト分析を強化する。\nインタラクティブなレポートを使用して、ユーザーがいつコンバージョンするのか、そしてその理由を理解す"
+  },
+  {
+    "id": "b3c7cfa6b9fa4554d53ebf3003aa72d5f152fc78",
+    "url": "https://www.revenuecat.com/jp/firebase/",
+    "title": "Firebaseを使ったアプリ内購入 – RevenueCat",
+    "description": "RevenueCatの拡張機能を利用すると、Firebaseユーザーはアプリ内購入の実装、プレミアムコンテンツへのアクセス制御、購入データの分析を簡単に行うことができます。",
+    "text": "RevenueCatのFirebase拡張機能を使用すると、開発者は簡単にアプリを収益化し、アプリ内購入イベントをFirestoreやGoogle Analyticsに送信することができます。\nRev"
+  },
+  {
+    "id": "3d5e907c859ae45cef97f93e959a95819140cbdd",
+    "url": "https://www.revenuecat.com/jp/integrations/amplitude/",
+    "title": "Amplitudeでアプリ内購入イベントをトラッキングする – RevenueCat",
+    "description": "Amplitudeのプロダクト分析におけるアプリ内購入イベントを使用して、顧客の行動パターンを見つけ、マーケティング戦略に活用しましょう。",
+    "text": "AmplitudeでiOSおよびAndroidのアプリ内購入イベントを使用し、顧客の行動パターンを見つけてマーケティング戦略に役立てましょう。\nコホートのライフサイクル全体を追跡し、全体的な傾向を把握"
+  },
+  {
+    "id": "588bb4aaa227b4c72eb19ae40380f9ae1c06c829",
+    "url": "https://www.revenuecat.com/jp/integrations/webhooks/",
+    "title": "アプリ内購入Webhooks – RevenueCat",
+    "description": "RevenueCatは、アプリ内でイベントが発生した際にいつでも通知を送信し、サブスクライバーのステータス変化を監視することができます。",
+    "text": "RevenueCatは、アプリ内でイベントが発生した際にいつでも通知を送信し、サブスクライバーのステータス変化を監視することができます。\n解約したユーザーを検出し、オファーや割引を提供するトリガーを設"
+  },
+  {
+    "id": "f984db2539e6718d474f4472d46577627c5b8cb6",
+    "url": "https://www.mediavine.com/internal-links-pagerank-and-simple-seo-you-can-control/",
+    "title": "Internal Links: PageRank and Simple SEO You Can Control - Mediavine",
+    "description": "What are internal links on your website? Learn how to leverage this important tool for your website'",
+    "text": "Welcome to another installment of the Mediavine SEO series, in which we break down the best practice"
+  },
+  {
+    "id": "9861f88c83982a027563ce13aa3982bf98bc218b",
+    "url": "https://www.mediavine.com/external-links/",
+    "title": "External Links: How Outbound Links HELP Your SEO, Directly and Indirectly - Mediavine",
+    "description": "External links are outbound to other sites, and they can have as much impact on your site's SEO and ",
+    "text": "In today’s edition of the Mediavine SEO series, we’re going to delve into the role of the external l"
+  },
+  {
+    "id": "7369b5c1e2a5e315b71a2fa6de4d958b073bad8e",
+    "url": "https://www.mediavine.com/cornerstone-content/",
+    "title": "Cornerstone Content: The Key(stone) to Your Content Strategy - Mediavine",
+    "description": "Cornerstone content is the anchor of a successful keyword and link structure strategy. Learn more ab",
+    "text": "The term “cornerstone content” is frequently used when discussing search engine optimization methods"
+  },
+  {
+    "id": "b18d8b037838102d47baaf1bb47289b1f4970a48",
+    "url": "https://www.mediavine.com/affiliate-marketing-that-sells/",
+    "title": "How To Write Affiliate Marketing Content That SELLS - Mediavine",
+    "description": "Affiliate marketing is an excellent way for bloggers to passively earn and diversify their revenue s",
+    "text": "This is a guest post brought to you by the folks at HumanProofDesigns.\nAffiliate marketing.\nIf I wer"
+  },
+  {
+    "id": "891144e6f7c517e0c98319ca2506223841edd89d",
+    "url": "https://www.mediavine.com/pagerank-why-links-are-so-important/",
+    "title": "PageRank: Why Links Are So Important - Mediavine",
+    "description": "PageRank is the original Google Search algorithm, still relevant today, that uses links to determine",
+    "text": "PageRank is the original Google Search algorithm, written by Google co-founders Larry Page and Serge"
+  },
+  {
+    "id": "9e4f542039152e4bd5597fdc380e69424e718a1d",
+    "url": "https://www.mediavine.com/long-tail-keywords/",
+    "title": "Long Tail Keywords: A Long-Game Strategy For SEO Growth - Mediavine",
+    "description": "Long tail keywords are the longer SEO keywords and keyphrases to target as you grow your website. Le",
+    "text": "Previously in our SEO series, we talked about what a keyword is, what it isn’t and how to approach t"
+  },
+  {
+    "id": "216385ab45ab95abcaa0a6cc6d4647d07fee53d3",
+    "url": "https://www.mediavine.com/jumprope-jake-poses-interview/",
+    "title": "Jumprope Videos: Interview with Founder Jake Poses - Mediavine",
+    "description": "Thousands of bloggers are using Jumprope video because it’s saving them time, helping them grow a bi",
+    "text": "This is a sponsored conversation with Jumprope.\nOne of the things we love doing here at Mediavine is"
+  },
+  {
+    "id": "cfc98576cd7233ad89acae14c18bd02cc229f6dd",
+    "url": "https://www.mediavine.com/5-ways-to-advocate-for-inclusivity-within-the-blogging-industry/",
+    "title": "5 Ways To Advocate For Inclusivity Within The Blogging Industry - Mediavine",
+    "description": "Mediavine has made a complete commitment to structural change for combating racism. Learn 5 ways to ",
+    "text": "There has been so much happening in the world in 2020, between a global pandemic and incomprehensibl"
+  },
+  {
+    "id": "a9d8dff0be80d048f74bd82fadad397d355bb789",
+    "url": "https://www.mediavine.com/what-is-programmatic-advertising/",
+    "title": "What is Programmatic Advertising? - Mediavine",
+    "description": "At Mediavine, we call ourselves a programmatic-first network. Learn about Programmatic advertising a",
+    "text": "At Mediavine, we call ourselves a programmatic-first network. A lot of people ask us what that means"
+  },
+  {
+    "id": "3fb7c7a9938f1bf84eb6ebaafff02a88977667e6",
+    "url": "https://www.mediavine.com/mediavine-amp-ads-theyre-officially-coming/",
+    "title": "Mediavine AMP Ads: They're Officially Coming! - Mediavine",
+    "description": "Mediavine is announcing that we are now an official AMP ad network and that we'll be working with ou",
+    "text": "Mediavine is proud to announce that we are now an official AMP ad network and that we’ll be working "
+  },
+  {
+    "id": "517eb8bfa443790c912a420f101ee82d99a9986d",
+    "url": "https://www.airship.com/blog/dec-london-mgw-observations-and-2018-predictions-and-more-from-our-speakers/",
+    "title": "2017’s Best Observations, 2018 Predictions and More From Our Final Mobile Growth Workshop in London ",
+    "description": "",
+    "text": "Sarah MacDonald\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "3617d61a9126fb5732832353518af21c265c1a9f",
+    "url": "https://www.airship.com/blog/addressing-and-winning-back-dormant-app-users/",
+    "title": "Addressing — and Winning Back — Dormant App Users | Airship",
+    "description": "",
+    "text": "Justin Dunham\nConnect with our team of experts to discuss your conversion and loyalty goals, and how"
+  },
+  {
+    "id": "edfc773da0c0d4be997505a842f8c20c419b8886",
+    "url": "https://www.airship.com/blog/the-countdown-is-on-for-mobile-world-congress-are-you-as-excited-as-we-are/",
+    "title": "The Countdown is On for Mobile World Congress – Are You As Excited As We Are? | Airship",
+    "description": "",
+    "text": "Sarah MacDonald\nConnect with our team of experts to discuss your conversion and loyalty goals, and h"
+  },
+  {
+    "id": "3c47981a30c01b7bef6c03003e7376370e362d4f",
+    "url": "https://www.airship.com/blog/facebooks-broad-ambitions-include-a-new-engagement-platform-for-businesses/",
+    "title": "Facebook’s Broad Ambitions Include a New Engagement Platform for Businesses | Airship",
+    "description": "",
+    "text": "Michael Richardson\nConnect with our team of experts to discuss your conversion and loyalty goals, an"
+  },
+  {
+    "id": "7d66d5f515a90381bfe36d0b34a4a06699dcdff0",
+    "url": "https://www.airship.com/blog/upcoming-periscope-the-right-user-the-right-place-the-right-time/",
+    "title": "Upcoming Periscope: The Right User, the Right Place, the Right Time | Airship",
+    "description": "",
+    "text": "Connect with our team of experts to discuss your conversion and loyalty goals, and how we can help y"
+  },
+  {
+    "id": "d11a5a83419627587839fb324c3983b55d77b606",
+    "url": "https://www.airship.com/blog/marketing-orchestration-17-questions-every-digital-marketer-should-ask/",
+    "title": "Marketing Orchestration: 17 Questions Every Digital Marketer Should Ask | Airship",
+    "description": "",
+    "text": "Jessica Poundstone\nConnect with our team of experts to discuss your conversion and loyalty goals, an"
+  },
+  {
+    "id": "0fcbd02dd826486e552cfd1ff1e584e022e1ecaa",
+    "url": "https://www.airship.com/blog/devices-and-timestamps-seriously-though-wtf/",
+    "title": "Devices and Timestamps: Seriously Though, WTF? | Airship",
+    "description": "",
+    "text": "Todd Johnson\nConnect with our team of experts to discuss your conversion and loyalty goals, and how "
+  },
+  {
+    "id": "e63fc44dce6791c79eb72bd5fd135585497f6f25",
+    "url": "https://www.airship.com/blog/mobile-world-congress-2018/",
+    "title": "See You at Mobile World Congress | Airship",
+    "description": "",
+    "text": "Jonathan Rueda\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "00523b2fbf556a8eb4f4bcb6c7dcd6360076c3ae",
+    "url": "https://www.airship.com/blog/join-us-in-austin-texas-during-sxsw-interactive-2018/",
+    "title": "Join Us in Austin, Texas During SXSW Interactive | Airship",
+    "description": "",
+    "text": "Alyssa Meritt\nConnect with our team of experts to discuss your conversion and loyalty goals, and how"
+  },
+  {
+    "id": "5d8b9f2ac15e0e866c4e812de8b7081d5d62d060",
+    "url": "https://www.airship.com/blog/mparticle-post7-lessons-marketers-can-learn-from-game-of-thrones/",
+    "title": "7 Lessons Marketers Can Learn From Game of Thrones | Airship",
+    "description": "",
+    "text": "David Spitz\nConnect with our team of experts to discuss your conversion and loyalty goals, and how w"
+  },
+  {
+    "id": "015e2229687cc81623978a29e76e308db2856f56",
+    "url": "https://www.insales.ru/page/vacancy",
+    "title": "Вакансии в компании inSales",
+    "description": "Вакансии в компании inSales. Присылайте ваши резюме на job@insales.ru",
+    "text": "Cпециалист технической поддержки\nХотите присоединиться к нашей команде? Присылайте ваше резюме на jo"
+  },
+  {
+    "id": "ce38a561efa2671a4ef1ce54ebad4409dd19054e",
+    "url": "https://www.insales.ru/page/rko-smm-100",
+    "title": "Создайте интернет-магазин бесплатно и продавайте онлайн через inSales",
+    "description": "inSales — единый инструмент для всех каналов интернет-продаж: создайте интернет-магазин, продавайте ",
+    "text": "Самостоятельно создайте интернет-магазин без программистов и дизайнеров\nИспользуйте актуальные данны"
+  },
+  {
+    "id": "1f4ebfb7999ef6ce6431e3c151d57191eea77039",
+    "url": "https://www.insales.ru/page/rko-smm-50",
+    "title": "Создайте интернет-магазин бесплатно и продавайте онлайн через inSales",
+    "description": "inSales — единый инструмент для всех каналов интернет-продаж: создайте интернет-магазин, продавайте ",
+    "text": "Самостоятельно создайте интернет-магазин без программистов и дизайнеров\nИспользуйте актуальные данны"
+  },
+  {
+    "id": "1eef3f3971b0a24b3a8e628b9a6c612784b0d486",
+    "url": "https://www.insales.ru/page/merch-store",
+    "title": "Конструктор интернет-магазина. Создать продающий сайт на платформе inSales",
+    "description": "Создание интернет-магазина без навыков программирования. Онлайн-конструктор с шаблонами и виджетами,",
+    "text": "Выберете шаблон дизайна и получите готовый сайт за 15 минут \n      без помощи программистов, дизайне"
+  },
+  {
+    "id": "d63f7771419e93397d54a09bcd8763d43aefe518",
+    "url": "https://www.insales.ru/page/offer-multilinksold",
+    "title": "Мультиссылка от inSales",
+    "description": "Короткие ссылки для продвижения бизнеса в сети",
+    "text": "Расскажите о бренде, вставьте фото и видео товаров, измените дизайн. Подключите мессенджеры, обратну"
+  },
+  {
+    "id": "7113754c4d81ea516d39c030afb67c4909ce19e9",
+    "url": "https://www.insales.ru/page/partnership",
+    "title": "FAQ по Партнерской программе inSales",
+    "description": "FAQ по Партнерской программе inSales",
+    "text": "Реферальная программа, как это работает?\nРеферальная программа позволяет приводить клиентов посредст"
+  },
+  {
+    "id": "ea61cd1c5fedca0bdb1b3717bf0d225d1a5f8cba",
+    "url": "https://www.insales.ru/page/sberclass",
+    "title": "inSales lite для пользователей СберКласс",
+    "description": "inSales lite для пользователей СберКласс",
+    "text": "Идеально для быстрого старта онлайн-продаж:\nИдеально для быстрого старта онлайн-продаж:"
+  },
+  {
+    "id": "1d87c1caefc95f600b4be184387b18a965f89abc",
+    "url": "https://www.insales.ru/page/lite-offer",
+    "title": "Управление продажами на маркетплейсах от inSales: контроль остатков и цен, отчеты о продажах",
+    "description": "Управляйте продажами на маркетплейсах с помощью облачного сервиса от inSales: бухгалтерия, контроль ",
+    "text": "Товарная аналитика\nABC, XYZ и ₽₽₽- анализ\nОтчет об оборачиваемости товаров\nОтчет о прибылях и убытка"
+  },
+  {
+    "id": "e30866d169167a059eb78f18f245d9146bace589",
+    "url": "https://www.insales.ru/page/modules_templates",
+    "title": "Договор о сотрудничестве с целью привлечения клиентов путем размещения Модуля интеграции или Шаблона",
+    "description": "Договор о сотрудничестве с целью привлечения клиентов путем размещения Модуля интеграции или Шаблона",
+    "text": "Вступает в силу и действует с «15» июля 2025 г.\nМестом заключения настоящего Договора является г. Мо"
+  },
+  {
+    "id": "f0c70b7ba90394ccd21b029a3408462e9cc15fdf",
+    "url": "https://itch.io/updates/join-gbjam-5-on-itchio",
+    "title": "Join GBJAM 5 on itch.io - itch.io",
+    "description": "We’re proud to be helping host GBJAM 5. A 10 day game jam where you create a GameBoy themed game. Th",
+    "text": "We’re proud to be helping host GBJAM 5. A 10 day game jam where you create a GameBoy themed game. Th"
+  },
+  {
+    "id": "886a45fdc2daa5c89fd38e6de926d2eebbf63d62",
+    "url": "https://itch.io/updates/change-your-username-url",
+    "title": "Change your username & URL - itch.io",
+    "description": "This is the most common support email we get, so I think it's worth mentioning on the blog. If you n",
+    "text": "This is the most common support email we get, so I think it's worth mentioning on the blog. If you n"
+  },
+  {
+    "id": "be993bd749b5524b0674860bbc6ebd514837d9a0",
+    "url": "https://itch.io/updates/itchio-at-xoxo",
+    "title": "itch.io at XOXO - itch.io",
+    "description": "This weekend, itch.io is headed to beautiful Portland. We’re honored to have been invited to the XOX",
+    "text": "This weekend, itch.io is headed to beautiful Portland. We’re honored to have been invited to the XOX"
+  },
+  {
+    "id": "d2d0cdfb869bf08a7127282815b19ede5b134405",
+    "url": "https://itch.io/updates/jam-hosts-can-now-email-participants",
+    "title": "Jam hosts can now email participants - itch.io",
+    "description": "We recently enhanced itch.io’s emailing feature to give you finer control over who you contact when ",
+    "text": "We recently enhanced itch.io’s emailing feature to give you finer control over who you contact when "
+  },
+  {
+    "id": "a2582ecda6d509aff7d0b850d2324f4905c68f9c",
+    "url": "https://itch.io/updates/saved-credit-cards",
+    "title": "Saved Credit Cards - itch.io",
+    "description": "If you use a credit card to buy games on itch.io you may have noticed that you need to type it in ea",
+    "text": "If you use a credit card to buy games on itch.io you may have noticed that you need to type it in ea"
+  },
+  {
+    "id": "c47a44e8b8c6cfc5712f28fe709e55748de03f3b",
+    "url": "https://itch.io/updates/improved-buyer-emailing-kickstarterintegration",
+    "title": "Improved buyer emailing & Kickstarter integration - itch.io",
+    "description": "Hey all, it's been a while since we announced any updates but we've still been hard at work. Today w",
+    "text": "Hey all, it's been a while since we announced any updates but we've still been hard at work. Today w"
+  },
+  {
+    "id": "111021aeb1e2bfe43f31282cc8b88102bd91a2d4",
+    "url": "https://itch.io/updates/the-itchio-app-itch-v18-release",
+    "title": "The itch.io app, itch, v18 release - itch.io",
+    "description": "We’re proud to release the next big version of the itch.io app, itch . This is a major release, with",
+    "text": "We’re proud to release the next big version of the itch.io app, itch. This is a major release, with "
+  },
+  {
+    "id": "108924a2255778e0f11ae88066808c9ba3ff8df2",
+    "url": "https://itch.io/updates/itchio-e3",
+    "title": "itch.io @ E3 - itch.io",
+    "description": "UPDATE (6/13) - We’ve added another awesome developer to the roster- Ethan Redd ( kiddraddical.itch.",
+    "text": "UPDATE (6/13) - We’ve added another awesome developer to the roster- Ethan Redd (kiddraddical.itch.i"
+  },
+  {
+    "id": "e84a24ba5e9a02b09ed13c8c1c8e63fe898ed33c",
+    "url": "https://itch.io/updates/graphs-upgraded-with-more-details",
+    "title": "Graphs upgraded with more details - itch.io",
+    "description": "Graphs upgraded even more! You can hover over splits to highlight just that game Clicking on a chunk",
+    "text": "Graphs upgraded even more!\nDid you like this post? Tell us\nitch.io is an open marketplace for indepe"
+  },
+  {
+    "id": "cd8392e7ee65b5878b2db30ae3f80e781f0827d9",
+    "url": "https://itch.io/updates/itchio-week-day-5-part-2-interviews-with-adam-saltsman-joni-kittaka",
+    "title": "itch.io week day 5 part 2: interviews with Adam Saltsman & Joni Kittaka - itch.io",
+    "description": "Developer interviews Joni Kittaka is a game maker and artist whose work includes Secrets Agent, mink",
+    "text": "Joni Kittaka is a game maker and artist whose work includes Secrets Agent, minkomora, how do you Do "
+  },
+  {
+    "id": "aaab070bbd2ffb731a084d5f104266ca78635e77",
+    "url": "https://www.lazada.com.ph/products/casing-for-infinix-gt-20-pro-2024-5g-phone-case-leather-texture-magnetic-car-shockproof-cover-for-gt20-20-gt20pro-soft-back-cases-i4474336687.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c4a55036094fd642445923387154f21f2ebb60c7",
+    "url": "https://www.lazada.com.ph/products/57x30mm-thermal-paper-for-printer-paperang-p1-pt-210-i4458062511.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "eb484f0ddfaa2a9bd76c21b8504435baa492e7ca",
+    "url": "https://www.lazada.com.ph/products/ueiz64-door-cover-release-toyota-for-rav4-2019-2021-gas-cap-fuel-lid-spring-clip-1921rav-35040-caps-i4458068567.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "15d0b4fba92d04170a35226ae5664da4bc72cbf0",
+    "url": "https://www.lazada.com.ph/products/kleenex-breathe-easy-facial-tissue-with-eucalyptus-oil-travel-pack-i4459448461.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "932a28bdf0e807f079ae06dcc1d1a3daf38c3832",
+    "url": "https://www.lazada.com.ph/products/2-kanda-rimei-nail-clippers-small-size-manicure-toenail-pliers-cute-nail-scissors-single-pack-flat-mouth-nail-clippers-i4459617683.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "6a56e7dc70bdffdf0858efee5951fa18af9128bc",
+    "url": "https://www.lazada.com.ph/products/honda-genuine-rear-brake-panel-43100krfb40ze-for-supremo-i4458846568.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "14a40ac515f80bd86f87dfd8688ad097cf169730",
+    "url": "https://www.lazada.com.ph/products/10pcs-5pairs-original-5pcs-tta-1943-5pcs-ttc5200-c5200-a-1943-to-3pl-silicon-pnp-npn-high-power-amplifier-transistor-i4458129440.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3dc35244f4b78f2f0c24d542e0ae98947bf8945b",
+    "url": "https://www.lazada.com.ph/products/shadrach-ringsling-breathable-baby-carrier-suitable-from-newborn-to-toddler-made-from-100-cotton-suitable-for-breastfeeding-handwoven-in-ph-i4460566065.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "42d24762dc7e7b0ef85bc98cd5692d5f3f0940c0",
+    "url": "https://www.lazada.com.ph/products/cod-vans-gamusa-for-ladiesmens-size-36-45-888-i4460573636.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "00274c2697e7a74632f6dedbd7a062190f956d13",
+    "url": "https://www.lazada.com.ph/products/se-t421-2pcs-set-tie-rod-end-toyota-vios-2014-2023-555-brand-japan-i4460668191.html",
+    "title": "",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e75fc1091279874cf31e4202b1f851736a52e696",
+    "url": "https://www.gettyimages.ae/detail/video/the-conservatives-have-accused-the-government-of-trying-news-footage/001-02-09EC",
+    "title": "The Conservatives have accused the government of trying to fool the... Stock Footage Video - Getty I",
+    "description": "The Conservatives have accused the government of trying to fool the country into believing that join",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "9205c283336832ee6c731d05914358c737f325dd",
+    "url": "https://www.gettyimages.ae/detail/video/germany-is-giving-up-the-strongest-currency-in-europe-the-news-footage/001-02-07EC",
+    "title": "Germany is giving up the strongest currency in Europe - the... Stock Footage Video - Getty Images",
+    "description": "Germany is giving up the strongest currency in Europe - the Deutschmark - to join the Euro.<br>Guid:",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "958589beb8901ab2919a18f989c8089eb2b0b070",
+    "url": "https://www.gettyimages.ae/detail/video/germany-is-giving-up-the-strongest-currency-in-europe-the-news-footage/001-02-08EC",
+    "title": "Germany is giving up the strongest currency in Europe - the... Stock Footage Video - Getty Images",
+    "description": "Germany is giving up the strongest currency in Europe - the Deutschmark - to join the Euro.<br>Guid:",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "449c7168f02601767c8d61d6cffcaec02ec39fd6",
+    "url": "https://www.gettyimages.ae/detail/video/the-conservatives-have-accused-the-government-of-trying-news-footage/001-02-10EC",
+    "title": "The Conservatives have accused the government of trying to fool the... Stock Footage Video - Getty I",
+    "description": "The Conservatives have accused the government of trying to fool the country into believing that join",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "a2a5a38979419f5d43d2b3514b5c59af70a11d76",
+    "url": "https://www.gettyimages.ae/detail/video/the-new-currency-appears-to-have-been-enthusiastically-news-footage/001-02-06EC",
+    "title": "The new currency appears to have been enthusiastically received in... Stock Footage Video - Getty Im",
+    "description": "The new currency appears to have been enthusiastically received in the Irish Republic - & it's meant",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "14baee8f41d5a4b02e3ecde4abb917304c7e6a17",
+    "url": "https://www.gettyimages.ae/detail/video/pakistan-says-india-is-continuing-its-build-up-of-troops-news-footage/001-02-11EC",
+    "title": "Pakistan says India is continuing its build up of troops along the... Stock Footage Video - Getty Im",
+    "description": "Pakistan says India is continuing its build up of troops along the border between the 2 countries. I",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "c606692f086be0248c732f9706b47b02f1fd8f8d",
+    "url": "https://www.gettyimages.ae/detail/video/the-new-year-festivities-continued-today-as-thirty-news-footage/001-02-12EC",
+    "title": "The New Year festivities continued today as thirty thousand... Stock Footage Video - Getty Images",
+    "description": "The New Year festivities continued today as thirty thousand spectators turned out to watch a big par",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "975c38119b50922615b41194181151f8c37b1bc0",
+    "url": "https://www.gettyimages.ae/detail/video/secret-cabinet-papers-released-today-under-the-30-year-news-footage/001-02-13EC",
+    "title": "Secret cabinet papers released today, under the 30-year rule, reveal... Stock Footage Video - Getty ",
+    "description": "Secret cabinet papers released today, under the 30-year rule, reveal that when internment was introd",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "304287e345b4822c9b153df3f5ff9bbe82e27a03",
+    "url": "https://www.gettyimages.ae/detail/video/leeds-united-have-got-the-chance-to-take-over-at-the-top-news-footage/001-02-14EC",
+    "title": "Leeds United have got the chance to take over at the top of the... Stock Footage Video - Getty Image",
+    "description": "Leeds United have got the chance to take over at the top of the Premiership tonight.<br>Guid: ANBM00",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "ae6aac55256a8ba7f48f306c3b66a531d131b8ca",
+    "url": "https://www.gettyimages.ae/detail/video/tanker-carrying-70-000-tonnes-of-kerosene-has-struck-the-news-footage/001-03-01EC",
+    "title": "A tanker carrying 70,000 tonnes of kerosene has struck the submerged... Stock Footage Video - Getty ",
+    "description": "A tanker carrying 70,000 tonnes of kerosene has struck the submerged car freighter the Tricolor, off",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "8a4fee4d3a17469ae16b7d66d8a37e3b2b07f984",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bare_repo.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "5d12cfa82d7f625bbce3bd3d693c262b0782825a",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bashda_git.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "465424096a5baa94bb1c689a39a8c887e7a39ef5",
+    "url": "https://git-scm.com/book/az/v2/ch00/_basic_merging.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4cc8ef2841d63e774c221a9a707f988208f8496b",
+    "url": "https://git-scm.com/book/az/v2/ch00/_basic_merge_conflicts.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "7b0e2dda9421fc8351e3fca553631d8b07360090",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bazaar_branchlar%C4%B1.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8feb41fea60cbb4ea515d8385c46a214464f6c43",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bazaar.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4817584208e4d6b540ecaef3ea610e6b42dfca03",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Flang%C4%B1c.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8fbb634b2ebff7afa70bef3ac0018baad49f905e",
+    "url": "https://git-scm.com/book/az/v2/ch00/_basic_branching.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a764af0abb2d9797a73f8e6bb831a47ece7ed3ac",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Flan%C4%9F%C4%B1c_git_tf.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "71532a9cf38ee027feba3aa110892443dc0c6fa9",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Flan%C4%9F%C4%B1c_git_tfs.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
   }
 ]
