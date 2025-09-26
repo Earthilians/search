@@ -38565,7 +38565,7 @@
     "urls": []
   },
   "vkplay.ru": {
-    "lastAt": 1758551045319,
+    "lastAt": 1758904115423,
     "urls": [
       "https://vkplay.ru/",
       "https://vkplay.ru/play/game/solar_struggle_survival/",
@@ -38596,31 +38596,41 @@
       "https://vkplay.ru/play/game/divinity_original_sin_2/",
       "https://vkplay.ru/play/game/fortress_of_dr_radiaki/",
       "https://vkplay.ru/play/game/garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum/",
-      "https://vkplay.ru/play/game/mirror_mysteries/"
+      "https://vkplay.ru/play/game/mirror_mysteries/",
+      "https://vkplay.ru/play/game/karpov_schach_2000/",
+      "https://vkplay.ru/play/game/laddersandsnakes/",
+      "https://vkplay.ru/play/game/high_school_life/",
+      "https://vkplay.ru/play/game/carx_drift_racing_online_new_year_sticker_pack/",
+      "https://vkplay.ru/play/game/king_of_fighters/",
+      "https://vkplay.ru/play/game/dick_sucks_terror_in_titfield/",
+      "https://vkplay.ru/play/game/nav/",
+      "https://vkplay.ru/play/game/northflower-the-last-watch/",
+      "https://vkplay.ru/play/game/starcross/",
+      "https://vkplay.ru/play/game/after_the_end/"
     ]
   },
   "redditmedia.com": {
-    "lastAt": 1758551048415,
+    "lastAt": 1758904119051,
     "urls": []
   },
   "icndns.net": {
-    "lastAt": 1758551107234,
+    "lastAt": 1758904177868,
     "urls": []
   },
   "usertrust.com": {
-    "lastAt": 1758551166047,
+    "lastAt": 1758904236678,
     "urls": []
   },
   "ihg.com": {
-    "lastAt": 1758551169141,
+    "lastAt": 1758904241098,
     "urls": []
   },
   "akaquill.net": {
-    "lastAt": 1758551178754,
+    "lastAt": 1758904253535,
     "urls": []
   },
   "adp.com": {
-    "lastAt": 1758551182035,
+    "lastAt": 1758904257368,
     "urls": [
       "https://www.adp.com/about-adp/awards-and-recognition.aspx",
       "https://www.adp.com/about-adp.aspx",
@@ -38648,11 +38658,20 @@
       "https://www.adp.com/about-adp/data-security/alerts/moveit-transfer-vulnerability-06062023.aspx",
       "https://www.adp.com/about-adp/data-security/best-practices.aspx",
       "https://www.adp.com/about-adp/data-security/alerts/phishing-campaign-collections-adpinc-060525.aspx",
-      "https://www.adp.com/about-adp/data-security/best-practices/10-steps-to-a-stronger-password.aspx"
+      "https://www.adp.com/about-adp/data-security/best-practices/10-steps-to-a-stronger-password.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/fraudulent-check-claims.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/payroll-fraud.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/phishing.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/identity-theft.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/social-scams.aspx",
+      "https://www.adp.com/about-adp/data-security/best-practices/tax-and-w2-protection.aspx",
+      "https://www.adp.com/about-adp/data-security/client-resources.aspx",
+      "https://www.adp.com/about-adp/data-security/faqs.aspx",
+      "https://www.adp.com/about-adp/data-security/vulnerability-disclosure.aspx"
     ]
   },
   "clever.com": {
-    "lastAt": 1758551183136,
+    "lastAt": 1758904258893,
     "urls": [
       "https://clever.com/library",
       "https://clever.com/login",
@@ -38683,11 +38702,21 @@
       "https://clever.com/appstore/whooos-reading",
       "https://clever.com/appstore/happynumbers",
       "https://clever.com/appstore/storyworld",
-      "https://clever.com/appstore/classhero"
+      "https://clever.com/appstore/classhero",
+      "https://clever.com/appstore/book-creator",
+      "https://clever.com/appstore/mozi",
+      "https://clever.com/appstore/classhook",
+      "https://clever.com/appstore/mathspace",
+      "https://clever.com/appstore/cleveridmenterprise",
+      "https://clever.com/appstore/usa-testprep",
+      "https://clever.com/appstore/pikmykid",
+      "https://clever.com/appstore/commonlit",
+      "https://clever.com/appstore/literably",
+      "https://clever.com/appstore/otus"
     ]
   },
   "freebsd.org": {
-    "lastAt": 1758551185216,
+    "lastAt": 1758904263984,
     "urls": [
       "https://www.freebsd.org/releases/5.0R/DP1/announce/",
       "https://freebsd.org/",
@@ -38718,15 +38747,24 @@
       "https://www.freebsd.org/releases/5.0R/DP2/installation-i386/",
       "https://www.freebsd.org/releases/5.0R/DP2/installation-ia64/",
       "https://www.freebsd.org/releases/5.0R/DP2/installation-pc98/",
-      "https://www.freebsd.org/releases/5.0R/DP2/installation-sparc64/"
+      "https://www.freebsd.org/releases/5.0R/DP2/installation-sparc64/",
+      "https://www.freebsd.org/releases/5.0R/DP2/installation/",
+      "https://www.freebsd.org/releases/5.0R/DP2/readme/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes-ia64/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes-i386/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes-alpha/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes-pc98/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes/",
+      "https://www.freebsd.org/releases/5.0R/DP2/relnotes-sparc64/",
+      "https://www.freebsd.org/status/report-2021-01-2021-03/cbsd/"
     ]
   },
   "zdassets.com": {
-    "lastAt": 1758551188467,
+    "lastAt": 1758904267036,
     "urls": []
   },
   "tvsquared.com": {
-    "lastAt": 1758551190542,
+    "lastAt": 1758904271872,
     "urls": [
       "https://www.innovid.com/about-us/climate-and-sustainability",
       "https://www.innovid.com/about-us/people-culture-and-equity",
@@ -38757,11 +38795,21 @@
       "https://www.innovid.com/new-innovid-reach-frequency",
       "https://www.innovid.com/resources/events/innovid-in-cannes-2025",
       "https://www.innovid.com/resources/events/ecc-2025",
-      "https://www.innovid.com/platform/social-ads-management"
+      "https://www.innovid.com/platform/social-ads-management",
+      "https://www.innovid.com/resources/blog/ad-frequency-on-ctv-is-frustrating",
+      "https://www.innovid.com/resources/blog/add-cpg-ctv-guide-to-cart",
+      "https://www.innovid.com/resources/blog/adtech-deck-vpaid-vs-vast",
+      "https://www.innovid.com/resources/blog/a-plea-to-eliminate-manual-tag-wrapping",
+      "https://www.innovid.com/resources/blog/a-year-of-marketing-from-the-living-room",
+      "https://www.innovid.com/resources/blog/advanced-creative-live-streamed-sports",
+      "https://www.innovid.com/resources/blog/adobe-animate-composer",
+      "https://www.innovid.com/resources/blog/adtech-deck-currency-measurement",
+      "https://www.innovid.com/resources/blog/adtech-empowers-industry-evolution-predictions-for-2023",
+      "https://www.innovid.com/resources/blog/advertisers-optimize-less-than-they-measure"
     ]
   },
   "bytedance.com": {
-    "lastAt": 1758551198843,
+    "lastAt": 1758904274230,
     "urls": [
       "https://www.bytedance.com/en/",
       "https://www.bytedance.com/en/news",
@@ -38770,21 +38818,21 @@
     ]
   },
   "googleapis.cn": {
-    "lastAt": 1758551203108,
+    "lastAt": 1758904278574,
     "urls": []
   },
   "inleed.net": {
-    "lastAt": 1758551204953,
+    "lastAt": 1758904284727,
     "urls": [
       "https://inleed.net/"
     ]
   },
   "slackb.com": {
-    "lastAt": 1758551207903,
+    "lastAt": 1758904287950,
     "urls": []
   },
   "verkada.com": {
-    "lastAt": 1758551213084,
+    "lastAt": 1758904294026,
     "urls": [
       "https://verkada.com/",
       "https://www.verkada.com/fr-ca/security-cameras/dome/cd53-e/",
@@ -38812,11 +38860,20 @@
       "https://www.verkada.com/fr-ca/pricing/",
       "https://www.verkada.com/fr-ca/customers/signify/",
       "https://www.verkada.com/fr-ca/docs/camera-dome-dexterieur-cd52-e/",
-      "https://www.verkada.com/fr-ca/command/"
+      "https://www.verkada.com/fr-ca/command/",
+      "https://www.verkada.com/fr-ca/docs/camera-dome-dinterieur-cd52/",
+      "https://www.verkada.com/fr-ca/customers/gails-bakery/",
+      "https://www.verkada.com/fr-ca/docs/multisensor-a-quatre-cameras-ch52-e/",
+      "https://www.verkada.com/fr-ca/docs/multisensor-a-2-cameras-cy53-e/",
+      "https://www.verkada.com/fr-ca/tags/access-control/",
+      "https://www.verkada.com/fr-ca/tags/connectivity/",
+      "https://www.verkada.com/fr-ca/tags/gateway/",
+      "https://www.verkada.com/fr-ca/blog/simonsvoss-integration/",
+      "https://www.verkada.com/fr-ca/blog/announcing-gw31e-wifi-gateway/"
     ]
   },
   "earthlink.net": {
-    "lastAt": 1758551215001,
+    "lastAt": 1758904296400,
     "urls": [
       "https://www.earthlink.net/blog/best-ways-save-digital-files/",
       "https://www.earthlink.net/blog/empty-nester-guide-to-internet/",
@@ -38847,17 +38904,27 @@
       "https://www.earthlink.net/blog/how-to-find-the-home-internet-plan-you-need-for-school/",
       "https://www.earthlink.net/blog/how-much-speed-for-online-gaming/",
       "https://www.earthlink.net/blog/how-to-choose-wireless-router/",
-      "https://www.earthlink.net/blog/internet-throttling-why-it-happens-and-how-to-fix-it/"
+      "https://www.earthlink.net/blog/internet-throttling-why-it-happens-and-how-to-fix-it/",
+      "https://www.earthlink.net/blog/bandwidth-vs-latency/",
+      "https://www.earthlink.net/blog/which-states-have-the-best-internet-speed/",
+      "https://www.earthlink.net/blog/do-internet-speed-tests-work/",
+      "https://www.earthlink.net/blog/what-is-fiber-internet/",
+      "https://www.earthlink.net/blog/how-to-break-up-with-your-isp-and-switch-internet-providers/",
+      "https://www.earthlink.net/blog/ranking-the-three-best-internet-options-for-rural-areas/",
+      "https://www.earthlink.net/blog/what-is-broadband-internet-high-speed-internet-explained/",
+      "https://www.earthlink.net/blog/what-is-a-mobile-hotspot/",
+      "https://www.earthlink.net/blog/should-i-upgrade-my-internet-11-signs-its-time/",
+      "https://www.earthlink.net/blog/top-cyber-security-tips-school/"
     ]
   },
   "lnkd.in": {
-    "lastAt": 1758551216084,
+    "lastAt": 1758904297768,
     "urls": [
       "https://lnkd.in/"
     ]
   },
   "automattic.com": {
-    "lastAt": 1758551217834,
+    "lastAt": 1758904299438,
     "urls": [
       "https://automattic.com/contact/",
       "https://automattic.com/press/",
@@ -38888,15 +38955,25 @@
       "https://automattic.com/diversity-and-inclusion/",
       "https://automattic.com/year-in-review-2016/",
       "https://automattic.com/sustainability-2018/",
-      "https://automattic.com/creed/wont-just-work/"
+      "https://automattic.com/creed/wont-just-work/",
+      "https://automattic.com/creed/status-quo/",
+      "https://automattic.com/library/",
+      "https://automattic.com/creed/never-stop-learning/",
+      "https://automattic.com/creed/impact-and-money/",
+      "https://automattic.com/creed/communication-is-oxygen/",
+      "https://automattic.com/creed/marathon-sprint/",
+      "https://automattic.com/creed/insurmountable/",
+      "https://automattic.com/creed/help-a-colleague/",
+      "https://automattic.com/library/four-agreements/",
+      "https://automattic.com/postels-law/"
     ]
   },
   "opera-api.com": {
-    "lastAt": 1758551276650,
+    "lastAt": 1758904358254,
     "urls": []
   },
   "guardian.co.uk": {
-    "lastAt": 1758551280568,
+    "lastAt": 1758904362679,
     "urls": [
       "https://www.theguardian.com/lifeandstyle/2025/sep/14/this-is-how-we-do-it-i-want-sex-four-or-five-times-a-day-but-im-learning-to-respect-her-libido",
       "https://www.theguardian.com/football/live/2025/sep/14/manchester-derby-buildup-wsl-news-and-a-championship-grudge-match-matchday-live",
@@ -38927,11 +39004,21 @@
       "https://www.theguardian.com/guardian-us-press-office/2025/sep/22/the-guardian-hires-executive-producer-jonathan-menjivar-to-lead-its-first-us-video-podcast",
       "https://www.theguardian.com/world/2025/sep/22/british-egyptian-activist-alaa-abd-el-fattah-to-be-freed-from-prison",
       "https://www.theguardian.com/commentisfree/2025/sep/22/judith-butler-is-being-targeted-by-the-us-government-we-must-stand-up",
-      "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures"
+      "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures",
+      "https://www.theguardian.com/us-news/live/2025/sep/26/james-comey-fbi-indictment-donald-trump-executive-orders-tariffs-us-politics-live",
+      "https://www.theguardian.com/commentisfree/2025/sep/26/keir-starmer-fightback-speech-reform-patriotic-renewal",
+      "https://www.theguardian.com/football/2025/sep/26/aston-villa-bologna-unai-emery-europa-league-football-daily",
+      "https://www.theguardian.com/sport/blog/2025/sep/26/zeus-olympios-soaring-to-new-heights-with-latest-newmarket-romp-talking-horses-horse-racing-tips",
+      "https://www.theguardian.com/politics/2025/sep/26/nigel-farages-deportation-plan-would-break-up-the-nhs",
+      "https://www.theguardian.com/sport/live/2025/sep/26/ryder-cup-2025-day-one-golf-europe-usa-bethpage-black-live",
+      "https://www.theguardian.com/food/2025/sep/26/just-desserts-for-a-brave-amusing-recreation-of-british-puddings",
+      "https://www.theguardian.com/artanddesign/2025/sep/26/potteries-brand-is-world-class-it-must-be-saved",
+      "https://www.theguardian.com/society/2025/sep/26/you-be-the-judge-jury-was-wrong-about-adhd",
+      "https://www.theguardian.com/politics/live/2025/sep/26/keir-starmer-digital-id-cards-immigration-borders-reform-uk-politics-live"
     ]
   },
   "douyin.com": {
-    "lastAt": 1758551287681,
+    "lastAt": 1758904369249,
     "urls": [
       "https://www.douyin.com/",
       "https://www.douyin.com/pay",
@@ -38948,11 +39035,11 @@
     ]
   },
   "amp-endpoint2.com": {
-    "lastAt": 1758551290795,
+    "lastAt": 1758904372513,
     "urls": []
   },
   "openssl.org": {
-    "lastAt": 1758551291358,
+    "lastAt": 1758904373216,
     "urls": [
       "https://openssl.org/",
       "https://openssl.org/faq/",
@@ -38962,7 +39049,7 @@
     ]
   },
   "rt.com": {
-    "lastAt": 1758551297747,
+    "lastAt": 1758904382803,
     "urls": [
       "https://www.rt.com/about-us/press-releases/rt-becomes-first-russian-tv-channel-emmy-news-nomination/",
       "https://www.rt.com/about-us/press-releases/rt-s-audience-tops-rivals-south-east-asia-s-business-tourism-centers-bangkok-taipei/",
@@ -38993,11 +39080,21 @@
       "https://www.rt.com/about-us/press-releases/rt-leads-al-jazeera-in-uks-barb-raitings/",
       "https://www.rt.com/about-us/press-releases/rts-occupy-wll-street-facebook-app-receives-excellence-recognition-from-promax/",
       "https://www.rt.com/about-us/press-releases/an-open-letter-to-the-guardian-on-the-nature-of-opinion-columns/",
-      "https://www.rt.com/about-us/press-releases/rt-premieres-aeroflot-global-advertising-campaign/"
+      "https://www.rt.com/about-us/press-releases/rt-premieres-aeroflot-global-advertising-campaign/",
+      "https://www.rt.com/about-us/press-releases/rts-occupy-wll-street-facebook-app-wins-promax-bda-2012-award/",
+      "https://www.rt.com/about-us/press-releases/forbes-names-rts-rusiya-al-yaum-to-top-3-online-tv-channels-in-arab-world/",
+      "https://www.rt.com/op-ed/authors/peter-lavelle/",
+      "https://www.rt.com/about-us/press-releases/rts-ows-coverage-brings-second-emmy-nomination/",
+      "https://www.rt.com/about-us/press-releases/max-keiser-host-of-rts-the-keiser-report-named-the-most-dangerous-person-in-finacial-media-by-huffington-post-blog/",
+      "https://www.rt.com/shows/in-context/",
+      "https://www.rt.com/shows/interview/",
+      "https://www.rt.com/shows/imho/",
+      "https://www.rt.com/about-us/press-releases/rt-watched-by-25-million-in-uk-in-3q2012-ahead-of-fox-and-al-jazeera/",
+      "https://www.rt.com/about-us/press-releases/rt-begins-broadcasting-in-hd-worldwide-from-new-state-of-the-art-studio/"
     ]
   },
   "mixcloud.com": {
-    "lastAt": 1758551311737,
+    "lastAt": 1758904396886,
     "urls": [
       "https://www.mixcloud.com/sketchy/",
       "https://www.mixcloud.com/mat/",
@@ -39028,11 +39125,21 @@
       "https://www.mixcloud.com/GigMaven/",
       "https://www.mixcloud.com/micromattic/",
       "https://www.mixcloud.com/spartacus/",
-      "https://www.mixcloud.com/Elite/"
+      "https://www.mixcloud.com/Elite/",
+      "https://www.mixcloud.com/Antoine1/",
+      "https://www.mixcloud.com/alex/",
+      "https://www.mixcloud.com/peepfunk/",
+      "https://www.mixcloud.com/Faze2/",
+      "https://www.mixcloud.com/stellarmusic/",
+      "https://www.mixcloud.com/universalvibes/",
+      "https://www.mixcloud.com/djaudio1/",
+      "https://www.mixcloud.com/gpavli/",
+      "https://www.mixcloud.com/trevster/",
+      "https://www.mixcloud.com/DJ_Cutlass_Supreme/"
     ]
   },
   "gameanalytics.com": {
-    "lastAt": 1758551313779,
+    "lastAt": 1758904400567,
     "urls": [
       "https://www.gameanalytics.com/cn",
       "https://www.gameanalytics.com/blog",
@@ -39063,15 +39170,25 @@
       "https://www.gameanalytics.com/cn/company/careers",
       "https://www.gameanalytics.com/company/careers",
       "https://www.gameanalytics.com/cn/data-management",
-      "https://www.gameanalytics.com/cn/search"
+      "https://www.gameanalytics.com/cn/search",
+      "https://www.gameanalytics.com/data-management",
+      "https://www.gameanalytics.com/cn/analytics/live-ops",
+      "https://www.gameanalytics.com/analytics/live-ops",
+      "https://www.gameanalytics.com/analytics/benchmarks",
+      "https://www.gameanalytics.com/cn/analytics/benchmarks",
+      "https://www.gameanalytics.com/cn/analytics/user-analysis",
+      "https://www.gameanalytics.com/cn/data-management/data-warehouse",
+      "https://www.gameanalytics.com/data-management/data-warehouse",
+      "https://www.gameanalytics.com/analytics/user-analysis",
+      "https://www.gameanalytics.com/cn/data-management/data-export"
     ]
   },
   "samsungdm.com": {
-    "lastAt": 1758551318256,
+    "lastAt": 1758904409537,
     "urls": []
   },
   "purdue.edu": {
-    "lastAt": 1758551326675,
+    "lastAt": 1758904418275,
     "urls": [
       "https://www.purdue.edu/home/",
       "https://purdue.edu/",
@@ -39100,11 +39217,20 @@
       "https://www.purdue.edu/home/become-a-student/",
       "https://www.purdue.edu/home/alumni/",
       "https://www.purdue.edu/online/",
-      "https://www.purdue.edu/research/features/stories/new-ranking-demonstrates-purdue-prominence-in-ai-research-supercomputing/"
+      "https://www.purdue.edu/research/features/stories/new-ranking-demonstrates-purdue-prominence-in-ai-research-supercomputing/",
+      "https://www.purdue.edu/president/",
+      "https://www.purdue.edu/home/academics/",
+      "https://www.purdue.edu/campus-map/",
+      "https://www.purdue.edu/home/research/",
+      "https://www.purdue.edu/space/astronaut/neil-armstrong/",
+      "https://www.purdue.edu/home/careers/",
+      "https://www.purdue.edu/hr/",
+      "https://www.purdue.edu/engagement/",
+      "https://www.purdue.edu/emergency/"
     ]
   },
   "hatena.ne.jp": {
-    "lastAt": 1758551329909,
+    "lastAt": 1758904420973,
     "urls": [
       "https://hatena.ne.jp/"
     ]
