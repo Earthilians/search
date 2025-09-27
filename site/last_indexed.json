@@ -1,6 +1,6 @@
 {
   "google.com": {
-    "lastAt": 1758601609129,
+    "lastAt": 1758950405828,
     "urls": [
       "https://www.google.com/intl/am/gmail/about/policy/",
       "https://google.com/",
@@ -25,31 +25,31 @@
     ]
   },
   "mail.ru": {
-    "lastAt": 1758601613420,
+    "lastAt": 1758950408646,
     "urls": [
       "https://mail.ru/"
     ]
   },
   "microsoft.com": {
-    "lastAt": 1758601694723,
+    "lastAt": 1758950487295,
     "urls": [
       "https://microsoft.com/"
     ]
   },
   "facebook.com": {
-    "lastAt": 1758601699003,
+    "lastAt": 1758950490641,
     "urls": []
   },
   "amazonaws.com": {
-    "lastAt": 1758601702106,
+    "lastAt": 1758950493670,
     "urls": []
   },
   "googleapis.com": {
-    "lastAt": 1758601705773,
+    "lastAt": 1758950497170,
     "urls": []
   },
   "dzen.ru": {
-    "lastAt": 1758601713104,
+    "lastAt": 1758950502905,
     "urls": [
       "https://dzen.ru/b/ZgPtqqRwAjJG421s",
       "https://dzen.ru/b/ZqkEhTlXzTYLeAY5",
@@ -90,11 +90,21 @@
       "https://dzen.ru/b/ZAboWPfUbC_j_yNe",
       "https://dzen.ru/b/ZEjfDMDPnDzR5n0f",
       "https://dzen.ru/b/ZyCke88euBJNGNpS",
-      "https://dzen.ru/b/ZETXmC6T017U5kVP"
+      "https://dzen.ru/b/ZETXmC6T017U5kVP",
+      "https://dzen.ru/b/ZbOzUBIl6FUWAPsY",
+      "https://dzen.ru/b/Y2IiF7RiQzTkxsj7",
+      "https://dzen.ru/b/ZbOzUBIl6FUWAPsW",
+      "https://dzen.ru/b/Zz8E3WVShg_UJSwB",
+      "https://dzen.ru/b/YqMmZevkOHYrC7is",
+      "https://dzen.ru/b/ZOySBq3egzoNUbRe",
+      "https://dzen.ru/b/ZpC672-ZOxFMH-sv",
+      "https://dzen.ru/b/ZAm8UvfUbC_jACoi",
+      "https://dzen.ru/b/Z7YryRT93jkwXPzi",
+      "https://dzen.ru/b/Y5cdQGDZ2D24z7zo"
     ]
   },
   "cloudflare.com": {
-    "lastAt": 1758601716284,
+    "lastAt": 1758950506687,
     "urls": [
       "https://www.cloudflare.com/zero-trust/products/dlp/",
       "https://www.cloudflare.com/forstartups/",
@@ -132,11 +142,20 @@
       "https://www.cloudflare.com/saas/",
       "https://www.cloudflare.com/network-services/products/magic-transit/",
       "https://www.cloudflare.com/security/",
-      "https://www.cloudflare.com/security/customer-data-breach/"
+      "https://www.cloudflare.com/security/customer-data-breach/",
+      "https://www.cloudflare.com/cybersecurity-risk-management/",
+      "https://www.cloudflare.com/application-services/products/",
+      "https://www.cloudflare.com/modernization/",
+      "https://www.cloudflare.com/data/",
+      "https://www.cloudflare.com/zero-trust/solutions/",
+      "https://www.cloudflare.com/developer-platform/products/hyperdrive/",
+      "https://www.cloudflare.com/aiindex-signup/",
+      "https://www.cloudflare.com/the-net/protect-client-side-environment/",
+      "https://www.cloudflare.com/lp/securitybuildersworkshops/"
     ]
   },
   "youtube.com": {
-    "lastAt": 1758601718860,
+    "lastAt": 1758950509214,
     "urls": [
       "https://www.youtube.com/ads/",
       "https://www.youtube.com/ads/how-it-works/create-a-video-ad/",
@@ -177,11 +196,21 @@
       "https://www.youtube.com/intl/ALL_au/ads/video-creation-tips/",
       "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/",
       "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/adidas/",
-      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/hersheys/"
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/hersheys/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/lstn-headphones/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/majestic-heli-ski/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/nectar-a-resident-company/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/missouri-star-quilt-company/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/panasonic-brasil/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/pringles/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/rakuten/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/senpai/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/south-dakota-school-of-mines-technology/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/tulanes-closet/"
     ]
   },
   "apple.com": {
-    "lastAt": 1758601725313,
+    "lastAt": 1758950518220,
     "urls": [
       "https://apple.com/",
       "https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/",
@@ -193,101 +222,106 @@
       "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/",
       "https://www.apple.com/newsroom/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/",
       "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
-      "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"
+      "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "https://www.apple.com/",
+      "https://www.apple.com/accessibility/",
+      "https://www.apple.com/accessibility/features/",
+      "https://www.apple.com/accessibility/features/?hearing",
+      "https://www.apple.com/accessibility/features/?vision"
     ]
   },
   "instagram.com": {
-    "lastAt": 1758601726953,
+    "lastAt": 1758950519556,
     "urls": [
       "https://instagram.com/"
     ]
   },
   "akamai.net": {
-    "lastAt": 1758601730336,
+    "lastAt": 1758950522736,
     "urls": []
   },
   "gstatic.com": {
-    "lastAt": 1758601733572,
+    "lastAt": 1758950525694,
     "urls": []
   },
   "twitter.com": {
-    "lastAt": 1758601734509,
+    "lastAt": 1758950526602,
     "urls": [
       "https://twitter.com/"
     ]
   },
   "akamaiedge.net": {
-    "lastAt": 1758601737882,
+    "lastAt": 1758950530052,
     "urls": []
   },
   "office.com": {
-    "lastAt": 1758601738313,
+    "lastAt": 1758950530532,
     "urls": [
       "https://office.com/"
     ]
   },
   "live.com": {
-    "lastAt": 1758601783282,
+    "lastAt": 1758950563632,
     "urls": []
   },
   "linkedin.com": {
-    "lastAt": 1758601784566,
+    "lastAt": 1758950564962,
     "urls": [
       "https://linkedin.com/"
     ]
   },
   "googlevideo.com": {
-    "lastAt": 1758601787709,
+    "lastAt": 1758950567970,
     "urls": []
   },
   "azure.com": {
-    "lastAt": 1758601788572,
+    "lastAt": 1758950568990,
     "urls": [
       "https://azure.com/"
     ]
   },
   "ax-msedge.net": {
-    "lastAt": 1758601791426,
+    "lastAt": 1758950571867,
     "urls": []
   },
   "googletagmanager.com": {
-    "lastAt": 1758601794697,
+    "lastAt": 1758950574990,
     "urls": []
   },
   "fbcdn.net": {
-    "lastAt": 1758601799302,
+    "lastAt": 1758950578200,
     "urls": []
   },
   "amazon.com": {
-    "lastAt": 1758601826774,
+    "lastAt": 1758950598350,
     "urls": []
   },
   "akadns.net": {
-    "lastAt": 1758601829743,
+    "lastAt": 1758950601282,
     "urls": []
   },
   "microsoftonline.com": {
-    "lastAt": 1758601832615,
+    "lastAt": 1758950604146,
     "urls": []
   },
   "workers.dev": {
-    "lastAt": 1758601833148,
+    "lastAt": 1758950604610,
     "urls": [
       "https://workers.dev/"
     ]
   },
   "wikipedia.org": {
-    "lastAt": 1758601834491,
+    "lastAt": 1758950606238,
     "urls": [
       "https://wikipedia.org/"
     ]
   },
   "windowsupdate.com": {
-    "lastAt": 1758601837337,
+    "lastAt": 1758950609102,
     "urls": []
   },
   "googleusercontent.com": {
-    "lastAt": 1758601840434,
+    "lastAt": 1758950612057,
     "urls": []
   },
   "doubleclick.net": {
