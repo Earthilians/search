@@ -4855,11 +4855,11 @@
     ]
   },
   "2mdn.net": {
-    "lastAt": 1758637391112,
+    "lastAt": 1758986365233,
     "urls": []
   },
   "drom.ru": {
-    "lastAt": 1758637398554,
+    "lastAt": 1758986370473,
     "urls": [
       "https://www.drom.ru/catalog/acura/",
       "https://www.drom.ru/catalog/alpina/",
@@ -4900,19 +4900,29 @@
       "https://www.drom.ru/catalog/iran_khodro/",
       "https://www.drom.ru/catalog/hummer/",
       "https://www.drom.ru/catalog/isuzu/",
-      "https://www.drom.ru/catalog/hyundai/"
+      "https://www.drom.ru/catalog/hyundai/",
+      "https://www.drom.ru/catalog/izh/",
+      "https://www.drom.ru/catalog/jaguar/",
+      "https://www.drom.ru/catalog/jac/",
+      "https://www.drom.ru/catalog/kia/",
+      "https://www.drom.ru/catalog/jeep/",
+      "https://www.drom.ru/catalog/lada/",
+      "https://www.drom.ru/catalog/lamborghini/",
+      "https://www.drom.ru/catalog/land_rover/",
+      "https://www.drom.ru/catalog/lexus/",
+      "https://www.drom.ru/catalog/lifan/"
     ]
   },
   "safebrowsing.apple": {
-    "lastAt": 1758637402416,
+    "lastAt": 1758986373896,
     "urls": []
   },
   "media-amazon.com": {
-    "lastAt": 1758637405302,
+    "lastAt": 1758986376831,
     "urls": []
   },
   "launchdarkly.com": {
-    "lastAt": 1758637419890,
+    "lastAt": 1758986390712,
     "urls": [
       "https://launchdarkly.com/",
       "https://launchdarkly.com/events-webinars/",
@@ -4953,11 +4963,21 @@
       "https://launchdarkly.com/blog/releasing-measuring-improving-in-real-time/",
       "https://launchdarkly.com/blog/slice-metrics-from-one-event/",
       "https://launchdarkly.com/blog/poka-made-shipping-ai-manageable/",
-      "https://launchdarkly.com/blog/introducing-agents-trends-approvals-ai-configs/"
+      "https://launchdarkly.com/blog/introducing-agents-trends-approvals-ai-configs/",
+      "https://launchdarkly.com/blog/data-export-for-bigquery-and-databricks/",
+      "https://launchdarkly.com/blog/catch-and-revert-ai-failures-in-production/",
+      "https://launchdarkly.com/blog/auto-generating-openapi-documents-with-typescript-/",
+      "https://launchdarkly.com/blog/4-best-frameworks-for-robust-logging-in-java/",
+      "https://launchdarkly.com/blog/introducing-guardrail-metrics/",
+      "https://launchdarkly.com/blog/introducing-event-explorer/",
+      "https://launchdarkly.com/blog/instinct-isnt-enough-to-build-software/",
+      "https://launchdarkly.com/blog/llm-inference-optimization/",
+      "https://launchdarkly.com/blog/view-feature-flags-in-zendesk/",
+      "https://launchdarkly.com/blog/self-healing-software-with-release-observability/"
     ]
   },
   "grammarly.com": {
-    "lastAt": 1758637428812,
+    "lastAt": 1758986398325,
     "urls": [
       "https://www.grammarly.com/",
       "https://www.grammarly.com/signup",
@@ -4995,23 +5015,32 @@
       "https://www.grammarly.com/blog/writing-tips/how-to-write-a-catchy-headline-in-1-minute-and-7-seconds/",
       "https://www.grammarly.com/blog/language-trends-culture/why-being-good-at-language-arts-means-that-you-can-do-math/",
       "https://www.grammarly.com/blog/vocabulary/latin-plurals/",
-      "https://www.grammarly.com/blog/creative-writing/create-setting-for-novel/"
+      "https://www.grammarly.com/blog/creative-writing/create-setting-for-novel/",
+      "https://www.grammarly.com/blog/language-trends-culture/endangered-words/",
+      "https://www.grammarly.com/blog/grammar/what-is-eye-dialect/",
+      "https://www.grammarly.com/blog/language-trends-culture/internet-slang-trends/",
+      "https://www.grammarly.com/blog/vocabulary/copacetic/",
+      "https://www.grammarly.com/blog/vocabulary/what-is-verbiage/",
+      "https://www.grammarly.com/blog/commonly-confused-words/forego-forgo/",
+      "https://www.grammarly.com/blog/vocabulary/loathe/",
+      "https://www.grammarly.com/blog/commonly-confused-words/macaron-vs-macaroon-food-term-mistakes/",
+      "https://www.grammarly.com/blog/commonly-confused-words/crummy-crumby/"
     ]
   },
   "samsungqbe.com": {
-    "lastAt": 1758637431906,
+    "lastAt": 1758986401286,
     "urls": []
   },
   "static.microsoft": {
-    "lastAt": 1758637434757,
+    "lastAt": 1758986404251,
     "urls": []
   },
   "cdngslb.com": {
-    "lastAt": 1758637493619,
+    "lastAt": 1758986463108,
     "urls": []
   },
   "ivi.ru": {
-    "lastAt": 1758637501414,
+    "lastAt": 1758986469915,
     "urls": [
       "https://www.ivi.ru/collections/oscar",
       "https://www.ivi.ru/collections/vampires",
@@ -5052,11 +5081,21 @@
       "https://www.ivi.ru/collections/russian-action-movies",
       "https://www.ivi.ru/collections/psychological-thrillers",
       "https://www.ivi.ru/collections/fantasy",
-      "https://www.ivi.ru/collections/sci-fi-action-movies"
+      "https://www.ivi.ru/collections/sci-fi-action-movies",
+      "https://www.ivi.ru/collections/war-movies",
+      "https://www.ivi.ru/collections/mmkf",
+      "https://www.ivi.ru/collections/istoricheskie-boeviki",
+      "https://www.ivi.ru/collections/voennyie-dramy",
+      "https://www.ivi.ru/collections/soviet-comedies",
+      "https://www.ivi.ru/collections/russian-comedies",
+      "https://www.ivi.ru/collections/semejnyie-dramyi",
+      "https://www.ivi.ru/collections/usa-comedy",
+      "https://www.ivi.ru/collections/family-comedy",
+      "https://www.ivi.ru/collections/romantic-comedies"
     ]
   },
   "notamedia.ru": {
-    "lastAt": 1758637511099,
+    "lastAt": 1758986476479,
     "urls": [
       "https://agency.nota.media/",
       "https://agency.nota.media/company/",
@@ -5087,11 +5126,21 @@
       "https://agency.nota.media/blog/partnerskaya-programma-Notamedia/",
       "https://agency.nota.media/blog/analitikavit/",
       "https://agency.nota.media/blog/KakkontseptsiyaproduktavITvystupaetperevodchikomsyazykaklientanayazykrazrabotchikov/",
-      "https://agency.nota.media/blog/onbording/"
+      "https://agency.nota.media/blog/onbording/",
+      "https://agency.nota.media/blog/digest-ai-mart/",
+      "https://agency.nota.media/blog/vr_ar_mr_inbusiness/",
+      "https://agency.nota.media/blog/PobedyvkonkurseZolotoysaytZolotoeprilozhenie2022/",
+      "https://agency.nota.media/blog/RuwardAward2023/",
+      "https://agency.nota.media/blog/top10-tagline/",
+      "https://agency.nota.media/blog/digest-ai-may/",
+      "https://agency.nota.media/blog/2nagradyvkonkurseWorkspaceDigitalAwards/",
+      "https://agency.nota.media/blog/digest-ai-aprel/",
+      "https://agency.nota.media/blog/20mestreitingruneta2023/",
+      "https://agency.nota.media/blog/wadlinespringawards2023/"
     ]
   },
   "stripe.com": {
-    "lastAt": 1758637517078,
+    "lastAt": 1758986483227,
     "urls": [
       "https://stripe.com/legal/ssa",
       "https://stripe.com/ssa",
@@ -5132,11 +5181,21 @@
       "https://stripe.com/legal/terminal",
       "https://stripe.com/legal/currency-conversion-in-dashboard",
       "https://stripe.com/legal/terminal-purchase",
-      "https://stripe.com/legal/issuing/fifth-third/apple-payment-platform-program-manager-customer-terms-and-conditions"
+      "https://stripe.com/legal/issuing/fifth-third/apple-payment-platform-program-manager-customer-terms-and-conditions",
+      "https://stripe.com/legal/tax",
+      "https://stripe.com/legal/bizum",
+      "https://stripe.com/legal/stripe-events-attendee-guidelines",
+      "https://stripe.com/legal/organizations",
+      "https://stripe.com/legal/eu-consultant-privacy-notice",
+      "https://stripe.com/legal/sponsorship-agreement",
+      "https://stripe.com/legal/sponsorship-policy",
+      "https://stripe.com/legal/check-scan",
+      "https://stripe.com/legal/stripe-event-speaker-release",
+      "https://stripe.com/legal/sfa-terms"
     ]
   },
   "inmobi.com": {
-    "lastAt": 1758637523744,
+    "lastAt": 1758986488942,
     "urls": [
       "https://www.inmobi.com/",
       "https://www.inmobi.com/company/leadership",
@@ -5153,27 +5212,27 @@
     ]
   },
   "launchpad.net": {
-    "lastAt": 1758637525599,
+    "lastAt": 1758986490444,
     "urls": [
       "https://launchpad.net/"
     ]
   },
   "ipv4only.arpa": {
-    "lastAt": 1758637584409,
+    "lastAt": 1758986549258,
     "urls": []
   },
   "ampproject.org": {
-    "lastAt": 1758637585838,
+    "lastAt": 1758986550552,
     "urls": [
       "https://ampproject.org/"
     ]
   },
   "shalltry.com": {
-    "lastAt": 1758637591094,
+    "lastAt": 1758986554974,
     "urls": []
   },
   "quickconnect.to": {
-    "lastAt": 1758637591541,
+    "lastAt": 1758986555872,
     "urls": [
       "https://quickconnect.to/"
     ]
@@ -46722,11 +46781,11 @@
     ]
   },
   "pippio.com": {
-    "lastAt": 1758637594669,
+    "lastAt": 1758986558855,
     "urls": []
   },
   "metro.co.uk": {
-    "lastAt": 1758637598801,
+    "lastAt": 1758986562661,
     "urls": [
       "https://metro.co.uk/",
       "https://metro.co.uk/2025/09/14/man-arrested-sikh-woman-raped-racially-motivated-attack-24163483/",
@@ -46757,11 +46816,21 @@
       "https://metro.co.uk/2025/09/23/full-list-19-amazon-fresh-shops-closing-24241042/",
       "https://metro.co.uk/2025/09/23/four-things-learned-lib-dems-reliably-eccentric-seaside-conference-24238750/",
       "https://metro.co.uk/2025/09/23/mystery-odour-plagued-school-weeks-a-teacher-using-fart-spray-24240897/",
-      "https://metro.co.uk/2025/09/23/trumps-baffling-paracetamol-claim-another-stick-beat-pregnant-women-24239327/"
+      "https://metro.co.uk/2025/09/23/trumps-baffling-paracetamol-claim-another-stick-beat-pregnant-women-24239327/",
+      "https://metro.co.uk/2025/09/27/never-know-husband-killed-left-no-note-24267966/",
+      "https://metro.co.uk/2025/09/27/thomas-skinner-insists-made-right-decision-strictly-despite-scandals-24277633/",
+      "https://metro.co.uk/2025/09/27/rare-lion-that-captured-the-hearts-of-millions-at-uk-zoo-dies-aged-18-24277900/",
+      "https://metro.co.uk/2025/09/27/girl-15-raped-childrens-play-area-by-man-travelled-120-miles-meet-her-24277946/",
+      "https://metro.co.uk/2025/09/27/rape-victims-living-vicariously-good-her-films-22099456/",
+      "https://metro.co.uk/2025/09/27/prince-harry-denies-trying-drive-a-wedge-william-king-charles-24276899/",
+      "https://metro.co.uk/2025/09/27/full-strictly-2025-cast-lineup-celebrities-professional-dancers-24278059/",
+      "https://metro.co.uk/2025/09/27/katie-prices-boyfriend-worried-well-being-rapid-weight-loss-24277709/",
+      "https://metro.co.uk/2025/09/27/footballers-told-phrase-come-lads-offensive-24277659/",
+      "https://metro.co.uk/2025/09/27/shambolic-micah-richards-slams-two-manchester-united-stars-brentford-defeat-24277532/"
     ]
   },
   "ifood.com.br": {
-    "lastAt": 1758637600729,
+    "lastAt": 1758986564321,
     "urls": [
       "https://www.ifood.com.br/",
       "https://www.ifood.com.br/restaurantes",
@@ -46792,15 +46861,25 @@
       "https://www.ifood.com.br/busca?q=poke",
       "https://www.ifood.com.br/busca?q=burguer-king",
       "https://www.ifood.com.br/busca?q=kfc",
-      "https://www.ifood.com.br/busca?q=cacau-show"
+      "https://www.ifood.com.br/busca?q=cacau-show",
+      "https://www.ifood.com.br/busca?q=marmita",
+      "https://www.ifood.com.br/busca?q=feijoada",
+      "https://www.ifood.com.br/busca?q=spoleto",
+      "https://www.ifood.com.br/busca?q=churrasco",
+      "https://www.ifood.com.br/busca?q=yakisoba",
+      "https://www.ifood.com.br/busca?q=frango",
+      "https://www.ifood.com.br/busca?q=ragazzo",
+      "https://www.ifood.com.br/busca?q=madero",
+      "https://www.ifood.com.br/busca?q=bk",
+      "https://www.ifood.com.br/busca?q=coco-bambu"
     ]
   },
   "bplslb.com": {
-    "lastAt": 1758637604041,
+    "lastAt": 1758986567954,
     "urls": []
   },
   "standard.co.uk": {
-    "lastAt": 1758637618709,
+    "lastAt": 1758986585748,
     "urls": [
       "https://www.standard.co.uk/news/environment/south-west-england-met-office-north-west-england-lake-district-irish-sea-b1247719.html",
       "https://www.standard.co.uk/news/uk/thames-valley-police-police-melania-trump-trump-berkshire-b1247709.html",
@@ -46831,11 +46910,21 @@
       "https://www.standard.co.uk/lifestyle/sarah-ferguson-epstein-email-charities-dropped-b1249168.html",
       "https://www.standard.co.uk/showbiz/brooklyn-beckham-ignores-family-member-birthday-b1249222.html",
       "https://www.standard.co.uk/news/politics/sheldon-court-of-appeal-france-secretary-of-state-high-court-b1249204.html",
-      "https://www.standard.co.uk/lifestyle/fashion/london-fashion-week-parties-celebrity-style-2025-spring-summer-2026-b1248774.html"
+      "https://www.standard.co.uk/lifestyle/fashion/london-fashion-week-parties-celebrity-style-2025-spring-summer-2026-b1248774.html",
+      "https://www.standard.co.uk/sport/football/chelsea-fc-vs-brighton-live-stream-latest-score-updates-result-premier-league-b1250005.html",
+      "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-vs-canada-live-match-stream-latest-score-updates-womens-rugby-world-cup-b1250015.html",
+      "https://www.standard.co.uk/news/crime/btp-woman-upskirting-moorgate-london-b1250024.html",
+      "https://www.standard.co.uk/news/world/russian-submarine-risk-explosion-mediterranean-b1250023.html",
+      "https://www.standard.co.uk/sport/football/west-ham-nuno-manager-potter-sacked-b1250021.html",
+      "https://www.standard.co.uk/sport/golf/ryder-cup-2025-live-stream-scores-updates-results-saturday-europe-usa-b1249863.html",
+      "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/canada-team-england-womens-rugby-world-cup-final-b1249749.html",
+      "https://www.standard.co.uk/sport/football/man-utd-player-ratings-brentford-fernandes-sesko-b1250020.html",
+      "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-team-canada-womens-rugby-world-cup-final-b1249631.html",
+      "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-vs-canada-prediction-kick-off-time-latest-team-news-tv-live-stream-h2h-results-odds-womens-rugby-world-cup-final-preview-today-b1249945.html"
     ]
   },
   "monetixads.com": {
-    "lastAt": 1758637621634,
+    "lastAt": 1758986587875,
     "urls": [
       "https://www.monetixads.com/blog",
       "https://www.monetixads.com/ad-policy",
@@ -46846,29 +46935,29 @@
     ]
   },
   "max.com": {
-    "lastAt": 1758637623057,
+    "lastAt": 1758986589448,
     "urls": [
       "https://max.com/"
     ]
   },
   "venturebeat.com": {
-    "lastAt": 1758637626918,
+    "lastAt": 1758986593783,
     "urls": []
   },
   "tdnsv6.com": {
-    "lastAt": 1758637632187,
+    "lastAt": 1758986603308,
     "urls": []
   },
   "datadoghq-browser-agent.com": {
-    "lastAt": 1758637635074,
+    "lastAt": 1758986606197,
     "urls": []
   },
   "rian.ru": {
-    "lastAt": 1758637640722,
+    "lastAt": 1758986609818,
     "urls": []
   },
   "today.com": {
-    "lastAt": 1758637645872,
+    "lastAt": 1758986615364,
     "urls": [
       "https://today.com/",
       "https://www.today.com/video/andy-cohen-pranks-howard-stern-fans-amid-siriusxm-rumors-247554117599",
@@ -46896,7 +46985,16 @@
       "https://www.today.com/shop/target-circle-week-october-dates-announcement-rcna231469",
       "https://www.today.com/shop/best-skin-tightening-creams-rcna171898",
       "https://www.today.com/shop/best-13-year-old-gifts-t195257",
-      "https://www.today.com/shop/best-red-light-eye-masks-rcna231954"
+      "https://www.today.com/shop/best-red-light-eye-masks-rcna231954",
+      "https://www.today.com/shop/anti-aging-hair-products-t229131",
+      "https://www.today.com/shop/early-october-prime-day-tech-deals-2025-rcna233443",
+      "https://www.today.com/shop/best-lighted-makeup-mirror-t210108",
+      "https://www.today.com/shop/best-art-gifts-kids-t271982",
+      "https://www.today.com/shop/best-drugstore-wrinkle-cream-buy-now-t128335",
+      "https://www.today.com/shop/rizos-curls-cream-curly-hair-rcna132324",
+      "https://www.today.com/shop/best-early-october-prime-day-beauty-deals-2025-rcna233513",
+      "https://www.today.com/shop/october-prime-day-2025-what-to-know-rcna225918",
+      "https://www.today.com/shop/best-bakuchiol-skin-care-products-rcna233523"
     ]
   },
   "bigcommerce.com": {

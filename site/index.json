@@ -243514,5 +243514,691 @@
     "title": "Мы защищаем цифровую свободу всех пользователей",
     "description": "О компании AVAST Software",
     "text": "Компании NortonLifeLock и Avast объединились. Представляем Gen™ —\nновую компанию, единственной целью"
+  },
+  {
+    "id": "0bf3f5563ddf670bec2619d0a6be61ee1798fae7",
+    "url": "https://www.drom.ru/catalog/izh/",
+    "title": "��������� ��� �� ������������ � ����. ����������� �������������� �� ()",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� ��. �������� ��������� �����",
+    "text": ""
+  },
+  {
+    "id": "ed99e9cee8b049c74ca96edd2f3215e52b56d89e",
+    "url": "https://www.drom.ru/catalog/jaguar/",
+    "title": "��������� ��� Jaguar ������������ � ����. ����������� �������������� Jaguar (�����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Jaguar. �������� ��������� �",
+    "text": ""
+  },
+  {
+    "id": "bf02c40cf7144dcfeac36536261595851896962f",
+    "url": "https://www.drom.ru/catalog/jac/",
+    "title": "��������� ��� JAC ������������ � ����. ����������� �������������� JAC (����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� JAC. �������� ��������� ����",
+    "text": ""
+  },
+  {
+    "id": "c5233d4da4bde579ecf8965ec2b310ed602fc77f",
+    "url": "https://www.drom.ru/catalog/kia/",
+    "title": "��������� ��� Kia ������������ � ����. ����������� �������������� Kia (���)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Kia. �������� ��������� ����",
+    "text": ""
+  },
+  {
+    "id": "1625b6cc1944e31023282a4aa6a9ea033e183398",
+    "url": "https://www.drom.ru/catalog/jeep/",
+    "title": "��������� ��� Jeep ������������ � ����. ����������� �������������� Jeep (����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Jeep. �������� ��������� ���",
+    "text": ""
+  },
+  {
+    "id": "fbdb24d2497d70587819f8afe4585d1d7dc02991",
+    "url": "https://www.drom.ru/catalog/lada/",
+    "title": "��������� ��� ���� ������������ � ����. ����������� �������������� ���� (���)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� ����. �������� ��������� ���",
+    "text": ""
+  },
+  {
+    "id": "945635352a048cf71f58b3601e3795a9ca1d604e",
+    "url": "https://www.drom.ru/catalog/lamborghini/",
+    "title": "��������� ��� Lamborghini ������������ � ����. ����������� �������������� Lamborghini (����������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Lamborghini. �������� ������",
+    "text": ""
+  },
+  {
+    "id": "75a5352ee5276a0760ceef5450bb092809229c54",
+    "url": "https://www.drom.ru/catalog/land_rover/",
+    "title": "��������� ��� Land Rover ������������ � ����. ����������� �������������� Land Rover (���� �����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Land Rover. �������� �������",
+    "text": ""
+  },
+  {
+    "id": "e33e65a44d3cb66bdc39d9a1fd2bf880b000e17a",
+    "url": "https://www.drom.ru/catalog/lexus/",
+    "title": "��������� ��� Lexus ������������ � ����. ����������� �������������� Lexus (������)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Lexus. �������� ��������� ��",
+    "text": ""
+  },
+  {
+    "id": "a96936f95505eea097288241dc68bdd90df3a47d",
+    "url": "https://www.drom.ru/catalog/lifan/",
+    "title": "��������� ��� Lifan ������������ � ����. ����������� �������������� Lifan (�����)",
+    "description": "� �������� ���������� ����������� �������������� � ���� ���������� ���� Lifan. �������� ��������� ��",
+    "text": ""
+  },
+  {
+    "id": "a443402c1d41a5bc51839476dd676ae81c7ffce1",
+    "url": "https://launchdarkly.com/blog/data-export-for-bigquery-and-databricks/",
+    "title": "Data Export: Now available for BigQuery and Databricks | LaunchDarkly",
+    "description": "Export to BigQuery and Databricks in a few clicks.",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "09309560d0ec1906a422c5b260dae71592af0bb3",
+    "url": "https://launchdarkly.com/blog/catch-and-revert-ai-failures-in-production/",
+    "title": "Catch and revert AI failures in production (automatically) | LaunchDarkly",
+    "description": "Detect and revert risky GenAI changes—before users have a chance to notice them.",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "e3c1b5d18fe141c1cb81d0772694b04b9166dce9",
+    "url": "https://launchdarkly.com/blog/auto-generating-openapi-documents-with-typescript-/",
+    "title": "Auto-generating OpenAPI documents with TypeScript interfaces | LaunchDarkly",
+    "description": "LaunchDarkly provides simple, scalable feature flag, toggle management (feature management) & experi",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "e2ab3a4a0c056a206b6e988640f6a81c2553ec64",
+    "url": "https://launchdarkly.com/blog/4-best-frameworks-for-robust-logging-in-java/",
+    "title": "4 best logging libraries for Java | LaunchDarkly",
+    "description": "LaunchDarkly provides simple, scalable feature flag, toggle management (feature management) & experi",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "f27c0fb4ac4cc11aeec959e1679c77d66e5d177b",
+    "url": "https://launchdarkly.com/blog/introducing-guardrail-metrics/",
+    "title": "Introducing Guardrail Metrics: best-practice metrics for every release | LaunchDarkly",
+    "description": "Automatically measure what matters on every Guarded Release.",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "f194f2d4b75955ec6b1e773773fcbc965c576f66",
+    "url": "https://launchdarkly.com/blog/introducing-event-explorer/",
+    "title": "Introducing Event Explorer: Your new tool for creating smarter metrics  | LaunchDarkly",
+    "description": "Event Explorer enables users to track, verify, and investigate events sent to LaunchDarkly, simplify",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "e3112f60718d9fc55ac114e3024db0716e27abf2",
+    "url": "https://launchdarkly.com/blog/instinct-isnt-enough-to-build-software/",
+    "title": "Your instincts are good... and instincts + feedback are even better | LaunchDarkly",
+    "description": "Teams need real feedback, not just gut instinct, to know what’s actually working.",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "394aeed357ecc2f7a7bb7a11812c249cd53f415f",
+    "url": "https://launchdarkly.com/blog/llm-inference-optimization/",
+    "title": "LLM inference optimization: Tutorial & Best Practices | LaunchDarkly",
+    "description": "Learn about the optimization concepts for LLM inference, like model parallelization, attention mecha",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "6c11968239621756e29d560b6f0fab89228c3bb7",
+    "url": "https://launchdarkly.com/blog/view-feature-flags-in-zendesk/",
+    "title": "Now You Can View Feature Flags in Zendesk | LaunchDarkly",
+    "description": "See how our Zendesk integration allows your team members to see feature flag variation information f",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "796588c4e8eae1865eecac2dbfdd1d97b9fdabc2",
+    "url": "https://launchdarkly.com/blog/self-healing-software-with-release-observability/",
+    "title": "Self-healing software with release observability | LaunchDarkly",
+    "description": "Ship faster, sleep easier, and catch bugs before your customers do.",
+    "text": "LaunchDarkly Platform\nMonitor and de-risk.\nMake data-driven decisions.\nScale great release processes"
+  },
+  {
+    "id": "3fd7313beb5317c160e2687c7e90b1dbeb9202f3",
+    "url": "https://www.grammarly.com/blog/language-trends-culture/endangered-words/",
+    "title": "Endangered Words | Grammarly",
+    "description": "We know animals go extinct, but words can be in danger of fading out of use. Let’s learn about six e",
+    "text": "According to the U.S. Fish and Wildlife Service, endangered animal species are “in danger of extinct"
+  },
+  {
+    "id": "1df6cb6277c6c95eb331d7a470bad089fe3d1288",
+    "url": "https://www.grammarly.com/blog/grammar/what-is-eye-dialect/",
+    "title": "What Is Eye Dialect? | Grammarly",
+    "description": "Eye dialect appeals to the eyes. What is it, and how is it used in literature? Find out now.",
+    "text": "When you think of dialect, usually you think of the way a person speaks. When English is not someone"
+  },
+  {
+    "id": "d87ffbc7a5fddeddf686e4cd69217e254811c1ec",
+    "url": "https://www.grammarly.com/blog/language-trends-culture/internet-slang-trends/",
+    "title": "Afk to Zzz—Internet Slang Trends",
+    "description": "Grammarly sifted through a mountain of data to uncover the top Internet slang trends of 2016.",
+    "text": "Imagine this online chat exchange:\n“What are you doing?”\n“Zzz . . .”\n“You’re pretending to be asleep"
+  },
+  {
+    "id": "25e8be49592387d63eb32be411f4c917d509b89d",
+    "url": "https://www.grammarly.com/blog/vocabulary/copacetic/",
+    "title": "Copacetic Definition | Grammarly Blog",
+    "description": "Learn a new word today! We have “copacetic” in store for you, with synonyms and examples of use.",
+    "text": "Copacetic is an adjective that means “fine,” “OK,” or “satisfactory.”\nIt is pronounced [koh-puh-seh-"
+  },
+  {
+    "id": "37c1bdae34db811f9be039387761863d1f8e9b43",
+    "url": "https://www.grammarly.com/blog/vocabulary/what-is-verbiage/",
+    "title": "What Is Verbiage? | Grammarly Blog",
+    "description": "Find out when you should use the word “verbiage” and when it might be best to refrain.",
+    "text": "There are examples throughout the world of people trying to use as few words as possible to convey t"
+  },
+  {
+    "id": "7add6ca0d00c4dad0aca0b5d32707037656f1d0d",
+    "url": "https://www.grammarly.com/blog/commonly-confused-words/forego-forgo/",
+    "title": "What Is “Forgo”? | Grammarly Blog",
+    "description": "To forgo something is to do without it. If you also want to learn what “forego” means, you can read ",
+    "text": "To forgo something means to do without it, or to choose to skip it. Forego is sometimes listed as a "
+  },
+  {
+    "id": "02a9fb1e84d83fcebb821e5b5eb4ec40ad9c4a01",
+    "url": "https://www.grammarly.com/blog/vocabulary/loathe/",
+    "title": "Loathe Meaning | Grammarly Blog",
+    "description": "To loathe something means to dislike it. But to be loath, that’s a completely different thing. Read ",
+    "text": "A powerful tool in the hands of someone unskilled is dangerous. Loathe is a strong word, so it’s imp"
+  },
+  {
+    "id": "0bf77bd66f53f90b741af6c8e2b5cd8f348308eb",
+    "url": "https://www.grammarly.com/blog/commonly-confused-words/macaron-vs-macaroon-food-term-mistakes/",
+    "title": "Macaron or Macaroon? Common Food Term Mistakes | Grammarly",
+    "description": "Do you like macaroons? You might think you know the answer to this question, but you might be wrong!",
+    "text": "Do you like macaroons? You might think you know the answer to this question, but you might be wrong!"
+  },
+  {
+    "id": "3617f8f10fe86d9e4b53c97a3a7f0b4de56e1a2d",
+    "url": "https://www.grammarly.com/blog/commonly-confused-words/crummy-crumby/",
+    "title": "Crumby or Crummy? | Grammarly",
+    "description": "What is the definition of crumby? Is it the same as crummy? Is one of these words a misspelling? Lea",
+    "text": "In English, the letter b is sometimes silent. For example, the b is not pronounced in the adjective "
+  },
+  {
+    "id": "c913388ef02c4cf069c7fbb289d93fd8dcb2219f",
+    "url": "https://www.ivi.ru/collections/war-movies",
+    "title": "Военные боевики смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>С древнейших времен и до наших дней мир сотрясают войны, и в нашей подборке военных боевиков можн",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "e7e0701190b5076569a800ed86b7ef09c9d0cde5",
+    "url": "https://www.ivi.ru/collections/mmkf",
+    "title": "Фильмы Московского Международного кинофестиваля (ММКФ) смотреть онлайн подборку. Список лучшего конт",
+    "description": "<p>Московский Международный кинофестиваль – одно из главных событий в мире российского кинематографа",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "3aa2da39e015407b15f341410d5f06af10d46d21",
+    "url": "https://www.ivi.ru/collections/istoricheskie-boeviki",
+    "title": "Исторические боевики смотреть онлайн подборку",
+    "description": "<p>Любите историю, но вам скучно смотреть историческую документалистику без какого бы то ни было сюж",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "a6660cad9e1c1aaf1cb45637d948c03c41a82f3f",
+    "url": "https://www.ivi.ru/collections/voennyie-dramy",
+    "title": "Военные фильмы драмы смотреть онлайн",
+    "description": "<p>В нашей подборке лучших военных драм можно найти и смотреть онлайн самые известные, самые реалист",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "e7bdbe101412826601fb74cb5c3d19aa9014c0d7",
+    "url": "https://www.ivi.ru/collections/soviet-comedies",
+    "title": "Советские комедии смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>«Сейчас так уже не снимают», – говорят часто люди о старых фильмах, и они правы. Легендарные сове",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "ab9253c2fc3569ac8e144caa9d459b0a9578618f",
+    "url": "https://www.ivi.ru/collections/russian-comedies",
+    "title": "Российские комедии смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Советские комедии, любимые многими поколениями, ушли в прошлое, но сам жанр в российском кинемато",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "17b79aa371df29f21eb7a67c1233bac34415495f",
+    "url": "https://www.ivi.ru/collections/semejnyie-dramyi",
+    "title": "Семейные драмы смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Эти фильмы не заканчиваются хэппи-эндом, но, тем не менее, они будут интересны самому широкому кр",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "9023b21fa54742bf57620c281a57af3fe3075e74",
+    "url": "https://www.ivi.ru/collections/usa-comedy",
+    "title": "Современные американские комедии смотреть онлайн подборку. Список лучшего контента в HD качестве",
+    "description": "<p>Американские комедии неспроста так популярны: считается, что именно в Голливуде снимают самые сме",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "392fc40c111f958da0a35e43eb303ca8a4ce69f0",
+    "url": "https://www.ivi.ru/collections/family-comedy",
+    "title": "Комедии для всей семьи смотреть онлайн бесплатно. Список лучших фильмов в хорошем HD качестве",
+    "description": "Комедии для всей семьи смотреть в хорошем качестве бесплатно. Интересные и захватывающие Комедии для",
+    "text": "Жанры\nПоджанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО"
+  },
+  {
+    "id": "beb8bc633b2bd0942acc825747368a4eb42be1e7",
+    "url": "https://www.ivi.ru/collections/romantic-comedies",
+    "title": "Лучшие ромкомы с высоким рейтингом, смотреть фильмы романтические комедии онлайн бесплатно",
+    "description": "<p>Романтические комедии – идеальный жанр для тех, кто считает мелодрамы слишком грустными, но при э",
+    "text": "Жанры\nСтраны\nГоды\nРейтинг Иви\nСмотрите фильмы, сериалы и мультфильмы без рекламы\n© 2025 ООО «Иви.ру»"
+  },
+  {
+    "id": "130cde530b8b2fa93511c1d222a92bc3b65bbe37",
+    "url": "https://agency.nota.media/blog/digest-ai-mart/",
+    "title": "Новостей искусственного интеллекта: март 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за март: искусственный интеллект. Больше новостей из мира digital и IT читайте ",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "4e9a01a2cc335c9eb9294be8548bba840ad2cb91",
+    "url": "https://agency.nota.media/blog/vr_ar_mr_inbusiness/",
+    "title": "Как VR, AR и MR технологии помогают бизнесу",
+    "description": "Чем отличаются VR, AR и MR❓ Как интегрировать современные технологии в бизнес❓ Ответы на эти и други",
+    "text": "Среди лидеров рынка VR, AR и MR технологий можно выделить:\nOculus (Facebook — проект Meta Platforms "
+  },
+  {
+    "id": "ea2cc5c4bb537b60bfecbb683dfcffb0f2a6e9b0",
+    "url": "https://agency.nota.media/blog/PobedyvkonkurseZolotoysaytZolotoeprilozhenie2022/",
+    "title": "Мы победили в конкурсе «Золотой сайт / Золотое приложение 2022»: апрель 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за апрель: победы компании в конкурсах «Золотой сайт / Золотое приложение 2022»",
+    "text": "Проект «Цифровая платформа МСП», за разработку которого отвечает digital-интегратор Notamedia, получ"
+  },
+  {
+    "id": "872a357e7cdf82498980ab6737f8378116fdb89c",
+    "url": "https://agency.nota.media/blog/RuwardAward2023/",
+    "title": "Мы стали призерами в премии «Ruward Award 2023»: апрель 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за апрель 2023: победы компании в премии «Ruward Award 2023». Больше новостей и",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "9d8c86959bac0add4cd1cb0ac524bc5562b41282",
+    "url": "https://agency.nota.media/blog/top10-tagline/",
+    "title": "Мы вошли в топ-10 рейтингов «Tagline»: май 2023 — Дайджесты Notamedia",
+    "description": "Дайджест Notamedia за май: вошли в топ-10 рейтингов «Tagline». Больше новостей из мира digital и IT ",
+    "text": "лучших диджитал-продакшнов России — №6\nлучших веб-разработчиков/интеграторов России — №10\nлучших сту"
+  },
+  {
+    "id": "2646281eebfe9d2ca9b9786ff2e25514d08b27b3",
+    "url": "https://agency.nota.media/blog/digest-ai-may/",
+    "title": "Новостей искусственного интеллекта: май 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за май: искусственный интеллект. Больше новостей из мира digital и IT читайте \ud83d",
+    "text": "Переходим на личности: как создать не просто бота, а виртуального персонажа с характером и историей\n"
+  },
+  {
+    "id": "55a769d8b54177396594672f33b7832259eaaeee",
+    "url": "https://agency.nota.media/blog/2nagradyvkonkurseWorkspaceDigitalAwards/",
+    "title": "Мы победили в конкурсе «Workspace Digital Awards»: май 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за май: победы компании в конкурсе «Workspace Digital Awards». Больше новостей ",
+    "text": "Цифровая платформа МСП.РФ — №2 в категории «Сайты» в номинации «IT-технологии и онлайн-сервисы».\nСай"
+  },
+  {
+    "id": "2e622092715d28f565cd7da7613e821363addc2a",
+    "url": "https://agency.nota.media/blog/digest-ai-aprel/",
+    "title": "Дайджест новостей искусственного интеллекта от Notamedia.Agency — апрель 2023",
+    "description": "📰Дайджест Notamedia за апрель 2023: новости искусственного интеллекта. Больше новостей из мира digi",
+    "text": "Google представит обновленный поисковик с функциями на основе ИИ;\nCбер поможет предпринимателям в ме"
+  },
+  {
+    "id": "3062044df6ea0ad9dfab7fd65a6550c9d7e6b1e4",
+    "url": "https://agency.nota.media/blog/20mestreitingruneta2023/",
+    "title": "Notamedia взяла 20 призовых мест в Рейтинге Рунета 2023",
+    "description": "📰Дайджест Notamedia о победах: мы взяли 20 призовых мест в Рейтинге Рунета 2023. Больше новостей из",
+    "text": "Рейтинг разработчиков сайтов\n1 место — Разработчики промо-сайтов\n1 место — Разработчики сайтов на 1С"
+  },
+  {
+    "id": "bef43401b200d6cce21c44241ac6114fe7199e8a",
+    "url": "https://agency.nota.media/blog/wadlinespringawards2023/",
+    "title": "Мы победили в конкурсе «Wadline Spring Awards»: июнь 2023 — Дайджесты Notamedia",
+    "description": "📰Дайджест Notamedia за июнь: победы компании в конкурсе «Wadline Spring Awards». Больше новостей из",
+    "text": "© ООО «НОТАМЕДИА»\nОГРН 1047796207513\nИНН 7715515265\nОКВЭД 63.11.1 (ОСНОВНОЙ),\n        82.99, 73.11, "
+  },
+  {
+    "id": "044541e0bc457aa64de8b0916c21e20fdff86739",
+    "url": "https://stripe.com/legal/tax",
+    "title": "Stripe Tax Services Terms",
+    "description": "",
+    "text": "The content of this page has been moved for the region where you are located. Please visit the Strip"
+  },
+  {
+    "id": "ce3fe3738d08168617e8c16daee03747a2bc3d4f",
+    "url": "https://stripe.com/legal/bizum",
+    "title": "Bizum Payment Terms",
+    "description": "Bizum Payment Terms",
+    "text": "Last updated: 23 May 2025\nThe Bizum Service (“Bizum”) is an instant payment mobile app in Spain. You"
+  },
+  {
+    "id": "bbd9d0eb0ee0f1b8a5680107bfd8970f6326f450",
+    "url": "https://stripe.com/legal/stripe-events-attendee-guidelines",
+    "title": "Legal > Attendee Guidelines for Stripe Events > Content",
+    "description": "",
+    "text": "Last Updated: April 21, 2025\nStripe believes in creating a friendly, welcoming, and safe environment"
+  },
+  {
+    "id": "b6bec2952fe9161aace446c3c4637cc8f43a3f7a",
+    "url": "https://stripe.com/legal/organizations",
+    "title": "Stripe Organizations Terms of Service",
+    "description": "Stripe Organizations Terms of Service",
+    "text": "The content of this page is not applicable to the region where you are located. The Stripe Legal pag"
+  },
+  {
+    "id": "73729c2344caa9a42377fade703abde57eb84f1a",
+    "url": "https://stripe.com/legal/eu-consultant-privacy-notice",
+    "title": "Privacy Policy",
+    "description": "",
+    "text": "We've recently added a new data controller, Stripe Technology Company Limited, to our Privacy Center"
+  },
+  {
+    "id": "6579bb02f76553179014950e4820c56b1101ca9d",
+    "url": "https://stripe.com/legal/sponsorship-agreement",
+    "title": "Legal > Global > Stripe Events Sponsorship Agreement",
+    "description": "",
+    "text": "Last Modified: September 27, 2024\nThis Event Sponsorship Agreement (“Agreement”), between you (“Spon"
+  },
+  {
+    "id": "128df9ed3ba25ae51bb8d701675f967a0d00e465",
+    "url": "https://stripe.com/legal/sponsorship-policy",
+    "title": "Legal > Global > Stripe Events Sponsorship Policy",
+    "description": "",
+    "text": "Last Modified: September 27, 2024\n1.    Exhibit Space. If Stripe provides you with an exhibit space "
+  },
+  {
+    "id": "63f939c8b5a8bdcbb2665f0f970a025808117f42",
+    "url": "https://stripe.com/legal/check-scan",
+    "title": "Stripe Check Scan Service Payment Method Terms",
+    "description": "Stripe Check Scan Service Payment Method Terms",
+    "text": "Preview\nLast updated: July 10, 2025\nThese Payment Method Terms (“Terms”) apply when you use the Stri"
+  },
+  {
+    "id": "48fc77bda575d7c3a2465e7b8be60eea277e3c60",
+    "url": "https://stripe.com/legal/stripe-event-speaker-release",
+    "title": "Legal > Global > Stripe Event Speaker Release",
+    "description": "",
+    "text": "Last modified: November 7, 2024\nThis speaker release (“Agreement”) relates to your participation as "
+  },
+  {
+    "id": "564d171e334bf9daeb83226a47821ecc0a6f8439",
+    "url": "https://stripe.com/legal/sfa-terms",
+    "title": "Stripe Stablecoin Financial Account - UX Services Terms",
+    "description": "Stripe Stablecoin Financial Account - UX Services Terms",
+    "text": "These Stripe Stablecoin Financial Account - UX Services Terms (“Preview Services Terms”) form a lega"
+  },
+  {
+    "id": "2ec1afa52a9f0edc5ee4a035c9398082c9f40388",
+    "url": "https://metro.co.uk/2025/09/27/never-know-husband-killed-left-no-note-24267966/",
+    "title": "I'll never know why my husband killed himself - he left no note | Metro News",
+    "description": "Lisa's husband Alan took his own life - something the mum-of-three says was completely unexpected an",
+    "text": "Frantically tearing through our house, I searched for a letter from my late husband.\nThis was just d"
+  },
+  {
+    "id": "8d93bc1945e6c8e4ef34cd9ba1551ce5fe4d0d61",
+    "url": "https://metro.co.uk/2025/09/27/thomas-skinner-insists-made-right-decision-strictly-despite-scandals-24277633/",
+    "title": "Thomas Skinner insists he 'made right decision to do Strictly' despite scandals | Metro News",
+    "description": "Thomas Skinner, who is paired with Amy Dowden, has no regrets about being part of the Strictly Come ",
+    "text": "Thomas Skinner has insisted he doesn’t regret agreeing to star on Strictly Come Dancing despite rece"
+  },
+  {
+    "id": "d2e82356bd6bd336770ee290481f37e5058830dd",
+    "url": "https://metro.co.uk/2025/09/27/rare-lion-that-captured-the-hearts-of-millions-at-uk-zoo-dies-aged-18-24277900/",
+    "title": "Rare lion that 'captured the hearts of millions' at UK zoo dies aged 18 | News UK | Metro News",
+    "description": "Iblis the Asiatic lion was found dead aged 18 this week at Chester Zoo in Cheshire.",
+    "text": "A rare lion that was the focus of a popular Channel 4 show has died at Chester Zoo.\nIblis the Asiati"
+  },
+  {
+    "id": "f3949b9a405b36b31949e0a9cc7e85e22ab13058",
+    "url": "https://metro.co.uk/2025/09/27/girl-15-raped-childrens-play-area-by-man-travelled-120-miles-meet-her-24277946/",
+    "title": "Girl, 15, raped in children's play area 'by man who travelled 120 miles to meet her' | News UK | Met",
+    "description": "The attack took place in the children’s play area in Poole Park, Dorset, on Thursday, September 25.",
+    "text": "A 15-year-old girl was raped at a popular park in Dorset.\nThe attack took place in the children’s pl"
+  },
+  {
+    "id": "018117c71bc21268052554883085b0b41a42efa4",
+    "url": "https://metro.co.uk/2025/09/27/rape-victims-living-vicariously-good-her-films-22099456/",
+    "title": "Rape survivors are living vicariously through 'Good for Her' films | Metro News",
+    "description": "Good For Her cinema has changed lives as violence against women and girls rises - from Revenge to Je",
+    "text": "‘After watching Revenge, I knew there was no going back.’\nA fan of horror since she was a teenager, "
+  },
+  {
+    "id": "493c6bb4c388ad157a0f9efbe233b6dc8417fac6",
+    "url": "https://metro.co.uk/2025/09/27/prince-harry-denies-trying-drive-a-wedge-william-king-charles-24276899/",
+    "title": "Prince Harry denies 'driving a wedge' between William and King Charles | News UK | Metro News",
+    "description": "Prince Harry recently reunited with King Charles, over tea, for the first time in more than a year a",
+    "text": "Prince Harry has denied any claims he is trying to ‘drive a wedge’ between King Charles and Prince W"
+  },
+  {
+    "id": "3eb9da8ac70666447d5e299e6460456b8e8fa559",
+    "url": "https://metro.co.uk/2025/09/27/full-strictly-2025-cast-lineup-celebrities-professional-dancers-24278059/",
+    "title": "Strictly Come Dancing 2025 contestants: Full cast lineup of celebrities and professional dancers | M",
+    "description": "Strictly Come Dancing 2025 is underway - on Saturday night's launch show, all celebrities found out ",
+    "text": "Strictly Come Dancing 2025 is well and truly underway, and all 15 celebrities have their professiona"
+  },
+  {
+    "id": "ffc522d6349b3221c7c6a4d11b3829dcac465703",
+    "url": "https://metro.co.uk/2025/09/27/katie-prices-boyfriend-worried-well-being-rapid-weight-loss-24277709/",
+    "title": "Katie Price's boyfriend is 'worried' for her well-being after rapid weight loss | Metro News",
+    "description": "Katie Price's boyfriend JJ Slater is reportedly 'terrified' of her losing more weight after a concer",
+    "text": "Katie Price’s boyfriend JJ Slater is reportedly ‘terrified’ of the reality star losing more weight a"
+  },
+  {
+    "id": "cddfa9a9db59486ecc247e02028a5c1d9b9179fe",
+    "url": "https://metro.co.uk/2025/09/27/footballers-told-phrase-come-lads-offensive-24277659/",
+    "title": "Footballers told the phrase 'come on lads' is now offensive | Football | Metro News",
+    "description": "Footballers have been warned against using the phrase 'come on lads' which is now deemed offensive.",
+    "text": "Footballers have been warned against using the phrase ‘come on lads’ which is now deemed offensive.\n"
+  },
+  {
+    "id": "6aeadc6bc64b4e570f25df7d7dd9a02548a369ef",
+    "url": "https://metro.co.uk/2025/09/27/shambolic-micah-richards-slams-two-manchester-united-stars-brentford-defeat-24277532/",
+    "title": "'Shambolic' - Micah Richards slams two Man Utd stars after Brentford defeat | Football | Metro News",
+    "description": "Micah Richards described Manchester United's defending in their 3-1 Premier League defeat to Brentfo",
+    "text": "Micah Richards described Manchester United’s defending in their 3-1 Premier League defeat to Brentfo"
+  },
+  {
+    "id": "09223c3e658b3cfb930a3c5588980fd390b501b3",
+    "url": "https://www.ifood.com.br/busca?q=marmita",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a7f8b6be55ff77151135b346255c93cd223e82c4",
+    "url": "https://www.ifood.com.br/busca?q=feijoada",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "23b16e079d10c4db66b014602aac780686a40420",
+    "url": "https://www.ifood.com.br/busca?q=spoleto",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "10b19399965253a3055fd3fa8fdfee91c3aefdf0",
+    "url": "https://www.ifood.com.br/busca?q=churrasco",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e23613c77fa97d5232670d9ff1e3dfe6532b129a",
+    "url": "https://www.ifood.com.br/busca?q=yakisoba",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d9e11c2309330aba79a29c5f3fb96874a6221891",
+    "url": "https://www.ifood.com.br/busca?q=frango",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3dab1607cdd89c518f88517cde325bdd5649c0af",
+    "url": "https://www.ifood.com.br/busca?q=ragazzo",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "328c83a5c291dea4ab49b77df90e1680f55ac1e9",
+    "url": "https://www.ifood.com.br/busca?q=madero",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0e2df8ed60f1219ddf1454e7c2409e9a4a67f4b4",
+    "url": "https://www.ifood.com.br/busca?q=bk",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3d190760ade5adc6d5b6387a47a561be8928cbfb",
+    "url": "https://www.ifood.com.br/busca?q=coco-bambu",
+    "title": "iFood",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "22499d85a0f341edc0dedb8f315fc51b60efb036",
+    "url": "https://www.standard.co.uk/sport/football/chelsea-fc-vs-brighton-live-stream-latest-score-updates-result-premier-league-b1250005.html",
+    "title": "Chelsea FC vs Brighton LIVE: Premier League match stream, latest team news, lineups, TV, prediction ",
+    "description": "The Blues must overcome injuries to some key players",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "76426c10d118bd8b6c9cff4ab6b58ae035efedcf",
+    "url": "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-vs-canada-live-match-stream-latest-score-updates-womens-rugby-world-cup-b1250015.html",
+    "title": "England vs Canada LIVE: Women's Rugby World Cup match stream, latest score, and try updates | The St",
+    "description": "Red Roses out to make amends for final defeat last time out",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "2853e9664d47e195f27fb6b1c6896bd3cbf5ceb7",
+    "url": "https://www.standard.co.uk/news/crime/btp-woman-upskirting-moorgate-london-b1250024.html",
+    "title": "Woman upskirted on escalator at Moorgate Tube station as police launch manhunt | The Standard",
+    "description": "Anyone who recognises male in CCTV image is urged to come forward",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "30ca1089f68ac656bde264bb44ef67780f8344b8",
+    "url": "https://www.standard.co.uk/news/world/russian-submarine-risk-explosion-mediterranean-b1250023.html",
+    "title": "Fears of disaster as Russian nuclear submarine reports major malfunction in Mediterranean | The Stan",
+    "description": "Russian submarine risk explosion Mediterranean",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "b27ce23dd4aa41795780d22228595d9d4cc554cf",
+    "url": "https://www.standard.co.uk/sport/football/west-ham-nuno-manager-potter-sacked-b1250021.html",
+    "title": "Nuno Espirito Santo confirmed as new West Ham boss after Graham Potter sacked | The Standard",
+    "description": "The former Nottingham Forest coach will take to the dugout for the first time on Monday night",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "06c450cb0ab46ec4e660522aab4c5580129bd3e3",
+    "url": "https://www.standard.co.uk/sport/golf/ryder-cup-2025-live-stream-scores-updates-results-saturday-europe-usa-b1249863.html",
+    "title": "Ryder Cup 2025 LIVE: Day 2 latest scores and results as Europe bid to halt US fightback | The Standa",
+    "description": "Rory McIlroy and Tommy Fleetwood secure point after Bryson DeChambeau and Cameron Young win in Satur",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "7ce1ac96aa3891712d96b7e60586d76ce0179109",
+    "url": "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/canada-team-england-womens-rugby-world-cup-final-b1249749.html",
+    "title": "Canada XV vs England: Kevin Rouet names unchanged team for Women's Rugby World Cup final | The Stand",
+    "description": "Kevin Rouet keeps faith in the same squad that has helped Canada secure a place in the World Cup fin",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "81663489de766c76a996f27c829712a89d38ff64",
+    "url": "https://www.standard.co.uk/sport/football/man-utd-player-ratings-brentford-fernandes-sesko-b1250020.html",
+    "title": "Manchester United ratings vs Brentford: Bruno Fernandes poor as Benjamin Sesko nets first goal in de",
+    "description": "Red Devils sit in 13th in the Premier League table",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "19d2d5010e2668337c49fdbb54adcdb2bd654866",
+    "url": "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-team-canada-womens-rugby-world-cup-final-b1249631.html",
+    "title": "England team vs Canada: Red Roses unchanged for Women's Rugby World Cup final | The Standard",
+    "description": "John Mitchell keeps faith with exact same squad that defeated France in the last four",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "e662821e866949953f7713cae96512311b3b1232",
+    "url": "https://www.standard.co.uk/sport/rugby/womens-rugby-world-cup/england-vs-canada-prediction-kick-off-time-latest-team-news-tv-live-stream-h2h-results-odds-womens-rugby-world-cup-final-preview-today-b1249945.html",
+    "title": "England vs Canada LIVE: Women's Rugby World Cup match stream, latest score, and try updates | The St",
+    "description": "Red Roses out to make amends for final defeat last time out",
+    "text": "To use the search feature, we need your consent to load Google Custom Search, which may use cookies "
+  },
+  {
+    "id": "54665e8daf9a56d6d3165bd74a99502cbc4aa93a",
+    "url": "https://www.today.com/shop/anti-aging-hair-products-t229131",
+    "title": "15 Best Anti-aging Hair Products 2025, According to Stylists",
+    "description": "Hairstylists share their favorite anti-aging hair sprays, shampoos and more from brands like R+Co, A",
+    "text": "Kamari Stewart\nAssociate Editor\nMost people don't bat an eye at shelling out big bucks to update ski"
+  },
+  {
+    "id": "ed149b3f6faa291967af687715d2ea7855541313",
+    "url": "https://www.today.com/shop/early-october-prime-day-tech-deals-2025-rcna233443",
+    "title": "The Best Early Tech Deals to Shop Ahead of October Prime Day",
+    "description": "Amazon has early tech deals ahead of Prime Big Deal Days with major discounts on popular brands like",
+    "text": "Jannely Espinal\nSEO Writer\nAmazon's biggest day is coming back in October with Prime Big Deal Days. "
+  },
+  {
+    "id": "e5e697d6c6adad19349c5971a218e6756a92d021",
+    "url": "https://www.today.com/shop/best-lighted-makeup-mirror-t210108",
+    "title": "Best Lighted Makeup Mirrors: Expert Picks and Editor-Tested",
+    "description": "Discover the best lighted makeup mirrors of 2025. Our editors tested top models and beauty experts s",
+    "text": "Wendy Sy\nContributor\nAllie Wise\nAssociate Editor\nLighted mirrors are one of those genius inventions "
+  },
+  {
+    "id": "600b11ffc0a826fc80f9373238c673c955c9edf0",
+    "url": "https://www.today.com/shop/best-art-gifts-kids-t271982",
+    "title": "Artsy Gifts for Creative Kids in 2025",
+    "description": "Shop the best gifts for kids who love art this holiday season. From painting to drawing, buy top bra",
+    "text": "Angela Hatem\nBella Druckman\nShop TODAY Production Coordinator\nMy 3-year-old son might be the next mi"
+  },
+  {
+    "id": "2e8c227b5742439cc7eb0f35c85262ac213c312c",
+    "url": "https://www.today.com/shop/best-drugstore-wrinkle-cream-buy-now-t128335",
+    "title": "Best drugstore wrinkle creams 2025, according to experts",
+    "description": "These are the best drugstore wrinkle creams for under $55. Check out top-rated anti-wrinkle creams f",
+    "text": "Aly Walansky\nAllie Wise\nAssociate Editor\nThere are wonderful things about aging, whether it's feelin"
+  },
+  {
+    "id": "19bfe74bc2f32610052fafa787eae2259fe33f35",
+    "url": "https://www.today.com/shop/rizos-curls-cream-curly-hair-rcna132324",
+    "title": "The Rizos Curls Curl Cream Review",
+    "description": "The Rizos Curls Curl Cream is great for adding volume and natural curls for curly to wavy hair types",
+    "text": "Annie Shigo\nSocial media editorial assistant\nI've been trying to achieve effortless Carrie Bradshaw-"
+  },
+  {
+    "id": "401eb51251f21ef8604c35f29eeeb49e66619c4f",
+    "url": "https://www.today.com/shop/best-early-october-prime-day-beauty-deals-2025-rcna233513",
+    "title": "October Prime Day 2025: Best Early Beauty Deals to Shop Now",
+    "description": "Amazon Prime Day returns October 7 and 8, but you can shop these beauty deals now. Shop over 50% off",
+    "text": "Madison San Miguel\nEditorial Assistant\nAmazon's fall Prime Day, also known as Prime Big Deal Days, i"
+  },
+  {
+    "id": "2b9c073489a0cf9f55a4022348bab744da504d20",
+    "url": "https://www.today.com/shop/october-prime-day-2025-what-to-know-rcna225918",
+    "title": "Amazon October Prime Day 2025: Everything We Know So Far",
+    "description": "Prime Big Deal Days, often referred to as October Prime Day, is returning this fall. Amazon confirme",
+    "text": "Madison San Miguel\nEditorial Assistant\nIt's never too early to get ahead of the season of gifting (a"
+  },
+  {
+    "id": "310c90770f73c10fd04eb9f40ad956b998d9a66b",
+    "url": "https://www.today.com/shop/best-bakuchiol-skin-care-products-rcna233523",
+    "title": "What is Bakuchiol? Experts Weigh in on the Skin Care Ingredient",
+    "description": "Learn about bakuchiol, a natural retinol alternative. Shop the best Bakuchiol products from Burt's B",
+    "text": "Allie Wise\nAssociate Editor\nEmma Stessman\nWriter\nWhen it comes to anti-aging ingredients, retinol is"
   }
 ]
