@@ -246986,5 +246986,516 @@
     "title": "Microsoft Suite Integration | Calendly",
     "description": "Simplify your scheduling and get more done by connecting Calendly with Microsoft integrations includ",
     "text": "Gain insights on how meetings are changing—spanning productivity, engagement, and strategies for imp"
+  },
+  {
+    "id": "38928632623ea316d603e6a8380e5b215249ec44",
+    "url": "https://www.verisign.com/en_US/channel-resources/become-a-registrar/idn-registrar/index.xhtml",
+    "title": "How To Become An IDN Registrar - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "41f506788d45800a6d11f45a5df5a3211ed3fd56",
+    "url": "https://www.verisign.com/en_US/channel-resources/become-a-registrar/idn-tlds-domain-registrar/index.xhtml",
+    "title": "How To Become A Verisign IDN TLD Registrar - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "fe505a64c3849832033025762162ee80eda2b984",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/zone-file/index.xhtml",
+    "title": "Zone Files For Top-Level Domains (TLDs) - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "473afcfb13413089a7ca013cdcb36f11d6e56a2f",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/registry-lock/index.xhtml",
+    "title": "Prevent Domain Hijacking With Verisign Registry Lock Service - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "153cd57c9da94fb69b00bf00f87fa68043d8f91d",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/index.xhtml",
+    "title": "Explore Verisign Registrar Services And Domain Products - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "736e5c7f973a77ceceeeb1086d6d70dfa56783c8",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn-sdks/index.xhtml",
+    "title": "Verisign IDN SDK: Data Encoding For DNS Registrations - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "08d42e5c8257df5fe9ccb6d75f0034aabed92a12",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/epp-sdks/index.xhtml",
+    "title": "Verisign EPP SDKs: Guide And Tools - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "d39ef29933a66e561cebc130e94874cbf5c3f087",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/index.xhtml",
+    "title": "How To Register Internationalized Domain Names (IDNs) - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "0cc964c5fca9efcf09dcb7c4f64ec997368c477c",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-conversion-tool/index.xhtml",
+    "title": "Verisign IDN Conversion Tool To Convert Internationalized Domain Name Into Punycode - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "e0f88650ee0d5bdf0318a9dcd8b09251447e046f",
+    "url": "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-policy/additional-logic/index.xhtml",
+    "title": "Additional Logic: IDN (Internationalized Domain Name) Domain - Verisign",
+    "description": "",
+    "text": "Search Verisign.com\nGot a great website name? See if it's available:\nFollow Us\nGot a great website n"
+  },
+  {
+    "id": "28df33ca7a7e622a59801284839cc593173a67e3",
+    "url": "https://www.eset.com/za/business/remote-administrator/",
+    "title": "Remote Administrator for business endpoints | ESET",
+    "description": "Manage all your company's endpoints, servers and mobile devices with a single ESET Remote Administra",
+    "text": "ESET Remote Admnistrator has been improved and renamed to ESET Security Management Center! Check it "
+  },
+  {
+    "id": "7d603544c67b5e560c63ebc9dedc76f09a76012d",
+    "url": "https://www.eset.com/za/business/shared-local-cache/",
+    "title": "Shared Local Cache | ESET",
+    "description": "ESET Shared Local Cache boosts scanning speeds in virtual environments by saving and comparing metad",
+    "text": "Please note this product has reached Limited Support level approaching its End of Life. Learn more\nW"
+  },
+  {
+    "id": "923aecee421d8bcfa1c8da7b3304f1a65df522e6",
+    "url": "https://www.eset.com/za/business/virtualization-security-vmware/",
+    "title": "Virtualization Security for VMware | ESET",
+    "description": "ESET Virtualization Security for VMware NSX and vShield represents an agentless security solution wi",
+    "text": "Are you an existing customer?\nAgentless security\nSupport for Linux\nDeploys via appliance\nHigh perfor"
+  },
+  {
+    "id": "dc55875261efe4bfddc0d5725f4a86f2a5f37cfe",
+    "url": "https://www.eset.com/za/business/remote-administrator/download/",
+    "title": "Download ESET Remote Administrator | ESET",
+    "description": "",
+    "text": "Your download of file  has automatically started. If your download does not start automatically, ple"
+  },
+  {
+    "id": "87827e6ee6b819f0f630d0c4d3341ed067293443",
+    "url": "https://www.eset.com/za/business/download/virtualization-security-vmware/",
+    "title": "Download Virtualization Security for VMware | ESET",
+    "description": "ESET Virtualization Security for VMware NSX. Advanced Cybersecurity & Internet Solutions.",
+    "text": "Your download of file  has automatically started. If your download does not start automatically, ple"
+  },
+  {
+    "id": "58ee172e090ddc5673090b92fba17f955e561269",
+    "url": "https://www.eset.com/za/business/download/shared-local-cache/",
+    "title": "Download ESET Shared Local Cache | ESET",
+    "description": "",
+    "text": "Your download of file  has automatically started. If your download does not start automatically, ple"
+  },
+  {
+    "id": "3670eac2d09256c63c469aa6a2fc2a44a63cb1f6",
+    "url": "https://www.eset.com/za/business/mail-security-kerio/",
+    "title": "Kerio Gateway Security | ESET",
+    "description": "ESET Security for Kerio defends you against malware with one install to scan email and web traffic p",
+    "text": "Are you an existing customer?\nSupport for Kerio Connect 8.0+\nScans all email and web traffic\nRule-ba"
+  },
+  {
+    "id": "f3a7060cee8eeeefc4f4499850b34ba9d419a269",
+    "url": "https://www.eset.com/za/business/mail-security-kerio/download/",
+    "title": "Download ESET Security for Kerio | ESET",
+    "description": "",
+    "text": "All-in-one protection of your digital life. Choose a plan according to your needs.\nSpecial solutions"
+  },
+  {
+    "id": "bfb5b3ea63e0a1c606f369748ee47c25e29fc255",
+    "url": "https://www.eset.com/za/business/download/microsoft-sharepoint-security/",
+    "title": "Download ESET Security for Microsoft SharePoint Server | ESET",
+    "description": "Download ESET Security for Microsoft SharePoint. Safeguard your collaboration platform with advanced",
+    "text": "By downloading an older version of this product you explicitly agree to the terms and conditions of "
+  },
+  {
+    "id": "926f49870dca3df6979a84b30faf3a0195c7f160",
+    "url": "https://www.eset.com/za/business/gateway-security-linux/",
+    "title": "Gateway Server Security for Linux | ESET",
+    "description": "ESET Gateway Security for Linux/FreeBSD blocks all malware and emerging internet threats at the peri",
+    "text": "Are you an existing customer?\nLow system demands\nCompatibility with ESET Security Management Center\n"
+  },
+  {
+    "id": "2dec4c96d41ff23e7f4ac980f60c84c6b4fe88ef",
+    "url": "https://www.speedtest.net/es/login",
+    "title": "Speedtest por Ookla - La prueba de velocidad de banda ancha global",
+    "description": "Use Speedtest en todos sus dispositivos con nuestras aplicaciones gratuitas para escritorio y móvil.",
+    "text": "© 2006-2025 Ookla, LLC., a Ziff Davis company. All Rights Reserved. Ookla®, Speedtest®, and Speedtes"
+  },
+  {
+    "id": "3f49bad48a3bc7d41b183b4a33e0ab20e24344a6",
+    "url": "https://www.speedtest.net/fr",
+    "title": "Speedtest d’Ookla – le test de vitesse de connexion global",
+    "description": "Utilisez Speedtest sur tous vos appareils grâce à nos applications pour bureau et mobiles gratuites.",
+    "text": "© 2006-2025 Ookla, LLC., a Ziff Davis company. All Rights Reserved. Ookla®, Speedtest®, and Speedtes"
+  },
+  {
+    "id": "842d190b9c3cf67ab84e7a40739f8833966eb570",
+    "url": "https://www.speedtest.net/es/terms",
+    "title": "Speedtest by Ookla Terms",
+    "description": "Ookla's terms of use",
+    "text": "Effective September 27, 2023\nNote: The Ookla Terms of Use have been updated. Please review the updat"
+  },
+  {
+    "id": "f6656a162c275be929e1a5aa240486ae10c6e83a",
+    "url": "https://www.speedtest.net/es/settings",
+    "title": "Speedtest por Ookla - La prueba de velocidad de banda ancha global",
+    "description": "Use Speedtest en todos sus dispositivos con nuestras aplicaciones gratuitas para escritorio y móvil.",
+    "text": "© 2006-2025 Ookla, LLC., a Ziff Davis company. All Rights Reserved. Ookla®, Speedtest®, and Speedtes"
+  },
+  {
+    "id": "39a26928d60215cd3573c2b063df91f92b8c18e8",
+    "url": "https://www.speedtest.net/fr/about",
+    "title": "About Speedtest",
+    "description": "The definitive way to measure internet performance, Speedtest provides people with independent insig",
+    "text": "Ookla® Speedtest® is the definitive way to test the performance and quality of an internet connectio"
+  },
+  {
+    "id": "b34f9b1a29acd2bdbc2da75fb24bd09a4815fa61",
+    "url": "https://www.speedtest.net/fr/apps/desktop",
+    "title": "Speedtest pour ordinateur de bureau : test de vitesse Internet pour votre Mac ou PC",
+    "description": "Le Speedtest, un outil intégré spécifiquement conçu pour allier vitesse, clarté et facilité d'utilis",
+    "text": "Pourquoi prendre le temps de charger un navigateur alors que le Speedtest se trouve directement sur "
+  },
+  {
+    "id": "97c85dac25ba39fe23184ca0053e169f99bd3ce8",
+    "url": "https://www.speedtest.net/fr/help",
+    "title": "Speedtest Help",
+    "description": "Understand your Speedtest result with answers to frequently asked questions",
+    "text": "Check whether you’re streaming or downloading anything that might be using bandwidth during the Spee"
+  },
+  {
+    "id": "0c58cd6720da064b860ac92ce0692b4f9d8d20a4",
+    "url": "https://www.speedtest.net/fr/audience-landing",
+    "title": "Speedtest Advertising",
+    "description": "Advertise on Speedtest",
+    "text": "Each year, 500 million unique visitors from around the world rely on Speedtest to provide them with "
+  },
+  {
+    "id": "d29dcab21feacd2b42a34c81d62720277fee8e0f",
+    "url": "https://www.speedtest.net/fr/mobile",
+    "title": "Speedtest mobile : test de vitesse Internet pour Android et iOS",
+    "description": "Découvrez la vitesse de votre connexion mobile à l'aide d'un test facile, réalisé en un tour de main",
+    "text": "Découvrez la vitesse de votre connexion mobile à l'aide d'un test facile, réalisé en un tour de main"
+  },
+  {
+    "id": "b6330a1b4e62cd2bcac4228ae83b5e83dee44784",
+    "url": "https://www.speedtest.net/fr/mobile/amazon",
+    "title": "Speedtest pour Android : application de test de vitesse Internet mobile pour Android",
+    "description": "Téléchargez l'application Speedtest gratuite pour Android et vérifiez si votre connexion Internet es",
+    "text": "La bonne performance de votre téléphone Android repose sur le réseau auquel il est connecté. Découvr"
+  },
+  {
+    "id": "33b3fb03f6f8e0d0a88ce575f9d45d47bfa1bde2",
+    "url": "https://www.outbrain.com/careers/success/",
+    "title": "Careers | Join Outbrain",
+    "description": "We're always on the lookout for passionate and innovative individuals! Discover our open positions!",
+    "text": "Outbrain for Direct Response is subsidiary of the new Teads.\nDiscover how the new Teads elevated out"
+  },
+  {
+    "id": "f1abedf6d51b9a96c9b789741a09d11094049fa3",
+    "url": "https://www.outbrain.com/contextual-advertising/",
+    "title": "Contextual Advertising - Explore the cookieless future | Outbrain.com",
+    "description": "In a cookieless world, contextual advertising is the optimal solution for effective audience targeti",
+    "text": "Outbrain for Direct Response is subsidiary of the new Teads.\nDiscover how the new Teads elevated out"
+  },
+  {
+    "id": "4b31253b5cd7ab08ab52644d40e1356d5139bff7",
+    "url": "https://de.slideshare.net/slideshow/what-do-you-see/8299",
+    "title": "What do you see? | PPS",
+    "description": "Das Dokument beschreibt eine Reihe von optischen Täuschungen und interaktiven Aufgaben, die darauf a",
+    "text": "Das Dokument beschreibt eine Reihe von optischen Täuschungen und interaktiven Aufgaben, die darauf a"
+  },
+  {
+    "id": "1422463ab25d56e80c67a5c76f4ee81d4f339bdf",
+    "url": "https://de.slideshare.net/slideshow/einfuehrung-in-das-bau-und-vermessungwesen/9229",
+    "title": "Einfuehrung in das Bau- und Vermessungwesen | PPT",
+    "description": "Das Dokument bietet eine umfassende Einführung in das Bau- und Vermessungswesen mit Schwerpunkt auf ",
+    "text": "Das Dokument bietet eine umfassende Einführung in das Bau- und Vermessungswesen mit Schwerpunkt auf "
+  },
+  {
+    "id": "37c760b1e87426200e34f6a744fa7a54809f0abb",
+    "url": "https://de.slideshare.net/slideshow/wikipedia-trift-bibliothek-visionen-der-zusammenarbeit/5999",
+    "title": "Wikipedia trift Bibliothek. Visionen der Zusammenarbeit | ODP",
+    "description": "Das Dokument thematisiert die Zusammenarbeit zwischen Wikipedia und Bibliotheken, wobei gemeinsame I",
+    "text": "Das Dokument thematisiert die Zusammenarbeit zwischen Wikipedia und Bibliotheken, wobei gemeinsame I"
+  },
+  {
+    "id": "876a8662e179eac20a3887fa8fa1174e7c0240f3",
+    "url": "https://de.slideshare.net/slideshow/keyhote-herbstforen/6539",
+    "title": "Keyhote Herbstforen | PPT",
+    "description": "Das Dokument beschreibt das ImmobilienScout Forum 2007, fokussiert auf aktuelle Trends und Prognosen",
+    "text": "Das Dokument beschreibt das ImmobilienScout Forum 2007, fokussiert auf aktuelle Trends und Prognosen"
+  },
+  {
+    "id": "c724c31d35769f2a08da935aebab9c87f924930d",
+    "url": "https://de.slideshare.net/slideshow/klinischtherapeutische-studien-ebm-dim/5769",
+    "title": "Klinisch-Therapeutische Studien: EBM DIM | PPT | Medical Health",
+    "description": "Das Dokument diskutiert kritische Aspekte klinischer Studien, insbesondere die Wahl und Relevanz von",
+    "text": "Das Dokument diskutiert kritische Aspekte klinischer Studien, insbesondere die Wahl und Relevanz von"
+  },
+  {
+    "id": "962bbe0a2b18d730327c7869b346dbe932a7ed12",
+    "url": "https://de.slideshare.net/slideshow/authoring-management/11021",
+    "title": "Authoring Management | PPT",
+    "description": "Das Dokument behandelt die aktuellen und zukünftigen Entwicklungen von Autorentools für die Content-",
+    "text": "Das Dokument behandelt die aktuellen und zukünftigen Entwicklungen von Autorentools für die Content-"
+  },
+  {
+    "id": "d5db1b54a1055605c2151e1d6dc756468625c3f5",
+    "url": "https://de.slideshare.net/slideshow/stirlingmotor/11055",
+    "title": "Stirlingmotor | PPT",
+    "description": "Das Dokument behandelt die Lehrinhalte zum Stirlingmotor im Kontext physikalischer Prinzipien und ök",
+    "text": "Das Dokument behandelt die Lehrinhalte zum Stirlingmotor im Kontext physikalischer Prinzipien und ök"
+  },
+  {
+    "id": "1d38ce3c00d4cd6735445d7e8aa952089252db51",
+    "url": "https://de.slideshare.net/slideshow/induktion/11271",
+    "title": "Induktion | PPT | Homework and Study | Education",
+    "description": "Das Dokument beschreibt den Lehrplan für das Thema Induktion und Wechselspannung in den Jahrgängen 9",
+    "text": "Das Dokument beschreibt den Lehrplan für das Thema Induktion und Wechselspannung in den Jahrgängen 9"
+  },
+  {
+    "id": "cb2c5d69b12d17a17efc1bbbf72a33093e8bd334",
+    "url": "https://de.slideshare.net/slideshow/ic-preisoptimierung-cbc-conjoint/11442",
+    "title": "IC Preisoptimierung CBC Conjoint | PPT",
+    "description": "Das Dokument beschreibt die IC-Preisoptimierung, die Unternehmen ermöglicht, durch umfassende Analys",
+    "text": "Das Dokument beschreibt die IC-Preisoptimierung, die Unternehmen ermöglicht, durch umfassende Analys"
+  },
+  {
+    "id": "339b3161e93c47ae6b9257b63646cec101a4a3be",
+    "url": "https://de.slideshare.net/slideshow/awo-oscon-2006/11680",
+    "title": "AWO @ OSCON 2006 | PPT",
+    "description": "Die Außenwirtschaft Österreich (AWO) nutzt das Content-Management-System Typo3, um die Web-Präsenz i",
+    "text": "Die Außenwirtschaft Österreich (AWO) nutzt das Content-Management-System Typo3, um die Web-Präsenz i"
+  },
+  {
+    "id": "c58d7af2f868e95e3bf0ed2d911e07e482364b79",
+    "url": "https://www.eventbrite.com/d/thailand--bangkok/blockchain/",
+    "title": "Discover Blockchain Events & Activities in Bangkok, Thailand | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nSales end soon\nMonday at 7:00 PM\nSuan Lumphini · WorkLab Office\nSal"
+  },
+  {
+    "id": "4db71a60df9bd62159dd3a947a5336406aa00c9b",
+    "url": "https://www.eventbrite.com/d/italy--quarto-daltino/forte-marghera/",
+    "title": "Discover Forte Marghera Events & Activities in Quarto d'Altino, Italy | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nJust added\nThu, Oct 30, 9:15 AM\nMestre · Via Forte Marghera, 30\nJus"
+  },
+  {
+    "id": "cea92c737d235f4df5924f378c8fc80876e374a3",
+    "url": "https://www.eventbrite.com/d/md--colesville/muay-thai/",
+    "title": "Discover Muay Thai Events & Activities in Colesville, MD | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nWed, Nov 26, 6:30 PM\nObservatory Heights · Saints Row Brewing\nWed, "
+  },
+  {
+    "id": "9a23ec6aea72bc2e1515673ab268e7845a103d8a",
+    "url": "https://www.eventbrite.com/d/ca--norco--gateway/taco-feast/",
+    "title": "Discover Taco Feast Events & Activities in Gateway, Norco | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nSales end soon\nTuesday at 3:00 PM\nDowntown · sabor yucateco\nSales e"
+  },
+  {
+    "id": "a6da9a643b385fe6ba33c7406ada62efd30a4828",
+    "url": "https://www.eventbrite.com/d/wa--burlington/september-4-2025/",
+    "title": "Discover September 4 2025 Events & Activities in Burlington, WA | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nFri, Sep 4, 9:00 AM\nSterling · 24260 Moore St\nFri, Sep 4, 9:00 AM\nS"
+  },
+  {
+    "id": "2df7be45a859bd0bbc030bf87f01de6e137e2996",
+    "url": "https://www.eventbrite.com/d/pa--aliquippa/pctkx/",
+    "title": "Discover Pctkx Events & Activities in Aliquippa, PA | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nSat, Nov 15, 11:30 AM\nElfinwild · Elfinwild Volunteer Fire Company "
+  },
+  {
+    "id": "e0b6e90a6c3873e192c9204b42db5431b38808f2",
+    "url": "https://www.eventbrite.com/d/ma--barnstable-town/tantric-massage/",
+    "title": "Discover Tantric Massage Events & Activities in Barnstable Town, MA | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nMon, Oct 6, 6:30 PM\nSantuit · Cape Cod Wellness Works, Trinity Plac"
+  },
+  {
+    "id": "38b5f6e4206f30922d2d0c6e32f034465429200f",
+    "url": "https://www.eventbrite.com/d/sc--loris/all-white-party/",
+    "title": "Discover All White Party Events & Activities in Loris, SC | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nToday at 7:00 PM\nRamsey Acres · 2997 Waccamaw Blvd unit 303\nToday a"
+  },
+  {
+    "id": "f71475fc7f1b7ee351b20f47443def043ff170d0",
+    "url": "https://www.eventbrite.com/d/nj--far-hills--mine-brook/trump-national-bedmister/",
+    "title": "Discover Trump National Bedmister Events & Activities in Mine Brook, Far Hills | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nThu, Nov 20, 11:30 AM\nNew Jersey · Trump National Golf Club Bedmins"
+  },
+  {
+    "id": "42c8ee0483363b410d9db778a546590019f38a67",
+    "url": "https://www.eventbrite.com/d/fl--lakeland/shows/",
+    "title": "Discover Shows Events & Activities in Lakeland, FL | Eventbrite",
+    "description": "",
+    "text": "Filters\nSearch for online events\nSun, Oct 5, 3:00 PM\nLake Morton Terrace · Junior League Building\nSu"
+  },
+  {
+    "id": "519a807fa974aef6c0e69c21f0d69b592bd29eb4",
+    "url": "https://www.aliexpress.com/star/en/d-article-8000001592533061.html",
+    "title": "chaussures très jolie, mais il - Aliexpress",
+    "description": "chaussures très jolie, mais il faut prendre une taille en plus, ma fille chausse du 31, c est petit,",
+    "text": "No item found\nRelated hashtags ( )\nSign In"
+  },
+  {
+    "id": "0e5052f47869a9f5c07dc7f8c1ba75d49eda0157",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/sully-wls-gb/van/",
+    "title": "Minivan Rentals in Sully, WLS – Book with Uber",
+    "description": "Get minivan rentals in Sully with Uber. Compare vehicles and prices from brands like Avis, Budget, H",
+    "text": "Browse minivan options from trusted car-hire companies with Uber.\nNeed room for everyone? Minivans a"
+  },
+  {
+    "id": "98b13c816707be7771ad0d9eca65180802bcb9c5",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/farnham-eng-gb/van/",
+    "title": "Minivan Rentals in Farnham, ENG – Book with Uber",
+    "description": "Get minivan rentals in Farnham with Uber. Compare vehicles and prices from brands like Avis, Budget,",
+    "text": "Browse minivan options from trusted car-hire companies with Uber.\nNeed room for everyone? Minivans a"
+  },
+  {
+    "id": "56bcd4a9ae81afc446d5d335e03c5622805c73b2",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/warwick-eng-gb/van/",
+    "title": "Minivan Rentals in Warwick, ENG – Book with Uber",
+    "description": "Get minivan rentals in Warwick with Uber. Compare vehicles and prices from brands like Avis, Budget,",
+    "text": "Browse minivan options from trusted car-hire companies with Uber.\nNeed room for everyone? Minivans a"
+  },
+  {
+    "id": "8ed40c0f2101d4ee1c259a48c53113507f7523f2",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/tarbock-eng-gb/van/",
+    "title": "Minivan Rentals in Tarbock, ENG – Book with Uber",
+    "description": "Get minivan rentals in Tarbock with Uber. Compare vehicles and prices from brands like Avis, Budget,",
+    "text": "Browse minivan options from trusted car-hire companies with Uber.\nNeed room for everyone? Minivans a"
+  },
+  {
+    "id": "01ca89929885fb0a2f9b85d15f968cdec53db7ae",
+    "url": "https://www.uber.com/ca/en/r/cities/car-rentals/repentigny-qc-ca/electric/",
+    "title": "Electric Car Rentals in Repentigny, QC – Book with Uber",
+    "description": "Get electric car rentals in Repentigny with Uber. Compare vehicles and prices from brands like Avis,",
+    "text": "Browse electric car options from trusted car rental companies with Uber.\nDrive electric in Repentign"
+  },
+  {
+    "id": "97105d0e6916eb42f3199455031004f56d3b7b59",
+    "url": "https://www.uber.com/ca/en/r/cities/car-rentals/oshawa-on-ca/van/",
+    "title": "Minivan Rentals in Oshawa, ON – Book with Uber",
+    "description": "Get minivan rentals in Oshawa with Uber. Compare vehicles and prices from brands like Avis, Budget, ",
+    "text": "Browse minivan options from trusted car rental companies with Uber.\nNeed room for everyone? Minivans"
+  },
+  {
+    "id": "d162ed27b65733c7ce029b527d67042e796f6168",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/gateshead-eng-gb/electric/",
+    "title": "Electric Car Rentals in Gateshead, ENG – Book with Uber",
+    "description": "Get electric car rentals in Gateshead with Uber. Compare vehicles and prices from brands like Avis, ",
+    "text": "Browse electric car options from trusted car-hire companies with Uber.\nDrive electric in Gateshead. "
+  },
+  {
+    "id": "49fd4037aad95a2faf2883878ce6ca66dfa0abb2",
+    "url": "https://www.uber.com/gb/en/r/cities/car-rentals/shepperton-eng-gb/electric/",
+    "title": "Electric Car Rentals in Shepperton, ENG – Book with Uber",
+    "description": "Get electric car rentals in Shepperton with Uber. Compare vehicles and prices from brands like Avis,",
+    "text": "Browse electric car options from trusted car-hire companies with Uber.\nDrive electric in Shepperton."
+  },
+  {
+    "id": "601647ea2ead00f1c4592aa735e19b55b5cb98e2",
+    "url": "https://www.uber.com/ca/en/r/cities/car-rentals/edmonton-ab-ca/van/",
+    "title": "Minivan Rentals in Edmonton, AB – Book with Uber",
+    "description": "Get minivan rentals in Edmonton with Uber. Compare vehicles and prices from brands like Avis, Budget",
+    "text": "Browse minivan options from trusted car rental companies with Uber.\nNeed room for everyone? Minivans"
+  },
+  {
+    "id": "429d4d9546c941d4b28cb7ffe5f994bacce53297",
+    "url": "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/mississauga-on-ca/electric/",
+    "title": "Voiture électrique Locations àMississauga, ON – Réservez avec Uber",
+    "description": "Mississauga : obtenez une voiture électrique location avec Uber. Comparez les véhicules et les prix ",
+    "text": "Parcourez les options de location voiture électrique offertes par des agences en qui Uber a confianc"
+  },
+  {
+    "id": "e45076403a559ca407dd1d47cd8d6c6c7585fbbd",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2025/09/27/sec-football-scores-week-5-live-updates-stats-highlights-scoreboard/86393605007/",
+    "title": "SEC football scores: Week 5 live updates, stats, highlights",
+    "description": "Stay on top of Saturday's Week 5 college football action with our live SEC scoreboard.",
+    "text": "Things heat up in the SEC in Week 5 with some notable ranked matchups, headlined by No. 3 Georgia ho"
+  },
+  {
+    "id": "28fc6308b8c0938d502bb8150baf5b13d2b97022",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/oregon-penn-state-channel-today-time-tv-schedule-streaming/86344196007/",
+    "title": "Oregon vs Penn State TV channel today, time, schedule, live stream",
+    "description": "Oregon and Penn State will meet in Week 5 of the 2025 college football season. Here's how to watch, ",
+    "text": "Editor's Note: Keep up with Oregon-Penn State with our live blog, here.\nFour full weeks into the 202"
+  },
+  {
+    "id": "6a52525ad829672e9ebb917b73972379ab7b70f9",
+    "url": "https://www.usatoday.com/story/sports/columnist/nancy-armour/2025/09/27/wnba-at-its-thin-skinned-best-with-cheryl-reeve-suspension/86397159007/",
+    "title": "WNBA at its thin-skinned best with Cheryl Reeve suspension",
+    "description": "Coach Cheryl Reeve is suspended for Game 4 of semifinals, an elimination game for Minnesota Lynx, fo",
+    "text": "Way to put your thumb on the scale of the playoffs, WNBA.\nRegardless if you think Minnesota Lynx coa"
+  },
+  {
+    "id": "797b1d7dc6c760e6a483d585c02100b32a132d10",
+    "url": "https://www.usatoday.com/story/sports/golf/ryder/2025/09/27/2025-ryder-cup-live-updates-scores-results-standings/86345026007/",
+    "title": "Ryder Cup 2025 live updates, scores, Day 2 matchups and pairings",
+    "description": "The Ryder Cup continues Saturday at Bethpage Black. Scottie Scheffler headlines Team USA as they tak",
+    "text": "Europe got the best of the USA on Day 2 of the 2025 Ryder Cup on Saturday, Sept. 27. The event pits "
+  },
+  {
+    "id": "d77e7b6f0db16450efe669f1fd74cc80cbe55b22",
+    "url": "https://www.usatoday.com/story/sports/nhl/2025/09/27/marc-andre-fleury-penguins-blue-jackets-tv-updates/86376112007/",
+    "title": "Marc-Andre Fleury final game live updates: TV, streaming",
+    "description": "The Penguins signed retired Marc-Andre Fleury to a tryout deal so he can play in Saturday's preseaso",
+    "text": "Goaltender Marc-Andre Fleury is going full circle.\nFleury helped the Pittsburgh Penguins win three S"
+  },
+  {
+    "id": "6bd264a6ed7b7bfc7940864bf97e16e6a240deab",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/college-football-scores-today-schedule-top-25-rankings-week-5/86338024007/",
+    "title": "College football scores today for top 25 teams in Week 5",
+    "description": "Follow along for updated scores, schedules and results for top-25 college football teams in action f",
+    "text": "Week 5 of the college football schedule is filled with top 25 teams in action — including four games"
+  },
+  {
+    "id": "e8944798e9c0a7dd3d81e631cca02dc68412e415",
+    "url": "https://www.usatoday.com/story/news/politics/2025/09/27/trump-administration-revokes-colombian-president-gustavo-petros-visa/86395835007/",
+    "title": "Trump administration revokes Colombian president Gustavo Petro's visa",
+    "description": "The State Department said it is revoking Colombian President Gustavo Petro's visa over comments he m",
+    "text": "WASHINGTON ‒ The Trump administration said it would revoke Colombian President Gustavo Petro's visa "
+  },
+  {
+    "id": "6f17e303a8ebee950f2e0bd5930fb3e68bd639af",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/big-ten-football-scores-week-5-updates-stats-big-10-scoreboard/86293420007/",
+    "title": "Big Ten football scores: Week 5 live updates, stats, highlights",
+    "description": "Stay on top of Saturday's Week 5 college football action with our live Big Ten scoreboard.",
+    "text": "Things heat up in the Big Ten in Week 5 with some notable ranked matchups, headlined by No. 5 Oregon"
+  },
+  {
+    "id": "124cd95faebee78075951fe9da6814979053a885",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/texas-am-auburn-live-updates-score/86353230007/",
+    "title": "Texas A&M football vs Auburn scores, highlights as Aggies avoid upset",
+    "description": "Texas A&M held off Auburn for a 16-10 win in Week 5. Here are the highlights from the game.",
+    "text": "Texas A&M held on for a 16-10 win over Auburn on Saturday, Sept. 27, in a game where the Aggies near"
+  },
+  {
+    "id": "702b65fd71c86b651f5f62d80c6fa79f2f84c17b",
+    "url": "https://www.usatoday.com/story/sports/soccer/2025/09/27/toronto-fc-vs-inter-miami-messi-playing-score-highlights/86391609007/",
+    "title": "Inter Miami vs Toronto FC score, highlights: Did Messi score today?",
+    "description": "Lionel Messi and Inter Miami played to a 1-1 draw on the road against Toronto FC at BMO Field on Sat",
+    "text": "Lionel Messi and Inter Miami played to a 1-1 draw on the road against Toronto FC at BMO Field on Sat"
   }
 ]

@@ -8047,7 +8047,7 @@
     "urls": []
   },
   "verisign.com": {
-    "lastAt": 1758662386399,
+    "lastAt": 1759015167076,
     "urls": [
       "https://www.verisign.com/en_US/domain-names/index.xhtml",
       "https://www.verisign.com/en_US/",
@@ -8088,21 +8088,31 @@
       "https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml",
       "https://www.verisign.com/en_US/internet-technology-news/verisign-events/registrar-days/index.xhtml",
       "https://www.verisign.com/en_US/channel-resources/become-a-registrar/index.xhtml",
-      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/index.xhtml"
+      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/idn-registrar/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/become-a-registrar/idn-tlds-domain-registrar/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/zone-file/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/registry-lock/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn-sdks/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/epp-sdks/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-conversion-tool/index.xhtml",
+      "https://www.verisign.com/en_US/channel-resources/domain-registry-products/idn/idn-policy/additional-logic/index.xhtml"
     ]
   },
   "live-video.net": {
-    "lastAt": 1758662389309,
+    "lastAt": 1759015170479,
     "urls": []
   },
   "tds.net": {
-    "lastAt": 1758662391239,
+    "lastAt": 1759015171641,
     "urls": [
       "https://tds.net/"
     ]
   },
   "eset.com": {
-    "lastAt": 1758662399849,
+    "lastAt": 1759015181632,
     "urls": [
       "https://www.eset.com/za/beta/",
       "https://www.eset.com/za/beta/form/",
@@ -8143,25 +8153,35 @@
       "https://www.eset.com/za/business/services/threat-intelligence/",
       "https://www.eset.com/za/business/services/eset-authorized-training-center/",
       "https://www.eset.com/za/business/services/micro-updates/",
-      "https://www.eset.com/za/business/security-management-center-azure/"
+      "https://www.eset.com/za/business/security-management-center-azure/",
+      "https://www.eset.com/za/business/remote-administrator/",
+      "https://www.eset.com/za/business/shared-local-cache/",
+      "https://www.eset.com/za/business/virtualization-security-vmware/",
+      "https://www.eset.com/za/business/remote-administrator/download/",
+      "https://www.eset.com/za/business/download/virtualization-security-vmware/",
+      "https://www.eset.com/za/business/download/shared-local-cache/",
+      "https://www.eset.com/za/business/mail-security-kerio/",
+      "https://www.eset.com/za/business/mail-security-kerio/download/",
+      "https://www.eset.com/za/business/download/microsoft-sharepoint-security/",
+      "https://www.eset.com/za/business/gateway-security-linux/"
     ]
   },
   "comcast.com": {
-    "lastAt": 1758662403362,
+    "lastAt": 1759015184595,
     "urls": []
   },
   "hichina.com": {
-    "lastAt": 1758662407481,
+    "lastAt": 1759015188956,
     "urls": []
   },
   "giphy.com": {
-    "lastAt": 1758662408664,
+    "lastAt": 1759015189888,
     "urls": [
       "https://giphy.com/"
     ]
   },
   "speedtest.net": {
-    "lastAt": 1758662411400,
+    "lastAt": 1759015192188,
     "urls": [
       "https://www.speedtest.net/apps/desktop",
       "https://www.speedtest.net/about",
@@ -8202,23 +8222,33 @@
       "https://www.speedtest.net/es/mobile/windowsphone",
       "https://www.speedtest.net/es/mobile/amazon",
       "https://www.speedtest.net/es/mobile/ios",
-      "https://www.speedtest.net/es/privacy"
+      "https://www.speedtest.net/es/privacy",
+      "https://www.speedtest.net/es/login",
+      "https://www.speedtest.net/fr",
+      "https://www.speedtest.net/es/terms",
+      "https://www.speedtest.net/es/settings",
+      "https://www.speedtest.net/fr/about",
+      "https://www.speedtest.net/fr/apps/desktop",
+      "https://www.speedtest.net/fr/help",
+      "https://www.speedtest.net/fr/audience-landing",
+      "https://www.speedtest.net/fr/mobile",
+      "https://www.speedtest.net/fr/mobile/amazon"
     ]
   },
   "addtoany.com": {
-    "lastAt": 1758662412559,
+    "lastAt": 1759015193099,
     "urls": [
       "https://addtoany.com/"
     ]
   },
   "wired.com": {
-    "lastAt": 1758662421723,
+    "lastAt": 1759015197608,
     "urls": [
       "https://wired.com/"
     ]
   },
   "outbrain.com": {
-    "lastAt": 1758662423969,
+    "lastAt": 1759015198523,
     "urls": [
       "https://www.outbrain.com/",
       "https://outbrain.com/",
@@ -8259,11 +8289,13 @@
       "https://www.outbrain.com/ligatus/de/",
       "https://www.outbrain.com/ligatus/it/",
       "https://www.outbrain.com/careers/detail/",
-      "https://www.outbrain.com/careers/"
+      "https://www.outbrain.com/careers/",
+      "https://www.outbrain.com/careers/success/",
+      "https://www.outbrain.com/contextual-advertising/"
     ]
   },
   "google.co.uk": {
-    "lastAt": 1758662425322,
+    "lastAt": 1759015199533,
     "urls": [
       "https://www.google.com/intl/et/gmail/about/",
       "https://www.google.com/intl/eu_es/gmail/about/",
@@ -8288,35 +8320,35 @@
     ]
   },
   "rzone.de": {
-    "lastAt": 1758662429076,
+    "lastAt": 1759015203030,
     "urls": []
   },
   "line.me": {
-    "lastAt": 1758662430543,
+    "lastAt": 1759015204774,
     "urls": [
       "https://line.me/"
     ]
   },
   "wb.ru": {
-    "lastAt": 1758662437266,
+    "lastAt": 1759015210126,
     "urls": []
   },
   "wbbasket.ru": {
-    "lastAt": 1758662442352,
+    "lastAt": 1759015213841,
     "urls": []
   },
   "icloud-content.com": {
-    "lastAt": 1758662442830,
+    "lastAt": 1759015214151,
     "urls": [
       "https://icloud-content.com/"
     ]
   },
   "s-msedge.net": {
-    "lastAt": 1758662445700,
+    "lastAt": 1759015217018,
     "urls": []
   },
   "slideshare.net": {
-    "lastAt": 1758662453584,
+    "lastAt": 1759015223744,
     "urls": [
       "https://slideshare.net/",
       "https://de.slideshare.net/slideshow/class-5/5884",
@@ -8357,31 +8389,41 @@
       "https://de.slideshare.net/slideshow/web-20-nutzenpotenzial-fr-schule/10521",
       "https://de.slideshare.net/slideshow/medienkompetenzen-messen-und-erfassen/10623",
       "https://de.slideshare.net/slideshow/die-methode-expert-debriefing/10955",
-      "https://de.slideshare.net/slideshow/rss-the-door-to-elearning-20/10911"
+      "https://de.slideshare.net/slideshow/rss-the-door-to-elearning-20/10911",
+      "https://de.slideshare.net/slideshow/what-do-you-see/8299",
+      "https://de.slideshare.net/slideshow/einfuehrung-in-das-bau-und-vermessungwesen/9229",
+      "https://de.slideshare.net/slideshow/wikipedia-trift-bibliothek-visionen-der-zusammenarbeit/5999",
+      "https://de.slideshare.net/slideshow/keyhote-herbstforen/6539",
+      "https://de.slideshare.net/slideshow/klinischtherapeutische-studien-ebm-dim/5769",
+      "https://de.slideshare.net/slideshow/authoring-management/11021",
+      "https://de.slideshare.net/slideshow/stirlingmotor/11055",
+      "https://de.slideshare.net/slideshow/induktion/11271",
+      "https://de.slideshare.net/slideshow/ic-preisoptimierung-cbc-conjoint/11442",
+      "https://de.slideshare.net/slideshow/awo-oscon-2006/11680"
     ]
   },
   "mega.co.nz": {
-    "lastAt": 1758662455537,
+    "lastAt": 1759015225284,
     "urls": [
       "https://mega.co.nz/"
     ]
   },
   "beian.gov.cn": {
-    "lastAt": 1758662461061,
+    "lastAt": 1759015230716,
     "urls": []
   },
   "dns-parking.com": {
-    "lastAt": 1758662464150,
+    "lastAt": 1759015233997,
     "urls": []
   },
   "timeweb.ru": {
-    "lastAt": 1758662468200,
+    "lastAt": 1759015236479,
     "urls": [
       "https://timeweb.ru/"
     ]
   },
   "eventbrite.com": {
-    "lastAt": 1758662475833,
+    "lastAt": 1759015242714,
     "urls": [
       "https://eventbrite.com/",
       "https://www.eventbrite.com/d/pa--blairsville/singles/",
@@ -8392,15 +8434,25 @@
       "https://www.eventbrite.com/d/ga--fort-valley/fo/",
       "https://www.eventbrite.com/d/ga--oconee/kinchafoonie-cowboys/",
       "https://www.eventbrite.com/d/md--spring-ridge/kids/",
-      "https://www.eventbrite.com/d/wi--bristol/angel-pool-party/"
+      "https://www.eventbrite.com/d/wi--bristol/angel-pool-party/",
+      "https://www.eventbrite.com/d/thailand--bangkok/blockchain/",
+      "https://www.eventbrite.com/d/italy--quarto-daltino/forte-marghera/",
+      "https://www.eventbrite.com/d/md--colesville/muay-thai/",
+      "https://www.eventbrite.com/d/ca--norco--gateway/taco-feast/",
+      "https://www.eventbrite.com/d/wa--burlington/september-4-2025/",
+      "https://www.eventbrite.com/d/pa--aliquippa/pctkx/",
+      "https://www.eventbrite.com/d/ma--barnstable-town/tantric-massage/",
+      "https://www.eventbrite.com/d/sc--loris/all-white-party/",
+      "https://www.eventbrite.com/d/nj--far-hills--mine-brook/trump-national-bedmister/",
+      "https://www.eventbrite.com/d/fl--lakeland/shows/"
     ]
   },
   "cdnbuild.net": {
-    "lastAt": 1758662479797,
+    "lastAt": 1759015247852,
     "urls": []
   },
   "aliexpress.com": {
-    "lastAt": 1758662490626,
+    "lastAt": 1759015257375,
     "urls": [
       "https://aliexpress.com/",
       "https://www.aliexpress.com/star/en/d-article-4000026915107411.html",
@@ -8411,17 +8463,18 @@
       "https://www.aliexpress.com/star/en/d-article-4000022304396045.html",
       "https://www.aliexpress.com/star/ru/d-article-2529060483.html",
       "https://www.aliexpress.com/star/ru/d-article-10001289154057.html",
-      "https://www.aliexpress.com/star/ru/d-article-10013680401390.html"
+      "https://www.aliexpress.com/star/ru/d-article-10013680401390.html",
+      "https://www.aliexpress.com/star/en/d-article-8000001592533061.html"
     ]
   },
   "360yield.com": {
-    "lastAt": 1758662492838,
+    "lastAt": 1759015259126,
     "urls": [
       "https://360yield.com/"
     ]
   },
   "uber.com": {
-    "lastAt": 1758662505263,
+    "lastAt": 1759015271373,
     "urls": [
       "https://uber.com/",
       "https://www.uber.com/fr/en/r/cities/car-rentals/paris-idf-fr/suv/",
@@ -8462,15 +8515,25 @@
       "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/new-westminster-bc-ca/electric/",
       "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/ubc-point-grey-bc-ca/electric/",
       "https://www.uber.com/gb/en/r/cities/car-rentals/radbourne-eng-gb/electric/",
-      "https://www.uber.com/gb/en/r/cities/car-rentals/westhoughton-eng-gb/electric/"
+      "https://www.uber.com/gb/en/r/cities/car-rentals/westhoughton-eng-gb/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/sully-wls-gb/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/farnham-eng-gb/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/warwick-eng-gb/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/tarbock-eng-gb/van/",
+      "https://www.uber.com/ca/en/r/cities/car-rentals/repentigny-qc-ca/electric/",
+      "https://www.uber.com/ca/en/r/cities/car-rentals/oshawa-on-ca/van/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/gateshead-eng-gb/electric/",
+      "https://www.uber.com/gb/en/r/cities/car-rentals/shepperton-eng-gb/electric/",
+      "https://www.uber.com/ca/en/r/cities/car-rentals/edmonton-ab-ca/van/",
+      "https://www.uber.com/ca/fr-ca/r/cities/car-rentals/mississauga-on-ca/electric/"
     ]
   },
   "msidentity.com": {
-    "lastAt": 1758662508170,
+    "lastAt": 1759015274260,
     "urls": []
   },
   "usatoday.com": {
-    "lastAt": 1758666002521,
+    "lastAt": 1759015277042,
     "urls": [
       "https://www.usatoday.com/story/news/nation/2025/09/11/charlie-kirk-shooting-killed-suspect-live-updates/86087240007/",
       "https://www.usatoday.com/story/news/politics/2025/09/11/charlie-kirk-shooting-liberal-friend-honors-life/86089295007/",
@@ -8511,7 +8574,17 @@
       "https://www.usatoday.com/story/sports/nfl/giants/2025/09/23/russell-wilson-future-benching-new-york-giants/86311673007/",
       "https://www.usatoday.com/story/sports/nfl/2025/09/23/nfl-week-4-game-picks-predictions-odds/86314448007/",
       "https://www.usatoday.com/story/news/politics/2025/09/23/trump-epstein-protest-art-national-mall/86310895007/",
-      "https://www.usatoday.com/story/shopping/2025/09/23/in-good-taste-wine-advent-calendars-2025/86316239007/"
+      "https://www.usatoday.com/story/shopping/2025/09/23/in-good-taste-wine-advent-calendars-2025/86316239007/",
+      "https://www.usatoday.com/story/sports/ncaaf/sec/2025/09/27/sec-football-scores-week-5-live-updates-stats-highlights-scoreboard/86393605007/",
+      "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/oregon-penn-state-channel-today-time-tv-schedule-streaming/86344196007/",
+      "https://www.usatoday.com/story/sports/columnist/nancy-armour/2025/09/27/wnba-at-its-thin-skinned-best-with-cheryl-reeve-suspension/86397159007/",
+      "https://www.usatoday.com/story/sports/golf/ryder/2025/09/27/2025-ryder-cup-live-updates-scores-results-standings/86345026007/",
+      "https://www.usatoday.com/story/sports/nhl/2025/09/27/marc-andre-fleury-penguins-blue-jackets-tv-updates/86376112007/",
+      "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/college-football-scores-today-schedule-top-25-rankings-week-5/86338024007/",
+      "https://www.usatoday.com/story/news/politics/2025/09/27/trump-administration-revokes-colombian-president-gustavo-petros-visa/86395835007/",
+      "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/big-ten-football-scores-week-5-updates-stats-big-10-scoreboard/86293420007/",
+      "https://www.usatoday.com/story/sports/ncaaf/2025/09/27/texas-am-auburn-live-updates-score/86353230007/",
+      "https://www.usatoday.com/story/sports/soccer/2025/09/27/toronto-fc-vs-inter-miami-messi-playing-score-highlights/86391609007/"
     ]
   },
   "bdydns.com": {
