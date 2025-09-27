@@ -238502,5 +238502,453 @@
     "title": "Accessibility - Features - Apple",
     "description": "",
     "text": "A screen reader that describes what’s on your screen, including in braille.\nFor those who are blind "
+  },
+  {
+    "id": "63e81f5cc4b39dd626c670a0e8bb3c7731a41c4e",
+    "url": "https://www.bing.com/travel/place-information?q=Arlington%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "09aaeb546cfae3a0c9801608db08a747a6d76509",
+    "url": "https://www.bing.com/travel/place-information?q=Antwerp%20Belgium",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2afa4a23d91ff43617dfb14f09b4e4df99abc873",
+    "url": "https://www.bing.com/travel/place-information?q=Asheville%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "222e945931545ab452ca46fd8d9d79738dd305df",
+    "url": "https://www.bing.com/travel/place-information?q=Anchorage%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a6f6229a7510f0592c54a6201efde1183fa8de6b",
+    "url": "https://www.bing.com/travel/place-information?q=Antalya%20Turkey",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "55c8e8b383735badff9f10c197c6162a7c1b5289",
+    "url": "https://www.bing.com/travel/place-information?q=Aspen%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d2a632df2b09913446777254415a4ed1ce285363",
+    "url": "https://www.bing.com/travel/place-information?q=Astoria%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "964484fdff818a5838b63980e5b96f06d6b9d65e",
+    "url": "https://www.bing.com/travel/place-information?q=Atlanta%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ebcfb600faeb1efeca001382b9a42a9e1a2cb7b8",
+    "url": "https://www.bing.com/travel/place-information?q=Athens%20Greece",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "0bacacc9560d8fba19cb246e96db299b7ed1ad0f",
+    "url": "https://www.bing.com/travel/place-information?q=Athens%20United%20States",
+    "title": "Microsoft Bing Travel",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4a2e091c7af85997d48346a453eed7da6217cd28",
+    "url": "https://www.fastly.com/contact-sales",
+    "title": "Client Challenge",
+    "description": "",
+    "text": "Please enable JavaScript to proceed."
+  },
+  {
+    "id": "1bfb030a60adcf81d618c13262177dd7186484c0",
+    "url": "https://www.fastly.com/about/careers",
+    "title": "Jobs at Fastly | Fastly",
+    "description": "We’re always looking for humble, sharp, and creative folks to join the Fastly team. If you think you",
+    "text": "You know how we use the internet to stream, shop, scroll, connect, discover … and pretty much everyt"
+  },
+  {
+    "id": "c24c30d77fc5137e48df2eb210ed32ef7d131a01",
+    "url": "https://www.fastly.com/services/support-plans",
+    "title": "Edge cloud support plans | Fastly",
+    "description": "Fastly support plans",
+    "text": "Fastly Support\nOur edge cloud platform was built by developers for developers, so we have a unique u"
+  },
+  {
+    "id": "4d07ac1147efc33679bd23ec17ab8ee128fc1e83",
+    "url": "https://www.fastly.com/fast-forward",
+    "title": "Fast Forward - how we're building the open internet | Fastly",
+    "description": "The internet is a pretty neat place. It’s where the world’s most creative minds gather to build thin",
+    "text": "Fast Forward\nThe internet is a pretty neat place.\nIt’s where the world’s most creative minds gather "
+  },
+  {
+    "id": "c547472efad342946a2905d8fe6530502144f5b1",
+    "url": "https://www.fastly.com/under-attack",
+    "title": "Under Attack? We’re here to help | Fastly",
+    "description": "Our security experts work to diagnose attacks and optimize configuration to restore services while p",
+    "text": "Call us 24/7 at 844-4FASTLY and get expedited support during global business hours. Our security exp"
+  },
+  {
+    "id": "319d29d6ce918fef5c219f82186fdeb8c98f2564",
+    "url": "https://www.fastly.com/customers/wayfair",
+    "title": "Wayfair / Fastly case study | Fastly",
+    "description": "Fastly provides Wayfair consistent performance, minimal latency, and responsive support.",
+    "text": "Wayfair is the largest online retailer of home goods in the US. The company offers 7 million home pr"
+  },
+  {
+    "id": "26140ed3787a3f835cfb46e2153fb889446097b2",
+    "url": "https://www.fastly.com/solutions/infrastructure-savings",
+    "title": "Fastly for Cloud Cost Optimization  | Fastly",
+    "description": "Fastly reduces cloud cost and caches content for all traffic levels. Use our cloud edge platform to ",
+    "text": "Fastly works with companies to achieve lower, more predictable cloud spend ––regardless of traffic l"
+  },
+  {
+    "id": "8acd3ec76b2a179d558dc6fbde7a84300ff4a412",
+    "url": "https://www.fastly.com/customers/wired",
+    "title": "Wired : Fastly customer case study | Fastly",
+    "description": "Wired : Fastly customer case study",
+    "text": "WIRED is the essential source of information and ideas that make sense of a world in constant transf"
+  },
+  {
+    "id": "9cad2cc6a30beab6aa9060af3236381881cc21c4",
+    "url": "https://www.fastly.com/customers/filestack",
+    "title": "How Filestack Uses Fastly for CDN | Fastly",
+    "description": "Fastly’s edge cloud platform helps the world’s most popular digital businesses keep pace with their ",
+    "text": "Filestack is the low code content API platform to upload, transform, and deliver files easily. With "
+  },
+  {
+    "id": "650f3ba17b04504bb8f1d8a8e6b84ac40fb3154c",
+    "url": "https://www.fastly.com/trust/faq",
+    "title": "Compliance Frequently Asked Questions | Fastly",
+    "description": "This FAQ answers questions we often get about our Terms of Service, our privacy statements, our docu",
+    "text": "This FAQ answers questions we often get about our Terms of Service, our privacy statements, our docu"
+  },
+  {
+    "id": "1aaa376d3f0b5f757e431787de96ab1b5fb0728e",
+    "url": "https://wordpress.org/download/releases/6-6/",
+    "title": "WordPress 6.6 – WordPress.org",
+    "description": "A new meaning to style Create and deploy beautiful and coherent design elements across your sites wi",
+    "text": "Create and deploy beautiful and coherent design elements across your sites with WordPress 6.6. A new"
+  },
+  {
+    "id": "ab1a7dc6c9f878de777694470e7b8ae4901e1873",
+    "url": "https://wordpress.org/data-liberation/guides/",
+    "title": "Guides – WordPress.org",
+    "description": "Guides Easy to use step by step guidelines to help you move your site to WordPress. View all guides ",
+    "text": "Data Liberation\nGuides\nEasy to use step by step guidelines to help you move your site to WordPress.\n"
+  },
+  {
+    "id": "ebb8b8d40f1a72791cc7d5a53903b0bb72fb378f",
+    "url": "https://wordpress.org/download/releases/6-8/",
+    "title": "WordPress 6.8 – WordPress.org",
+    "description": "A release polished to a high sheen WordPress 6.8 polishes and refines the tools you use every day, m",
+    "text": "WordPress 6.8 polishes and refines the tools you use every day, making your site faster, more secure"
+  },
+  {
+    "id": "6e9d2cacb5186cd9eff9cf6335946406d25a3680",
+    "url": "https://wordpress.org/download/releases/6-7/",
+    "title": "WordPress 6.7 – WordPress.org",
+    "description": "Refine the detail WordPress 6.7 debuts the modern Twenty Twenty-Five theme, unlocking fresh design o",
+    "text": "WordPress 6.7 debuts the modern Twenty Twenty-Five theme, unlocking fresh design options. The new ‘Z"
+  },
+  {
+    "id": "dfe0190e71668b2f3c0b54050b73ddcd8b8d305a",
+    "url": "https://wordpress.org/plugins/gravity-forms-pdf-extended/",
+    "title": "Gravity PDF – WordPress plugin | WordPress.org",
+    "description": "Automatically generate, email and download PDF documents from Gravity Forms entries",
+    "text": "Plugin Directory\nGravity PDF\nGravity PDF is the ultimate third-party PDF automation tool for generat"
+  },
+  {
+    "id": "7c2e256e2fd0de78e8a4ea5403e31d31a86bc5c9",
+    "url": "https://wordpress.org/plugins/wow-progress/",
+    "title": "WoW Progress – WordPress plugin | WordPress.org",
+    "description": "A widget that helps to display guild raid progress.",
+    "text": "Plugin Directory\nWoW Progress\nA widget that helps to display guild raid progress.\nEach boss have sep"
+  },
+  {
+    "id": "92c6d8b08023e10aab9d3310950563dc79477271",
+    "url": "https://wordpress.org/plugins/hide-wp-toolbar/",
+    "title": "Hide WP Toolbar – WordPress plugin | WordPress.org",
+    "description": "Easily hide or show the front-end WordPress Admin Toolbar with a click of a button.",
+    "text": "Plugin Directory\nHide WP Toolbar\nEasily hide or show the front-end WordPress Admin Toolbar with a cl"
+  },
+  {
+    "id": "49e215a1846989e1d0b76685b889292adac25df7",
+    "url": "https://wordpress.org/plugins/post-meta/",
+    "title": "Post Meta – WordPress plugin | WordPress.org",
+    "description": "Post Meta is a WordPress custom post field, post type and taxonomy management Plugin. Shortcode with",
+    "text": "Plugin Directory\nPost Meta\nPlugin Homepage | Documentation | Video Tutorial | Screenshots\nPost Meta "
+  },
+  {
+    "id": "898a170f70bb170b0a57664d6b63a108b50335ec",
+    "url": "https://www.digicert.com/tls-ssl/verified-mark-certificates",
+    "title": "Buy Verified Mark Certificates (VMC) or Common Mark Certificates (CMC) | DigiCert",
+    "description": "Buy DigiCert Verified Mark (VMC) or Common Mark Certificates (CMC). Choose Verified Mark Certificate",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "6dbc5a47069b14bc624457116804e28f9534528d",
+    "url": "https://www.digicert.com/qualified-certificates/compare-eu-document-signing",
+    "title": "Compare Qualified EU Document Signing Certificates | DigiCert",
+    "description": "Compare and buy DigiCert® Qualified Personal EU Document Signing Certificates.",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "50999a0003e55f6e5860b06ae212c19b3819fcfb",
+    "url": "https://www.digicert.com/qualified-certificates/compare-psd2-qsealc",
+    "title": "Compare QWACs & QSEAL Certificates for PSD2 | DigiCert",
+    "description": "Compare and buy  QWACs & QSEAL Certificates for PSD2. Find out more about DigiCert® EU Qualified Ele",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "8e7476abd066e0d6f3f49ef984f3bc3ba711daca",
+    "url": "https://www.digicert.com/qualified-certificates/compare-psd2-qwacs",
+    "title": "Compare QWACs for PSD2 | EU Qualified Web Authentication Certificates | DigiCert",
+    "description": "Compare and buy DigiCert® EU Qualified Web Authentication Certificates (QWACs)",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "3c63fd9e84f8d0ea39199801e7fbfca7b6bb2a43",
+    "url": "https://www.digicert.com/pkioverheid/compare-pkio-document-signing",
+    "title": "Compare PKIo Professional Signing Certificates | PKIoverheid | DigiCert",
+    "description": "Compare and buy DigiCert® PKIo Professional Signing Certificates. Qualified Document Signing certifi",
+    "text": "DigiCert ONE Platform\nForrester estimates a composite organization achieved 312% ROI and a Net Prese"
+  },
+  {
+    "id": "655a48593b9c949700272bde00f6006306326293",
+    "url": "https://www.digicert.com/qualified-certificates/qualified-web-authentication-certificates-qwacs",
+    "title": "DigiCert® EU Qualified Web Authentication Certificates | PSD2 QWACs | DigiCert",
+    "description": "DigiCert® TLS/SSL Qualified Website Authentication Certificates (QWACs) provide end-to-end encryptio",
+    "text": "DigiCert ONE Platform\nCertificates for Every Use Case\nSolutions\nTLS/SSL Certificates\nDocument Signin"
+  },
+  {
+    "id": "e7829ed40382e648423322da71a218fb3baa2dcb",
+    "url": "https://www.pinterest.com/ahaingiger/",
+    "title": "Angela Hain-Giger (ahaingiger) - Profile | Pinterest",
+    "description": "See what Angela Hain-Giger (ahaingiger) has discovered on Pinterest, the world's biggest collection ",
+    "text": ""
+  },
+  {
+    "id": "6bec4aecd6886a7e66c9ecc31ddf5fbfec160713",
+    "url": "https://www.pinterest.com/harchoo/",
+    "title": "Harchoo (harchoo) - Profile | Pinterest",
+    "description": "Harchoo | You have to spend all day in your clothes (probably). Why settle for anything less than th",
+    "text": ""
+  },
+  {
+    "id": "fa8d8445af063e6c86fe1011ae3bc5668e02a482",
+    "url": "https://www.pinterest.com/hillnetasha/",
+    "title": "Netasha Williams (hillnetasha) - Profile | Pinterest",
+    "description": "See what Netasha Williams (hillnetasha) has discovered on Pinterest, the world's biggest collection ",
+    "text": ""
+  },
+  {
+    "id": "0713433fa71a022d13e1e816b56613ea95864e98",
+    "url": "https://www.pinterest.com/gracibingham/",
+    "title": "Graci Bingham (gracibingham) - Profile | Pinterest",
+    "description": "See what Graci Bingham (gracibingham) has discovered on Pinterest, the world's biggest collection of",
+    "text": ""
+  },
+  {
+    "id": "f6aa329d836ec00b946813edf01ca52cf39490b0",
+    "url": "https://www.pinterest.com/efrtlys/",
+    "title": "im anon (efrtlys) - Profile | Pinterest",
+    "description": "See what im anon (efrtlys) has discovered on Pinterest, the world's biggest collection of ideas.",
+    "text": ""
+  },
+  {
+    "id": "72c64952e31021df145002af488aaf4466d03bb2",
+    "url": "https://www.pinterest.com/arianyc1998/",
+    "title": "♡ (arianyc1998) - Profile | Pinterest",
+    "description": "See what ♡ (arianyc1998) has discovered on Pinterest, the world's biggest collection of ideas.",
+    "text": ""
+  },
+  {
+    "id": "e501fa6454b0b475839cbc1438e93cf306bf0101",
+    "url": "https://www.pinterest.com/leonardoycamila/",
+    "title": "Julio Cruz (leonardoycamila) - Profile | Pinterest",
+    "description": "See what Julio Cruz (leonardoycamila) has discovered on Pinterest, the world's biggest collection of",
+    "text": ""
+  },
+  {
+    "id": "3335ee399cc9fc36b4d9c5fa9e3e59220f6efae3",
+    "url": "https://www.pinterest.com/frump533/",
+    "title": "Taylor Miller (frump533) - Profile | Pinterest",
+    "description": "See what Taylor Miller (frump533) has discovered on Pinterest, the world's biggest collection of ide",
+    "text": ""
+  },
+  {
+    "id": "48d818efc6bed64e25ccd4c10bf502a367e66dff",
+    "url": "https://www.pinterest.com/kmwilson063/",
+    "title": "kaleigh wilson (kmwilson063) - Profile | Pinterest",
+    "description": "See what kaleigh wilson (kmwilson063) has discovered on Pinterest, the world's biggest collection of",
+    "text": ""
+  },
+  {
+    "id": "827a44204da42cabed479c4243ebbda68bb8f9eb",
+    "url": "https://www.pinterest.com/sheylacalderon05/",
+    "title": "Sheyla CalderÃ³n (sheylacalderon05) - Profile | Pinterest",
+    "description": "See what Sheyla CalderÃ³n (sheylacalderon05) has discovered on Pinterest, the world's biggest collec",
+    "text": ""
+  },
+  {
+    "id": "90fd3f5630993e3cb9afde6139213764160780e7",
+    "url": "https://www.yahoo.com/news/weather/united-states/kansas/hazelton-2419270",
+    "title": "Hazelton, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Mostly Cloudy\nNight - Clear. Winds SE. The overnight low will be 59 °F (15 °C).\nSunny with a high of"
+  },
+  {
+    "id": "2b1c96dfdb1c77d51743b714f4357389d55a9699",
+    "url": "https://www.yahoo.com/news/weather/united-states/west-virginia/bruceton-mills-2370671",
+    "title": "Bruceton Mills, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Cloudy\nNight - Cloudy. Winds from E to ESE. The overnight low will be 58 °F (14.4 °C).\nMostly cloudy"
+  },
+  {
+    "id": "daecb2b21b8a11179d81f97a4bd6f961f876702f",
+    "url": "https://www.yahoo.com/news/weather/united-states/new-york/blue-point-2365855",
+    "title": "Blue Point, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Clear. Winds NNW at 6 mph (9.7 kph). The overnight low will be 64 °F (17.8 °C).\nPartly"
+  },
+  {
+    "id": "dfe38c9b015a41592f8295bc235fa6e85dd47be9",
+    "url": "https://www.yahoo.com/news/weather/united-states/pennsylvania/bradford-2367855",
+    "title": "Bradford, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Partly cloudy. Winds variable. The overnight low will be 48 °F (8.9 °C).\nMostly cloudy"
+  },
+  {
+    "id": "f2b2e719010b1d79cfd0afca047f640ec5405b4a",
+    "url": "https://www.yahoo.com/news/weather/united-states/california/maricopa-2445654",
+    "title": "Maricopa, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Mostly clear with a 42% chance of precipitation. Winds from SW to WSW at 6 mph (9.7 kp"
+  },
+  {
+    "id": "cb505a7cde45abad350fac03bb3a84d26893cb52",
+    "url": "https://www.yahoo.com/news/weather/united-states/texas/blue-ridge-2365869",
+    "title": "Blue Ridge, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Clear\nNight - Clear. Winds from ESE to SE. The overnight low will be 61 °F (16.1 °C).\nMostly sunny w"
+  },
+  {
+    "id": "5b97db7b6d77f6c905639fc9f188041c801c2a60",
+    "url": "https://www.yahoo.com/news/weather/united-states/washington/port-hadlock-2475383",
+    "title": "Port Hadlock-Irondale, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Cloudy\nNight - Cloudy with a 55% chance of precipitation. Winds variable. The overnight low will be "
+  },
+  {
+    "id": "9eb53234b673da5bb220559c193811f4486cb1e7",
+    "url": "https://www.yahoo.com/news/weather/united-states/virginia/blue-ridge-2365871",
+    "title": "Blue Ridge, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Showers\nNight - Scattered showers with a 83% chance of precipitation. Winds from NE to NNE. The over"
+  },
+  {
+    "id": "d0f1e0ed1896f99bf8b9810fce5ee90b77ff5ee0",
+    "url": "https://www.yahoo.com/news/weather/united-states/pennsylvania/blue-ridge-summit-2365894",
+    "title": "Blue Ridge Summit, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Mostly Cloudy\nNight - Cloudy. Winds NNE. The overnight low will be 63 °F (17.2 °C).\nCloudy with a hi"
+  },
+  {
+    "id": "80a3b1537cbaf25578edc5728b158c8894c6c702",
+    "url": "https://www.yahoo.com/news/weather/united-states/maryland/stevenson-2499763",
+    "title": "Pikesville, United States - Weather Forecasts | Maps | News - Yahoo Weather",
+    "description": "View the latest weather forecasts, maps, news and alerts on Yahoo Weather. Find local weather foreca",
+    "text": "Cloudy\nNight - Cloudy. Winds variable. The overnight low will be 63 °F (17.2 °C).\nCloudy with a high"
+  },
+  {
+    "id": "cf0a4f60d9ec86384346c44398e0895dbc14de66",
+    "url": "https://www.ntp.org/support/securitynotice/4_2_8p9-release-announcement/",
+    "title": "4.2.8p9 Release Announcement",
+    "description": "The NTP Project at Network Time Foundation released NTP 4.2.8p9 on November 21, 2016. This release a",
+    "text": "Last update: June 28, 2022 21:06 UTC (1f97faf40)\nNTF’s NTP Project is releasing ntp-4.2.8p9 which ad"
+  },
+  {
+    "id": "4c646e15a86544322b40d4bbe5260c5966b70297",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3072/",
+    "title": "NTP BUG 3072: Attack on interface selection",
+    "description": "If ntpd is running on a host with multiple interfaces in separate networks and the operating system ",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nWhen ntpd receives a server response on a socket t"
+  },
+  {
+    "id": "b4852d67185c05265cb74d13ca23c6d48a586ebb",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3071/",
+    "title": "NTP BUG 3071: Client rate limiting and server responses",
+    "description": "An attacker who knows a system is misconfigured with rate limiting for all associations can periodic",
+    "text": "Last update: June 27, 2022 20:45 UTC (51d68a4aa)\nWhen ntpd is configured with rate limiting for all "
+  },
+  {
+    "id": "a6928eeac3eec6d1fcbad1d0292ab3f25ef3ce8f",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3102/",
+    "title": "NTP BUG 3102: Zero Origin timestamp regression",
+    "description": "Timestamp validation checks introduced a regression in the handling of some Zero origin timestamp ch",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nZero Origin timestamp problems were fixed by Bug 2"
+  },
+  {
+    "id": "da04f4d078b61a0dd3cb24e8fe5f06523ef2a95f",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3067/",
+    "title": "NTP BUG 3067: Fix for bug 2085 broke initial sync calculations",
+    "description": "This bug results in a root distance that does not include the peer dispersion. This bug was resolved",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nBug 2085 described a condition where the root dela"
+  },
+  {
+    "id": "65a4b89b4661379f57b5e6aca08e9b70d8f0b164",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3082/",
+    "title": "NTP BUG 3082: read_mru_list() does inadequate incoming packet checks",
+    "description": "If ntpd is configured to allow mrulist query requests from a server that sends a crafted malicious p",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nIf ntpd is configured to allow mrulist query reque"
+  },
+  {
+    "id": "1c1664c6f49a9a3dfce1c4dfe386fe3fb9d4db0c",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3110/",
+    "title": "NTP BUG 3110: Windows: ntpd DoS by oversized UDP packet",
+    "description": "If a vulnerable instance of ntpd on Windows receives a crafted malicious packet that is too big, ntp",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nIf a vulnerable instance of ntpd on Windows receiv"
+  },
+  {
+    "id": "729e4f5dbdf6e1fbfb42b3b51fc47ec44615b2a7",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3113/",
+    "title": "NTP BUG 3113: Broadcast Mode Poll Interval Enforcement DoS",
+    "description": "The broadcast mode of NTP is expected to only be used in a trusted network. If the broadcast network",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe broadcast mode of NTP is expected to only be u"
+  },
+  {
+    "id": "291fa55997b2ea62e4ad884fe323f71c1177c020",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3114/",
+    "title": "NTP BUG 3114: Broadcast Mode Replay Prevention DoS",
+    "description": "The broadcast mode of NTP is expected to only be used in a trusted network. If the broadcast network",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nThe broadcast mode of NTP is expected to only be u"
+  },
+  {
+    "id": "2840b8c88f78f99229a41df254c5ffecf6bea3e5",
+    "url": "https://www.ntp.org/support/securitynotice/ntpbug3118/",
+    "title": "NTP BUG 3118: Mode 6 unauthenticated trap information disclosure and DDoS vector",
+    "description": "An exploitable configuration modification vulnerability exists in the control mode functionality of ",
+    "text": "Last update: April 22, 2024 18:49 UTC (7e7bd5857)\nAn exploitable configuration modification vulnerab"
   }
 ]
