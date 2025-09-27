@@ -7513,25 +7513,25 @@
     "urls": []
   },
   "foxnews.com": {
-    "lastAt": 1758659176902,
+    "lastAt": 1759011567095,
     "urls": [
       "https://foxnews.com/"
     ]
   },
   "avcdn.net": {
-    "lastAt": 1758659180251,
+    "lastAt": 1759011570501,
     "urls": []
   },
   "tiktokv.eu": {
-    "lastAt": 1758659184300,
+    "lastAt": 1759011574949,
     "urls": []
   },
   "qlivecdn.com": {
-    "lastAt": 1758659187492,
+    "lastAt": 1759011578227,
     "urls": []
   },
   "teamviewer.com": {
-    "lastAt": 1758659210106,
+    "lastAt": 1759011600762,
     "urls": [
       "https://www.teamviewer.cn/cn/",
       "https://www.teamviewer.cn/cn/global/",
@@ -7568,17 +7568,26 @@
       "https://www.teamviewer.cn/cn/global/company/press/2019/",
       "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-opens-mumbai-office-eyes-strong-growth-india/",
       "https://www.teamviewer.cn/cn/global/company/press/2018/teamviewer-announces-end-of-life-for-versions-3-4/",
-      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-expands-deep-integration-servicenow/"
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-expands-deep-integration-servicenow/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-integrates-samsung-dex/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-14-teamviewer-pilot-teamviewer-tensor-get-substantial-spring-feature-updates/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-and-mobileiron-launch-significant-upgrade-to-helpwork-for-ios-powered-by-teamviewer/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-appoints-gautam-goswami-cmo-names-dr-mike-eissele-cto/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-now-integrated-remote-management-functionality/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-launch-local-management-team-china/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-now-integrated-with-zoho-crm-and-zoho-desk/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-integrates-sophos-mobile/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-expands-partnership-with-zoho-through-zoho-crms-meeting-integration-platform/"
     ]
   },
   "amazon.de": {
-    "lastAt": 1758659215287,
+    "lastAt": 1759011602527,
     "urls": [
       "https://amazon.de/"
     ]
   },
   "duolingo.com": {
-    "lastAt": 1758659218735,
+    "lastAt": 1759011605952,
     "urls": [
       "https://www.duolingo.com/course/ar/en/Learn-Arabic",
       "https://duolingo.com/",
@@ -7615,11 +7624,18 @@
       "https://www.duolingo.com/course/ru/en/Learn-Russian",
       "https://www.duolingo.com/course/sw/en/Learn-Swahili",
       "https://www.duolingo.com/course/tlh/en/Learn-Klingon",
-      "https://www.duolingo.com/course/tr/en/Learn-Turkish"
+      "https://www.duolingo.com/course/tr/en/Learn-Turkish",
+      "https://www.duolingo.com/course/uk/en/Learn-Ukrainian",
+      "https://www.duolingo.com/course/vi/en/Learn-Vietnamese",
+      "https://www.duolingo.com/course/yi/en/Learn-Yiddish",
+      "https://www.duolingo.com/course/zh-CN/en/Learn-Chinese",
+      "https://www.duolingo.com/course/zu/en/Learn-Zulu",
+      "https://www.duolingo.com/courses",
+      "https://www.duolingo.com/courses/all"
     ]
   },
   "plesk.com": {
-    "lastAt": 1758659230713,
+    "lastAt": 1759011627926,
     "urls": [
       "https://www.plesk.com/blog/product-technology/schedule-automatic-backups-cloud-storage/",
       "https://www.plesk.com/blog/product-technology/my-plesk-user-experience-1-easy-starts-common-issues/",
@@ -7660,21 +7676,31 @@
       "https://www.plesk.com/blog/business-industry/hyperscalers-growth-cloud-infrastructure/",
       "https://www.plesk.com/blog/various/routine-wordpress-website-maintenance-tasks-for-all-businesses/",
       "https://www.plesk.com/blog/various/suitable-wordpress-hosting-type-for-your-business/",
-      "https://www.plesk.com/blog/product-technology/webops-platform-fixes-site-app-issues/"
+      "https://www.plesk.com/blog/product-technology/webops-platform-fixes-site-app-issues/",
+      "https://www.plesk.com/blog/product-technology/mobile-optimization-checklist/",
+      "https://www.plesk.com/blog/tips-easy-reading/get-team-adopt-coding-standards/",
+      "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-roundup-july/",
+      "https://www.plesk.com/blog/product-technology/staging-environment-vs-test-environment/",
+      "https://www.plesk.com/blog/product-technology/another-way-make-sites-load-faster/",
+      "https://www.plesk.com/blog/product-technology/how-to-set-up-managed-wordpress-hosting-video/",
+      "https://www.plesk.com/blog/product-technology/protect-websites-plesk-security-extensions/",
+      "https://www.plesk.com/blog/tips-easy-reading/save-4-hours-weekly-server-management/",
+      "https://www.plesk.com/blog/business-industry/top-hacking-groups-cybersecurity-today/",
+      "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-roundup-june/"
     ]
   },
   "online-metrix.net": {
-    "lastAt": 1758659233616,
+    "lastAt": 1759011630823,
     "urls": []
   },
   "telegram.me": {
-    "lastAt": 1758659234687,
+    "lastAt": 1759011631800,
     "urls": [
       "https://telegram.me/"
     ]
   },
   "cnbc.com": {
-    "lastAt": 1758659244951,
+    "lastAt": 1759011642085,
     "urls": [
       "https://cnbc.com/",
       "https://www.cnbc.com/asia-markets/",
@@ -7715,23 +7741,33 @@
       "https://www.cnbc.com/ai-artificial-intelligence/",
       "https://www.cnbc.com/oil/",
       "https://www.cnbc.com/xfinity-money/",
-      "https://www.cnbc.com/inside-india/"
+      "https://www.cnbc.com/inside-india/",
+      "https://www.cnbc.com/politics/",
+      "https://www.cnbc.com/latest-from-cnbc/",
+      "https://www.cnbc.com/emerging-markets/",
+      "https://www.cnbc.com/make-it/startups/",
+      "https://www.cnbc.com/make-it/life/",
+      "https://www.cnbc.com/make-it/success/",
+      "https://www.cnbc.com/make-it/work/",
+      "https://www.cnbc.com/us-top-news-and-analysis/",
+      "https://www.cnbc.com/world-top-news/",
+      "https://www.cnbc.com/2025/09/27/us-to-revoke-colombian-presidents-visa-over-comments-at-pro-palestinian-gathering.html"
     ]
   },
   "mcafee.com": {
-    "lastAt": 1758659313764,
+    "lastAt": 1759011710895,
     "urls": []
   },
   "firetvcaptiveportal.com": {
-    "lastAt": 1758659372575,
+    "lastAt": 1759011769706,
     "urls": []
   },
   "imcmdb.net": {
-    "lastAt": 1758659431386,
+    "lastAt": 1759011828519,
     "urls": []
   },
   "zendesk.com": {
-    "lastAt": 1758659436045,
+    "lastAt": 1759011832966,
     "urls": [
       "https://www.zendesk.com/marketplace/",
       "https://www.zendesk.com/marketplace/partners/",
@@ -7772,11 +7808,21 @@
       "https://www.zendesk.com/marketplace/apps/support/206749/gdpr-search--destroy/",
       "https://www.zendesk.com/marketplace/apps/support/792311/help-center-manager/",
       "https://www.zendesk.com/marketplace/apps/support/65522/aircall-for-support/",
-      "https://www.zendesk.com/marketplace/apps/chat/55779/geckoboard-dashboards-for-chat/"
+      "https://www.zendesk.com/marketplace/apps/chat/55779/geckoboard-dashboards-for-chat/",
+      "https://www.zendesk.com/marketplace/apps/support/200668/gdpr-compliance/",
+      "https://www.zendesk.com/marketplace/apps/support/394508/azure-devops-integration/",
+      "https://www.zendesk.com/marketplace/apps/support/232792/ticket-family-by-bcrcx/",
+      "https://www.zendesk.com/marketplace/apps/support/160989/harvestr/",
+      "https://www.zendesk.com/marketplace/apps/support/995136/aissistio/",
+      "https://www.zendesk.com/marketplace/apps/support/973249/simplesat/",
+      "https://www.zendesk.com/marketplace/apps/support/213512/macro-suite/",
+      "https://www.zendesk.com/marketplace/apps/support/921677/auto-remove-attachments/",
+      "https://www.zendesk.com/marketplace/apps/support/210695/realtime-dashboard-by-bcrcx/",
+      "https://www.zendesk.com/marketplace/apps/support/140470/lovely-views/"
     ]
   },
   "goodreads.com": {
-    "lastAt": 1758659442579,
+    "lastAt": 1759011839480,
     "urls": [
       "https://goodreads.com/",
       "https://www.goodreads.com/author/show/3.W_Frederick_Zimmerman",
@@ -7817,21 +7863,31 @@
       "https://www.goodreads.com/author/show/52.Heidi_Pitlor",
       "https://www.goodreads.com/author/show/50.Heidi_Betts",
       "https://www.goodreads.com/author/show/56.Brian_Herbert",
-      "https://www.goodreads.com/author/show/47.Heidi_Boyd"
+      "https://www.goodreads.com/author/show/47.Heidi_Boyd",
+      "https://www.goodreads.com/book/show/241940882-europa-antropologica",
+      "https://www.goodreads.com/book/show/241940886-how-to-make-big-money-using-social-media-and-ai",
+      "https://www.goodreads.com/book/show/241940884-analyze-and-execute",
+      "https://www.goodreads.com/book/show/241940885-usa-travel-guide",
+      "https://www.goodreads.com/book/show/241940883-a-cidade-da-raposa",
+      "https://www.goodreads.com/book/show/241940892-mistletoe-mix-up",
+      "https://www.goodreads.com/book/show/241940887-st-sebastian-life-and-legacy",
+      "https://www.goodreads.com/book/show/241940888-hepatitis-autoinmune",
+      "https://www.goodreads.com/book/show/241940891-cinzas-de-cogumelos-azuis",
+      "https://www.goodreads.com/book/show/241940893-carnivore-diet-for-beginners-cookbook"
     ]
   },
   "walmart.com": {
-    "lastAt": 1758659461319,
+    "lastAt": 1759011853164,
     "urls": [
       "https://walmart.com/"
     ]
   },
   "b-msedge.net": {
-    "lastAt": 1758659464203,
+    "lastAt": 1759011856049,
     "urls": []
   },
   "cookiedatabase.org": {
-    "lastAt": 1758659469416,
+    "lastAt": 1759011861300,
     "urls": [
       "https://cookiedatabase.org/sitemap.html",
       "https://cookiedatabase.org/service/404-solution/",
@@ -7872,23 +7928,33 @@
       "https://cookiedatabase.org/service/amelia/",
       "https://cookiedatabase.org/service/amplitude/",
       "https://cookiedatabase.org/service/appcues/",
-      "https://cookiedatabase.org/service/appdynamics/"
+      "https://cookiedatabase.org/service/appdynamics/",
+      "https://cookiedatabase.org/service/automattic/",
+      "https://cookiedatabase.org/service/asgaros-forum/",
+      "https://cookiedatabase.org/service/atlassian-jira-servicedesk/",
+      "https://cookiedatabase.org/service/autoptimize/",
+      "https://cookiedatabase.org/service/automatewoo/",
+      "https://cookiedatabase.org/service/avada-privacy-bar/",
+      "https://cookiedatabase.org/service/auxin-elements/",
+      "https://cookiedatabase.org/service/awesome-support/",
+      "https://cookiedatabase.org/service/beaver-builder/",
+      "https://cookiedatabase.org/service/beeketing/"
     ]
   },
   "g.page": {
-    "lastAt": 1758659471335,
+    "lastAt": 1759011861923,
     "urls": [
       "https://g.page/"
     ]
   },
   "indexww.com": {
-    "lastAt": 1758659472540,
+    "lastAt": 1759011862998,
     "urls": [
       "https://indexww.com/"
     ]
   },
   "calendly.com": {
-    "lastAt": 1758659475881,
+    "lastAt": 1759011866003,
     "urls": [
       "https://calendly.com/solutions/financial-services",
       "https://calendly.com/notetaker",
@@ -7929,45 +7995,55 @@
       "https://calendly.com/scheduling/embed-options",
       "https://calendly.com/scheduling/groups",
       "https://calendly.com/integration/google",
-      "https://calendly.com/signup"
+      "https://calendly.com/signup",
+      "https://calendly.com/compare",
+      "https://calendly.com/release-notes",
+      "https://calendly.com/resources/ebooks/sales-script-templates",
+      "https://calendly.com/contact/demo",
+      "https://calendly.com/about",
+      "https://calendly.com/resources/ebooks/growth-week-survey",
+      "https://calendly.com/login",
+      "https://calendly.com/leadership",
+      "https://calendly.com/resources/ebooks/forrester-tei",
+      "https://calendly.com/integration/microsoft"
     ]
   },
   "taobao.com": {
-    "lastAt": 1758659479833,
+    "lastAt": 1759011869832,
     "urls": [
       "https://taobao.com/"
     ]
   },
   "npr.org": {
-    "lastAt": 1758659548639,
+    "lastAt": 1759011938641,
     "urls": []
   },
   "statista.com": {
-    "lastAt": 1758659600745,
+    "lastAt": 1759011992050,
     "urls": [
       "https://statista.com/"
     ]
   },
   "behance.net": {
-    "lastAt": 1758659607215,
+    "lastAt": 1759011998483,
     "urls": [
       "https://behance.net/"
     ]
   },
   "xiaomi.net": {
-    "lastAt": 1758659615633,
+    "lastAt": 1759012006302,
     "urls": []
   },
   "cdn20.com": {
-    "lastAt": 1758659618869,
+    "lastAt": 1759012009670,
     "urls": []
   },
   "nflximg.com": {
-    "lastAt": 1758659677681,
+    "lastAt": 1759012068476,
     "urls": []
   },
   "entrust.net": {
-    "lastAt": 1758662383667,
+    "lastAt": 1759012072474,
     "urls": []
   },
   "verisign.com": {
