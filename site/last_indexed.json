@@ -916,7 +916,7 @@
     ]
   },
   "adobe.com": {
-    "lastAt": 1758612227116,
+    "lastAt": 1758961638160,
     "urls": [
       "https://adobe.com/",
       "https://www.adobe.com/ie/metaverse.html",
@@ -941,11 +941,12 @@
       "https://www.adobe.com/no/products/catalog.html",
       "https://www.adobe.com/ie/creativecloud/plans.html",
       "https://www.adobe.com/africa/metaverse.html",
-      "https://www.adobe.com/th_en/metaverse.html"
+      "https://www.adobe.com/th_en/metaverse.html",
+      "https://www.adobe.com/ch_de/products/catalog.html"
     ]
   },
   "spotify.com": {
-    "lastAt": 1758612231193,
+    "lastAt": 1758961642693,
     "urls": [
       "https://www.spotify.com/us/signup",
       "https://www.spotify.com/ae-en/signup",
@@ -986,11 +987,21 @@
       "https://www.spotify.com/bg-en/signup",
       "https://www.spotify.com/bh-en/signup",
       "https://www.spotify.com/bh-ar/signup",
-      "https://www.spotify.com/bi-fr/signup"
+      "https://www.spotify.com/bi-fr/signup",
+      "https://www.spotify.com/bi-en/signup",
+      "https://www.spotify.com/bj-fr/signup",
+      "https://www.spotify.com/bn-en/signup",
+      "https://www.spotify.com/bn-ms/signup",
+      "https://www.spotify.com/bj-en/signup",
+      "https://www.spotify.com/bo/signup",
+      "https://www.spotify.com/br-pt/signup",
+      "https://www.spotify.com/br-en/signup",
+      "https://www.spotify.com/bs/signup",
+      "https://www.spotify.com/bt/signup"
     ]
   },
   "vimeo.com": {
-    "lastAt": 1758612235369,
+    "lastAt": 1758961647297,
     "urls": [
       "https://vimeo.com/",
       "https://vimeo.com/blog",
@@ -1031,15 +1042,22 @@
       "https://vimeo.com/blog/author/cbhughes",
       "https://vimeo.com/blog/author/charlieungashick",
       "https://vimeo.com/blog/author/cestchristine",
-      "https://vimeo.com/blog/author/chriskurdziel"
+      "https://vimeo.com/blog/author/chriskurdziel",
+      "https://vimeo.com/vimeo-academy",
+      "https://vimeo.com/blog/topics/learning-development",
+      "https://vimeo.com/blog/topics/ai",
+      "https://vimeo.com/blog/topics/events-streaming",
+      "https://vimeo.com/blog/topics/monetization",
+      "https://vimeo.com/blog/topics/hosting-player",
+      "https://vimeo.com/blog/topics/employee-comms"
     ]
   },
   "ln-msedge.net": {
-    "lastAt": 1758612238233,
+    "lastAt": 1758961650176,
     "urls": []
   },
   "tiktok.com": {
-    "lastAt": 1758612240901,
+    "lastAt": 1758961653043,
     "urls": [
       "https://www.tiktok.com/following",
       "https://www.tiktok.com/about",
@@ -1076,37 +1094,46 @@
       "https://www.tiktok.com/creators/creator-portal/en-us/category/foundations-for-success",
       "https://www.tiktok.com/creators/creator-portal/en-us/category/community-guidelines-and-safety",
       "https://www.tiktok.com/creators/creator-portal/en-us/category/getting-paid-to-create",
-      "https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/qa-engaging-with-your-community/"
+      "https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/qa-engaging-with-your-community/",
+      "https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/maximizing-your-live-events/",
+      "https://www.tiktok.com/creators/creator-portal/en-us/category/featured-articles",
+      "https://www.tiktok.com/creators/creator-portal/en-us/foundations-for-success/making-your-videos-more-accessible/",
+      "https://www.tiktok.com/creators/creator-portal/ru-ru/",
+      "https://www.tiktok.com/jump/apply",
+      "https://www.tiktok.com/creators/creator-portal/ja-jp/",
+      "https://www.tiktok.com/creators/creator-portal/pt-br/",
+      "https://www.tiktok.com/creators/creator-portal",
+      "https://www.tiktok.com/creators/creator-portal/category/getting-started-on-tiktok"
     ]
   },
   "cloudfront.net": {
-    "lastAt": 1758612243961,
+    "lastAt": 1758961656042,
     "urls": []
   },
   "tiktokv.com": {
-    "lastAt": 1758612248198,
+    "lastAt": 1758961660661,
     "urls": []
   },
   "x.com": {
-    "lastAt": 1758612249057,
+    "lastAt": 1758961661496,
     "urls": [
       "https://x.com/"
     ]
   },
   "gvt2.com": {
-    "lastAt": 1758612252006,
+    "lastAt": 1758961664524,
     "urls": []
   },
   "gvt1.com": {
-    "lastAt": 1758612254954,
+    "lastAt": 1758961667480,
     "urls": []
   },
   "akam.net": {
-    "lastAt": 1758612258301,
+    "lastAt": 1758961670568,
     "urls": []
   },
   "gandi.net": {
-    "lastAt": 1758612261202,
+    "lastAt": 1758961673396,
     "urls": [
       "https://www.gandi.net/en",
       "https://www.gandi.net/en/simple-hosting/wordpress",
@@ -1147,49 +1174,59 @@
       "https://www.gandi.net/en-US/domain",
       "https://www.gandi.net/en-US/domain/tld",
       "https://www.gandi.net/en-US/domain/tld?prefix=a",
-      "https://www.gandi.net/en-US/domain/tld?prefix=b"
+      "https://www.gandi.net/en-US/domain/tld?prefix=b",
+      "https://www.gandi.net/en-US/domain/tld?prefix=c",
+      "https://www.gandi.net/en-US/domain/tld?prefix=e",
+      "https://www.gandi.net/en-US/domain/tld?prefix=f",
+      "https://www.gandi.net/en-US/domain/tld?prefix=d",
+      "https://www.gandi.net/en-US/domain/tld?prefix=g",
+      "https://www.gandi.net/en-US/domain/tld?prefix=h",
+      "https://www.gandi.net/en-US/domain/tld?prefix=i",
+      "https://www.gandi.net/en-US/domain/tld?prefix=j",
+      "https://www.gandi.net/en-US/domain/tld?prefix=k",
+      "https://www.gandi.net/en-US/domain/tld?prefix=l"
     ]
   },
   "a-msedge.net": {
-    "lastAt": 1758612264083,
+    "lastAt": 1758961676252,
     "urls": []
   },
   "bit.ly": {
-    "lastAt": 1758612285487,
+    "lastAt": 1758961697453,
     "urls": [
       "https://bit.ly/"
     ]
   },
   "ytimg.com": {
-    "lastAt": 1758612288426,
+    "lastAt": 1758961700398,
     "urls": []
   },
   "office365.com": {
-    "lastAt": 1758612351320,
+    "lastAt": 1758961763422,
     "urls": []
   },
   "edgekey.net": {
-    "lastAt": 1758612354368,
+    "lastAt": 1758961766414,
     "urls": []
   },
   "nic.ru": {
-    "lastAt": 1758612356877,
+    "lastAt": 1758961769051,
     "urls": [
       "https://nic.ru/"
     ]
   },
   "cloudflare.net": {
-    "lastAt": 1758612359903,
+    "lastAt": 1758961772041,
     "urls": []
   },
   "yandex.net": {
-    "lastAt": 1758612363036,
+    "lastAt": 1758961774929,
     "urls": [
       "https://yandex.net/"
     ]
   },
   "qq.com": {
-    "lastAt": 1758612369199,
+    "lastAt": 1758961781541,
     "urls": [
       "https://news.qq.com/rain/a/20250911V03ELI00",
       "https://news.qq.com/rain/a/20250911V039BM00",
@@ -1230,11 +1267,21 @@
       "https://news.qq.com/rain/a/20250923V04MTK00",
       "https://news.qq.com/rain/a/20250923V04MUH00",
       "https://news.qq.com/rain/a/20250923A04MTZ00",
-      "https://news.qq.com/rain/a/20250923A04LJ700"
+      "https://news.qq.com/rain/a/20250923A04LJ700",
+      "https://news.qq.com/rain/a/20250927V044XN00",
+      "https://news.qq.com/rain/a/20250927V0450T00",
+      "https://news.qq.com/rain/a/20250927V0455W00",
+      "https://news.qq.com/rain/a/20250927A0458E00",
+      "https://news.qq.com/rain/a/20250927A0452P00",
+      "https://news.qq.com/rain/a/20250920V03VDY00",
+      "https://news.qq.com/rain/a/20250927V044Y800",
+      "https://news.qq.com/rain/a/20250927A0454H00",
+      "https://news.qq.com/rain/a/20250927V044XB00",
+      "https://news.qq.com/rain/a/20250927A0451J00"
     ]
   },
   "wordpress.com": {
-    "lastAt": 1758612374322,
+    "lastAt": 1758961785286,
     "urls": [
       "https://wordpress.com/",
       "https://gd.wordpress.com/",
@@ -1275,11 +1322,21 @@
       "https://wordpress.com/ecommerce/",
       "https://wordpress.com/social-web/",
       "https://wordpress.com/domain-registration-data-disclosure-policy/",
-      "https://wordpress.com/ro-pricing/"
+      "https://wordpress.com/ro-pricing/",
+      "https://wordpress.com/patterns/newsletter",
+      "https://wordpress.com/patterns/contact",
+      "https://wordpress.com/patterns/menu",
+      "https://wordpress.com/patterns/services",
+      "https://wordpress.com/patterns/header",
+      "https://wordpress.com/patterns/layouts/posts",
+      "https://wordpress.com/patterns/layouts/menu",
+      "https://wordpress.com/patterns/testimonials",
+      "https://wordpress.com/patterns/layouts/gallery",
+      "https://wordpress.com/patterns/layouts/services"
     ]
   },
   "zoom.us": {
-    "lastAt": 1758612376526,
+    "lastAt": 1758961787639,
     "urls": [
       "https://zoom.us/download",
       "https://zoom.us/join",
@@ -1320,11 +1377,21 @@
       "https://zoom.us/fr/signin",
       "https://zoom.us/fr/pricing/zoom-rooms",
       "https://zoom.us/fr/signup",
-      "https://zoom.us/fr/test"
+      "https://zoom.us/fr/test",
+      "https://zoom.us/id/pricing/events",
+      "https://zoom.us/id/pricing/zoom-rooms",
+      "https://zoom.us/id/pricing/zoom-contact-center",
+      "https://zoom.us/id/pricing/healthcare",
+      "https://zoom.us/id/pricing/zoom-phone",
+      "https://zoom.us/id/signup",
+      "https://zoom.us/id/signin",
+      "https://zoom.us/id/pricing/developer",
+      "https://zoom.us/id/test",
+      "https://zoom.us/id/zoomconference/gcoverage"
     ]
   },
   "opera.com": {
-    "lastAt": 1758612384493,
+    "lastAt": 1758961796319,
     "urls": [
       "https://www.opera.com/",
       "https://www.opera.com/features",
@@ -1365,35 +1432,45 @@
       "https://www.opera.com/vi/features/bookmarks",
       "https://www.opera.com/nb/features/bookmarks",
       "https://www.opera.com/uk/features/bookmarks",
-      "https://www.opera.com/zh-cn/features/bookmarks"
+      "https://www.opera.com/zh-cn/features/bookmarks",
+      "https://www.opera.com/de/features/vkontakte",
+      "https://www.opera.com/es-419/features/vkontakte",
+      "https://www.opera.com/features/vkontakte",
+      "https://www.opera.com/es/features/vkontakte",
+      "https://www.opera.com/pl/features/vkontakte",
+      "https://www.opera.com/fr/features/vkontakte",
+      "https://www.opera.com/pt/features/vkontakte",
+      "https://www.opera.com/pt-br/features/vkontakte",
+      "https://www.opera.com/tr/features/vkontakte",
+      "https://www.opera.com/ru/features/vkontakte"
     ]
   },
   "samsung.com": {
-    "lastAt": 1758612444621,
+    "lastAt": 1758961852655,
     "urls": [
       "https://samsung.com/"
     ]
   },
   "google-analytics.com": {
-    "lastAt": 1758612445490,
+    "lastAt": 1758961853526,
     "urls": [
       "https://google-analytics.com/"
     ]
   },
   "baidu.com": {
-    "lastAt": 1758612450210,
+    "lastAt": 1758961857798,
     "urls": [
       "https://baidu.com/"
     ]
   },
   "cloudflare-dns.com": {
-    "lastAt": 1758612451180,
+    "lastAt": 1758961858757,
     "urls": [
       "https://cloudflare-dns.com/"
     ]
   },
   "windows.com": {
-    "lastAt": 1758612453343,
+    "lastAt": 1758961861072,
     "urls": [
       "https://www.microsoft.com/en-us/windows/apps-for-windows",
       "https://www.microsoft.com/en-us/windows/ai-features",
@@ -1434,11 +1511,21 @@
       "https://www.microsoft.com/en-us/windows/tips/photos-app",
       "https://www.microsoft.com/en-us/windows/tips/voice",
       "https://www.microsoft.com/en-us/windows/tips/touch",
-      "https://www.microsoft.com/en-us/windows/tips/clipchamp"
+      "https://www.microsoft.com/en-us/windows/tips/clipchamp",
+      "https://www.microsoft.com/en-us/windows/extended-security-updates",
+      "https://www.microsoft.com/en-us/windows/tips/presence-sensing",
+      "https://www.microsoft.com/en-us/windows/tips/quick-assist",
+      "https://www.microsoft.com/en-us/windows/tips/paint",
+      "https://www.microsoft.com/en-us/windows/tips/windows-backup",
+      "https://www.microsoft.com/en-us/windows/tips/passkeys",
+      "https://www.microsoft.com/en-us/windows/tips/voice-access",
+      "https://www.microsoft.com/en-us/windows/tips/narrator",
+      "https://www.microsoft.com/en-us/windows/tips/easier-to-see",
+      "https://www.microsoft.com/en-us/windows/tips/live-captions"
     ]
   },
   "nginx.org": {
-    "lastAt": 1758612459992,
+    "lastAt": 1758961867759,
     "urls": [
       "https://nginx.org/"
     ]
