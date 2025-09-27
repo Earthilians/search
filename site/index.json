@@ -237522,5 +237522,747 @@
     "title": "",
     "description": "",
     "text": ""
+  },
+  {
+    "id": "afa4e4ae563738819defa36978903c21d56ea378",
+    "url": "https://ably.com/resources/whitepapers/five-websocket-challenges-to-building-audience-engagement-features-at-scale/thank-you",
+    "title": "",
+    "description": "",
+    "text": "If you're having technical or account issues just get in touch.\nDon't want to chat? Get in touch.\nOu"
+  },
+  {
+    "id": "04c468734ff887da95b8ef18fce93af3cb35a238",
+    "url": "https://ably.com/resources/whitepapers/event-driven-architecture-pattern-for-live-in-app-audience-engagement-features/thank-you",
+    "title": "",
+    "description": "",
+    "text": "If you're having technical or account issues just get in touch.\nDon't want to chat? Get in touch.\nOu"
+  },
+  {
+    "id": "3aedf2aebd966261924be1176cadd0173e7f23fe",
+    "url": "https://ably.com/resources/whitepapers/scale-online-sports-betting/thank-you",
+    "title": "",
+    "description": "",
+    "text": "If you're having technical or account issues just get in touch.\nDon't want to chat? Get in touch.\nOu"
+  },
+  {
+    "id": "b9628941f6679bc73db6920b671c3b7ca83a2ea5",
+    "url": "https://ably.com/resources/whitepapers/scale-online-sports-betting",
+    "title": "Online Sports Betting Hits Super Bowl Scale",
+    "description": "Learn how to scale a realtime infrastructure to handle peak online sports betting demands.",
+    "text": "In this whitepaper, we look at why sportsbooks need to invest in their existing technology stacks an"
+  },
+  {
+    "id": "fa937c2d9127d543d8bafb6cc46cb024ea775764",
+    "url": "https://ably.com/resources/whitepapers/event-driven-architecture-pattern-for-live-in-app-audience-engagement-features",
+    "title": "An event-driven architecture pattern for live in-app audience engagement features at scale",
+    "description": "In this free starter kit, we teach you how to build your own live multiplayer quiz. You'll get tutor",
+    "text": "This whitepaper examines the high-level architecture required to support bidirectional, low-latency "
+  },
+  {
+    "id": "8717ece557574c132258cc833d06161d411a026a",
+    "url": "https://ably.com/resources/whitepapers/the-online-gaming-betting-guide-to-delivering-powerful-realtime-experiences",
+    "title": "Online Gaming & Sports Betting: 6 Ways to Exceed Users' Realtime Expectations",
+    "description": "In this guide we take you through the 6 key problems in successfully implementing realtime for betti",
+    "text": "Successful realtime implementation not only drastically improves customer experience, it can also gi"
+  },
+  {
+    "id": "acc7c7f75cfa9cc008b3a341d7f46ad515f5e65e",
+    "url": "https://ably.com/resources/ebooks/livestream-chat-at-scale",
+    "title": "The Definitive Guide to Building Livestream Chat at Scale",
+    "description": "Build reliable, cost-efficient chat, no matter how big your moment becomes.",
+    "text": "We hope it gives you practical insights into designing chat that’s fast, reliable, and cost-efficien"
+  },
+  {
+    "id": "f83df23fa69e9df554e467f0550ec63574dbe8dd",
+    "url": "https://ably.com/resources/whitepapers/the-online-gaming-betting-guide-to-delivering-powerful-realtime-experiences/thank-you",
+    "title": "",
+    "description": "",
+    "text": "If you're having technical or account issues just get in touch.\nDon't want to chat? Get in touch.\nOu"
+  },
+  {
+    "id": "f762a6e8fa483de5c1156cf80c8ffbca841beb28",
+    "url": "https://ably.com/resources/whitepapers/kafka-for-realtime-mobile-banking",
+    "title": "Kafka for Realtime Mobile Banking",
+    "description": "Learn about extending your Kafka pipeline to end-users at the network edge, for realtime mobile bank",
+    "text": "In this whitepaper, we will look at what you need to consider when building realtime\nbanking apps fo"
+  },
+  {
+    "id": "029704a9837d74fb3902d157db3fa1d9aad184a1",
+    "url": "https://ably.com/resources/whitepapers/kafka-for-realtime-mobile-banking/thank-you",
+    "title": "",
+    "description": "",
+    "text": "If you're having technical or account issues just get in touch.\nDon't want to chat? Get in touch.\nOu"
+  },
+  {
+    "id": "e229bb0fab087e250342b3f25952b9bc46368d3d",
+    "url": "https://indianexpress.com/article/entertainment/bollywood/homebound-box-office-collection-day-1-india-oscar-entry-hits-theatres-with-limited-release-rs-29-lakh-10274128/",
+    "title": "Homebound box office collection day 1: India's Oscar entry hits theatres with limited release, earns",
+    "description": "Homebound box office collection day 1: The film had about 400 shows across India with a screen count",
+    "text": "Homebound box office collection day 1: Homebound, India’s official entry to the 98th Academy Awards,"
+  },
+  {
+    "id": "1bc38da3d136f884aa4e653bd940e38c8878b4c1",
+    "url": "https://indianexpress.com/article/cities/chandigarh/us-tariffs-imported-branded-patented-medicines-disruptions-say-himachal-pharmaceuticals-producing-generics-10274155/",
+    "title": "US tariffs on imported branded and patented medicines: ‘No major disruptions’ say Himachal pharmaceu",
+    "description": "Himachal Pradesh's pharmaceutical manufacturers affirm that recent US tariffs on branded drugs will ",
+    "text": "In the backdrop of latest US tariffs on branded and patented medicines, the pharmaceutical manufactu"
+  },
+  {
+    "id": "a497db7f30586e80b0091de1e9cdaf2caaeb4d51",
+    "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10274148/",
+    "title": "Daily Briefing: What’s going on in Ladakh amid Wangchuk’s detention?",
+    "description": "In today's edition: Bidding farewell to MiG-21; H-1B visa panic; India-EU strategic agenda explained",
+    "text": "Good morning,\nThe MiG-21 has flown its last sortie. Inducted into the Indian Air Force in 1963, the "
+  },
+  {
+    "id": "faea01d3f792c68cdb6ba9f8de333cba20f727f2",
+    "url": "https://indianexpress.com/article/lifestyle/feelings/aryan-khan-karan-johar-the-bads-of-bollywood-director-10264108/",
+    "title": "‘The only person who can force Aryan Khan to do anything is…’: Karan Johar opens up about The Ba***d",
+    "description": "Aryan Khan's reserved nature and recent directorial debut have sparked curiosity. In a rare insight,",
+    "text": "Aryan Khan has made his directorial debut with The Ba***ds of Bollywood, and the elusive son of Boll"
+  },
+  {
+    "id": "0466617a9f150e911a75b9f47fc89766f12799cf",
+    "url": "https://indianexpress.com/article/sports/cricket/morne-morkel-hardik-pandya-injury-ind-vs-sl-10274111/",
+    "title": "Morne Morkel confirms Hardik Pandya’s injury after IND vs SL clash: ‘We will assess tonight and tomo",
+    "description": "India will face Pakistan in the final on Sunday. \"Few boys had a lot of cramps today, we will have a",
+    "text": "There were a few eyebrows raised on Friday when Hardik Pandya did not bowl beyond a single over afte"
+  },
+  {
+    "id": "14ee6849fd5b4fa9795d9910b9e124e0935b1f1f",
+    "url": "https://indianexpress.com/article/entertainment/telugu/they-call-him-og-box-office-collection-day-2-pawan-kalyan-69-percent-decline-earns-rs-171-cr-worldwide-10274059/",
+    "title": "They Call Him OG Box Office Collection Day 2: Pawan Kalyan-starrer witnesses 69 percent decline afte",
+    "description": "They Call Him OG Box Office Collection Day 2: Directed by Sujeeth and starring Pawan Kalyan-Emraan H",
+    "text": "They Call Him OG Box Office Collection Day 2: Mixed reviews don’t seem to be stopping the Pawan Kaly"
+  },
+  {
+    "id": "09cf0f403f70846f48b0f600c8638867de690762",
+    "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-political-maturity-challenging-bjp-pm-d-raja-10274029/",
+    "title": "‘Rahul Gandhi now demonstrating political maturity, directly challenging BJP, PM,’ says D Raja | Pol",
+    "description": "In an interview with The Indian Express, D Raja discusses the current state of the INDIA bloc, CPI’s",
+    "text": "Sukhbir Siwach\nSenior Communist leader D Raja was re-elected as General Secretary of the CPI at the "
+  },
+  {
+    "id": "d59f7da324edf7da44e4d296cf391c44a4a1fb72",
+    "url": "https://indianexpress.com/article/world/king-charles-pay-state-visit-vatican-pope-leo-10274034/",
+    "title": "King Charles to pay state visit to Vatican to see Pope Leo | World News - The Indian Express",
+    "description": "The British royals were due to visit the Vatican as part of a wider tour of Italy but it was postpon",
+    "text": "By: Reuters\t\t\n\t\n\tfunction checkAndLoadScript() {\n\t\tif (window.jQuery) {\n\t\t// jQuery is loaded, inclu"
+  },
+  {
+    "id": "c8378929c2bae68cd4eb594bfd775546e03e4cf0",
+    "url": "https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-27-2025-news-headlines-10274030/",
+    "title": "News Today Live Updates, 27 September | US tariffs on imported branded and patented medicines: ‘No m",
+    "description": "Latest News Live Updates | Senior Communist leader D Raja was re-elected as General Secretary of the",
+    "text": "Prime Minister Narendra Modi on Friday launched Bihar’s Mukhyamantri Mahila Rojgar Yojana via video "
+  },
+  {
+    "id": "27ad62cdb250ba873d4c76011fc0f631805cc71f",
+    "url": "https://indianexpress.com/article/sports/tennis/boris-becker-bjorn-borg-autobiography-sharp-minds-do-stupid-things-10274065/",
+    "title": "Boris Becker & Bjorn Borg: Why the sharpest, calmest sporting minds do the stupidest of things? | Te",
+    "description": "Borg's tell-all memoir and Boris Becker's third autobiography go well beyond the glamour or grit of ",
+    "text": "Bjorn Borg’s heart is beating like a jungle drum. Well after his retirement, on way to play a vetera"
+  },
+  {
+    "id": "422dc945b6d1801904eb9601cfde77dec546eb38",
+    "url": "https://www.belkin.com/products/adapters/audio-charge-adapters/",
+    "title": "Audio Charge Adapters | Belkin US",
+    "description": "Explore our selection of USB-C audio + charge adapters, as well as options in Lightning, 3.5mm audio",
+    "text": "Provide your account email address to receive an email to reset your password.\nCharge your device an"
+  },
+  {
+    "id": "a4d0f8d623dba88aee86c6d9e1e7cf31d20d83dd",
+    "url": "https://www.belkin.com/business/adapters/audio-video-adapters/",
+    "title": "Audio Video Adapters | Belkin US",
+    "description": "Shop our portfolio of Audio Video Adapters and redefine the role of digital innovation in your life.",
+    "text": "Provide your account email address to receive an email to reset your password.\n© Belkin 2025  |  All"
+  },
+  {
+    "id": "eb3bc8af48974e6e1d574055e9634bc2dbf49018",
+    "url": "https://www.belkin.com/business/adapters/audio-charge-adapters/",
+    "title": "Audio Charge Adapters | Belkin US",
+    "description": "Shop our portfolio of Audio Charge Adapters and redefine the role of digital innovation in your life",
+    "text": "Provide your account email address to receive an email to reset your password.\n© Belkin 2025  |  All"
+  },
+  {
+    "id": "5ad7150cc2510932e04f07aa676eea830a81e43b",
+    "url": "https://www.belkin.com/products/cables/audio-video-cables/",
+    "title": "Audio Video Cables | Belkin US",
+    "description": "Upgrade your entertainment setup with our premium audio-video cables, featuring HDMI, DisplayPort, D",
+    "text": "Provide your account email address to receive an email to reset your password.\nUnleash the true pote"
+  },
+  {
+    "id": "9a245edfac224362304e3001669e4076280247df",
+    "url": "https://www.belkin.com/products/adapters/audio-video-adapters/",
+    "title": "Audio Video Adapters | Belkin US",
+    "description": "Browse audio-video adapters including USB-C, VGA, HDMI, and other essential connectors. Edit video, ",
+    "text": "Provide your account email address to receive an email to reset your password.\nUnleash the true pote"
+  },
+  {
+    "id": "38cdfad1b5ca0f8abcb768b9d0ffc0dd66403dd4",
+    "url": "https://www.belkin.com/company/blog/power-bank-safety-belkin-protection/",
+    "title": "Power Bank Safety: How Belkin Keeps You Protected | Belkin US",
+    "description": "Worried about power bank safety? Discover how Belkin’s safety-first engineering and certifications p",
+    "text": "Provide your account email address to receive an email to reset your password.\nSeptember 18, 2025\nPo"
+  },
+  {
+    "id": "9abff9c7e50f0d952feca4805ee8c8c9463d0ec7",
+    "url": "https://www.belkin.com/company/belkin-live/",
+    "title": "Belkin Live | Belkin US",
+    "description": "Shop our portfolio of Belkin Live and redefine the role of digital innovation in your life. Discover",
+    "text": "Provide your account email address to receive an email to reset your password.\n© Belkin 2025  |  All"
+  },
+  {
+    "id": "a7c0b782386aca6af53199b37e0438a9143d8654",
+    "url": "https://www.belkin.com/company/blog/belkin-guide-android-phone-chargers/",
+    "title": "Android Chargers: Complete Guide to Charging | Belkin US | Test",
+    "description": "Discover everything about Android chargers, from USB-C technology to wireless charging options. Lear",
+    "text": "Provide your account email address to receive an email to reset your password.\nApril 1, 2025\nIf you’"
+  },
+  {
+    "id": "7b5c49333ebeae21dc8a1946253da1d3c822fc84",
+    "url": "https://www.belkin.com/company/blog/mothers-day-gifts-and-tips/",
+    "title": "Top 5 Products for Mother's Day",
+    "description": "Discover how to navigate feelings of loss, grief, or complexity with five thoughtful steps surroundi",
+    "text": "Provide your account email address to receive an email to reset your password.\nGuest post:\nMarch 8, "
+  },
+  {
+    "id": "d82b3db3ada9af9c3d5bf970663fae50e4489886",
+    "url": "https://www.belkin.com/business/belkin-dock-utility/",
+    "title": "Belkin Dock Utility | Belkin US",
+    "description": "Belkin Dock Utility Software / Charging Station Dock Utility Software | Belkin US & Take your team t",
+    "text": "Provide your account email address to receive an email to reset your password.\nBoost your network se"
+  },
+  {
+    "id": "6641373eb6ad050d55737894eaf5500ae670c6e9",
+    "url": "https://deadline.com/2025/09/the-chrisleys-back-to-reality-lifetime-interview-1236501459/",
+    "title": "'The Chrisleys: Back To Reality': Interview With Producers",
+    "description": "Lifetime is set to debut the eight-part series about the formerly incarcerated stars of Chrisley Kno",
+    "text": "By Peter White\nExecutive Editor, Television\nEXCLUSIVE: The Chrisley family, stars of one of USA Netw"
+  },
+  {
+    "id": "76d101bd7401d3b572689a2abfbfb19a56b95576",
+    "url": "https://deadline.com/2025/09/the-runarounds-soundtrack-songs-prime-video-1236501670/",
+    "title": "‘The Runarounds’ Soundtrack: From The Rolling Stones To INXS",
+    "description": "'The Runarounds' stars a band of five guys with original songs written for the series alongside need",
+    "text": "By Dessi Gomez\nSEO Staff Writer\nFrom the creator of Outer Banks, Jonas Pate, comes a new YA series T"
+  },
+  {
+    "id": "94ddef3b95cabe352ee6a0f1f863962de0beeb63",
+    "url": "https://deadline.com/2025/09/dwayne-johnson-the-smashing-machine-ovation-venice-1236502977/",
+    "title": "Dwayne Johnson's 'The Smashing Machine': 15 1/2-Minute Ovation In Venice",
+    "description": "Dwayne Johnson, Emily Blunt and Benny Safdie's The Smashing Machine got a 15 1/12-minute ovation aft",
+    "text": "By Nancy Tartaglione\nInternational Box Office Editor/Senior Contributor\nDwayne Johnson, Emily Blunt "
+  },
+  {
+    "id": "7d1ac41005afadadbb2875459254aff2316b6989",
+    "url": "https://deadline.com/2025/09/randy-boone-dead-the-virginian-1236503209/",
+    "title": "Randy Boone Dead: 'The Virginian' Singing Ranch Hand Was 83",
+    "description": "Randy Boone, who played the guitar-strumming singing ranch hand Randy Benton on the classic NBC west",
+    "text": "By Greg Evans\nNY & Broadway Editor\nRandy Boone, who played the guitar-strumming singing ranch hand R"
+  },
+  {
+    "id": "580f1cc270845f3b63da80ce13bef210304eb92e",
+    "url": "https://deadline.com/2025/09/2025-tv-premiere-dates-1235811038/",
+    "title": "2025 TV Premiere Dates: New & Returning Series On Broadcast, Cable, Streaming",
+    "description": "Here is a list of 2025 TV premiere dates for new and returning series on broadcast, cable and stream",
+    "text": "By Erik Pedersen\nManaging Editor\nHere again is Deadline’s annual list of premiere dates for new and "
+  },
+  {
+    "id": "1085fb92f88e5c748273944099c32be8591f074d",
+    "url": "https://deadline.com/2025/09/the-smashing-machine-dwayne-johnson-benny-safdie-venice-1236503263/",
+    "title": "‘The Smashing Machine:’ What The Critics Are Saying",
+    "description": "Venice runs until Sept 6.",
+    "text": "By Zac Ntim\nInternational Reporter\nFirst reviews are out for The Smashing Machine, the first solo di"
+  },
+  {
+    "id": "c1abee09f24b95368763aeaba6134eeefbb879cc",
+    "url": "https://deadline.com/2025/09/the-new-yorker-at-100-review-telluride-film-festival-1236503332/",
+    "title": "'The New Yorker At 100' Review: Documentary On Greatest Of Magazines",
+    "description": "'The New Yorker At 100' Review: an entertaining if incomplete documentary on \"the greatest magazine ",
+    "text": "By Matthew Carey\nDocumentary Editor, Awards\nThe most famous cover in the history of The New Yorker m"
+  },
+  {
+    "id": "9518ee37bcd7bd4b1b06cea80ad67b2d7533e4c7",
+    "url": "https://deadline.com/2025/09/graham-greene-dead-dances-with-wolves-wind-river-1236502962/",
+    "title": "Graham Greene Dead: 'Dances With Wolves' & 'Wind River' Actor",
+    "description": "Graham Greene, a trailblazing Canadian First Nations actor & 'Dances With Wolves' star who opened do",
+    "text": "By Nellie Andreeva\nCo-Editor-in-Chief, TV\nGraham Greene, a trailblazing Canadian First Nations actor"
+  },
+  {
+    "id": "ff99ddea988b25cc2087262653bcca936a9a6de1",
+    "url": "https://deadline.com/2025/09/joe-bugner-dead-muhammad-ali-twice-1236503400/",
+    "title": "Joe Bugner Dead: Boxer Who Fought Muhammad Ali Twice & Later Became Actor Was 75",
+    "description": "Joe Bugner, a boxer who Muhammad Ali twice -- once for the heavyweight title -- and Joe Frazier late",
+    "text": "By Erik Pedersen\nManaging Editor\nJoe Bugner, a boxer who went the distance with Joe Frazier once and"
+  },
+  {
+    "id": "2f6ca9e30b6a689e57fc3b58c4c1b0485758305f",
+    "url": "https://deadline.com/2025/09/disney-sued-former-top-lawyer-discrimination-1236500834/",
+    "title": "Disney Sued By Former Top Lawyer For Discrimination & Retaliation",
+    "description": "Under a year since Disney settled a pay inequity class action with a $43m payout, the company is now",
+    "text": "By Dominic Patten\nExecutive Editor, Legal, Labor & Politics\nLess than a year since Disney finally se"
+  },
+  {
+    "id": "73138c0667fc9103ef364d330138c6c20284c273",
+    "url": "https://www.newscientist.com/section/regulars/",
+    "title": "Regulars news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nRegulars\nRegulars\nRegulars\nRegulars\nRegulars\nRegulars\nRegulars\nRegulars\nRegulars\nAdver"
+  },
+  {
+    "id": "34cfa22c68d55d7b5cb1affce3c2a1121fabfead",
+    "url": "https://www.newscientist.com/section/the-future-of-shopping/",
+    "title": "The future of shopping news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nThe Future of Shopping\nThe Future of Shopping\nThe Future of Shopping\nAdvertisement\nDow"
+  },
+  {
+    "id": "f5199c5e5100afb58d83fbaaabb7efc7d15459e7",
+    "url": "https://www.newscientist.com/section/space-advancing-the-future/",
+    "title": "Space: advancing the future news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nSpace: Advancing the future\nSpace: Advancing the future\nSpace: Advancing the future\nSp"
+  },
+  {
+    "id": "9043bae0742aa8a61bced1afa4a42293d2a8f1d5",
+    "url": "https://www.newscientist.com/section/stem-access-for-all/",
+    "title": "Stem: access for all news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nSTEM: Access for all\nSTEM: Access for all\nSTEM: Access for all\nSTEM: Access for all\nST"
+  },
+  {
+    "id": "af758c686ef638e3cf5b65584b69c9f94a2eef7b",
+    "url": "https://www.newscientist.com/section/sustainable-solutions-towards-net-zero/",
+    "title": "Sustainable solution towards net zero news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nITN Business launches news-style programme ‘Sustainable Solutions Towards Net Zero’ wh"
+  },
+  {
+    "id": "ee005d400c2e838300646971e92e3e1cc31fd415",
+    "url": "https://www.newscientist.com/nsj/jobs/chemistry/",
+    "title": "Jobs in Chemistry & Chemist Careers | New Scientist Jobs",
+    "description": "Chemistry jobs. 1,452 jobs to view and apply for now with New Scientist Jobs",
+    "text": "Skip to job results\nSkip to refine results\nSign up for our regular email newsletter\nAdvanced search\n"
+  },
+  {
+    "id": "7e65e86f383b5615aaee363dffe28081d90d1411",
+    "url": "https://www.newscientist.com/section/video/",
+    "title": "Video – latest in science and technology  | New Scientist",
+    "description": "Watch the latest science news, discoveries and big ideas from New Scientist’s video team, featuring ",
+    "text": "Advertisement\nVideo\nVideo\nVideo\nVideo\nVideo\nVideo\nVideo\nVideo\nVideo\nAdvertisement\nVideo\nVideo\nVideo\n"
+  },
+  {
+    "id": "810685629037ea0d0dbc7f932133d8596306bebd",
+    "url": "https://www.newscientist.com/section/secrect-science/",
+    "title": "The secret science in your home news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nThe Secret Science in Your Home\nThe Secret Science in Your Home\nThe Secret Science in "
+  },
+  {
+    "id": "2cc7c377a366274ac7aa4a2dc125ce83416a8a08",
+    "url": "https://www.newscientist.com/section/the-renewable-energy-revolution/",
+    "title": "The renewable energy revolution news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nInstaVolt are helping the UK to meet their plan to cease the sale of new petrol and di"
+  },
+  {
+    "id": "0d947b28c067aaff6e943050835b87b3b1479b6c",
+    "url": "https://www.newscientist.com/section/uncategorized/",
+    "title": "Uncategorized news, articles and features | New Scientist",
+    "description": "",
+    "text": "Advertisement\nEarnings for scientists and engineers in the UK have grown faster than inflation this "
+  },
+  {
+    "id": "14f0c3a184d7090be715c7c6bf3a8aae6c445291",
+    "url": "https://pt-br.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "21b30bbebce4e8770c1ac8b1773c01fbe3843b95",
+    "url": "https://ro.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "d931056a9ca68e4099182a6bb78cd820208731b1",
+    "url": "https://ru.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "98cf37e8f44677e76354f32874a45f0a9a889dfc",
+    "url": "https://sk.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "388881dc9bdbab2adf90b8e48aa73f78fd963138",
+    "url": "https://sr.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "f7ba616cf9318c04051ec8ac277b03e7da89dc34",
+    "url": "https://uk.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "fab70d380c14b821d962b1868cbe94dbd75fc067",
+    "url": "https://th.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "47889f8c424bc8550d94afb3ffc1d8ca2c8129ad",
+    "url": "https://tr.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "638ffdaec7920aa8e14fc6bc9ea1187d6a5bd8c5",
+    "url": "https://sv.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "6c7d378159a15cdf882a41da60229084700448fc",
+    "url": "https://vi.padlet.com/",
+    "title": "Padlet - Visual Collaboration for Creative Work and Education",
+    "description": "Beautiful boards and canvases for visual thinkers and learners. Used by 40 million people worldwide.",
+    "text": ""
+  },
+  {
+    "id": "af339abcb224ae2d817491950470f9633481c60d",
+    "url": "https://www.mapquest.com/travel/outdoor-activities/hiking/emerald-lake-colorado.htm",
+    "title": "The Ultimate Guide to Hiking Emerald Lake in Rocky Mountain National Park | MapQuest Travel",
+    "description": "Explore the pristine beauty of Emerald Lake Colorado. Discover hiking trails, turquoise waters, and ",
+    "text": "Advertisement\nRocky Mountain National Park is a haven for outdoor enthusiasts, offering a multitude "
+  },
+  {
+    "id": "5c49f92e4fc4768a3c71532a2994bc833fe4f41d",
+    "url": "https://www.mapquest.com/travel/lighthouses-maine.htm",
+    "title": "Exploring the Fascinating World of Maine Lighthouses | MapQuest Travel",
+    "description": "Discover the enchanting world of lighthouses in Maine. Explore their rich maritime history and iconi",
+    "text": "Advertisement\nWhen it comes to iconic symbols of Maine's rugged coastline, lighthouses are at the to"
+  },
+  {
+    "id": "03b9c583c8f2c843dc88376593294225b5520317",
+    "url": "https://www.mapquest.com/travel/is-colombia-safe.htm",
+    "title": "Is Colombia Safe for Travelers? Debunking Myths and Providing Safety Tips | MapQuest Travel",
+    "description": "Planning a trip to Colombia? Learn about safety, local tips, and insights to ensure a secure and enj",
+    "text": "Advertisement\nColombia, a country once notorious for drug wars and kidnappings, has undergone a sign"
+  },
+  {
+    "id": "5f2001d0838c743331849fe094cd21a6c99c3c38",
+    "url": "https://www.mapquest.com/travel/thailand-beaches.htm",
+    "title": "Best Beaches in Thailand: A Tropical Paradise Awaits | MapQuest Travel",
+    "description": "Explore Thailand's stunning beaches. Discover top destinations, crystal-clear waters, and idyllic tr",
+    "text": "Advertisement\nThailand, known for its vibrant culture, stunning landscapes, and warm hospitality, is"
+  },
+  {
+    "id": "dbbbfbab8331a7f3bca75c80e34a2d7846a5b0b2",
+    "url": "https://www.mapquest.com/travel/komodo-island.htm",
+    "title": "Exploring Komodo Island: The Hidden Gem of Indonesia | MapQuest Travel",
+    "description": "Explore Komodo Island's incredible biodiversity, famous Komodo dragons, and world-class diving spots",
+    "text": "Advertisement\nWelcome to the breathtaking world of Komodo Island, a hidden gem nestled in the Indone"
+  },
+  {
+    "id": "04c31012cc376e01ded35f8df3dbe3e3bd0fdd9e",
+    "url": "https://www.mapquest.com/travel/kusadasi.htm",
+    "title": "Explore the Enchanting Beauty of KuÅŸadasÄ±: A Destination Like No Other | MapQuest Travel",
+    "description": "Explore Kusadasi's sun-kissed beaches, rich history, and vibrant culture on the beautiful Turkish Ri",
+    "text": "Advertisement\nKuşadası, situated on the stunning Aegean Sea coast of Aydın, Turkey, is a captivating"
+  },
+  {
+    "id": "a647a3a489cdd250f25c96e883b8e4b3d6b42c51",
+    "url": "https://www.mapquest.com/travel/iceland-food.htm",
+    "title": "Exploring the Flavors of Icelandic Cuisine: A Culinary Journey through Fire and Ice | MapQuest Trave",
+    "description": "Delve into Iceland's food scene. Discover traditional dishes, Nordic flavors, and culinary adventure",
+    "text": "Advertisement\nIceland, a land of breathtaking landscapes and remote beauty, has a cuisine that refle"
+  },
+  {
+    "id": "f8f37aa05c8fb2a76570cdd11c61dd2bc730f21a",
+    "url": "https://www.mapquest.com/travel/yacht-week.htm",
+    "title": "The Ultimate Guide to The Yacht Week in Croatia | MapQuest Travel",
+    "description": "Embark on an unforgettable Yacht Week. Explore exotic destinations, sail in style, and immerse in th",
+    "text": "Advertisement\nAre you a party animal in search of an unforgettable experience? Look no further than "
+  },
+  {
+    "id": "277f556fad243fb84ce9ee23a9c79a2d1b552dcc",
+    "url": "https://www.mapquest.com/travel/french-alps.htm",
+    "title": "Exploring the Majestic Beauty of the French Alps | MapQuest Travel",
+    "description": "Explore the breathtaking French Alps. Discover world-class skiing, pristine lakes, and charming moun",
+    "text": "Advertisement\nThe French Alps, with their awe-inspiring mountains, crystal-clear lakes, and pristine"
+  },
+  {
+    "id": "9d1f6a83af4f641898b7b35f3111a4110490ea47",
+    "url": "https://www.technologyreview.com/2019/02/05/137586/an-ai-is-playing-pictionary-to-figure-out-how-the-world-works/",
+    "title": "An AI is playing Pictionary to figure out how the world works | MIT Technology Review",
+    "description": "It might be a frivolous after-dinner game to you, but Pictionary could perhaps give AI programs a de",
+    "text": "It might be a frivolous after-dinner game to you, but Pictionary could perhaps give AI programs a de"
+  },
+  {
+    "id": "353d5e763670d577a1cac6b4def247eb11f47960",
+    "url": "https://www.technologyreview.com/2019/03/13/136633/drones-that-perch-like-birds-could-go-on-much-longer-flights/",
+    "title": "Drones that perch like birds could go on much longer flights | MIT Technology Review",
+    "description": "It’s a bird! It’s a drone! Well, um, actually it’s a drone that perches like a bird. Just as a bat m",
+    "text": "It’s a bird! It’s a drone! Well, um, actually it’s a drone that perches like a bird.\nJust as a bat m"
+  },
+  {
+    "id": "e4bb1ee17d163f9010217c278a5307e0928c56b0",
+    "url": "https://www.technologyreview.com/2019/01/30/137650/this-robot-can-probably-beat-you-at-jengathanks-to-its-understanding-of-the-world/",
+    "title": "This robot can probably beat you at Jenga—thanks to its understanding of the world | MIT Technology ",
+    "description": "Despite dazzling advances in AI, robots are still horribly ham-fisted. Increasingly, researchers and",
+    "text": "Despite dazzling advances in AI, robots are still horribly ham-fisted.\nIncreasingly, researchers and"
+  },
+  {
+    "id": "63d6f036593fce896099fdda9f3658d7eab003ea",
+    "url": "https://www.technologyreview.com/2019/01/09/137899/smart-cities-coule-be-lousy-if-you-have-a-disability/",
+    "title": "Smart cities could be lousy to live in if you have a disability | MIT Technology Review",
+    "description": "Victor Pineda travels the world to make speeches and advise governments on urban planning and develo",
+    "text": "Victor Pineda travels the world to make speeches and advise governments on urban planning and develo"
+  },
+  {
+    "id": "e97c1d05a059814273eb41cb9daab5773f54c076",
+    "url": "https://www.technologyreview.com/2019/01/31/137623/watch-this-super-speedy-3d-printer-make-objects-suddenly-appear/",
+    "title": "Watch this super-speedy 3D printer make objects suddenly appear | MIT Technology Review",
+    "description": "3D printing has always had a problem with speed. Techniques that involve continuously printing layer",
+    "text": "3D printing has always had a problem with speed. Techniques that involve continuously printing layer"
+  },
+  {
+    "id": "c0f0724ed7b7e03058896f2df91d22e55419124d",
+    "url": "https://www.technologyreview.com/2018/10/31/139263/the-internet-is-taking-over-a-persons-life-for-halloween-and-you-can-be-a-part-of-it/",
+    "title": "The internet is taking over a person’s life for Halloween. And you can be a part of it. | MIT Techno",
+    "description": "Tonight, you can take control of someone else. Well, you and a few hundred people can. The MIT Media",
+    "text": "Tonight, you can take control of someone else. Well, you and a few hundred people can. The MIT Media"
+  },
+  {
+    "id": "1e992f14cc62fa44facb747ff64f5c7679ef7511",
+    "url": "https://www.technologyreview.com/2018/10/18/139708/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/",
+    "title": "A cyber-skills shortage means students are being recruited to fight off hackers | MIT Technology Rev",
+    "description": "There aren’t enough cybersecurity workers out there—and things are getting worse. According to one e",
+    "text": "There aren’t enough cybersecurity workers out there—and things are getting worse. According to one e"
+  },
+  {
+    "id": "759d65c2661627e1138d2f060db5c960e15d9468",
+    "url": "https://www.parallels.com/",
+    "title": "Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions",
+    "description": "Download Parallels to run Windows on Mac, Chrome, gain access to virtual desktop infrastructure (VDI",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "490c3513934053eb9a468936ace5d356d1e0ee6f",
+    "url": "https://www.parallels.com/apps/articulate-360/",
+    "title": "Run Windows ArcGIS on Mac with Parallels Desktop",
+    "description": "Get the full functionality & all the features of the Windows version of Articulate 360. Run Articula",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "12963f0450652d329607a552a916d69469ba714e",
+    "url": "https://www.parallels.com/apps/ninjatrader/",
+    "title": "Run NinjaTrader on Mac with Parallels Desktop",
+    "description": "Are you trying to run NinjaTrader on Mac? Get the full functionality of the Windows version of Ninja",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "b901c01a9cd0213b68881dea7a221a4366b93c58",
+    "url": "https://www.parallels.com/apps/",
+    "title": "Make your Mac run more apps with Parallels Desktop",
+    "description": "Run all the Windows, macOS, & Linux software you need on the Mac hardware you love with Parallels De",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "2cafb5d995421196fbb7c5bee58927bc186867ea",
+    "url": "https://www.parallels.com/apps/github/",
+    "title": "GitHub integration | Parallels Desktop",
+    "description": "See how GitHub integrates with your workflow to improve and streamline cross platform development an",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "183865e083ae3b31ad0a5fd9934a05d47957b67f",
+    "url": "https://www.parallels.com/apps/microsoft-sql/",
+    "title": "Run Microsoft SQL Server on your Mac with a virtual desktop | Parallels",
+    "description": "Get the full functionality & all the features of Microsoft SQL Server on Mac with Parallels Desktop ",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "c1b42d2a9372f59eb5f989377733a215e0056a59",
+    "url": "https://www.parallels.com/apps/excel/",
+    "title": "Run Microsoft Excel on Mac with a virtual machine | Parallels Desktop",
+    "description": "Are you trying to run Excel on Mac? Get the full functionality of the Windows version of Microsoft E",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "fbd4ccd05dcf5c6cc57eea1e78ae8606b5d3b326",
+    "url": "https://www.parallels.com/apps/quickbooks/",
+    "title": "Run QuickBooks on Mac with a virtual desktop | Parallels Desktop",
+    "description": "Are you trying to run QuickBooks on Mac? Get the full functionality of the Windows version of QuickB",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "8d6b7eb3dc367487b0f51a9e740cd8b4f8cc4007",
+    "url": "https://www.parallels.com/apps/microsoft-office/",
+    "title": "Run Microsoft Office 365 on Mac with a virtual desktop | Parallels Desktop",
+    "description": "Are you trying to run Microsoft Office 365 on Mac? Get the full functionality of the Windows version",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "30a85159dea49eeb7b9220370d6ebfe2e3b1628b",
+    "url": "https://www.parallels.com/apps/arcgis/",
+    "title": "Run Windows ArcGIS on Mac with Parallels Desktop",
+    "description": "Get the full functionality & all the features of the Windows version of ArcGIS. Run ArcGIS on Mac wi",
+    "text": "Download Parallels Desktop\nExplore all of our industry, cloud, application, and infrastructure solut"
+  },
+  {
+    "id": "6aee4c13572c8514a0e73cfba3ec4c3bbc38c46e",
+    "url": "https://www.podbean.com/business-podcasts",
+    "title": "Business Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "292456df52093c620d95b22512b673b1ee79f7c6",
+    "url": "https://www.podbean.com/games-and-hobbies-podcasts",
+    "title": "Games & Hobbies Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "25c2d2ab0f585c5a2312047538537601226f443a",
+    "url": "https://www.podbean.com/government-and-organizations-podcasts",
+    "title": "Government & Organizations Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "4f1ed0966cebf0a95751c97da986a30af7c77fd2",
+    "url": "https://www.podbean.com/comedy-podcasts",
+    "title": "Comedy Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "a7d545bbef37349f64b0df341fa764e8c042df82",
+    "url": "https://www.podbean.com/education-podcasts",
+    "title": "Education Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "324cfd10d62b580922ba0d6514d5b8a5fd2dd4c6",
+    "url": "https://www.podbean.com/health-podcasts",
+    "title": "Health Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "8dd828217174604272065e811e1fe84ec2757525",
+    "url": "https://www.podbean.com/kids-and-family-podcasts",
+    "title": "Kids & Family Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "84b432e30b34d4c2468e738ea4585d7076bc1bef",
+    "url": "https://www.podbean.com/music-podcasts",
+    "title": "Music Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "364cfef45594c9c5eb568f8f329b36fb828c706b",
+    "url": "https://www.podbean.com/news-and-politics-podcasts",
+    "title": "News & Politics Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "1a46241606a22773bab6962536dca43bff80910b",
+    "url": "https://www.podbean.com/religion-and-spirituality-podcasts",
+    "title": "Religion & Spirituality Podcasts | Podbean",
+    "description": "",
+    "text": "Start your podcast with all the features you need.\nAI-Enhanced Audio Quality and Content Generation."
+  },
+  {
+    "id": "e649d1fb84c87867eb1b1b6440dbebfca77f5eb4",
+    "url": "https://blog.google/authors/pandu-nayak/",
+    "title": "Pandu Nayak",
+    "description": "",
+    "text": "Vice President of Search\nPandu Nayak is a Vice President in Search, where he focuses on various aspe"
+  },
+  {
+    "id": "0934836b9477bf8444e19d390e5a180d03cc7f8b",
+    "url": "https://blog.google/authors/prabhakar-raghavan/",
+    "title": "Prabhakar Raghavan",
+    "description": "",
+    "text": "Chief Technologist\nPrabhakar Raghavan is Google’s Chief Technologist. In this role, Prabhakar partne"
+  },
+  {
+    "id": "8d02cbc2ba1a1b34729369f78c391202bdeaf71e",
+    "url": "https://blog.google/authors/alexander-kuscher/",
+    "title": "Alexander Kuscher",
+    "description": "",
+    "text": "Director of ChromeOS Software\nAlexander Kuscher is a Senior Director at Google. He currently manages"
+  },
+  {
+    "id": "bf8487ef90986952a2549adac6a8d417384ab5f3",
+    "url": "https://blog.google/authors/halimah-delaine-prado/",
+    "title": "Halimah DeLaine Prado",
+    "description": "",
+    "text": "General Counsel\nHalimah DeLaine Prado is General Counsel at Google, leading the company’s world-clas"
+  },
+  {
+    "id": "1454dcad1897e87621e13afc053366dfeda155e7",
+    "url": "https://blog.google/authors/juan-rajlin/",
+    "title": "Juan Rajlin",
+    "description": "",
+    "text": "Vice President & Treasurer of Alphabet and Google\nJuan is VP & Treasurer of Alphabet and Google. He "
+  },
+  {
+    "id": "f8f695032a9a3a18939822cebec8554bd0132959",
+    "url": "https://blog.google/authors/laurie-richardson/",
+    "title": "Laurie Richardson",
+    "description": "",
+    "text": "Vice President, Trust & Safety\nLaurie Richardson is VP for Trust & Safety at Google. In this role, s"
+  },
+  {
+    "id": "6327d065a6033b09a1ae6a5cbe5025be051d025d",
+    "url": "https://blog.google/authors/jessie-linn-obana/",
+    "title": "Jessie Linn Obana",
+    "description": "",
+    "text": "Keyword Contributor\nJessie is a program manager and content strategist on Google's Employment Brand "
+  },
+  {
+    "id": "513ee2cda0ac33c3452ecd76bb705fdaa71b929d",
+    "url": "https://blog.google/authors/jason-rowland/",
+    "title": "Jason Rowland",
+    "description": "",
+    "text": "Keyword Contributor\nJason is a social media strategist on Google's Employment Brand team, overseeing"
+  },
+  {
+    "id": "e5ba6d5d7b584f5e260a7a33e0d1f674a4080158",
+    "url": "https://blog.google/authors/phil-venables/",
+    "title": "Phil Venables",
+    "description": "",
+    "text": "Vice President, Chief Information Security Officer (CISO), Google Cloud\nPhil Venables is the Chief I"
+  },
+  {
+    "id": "6be00e141da78fe079b90717bc8b807399c82bbf",
+    "url": "https://blog.google/authors/rick-osterloh/",
+    "title": "Rick Osterloh",
+    "description": "",
+    "text": "Senior Vice President, Platforms & Devices\nRick Osterloh leads a group of products and services that"
   }
 ]
