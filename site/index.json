@@ -241799,5 +241799,838 @@
     "title": "La IA en Android: funciones, aplicaciones y tu asistente de IA | Android",
     "description": "Descubre las últimas funciones de IA en Android, como Gemini, tu asistente de IA personal, o Rodea p",
     "text": "Ya sea que necesites consejos de decoración para organizar un evento o ayuda para seguir una receta,"
+  },
+  {
+    "id": "5482bf907daeed6819c85ed1eb1eee08e3b307c6",
+    "url": "https://meraki.cisco.com/es-co/products/smart-cameras/videos/",
+    "title": "Cámaras inteligentes | Sistema de seguridad basado en la nube | Cisco Meraki",
+    "description": "Descubra por qué los sistemas de cámaras de seguridad de MV de Cisco Meraki son las cámaras intelige",
+    "text": "Desde fuerzas de trabajo híbridas hasta espacios de trabajo más inteligentes, combine la tecnología "
+  },
+  {
+    "id": "c62be853948d94891e07adef122682247e369959",
+    "url": "https://meraki.cisco.com/fr-fr/products/sensors/features/",
+    "title": "Capteurs d’environnement IT | Capteurs IoT | Cisco Meraki",
+    "description": "Découvrez comment les capteurs MT Cisco Meraki offrent une visibilité en temps réel sur les conditio",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "206ef1a843e4a943314f8b9eae5986a1a48f94e5",
+    "url": "https://meraki.cisco.com/fr-fr/webinars/",
+    "title": "Webinars Cisco Meraki",
+    "description": "Inscrivez-vous à un prochain webinaire Cisco organisé par Meraki ou regardez des webinars à la deman",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "c35c864d64147b4da1c63fc70c5cf54a9df2c682",
+    "url": "https://meraki.cisco.com/es-co/products/meraki-insight/",
+    "title": "IT Products & Technology | Cisco Meraki",
+    "description": "Learn more about Cisco Meraki's IT product offerings such as our Wireless LAN, Security / SD-WAN, Sw",
+    "text": "Desde fuerzas de trabajo híbridas hasta espacios de trabajo más inteligentes, combine la tecnología "
+  },
+  {
+    "id": "60ec3d784df4308edd6cdd3cf45a67b114837485",
+    "url": "https://meraki.cisco.com/fr-fr/products/switches/features/",
+    "title": "Commutation Meraki | Commutateur réseau | Accessoires de commutation",
+    "description": "Les commutateurs Meraki allient la simplicité du tableau de bord géré dans le cloud à la puissance d",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "770f68bb209377ecd0847c5abaa9322831cfe9dc",
+    "url": "https://meraki.cisco.com/fr-fr/products/meraki-insight/",
+    "title": "Produits Meraki | LAN sans fil | Commutateurs | SD Wan",
+    "description": "En savoir plus sur les produits Cisco Meraki tels que le LAN sans fil, la sécurité/SD-WAN, les commu",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "5c9dc74d75f558068a84a45d08de4d88ebc87e83",
+    "url": "https://meraki.cisco.com/fr-fr/products/smart-cameras/videos/",
+    "title": "Caméras intelligentes Cisco Meraki | Caméras de surveillance à enregistrement HD",
+    "description": "Découvrez pourquoi le système de caméra de surveillance Cisco Meraki MV est la solution de caméra in",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "cd7360ef1ab1745d9b8ea96adc943f44faf5a42b",
+    "url": "https://meraki.cisco.com/fr-ca/products/meraki-insight/",
+    "title": "Produits Meraki | LAN sans fil | Commutateurs | SD Wan",
+    "description": "En savoir plus sur les produits Cisco Meraki tels que le LAN sans fil, la sécurité/SD-WAN, les commu",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "95190fb4e00f2a7f709e510931748e4146be1191",
+    "url": "https://meraki.cisco.com/fr-ca/products/switches/features/",
+    "title": "Commutateur réseau géré dans le nuage | Commutation | Cisco Meraki",
+    "description": "Les commutateurs réseau Cisco Meraki associent la simplicité du tableau de bord géré dans le nuage à",
+    "text": "Des effectifs hybrides aux espaces de travail plus intelligents, associez technologie et points de c"
+  },
+  {
+    "id": "aa782e60558a672c30a70f0936d8bb2e640f8a5e",
+    "url": "https://meraki.cisco.com/pt-br/products/switches/features2/",
+    "title": "Recursos de switch da Meraki | Produtos de switch da Cisco Meraki",
+    "description": "Os switches da Meraki combinam a simplicidade do painel gerenciado em nuvem com a potência do hardwa",
+    "text": "De forças de trabalho híbridas a espaços de trabalho mais inteligentes, reúna tecnologia e pontos de"
+  },
+  {
+    "id": "588c1c19a369d65023951554458874a3f1fb7daf",
+    "url": "https://www.taboola.com/es/resources/best-practices",
+    "title": "Mejores prácticas | Taboola.com",
+    "description": "Sabemos exáctamente qué necesitan los profesionales del marketing, agencias y publishers para maximi",
+    "text": "Atrae Y Lleva A Más Usuarios A La Conversión\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "b59ee06ad46c4470bb233af707600dbb581554cf",
+    "url": "https://www.taboola.com/ja/resources/best-practices",
+    "title": "ベストプラクティス | Taboola.com",
+    "description": "タブーラのデータに基づいたベストプラクティス—私たちはマーケターや代理店、または、パブリッシャー様がネイティブ広告で成功するためにするべきこと知っています。",
+    "text": "今日からさらに多くのユーザーをエンゲージ、コンバート\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "42e565ae655d8a8d2c897a51a8b2ba720cb5a985",
+    "url": "https://www.taboola.com/pt/resources/best-practices",
+    "title": "Melhores Práticas | Taboola.com",
+    "description": "As melhores práticas baseadas em dados da Taboola - sabemos exatamente o que os anunciantes, as agên",
+    "text": "Atraia E Converta Mais Usuários\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "6b212dd1d6c7c7a663d3c4c1c17a11c92c97e814",
+    "url": "https://www.taboola.com/zh-hans/resources/best-practices",
+    "title": "最佳做法 | Taboola.com",
+    "description": "",
+    "text": "立即吸引并转化更多用户\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "45c3cf1265c0fb821b706221947884950fad3837",
+    "url": "https://www.taboola.com/ko/resources/best-practices",
+    "title": "성공 사례 | Taboola.com",
+    "description": "Taboola의 데이터 중심의 성공 사례들--마케터, 에이전시, 그리고 출판사가 원하는 네이티브 광고의 성공을 최대화하기 위한 방법을 잘 알고 있습니다",
+    "text": "오늘 더 많은 사용자들을 끌어들이고 전환시키세요\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "5506855ecb716b6dff0150911e62ee7c60931e90",
+    "url": "https://www.taboola.com/zh-hant/resources/best-practices",
+    "title": "最佳做法 | Taboola.com",
+    "description": "",
+    "text": "立即吸引並轉化更多使用者\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "8c5789daad95e59ef2a942bb3be836bd3a3144f7",
+    "url": "https://www.taboola.com/fr/resources/webinars",
+    "title": "Nos webinars enregistrés | Taboola.com",
+    "description": "Webinaires de publicité native et de marketing de contenu - retrouvez au même endroit tout le conten",
+    "text": "En Savoir Plus Sur Les Sujets D'actualité Grâce À Nous Et Nos Partenaires\nStart Promoting Your Busin"
+  },
+  {
+    "id": "2589e6bdd066208ebe22279ab56fefbf96508c66",
+    "url": "https://www.taboola.com/de/resources/webinars",
+    "title": "Webinare | Taboola.com",
+    "description": "Native Advertising und Content Marketing Webinare: unsere Webineare bieten Ihnen lehrreichen und exk",
+    "text": "Erfahre mehr über die wichtigsten Themen von uns und unseren Partnern\nStart Promoting Your Business "
+  },
+  {
+    "id": "7aaf8533fb04a77ec54c876771b72c06f8d612d1",
+    "url": "https://www.taboola.com/es/resources/webinars",
+    "title": "Webinars grabados | Taboola.com",
+    "description": "Publicidad nativa y webinars sobre el marketing de contenido - todo el contenido educacional y webin",
+    "text": "Aprende Sobre Los Temas De Actualidad Con Nosotros Y Nuestros Partners\nStart Promoting Your Business"
+  },
+  {
+    "id": "2d11bebf115ac487df767d2618370a6a38f00b1f",
+    "url": "https://www.taboola.com/pt/resources/webinars",
+    "title": "Webinários gravados | Taboola.com",
+    "description": "Webinários de publicidade nativa e marketing de conteúdo - todo o conteúdo de webinar educacional e ",
+    "text": "Aprenda Mais Sobre Os Temas Atuais Conosco E Nossos Parceiros\nStart Promoting Your Business Today"
+  },
+  {
+    "id": "53f709bbb1195c9695bd223e23e37c13946ec6df",
+    "url": "https://www.theguardian.com/sport/live/2025/sep/27/england-v-canada-womens-rugby-world-cup-final-live",
+    "title": "England v Canada: Women’s Rugby World Cup final – live | Women's Rugby World Cup 2025 | The Guardian",
+    "description": "<strong>Minute-by-minute report:</strong> The Red Roses play Canada for the ultimate prize in front ",
+    "text": "Rugby World Cup final updates from 4pm BST\nTwickenham stage set for England’s fairytale finish\nSign "
+  },
+  {
+    "id": "7a95f407eb77fbd71488a8dce662aef639fb0188",
+    "url": "https://www.theguardian.com/football/live/2025/sep/27/brentford-v-manchester-united-premier-league-live",
+    "title": "Brentford v Manchester United: Premier League – live | Premier League | The Guardian",
+    "description": "<strong>Minute-by-minute report:</strong> Can Ruben Amorim’s side make it two on the bounce with a w",
+    "text": "⚽ Premier League updates from 12.30pm BST\n⚽ Ten things to look out for this weekend | Email Barry\n48"
+  },
+  {
+    "id": "921541833aef38781835c74fe54159401c79f246",
+    "url": "https://www.theguardian.com/sport/live/2025/sep/27/ryder-cup-2025-day-two-live",
+    "title": "Ryder Cup 2025: day two – live | Ryder Cup 2025 | The Guardian",
+    "description": "<strong>Live updates: </strong>Hole-by-hole coverage of day two at Bethpage Back as Europe seek to d",
+    "text": "⛳ Ryder Cup updates from Bethpage Black\n⛳ Ewan Murray’s day-one report | Hole-by-hole guide\n⛳ Offici"
+  },
+  {
+    "id": "ed8fa0586e7d27e29dc3b1a8d88cd8defaad55e8",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
+    "title": "Labour conference chance to show alternative to ‘toxic divide and decline’ offered by Reform, says S",
+    "description": "Labour party conference ‘really big opportunity to make our case to the country’, says PM",
+    "text": "Labour party conference ‘really big opportunity to make our case to the country’, says PM\nKeir Starm"
+  },
+  {
+    "id": "5b226c5181084deb23f5bfb481d7e07b26bc1f2b",
+    "url": "https://www.theguardian.com/sport/live/2025/sep/27/hampshire-v-surrey-yorkshire-v-durham-and-more-county-cricket-final-day-live",
+    "title": "Hampshire in relegation peril after Surrey defeat, Yorkshire v Durham: county cricket final day – li",
+    "description": "Join James Wallace for updates from the final day of the season’s final round",
+    "text": "🏏 Updates from the final day of the season’s final round\n 🏏 Read the new edition of The Spin | Mai"
+  },
+  {
+    "id": "828d98cd64dcf11ec21a1d64c09bd20e5bbe9fcd",
+    "url": "https://www.theguardian.com/sport/2025/sep/27/hats-high-fives-and-mauls-womens-rugby-world-cup-2025-a-picture-essay",
+    "title": "Hats, high fives and mauls: Women’s Rugby World Cup 2025 – a picture essay | Women's Rugby World Cup",
+    "description": "Our award-winning photographer has travelled to Sunderland, Exeter and beyond covering the tournamen",
+    "text": "Our award-winning photographer has travelled to Sunderland, Exeter and beyond covering the tournamen"
+  },
+  {
+    "id": "96e080151597c4ed969595a170dc3f38fec8ef6b",
+    "url": "https://www.theguardian.com/football/live/2025/sep/27/crystal-palace-v-liverpool-atletico-v-real-madrid-and-more-clockwatch-live",
+    "title": "Crystal Palace v Liverpool, Atlético v Real Madrid and more: clockwatch – live | Soccer | The Guardi",
+    "description": "<strong>Clockwatch:</strong> Join our writers for live updates from the afternoon games in the Premi",
+    "text": "⚽️ Updates from the 3pm BST kick-offs around the grounds\n ⚽️ Live scoreboard | And mail Billy with y"
+  },
+  {
+    "id": "97fe30feee7527c9d304414e1558c16277e6b163",
+    "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+    "title": "Tell us: what have you been reading this month? | Books | The Guardian",
+    "description": "We would like to hear about the books you’ve particularly enjoyed this month",
+    "text": "We would like to hear about the books you’ve particularly enjoyed this month\nAs part of The Guardian"
+  },
+  {
+    "id": "202fb820e253a3b89113b2a6fc7c1e8deb405b1f",
+    "url": "https://www.theguardian.com/world/2025/sep/27/mohammed-ibrahim-case-state-department",
+    "title": "State department appoints official to handle case of American-Palestinian teen detained by Israel | ",
+    "description": "Moves marks escalation in diplomatic efforts in case of Mohammed Ibrahim, 16, who is being held in a",
+    "text": "Moves marks escalation in diplomatic efforts in case of Mohammed Ibrahim, 16, who is being held in a"
+  },
+  {
+    "id": "fe443c94d065ae3738439e44ebd9899cb0f7bff2",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
+    "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap | Trade unions | The Guard",
+    "description": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to aband",
+    "text": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to aband"
+  },
+  {
+    "id": "ebc98dc5fd915e8f26b96b091639eca37ec58d6b",
+    "url": "https://doubleverify.com/forum-iab-poland-2023/",
+    "title": "Forum IAB Poland 2023 - DoubleVerify",
+    "description": "Hear us speak about sustainability in advertising and driving advertising outcomes with attention at",
+    "text": "Given the speed of digital culture and the variety of content and advertising experiences consumers "
+  },
+  {
+    "id": "5a79cb30250b992bb82205bcda82a23f85be228a",
+    "url": "https://doubleverify.com/dvs-contextual-solution-drastically-lowered-cpms-and-cpcs-for-an-alcohol-brand-jp/",
+    "title": "DVコンテキスト・ソリューションによりアルコールブランドのCPMとCPCが 飛躍的に低下 - DoubleVerify",
+    "description": "Download this case study to learn how DV's Contextual solution helped an alcohol brand effectively r",
+    "text": "DoubleVerify (DV) は、プライバシーを安全に保ちながら、市場内の視聴者にリーチし、メディアのコスト効 率を高める効果的な方法を提案するため、某アルコールブランドにアプローチしました。 "
+  },
+  {
+    "id": "b4a93ac33759b6d5def1c15079cfb4c76df1bba7",
+    "url": "https://doubleverify.com/doubleverify-at-d3con-2023/",
+    "title": "DoubleVerify at d3con 2023 - DoubleVerify",
+    "description": "In this session, we will discuss common myths concerning the measurement of attention and show its r",
+    "text": "Attention has always been at the heart of advertising. But given the speed of digital culture and th"
+  },
+  {
+    "id": "bad592da137e4ae0eade32756c78bf1b00572e17",
+    "url": "https://doubleverify.com/dv-live-at-cannes-2023/",
+    "title": "DV Live at Cannes 2023 - DoubleVerify",
+    "description": "DV Live is a brand new video series where we interview industry leaders and pick their brains on the",
+    "text": "DV Live is a brand new video series where we interview industry leaders and pick their brains on the"
+  },
+  {
+    "id": "acb0e3cc8d72077f9fac92cbf7d22e92a899c633",
+    "url": "https://doubleverify.com/emea-global-insights-report-webinar-2023/",
+    "title": "EMEA 2023 Global Insights Report Webinar - DoubleVerify",
+    "description": "The EMEA webinar explores the role of measurement over time and uncovers how this makes verification",
+    "text": "DV’s 2023 Global Insights Report (GIR) provides advertisers with an in-depth market-by-market analys"
+  },
+  {
+    "id": "f017851c3717268f00e6440fa27e17c50f4ff702",
+    "url": "https://doubleverify.com/ask-the-experts-building-strategic-foundations-of-media-quality/",
+    "title": "Ask The Experts: Building Strategic Foundations of Media Quality - DoubleVerify",
+    "description": "Learn how DoubleVerify's Anna Rufo fosters partnerships across the DACH markets and why media qualit",
+    "text": "DV values lasting client relationships because they build on our mission to make the internet strong"
+  },
+  {
+    "id": "a062e47eaeda32040db92947ab8aef23ed322eee",
+    "url": "https://doubleverify.com/how-dv-marketplace-suite-helps-platforms-drive-inventory-quality-and-efficiency-in-programmatic-advertising/",
+    "title": "How DV Marketplace Suite Helps Platforms Drive Inventory Quality and Efficiency in Programmatic Adve",
+    "description": "DV Marketplace Suite is available now to help SSPs, DSPs and other platforms prove inventory quality",
+    "text": "Ad tech is constantly evolving, with today’s exchanges and digital media suppliers sitting at the ce"
+  },
+  {
+    "id": "0fb5d65b80fa6708b5472d66f70834825b66798c",
+    "url": "https://doubleverify.com/apac-global-insights-report-webinar-2023/",
+    "title": "APAC 2023 Global Insights Report Webinar - DoubleVerify",
+    "description": "This webinar highlights findings from the 2023 GIR and features DV’s Collette Spagnolo, VP, Marketin",
+    "text": "WATCH A RECAP NOW\n03:20 – Overview of Global Insight Report by Collette Spagnolo, VP, Marketing Anal"
+  },
+  {
+    "id": "e8873daae16d6c11ac31257adc6f69c6b1b389f4",
+    "url": "https://doubleverify.com/dvs-contextual-solution-drastically-lowered-cpms-and-cpcs-for-an-alcohol-brand/",
+    "title": "DV’s Contextual Solution Drastically Lowered CPMs and CPCs for an Alcohol Brand - DoubleVerify",
+    "description": "Download this case study to learn how DV's Contextual solution helped an alcohol brand effectively r",
+    "text": "An alcohol brand approached DoubleVerify (DV) to test a privacy-safe way to effectively reach in-mar"
+  },
+  {
+    "id": "ad647f5b8b9c4ad4aae565b2096fb7e43260cc5c",
+    "url": "https://doubleverify.com/dv-omd-improved-zains-ksa-campaign-authentic-rate-by-33/",
+    "title": "DV & OMD Improved Zain’s KSA Campaign Authentic Rate by 33% - DoubleVerify",
+    "description": "Download this case study to learn how DV helped a telecommunications provider improve the quality of",
+    "text": "Zain, a multinational mobile telecommunication provider, and its agency, OMD, partnered with DoubleV"
+  },
+  {
+    "id": "f6baf2b225836261b931cb11dbbdd7fdf4cef65a",
+    "url": "https://vungle.com/blog/vungle-scores-again-for-us-ad-ltv-in-latest-soomla-report/",
+    "title": "Vungle Scores Again for US Ad LTV in Latest SOOMLA Report - Vungle",
+    "description": "Mobile measurement leader SOOMLA featured us in their latest LTV Benchmarks Report, which ranked ad ",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "684719fd86f0faa450be04a8a452c971b0ca7a30",
+    "url": "https://vungle.com/event/chat-about-mobile-strategy-at-vungles-sdk-lounge-during-white-nights-conference/",
+    "title": "Chat About Mobile Strategy at Vungle's SDK Lounge During White Nights Conference - Vungle",
+    "description": "Are you in Moscow for White Nights? Our SDK Lounge is the perfect place to learn more about mobile e",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "2da0d21108259f5abcf211c2425339ed2b1e7540",
+    "url": "https://vungle.com/blog/valuable-app-monetization-tips-from-pg-connects-helsinki/",
+    "title": "Valuable App Monetization Tips from PG Connects Helsinki - Vungle",
+    "description": "Our Vungle team recently joined other mobile gaming ad tech experts and exchanged insights at PG Con",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "8b75dd71b3dcfdd04c03b134a349166d7c5f2bba",
+    "url": "https://vungle.com/blog/new-vungle-sdk-gets-more-impressions-higher-ecpms/",
+    "title": "SDK 6.4 Available for iOS, Android & Windows — iOS 13 supported! - Vungle",
+    "description": "Vungle's latest SDK supports iOS 13 to give mobile publishers the best-possible user experience that",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "c35f334bc0be6828fd05b5b7fbe6b08d183a2342",
+    "url": "https://vungle.com/event/learn-new-strategies-from-our-monetization-experts-at-pg-connects-helsinki/",
+    "title": "Learn New Strategies from Our Monetization Experts at PG Connects Helsinki - Vungle",
+    "description": "We invite you to attend our upcoming sessions on successfully monetizing your apps at PG Connects in",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "6f2aaac98c27667830c948d616261b7307bee977",
+    "url": "https://vungle.com/news/blackstone-closes-acquisition-of-vungle-a-leading-mobile-performance-marketing-platform/",
+    "title": "Blackstone Closes Acquisition of Vungle, a Leading Mobile Performance Marketing Platform - Vungle",
+    "description": "Blackstone announced today that it has completed its previously announced acquisition of Vungle, a l",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "c13bab15f4338f45d63cfe93213c286b15d3235c",
+    "url": "https://vungle.com/blog/5-tips-for-diversifying-ad-spend-outside-the-us/",
+    "title": "5 Tips for Diversifying Ad Spend Outside the US - Vungle",
+    "description": "Don't waste your advertising budget on one geo! Here are steps you can take right now to start growi",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "dac024a3be7d80da7eeb5c9708dc11c2e9417f83",
+    "url": "https://vungle.com/blog/the-vungalow-meet-alice-senior-marketing-manager/",
+    "title": "The Vungalow: Meet Alice, Senior Marketing Manager - Vungle",
+    "description": "Armed with her publisher sales experience & a cup of coffee, Alice is making an impact on Vungle. To",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "082752a00a880c4ecc8bf90fcce2813a3b8c311b",
+    "url": "https://vungle.com/blog/vungle-top-5-media-partner-boosts-its-market-share-by-36/",
+    "title": "Vungle, Top 5 Media Partner, Boosts Its Market Share by 36% - Vungle",
+    "description": "AppsFlyer’s Performance Index has discovered that since the first half of 2019, Vungle increased its",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "f620da965adde5966da47c06fad95d65005f4483",
+    "url": "https://vungle.com/event/g-star/",
+    "title": "Build Your 2020 Mobile Strategy with Vungle at G-STAR - Vungle",
+    "description": "Vungle is coming to G-STAR 2019, Korea’s biggest games expo, to help you build a stronger mobile str",
+    "text": "As part of the merge with Liftoff, all Vungleproducts, services and accounts are available at liftof"
+  },
+  {
+    "id": "1e4e678bd9814b112b825bce006367fe5423a11b",
+    "url": "https://pubmatic.com/leadingthroughchange-mobile/",
+    "title": "Leading Through Change with Mobile In-App Header Bidding",
+    "description": "Learn how app developers can scale demand, improve user experience, and increase revenue through a m",
+    "text": "As consumers become more mobile, you need to be right there with them. In a challenging environment,"
+  },
+  {
+    "id": "d461741086761befe1d889e588f34713a95655d2",
+    "url": "https://pubmatic.com/state-of-in-app-advertising-apac/",
+    "title": "The State of In-App Programmatic Mobile Advertising in APAC | PubMatic",
+    "description": "Better understand the state of in-app programmatic mobile advertising in APAC as advertisers are rea",
+    "text": "Study of Advertising Decision Makers in APAC Finds Buyers Are Embracing Programmatic In-App.\nMany co"
+  },
+  {
+    "id": "b57b62458b8981e91bbdb9dd4d809c1208dfd7c8",
+    "url": "https://pubmatic.com/publisher-spotlight/",
+    "title": "Publisher Spotlight | PubMatic",
+    "description": "Don't let ROI disappear along with the 3rd-party cookie. Discover strategies and solutions to safegu",
+    "text": "In the age of streaming, you need access to audiences and the premium OTT content they engage with. "
+  },
+  {
+    "id": "cfdb32b7826bb3d31b8bc26598e9bc5386e72c69",
+    "url": "https://pubmatic.com/madtimes-kr/",
+    "title": "[인터뷰] \"퍼브매틱의 기술과 광고 솔루션으로 한국의 크리에이터, 개발자, 퍼블리셔를 지원하겠습니다\" 정성호 퍼브매틱 한국 시장 사업개발 담당 이사",
+    "description": "[ 매드타임스 최영호 기자] 코로나 19 팬더믹 이후 디지털 광고와 애드테크 산업은 격변의 시기를 맞으며 폭발적으로 성장하고 있다. 사람들의 이동이 줄어들고 재택근무가 보편화되면서",
+    "text": "[ 매드타임스 최영호 기자] 코로나 19 팬더믹 이후 디지털 광고와 애드테크 산업은 격변의 시기를 맞으며 폭발적으로 성장하고 있다. 사람들의 이동이 줄어들고 재택근무가 보편화되면서"
+  },
+  {
+    "id": "e9bd5ef38254231cf2b807ef762747a36783c1d2",
+    "url": "https://pubmatic.com/builtforyou-cn/",
+    "title": "Built for You - Mandarin | PubMatic",
+    "description": "PubMatic: The future of digital advertising, built for you. Get an edge with technology built for ho",
+    "text": "为您现在和未来的工作方式获得技术优势。\n无论您身处数据激活、移动游戏或在线流媒体行业，您的业务需求都是独特的。我们开发了一套专门的程序化架构来支持我们领先的全渠道卖方平台和定制方案，以助您成功。\n为了"
+  },
+  {
+    "id": "8d2dbcb5592f2b4992c60848a950a44e87236fdd",
+    "url": "https://pubmatic.com/builtforyou-kr/",
+    "title": "Built for You - Korean | PubMatic",
+    "description": "PubMatic: The future of digital advertising, built for you. Get an edge with technology built for ho",
+    "text": "현재와 미래의 업무 방식에 맞게 구축된 기술을 도입하여 귀사의 경쟁력을 확보하세요.\n데이터 활성화, 모바일 게임, 스트리밍 미디어 등 어떤 분야에 전문성을 갖고 있든지 상관없이 귀"
+  },
+  {
+    "id": "63c28c8df710734900a88d8bb0e7a44db87d6566",
+    "url": "https://pubmatic.com/openwrap-sdk-gasbuddy/",
+    "title": "OpenWrap SDK & GasBuddy | PubMatic",
+    "description": "Diversify your ad revenue with brand spend through a lightweight SDK that leverages PubMatic’s years",
+    "text": "Diversify your ad revenue with brand spend through a lightweight SDK that leverages PubMatic’s years"
+  },
+  {
+    "id": "d634f1fe830b812d0606a4ad310f8280a327ae21",
+    "url": "https://pubmatic.com/openwrap-sdk-gasbuddy-ps/",
+    "title": "OpenWrap SDK & GasBuddy - Paid Search | PubMatic",
+    "description": "Diversify your ad revenue with brand spend through a lightweight SDK that leverages PubMatic’s years",
+    "text": "Diversify your ad revenue with brand spend through a lightweight SDK that leverages PubMatic’s years"
+  },
+  {
+    "id": "365332bfb6cf1dddbd5a5e2c202faf89623b20a3",
+    "url": "https://pubmatic.com/9gag-openwrap-sdk-case-study-kr/",
+    "title": "인기 있는 어떤 소셜 미디어 플랫폼에서 PUBMATIC 의 OPENWRAP SDK 를 사용하여 자신들의인앱 수익을 향상시킨 방법 | PubMatic",
+    "description": "",
+    "text": "홍콩에 기반을 두고 전 세계적으로 2억 명 이상의 사용자와 팔로워를 보유한 9GAG는 인기 있는 밈, 속보, GIF 및 바이럴 비디오 서비스를 제공하고 있는 소셜 미디어 플랫폼입니"
+  },
+  {
+    "id": "0213c8de973c0de1124982f58cbb956d4d994e48",
+    "url": "https://pubmatic.com/9gag-openwrap-sdk-case-study-cn/",
+    "title": "热门社交媒体平台9GAG利用PUBMATIC的OPENWRAP SDK提高应用内变现能力 | PubMatic",
+    "description": "Discover how 9GAG is improving in-app monetization by integrating PubMatic's OpenWrap SDK into their",
+    "text": "9GAG是一家总部在香港的社交媒体平台，在全球有超过2亿的用户和粉丝。他们的用户热衷于在平台上发表流行表情包、精彩故事、GIF和病毒式传播视频。\n在与PubMatic合作之前，9GAG完全依赖服务端“"
+  },
+  {
+    "id": "ee3a80b120b14d27cd1793e3ee8746fd0040c3aa",
+    "url": "https://www.forbes.com/sites/paultassi/2025/09/27/all-the-ways-peacemaker-told-us-its-episode-6-twist-beforehand/",
+    "title": "All The Ways ‘Peacemaker’ Told Us Its Episode 6 Twist Beforehand",
+    "description": "Peacemaker was broadcasting its big twist for weeks, and here are all the ways you might have caught",
+    "text": "ByPaul Tassi,\nSenior Contributor.\nThis week, Peacemaker had its grand reveal of a twist that was sub"
+  },
+  {
+    "id": "39607c58195811751296034b6bd3d162a5966759",
+    "url": "https://www.forbes.com/sites/simonmoore/2025/09/27/what-to-expect-from-the-fed-for-the-remainder-of-2025/",
+    "title": "What To Expect From The Fed For The Remainder Of 2025",
+    "description": "With two scheduled meetings remaining, the FOMC is likely to cut again.",
+    "text": "BySimon Moore,\nSenior Contributor.\nThe Federal Open Market Committee has two scheduled meetings rema"
+  },
+  {
+    "id": "1fe5d7f6d37a9c279c84cdea512a246f9d8aa830",
+    "url": "https://www.forbes.com/sites/anthonydemarco/2025/09/27/cartier-jewels-lead-sothebys-paris-fine-jewelry-sale/",
+    "title": "Cartier Jewels Lead Sotheby’s Paris ‘Fine Jewelry’ Sale",
+    "description": "Sotheby's auction of 269 lots features signed jewels from historic Parisian high jewelry houses. It'",
+    "text": "ByAnthony DeMarco,\nSenior Contributor.\nThe autumn auction season for Sotheby’s begins with its “Fine"
+  },
+  {
+    "id": "aed6f672360803756dd7921eb502d04f235aef94",
+    "url": "https://www.forbes.com/sites/gladyslouisetyler/2025/09/27/dfs-fantasy-football-7-things-to-know-for-week-4/",
+    "title": "DFS Fantasy Football: 7 Things To Know For Week 4",
+    "description": "Week 4 DFS DraftKings main slate here are 7 things to know before you put in your lineup. Are you pl",
+    "text": "ByGladys Louise Tyler,\nContributor.\nThis is about your DFS fantasy football week. Whether you are pl"
+  },
+  {
+    "id": "4eb94a169c5aec255929e77da47b67463fb6db98",
+    "url": "https://www.forbes.com/sites/michaelfoster/2025/09/27/warning-this-8-dividend-pick-will-be-controversial/",
+    "title": "Warning: This 8% Dividend Pick Will Be Controversial",
+    "description": "ADX targets an 8% annualized payout (based on NAV), paid four times a year. So if NAV rises, so does",
+    "text": "ByMichael Foster,\nContributor.\nNear the end of 2022, a reader wrote in to tell me that my bullish vi"
+  },
+  {
+    "id": "a11b71ae43bca1a6fd35f97f6cc00bb1e95f0f53",
+    "url": "https://www.forbes.com/sites/kaitlynmcinnis/2025/09/27/the-safest-cities-for-pedestrians-in-the-world-according-to-new-study/",
+    "title": "The Safest Cities For Pedestrians In The World, According To New Study",
+    "description": "From Tokyo to Seoul and Zagreb to Zurich, these destinations were found to be the safest places arou",
+    "text": "ByKaitlyn McInnis,\nContributor.\nExploring a new city on foot is one of the best ways to get to know "
+  },
+  {
+    "id": "6687f1634d07ae996875c4e4062c47236cbd7a4c",
+    "url": "https://www.forbes.com/sites/tonyeast/2025/09/27/pacers-dont-view-2025-26-as-a-gap-year-but-might-need-to-tweak-style/",
+    "title": "Pacers Don’t View 2025-26 As A Gap Year, But Might Need To Tweak Style",
+    "description": "The Indiana Pacers don't view the 2025-26 season as a gap year despite Tyrese Haliburton's absence. ",
+    "text": "ByTony East,\nContributor.\nINDIANAPOLIS – The Indiana Pacers won’t have Tyrese Haliburton for the com"
+  },
+  {
+    "id": "0e486409bc3ed5b483b203897854923450a74108",
+    "url": "https://www.forbes.com/sites/jbrewer/2025/09/27/fiduciary-financial-advisors-are-not-all-equal-what-you-need-to-know/",
+    "title": "Fiduciary Financial Advisors Are Not All Equal: What You Need To Know",
+    "description": "Learn how to choose a fiduciary financial advisor—what the term means, who really meets the highest ",
+    "text": "ByJames Brewer,\nContributor.\n“Fiduciary” sounds simple: put the client first. But here’s the truth—n"
+  },
+  {
+    "id": "c516a3a29b18ecf44898ea61d03fde124224e81e",
+    "url": "https://www.forbes.com/sites/bryantoporek/2025/09/27/sixers-quentin-grimes-would-both-lose-if-he-accepts-87-million-qualifying-offer/",
+    "title": "Sixers, Quentin Grimes Would Both Lose If He Accepts $8.7 Million Qualifying Offer",
+    "description": "Both Quentin Grimes and the Sixers should be motivated to avoid him taking the $8.7 million qualifyi",
+    "text": "ByBryan Toporek,\nSenior Contributor.\nIt's appearing increasingly unlikely that the Philadelphia 76er"
+  },
+  {
+    "id": "1ddb4e0e96e5fd3e39d4000b4fc480e9018e1293",
+    "url": "https://www.forbes.com/sites/rdaniel-foster/2025/09/27/amsterdam-will-throw-an-epic-750th-birthday-party-on-october-27/",
+    "title": "Amsterdam Will Throw An Epic 750th Birthday Party On October 27",
+    "description": "Amsterdam’s year-long 750th birthday party ends October 27 with a 250-foot cake, a citywide feast an",
+    "text": "ByR. Daniel Foster,\nContributor.\nFrom its start as a medieval fishing village to a powerhouse of Eur"
+  },
+  {
+    "id": "85e863b6cc9dccc585ef0a1f88649083bf2ccd58",
+    "url": "https://www.twitch.tv/relaxbeats",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a6980e6cd69d7c3310a286d13c6ac0d4b9ec8927",
+    "url": "https://www.twitch.tv/directory/collection/mmorpg-games",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b5d617784131e71d7206a5aac3dc53f35c9447bc",
+    "url": "https://www.twitch.tv/directory/category/co-working-and-studying",
+    "title": "Twitch",
+    "description": "Find your next study buddy or productivity partner here.",
+    "text": ""
+  },
+  {
+    "id": "75b498b2cdc018ff28043e55aa51edfc6bcd72e1",
+    "url": "https://www.twitch.tv/directory/collection/just-chatting-streams",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c0f51066c50405e663bdc9f5b4efed9fa77e859f",
+    "url": "https://www.twitch.tv/directory/all/tags/DropsEnabled",
+    "title": "Twitch",
+    "description": "Watch the best DropsEnabled channels and streamers that are live on Twitch! Check out their featured",
+    "text": ""
+  },
+  {
+    "id": "d85aee40f6a4cb2ea7d5935bd8a29f108915d69f",
+    "url": "https://www.twitch.tv/directory/collection/irl",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "6369ecd0d2743b8f0666bf83388532747c584af7",
+    "url": "https://www.twitch.tv/directory/category/silent-hill-f",
+    "title": "Twitch",
+    "description": "Hinako's hometown is engulfed in fog, driving her to fight grotesque monsters and solve eerie puzzle",
+    "text": ""
+  },
+  {
+    "id": "fa87b592c81145734eadafff0c6a4addf937df10",
+    "url": "https://www.twitch.tv/--redacted_login--",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "ab0784d199542784610e5fde4a04e443fe2ac29d",
+    "url": "https://www.twitch.tv/sintica",
+    "title": "Twitch",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "239ab23f5177561290d33f21a489abd82e58a185",
+    "url": "https://www.twitch.tv/directory/category/apex-legends",
+    "title": "Twitch",
+    "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with ",
+    "text": ""
+  },
+  {
+    "id": "b10a795b087dfff1dbd6aa8e7fb4f5bb65081d50",
+    "url": "https://creativecommons.org/2002/09/25/siliconvalleycom/",
+    "title": "SiliconValley.com - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "5fe26af8bbdcd1a249298c88d2e2dc9755da1e9f",
+    "url": "https://creativecommons.org/2002/09/25/lawcom/",
+    "title": "Law.com - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "3234302856f0cb309f735706ee735f930a0aaeda",
+    "url": "https://creativecommons.org/2002/09/25/01net/",
+    "title": "01net - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "fa2c2ac288bc12e43fcf3d501e8b7cd476c0b7e8",
+    "url": "https://creativecommons.org/2002/09/25/sanjosemercurynews-2/",
+    "title": "San Jose Mercury News - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "08035474e3548d39f379b4408adba727d5addc9c",
+    "url": "https://creativecommons.org/2002/09/25/wiredcom/",
+    "title": "Wired.com - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "03fd70de40d8ee2b9a00df52fd4ee24dc8ff0c38",
+    "url": "https://creativecommons.org/2002/09/25/newarchitect/",
+    "title": "New Architect - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "8b3a9691dc60b39c960a9c2fa36e28982122d481",
+    "url": "https://creativecommons.org/2002/09/25/telepolis/",
+    "title": "Telepolis - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "4075d6c05ba4e936a99e516f91be1c65d7693f2d",
+    "url": "https://creativecommons.org/2002/09/25/slisalumnimagazine/",
+    "title": "SLIS Alumni Magazine - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "b09cde492ebbea9c3fac1e0145200099efb8bc33",
+    "url": "https://creativecommons.org/2002/09/25/bitabout/",
+    "title": "Bit About - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "ea990677acd8cd67814c0a1e684509846482ea9f",
+    "url": "https://creativecommons.org/2002/09/25/newyorktimes/",
+    "title": "New York Times - Creative Commons",
+    "description": "",
+    "text": "Join a  global community working to strengthen the Commons\nBecome an expert in creating and engaging"
+  },
+  {
+    "id": "d0ad983c22611fbdb5d0e5a0c4d669fe420cab8b",
+    "url": "https://www.bbc.co.uk/sport/football/europa-league",
+    "title": "Europa League - BBC Sport",
+    "description": "The home of Europa League on BBC Sport online. Includes the latest news stories, results, fixtures, ",
+    "text": "Could Israel be thrown out of football competitions next week?\nStruggling Rogers must ignore the jee"
+  },
+  {
+    "id": "1d303ba9b7e4a161925cbe60c77882bc2108f1b6",
+    "url": "https://www.bbc.co.uk/news/uk-england-manchester-11393998",
+    "title": "Manchester soldier's last words become song - BBC News",
+    "description": "The final words written by a guardsman from Manchester who was killed in Afghanistan will be release",
+    "text": "The final words written by a guardsman killed in Afghanistan will be released as a single by chart a"
+  },
+  {
+    "id": "9ecf3616b9b223b601a6e4eae2193f3537527a7f",
+    "url": "https://www.bbc.co.uk/sport/live-guide",
+    "title": "Due to technical changes, the BBC Sport Live Guide is no longer available. - BBC Sport",
+    "description": "Due to technical changes, the BBC Sport Live Guide is no longer available.",
+    "text": "How can I find the latest live events?\nMany live pages are available on our teams and competition pa"
+  },
+  {
+    "id": "cbaba6004dde9ccac0c06c35fd8242be6f307bb0",
+    "url": "https://www.bbc.co.uk/sport/swimming",
+    "title": "Swimming - Latest news, highlights & results - BBC Sport",
+    "description": "The home of Swimming on BBC Sport online. Includes the latest news stories, results, fixtures, video",
+    "text": "Whiston wins medley gold as GB break world record\nParalympic champion Brock Whiston won gold in the "
+  },
+  {
+    "id": "a84c57d04bfdf06677442aee0d092e0e6b9bf8f7",
+    "url": "https://www.bbc.co.uk/sport/football/teams/manchester-city",
+    "title": "Man City - Transfer news, results, fixtures, video and audio",
+    "description": "The home of Man City on BBC Sport online. Includes the latest news stories, transfers, results, fixt",
+    "text": "Do you have a question? Tell us what you want to know\nThere are seven games in the Premier League on"
+  },
+  {
+    "id": "05fe9dbabf5fe6d6c12ccb7c6b9ebad6ed290b5b",
+    "url": "https://www.bbc.co.uk/news/world-asia-pacific-11520566",
+    "title": "North Korea leader's eldest son 'opposes dynasty' - BBC News",
+    "description": "The eldest son of North Korean leader Kim Jong-il says he opposes a dynastic succession that would s",
+    "text": "Kim Jong-nam has said in the past that he has \"no interest\" in succeeding his father\nThe eldest son "
+  },
+  {
+    "id": "0628e69410619fb847521e42d6f3d3d160fcb186",
+    "url": "https://www.bbc.co.uk/news/health-10869329",
+    "title": "Why quitting heroin substitute methadone is 'vital' - BBC News",
+    "description": "Heroin substitute methadone is used to wean addicts off heroin but it can also become addictive.",
+    "text": "The use of methadone has been controversial in recent years\nThe heroin substitute methadone can be u"
+  },
+  {
+    "id": "4264dc70cc37bedfef29dd16a75c401748346c38",
+    "url": "https://www.bbc.co.uk/news/uk-england-hereford-worcester-11285540",
+    "title": "Teacher jailed for under-age sex in Worcestershire - BBC News",
+    "description": "A teacher is jailed for four years for having sex with a 15-year-old schoolgirl in Worcestershire.",
+    "text": "A teacher has been jailed for four years after being found guilty of having sex with a 15-year-old p"
+  },
+  {
+    "id": "0a570321b4a73ebf827e14a2803b422cf8904a05",
+    "url": "https://www.bbc.co.uk/news/world-south-asia-10805458",
+    "title": "Indian business in the UK - BBC News",
+    "description": "For decades Indians have left India for the UK in search of opportunities. But now the tables appear",
+    "text": "This video can not be played\nFor decades Indians have left India for the UK in search of opportuniti"
+  },
+  {
+    "id": "fc1820583623ab4aa3e00401b75768166edb89b5",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-11442610",
+    "title": "Paralysed trampoline teacher back at school - BBC News",
+    "description": "A teacher paralysed from the shoulders down in a trampoline accident returns to school to take class",
+    "text": "David Henderson was badly injured on a trampoline in 2007\nAn Aberdeenshire teacher who was paralysed"
+  },
+  {
+    "id": "c5620b05dc711c736bf7b33a57b20a723b37d56a",
+    "url": "https://www.bbc.com/arabic/inthepress/2009/06/090627_wb3_pressreview_tc2",
+    "title": "قضية ندى سلطان تجتاح الصحافة البريطانية - BBC News عربي",
+    "description": "استمرت مجريات الساحة الايرانية باحتلال صفحات الصحافة البريطانية.",
+    "text": "استمرت مجريات الساحة الايرانية باحتلال صفحات الصحافة البريطانية الصادرة يوم  الثلاثاء في لندن. وطغت "
+  },
+  {
+    "id": "1a3e53b8830446114ccc09e68c5484db9b99b946",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090622_mk_sarkosy_niqab_tc2",
+    "title": "ساركوزي: النقاب علامة استعباد للمرأة - BBC News عربي",
+    "description": "الرئيس الفرنسي يقول إن النقاب أو البرقع ليس موضع ترحيب في فرنسا وإن ارتداءه رمز على استعباد المرأة و",
+    "text": "قال الرئيس الفرنسي نيكولا ساركوزي في خطاب امام مجلسي البرلمان في فرساي اليوم  إن البرقع او النقاب ال"
+  },
+  {
+    "id": "2b05af3c41239562e30788acd39572afdf1957a1",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090622_my_ingushetiaattack_tc2",
+    "title": "إصابة رئيس انجوشتيا بجروح في محاولة اغتيال - BBC News عربي",
+    "description": "نجاة يوسف بك يفكروف، رئيس جمهورية إنجوشتيا المتمتعة بالحكم الذاتي ضمن الاتحاد الروسي من انفجار استهد",
+    "text": "تفيد الانباء الوارة من من جمهوية أنجوشتيا المتمتعة بالحكم الذاتي ضمن الاتحاد  الروسي، بأن رئيسها يون"
+  },
+  {
+    "id": "576984df49593dffb08659a395810efe89f44601",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090620_wb_northkorea_tc2",
+    "title": "إعادة النظر في القائمة السوداء للمتعاملين مع كوريا الشمالية - BBC News عربي",
+    "description": "تدرس لجنة عقوبات دولية إضافة المزيد من الشركات والأفراد إلى القائمة السوداء للمرتبطين بدعم البرنامج ",
+    "text": "تدرس لجنة عقوبات دولية إضافة المزيد من الشركات والأفراد إلى القائمة السوداء للمرتبطين بدعم البرنامج "
+  },
+  {
+    "id": "095682ccd35c6077881ff74cd3324bb132ab31de",
+    "url": "https://www.bbc.com/arabic/sports/2009/06/090620_als_maroc_soccer_tc2",
+    "title": "تعادل المغرب في كأس افريقيا  - BBC News عربي",
+    "description": "المغرب يتعادل سلبيا مع توغو في الرباط ضمن الجولة الثالثة من منافسات المجموعة الاولى من تصفيات نهائيا",
+    "text": "وفوت المنتخب المغربي فرصة محققة للفوز بعدما اهدر منير الحمداوي ضربة جزاء في الشوط الاول.\nويكتفي المغ"
+  },
+  {
+    "id": "2c128dc5224cfdf9630f7346e20600b39bf84a3d",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090621_wb_pakistan_voilence_tc2",
+    "title": "مقتل زعيم قبلي معارض لطالبان في باكستان - BBC News عربي",
+    "description": "قالت الشرطة الباكستانية إن الزعيم القبلي قاري زين الدين، المعارض لزعيم طالبان في باكستان بيت الله مح",
+    "text": "وأوضحت مصادر أمنية ان زين الدين البالغ من العمر 26 عاما لقي حتفه على أيدي مسلحين في مكتبه بمدينة دير"
+  },
+  {
+    "id": "078a693e1bf8a655b98986c8615dde6569345f4d",
+    "url": "https://www.bbc.com/arabic/worldnews/2009/06/090623_afghanistan_germans_tc2",
+    "title": "مقتل ثلاثة جنود المان في افغانستان - BBC News عربي",
+    "description": "مقتل ثلاثة جنود المان في افغانستان",
+    "text": "لقي ثلاثة جنود المان في افغانستان مصرعهم اثناء اشتباك مع مسلحين حسبما اعلنت وزارة الدفاع الالمانية.\n"
+  },
+  {
+    "id": "e92ab1dd6997784d00f1e67b9c3a764285531b26",
+    "url": "https://www.bbc.com/arabic/business/2009/06/090623_us_china_trade_tc2",
+    "title": "امريكا واوروبا يشتكيان الصين في منظمة التجارة العالمية - BBC News عربي",
+    "description": "امريكا واوروبا يشتكيان الصين في منظمة التجارة العالمية",
+    "text": "اتخذت الولايات المتحدة والاتحاد الاوروبي اجراءا ضد الصين في منظمة التجارة  العالمية بسبب تقييدها لتص"
+  },
+  {
+    "id": "de0ccee3b841e51179c25058ae8936a9573f022e",
+    "url": "https://www.bbc.com/arabic/middleeast/2009/06/090627_af_rafah_crossing_tc2",
+    "title": "مصر تفتح معبر رفح الحدودي - BBC News عربي",
+    "description": "السلطات المصرية تفتح معبر رفح الحدودي مع قطاع غزة بشكل مؤقت لمدة ثلاثة أيام للسماح لبعض الفلسطينيين ",
+    "text": "فتحت السلطات المصرية اليوم السبت معبر رفح الحدودي مع قطاع غزة بشكل مؤقت لمدة  ثلاثة ايام للسماح لبعض"
+  },
+  {
+    "id": "49367a734f83e92d1ac22196ff2a003bef62da8d",
+    "url": "https://www.bbc.com/arabic/business/2009/06/090623_iraq_oildfield_development",
+    "title": "تطوير حقول النفط العراقية بين الحاجة والاجندات السياسية - BBC News عربي",
+    "description": "تواجه الحكومة العراقية الاسبوع الحالي ضغوطا متزايدة لتغيير خططها الخاصة للدخول في عقود مع شركات عالم",
+    "text": "تواجه الحكومة العراقية الاسبوع الحالي ضغوطا متزايدة لتغيير خططها الخاصة للدخول في عقود مع شركات عالم"
+  },
+  {
+    "id": "3f0900e8d983b78e033be2c7515beee46275c621",
+    "url": "https://slack.com/blog/collaboration/agile-ceremonies",
+    "title": "Agile Ceremonies: Align Teams in Your Digital Workspace | Slack",
+    "description": "Discover how Agile ceremonies can keep your teams aligned, foster collaboration, and drive efficient",
+    "text": "Discover how Agile ceremonies can keep your teams aligned, foster collaboration, and drive efficient"
+  },
+  {
+    "id": "cc29331c5271393669c055c20be35dc4b4e36ad8",
+    "url": "https://slack.com/blog/collaboration/ai-business-tools",
+    "title": "The Best AI Business Tools in 2025 | Slack",
+    "description": "Discover the top AI business tools of 2025 and how they enhance productivity, automation, and collab",
+    "text": "See the top AI business tools of 2025 to enhance productivity, automation, and collaboration.\nBy the"
+  },
+  {
+    "id": "1436b12cf3606e6f85d67e517a402588f21a865d",
+    "url": "https://slack.com/blog/collaboration/agile-vs-scrum",
+    "title": "Agile vs. Scrum: What They Are and When to Use Each | Slack",
+    "description": "Get clear on Agile vs. scrum with simple definitions, side-by-side comparisons, and practical tips t",
+    "text": "Learn how Agile and Scrum relate, when to use alternatives like Kanban or Scrumban, and how tools li"
+  },
+  {
+    "id": "8561873b7a5d8a279f7f8cc0d71b3b20f8beed22",
+    "url": "https://slack.com/blog/collaboration/agile-planning-build-better-workflows-with-this-proven-system",
+    "title": "Agile Planning: Optimize Your Team’s Workflow with Proven Agile Techniques | Slack",
+    "description": "Unlock the potential of Agile planning to enhance your team’s productivity. Explore effective strate",
+    "text": "Discover how Agile principles can transform your project management approach.\nBy the team at SlackJu"
+  },
+  {
+    "id": "5e716f774b21bff33fe1f63d2e96b2f86979490b",
+    "url": "https://slack.com/blog/collaboration/are-you-a-slack-superfan-apply-to-lead-a-slack-community-chapter",
+    "title": "Are you a Slack superfan? Apply to lead a Slack Community chapter | Slack",
+    "description": "Learn more about what it means to lead a Slack Community chapter and meet some of Slack's community ",
+    "text": "Slack invites motivated end users, admins and developers to lead their local Slack Community chapter"
+  },
+  {
+    "id": "f270c1e864f6f527f17ae59f2f9272b0e08713de",
+    "url": "https://slack.com/blog/collaboration/asynchronous-communication-best-practices",
+    "title": "Asynchronous communication: benefits, examples, and tips | Slack",
+    "description": "Learn how asynchronous communication can improve productivity, support flexible work, and reduce mee",
+    "text": "Learn how to successfully implement and use asynchronous communication and help boost your team’s pr"
+  },
+  {
+    "id": "97a3373ce8b3f056e83c4b1cb98d6d4970878f13",
+    "url": "https://slack.com/blog/collaboration/asynchronous-video-hybrid-workplace",
+    "title": "Opting for asynchronous collaboration in the hybrid workplace | Slack",
+    "description": "Asynchronous video meetings are the future of the hybrid workplace. Learn why from Slack.",
+    "text": "Ditch the inefficiency of real-time video meetings and take your internal communications to the next"
+  },
+  {
+    "id": "f53cb8daf6d9fb16fdd283df99d53564810bceb9",
+    "url": "https://slack.com/blog/collaboration/approach-collaboration-with-intention",
+    "title": "Approach collaboration with deeper intention using these resources | Slack",
+    "description": "Improve productivity by creating a more flexible schedule",
+    "text": "Improve productivity and collaboration by creating a more flexible schedule\nBy the team at SlackSept"
+  },
+  {
+    "id": "68809debaf746d87da200484b6ddc0402b4af5e5",
+    "url": "https://slack.com/blog/collaboration/asynchronous-video-meetings-future-work",
+    "title": "Asynchronous video meetings: The future of work | Slack",
+    "description": "Learn how asynchronous meetings can help your teams stay engaged, aligned and productive.",
+    "text": "Learn how this new type of communication can help your teams stay engaged, aligned and productive\nBy"
   }
 ]

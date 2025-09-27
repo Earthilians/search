@@ -3096,7 +3096,7 @@
     ]
   },
   "myfritz.net": {
-    "lastAt": 1758626304066,
+    "lastAt": 1758976847224,
     "urls": [
       "https://www.myfritz.net/about",
       "https://myfritz.net/",
@@ -3105,11 +3105,11 @@
     ]
   },
   "nflxso.net": {
-    "lastAt": 1758626307270,
+    "lastAt": 1758976850237,
     "urls": []
   },
   "meraki.com": {
-    "lastAt": 1758626319097,
+    "lastAt": 1758976859548,
     "urls": [
       "https://meraki.cisco.com/",
       "https://meraki.cisco.com/collateral/",
@@ -3150,17 +3150,27 @@
       "https://meraki.cisco.com/ja-jp/products/smart-cameras/videos/",
       "https://meraki.cisco.com/ja-jp/products/switches/features/",
       "https://meraki.cisco.com/zh-cn/webinars/",
-      "https://meraki.cisco.com/m/physical-security/"
+      "https://meraki.cisco.com/m/physical-security/",
+      "https://meraki.cisco.com/es-co/products/smart-cameras/videos/",
+      "https://meraki.cisco.com/fr-fr/products/sensors/features/",
+      "https://meraki.cisco.com/fr-fr/webinars/",
+      "https://meraki.cisco.com/es-co/products/meraki-insight/",
+      "https://meraki.cisco.com/fr-fr/products/switches/features/",
+      "https://meraki.cisco.com/fr-fr/products/meraki-insight/",
+      "https://meraki.cisco.com/fr-fr/products/smart-cameras/videos/",
+      "https://meraki.cisco.com/fr-ca/products/meraki-insight/",
+      "https://meraki.cisco.com/fr-ca/products/switches/features/",
+      "https://meraki.cisco.com/pt-br/products/switches/features2/"
     ]
   },
   "w3.org": {
-    "lastAt": 1758626320143,
+    "lastAt": 1758976861022,
     "urls": [
       "https://w3.org/"
     ]
   },
   "taboola.com": {
-    "lastAt": 1758626322821,
+    "lastAt": 1758976866824,
     "urls": [
       "https://www.taboola.com/",
       "https://taboola.com/",
@@ -3201,23 +3211,33 @@
       "https://www.taboola.com/ja/resources/e-book",
       "https://www.taboola.com/zh-hant/resources/e-book",
       "https://www.taboola.com/de/resources/best-practices",
-      "https://www.taboola.com/fr/resources/best-practices"
+      "https://www.taboola.com/fr/resources/best-practices",
+      "https://www.taboola.com/es/resources/best-practices",
+      "https://www.taboola.com/ja/resources/best-practices",
+      "https://www.taboola.com/pt/resources/best-practices",
+      "https://www.taboola.com/zh-hans/resources/best-practices",
+      "https://www.taboola.com/ko/resources/best-practices",
+      "https://www.taboola.com/zh-hant/resources/best-practices",
+      "https://www.taboola.com/fr/resources/webinars",
+      "https://www.taboola.com/de/resources/webinars",
+      "https://www.taboola.com/es/resources/webinars",
+      "https://www.taboola.com/pt/resources/webinars"
     ]
   },
   "example.com": {
-    "lastAt": 1758626324843,
+    "lastAt": 1758976868038,
     "urls": [
       "https://example.com/"
     ]
   },
   "t.co": {
-    "lastAt": 1758626325789,
+    "lastAt": 1758976869127,
     "urls": [
       "https://t.co/"
     ]
   },
   "theguardian.com": {
-    "lastAt": 1758626328883,
+    "lastAt": 1758976873332,
     "urls": [
       "https://theguardian.com/",
       "https://www.theguardian.com/politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
@@ -3258,11 +3278,21 @@
       "https://www.theguardian.com/us-news/2025/sep/23/professors-us-south-leaving",
       "https://www.theguardian.com/commentisfree/2025/sep/23/charlie-kirk-bigoted-far-right-podcaster",
       "https://www.theguardian.com/us-news/2025/sep/23/cornelius-taylor-death-homelessness-atlanta",
-      "https://www.theguardian.com/sport/2025/sep/23/cheltenham-festival-woos-racegoers-cheaper-guinness-smaller-crowds-ladies-day-horse-racing"
+      "https://www.theguardian.com/sport/2025/sep/23/cheltenham-festival-woos-racegoers-cheaper-guinness-smaller-crowds-ladies-day-horse-racing",
+      "https://www.theguardian.com/sport/live/2025/sep/27/england-v-canada-womens-rugby-world-cup-final-live",
+      "https://www.theguardian.com/football/live/2025/sep/27/brentford-v-manchester-united-premier-league-live",
+      "https://www.theguardian.com/sport/live/2025/sep/27/ryder-cup-2025-day-two-live",
+      "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
+      "https://www.theguardian.com/sport/live/2025/sep/27/hampshire-v-surrey-yorkshire-v-durham-and-more-county-cricket-final-day-live",
+      "https://www.theguardian.com/sport/2025/sep/27/hats-high-fives-and-mauls-womens-rugby-world-cup-2025-a-picture-essay",
+      "https://www.theguardian.com/football/live/2025/sep/27/crystal-palace-v-liverpool-atletico-v-real-madrid-and-more-clockwatch-live",
+      "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+      "https://www.theguardian.com/world/2025/sep/27/mohammed-ibrahim-case-state-department",
+      "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap"
     ]
   },
   "doubleverify.com": {
-    "lastAt": 1758626334896,
+    "lastAt": 1758976879355,
     "urls": [
       "https://doubleverify.com/doubleverify%e3%81%8c-adchan-tokyo2020-%e3%81%ab%e5%8f%82%e5%8a%a0/",
       "https://doubleverify.com/adweek-apac/",
@@ -3303,15 +3333,25 @@
       "https://doubleverify.com/ctv-fully-on-screen-targeting-jp/",
       "https://doubleverify.com/authentic-brand-suitability-one-sheet-jp/",
       "https://doubleverify.com/punch-above-your-programmatic-weight/",
-      "https://doubleverify.com/fully-on-screen-pre-bid-activation-for-ctv/"
+      "https://doubleverify.com/fully-on-screen-pre-bid-activation-for-ctv/",
+      "https://doubleverify.com/forum-iab-poland-2023/",
+      "https://doubleverify.com/dvs-contextual-solution-drastically-lowered-cpms-and-cpcs-for-an-alcohol-brand-jp/",
+      "https://doubleverify.com/doubleverify-at-d3con-2023/",
+      "https://doubleverify.com/dv-live-at-cannes-2023/",
+      "https://doubleverify.com/emea-global-insights-report-webinar-2023/",
+      "https://doubleverify.com/ask-the-experts-building-strategic-foundations-of-media-quality/",
+      "https://doubleverify.com/how-dv-marketplace-suite-helps-platforms-drive-inventory-quality-and-efficiency-in-programmatic-advertising/",
+      "https://doubleverify.com/apac-global-insights-report-webinar-2023/",
+      "https://doubleverify.com/dvs-contextual-solution-drastically-lowered-cpms-and-cpcs-for-an-alcohol-brand/",
+      "https://doubleverify.com/dv-omd-improved-zains-ksa-campaign-authentic-rate-by-33/"
     ]
   },
   "capcutapi.com": {
-    "lastAt": 1758626337907,
+    "lastAt": 1758976882561,
     "urls": []
   },
   "vungle.com": {
-    "lastAt": 1758626342008,
+    "lastAt": 1758976885645,
     "urls": [
       "https://vungle.com/news/vungle-appears-in-forbes-must-read-tips-from-the-best-minds-in-mobile/",
       "https://vungle.com/",
@@ -3351,33 +3391,43 @@
       "https://vungle.com/blog/vungle-named-best-mobile-marketing-company-by-leading-martech-org/",
       "https://vungle.com/blog/singular-adds-vungle-as-a-certified-partner-in-new-data-integrity-program/",
       "https://vungle.com/event/meet-vungle-at-busan-indie-connect-festival-bic/",
-      "https://vungle.com/blog/sdk-6-4-available-for-ios-android-windows-ios-13-supported/"
+      "https://vungle.com/blog/sdk-6-4-available-for-ios-android-windows-ios-13-supported/",
+      "https://vungle.com/blog/vungle-scores-again-for-us-ad-ltv-in-latest-soomla-report/",
+      "https://vungle.com/event/chat-about-mobile-strategy-at-vungles-sdk-lounge-during-white-nights-conference/",
+      "https://vungle.com/blog/valuable-app-monetization-tips-from-pg-connects-helsinki/",
+      "https://vungle.com/blog/new-vungle-sdk-gets-more-impressions-higher-ecpms/",
+      "https://vungle.com/event/learn-new-strategies-from-our-monetization-experts-at-pg-connects-helsinki/",
+      "https://vungle.com/news/blackstone-closes-acquisition-of-vungle-a-leading-mobile-performance-marketing-platform/",
+      "https://vungle.com/blog/5-tips-for-diversifying-ad-spend-outside-the-us/",
+      "https://vungle.com/blog/the-vungalow-meet-alice-senior-marketing-manager/",
+      "https://vungle.com/blog/vungle-top-5-media-partner-boosts-its-market-share-by-36/",
+      "https://vungle.com/event/g-star/"
     ]
   },
   "registrar-servers.com": {
-    "lastAt": 1758626345475,
+    "lastAt": 1758976888867,
     "urls": []
   },
   "dnsowl.com": {
-    "lastAt": 1758626348995,
+    "lastAt": 1758976892540,
     "urls": []
   },
   "b-cdn.net": {
-    "lastAt": 1758626350477,
+    "lastAt": 1758976894570,
     "urls": [
       "https://b-cdn.net/"
     ]
   },
   "ttvnw.net": {
-    "lastAt": 1758626353655,
+    "lastAt": 1758976898029,
     "urls": []
   },
   "akamaized.net": {
-    "lastAt": 1758626356663,
+    "lastAt": 1758976901216,
     "urls": []
   },
   "pubmatic.com": {
-    "lastAt": 1758626361964,
+    "lastAt": 1758976911670,
     "urls": [
       "https://pubmatic.com/",
       "https://pubmatic.com/landing-page/",
@@ -3418,11 +3468,21 @@
       "https://pubmatic.com/how-publift-drove-a-33-uplift-in-programmatic-revenue-for-a-popular-australian-weather-app-kr/",
       "https://pubmatic.com/state-of-in-app-advertising-apac-kr/",
       "https://pubmatic.com/state-of-in-app-advertising-apac-cn/",
-      "https://pubmatic.com/identity-hub-acquisition-marketing-paid-search-04-2022/"
+      "https://pubmatic.com/identity-hub-acquisition-marketing-paid-search-04-2022/",
+      "https://pubmatic.com/leadingthroughchange-mobile/",
+      "https://pubmatic.com/state-of-in-app-advertising-apac/",
+      "https://pubmatic.com/publisher-spotlight/",
+      "https://pubmatic.com/madtimes-kr/",
+      "https://pubmatic.com/builtforyou-cn/",
+      "https://pubmatic.com/builtforyou-kr/",
+      "https://pubmatic.com/openwrap-sdk-gasbuddy/",
+      "https://pubmatic.com/openwrap-sdk-gasbuddy-ps/",
+      "https://pubmatic.com/9gag-openwrap-sdk-case-study-kr/",
+      "https://pubmatic.com/9gag-openwrap-sdk-case-study-cn/"
     ]
   },
   "gmail.com": {
-    "lastAt": 1758626363165,
+    "lastAt": 1758976913004,
     "urls": [
       "https://www.google.com/intl/de/gmail/about/policy/",
       "https://www.google.com/intl/el/gmail/about/",
@@ -3437,11 +3497,11 @@
     ]
   },
   "azurefd.net": {
-    "lastAt": 1758626366070,
+    "lastAt": 1758976915888,
     "urls": []
   },
   "forbes.com": {
-    "lastAt": 1758626370068,
+    "lastAt": 1758976922466,
     "urls": [
       "https://www.forbes.com/sites/tomsanderson/2025/09/11/this-decisive-talk-convinced-fc-barcelona-star-to-stay-at-club/",
       "https://www.forbes.com/sites/olliebarder/2025/09/11/daemon-x-machina-titanic-scion-brings-back-old-boss-for-a-new-event/",
@@ -3482,23 +3542,33 @@
       "https://www.forbes.com/sites/greatspeculations/2025/09/23/stubhub-ipo-a-hot-ticket-or-a-risky-bet/",
       "https://www.forbes.com/councils/forbeshumanresourcescouncil/2025/09/23/were-not-in-the-realm-of-dale-carnegies-soft-skills-anymore/",
       "https://www.forbes.com/councils/forbesfinancecouncil/2025/09/23/the-hidden-risks-of-interest-rate-cuts-and-what-investors-should-really-be-watching/",
-      "https://www.forbes.com/sites/forbes-books-news/2025/09/23/new-guide-equips-executives-to-align-teams-and-foster-thriving-workplaces/"
+      "https://www.forbes.com/sites/forbes-books-news/2025/09/23/new-guide-equips-executives-to-align-teams-and-foster-thriving-workplaces/",
+      "https://www.forbes.com/sites/paultassi/2025/09/27/all-the-ways-peacemaker-told-us-its-episode-6-twist-beforehand/",
+      "https://www.forbes.com/sites/simonmoore/2025/09/27/what-to-expect-from-the-fed-for-the-remainder-of-2025/",
+      "https://www.forbes.com/sites/anthonydemarco/2025/09/27/cartier-jewels-lead-sothebys-paris-fine-jewelry-sale/",
+      "https://www.forbes.com/sites/gladyslouisetyler/2025/09/27/dfs-fantasy-football-7-things-to-know-for-week-4/",
+      "https://www.forbes.com/sites/michaelfoster/2025/09/27/warning-this-8-dividend-pick-will-be-controversial/",
+      "https://www.forbes.com/sites/kaitlynmcinnis/2025/09/27/the-safest-cities-for-pedestrians-in-the-world-according-to-new-study/",
+      "https://www.forbes.com/sites/tonyeast/2025/09/27/pacers-dont-view-2025-26-as-a-gap-year-but-might-need-to-tweak-style/",
+      "https://www.forbes.com/sites/jbrewer/2025/09/27/fiduciary-financial-advisors-are-not-all-equal-what-you-need-to-know/",
+      "https://www.forbes.com/sites/bryantoporek/2025/09/27/sixers-quentin-grimes-would-both-lose-if-he-accepts-87-million-qualifying-offer/",
+      "https://www.forbes.com/sites/rdaniel-foster/2025/09/27/amsterdam-will-throw-an-epic-750th-birthday-party-on-october-27/"
     ]
   },
   "godaddy.com": {
-    "lastAt": 1758626373679,
+    "lastAt": 1758976926188,
     "urls": []
   },
   "demdex.net": {
-    "lastAt": 1758626376565,
+    "lastAt": 1758976929822,
     "urls": []
   },
   "mangosip.ru": {
-    "lastAt": 1758626435419,
+    "lastAt": 1758976988665,
     "urls": []
   },
   "twitch.tv": {
-    "lastAt": 1758626438360,
+    "lastAt": 1758976991566,
     "urls": [
       "https://www.twitch.tv/annual-recap",
       "https://www.twitch.tv/directory/gaming",
@@ -3539,15 +3609,25 @@
       "https://www.twitch.tv/xqc",
       "https://www.twitch.tv/directory/category/sports-1",
       "https://www.twitch.tv/directory/all/tags/English",
-      "https://www.twitch.tv/directory/category/zevent"
+      "https://www.twitch.tv/directory/category/zevent",
+      "https://www.twitch.tv/relaxbeats",
+      "https://www.twitch.tv/directory/collection/mmorpg-games",
+      "https://www.twitch.tv/directory/category/co-working-and-studying",
+      "https://www.twitch.tv/directory/collection/just-chatting-streams",
+      "https://www.twitch.tv/directory/all/tags/DropsEnabled",
+      "https://www.twitch.tv/directory/collection/irl",
+      "https://www.twitch.tv/directory/category/silent-hill-f",
+      "https://www.twitch.tv/--redacted_login--",
+      "https://www.twitch.tv/sintica",
+      "https://www.twitch.tv/directory/category/apex-legends"
     ]
   },
   "jomodns.com": {
-    "lastAt": 1758626442553,
+    "lastAt": 1758976995729,
     "urls": []
   },
   "creativecommons.org": {
-    "lastAt": 1758626448594,
+    "lastAt": 1758977004580,
     "urls": [
       "https://creativecommons.org/",
       "https://creativecommons.org/2015/03/25/celebrate-creative-commons-with-a-limited-edition-tee/",
@@ -3588,15 +3668,25 @@
       "https://creativecommons.org/2002/09/25/wirednews/",
       "https://creativecommons.org/2002/09/25/usatoday/",
       "https://creativecommons.org/2002/09/25/pcmagazine/",
-      "https://creativecommons.org/2002/09/25/graphicsnews/"
+      "https://creativecommons.org/2002/09/25/graphicsnews/",
+      "https://creativecommons.org/2002/09/25/siliconvalleycom/",
+      "https://creativecommons.org/2002/09/25/lawcom/",
+      "https://creativecommons.org/2002/09/25/01net/",
+      "https://creativecommons.org/2002/09/25/sanjosemercurynews-2/",
+      "https://creativecommons.org/2002/09/25/wiredcom/",
+      "https://creativecommons.org/2002/09/25/newarchitect/",
+      "https://creativecommons.org/2002/09/25/telepolis/",
+      "https://creativecommons.org/2002/09/25/slisalumnimagazine/",
+      "https://creativecommons.org/2002/09/25/bitabout/",
+      "https://creativecommons.org/2002/09/25/newyorktimes/"
     ]
   },
   "edgecdn.ru": {
-    "lastAt": 1758626453060,
+    "lastAt": 1758977010189,
     "urls": []
   },
   "bbc.co.uk": {
-    "lastAt": 1758626458127,
+    "lastAt": 1758977015793,
     "urls": [
       "https://www.bbc.co.uk/sport",
       "https://www.bbc.co.uk/sport/formula1",
@@ -3637,11 +3727,21 @@
       "https://www.bbc.co.uk/sport/olympics",
       "https://www.bbc.co.uk/sport/football/world-cup",
       "https://www.bbc.co.uk/sport/commonwealth-games",
-      "https://www.bbc.co.uk/sport/mixed-martial-arts"
+      "https://www.bbc.co.uk/sport/mixed-martial-arts",
+      "https://www.bbc.co.uk/sport/football/europa-league",
+      "https://www.bbc.co.uk/news/uk-england-manchester-11393998",
+      "https://www.bbc.co.uk/sport/live-guide",
+      "https://www.bbc.co.uk/sport/swimming",
+      "https://www.bbc.co.uk/sport/football/teams/manchester-city",
+      "https://www.bbc.co.uk/news/world-asia-pacific-11520566",
+      "https://www.bbc.co.uk/news/health-10869329",
+      "https://www.bbc.co.uk/news/uk-england-hereford-worcester-11285540",
+      "https://www.bbc.co.uk/news/world-south-asia-10805458",
+      "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-11442610"
     ]
   },
   "bbc.com": {
-    "lastAt": 1758626461393,
+    "lastAt": 1758977019767,
     "urls": [
       "https://bbc.com/",
       "https://www.bbc.com/arabic/multimedia/2009/08/090827_sf_nayyefattempt_tc2",
@@ -3682,11 +3782,21 @@
       "https://www.bbc.com/arabic/middleeast/2009/06/090624_sf_syria_us_ambass_tc2",
       "https://www.bbc.com/arabic/business/2009/06/090623_airbus_china_tc2",
       "https://www.bbc.com/arabic/middleeast/2009/06/090620_iraq_blast_tc2",
-      "https://www.bbc.com/arabic/middleeast/2009/06/090623_om_iran_europe_tc2"
+      "https://www.bbc.com/arabic/middleeast/2009/06/090623_om_iran_europe_tc2",
+      "https://www.bbc.com/arabic/inthepress/2009/06/090627_wb3_pressreview_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/06/090622_mk_sarkosy_niqab_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/06/090622_my_ingushetiaattack_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/06/090620_wb_northkorea_tc2",
+      "https://www.bbc.com/arabic/sports/2009/06/090620_als_maroc_soccer_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/06/090621_wb_pakistan_voilence_tc2",
+      "https://www.bbc.com/arabic/worldnews/2009/06/090623_afghanistan_germans_tc2",
+      "https://www.bbc.com/arabic/business/2009/06/090623_us_china_trade_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090627_af_rafah_crossing_tc2",
+      "https://www.bbc.com/arabic/business/2009/06/090623_iraq_oildfield_development"
     ]
   },
   "slack.com": {
-    "lastAt": 1758626464214,
+    "lastAt": 1758977023095,
     "urls": [
       "https://slack.com/",
       "https://slack.com//trust/data-requests",
@@ -3725,7 +3835,16 @@
       "https://slack.com/blog/collaboration/83bar-agents-help-patients-halp",
       "https://slack.com/blog/collaboration/adapting-to-our-remote-work-reality",
       "https://slack.com/blog/collaboration/advice-for-large-teams-on-slack",
-      "https://slack.com/blog/collaboration/achieve-common-goals-through-real-time-collaboration"
+      "https://slack.com/blog/collaboration/achieve-common-goals-through-real-time-collaboration",
+      "https://slack.com/blog/collaboration/agile-ceremonies",
+      "https://slack.com/blog/collaboration/ai-business-tools",
+      "https://slack.com/blog/collaboration/agile-vs-scrum",
+      "https://slack.com/blog/collaboration/agile-planning-build-better-workflows-with-this-proven-system",
+      "https://slack.com/blog/collaboration/are-you-a-slack-superfan-apply-to-lead-a-slack-community-chapter",
+      "https://slack.com/blog/collaboration/asynchronous-communication-best-practices",
+      "https://slack.com/blog/collaboration/asynchronous-video-hybrid-workplace",
+      "https://slack.com/blog/collaboration/approach-collaboration-with-intention",
+      "https://slack.com/blog/collaboration/asynchronous-video-meetings-future-work"
     ]
   },
   "sourceforge.net": {
