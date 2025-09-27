@@ -3848,7 +3848,7 @@
     ]
   },
   "sourceforge.net": {
-    "lastAt": 1758631611502,
+    "lastAt": 1758979421393,
     "urls": [
       "https://sourceforge.net/top",
       "https://sourceforge.net/",
@@ -3889,15 +3889,25 @@
       "https://sourceforge.net/projects/aladdincontext/",
       "https://sourceforge.net/projects/osspd/files/",
       "https://sourceforge.net/projects/aladdincontext/reviews/",
-      "https://sourceforge.net/projects/aladdincontext/support"
+      "https://sourceforge.net/projects/aladdincontext/support",
+      "https://sourceforge.net/projects/fsites/",
+      "https://sourceforge.net/projects/fsites/support",
+      "https://sourceforge.net/projects/testgrabweb/reviews/",
+      "https://sourceforge.net/projects/fsites/reviews/",
+      "https://sourceforge.net/projects/testgrabweb/",
+      "https://sourceforge.net/projects/testgrabweb/support",
+      "https://sourceforge.net/projects/autosave/",
+      "https://sourceforge.net/projects/autosave/reviews/",
+      "https://sourceforge.net/projects/autosave/support",
+      "https://sourceforge.net/projects/rocketdockissue/"
     ]
   },
   "root-servers.net": {
-    "lastAt": 1758631614502,
+    "lastAt": 1758979424565,
     "urls": []
   },
   "weather.com": {
-    "lastAt": 1758631621902,
+    "lastAt": 1758979431495,
     "urls": [
       "https://weather.com/",
       "https://weather.com/apps",
@@ -3934,11 +3944,18 @@
       "https://weather.com/maps/health/allergies/weedpollen",
       "https://weather.com/maps/southeastdopplerradar",
       "https://weather.com/maps/usnorthwestdopplerradar",
-      "https://weather.com/maps/averages/normal-temperature"
+      "https://weather.com/maps/averages/normal-temperature",
+      "https://weather.com/photos/collection/ugc/outdoor-journey",
+      "https://weather.com/maps/fall-foliage",
+      "https://weather.com/maps/health/allergies/treepollen",
+      "https://weather.com/maps/satellite/unitedkingdom-weather-map",
+      "https://weather.com/photos/collection/ugc/news/weather-hurricanes",
+      "https://weather.com/maps/weekly-precipitation-estimate",
+      "https://weather.com/maps/us-visible-satellite"
     ]
   },
   "netangels.ru": {
-    "lastAt": 1758631626194,
+    "lastAt": 1758979438814,
     "urls": [
       "https://www.netangels.ru/blog/",
       "https://www.netangels.ru/company/",
@@ -3979,15 +3996,25 @@
       "https://www.netangels.ru/cloud/isp/",
       "https://www.netangels.ru/cloud/pro/",
       "https://www.netangels.ru/contacts/",
-      "https://www.netangels.ru/cloud/turbopro/"
+      "https://www.netangels.ru/cloud/turbopro/",
+      "https://www.netangels.ru/antiddos/",
+      "https://www.netangels.ru/domain/ac/",
+      "https://www.netangels.ru/domain/academy/",
+      "https://www.netangels.ru/services/support/",
+      "https://www.netangels.ru/services/additional/",
+      "https://www.netangels.ru/services/additional/rucenter/",
+      "https://www.netangels.ru/domain/accountant/",
+      "https://www.netangels.ru/domain/accountants/",
+      "https://www.netangels.ru/domain/abkhazia.su/",
+      "https://www.netangels.ru/domain/actor/"
     ]
   },
   "azurewebsites.net": {
-    "lastAt": 1758631629081,
+    "lastAt": 1758979441668,
     "urls": []
   },
   "roku.com": {
-    "lastAt": 1758631632435,
+    "lastAt": 1758979446523,
     "urls": [
       "https://www.roku.com/",
       "https://www.roku.com/en-gb/",
@@ -4028,21 +4055,31 @@
       "https://www.roku.com/es-cr/products/players/compare",
       "https://www.roku.com/es-sv/products/players/compare",
       "https://www.roku.com/es-ar/products/players/compare",
-      "https://www.roku.com/de-de/products/finder/roku-tv/eko"
+      "https://www.roku.com/de-de/products/finder/roku-tv/eko",
+      "https://www.roku.com/es-pe/products/players/compare",
+      "https://www.roku.com/es-ni/products/players/compare",
+      "https://www.roku.com/es-gt/products/players/compare",
+      "https://www.roku.com/es-pa/products/players/compare",
+      "https://www.roku.com/es-hn/products/players/compare",
+      "https://www.roku.com/es-mx/products/players/compare",
+      "https://www.roku.com/products/players/compare",
+      "https://www.roku.com/de-de/products/players/compare",
+      "https://www.roku.com/pt-br/products/players/compare",
+      "https://www.roku.com/fr-ca/products/players/compare"
     ]
   },
   "scorecardresearch.com": {
-    "lastAt": 1758631633504,
+    "lastAt": 1758979447657,
     "urls": [
       "https://scorecardresearch.com/"
     ]
   },
   "webex.com": {
-    "lastAt": 1758631637146,
+    "lastAt": 1758979451647,
     "urls": []
   },
   "ebay.com": {
-    "lastAt": 1758631643870,
+    "lastAt": 1758979459094,
     "urls": [
       "https://www.ebay.com/itm/326765290243",
       "https://www.ebay.com/itm/146819987615",
@@ -4079,11 +4116,20 @@
       "https://www.ebay.com/itm/236340896144",
       "https://www.ebay.com/itm/167807668150",
       "https://www.ebay.com/itm/197716911181",
-      "https://www.ebay.com/itm/167807348939"
+      "https://www.ebay.com/itm/167807348939",
+      "https://www.ebay.com/itm/336199091785",
+      "https://www.ebay.com/itm/297637434533",
+      "https://www.ebay.com/itm/226987101536",
+      "https://www.ebay.com/itm/226990392269",
+      "https://www.ebay.com/itm/277401914099",
+      "https://www.ebay.com/itm/297635027098",
+      "https://www.ebay.com/itm/336199092892",
+      "https://www.ebay.com/itm/357666964102",
+      "https://www.ebay.com/itm/397086584107"
     ]
   },
   "salesforce.com": {
-    "lastAt": 1758631654627,
+    "lastAt": 1758979463851,
     "urls": [
       "https://www.salesforce.com/",
       "https://salesforce.com/",
@@ -4124,19 +4170,29 @@
       "https://www.salesforce.com/service/cloud/",
       "https://www.salesforce.com/service/",
       "https://www.salesforce.com/service/customer-self-service/",
-      "https://www.salesforce.com/service/pricing/"
+      "https://www.salesforce.com/service/pricing/",
+      "https://www.salesforce.com/service/employee-engagement/",
+      "https://www.salesforce.com/service/digital-customer-engagement-platform/",
+      "https://www.salesforce.com/service/contact-center/",
+      "https://www.salesforce.com/service/field-service-management/",
+      "https://www.salesforce.com/service/all-products/",
+      "https://www.salesforce.com/marketing/",
+      "https://www.salesforce.com/service/ai/",
+      "https://www.salesforce.com/marketing/b2b-automation/",
+      "https://www.salesforce.com/service/customer-service-incident-management/",
+      "https://www.salesforce.com/marketing/engagement/"
     ]
   },
   "comcast.net": {
-    "lastAt": 1758631657725,
+    "lastAt": 1758979467061,
     "urls": []
   },
   "wsdvs.com": {
-    "lastAt": 1758631660785,
+    "lastAt": 1758979471716,
     "urls": []
   },
   "ubuntu.com": {
-    "lastAt": 1758631666356,
+    "lastAt": 1758979476659,
     "urls": [
       "https://ubuntu.com/",
       "https://ubuntu.com/pricing",
@@ -4177,39 +4233,49 @@
       "https://ubuntu.com/18-04/gcp",
       "https://ubuntu.com/workstations-journey-to-ai",
       "https://ubuntu.com/security-error-500",
-      "https://ubuntu.com/18-04/ibm"
+      "https://ubuntu.com/18-04/ibm",
+      "https://ubuntu.com/16-04/azure",
+      "https://ubuntu.com/16-04",
+      "https://ubuntu.com/appliance/nextcloud",
+      "https://ubuntu.com/appliance",
+      "https://ubuntu.com/appliance/nextcloud/raspberry-pi",
+      "https://ubuntu.com/appliance/nextcloud/raspberry-pi2",
+      "https://ubuntu.com/appliance/nextcloud/vm",
+      "https://ubuntu.com/appliance/about",
+      "https://ubuntu.com/appliance/mosquitto",
+      "https://ubuntu.com/appliance/nextcloud/intel-nuc"
     ]
   },
   "mit.edu": {
-    "lastAt": 1758631667476,
+    "lastAt": 1758979478227,
     "urls": [
       "https://mit.edu/"
     ]
   },
   "ksyuncdn.com": {
-    "lastAt": 1758631671408,
+    "lastAt": 1758979482396,
     "urls": []
   },
   "oracle.com": {
-    "lastAt": 1758631675032,
+    "lastAt": 1758979485935,
     "urls": []
   },
   "vecdnlb.com": {
-    "lastAt": 1758631678288,
+    "lastAt": 1758979489294,
     "urls": []
   },
   "sciencedirect.com": {
-    "lastAt": 1758631683610,
+    "lastAt": 1758979496307,
     "urls": [
       "https://sciencedirect.com/"
     ]
   },
   "kwai-pro.com": {
-    "lastAt": 1758631686996,
+    "lastAt": 1758979500156,
     "urls": []
   },
   "cpanel.net": {
-    "lastAt": 1758631689382,
+    "lastAt": 1758979502593,
     "urls": [
       "https://www.cpanel.net/blog/",
       "https://www.cpanel.net/blog/tips-and-tricks/3-cpanel-plugins-for-added-server-security/",
@@ -4250,23 +4316,33 @@
       "https://www.cpanel.net/blog/tips-and-tricks/hosting-remote-git-repositories-with-cpanel/",
       "https://www.cpanel.net/blog/tips-and-tricks/memcached-php-applications-for-faster-web-apps/",
       "https://www.cpanel.net/blog/tips-and-tricks/wordpress-hardening-one-click-security-with-cpanel/",
-      "https://www.cpanel.net/blog/tips-and-tricks/how-to-host-dynamic-dns-domains-with-cpanel/"
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-host-dynamic-dns-domains-with-cpanel/",
+      "https://www.cpanel.net/blog/products/getting-started-with-the-cpanel-api/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-use-putty-ssh-with-cpanel/",
+      "https://www.cpanel.net/blog/tips-and-tricks/the-dns-zone-for-beginners/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-build-an-effective-landing-page-for-reseller-hosting/",
+      "https://www.cpanel.net/blog/products/linked-mail-nodes/",
+      "https://www.cpanel.net/blog/announcements/cloudfest-2021-in-review/",
+      "https://www.cpanel.net/blog/products/accelerate-cpanel-web-hosting-with-nginx-caching/",
+      "https://www.cpanel.net/blog/business-knowledge/vps-or-dedicated-hosting-and-your-business/",
+      "https://www.cpanel.net/blog/products/how-to-reset-the-mysql-root-password-and-mysql-user-passwords/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-clone-a-website-in-cpanel/"
     ]
   },
   "cisco.com": {
-    "lastAt": 1758631714516,
+    "lastAt": 1758979530859,
     "urls": [
       "https://cisco.com/"
     ]
   },
   "adsrvr.org": {
-    "lastAt": 1758631715525,
+    "lastAt": 1758979532077,
     "urls": [
       "https://adsrvr.org/"
     ]
   },
   "canva.com": {
-    "lastAt": 1758631720852,
+    "lastAt": 1758979538195,
     "urls": [
       "https://www.canva.com/",
       "https://www.canva.com/address-labels/",
@@ -4278,37 +4354,37 @@
     ]
   },
   "imdb.com": {
-    "lastAt": 1758631722814,
+    "lastAt": 1758979539451,
     "urls": [
       "https://imdb.com/"
     ]
   },
   "reg.ru": {
-    "lastAt": 1758631724352,
+    "lastAt": 1758979541106,
     "urls": [
       "https://reg.ru/"
     ]
   },
   "researchgate.net": {
-    "lastAt": 1758631727503,
+    "lastAt": 1758979544415,
     "urls": []
   },
   "my.com": {
-    "lastAt": 1758631731422,
+    "lastAt": 1758979548877,
     "urls": []
   },
   "imgsmail.ru": {
-    "lastAt": 1758631736122,
+    "lastAt": 1758979554055,
     "urls": [
       "https://imgsmail.ru/"
     ]
   },
   "rocket-cdn.com": {
-    "lastAt": 1758631741542,
+    "lastAt": 1758979560743,
     "urls": []
   },
   "openai.com": {
-    "lastAt": 1758631747442,
+    "lastAt": 1758979566884,
     "urls": []
   },
   "googleblog.com": {
