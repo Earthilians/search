@@ -240966,5 +240966,838 @@
     "title": "“I was tired of fighting a disease” | National Institutes of Health (NIH)",
     "description": "Cole Christopher spent twenty years living with chronic granulomatous disease (CDG), a hereditary im",
     "text": "An official website of the United States government\nHere’s how you know\nOfficial websites use .gov  "
+  },
+  {
+    "id": "94dddddbfb5a6138157587e2cd7ccac381e42a35",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-access-my-personal-data-help366?locale.x=ar_AE",
+    "title": "كيف أستطيع استعراض بياناتي الشخصية؟ | PayPal AE",
+    "description": "يمكن أن يطلب عملاء PayPal نسخة من بياناتهم الشخصية في الولايات المتحدة والمملكة المتحدة والاتحاد الأ",
+    "text": "يمكنك الاتصال بنا لطلب نسخة من بياناتك.\nيستطيع عملاء الحسابات الشخصية تنزيل بياناتهم الشخصية باتباع "
+  },
+  {
+    "id": "60ba7a364f49c31e243273e67951349e4ed14362",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-appeal-paypal%C3%A2%C2%80%C2%99s-decision-on-my-case-help230?locale.x=ar_AE",
+    "title": "كيف يمكنني الاعتراض على قرار PayPal بشأن حالتي؟ | PayPal AE",
+    "description": "لا يمكن الاعتراض على قرار الدعوى إلا إذا قُدِّمَت بيانات جديدة. يمكن القيام بذلك في \"مركز حل النزاعا",
+    "text": "عادةً ما يكون القرار الصادر في نهاية الدعوى نهائياً ولا يمكن الاعتراض عليه إلا عند تقديم معلومات جدي"
+  },
+  {
+    "id": "e4c9014bb1a601e034b42481246209f7db322421",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-correct-my-personal-data-help368?locale.x=ar_AE",
+    "title": "كيف أستطيع تصحيح بياناتي الشخصية؟ | PayPal AE",
+    "description": "يمكن لمستخدمي PayPal في الولايات المتحدة والمملكة المتحدة والاتحاد الأوروبي التحقق من هويتهم بسهولة ",
+    "text": "يمكنك تصحيح بياناتك الشخصية في حسابك على PayPal مثل إعدادات الحساب أو محفظتك. كما يمكنك الاتصال بنا\n"
+  },
+  {
+    "id": "8e2d20a52e47a9a44b0dff74838de6627f1d6c79",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-appeal-paypal%E2%80%99s-decision-on-my-case-help230?locale.x=ar_AE",
+    "title": "كيف يمكنني الاعتراض على قرار PayPal بشأن حالتي؟ | PayPal AE",
+    "description": "لا يمكن الاعتراض على قرار الدعوى إلا إذا قُدِّمَت بيانات جديدة. يمكن القيام بذلك في \"مركز حل النزاعا",
+    "text": "عادةً ما يكون القرار الصادر في نهاية الدعوى نهائياً ولا يمكن الاعتراض عليه إلا عند تقديم معلومات جدي"
+  },
+  {
+    "id": "d570b2d3effb5c4ff7bae9358e31deacac481ded",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-make-a-formal-complaint-to-paypal-help982?locale.x=ar_AE",
+    "title": "مقالات مركز المساعدة في PayPal | PayPal AE",
+    "description": "مقالة مركز المساعدة في PayPal",
+    "text": "حل مشكلات المعاملة والحساب المتصلة\nاطلب نموذج 1099-K وبيانات ضريبية أخرى هنا\nاطلب المساعدة في استخدا"
+  },
+  {
+    "id": "cecb29c83582d29977e1dcffc102024641e7ad9d",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-credit-cards-with-checkout-using-the-guest-checkout-option-ts1623?locale.x=ar_AE",
+    "title": "How do I accept credit cards using guest checkout with PayPal Express Checkout? | PayPal AE",
+    "description": "Guest checkout gives payers the option to complete a purchase using a credit or\ndebit card without h",
+    "text": "Guest checkout gives payers the option to complete a purchase using a credit or debit card without h"
+  },
+  {
+    "id": "2f40f35e5a36f5cb909b27b282926dad0ecbba50",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-release-my-payments-on-hold-help129?locale.x=ar_AE",
+    "title": "كيف أستطيع الإفراج عن مدفوعاتي المحتجزة؟ | PayPal AE",
+    "description": "تقوم باي بال بإجراء الحجز على المدفوعات حتى يتم تحديث حالة الطلب أو إضافة تتبع. يمكن أن تستمر عمليات",
+    "text": "سجّل الدخول إلى\n    حسابك وانقر على معرفة خياراتك ضمن رصيد PayPal، لمعرفة ما إذا كان يمكنك المساعدة "
+  },
+  {
+    "id": "662cd9de3568ac8dff5a121caf0c3e7f4d1f4c2d",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-or-deny-a-partial-refund-help179?locale.x=ar_AE",
+    "title": "كيف يمكنني قبول أو رفض الاسترداد الجزئي للمدفوعات؟ | PayPal AE",
+    "description": "تسمح PayPal الآن بالمستردات الجزئية خلال حل النزاع عبر مركز الحلول، مع فترة 10 أيام لقبول أو رفض الم",
+    "text": "يمكن أن يعرض البائع رد جزء من المدفوعات لحل منازعة. يمكنك قبول أو رفض الاسترداد الجزئي في مركز حل ال"
+  },
+  {
+    "id": "85cd80b7ca74e06a3c9aedb8aedd7b5f3b347ff7",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-can-i-submit-a-question-regarding-paypal%E2%80%99s-privacy-practices-help370?locale.x=ar_AE",
+    "title": "كيف أستطيع تقديم استفسار يتعلق بإجراءات خصوصية PayPal؟ | PayPal AE",
+    "description": "يمكن العثور على بيان الخصوصية الخاص بـ PayPal في قسم اتفاقيات القانون في التطبيق، يمكن الاتصال بفريق",
+    "text": "إذا كان لديك استفسار بشأن إجراءات خصوصية PayPal\n انتقل إلى بيان الخصوصية على موقعنا أو\n اتصل بنا عبر"
+  },
+  {
+    "id": "21702ae0d2cfea066157c3d51ffb3da94efbb84c",
+    "url": "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-donations-with-paypal-help200?locale.x=ar_AE",
+    "title": "كيف يمكنني قبول التبرعات عبر PayPal؟ | PayPal AE",
+    "description": "زر التبرع عبر باي بال هو طريقة فعالة من حيث التكلفة لجمع التبرعات عبر الإنترنت للجمعيات الخيرية. يكم",
+    "text": "زر التبرع عبر PayPal هو أداة مريحة ومجدية التكلفة لجمع التبرعات إلكترونياً.\nيحاول PayPal تحصيل المدف"
+  },
+  {
+    "id": "05fb07a5d1d43ae4f8957e27d29b6d5c0d58cda5",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/industroyer",
+    "title": "ATT&CK for ICS: Industroyer | Kaspersky",
+    "description": "Kaspersky Industrial CyberSecurity against Industroyer malware",
+    "text": "At the beginning of 2020, The MITRE Corporation announced the publication of a knowledgebase of meth"
+  },
+  {
+    "id": "3a1913a526c42a199742f1a5702e3087b3438ead",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/tip",
+    "title": "ATT&CK in APT Reports | Kaspersky",
+    "description": "Mapping Kaspersky Threat Intelligence Reports to MITRE ATT&CK",
+    "text": "Because cybercriminals are constantly improving their sophisticated hacking techniques, combating AP"
+  },
+  {
+    "id": "b74368588c48eecda53b15ca0c09f6e2d8fd48e4",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/apt29",
+    "title": "What's behind APT29? | Kaspersky",
+    "description": "Kaspersky’s view of the CozyDuke cybercriminal group",
+    "text": "CozyDuke - also known as CozyBear, CozyCar and Office Monkeys (among others), and whose activity app"
+  },
+  {
+    "id": "22bd53b18513cb94eaed04bc2f35a9ec919e8a3e",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/edr-mapping",
+    "title": "Mapping EDR to ATT&CKs | Kaspersky",
+    "description": "How Kaspersky EDR maps its findings to the MITRE techniques",
+    "text": "Cyberattacks are gaining close global attention with their growing complexity, stronger persistence "
+  },
+  {
+    "id": "1669d218f25a791d1eb9b5ef7faf42283262070f",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/mdr",
+    "title": "ATT&CK in MDR services | Kaspersky",
+    "description": "MITRE ATT&CK matrix in security operations of Kaspersky Managed Detection and Response Service",
+    "text": "The main focus of our Security Operations Center is on threat detection, whether those threats are a"
+  },
+  {
+    "id": "3de5fc1ed78e58954d199d902651d7bf228d9578",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/round2-config",
+    "title": "Round 2: Our Configuration | Kaspersky",
+    "description": "Configuration of the Kaspersky solution used in ATT&CK Evaluation",
+    "text": "Kaspersky took part in the MITRE ATT&CK Evaluation Round 2, where our security products were tested "
+  },
+  {
+    "id": "1f743c1c6393b898f199bb968e6773af7d1ad405",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/round2-results",
+    "title": "Round 2 Evaluation results | Kaspersky",
+    "description": "How Kaspersky performs in the MITRE ATT&CK evaluation",
+    "text": "In 2019, we visited The MITRE Corporation and took part in the MITRE ATT&CK® Evaluation Round 2. Dur"
+  },
+  {
+    "id": "576074fb87845cba5ec79100cd3a73463bb62f40",
+    "url": "https://www.kaspersky.com/partners",
+    "title": "Our Partners - Solutions and Opportunities | Kaspersky",
+    "description": "Find a partner or learn more about our partnership opportunities, including Affiliate Partners and T",
+    "text": "Grow your business – by partnering with a world leader. We provide the tools, incentives and support"
+  },
+  {
+    "id": "995a5adfcad082372b15e5c45c5427d7a8578548",
+    "url": "https://www.kaspersky.com/enterprise-security/mitre/round2-compare",
+    "title": "Round 2: Visual Perspective | Kaspersky",
+    "description": "See how Kaspersky looks against other participating vendors",
+    "text": "The MITRE ATT&CK Evaluation is a unique exercise in many ways. One of its distinguishing features is"
+  },
+  {
+    "id": "294fe2271daaeee09a0ed1e1fc7d3640c55d2a42",
+    "url": "https://www.kaspersky.com/partners/technology",
+    "title": "OEM and Technology Partnerships | Kaspersky",
+    "description": "A wide range of software and hardware vendors, as well as service providers, have taken advantage of",
+    "text": "© 2025 AO Kaspersky Lab\nWe use cookies to make your experience of our websites better. By using and "
+  },
+  {
+    "id": "67521b80bb1f969abcce4a3ab144e5f8e6f88fb6",
+    "url": "https://www.nytimes.com/athletic/live-blogs/ryder-cup-2025-live-updates-day-2-scores-results/qf14iaB60fdf/",
+    "title": "Ryder Cup 2025 live updates: Day 2 scores, foursome pairings and tee times with USA trailing Europe ",
+    "description": "Day 2 at Bethpage Black sees Team USA looking to fight back starting with this morning’s foursomes",
+    "text": "Golf\nRyder Cup 2025\nlive\nUpdated 25s ago\nTeam USA will hope to begin a Saturday comeback with this m"
+  },
+  {
+    "id": "09b4258534102d5720503f31d8e2c0d9fe6a3972",
+    "url": "https://www.nytimes.com/athletic/6666207/2025/09/27/eagles-buccaneers-florida-heat-baker-mayfield/",
+    "title": "As Eagles prepare for Tampa heat, do Florida teams really have a competitive advantage? - The Athlet",
+    "description": "Bucs QB Baker Mayfield doesn't think the Eagles' travel plans will help, but road teams have held th",
+    "text": "NFL\nNFL Week 4\nThe Philadelphia Eagles altered their travel plans in preparation for their Week 4 ga"
+  },
+  {
+    "id": "17434b5e8d7f84f9c8f2a613e6d9aa42b0faf2a7",
+    "url": "https://www.nytimes.com/athletic/6667301/2025/09/27/red-sox-clinch-wild-card-mlb-playoffs/",
+    "title": "For Red Sox, playoff clincher was just how they drew it up. There was no Plan B - The Athletic",
+    "description": "The resilient Sox trailed 3-0, then 3-1, then 3-2, before tying it. Then came Ceddanne Rafaela's wal",
+    "text": "MLB\nMLB Playoff\nHunt\nBOSTON — Plan A for the Boston Red Sox on Friday night at Fenway Park was to re"
+  },
+  {
+    "id": "8055ff6bad5187637bd123dbdcb588326cc5db6c",
+    "url": "https://www.nytimes.com/athletic/6663697/2025/09/27/aaron-judge-batting-champ-yankees-tallest-mlb-history/",
+    "title": "Aaron Judge will be the tallest batting champ in MLB history. Here’s how he did it - The Athletic",
+    "description": "The 6-foot-7 Judge has learned to manage his huge strike zone by being one of the smartest, most wel",
+    "text": "MLB\nNEW YORK — Aaron Judge is all but certain to win his first American League batting crown, which "
+  },
+  {
+    "id": "7a1aebcc188d949683301209aa81a3d6e136d531",
+    "url": "https://www.nytimes.com/athletic/6663764/2025/09/27/connor-mcdavid-contract-oilers-nhl-32-teams/",
+    "title": "If Connor McDavid hits the market, what should each NHL team’s pitch to get him be? - The Athletic",
+    "description": "Tension is rising among Oilers fans, and intrigue is growing in the rest of the hockey world as McDa",
+    "text": "NHL\nNHL Preseason\nThe puck has yet to drop on the 2025-26 NHL regular season and July 1 is more than"
+  },
+  {
+    "id": "8c1c99a79093f3fa79c243e7c2bd40b9c056d6ba",
+    "url": "https://www.nytimes.com/athletic/6667201/2025/09/27/mount-everest-skier-oxygen/",
+    "title": "Polish skier becomes first person to climb, ski down Everest without extra oxygen - The Athletic",
+    "description": "Andrzej Bargiel completed the feat on Sept. 23.",
+    "text": "Olympics\nA Polish skier has made history as the first person to climb Mount Everest and ski down it "
+  },
+  {
+    "id": "8b26e0dec785f5a5f4bf543d0127f543ea0fbf9a",
+    "url": "https://www.nytimes.com/athletic/6667145/2025/09/27/joe-ryan-twins-start-trade-offseason/",
+    "title": "Joe Ryan focuses on Twins’ positive changes, rather than his uncertain future - The Athletic",
+    "description": "“At the end of the day, I see the big picture and the decisions they've made,\" Ryan said of the Twin",
+    "text": "MLB\nPHILADELPHIA — Nearly two months after thinking he’d been traded at the deadline, Joe Ryan spoke"
+  },
+  {
+    "id": "92713296471aa1cf56d4cbfd1b550df27d9170d0",
+    "url": "https://www.nytimes.com/athletic/6662516/2025/09/27/penn-state-oregon-james-franklin-top-10-betting-lines/",
+    "title": "What point spreads tell us about Penn State’s chances vs. Oregon - The Athletic",
+    "description": "Saturday is the first time in the James Franklin era that Penn State is favored against a top-10 opp",
+    "text": "College\nFootball Week 5\nOn Saturday night, Penn State coach James Franklin gets yet another shot to "
+  },
+  {
+    "id": "347f96c9360eea30a327b6b9f0d05914e299e83a",
+    "url": "https://www.nytimes.com/athletic/6665466/2025/09/26/graham-potter-face-swap/",
+    "title": "Graham Potter face swap: Explaining football’s strangest viral trend - The Athletic",
+    "description": "Why is the West Ham head coach's face being superimposed on celebrities and historical figures?",
+    "text": "EPL\nIt is one of the Premier League’s most bizarre social media memes.\nThe last week has seen a swat"
+  },
+  {
+    "id": "ed92ec169b44c53b62300772a88a60d284c2aa61",
+    "url": "https://www.nytimes.com/2025/09/27/opinion/james-comey-indictment.html",
+    "title": "Opinion | Why Comey Should Not Have Been Indicted, According to Trump - The New York Times",
+    "description": "The best case against indicting James Comey is the one the president made for firing him.",
+    "text": "Advertisement\nSupported by\nCarlos Lozada\nBy Carlos Lozada\nOpinion Columnist\nDonald Trump and James C"
+  },
+  {
+    "id": "a51a8a64ac340833121b560702e6a20654320e5e",
+    "url": "https://www.f5.com/authors/raymond-pompon",
+    "title": "Raymond Pompon",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "e9c78c280275d3551b864c82389fa2fa64080750",
+    "url": "https://www.f5.com/authors/shahnawaz-backer",
+    "title": "Shahnawaz Backer",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "56d7d28561b40da959b9cf43cae8ef9ba1438ec6",
+    "url": "https://www.f5.com/authors/f5-newsroom-staff",
+    "title": "F5 Newsroom Staff",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "b349ed14ec1e4044abd76e50916abcfa66dcf119",
+    "url": "https://www.f5.com/authors/tom-atkins",
+    "title": "Tom Atkins",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "bd58e902b46cb4b255cd54145a4a2dccf533d80c",
+    "url": "https://www.f5.com/authors/robert-haynes",
+    "title": "Robert Haynes",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "ed4f1c03b542a7367ca22305689aa6329a1c46f9",
+    "url": "https://www.f5.com/authors/shawn-wormke",
+    "title": "Shawn Wormke",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "4d6d83130a13ced816626aa932d613cd9e1e9aeb",
+    "url": "https://www.f5.com/authors/lisa-citron",
+    "title": "Lisa Citron",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "1e358aeb9e7cbc9ea329da039dd0f674a1ab3b64",
+    "url": "https://www.f5.com/authors/james-feger",
+    "title": "James Feger | F5 Blog Author",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "e4c7002279e9eb22ed2144ecf0b7054e88183b1f",
+    "url": "https://www.f5.com/authors/matt-mabis",
+    "title": "Matt Mabis",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "d609ff1e95185bede29dd6dfc47b1d0fea64640c",
+    "url": "https://www.f5.com/authors/tim-wagner",
+    "title": "Tim Wagner",
+    "description": "",
+    "text": "Discuss tech with F5 experts around the world\nThe latest threat intel and research to help protect y"
+  },
+  {
+    "id": "6a9599f20732d3d7a980f2bb7bccc2cd03d3ca2f",
+    "url": "https://www.magnite.com/press-it/magnite-research-finds-americans-are-actively-planning-vacation-travel-and-ctv-is-key-to-reaching-travel-decision-makers/",
+    "title": "Magnite Research Finds Americans Are Actively Planning Vacation Travel and CTV is Key to Reaching Tr",
+    "description": "Nearly 60% of those surveyed more likely to consider a travel brand advertised on CTV than on tradit",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "c8e899c62125a1c2b72c9e49499a39ebd599f621",
+    "url": "https://www.magnite.com/press-it/rakuten-advertising-brings-on-magnite-to-further-monetize-rakuten-tv-inventory-across-europe/",
+    "title": "Rakuten Advertising Brings on Magnite to Further Monetize Rakuten TV Inventory Across Europe|Rakuten",
+    "description": "Rakuten Advertising will leverage the Magnite CTV platform across Europe to broaden advertiser and a",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "714814f1f6673a8bf7ccefb79c04f1ab89260ac8",
+    "url": "https://www.magnite.com/blog-it/building-a-better-internet-for-all-users/",
+    "title": "Building a Better Internet For All Users",
+    "description": "A better identity model will be achieved when the consumer is at the core of everything companies bu",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "a220a045c7fb95e6de878a5b6500835bc35598c1",
+    "url": "https://www.magnite.com/press-de/tv-data-initiative-announces-new-member-magnite/",
+    "title": "TV Data Initiative Announces New Member, Magnite|TV Data Initiative Announces New Member, Magnite|TV",
+    "description": "Magnite will work with founding members of Initiative to help advertisers, programmers, and distribu",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "ca596b188e58db594b5268110e2a2599bcc087ea",
+    "url": "https://www.magnite.com/press-ja/magnite-and-tvscientific-launch-performance-ctv-program-to-connect-dtc-performance-advertisers-with-premium-ctv-inventory/",
+    "title": "Magnite and tvScientific Launch Performance CTV Program to Connect DTC Performance Advertisers with ",
+    "description": "Initiative will help CTV publishers reach a new class of first-time TV buyers that value data-driven",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "55e487776c55f0b6f469250863a4901be2112e17",
+    "url": "https://www.magnite.com/press-it/fubotv-selects-magnite-as-preferred-ssp/",
+    "title": "fuboTV Selects Magnite as Preferred SSP",
+    "description": "fuboTV, the leading sports-first live TV streaming platform, has selected Magnite to serve as its pr",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "87730d8d7fdf70b15e510b17a77fdf339e0b4235",
+    "url": "https://www.magnite.com/press/acquisition/",
+    "title": "Magnite Acquires Carbon to Accelerate Publisher Audience Activation",
+    "description": "Magnite acquires Carbon, a platform that enables publishers to measure, manage and monetize audience",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "18a8849aa2bc4ccfdf035a0a4c756751ea03d5d7",
+    "url": "https://www.magnite.com/blog-fr/advertising-consumer-goods-and-the-ott-advantage-in-indonesia/",
+    "title": "Advertising Consumer Goods and the OTT Advantage in Indonesia",
+    "description": "Our research reported half of the population have increased their OTT usage during the pandemic, wit",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "c0ca92628446baed08d015dbfbd7d4ca73812f60",
+    "url": "https://www.magnite.com/press-ja/french-streaming-platform-molotov-selects-magnite-as-ssp-and-springserve-as-ad-server/",
+    "title": "Molotov Selects Magnite as SSP & SpringServe as Ad Server",
+    "description": "Molotov is leveraging Magnite as their SSP & SpringServe as their ad server for their ad-supported s",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "762a4ae0d8404bc3a9f8515a5ce90f27e467da10",
+    "url": "https://www.magnite.com/blog-it/live-in-five-political-advertisers-achieve-instant-scale-with-programmatic-offering/",
+    "title": "Live in Five: Political Advertisers Achieve Instant Scale with Programmatic Offering",
+    "description": "Magnite’s political offering delivers scale and efficiency for buyers.",
+    "text": "Magnite and Best Buy Ads Bring Scale and Precision through Programmatic\nBridging the Gap: How Magnit"
+  },
+  {
+    "id": "d9e33609681262bdb6cc76f86cfc67e13134a3e8",
+    "url": "https://www.flickr.com/photos/203384129@N04/galleries",
+    "title": "Mouse Grey’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\n3931348185\n0 Followers•1 Following\nJoined 2025\nGive Pro\n3931348185\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "2a397be9a48e43ed2c61f5b79e0cb7a056aba25d",
+    "url": "https://www.flickr.com/photos/201554464@N04/galleries",
+    "title": "Dude Machdat’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nzimmermann991\n2 Followers•6 Following\nJoined 2024\nGive Pro\nzimmermann991\n2 Followers•6 Foll"
+  },
+  {
+    "id": "ed18d1cac88879735ad54cd2ae753e7875b524fe",
+    "url": "https://www.flickr.com/photos/201536667@N03/galleries",
+    "title": "John Ryan’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\ntvtxqvzs88\n0 Followers•1 Following\nJoined 2024\nGive Pro\ntvtxqvzs88\n0 Followers•1 Following\n"
+  },
+  {
+    "id": "3d193e836611507c21925d500c542999e11093b0",
+    "url": "https://www.flickr.com/people/202168575@N03",
+    "title": "About Jessica Swan | Flickr",
+    "description": "",
+    "text": "Give Pro\nblindninjamom\n1 Follower•2 Following\n19 Photos\nJoined 2025\nGive Pro\nblindninjamom\n1 Followe"
+  },
+  {
+    "id": "d2a51d7383c5c6c2a74c44b33419594e181efd51",
+    "url": "https://www.flickr.com/photos/202774914@N03/favorites",
+    "title": "Grace Erickson’s favorites | Flickr",
+    "description": "",
+    "text": "Give Pro\ngraceerickson1983\n0 Followers•1 Following\nJoined 2025\nGive Pro\ngraceerickson1983\n0 Follower"
+  },
+  {
+    "id": "b1850c20adcefa58a8992dfe48b0aebd6a35be65",
+    "url": "https://www.flickr.com/photos/202846379@N02",
+    "title": "Pierre Bassoleil | Flickr",
+    "description": "",
+    "text": "Give Pro\npiero.delavega06\n0 Followers•1 Following\nJoined 2025\nGive Pro\npiero.delavega06\n0 Followers•"
+  },
+  {
+    "id": "1507d8375df287f8a046762770696688e0f5a7fd",
+    "url": "https://www.flickr.com/photos/203591849@N06/galleries",
+    "title": "stephanie henderson’s galleries | Flickr",
+    "description": "",
+    "text": "Give Pro\nsber2339\n0 Followers•1 Following\nJoined 2025\nGive Pro\nsber2339\n0 Followers•1 Following\nJoin"
+  },
+  {
+    "id": "be4271f5918afea7d30365bd2832967bf81077ee",
+    "url": "https://www.flickr.com/people/202578769@N03",
+    "title": "About Wayne  McKinney | Flickr",
+    "description": "",
+    "text": "Give Pro\nsbeast711\n0 Followers•1 Following\nJoined 2025\nGive Pro\nsbeast711\n0 Followers•1 Following\nJo"
+  },
+  {
+    "id": "3217d2c7b63b13dcb13c55a235e616c4ddedc6d5",
+    "url": "https://www.flickr.com/photos/203203160@N02/albums",
+    "title": "Sheila  Fitzpatrick’s albums | Flickr",
+    "description": "",
+    "text": "Give Pro\nsheilalfitz\n0 Followers•1 Following\nJoined 2025\nGive Pro\nsheilalfitz\n0 Followers•1 Followin"
+  },
+  {
+    "id": "5b086a51fa01cee21360b12494c776dd14e07823",
+    "url": "https://www.flickr.com/photos/202582424@N06",
+    "title": "marissa annam | Flickr",
+    "description": "",
+    "text": "Give Pro\nmarissamaeannam\n0 Followers•1 Following\nJoined 2025\nGive Pro\nmarissamaeannam\n0 Followers•1 "
+  },
+  {
+    "id": "a72820b0247126004106244432a7a972937fa76e",
+    "url": "https://www.shopify.com/buy-button",
+    "title": "Buy Button - Add Your Products to Any Website - Shopify",
+    "description": "Turn your existing blog or website into an online store by using Shopify’s Buy Button. It's easy to ",
+    "text": "Anything is possible with the JavaScript Buy SDK\nThe JavaScript Buy SDK makes it easy for anyone to "
+  },
+  {
+    "id": "7bd3876cdc77e656c80377c36870cdabe3eafb67",
+    "url": "https://www.shopify.com/bugbounty/rewards",
+    "title": "Rewards | Shopify Bug Bounty",
+    "description": "Learn about Shopify's Bug Bounty reward structure, including severity-based payouts, precedent rewar",
+    "text": "Get rewarded for your hard work\nMost reports are scored with our Shopify Bug Bounty Severity Calcula"
+  },
+  {
+    "id": "c432048f7392acd0aebdeac43642434830640c9f",
+    "url": "https://www.shopify.com/capital-marketing-funding",
+    "title": "Capital Marketing Funding",
+    "description": "Shopify Capital can help you get business loans with minimal paperwork and no credit checks. Shopify",
+    "text": "Start your free trial, then enjoy 3 months of Shopify for $1/month when you sign up for a monthly Ba"
+  },
+  {
+    "id": "102f8ed7d435fc7fa9efe197ee7f45ae3829dadb",
+    "url": "https://www.shopify.com/carbon-commerce",
+    "title": "Carbon Commerce by Shopify: Seamlessly Manage & Sell Carbon Credits - Shopify",
+    "description": "Leverage the power of Shopify’s Carbon Commerce to commercialize your carbon credits. Sell, manage i",
+    "text": "Capture carbon with your tech. Sell credits with ours.\nYou agree to receive Shopify marketing emails"
+  },
+  {
+    "id": "8f8c04334715b10e33a0386281d9b3a4d6767a76",
+    "url": "https://www.shopify.com/card-reader-promotion/terms-and-conditions",
+    "title": "Shopify POS Free Card Reader Hardware Promotion Terms and conditions - Shopify",
+    "description": "Shopify POS Free Card Reader Hardware Promotion Terms and conditions",
+    "text": "The Shopify POS Free Card Reader Hardware Promotion (the “Promotion“) allows you to earn a promotion"
+  },
+  {
+    "id": "6371137ed99eef25cb1f46eb6f5cd0a74785da15",
+    "url": "https://www.shopify.com/careers",
+    "title": "Careers, Internships, and Jobs at Shopify | Shopify Careers - Shopify",
+    "description": "Careers at Shopify. Find a Remote Job at Shopify and Work from Anywhere in the World. Check our Engi",
+    "text": "Shopify is a company of world-class crafters. We reject the status quo. We experiment, observe, and "
+  },
+  {
+    "id": "0e9c223b31da2cac7e6d460349b0dce0432202cd",
+    "url": "https://www.shopify.com/careers/candidate-guide",
+    "title": "Careers, Internships, and Jobs at Shopify | Shopify Careers - Shopify",
+    "description": "Careers at Shopify. Find a Remote Job at Shopify and Work from Anywhere in the World. Check our Engi",
+    "text": "Shopify’s hiring process is designed to make sure you’re right for Shopify, right now. Here’s an ove"
+  },
+  {
+    "id": "4a6dbdb3b0693a9be278409a7998b2f5e5689832",
+    "url": "https://www.shopify.com/card-reader-discount/terms-and-conditions",
+    "title": "Shopify POS Card Reader Hardware Promotion Terms and conditions - Shopify",
+    "description": "Shopify POS Card Reader Hardware Promotion Terms and conditions",
+    "text": "The Shopify POS Card Reader Hardware Promotion (the “Promotion“) allows you to earn a promotional cr"
+  },
+  {
+    "id": "fa8dcc1c6b2c0423fbc145321b538c9d99af5806",
+    "url": "https://www.shopify.com/careers/candidate-guide/ai-usage",
+    "title": "Careers, Internships, and Jobs at Shopify | Shopify Careers - Shopify",
+    "description": "Careers at Shopify. Find a Remote Job at Shopify and Work from Anywhere in the World. Check our Engi",
+    "text": "Reproduced here in full, this is an email that Tobi sent to all Shopifolk in March 2025.\nTeam,\nWe ar"
+  },
+  {
+    "id": "8e5f728a9828d1b45ac594851b5c54d8cd631816",
+    "url": "https://chatgpt.com/",
+    "title": "ChatGPT",
+    "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy t",
+    "text": ""
+  },
+  {
+    "id": "be21ad49adfffe46fe98286f2cc96bd51781d5a2",
+    "url": "https://chatgpt.com/gpts",
+    "title": "Explore GPTs",
+    "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy t",
+    "text": ""
+  },
+  {
+    "id": "9447db0cfe021d507cb64e888918e2c232461911",
+    "url": "https://chatgpt.com/overview",
+    "title": "ChatGPT",
+    "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy t",
+    "text": "With ChatGPT, you can type or start a real-time voice conversation by tapping the soundwave icon in "
+  },
+  {
+    "id": "c59df87ae3a8a3444244cdf8cd8ded7bdc01f89d",
+    "url": "https://chatgpt.com/use-cases/university-educators",
+    "title": "ChatGPT for university educators",
+    "description": "Discover the best ChatGPT prompts for professors to streamline teaching—refine your syllabus, create",
+    "text": "Faculty from a dozen disciplines shared chats they use for teaching and research. \n\n Tap a chat to g"
+  },
+  {
+    "id": "a80d03a6be5de42adc6b6e2f66b8db2561a6b59d",
+    "url": "https://chatgpt.com/use-cases/students",
+    "title": "ChatGPT for students",
+    "description": "Explore 100 top ChatGPT chats for college students, covering study help, college advice, productivit",
+    "text": "These chats were made by students, for students. Learn new things, start a career, and navigate life"
+  },
+  {
+    "id": "cff1b53290b64a1b0c0a92b0e3497abfbd0e5234",
+    "url": "https://chatgpt.com/use-cases/scientists",
+    "title": "ChatGPT for scientists",
+    "description": "Medical researchers at top U.S. institutions shared chats they use in their research and professiona",
+    "text": "Medical researchers at top U.S. institutions shared chats they use in their research and day-to-day "
+  },
+  {
+    "id": "8d2e9225c4808c81f3d8f11fa6c0b7d1a0246eb7",
+    "url": "https://medium.com/@njasmine/list/bd2e03b7ceb1",
+    "title": "List: better writing tips | Curated by saj | Medium",
+    "description": "better writing tips · 3 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nMar 12, 2022\n3 stories\nShare\nAfnan Siddique\nT Patel\nT Patel"
+  },
+  {
+    "id": "b23bbcc6a7e2f2fad72498e9679e47602fa679d6",
+    "url": "https://medium.com/@arinzeprisca2/list/0ecadca5eaac",
+    "title": "List: Design Inspirations  | Curated by Chinelo Arinze | Medium",
+    "description": "Design Inspirations  · 5 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nFeb 12, 2023\n5 stories\nShare\nIn\nUX Collective\nby\nT. Robert Roeth\nLin"
+  },
+  {
+    "id": "aee660e121773a3a0b5d088c11ef1ee4f6357466",
+    "url": "https://medium.com/@ant.2283/list/8b6d1e5366f7",
+    "title": "List: data science | Curated by Anton Alekseev | Medium",
+    "description": "data science · 380 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nJan 9, 2023\n380 stories\n1 save\n7\nShare\nIn\nTDS Archive\nby\nSoner Yıldı"
+  },
+  {
+    "id": "73d8857cc3a4261f990ddda4765861e5de573e3b",
+    "url": "https://medium.com/@excited_eminence_deer_500/list/a91161cd4d27",
+    "title": "List: API Gateway | Curated by Geospin | Medium",
+    "description": "API Gateway · 12 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nOct 11, 2023\n12 stories\n1 save\nShare\nIn\nKeycloak\nby\nAbhishek koserwa"
+  },
+  {
+    "id": "e1064e02d3026ca0dc0daf5024aaf64e8fbb9d1b",
+    "url": "https://medium.com/@sonicpsionic/list/cbc9622f7e80",
+    "title": "List: Front End | Curated by Roderick Folster | Medium",
+    "description": "Front End · 12 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nOct 7, 2022\n12 stories\nShare\nIn\nUX Planet\nby\nSergushkin.com\nTapajyot"
+  },
+  {
+    "id": "b8fc7b6bf3758f434ef1d35732c5171395ba2d9b",
+    "url": "https://medium.com/@francis.99/list/7273f3d8cbe1",
+    "title": "List: Entrepreneurship | Curated by Francis | Medium",
+    "description": "Entrepreneurship · 4 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nApr 11, 2022\n4 stories\nShare\nDan Suciu\nNathan Ang\nRemco van Akker\nIn"
+  },
+  {
+    "id": "9b3863eed6f3838513d362d1342303c209ea4e26",
+    "url": "https://medium.com/@jamie.a.mullen/list/c75ed793c3a1",
+    "title": "List: Med Literature | Curated by Jamie Mullen | Medium",
+    "description": "Med Literature · 4 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nNov 3, 2024\n4 stories\nShare\nIn\nTDS Archive\nby\nDiana Rozenshteyn\nIn\nT"
+  },
+  {
+    "id": "16241ec572feffc6b6ae3f418e3b83a1ad40c164",
+    "url": "https://medium.com/@nbaqq44/list/d5b91f4bbff3",
+    "title": "List: Software Engineer | Curated by Luā io̍k-sîng | Medium",
+    "description": "Software Engineer · 3 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nMar 12, 2022\n3 stories\nShare\nIn\nBetter Programming\nby\nMegan C.\nIn\nBe"
+  },
+  {
+    "id": "eeb9dda9cf502033f9243c4694eaba630be75705",
+    "url": "https://medium.com/@fritzism/list/68758c29736a",
+    "title": "List: Startup studios | Curated by Fritzism | Medium",
+    "description": "Startup studios · 3 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nMay 22, 2022\n3 stories\nShare\nIn\nThe Startup\nby\nDianna Lesage\nIn\nFutu"
+  },
+  {
+    "id": "81fb98cea4b88be08510db89574280fc821f2901",
+    "url": "https://medium.com/@xuanhuy238/list/f83374e2d247",
+    "title": "List: Strategy | Curated by Ngô Xuân Huy | Medium",
+    "description": "Strategy · 11 stories on Medium",
+    "text": "Sign up\nSign in\nSign up\nSign in\nOct 23, 2023\n11 stories\n1 save\nShare\nMaddie Wang\nIn\nOrgTopologies™\nb"
+  },
+  {
+    "id": "bf501fe35f1e782c4c63fc036087771ca75c36e3",
+    "url": "https://soundcloud.com/download/iphone",
+    "title": "Download the SoundCloud Mobile App",
+    "description": "Listen to music on your mobile by downloading the SoundCloud Mobile app, available on iOS and Androi",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nDownload the official apps or"
+  },
+  {
+    "id": "15dfc91b58816ee2f72f3c52672a60b9ce2a19df",
+    "url": "https://soundcloud.com/download",
+    "title": "Download the SoundCloud Mobile App",
+    "description": "Listen to music on your mobile by downloading the SoundCloud Mobile app, available on iOS and Androi",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nDownload the official apps or"
+  },
+  {
+    "id": "0b06d8fec408f22349bc6dde78a734e9401cd678",
+    "url": "https://soundcloud.com/download/android",
+    "title": "Download the SoundCloud Mobile App",
+    "description": "Listen to music on your mobile by downloading the SoundCloud Mobile app, available on iOS and Androi",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nDownload the official apps or"
+  },
+  {
+    "id": "62acc430c65e715a0e67df512f22fc245b6288a8",
+    "url": "https://soundcloud.com/upload",
+    "title": "Upload your music & audio and share it with the world.",
+    "description": "",
+    "text": "JavaScript is disabled\nYou need to enable JavaScript to use SoundCloud\nEvery day, million of creator"
+  },
+  {
+    "id": "6ed38357eba9086e34b91710638505fede92ba40",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/api/",
+    "title": "Adobe Analytics 1.4 API Reference",
+    "description": "All API calls that you can make using the Analytics 1.4 API.",
+    "text": ""
+  },
+  {
+    "id": "738723c5f811e9ee1468e23993b5ee9487955311",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/",
+    "title": "Getting started with the Analytics API",
+    "description": "Learn the first steps that you can take to start using the Analytics API.",
+    "text": "Before using the Analytics 1.4 APIs, follow these steps:\nBefore starting to use the Analytics API, y"
+  },
+  {
+    "id": "141167caf7219fba004f4a5a6eabb69adbe51629",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/bookmark/",
+    "title": "",
+    "description": "",
+    "text": "Allows you to create, edit, or delete bookmarks.\nRetrieves a list of bookmarks for the authenticated"
+  },
+  {
+    "id": "dd7b0708b0d179f9ce9ec2f9a20df794c2107154",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/",
+    "title": "",
+    "description": "",
+    "text": "Allows administrators to perform actions typically done within the Adobe Analytics Admin Console. Ac"
+  },
+  {
+    "id": "6464da0db8a7f0cf1b5ff9f36c4e42f1133e6d63",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/company/",
+    "title": "",
+    "description": "",
+    "text": "Allows you to change company settings.\nRetrieves the endpoint for the specified company where API ca"
+  },
+  {
+    "id": "bdf5d90dbf9e0b1b7686d7e30ac87cd1301efedf",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/",
+    "title": "",
+    "description": "",
+    "text": "Create report suites, or edit/delete report suite settings.\nCreates a report suite.\n.css-1h1nkjb{fon"
+  },
+  {
+    "id": "f36c0a119e3a0ff07f00f1f68195779c4e959f38",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/data-types/",
+    "title": "",
+    "description": "",
+    "text": "Data types used in the 1.4 Admin API.\nData structure that contains information about a calculated me"
+  },
+  {
+    "id": "7c7dc5aef930ccf9cc834bfc423ad7a0ff1f3bdc",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/delete/",
+    "title": "",
+    "description": "",
+    "text": ".css-1h1nkjb{font-family:Courier,monospace;font-size:0.98rem;background-color:var(--spectrum-global-"
+  },
+  {
+    "id": "c88d4a59b096bad74b282b8bd528be9fa4df5046",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/get/",
+    "title": "",
+    "description": "",
+    "text": ".css-1h1nkjb{font-family:Courier,monospace;font-size:0.98rem;background-color:var(--spectrum-global-"
+  },
+  {
+    "id": "54e6c62b1044413deb1be12b47f8f7063e95bf49",
+    "url": "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/save/",
+    "title": "",
+    "description": "",
+    "text": ".css-1h1nkjb{font-family:Courier,monospace;font-size:0.98rem;background-color:var(--spectrum-global-"
+  },
+  {
+    "id": "5abadaa5af53b9bb718cb2656cc308b18c71265f",
+    "url": "https://www.cnn.com/sport/live-news/golf-ryder-cup-saturday-live-updates",
+    "title": "Ryder Cup Day 2: Team USA looking to make a comeback after Europe’s dream start | CNN",
+    "description": "Follow CNN Sports’ live updates from the second day of the Ryder Cup from Bethpage Black.",
+    "text": "Live Updates\n• Day 2 of the Ryder Cup: Team Europe is up by three points, 5.5-2.5, going into the se"
+  },
+  {
+    "id": "be6e68cdadff14ec846f4ac302845e4018e70481",
+    "url": "https://www.cnn.com/2025/09/27/world/video/colombia-petro-us-visa-revoke-digvid",
+    "title": "US revokes Colombian president’s visa | CNN",
+    "description": "The United States announced it would cancel the visa of Colombia’s President Gustavo Petro on Friday",
+    "text": "The United States announced it would cancel the visa of Colombia’s President Gustavo Petro on Friday"
+  },
+  {
+    "id": "2f553c85fdd8ed343c69e2f37850f664d0f549d6",
+    "url": "https://www.cnn.com/2025/09/27/europe/i-am-charlie-hebdo-kirk-shooting-free-speech-intl",
+    "title": "10 years ago ‘I am Charlie’ was born. Now it means something very different | CNN",
+    "description": "After terrorists’ bullets tore through the staff of France’s satirical magazine Charlie Hebdo magazi",
+    "text": "After terrorists’ bullets tore through the staff of France’s satirical magazine Charlie Hebdo magazi"
+  },
+  {
+    "id": "f0b79e2041cc00dd81424003cb1650b760ada435",
+    "url": "https://www.cnn.com/2025/09/27/travel/travel-news-best-connected-airports-2025",
+    "title": "Chicago and Atlanta climb rankings of the world’s most connected airports | CNN",
+    "description": "In our roundup of travel news this week: the world’s coolest neighborhoods, best cities for young pe",
+    "text": "Sign up for Unlocking the World, CNN Travel’s weekly newsletter. Get news about destinations, plus t"
+  },
+  {
+    "id": "6bd1f19c525494b5cb3f3b7ed169d03c3524dd6c",
+    "url": "https://www.cnn.com/2025/09/27/sport/golf-ryder-cup-fans",
+    "title": "How singing fans give the Ryder Cup its rhythm | CNN",
+    "description": "There is no such thing as a polite golf clap at the Ryder Cup — the noise from the galleries can be ",
+    "text": "There is no such thing as a polite golf clap at the Ryder Cup — the noise from the galleries can be "
+  },
+  {
+    "id": "b570125669165e51e6182b8c51600bfdc421a9e8",
+    "url": "https://www.cnn.com/2025/09/27/americas/us-revokes-colombia-president-visa-petro-intl-hnk",
+    "title": "US revokes visa of Colombia’s Petro after he called on soldiers to disobey Trump | CNN",
+    "description": "The United States announced it would cancel the visa of Colombia’s President Gustavo Petro on Friday",
+    "text": "The United States announced it would cancel the visa of Colombia’s President Gustavo Petro on Friday"
+  },
+  {
+    "id": "1511d96147dae0149be546e24a186fc543f6ef4e",
+    "url": "https://www.cnn.com/2025/09/27/china/russia-china-military-agreement-intl-hnk",
+    "title": "Russia will equip and train Chinese air battalion, leaked documents reviewed by think tank show | CN",
+    "description": "Russia has agreed to help China equip and train an airborne battalion, according to leaked documents",
+    "text": "Russia has agreed to help China equip and train an airborne battalion, according to leaked documents"
+  },
+  {
+    "id": "49162f121f8ec01ffed6c772bf93420c015d022f",
+    "url": "https://www.cnn.com/2025/09/27/us/housing-costs-affordability-metro-areas-vis",
+    "title": "Buying a home isn’t affordable in many metro areas. What about yours? | CNN",
+    "description": "The cost of owning a home in the US has surged since the Covid-19 pandemic. What are the trends in y",
+    "text": "The cost of owning a home in the US has surged since the Covid-19 pandemic. The median home price in"
+  },
+  {
+    "id": "08e672951ee4082579e5d52fbb086916fe780b42",
+    "url": "https://www.cnn.com/2025/09/27/health/weddings-essay-wellness",
+    "title": "I have been in 8 weddings, then had my own, and here is what I learned | CNN",
+    "description": "Weddings have a reputation for being the best day of your life or the worst. As someone who has been",
+    "text": "Not quite 27 dresses, but I have worn plenty of formal wear in my adult life.\nIn the past three year"
+  },
+  {
+    "id": "ef11d4f4d806a1db75828fdef59dc7fd7f47e7fe",
+    "url": "https://www.cnn.com/2025/09/27/politics/fact-check-tylenol-autism-trump",
+    "title": "Fact check: What you need to know about Trump’s misinformation about vaccines, autism and hepatitis ",
+    "description": "President Donald Trump’s Monday comments about autism and public health were filled with misinformat",
+    "text": "President Donald Trump’s Monday comments about autism and public health were filled with misinformat"
+  },
+  {
+    "id": "f7827dcfe106a2a8db4c7a7677d5928216b83eba",
+    "url": "https://www.android.com/intl/en_ie/ai/",
+    "title": "AI on Android: AI-enabled features for your phone | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant; Circle to Search",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, Android AI assist"
+  },
+  {
+    "id": "31462d00b8f819d96b3ae7d32ed1e6773e1fd264",
+    "url": "https://www.android.com/intl/en_ca/ai/",
+    "title": "AI on Android: Features, apps and your AI assistant | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant; Circle to Search",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, Android AI assist"
+  },
+  {
+    "id": "633fc0f39c53d833a7729bc3b8bb61f779cd5fad",
+    "url": "https://www.android.com/intl/en_nz/ai/",
+    "title": "AI on Android: AI-enabled features for your phone | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant; Circle to Search",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, Android AI assist"
+  },
+  {
+    "id": "0665c650b8b8718856cc92ce5456ed1c9765890c",
+    "url": "https://www.android.com/intl/en_hk/ai/",
+    "title": "AI on Android: Features, apps and your AI assistant | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant; Circle to Search",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, AI assistance is "
+  },
+  {
+    "id": "7f2a236ae338cb97a89c6012f5f261deddd5a094",
+    "url": "https://www.android.com/intl/en_in/ai/",
+    "title": "AI on Android: Features, Apps & Your AI Assistant | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant, Circle to Search",
+    "text": "Whether you need decoration advice for an event’s theme or help doubling a recipe, AI assistance is "
+  },
+  {
+    "id": "ac35e9467d7983154d8ab9afbfe8eea3e7a9765d",
+    "url": "https://www.android.com/intl/en_ph/ai/",
+    "title": "AI on Android: AI-enabled features for your phone | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant; Circle to Search",
+    "text": "Whether you need decoration advice for an event's theme or help doubling a recipe, AI assistance is "
+  },
+  {
+    "id": "02b767e70a0f0196f430a65c9cdbd3c6bd7de546",
+    "url": "https://www.android.com/intl/en_uk/ai/",
+    "title": "AI on Android: AI-enabled Features For Your Phone | Android",
+    "description": "Explore the latest AI features on Android, like Gemini, your personal AI assistant, Circle to Search",
+    "text": "Google Gemini: Free for students 1 year pro plan. Terms Apply. Sign up now.\nWhether you need decorat"
+  },
+  {
+    "id": "6e77a63fab0c34da5fa90d7d51cc6631fe753a23",
+    "url": "https://www.android.com/intl/es-419_mx/ai/",
+    "title": "IA en Android: funciones, apps y tu asistente de IA | Android",
+    "description": "Explora las funciones basadas en IA más recientes en Android, como Gemini, tu asistente de IA person",
+    "text": "Ya sea que necesites consejos de decoración para el tema de un evento o ayuda para duplicar los ingr"
+  },
+  {
+    "id": "2606bf0935b7352a6b83a55ed42bedc0653ed4c5",
+    "url": "https://www.android.com/intl/es_es/ai/",
+    "title": "La IA en Android: funciones, aplicaciones y tu asistente de IA | Android",
+    "description": "Descubre las últimas funciones de IA en Android, como Gemini, tu asistente de IA personal, o Rodea p",
+    "text": "La asistencia por IA es ahora más versátil que nunca, pues te puede ayudar a decorar un evento o a d"
+  },
+  {
+    "id": "c79408a3ea0fe4c075a36d765df02ae2cf077504",
+    "url": "https://www.android.com/intl/es_us/ai/",
+    "title": "La IA en Android: funciones, aplicaciones y tu asistente de IA | Android",
+    "description": "Descubre las últimas funciones de IA en Android, como Gemini, tu asistente de IA personal, o Rodea p",
+    "text": "Ya sea que necesites consejos de decoración para organizar un evento o ayuda para seguir una receta,"
   }
 ]
