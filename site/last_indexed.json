@@ -15818,11 +15818,11 @@
     ]
   },
   "dbankcloud.cn": {
-    "lastAt": 1758718084204,
+    "lastAt": 1759079816928,
     "urls": []
   },
   "bild.de": {
-    "lastAt": 1758718088246,
+    "lastAt": 1759079821121,
     "urls": [
       "https://www.bild.de/unterhaltung/gluecksgefuehle-festival-am-hockenheimring-ausverkauft-poldi-und-krampe-sind-die-gluecklich-macher-68c2ff5c0b16317851624556",
       "https://bild.de/",
@@ -15863,29 +15863,39 @@
       "https://www.bild.de/sport/fussball/insider-klaert-auf-real-legende-raul-neuer-trainer-von-borussia-moenchengladbach-68d3e428f690fb3eb9734f7c",
       "https://www.bild.de/regional/hamburg/unfall-in-hamburg-e-scooter-fahrerin-bei-lkw-schwer-verletzt-68d3e74e4a958e24fe6c09df",
       "https://www.bild.de/regional/baden-wuerttemberg/unfallflucht-auf-a5-fahrer-prallt-gegen-schutzplanke-68d3e68f6199625f8c0fbbc5",
-      "https://www.bild.de/sport/fussball/fuer-105-000-fans-giganten-stadion-in-europa-kurz-vor-eroeffnung-68d3bca4f690fb3eb9734b3e"
+      "https://www.bild.de/sport/fussball/fuer-105-000-fans-giganten-stadion-in-europa-kurz-vor-eroeffnung-68d3bca4f690fb3eb9734b3e",
+      "https://www.bild.de/news/ausland/attentat-in-grand-blanc-auto-rammt-kirche-und-schuesse-fallen-68d95d9e3204c86ca0ddbebb",
+      "https://www.bild.de/sport/mehr-sport/kanuslalom-auf-flug-verschollen-paddel-aerger-um-olympia-heldin-ricarda-funk-68d8dfef88300c7476b99cbf",
+      "https://www.bild.de/sport/fussball/fcn-der-knoechel-sorgen-um-markhiev-68d94c3c88300c7476b9a3ab",
+      "https://www.bild.de/politik/live-ticker-zu-wahlen-bekommt-heute-nrw-den-1-afd-buergermeister-68d947df0ce4b25e2dca2dc8",
+      "https://www.bild.de/regional/berlin/rekord-in-brandenburg-ueber-1000-kilo-sie-haben-den-schwersten-kuerbis-68d96c603204c86ca0ddbf97",
+      "https://www.bild.de/sport/fussball/hsvvuskovic-ich-habe-den-bossen-gesagt-ich-moechte-hier-spielen-68d6a83651eff902da7b754c",
+      "https://www.bild.de/sport/mehr-sport/dublin-drama-bei-nfl-premiere-zwischen-steelers-und-vikings-68d913d90ce4b25e2dca2b22",
+      "https://www.bild.de/sport/fussball/fcn-0-3-gegen-hertha-klose-und-der-fcn-zurueck-in-der-krise-68d935990ce4b25e2dca2cef",
+      "https://www.bild.de/sport/mehr-sport/bbl-auftakt-jetzt-live-vizemeister-ulm-empfaengt-chemnitz-68d7d07a88300c7476b9928b",
+      "https://www.bild.de/news/ausland/neuer-raubsaurier-entdeckt-der-kroko-killer-mit-monster-klauen-68d53d5d0356251aa91fa874"
     ]
   },
   "staples.com": {
-    "lastAt": 1758718157051,
+    "lastAt": 1759079889933,
     "urls": []
   },
   "princeton.edu": {
-    "lastAt": 1758718163242,
+    "lastAt": 1759079895941,
     "urls": [
       "https://princeton.edu/"
     ]
   },
   "tplinknbu.com": {
-    "lastAt": 1758718166328,
+    "lastAt": 1759079899224,
     "urls": []
   },
   "discogs.com": {
-    "lastAt": 1758718170046,
+    "lastAt": 1759079902951,
     "urls": []
   },
   "synology.com": {
-    "lastAt": 1758718175437,
+    "lastAt": 1759079913392,
     "urls": [
       "https://www.synology.com/DSM72",
       "https://www.synology.com/da-dk/DSM72",
@@ -15926,11 +15936,21 @@
       "https://www.synology.com/en-me/apm/1.0/software_spec/apm",
       "https://www.synology.com/fr-fr/DSM72",
       "https://www.synology.com/apm/1.0/software_spec/apm",
-      "https://www.synology.com/en-id/apm/1.0/software_spec/apm"
+      "https://www.synology.com/en-id/apm/1.0/software_spec/apm",
+      "https://www.synology.com/da-dk/apm/1.0/software_spec/apm",
+      "https://www.synology.com/zh-hk/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-my/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-sg/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-ph/apm/1.0/software_spec/apm",
+      "https://www.synology.com/cs-cz/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-ro/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-eu/apm/1.0/software_spec/apm",
+      "https://www.synology.com/en-nz/apm/1.0/software_spec/apm",
+      "https://www.synology.com/vi-vn/apm/1.0/software_spec/apm"
     ]
   },
   "agoda.com": {
-    "lastAt": 1758718182273,
+    "lastAt": 1759079920583,
     "urls": [
       "https://www.agoda.com/country/monaco.html",
       "https://www.agoda.com/world.html",
@@ -15971,23 +15991,34 @@
       "https://www.agoda.com/country/guatemala.html",
       "https://www.agoda.com/country/jamaica.html",
       "https://www.agoda.com/country/new-caledonia.html",
-      "https://www.agoda.com/country/kuwait.html"
+      "https://www.agoda.com/country/kuwait.html",
+      "https://www.agoda.com/country/haiti.html",
+      "https://www.agoda.com/country/turks-caicos-islands.html",
+      "https://www.agoda.com/country/turkey.html",
+      "https://www.agoda.com/country/antigua-barbuda.html",
+      "https://www.agoda.com/country/sweden.html",
+      "https://www.agoda.com/country/albania.html",
+      "https://www.agoda.com/country/ecuador.html",
+      "https://www.agoda.com/country/switzerland.html",
+      "https://www.agoda.com/country/iceland.html",
+      "https://www.agoda.com/country/tunisia.html"
     ]
   },
   "themeforest.net": {
-    "lastAt": 1758718191275,
+    "lastAt": 1759079929620,
     "urls": [
-      "https://themeforest.net/"
+      "https://themeforest.net/",
+      "https://themeforest.net/category/site-templates"
     ]
   },
   "deltaork.com": {
-    "lastAt": 1758718191743,
+    "lastAt": 1759079930458,
     "urls": [
       "https://deltaork.com/"
     ]
   },
   "edna.ru": {
-    "lastAt": 1758718201051,
+    "lastAt": 1759079939341,
     "urls": [
       "https://edna.ru/news/",
       "https://edna.ru/news/kakie-tehnologii-pomogayut-ne-dopustit-moshennichestva-s-dublirovaniem-esim-i-krazhi-deneg-v-onlajn-banke/",
@@ -16028,11 +16059,21 @@
       "https://edna.ru/news/kak-kombinirovat-telefoniyu-i-tekstovye-kanaly-dlya-povysheniya-konversii-v-lidy/",
       "https://edna.ru/news/edna-uchastvuet-v-russian-retail-show/",
       "https://edna.ru/news/kak-zakryt-godovye-plany-prodazh-s-whatsapp-business-api/",
-      "https://edna.ru/news/s-nastupayushhim-novym-godom-vspomnim-kakim-byl-nash-2023-s-whatsapp-business-api/"
+      "https://edna.ru/news/s-nastupayushhim-novym-godom-vspomnim-kakim-byl-nash-2023-s-whatsapp-business-api/",
+      "https://edna.ru/news/kak-netochnosti-v-crm-privodyat-k-tomu-chto-kompanii-teryayut-dengi-i-est-li-reshenie-problemy/",
+      "https://edna.ru/news/kak-chat-pomogaet-dodo-piczcze-bystree-otvechat-na-voprosy-i-reshat-problemy-klientov/",
+      "https://edna.ru/news/aktualnye-resheniya-dlya-biznesa-kompaniya-edna-predstavila-platformu-dlya-omnikanalnoj-kommunikaczii-na-ccwf-2020/",
+      "https://edna.ru/news/10-sovetov-kak-podgotovitsya-k-chernoj-pyatnicze-i-novomu-godu-s-whatsapp/",
+      "https://edna.ru/news/novoe-slovo-na-rynke-didzhital-kommunikaczij-rassylka-netranzakczionnyh-soobshhenij-v-whatsapp-business-api/",
+      "https://edna.ru/news/otvechat-za-30-sekund-i-pomogat-zakupatsya-vprok-edna-podklyuchila-czifrovye-kanaly-dlya-onlajn-gipermarketa-vprok-ru-perekrestok/",
+      "https://edna.ru/news/motivirujte-klientov-na-povtornye-zakazy-i-podnimajte-prodazhi-s-rassylkami-whatsapp/",
+      "https://edna.ru/news/edna-primet-uchastie-v-vebinare-ot-yandeks-supportai/",
+      "https://edna.ru/news/integracziya-chat-czentra-edna-s-mis-infoklinika-pozvolila-sokratit-vremya-ozhidaniya-otveta-operatorov-kontakt-czentra/",
+      "https://edna.ru/news/edna-predstavila-novye-servisy-dlya-e-commerce-na-mezhdunarodnom-plas-forume-onlineoffline-retail/"
     ]
   },
   "figma.com": {
-    "lastAt": 1758718204308,
+    "lastAt": 1759079942842,
     "urls": [
       "https://www.figma.com/",
       "https://www.figma.com/contact/",
@@ -16073,11 +16114,21 @@
       "https://www.figma.com/customers/how-sap-uses-figma-for-collaboration/",
       "https://www.figma.com/customers/sprints-with-stripe/",
       "https://www.figma.com/resource-library/team-charter/",
-      "https://www.figma.com/customers/how-sorare-scaled-up-asset-production/"
+      "https://www.figma.com/customers/how-sorare-scaled-up-asset-production/",
+      "https://www.figma.com/solutions/ai-education-website-builder/",
+      "https://www.figma.com/customers/how-datadog-built-enterprise-platform-scaling-design-system/",
+      "https://www.figma.com/customers/figma-is-a-game-changer-for-renowned-design-studio-moving-brands/",
+      "https://www.figma.com/customers/how-carta-evolved-their-brand/",
+      "https://www.figma.com/prototyping/",
+      "https://www.figma.com/best-practices/tips-on-developer-handoff/",
+      "https://www.figma.com/best-practices/tips-for-a-better-developer-workflow/",
+      "https://www.figma.com/solutions/ai-product-website-builder/",
+      "https://www.figma.com/customers/ruggable-reimagines-design-to-development-10x-faster-with-figma/",
+      "https://www.figma.com/webinars/design-dev-collab/"
     ]
   },
   "digitalocean.com": {
-    "lastAt": 1758718210132,
+    "lastAt": 1759079945502,
     "urls": [
       "https://digitalocean.com/",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-install-apache-tomcat",
@@ -16118,21 +16169,31 @@
       "https://www.digitalocean.com/community/tutorial-collections/how-to-move-a-mysql-data-directory-to-a-new-location",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-install-r",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-set-up-vsftpd-for-a-user-s-directory",
-      "https://www.digitalocean.com/community/tutorial-collections/install-wordpress-on-lamp"
+      "https://www.digitalocean.com/community/tutorial-collections/install-wordpress-on-lamp",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-configure-vnc",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-git",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-docker-compose",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-configure-postfix",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-set-up-nginx-with-http-2-support",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-jenkins",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-python-3-and-set-up-a-programming-environment",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-configure-gitlab",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-configure-jenkins-with-ssl-using-an-nginx-reverse-proxy",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-hadoop-in-stand-alone-mode"
     ]
   },
   "nintendo.net": {
-    "lastAt": 1758718213231,
+    "lastAt": 1759079948562,
     "urls": []
   },
   "onet.pl": {
-    "lastAt": 1758718217528,
+    "lastAt": 1759079950973,
     "urls": [
       "https://onet.pl/"
     ]
   },
   "networkadvertising.org": {
-    "lastAt": 1758718223519,
+    "lastAt": 1759079955542,
     "urls": [
       "https://thenai.org/policy-news/blog/",
       "https://thenai.org/advertisers-claim-iphones-new-anti-tracking-tech-will-lead-to-dramatic-decrease-in-free-apps/",
@@ -16173,19 +16234,29 @@
       "https://thenai.org/daa-begins-onboarding-publishers-seeking-to-use-its-ccpa-opt-out-tools/",
       "https://thenai.org/daa-begins-onboarding-companies-to-use-ccpa-opt-out-tools/",
       "https://thenai.org/privacy-for-america-sends-letter-to-congressional-leadership/",
-      "https://thenai.org/nais-2020-code-effective-january-1-along-with-ccpa-2/"
+      "https://thenai.org/nais-2020-code-effective-january-1-along-with-ccpa-2/",
+      "https://thenai.org/ad-regulator-issues-guidance-on-consent-for-data-sharing/",
+      "https://thenai.org/ad-industry-asks-california-to-scrap-extralegal-do-not-track-mandate/",
+      "https://thenai.org/nai-establishes-guidelines-for-opt-in-consent-in-apps/",
+      "https://thenai.org/nai-issues-new-guidance-for-consumer-consent/",
+      "https://thenai.org/ad-industry-coalition-offers-detailed-framework-for-federal-privacy-law/",
+      "https://thenai.org/new-york-city-to-consider-banning-sale-of-cellphone-location-data/",
+      "https://thenai.org/nai-expands-requirements-for-sensor-data-collection-bans-behavioral-targeting-of-users/",
+      "https://thenai.org/nai-expands-requirements-for-sensor-data-collection-bans-behavioral-targeting-of-users-2/",
+      "https://thenai.org/nai-publishes-2020-code-of-conduct/",
+      "https://thenai.org/nai-bans-behavioral-targeting-of-users-under-16/"
     ]
   },
   "ctdns.cn": {
-    "lastAt": 1758718232649,
+    "lastAt": 1759079959654,
     "urls": []
   },
   "markmonitor.com": {
-    "lastAt": 1758718236202,
+    "lastAt": 1759079962851,
     "urls": []
   },
   "smartthings.com": {
-    "lastAt": 1758718240238,
+    "lastAt": 1759079967123,
     "urls": [
       "https://smartthings.com/",
       "https://partners.smartthings.com/partners/a-d-medical",
@@ -16226,29 +16297,39 @@
       "https://partners.smartthings.com/partners/chameleon",
       "https://partners.smartthings.com/partners/chengdu-energy-magic-cube",
       "https://partners.smartthings.com/partners/cielo",
-      "https://partners.smartthings.com/partners/cleantech"
+      "https://partners.smartthings.com/partners/cleantech",
+      "https://partners.smartthings.com/partners/copper",
+      "https://partners.smartthings.com/partners/commercial-electric",
+      "https://partners.smartthings.com/partners/cuchen",
+      "https://partners.smartthings.com/partners/curb",
+      "https://partners.smartthings.com/partners/cync",
+      "https://partners.smartthings.com/partners/dacor",
+      "https://partners.smartthings.com/partners/daewoo",
+      "https://partners.smartthings.com/partners/danalock",
+      "https://partners.smartthings.com/partners/danfoss",
+      "https://partners.smartthings.com/partners/dome"
     ]
   },
   "midea.com.cn": {
-    "lastAt": 1758718255014,
+    "lastAt": 1759079975977,
     "urls": []
   },
   "mailchi.mp": {
-    "lastAt": 1758718255805,
+    "lastAt": 1759079976578,
     "urls": [
       "https://mailchi.mp/"
     ]
   },
   "cdnhwc2.com": {
-    "lastAt": 1758718260836,
+    "lastAt": 1759079981669,
     "urls": []
   },
   "samsungosp.com": {
-    "lastAt": 1758718265382,
+    "lastAt": 1759079986902,
     "urls": []
   },
   "cursor.sh": {
-    "lastAt": 1758718268062,
+    "lastAt": 1759079989137,
     "urls": [
       "https://cursor.sh/",
       "https://cursor.com/en/cookie-table",
@@ -16289,11 +16370,21 @@
       "https://cursor.com/docs/account/teams/setup",
       "https://cursor.com/docs/agent/chat/checkpoints",
       "https://cursor.com/docs/agent/chat/commands",
-      "https://cursor.com/docs/account/update-access"
+      "https://cursor.com/docs/account/update-access",
+      "https://cursor.com/docs/agent/chat/compact",
+      "https://cursor.com/docs/agent/chat/summarization",
+      "https://cursor.com/docs/agent/chat/history",
+      "https://cursor.com/docs/agent/chat/duplicate",
+      "https://cursor.com/docs/agent/chat/export",
+      "https://cursor.com/docs/agent/chat/tabs",
+      "https://cursor.com/docs/agent/hooks",
+      "https://cursor.com/docs/agent/modes",
+      "https://cursor.com/docs/agent/overview",
+      "https://cursor.com/docs/agent/planning"
     ]
   },
   "name.com": {
-    "lastAt": 1758718272440,
+    "lastAt": 1759079992360,
     "urls": [
       "https://www.name.com/",
       "https://www.name.com/titan-email",
@@ -16334,11 +16425,21 @@
       "https://www.name.com/purchase/hosting",
       "https://www.name.com/wordpress-hosting",
       "https://www.name.com/ssl",
-      "https://www.name.com/cloud-hosting"
+      "https://www.name.com/cloud-hosting",
+      "https://www.name.com/ssl-solutions",
+      "https://www.name.com/hosting-solutions",
+      "https://www.name.com/website-builder",
+      "https://www.name.com/email-solutions",
+      "https://www.name.com/investors",
+      "https://www.name.com/affiliates",
+      "https://www.name.com/aboutus",
+      "https://www.name.com/careers",
+      "https://www.name.com/newsroom",
+      "https://www.name.com/good"
     ]
   },
   "youku.com": {
-    "lastAt": 1758718280327,
+    "lastAt": 1759080000126,
     "urls": [
       "https://youku.tv/",
       "https://youku.com/",
@@ -16369,23 +16470,33 @@
       "https://youku.tv/channel/webchild?lang=th_TH",
       "https://youku.tv/channel/webculture?lang=th_TH",
       "https://youku.tv/channel/webtv?lang=in_ID",
-      "https://youku.tv/channel/webmovie?lang=in_ID"
+      "https://youku.tv/channel/webmovie?lang=in_ID",
+      "https://youku.tv/channel/webcomic?lang=in_ID",
+      "https://youku.tv/channel/webchild?lang=in_ID",
+      "https://youku.tv/channel/webzy?lang=in_ID",
+      "https://youku.tv/channel/webculture?lang=in_ID",
+      "https://youku.tv/channel/webtv?lang=es_ES",
+      "https://youku.tv/channel/webzy?lang=es_ES",
+      "https://youku.tv/channel/webcomic?lang=es_ES",
+      "https://youku.tv/channel/webchild?lang=es_ES",
+      "https://youku.tv/channel/webmovie?lang=es_ES",
+      "https://youku.tv/channel/webculture?lang=es_ES"
     ]
   },
   "threads.com": {
-    "lastAt": 1758720686251,
+    "lastAt": 1759080000975,
     "urls": [
       "https://threads.com/"
     ]
   },
   "otto.de": {
-    "lastAt": 1758720688770,
+    "lastAt": 1759080003359,
     "urls": [
       "https://otto.de/"
     ]
   },
   "intentiq.com": {
-    "lastAt": 1758720692683,
+    "lastAt": 1759080009886,
     "urls": [
       "https://www.intentiq.com/soapbox-innovation-now-for-a-cookie-less-future-logins-are-not-the-answer/",
       "https://www.intentiq.com/blog/",
@@ -16430,7 +16541,7 @@
     ]
   },
   "fbsbx.com": {
-    "lastAt": 1758720696128,
+    "lastAt": 1759080013351,
     "urls": []
   },
   "onesignal.com": {
