@@ -9844,7 +9844,7 @@
     "urls": []
   },
   "target.com": {
-    "lastAt": 1758678394383,
+    "lastAt": 1759043932681,
     "urls": [
       "https://www.target.com/s/1+inch+curling+iron",
       "https://www.target.com/s/1+ounce+mason+jars",
@@ -9885,15 +9885,25 @@
       "https://www.target.com/s/10x13+frame+11x14",
       "https://www.target.com/s/10x10+outdoor+carpet",
       "https://www.target.com/s/10x13+outdoor+rugs",
-      "https://www.target.com/s/10x10+outdoor+canopy+tents"
+      "https://www.target.com/s/10x10+outdoor+canopy+tents",
+      "https://www.target.com/s/11+ft+christmas+tree",
+      "https://www.target.com/s/10x13+photo+prints",
+      "https://www.target.com/s/10x13+rugs",
+      "https://www.target.com/s/10x20+dog+kennel",
+      "https://www.target.com/s/10x14+rugs",
+      "https://www.target.com/s/11+inch+depth+microwave",
+      "https://www.target.com/s/110+volt+clothes+dryer",
+      "https://www.target.com/s/11x14+diploma+frame",
+      "https://www.target.com/s/11x11+fabric+storage+bins",
+      "https://www.target.com/s/11x14+floating+frame"
     ]
   },
   "alicdn.com": {
-    "lastAt": 1758678453231,
+    "lastAt": 1759043991539,
     "urls": []
   },
   "dynatrace.com": {
-    "lastAt": 1758678457155,
+    "lastAt": 1759043993985,
     "urls": [
       "https://www.dynatrace.com/",
       "https://dynatrace.com/",
@@ -9934,17 +9944,27 @@
       "https://www.dynatrace.com/info/aiops-strategy/",
       "https://www.dynatrace.com/customers/rack-room-shoes/",
       "https://www.dynatrace.com/customers/ip-australia/",
-      "https://www.dynatrace.com/info/sre-report/"
+      "https://www.dynatrace.com/info/sre-report/",
+      "https://www.dynatrace.com/customers/clario/",
+      "https://www.dynatrace.com/info/ebooks/opentelemetry/",
+      "https://www.dynatrace.com/customers/abercrombie-and-fitch/",
+      "https://www.dynatrace.com/info/ebooks/serverless-computing/",
+      "https://www.dynatrace.com/info/ebooks/modern-cloud-observability/",
+      "https://www.dynatrace.com/customers/keybank/",
+      "https://www.dynatrace.com/info/ebooks/deliver-better-services/",
+      "https://www.dynatrace.com/customers/u-haul/",
+      "https://www.dynatrace.com/customers/bt/",
+      "https://www.dynatrace.com/info/ebooks/application-performance-monitoring-roadmap/"
     ]
   },
   "sina.com.cn": {
-    "lastAt": 1758678466380,
+    "lastAt": 1759044000648,
     "urls": [
       "https://sina.com.cn/"
     ]
   },
   "intercom.io": {
-    "lastAt": 1758678469756,
+    "lastAt": 1759044004519,
     "urls": [
       "https://www.intercom.com/suite",
       "https://www.intercom.com/pricing",
@@ -9981,15 +10001,24 @@
       "https://www.intercom.com/customers/lightspeed-fin",
       "https://www.intercom.com/customers/lightspeed",
       "https://www.intercom.com/customers/livestorm",
-      "https://www.intercom.com/customers/livingspaces"
+      "https://www.intercom.com/customers/livingspaces",
+      "https://www.intercom.com/customers/pantheon",
+      "https://www.intercom.com/customers/outschool",
+      "https://www.intercom.com/customers/peddle",
+      "https://www.intercom.com/customers/payshepherd",
+      "https://www.intercom.com/customers/perimeter-81",
+      "https://www.intercom.com/customers/put-io",
+      "https://www.intercom.com/customers/pitch",
+      "https://www.intercom.com/customers/ratemyagent",
+      "https://www.intercom.com/customers/rebag"
     ]
   },
   "hicloud.com": {
-    "lastAt": 1758678473063,
+    "lastAt": 1759044007848,
     "urls": []
   },
   "playstation.com": {
-    "lastAt": 1758678475712,
+    "lastAt": 1759044009975,
     "urls": [
       "https://www.playstation.com/es-ar/ps5/buy-now/",
       "https://www.playstation.com/es-ar/ps5/",
@@ -10030,11 +10059,21 @@
       "https://www.playstation.com/es-ar/games/concrete-genie/",
       "https://www.playstation.com/es-ar/games/contra-anniversary-collection/",
       "https://www.playstation.com/es-ar/games/control/",
-      "https://www.playstation.com/es-ar/games/code-vein/"
+      "https://www.playstation.com/es-ar/games/code-vein/",
+      "https://www.playstation.com/es-ar/games/connectank/",
+      "https://www.playstation.com/es-ar/games/cozy-grove/",
+      "https://www.playstation.com/es-ar/games/cogen-sword-of-rewind/",
+      "https://www.playstation.com/es-ar/games/conan-exiles/",
+      "https://www.playstation.com/es-ar/accessories/pulse-elevate-wireless-speakers/",
+      "https://www.playstation.com/es-ar/games/convergence/",
+      "https://www.playstation.com/es-ar/games/cosmonious-high/",
+      "https://www.playstation.com/es-ar/games/coffee-talk-episode-2--hibiscus---butterfly/",
+      "https://www.playstation.com/es-ar/games/cocoon/",
+      "https://www.playstation.com/es-ar/games/construction-simulator/"
     ]
   },
   "docker.com": {
-    "lastAt": 1758678481788,
+    "lastAt": 1759044016412,
     "urls": [
       "https://docker.com/",
       "https://www.docker.com/blog/",
@@ -10075,29 +10114,39 @@
       "https://www.docker.com/blog/docker-state-of-app-dev-dev-ex-productivity/",
       "https://www.docker.com/blog/building-an-ai-assistant-with-goose-and-docker-model-runner/",
       "https://www.docker.com/blog/docker-state-of-app-dev-security/",
-      "https://www.docker.com/blog/how-we-designed-model-runner-and-whats-next/"
+      "https://www.docker.com/blog/how-we-designed-model-runner-and-whats-next/",
+      "https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/",
+      "https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/",
+      "https://www.docker.com/blog/is-your-container-image-really-distroless/",
+      "https://www.docker.com/blog/docker-unikernels-open-source/",
+      "https://www.docker.com/blog/9-tips-for-containerizing-your-net-application/",
+      "https://www.docker.com/blog/docker-acquires-long-time-partner-infosiftr/",
+      "https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/",
+      "https://www.docker.com/blog/start-dev-environments-locally-compose-v2-rc-1-and-more-in-docker-desktop-3-6/",
+      "https://www.docker.com/blog/from-edge-to-mainstream-scaling-to-100k-iot-devices/",
+      "https://www.docker.com/blog/building-serverless-apps-with-docker/"
     ]
   },
   "360safe.com": {
-    "lastAt": 1758678540643,
+    "lastAt": 1759044075268,
     "urls": []
   },
   "awswaf.com": {
-    "lastAt": 1758678543648,
+    "lastAt": 1759044078196,
     "urls": []
   },
   "worldnic.com": {
-    "lastAt": 1758678602512,
+    "lastAt": 1759044137061,
     "urls": []
   },
   "163.com": {
-    "lastAt": 1758678607345,
+    "lastAt": 1759044140451,
     "urls": [
       "https://163.com/"
     ]
   },
   "tplinkcloud.com": {
-    "lastAt": 1758678608050,
+    "lastAt": 1759044141629,
     "urls": [
       "https://www.tplinkcloud.com/",
       "https://www.tplinkcloud.com/forgotpassword.php",
@@ -10106,13 +10155,13 @@
     ]
   },
   "rakuten.co.jp": {
-    "lastAt": 1758678626624,
+    "lastAt": 1759044159910,
     "urls": [
       "https://rakuten.co.jp/"
     ]
   },
   "hotjar.com": {
-    "lastAt": 1758678633258,
+    "lastAt": 1759044166777,
     "urls": [
       "https://www.hotjar.com/404-not-found/",
       "https://www.hotjar.com/",
@@ -10125,11 +10174,12 @@
       "https://www.hotjar.com/es/404-not-found/",
       "https://www.hotjar.com/ja/404-not-found/",
       "https://www.hotjar.com/partner-directory/datacrew/",
-      "https://www.hotjar.com/partner-directory/wisk-it/"
+      "https://www.hotjar.com/partner-directory/wisk-it/",
+      "https://www.hotjar.com/partner-directory/bonfire-studios/"
     ]
   },
   "newsweek.com": {
-    "lastAt": 1758678639013,
+    "lastAt": 1759044170254,
     "urls": [
       "https://www.newsweek.com/sports/nfl/vikings-kevin-oconnell-announces-major-life-update-jj-mccarthy-2128557",
       "https://www.newsweek.com/trumps-tricky-balancing-act-responding-charlie-kirks-assassination-2128558",
@@ -10160,11 +10210,21 @@
       "https://www.newsweek.com/sports/ncaa/how-watch-tulsa-vs-oklahoma-state-live-stream-ncaa-college-football-tv-channel-2131064",
       "https://www.newsweek.com/sports/betting/fanduel-promo-code-unlock-300-bonus-mlb-ncaaf-nfl-week-3-games-2132751",
       "https://www.newsweek.com/jimmy-kimmel-live-kicked-off-air-are-other-late-night-show-hosts-next-2132715",
-      "https://www.newsweek.com/sports/betting/betmgm-bonus-code-week150-get-150-bonus-ncaaf-mlb-nfl-week-3-games-2132732"
+      "https://www.newsweek.com/sports/betting/betmgm-bonus-code-week150-get-150-bonus-ncaaf-mlb-nfl-week-3-games-2132732",
+      "https://www.newsweek.com/sports/ncaa/how-watch-byu-colorado-live-stream-ncaa-college-football-tv-channel-2134427",
+      "https://www.newsweek.com/sports/ncaa/how-watch-idaho-montana-live-stream-ncaa-college-football-tv-channel-2134430",
+      "https://www.newsweek.com/sports/ncaa/how-watch-virginia-tech-nc-state-live-stream-ncaa-college-football-tv-channel-2134426",
+      "https://www.newsweek.com/sports/betting/bet365-bonus-code-week365-get-200-bonus-vikings-steelers-nfl-week-4-2134338",
+      "https://www.newsweek.com/sports/racing/whats-next-max-verstappen-after-his-stunning-gt3-victory-ferrari-2134392",
+      "https://www.newsweek.com/sports/racing/brad-keselowski-breaks-down-biggest-problem-hurting-nascars-finances-2134347",
+      "https://www.newsweek.com/sports/betting/betmgm-bonus-code-week150-claim-150-bonus-any-nfl-week-4-game-2134323",
+      "https://www.newsweek.com/sports/betting/draftkings-promo-code-nfl-week-4-here-claim-200-bonus-any-game-2134332",
+      "https://www.newsweek.com/sports/racing/jgr-scared-confronting-ty-gibbs-nascar-insider-opens-hamlin-clash-2134319",
+      "https://www.newsweek.com/sports/racing/romain-grosjeans-tearful-haas-f1-test-sparks-heartfelt-reactions-2134378"
     ]
   },
   "squarespace.com": {
-    "lastAt": 1758678641396,
+    "lastAt": 1759044172308,
     "urls": [
       "https://www.squarespace.com/",
       "https://squarespace.com/",
@@ -10205,17 +10265,27 @@
       "https://www.squarespace.com/templates/browse/topic/nature-animals/type/blog",
       "https://www.squarespace.com/templates/browse/topic/nature-animals/type/memberships",
       "https://www.squarespace.com/templates/browse/topic/popular-designs/type/one-page",
-      "https://www.squarespace.com/templates/browse/topic/home-decor/type/one-page"
+      "https://www.squarespace.com/templates/browse/topic/home-decor/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/all-templates/type/services",
+      "https://www.squarespace.com/templates/browse/topic/events/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/nature-animals/type/services",
+      "https://www.squarespace.com/templates/browse/topic/media-podcasts/type/services",
+      "https://www.squarespace.com/templates/browse/topic/weddings/type/scheduling",
+      "https://www.squarespace.com/templates/browse/topic/fitness/type/services",
+      "https://www.squarespace.com/templates/browse/topic/photography/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/fitness/type/memberships",
+      "https://www.squarespace.com/templates/browse/topic/travel/type/one-page",
+      "https://www.squarespace.com/templates/browse/topic/entertainment/type/services"
     ]
   },
   "rt.ru": {
-    "lastAt": 1758678644644,
+    "lastAt": 1759044176805,
     "urls": [
       "https://rt.ru/"
     ]
   },
   "buzzfeed.com": {
-    "lastAt": 1758678658798,
+    "lastAt": 1759044194390,
     "urls": [
       "https://www.buzzfeed.com/buzz/Scotts_Favorite_Trends_of_2007",
       "https://www.buzzfeed.com/buzz/Peggys_Favorite_Trends_of_2007",
@@ -10256,17 +10326,27 @@
       "https://www.buzzfeed.com/jp/yuitakahashi/nori-tamagoyaki",
       "https://www.buzzfeed.com/jp/yuitakahashi/umeq-udon",
       "https://www.buzzfeed.com/jp/mamikonakano/katsu-bowl",
-      "https://www.buzzfeed.com/jp/mamikonakano/oreo-cheesecake"
+      "https://www.buzzfeed.com/jp/mamikonakano/oreo-cheesecake",
+      "https://www.buzzfeed.com/jp/mamikonakano/baked-avocado",
+      "https://www.buzzfeed.com/jp/yuitakahashi/kurogoma-cheesecake",
+      "https://www.buzzfeed.com/jp/mamikonakano/shrimp-pasta",
+      "https://www.buzzfeed.com/jp/yuitakahashi/sumo-onigiri",
+      "https://www.buzzfeed.com/jp/yuitakahashi/unagi-onigirazu",
+      "https://www.buzzfeed.com/jp/scottloitsch/avocado-onion",
+      "https://www.buzzfeed.com/jp/yuitakahashi/mexican-okonomiyaki",
+      "https://www.buzzfeed.com/jp/scottloitsch/churros-ice-cream",
+      "https://www.buzzfeed.com/jp/mamikonakano/ice-cube",
+      "https://www.buzzfeed.com/jp/melissaharrison/onion-rings"
     ]
   },
   "amazontrust.com": {
-    "lastAt": 1758678683745,
+    "lastAt": 1759044219416,
     "urls": [
       "https://amazontrust.com/"
     ]
   },
   "surveymonkey.com": {
-    "lastAt": 1758678692403,
+    "lastAt": 1759044225692,
     "urls": [
       "https://www.surveymonkey.com/customers/woom/",
       "https://www.surveymonkey.com/customers/yu-ai-kai/",
@@ -10307,17 +10387,27 @@
       "https://www.surveymonkey.com/product/",
       "https://www.surveymonkey.com/product/features/create/",
       "https://www.surveymonkey.com/product/features/whats-new/",
-      "https://www.surveymonkey.com/product/features/analyze/"
+      "https://www.surveymonkey.com/product/features/analyze/",
+      "https://www.surveymonkey.com/templates/ces-questions-template/",
+      "https://www.surveymonkey.com/templates/professional-event-feedback-survey-template/",
+      "https://www.surveymonkey.com/templates/online-employee-recruitment-survey-template/",
+      "https://www.surveymonkey.com/templates/customer-experience-survey-template/",
+      "https://www.surveymonkey.com/templates/new-hire-onboarding-survey-template/",
+      "https://www.surveymonkey.com/templates/coronavirus-working-from-home-check-in-survey-template/",
+      "https://www.surveymonkey.com/templates/nps-brand-loyalty-survey-template/",
+      "https://www.surveymonkey.com/templates/employee-pulse-survey-template/",
+      "https://www.surveymonkey.com/templates/customer-satisfaction-survey-template/",
+      "https://www.surveymonkey.com/templates/party-planning-survey/"
     ]
   },
   "ezvizlife.com": {
-    "lastAt": 1758678693283,
+    "lastAt": 1759044226808,
     "urls": [
       "https://ezvizlife.com/"
     ]
   },
   "uk.com": {
-    "lastAt": 1758678693996,
+    "lastAt": 1759044227180,
     "urls": [
       "https://uk.com/",
       "https://uk.com/privacy-policy",
@@ -10327,7 +10417,7 @@
     ]
   },
   "okta.com": {
-    "lastAt": 1758678702600,
+    "lastAt": 1759044235967,
     "urls": [
       "https://okta.com/",
       "https://www.okta.com/jp/",
@@ -10344,15 +10434,19 @@
       "https://www.okta.com/jp/blog/author/chris-kramer/",
       "https://www.okta.com/jp/blog/author/bill-losch/",
       "https://www.okta.com/jp/okta-end-user-experience/",
-      "https://www.okta.com/jp/blog/author/david-bradbury/"
+      "https://www.okta.com/jp/blog/author/david-bradbury/",
+      "https://www.okta.com/jp/partners/meet-our-partners/",
+      "https://www.okta.com/jp/company/careers/",
+      "https://www.okta.com/jp/api-gateway/",
+      "https://www.okta.com/jp/ldap/"
     ]
   },
   "spaceweb.pro": {
-    "lastAt": 1758678761413,
+    "lastAt": 1759044294807,
     "urls": []
   },
   "braze.com": {
-    "lastAt": 1758678764206,
+    "lastAt": 1759044297529,
     "urls": [
       "https://www.braze.com/product/journey-orchestration-v2",
       "https://www.braze.com/partners/solutions-partners/howatson-and-company",
@@ -10393,11 +10487,21 @@
       "https://www.braze.com/partners/solutions-partners/profusion",
       "https://www.braze.com/free-trial",
       "https://www.braze.com/partners/braze-amplifiers/consultmyapp",
-      "https://www.braze.com/partners/technology-partners/okendo"
+      "https://www.braze.com/partners/technology-partners/okendo",
+      "https://www.braze.com/resources/webinars-and-events/global-customer-engagement-review-2025",
+      "https://www.braze.com/solutions/boost-productivity",
+      "https://www.braze.com/become-a-braze-technology-partner",
+      "https://www.braze.com/partners/technology-partners/email-love",
+      "https://www.braze.com/techforequitablefuture-appson",
+      "https://www.braze.com/partners/solutions-partners/cjolivenetworks",
+      "https://www.braze.com/become-a-braze-solutions-partner",
+      "https://www.braze.com/partners/technology-partners/tapcart",
+      "https://www.braze.com/partners/technology-partners/Lytics",
+      "https://www.braze.com/partners/solutions-partners/nexumAG"
     ]
   },
   "branch.io": {
-    "lastAt": 1758682896279,
+    "lastAt": 1759044302977,
     "urls": [
       "https://www.branch.io/resources/webinar/upcoming-strategies-to-maximize-mobile-growth-in-2023/",
       "https://www.branch.io/resources/",
@@ -10438,23 +10542,33 @@
       "https://www.branch.io/resources/blog/how-are-e-commerce-brands-harnessing-the-power-of-ctv/",
       "https://www.branch.io/resources/white-paper/cx-driven-marketing-playbook/",
       "https://www.branch.io/resources/blog/meet-the-new-branch-university/",
-      "https://www.branch.io/resources/blog/mastering-the-user-journey-from-offline-to-online-to-mobile/"
+      "https://www.branch.io/resources/blog/mastering-the-user-journey-from-offline-to-online-to-mobile/",
+      "https://www.branch.io/resources/white-paper/financial-services-mobile-growth-playbook/",
+      "https://www.branch.io/resources/white-paper/telecommunications-mobile-growth-playbook/",
+      "https://www.branch.io/resources/news/branch-announces-2023-mobile-growth-award-winners/",
+      "https://www.branch.io/resources/blog/wwdc-2024-predictions-on-apples-announcements/",
+      "https://www.branch.io/resources/blog/3-proven-strategies-to-win-and-retain-finance-app-users/",
+      "https://www.branch.io/resources/blog/how-to-combine-attribution-data-with-media-mix-modeling/",
+      "https://www.branch.io/resources/blog/maximizing-conversions-tips-for-a-b-testing-branch-journeys/",
+      "https://www.branch.io/resources/blog/app-install-strategies-for-emea/",
+      "https://www.branch.io/resources/white-paper/healthcare-mobile-growth-playbook/",
+      "https://www.branch.io/resources/blog/how-to-measure-your-most-effective-ad-channels/"
     ]
   },
   "yelp.com": {
-    "lastAt": 1758682897567,
+    "lastAt": 1759044304269,
     "urls": [
       "https://yelp.com/"
     ]
   },
   "oup.com": {
-    "lastAt": 1758682898538,
+    "lastAt": 1759044305653,
     "urls": [
       "https://oup.com/"
     ]
   },
   "licdn.com": {
-    "lastAt": 1758682901423,
+    "lastAt": 1759044308500,
     "urls": []
   },
   "onetrust.com": {
