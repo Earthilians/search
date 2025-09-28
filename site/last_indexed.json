@@ -15220,51 +15220,51 @@
     "urls": []
   },
   "flashtalking.com": {
-    "lastAt": 1758712723964,
+    "lastAt": 1759076693266,
     "urls": [
       "https://flashtalking.com/"
     ]
   },
   "herokudns.com": {
-    "lastAt": 1758712726849,
+    "lastAt": 1759076696209,
     "urls": []
   },
   "freepik.com": {
-    "lastAt": 1758712730119,
+    "lastAt": 1759076699503,
     "urls": []
   },
   "news.com.au": {
-    "lastAt": 1758712737032,
+    "lastAt": 1759076705801,
     "urls": []
   },
   "genius.com": {
-    "lastAt": 1758712740138,
+    "lastAt": 1759076708942,
     "urls": []
   },
   "atlassian.net": {
-    "lastAt": 1758712740636,
+    "lastAt": 1759076709444,
     "urls": [
       "https://atlassian.net/"
     ]
   },
   "spotifycdn.com": {
-    "lastAt": 1758712743722,
+    "lastAt": 1759076712539,
     "urls": []
   },
   "lwsdns.com": {
-    "lastAt": 1758712745374,
+    "lastAt": 1759076714645,
     "urls": [
       "https://lwsdns.com/"
     ]
   },
   "python.org": {
-    "lastAt": 1758712746467,
+    "lastAt": 1759076715700,
     "urls": [
       "https://python.org/"
     ]
   },
   "hindustantimes.com": {
-    "lastAt": 1758712753942,
+    "lastAt": 1759076723194,
     "urls": [
       "https://www.hindustantimes.com/cities/kolkata-news",
       "https://hindustantimes.com/",
@@ -15305,11 +15305,21 @@
       "https://www.hindustantimes.com/technology",
       "https://www.hindustantimes.com/lifestyle/fitness",
       "https://www.hindustantimes.com/elections/gujarat",
-      "https://www.hindustantimes.com/elections/himachal-pradesh"
+      "https://www.hindustantimes.com/elections/himachal-pradesh",
+      "https://www.hindustantimes.com/cities/mumbai-news",
+      "https://www.hindustantimes.com/entertainment/telugu-cinema",
+      "https://www.hindustantimes.com/lifestyle/health",
+      "https://www.hindustantimes.com/htcity",
+      "https://www.hindustantimes.com/ht-insight/knowledge",
+      "https://www.hindustantimes.com/geopolitics",
+      "https://www.hindustantimes.com/htcity/decor",
+      "https://www.hindustantimes.com/htcity/htcity-delhi-junction",
+      "https://www.hindustantimes.com/htcity/cinema",
+      "https://www.hindustantimes.com/htcity/htcity-foodies"
     ]
   },
   "fidelity.com": {
-    "lastAt": 1758712756421,
+    "lastAt": 1759076726697,
     "urls": [
       "https://www.fidelity.com/529-plans/arizona",
       "https://www.fidelity.com/529-plans/az-529-plan-activate",
@@ -15350,23 +15360,33 @@
       "https://www.fidelity.com/about-chet/dream-big-competition",
       "https://www.fidelity.com/about-chet/espanol/baby-scholars",
       "https://www.fidelity.com/about-chet/espanol/dream-big-competition",
-      "https://www.fidelity.com/about-chet/espanol/overview"
+      "https://www.fidelity.com/about-chet/espanol/overview",
+      "https://www.fidelity.com/about-chet/news",
+      "https://www.fidelity.com/about-fidelity/2024-annual-report",
+      "https://www.fidelity.com/about-fidelity/2023-annual-report",
+      "https://www.fidelity.com/about-chet/overview",
+      "https://www.fidelity.com/about-chet/investment-options",
+      "https://www.fidelity.com/about-fidelity/citizenship/corporate-sponsorship",
+      "https://www.fidelity.com/about-fidelity/careers",
+      "https://www.fidelity.com/about-fidelity/financial-mobility",
+      "https://www.fidelity.com/about-fidelity/emergency-savings",
+      "https://www.fidelity.com/about-fidelity/diversity-inclusion/our-commitments"
     ]
   },
   "btloader.com": {
-    "lastAt": 1758712759460,
+    "lastAt": 1759076729733,
     "urls": []
   },
   "allaboutcookies.org": {
-    "lastAt": 1758712762562,
+    "lastAt": 1759076733101,
     "urls": []
   },
   "cloudsink.net": {
-    "lastAt": 1758712765688,
+    "lastAt": 1759076736213,
     "urls": []
   },
   "theatlantic.com": {
-    "lastAt": 1758712781956,
+    "lastAt": 1759076751742,
     "urls": [
       "https://theatlantic.com/",
       "https://www.theatlantic.com/category/books/",
@@ -15376,7 +15396,7 @@
     ]
   },
   "cloudinary.com": {
-    "lastAt": 1758712791851,
+    "lastAt": 1759076755865,
     "urls": [
       "https://cloudinary.com/",
       "https://cloudinary.com/product_updates",
@@ -15415,15 +15435,24 @@
       "https://cloudinary.com/blog/imagecon_opens_attendees_eyes_to_the_impact_of_images",
       "https://cloudinary.com/blog/cloudinary_at_the_sxsw_hackathon",
       "https://cloudinary.com/blog/how_to_automatically_blur_pixelate_and_process_detected_text_in_your_images",
-      "https://cloudinary.com/blog/bringing_women_who_code_together_to_learn_about_cloudinary"
+      "https://cloudinary.com/blog/bringing_women_who_code_together_to_learn_about_cloudinary",
+      "https://cloudinary.com/blog/beyond_drupal_media_make_images_and_video_fly_with_cloudinary",
+      "https://cloudinary.com/blog/offline_first_masonry_grid_showcase_with_vue",
+      "https://cloudinary.com/blog/forloop_nigeria_event_on_building_for_the_next_billion_users",
+      "https://cloudinary.com/blog/getting_started_with_stenciljs",
+      "https://cloudinary.com/blog/how_the_right_tools_and_training_drive_sdr_success",
+      "https://cloudinary.com/blog/reactnyc_building_modern_media_experiences_in_react_apps",
+      "https://cloudinary.com/blog/google_analytics_video_tracking_made_simple",
+      "https://cloudinary.com/blog/how_i_avoided_my_blurry_image_induced_meltdown",
+      "https://cloudinary.com/blog/top_5_media_management_hassles_that_startups_face"
     ]
   },
   "azure-dns.com": {
-    "lastAt": 1758712794718,
+    "lastAt": 1759076758729,
     "urls": []
   },
   "pornhub.com": {
-    "lastAt": 1758712802123,
+    "lastAt": 1759076766622,
     "urls": [
       "https://www.pornhub.com/channels/18-carat",
       "https://www.pornhub.com/channels/academy-video",
@@ -15454,19 +15483,29 @@
       "https://www.pornhub.com/channels/combat-zone-gay",
       "https://www.pornhub.com/channels/critical-x",
       "https://www.pornhub.com/channels/crossover-shemale",
-      "https://www.pornhub.com/channels/d-c-media"
+      "https://www.pornhub.com/channels/d-c-media",
+      "https://www.pornhub.com/channels/dr-moretwat-s",
+      "https://www.pornhub.com/channels/encore-video",
+      "https://www.pornhub.com/channels/east-harlem-productions",
+      "https://www.pornhub.com/channels/dungeon-vip",
+      "https://www.pornhub.com/channels/dreamland-video",
+      "https://www.pornhub.com/channels/eurostar-xxx-entertainment",
+      "https://www.pornhub.com/channels/eros-studio",
+      "https://www.pornhub.com/channels/exquisite",
+      "https://www.pornhub.com/channels/feline-films",
+      "https://www.pornhub.com/channels/fifth-element"
     ]
   },
   "eu-1-id5-sync.com": {
-    "lastAt": 1758712870932,
+    "lastAt": 1759076835431,
     "urls": []
   },
   "usda.gov": {
-    "lastAt": 1758712939743,
+    "lastAt": 1759076904243,
     "urls": []
   },
   "no-ip.com": {
-    "lastAt": 1758712942394,
+    "lastAt": 1759076953156,
     "urls": [
       "https://www.noip.com/",
       "https://no-ip.com/",
@@ -15507,17 +15546,26 @@
       "https://www.noip.com/download?page=win",
       "https://www.noip.com/download?page=linux",
       "https://www.noip.com/download?page=mac",
-      "https://www.noip.com/legal/domain-registration-agreement"
+      "https://www.noip.com/legal/domain-registration-agreement",
+      "https://www.noip.com/legal/domain-transfer-agreement",
+      "https://www.noip.com/legal/domain-renew-delete-agreement",
+      "https://www.noip.com/forgot-password",
+      "https://www.noip.com/resend-activation",
+      "https://www.noip.com/vpn-ipvanish",
+      "https://www.noip.com/remote-access/security-camera",
+      "https://www.noip.com/referral-program",
+      "https://www.noip.com/dyn-switch-to-pro-dynamic-dns",
+      "https://www.noip.com/remote-access/computer"
     ]
   },
   "cox.net": {
-    "lastAt": 1758712943178,
+    "lastAt": 1759076953877,
     "urls": [
       "https://cox.net/"
     ]
   },
   "ebay.co.uk": {
-    "lastAt": 1758712951801,
+    "lastAt": 1759076963571,
     "urls": [
       "https://www.ebay.co.uk/b/bn_290",
       "https://www.ebay.co.uk/b/bn_274",
@@ -15554,15 +15602,24 @@
       "https://www.ebay.co.uk/b/bn_905",
       "https://www.ebay.co.uk/b/bn_959",
       "https://www.ebay.co.uk/b/bn_963",
-      "https://www.ebay.co.uk/b/bn_996"
+      "https://www.ebay.co.uk/b/bn_996",
+      "https://www.ebay.co.uk/b/bn_69961",
+      "https://www.ebay.co.uk/b/bn_69884",
+      "https://www.ebay.co.uk/b/bn_69945",
+      "https://www.ebay.co.uk/b/bn_69899",
+      "https://www.ebay.co.uk/b/bn_70001",
+      "https://www.ebay.co.uk/b/bn_70030",
+      "https://www.ebay.co.uk/b/bn_70014",
+      "https://www.ebay.co.uk/b/bn_70054",
+      "https://www.ebay.co.uk/b/bn_70071"
     ]
   },
   "cqloud.com": {
-    "lastAt": 1758712955070,
+    "lastAt": 1759076966665,
     "urls": []
   },
   "zoho.com": {
-    "lastAt": 1758712962358,
+    "lastAt": 1759076985651,
     "urls": [
       "https://www.zoho.com/accounts/contact.html",
       "https://www.zoho.com/accounts/oneauth/authenticator-app.html",
@@ -15603,11 +15660,21 @@
       "https://www.zoho.com/r/integrations/collaborate-succeed/",
       "https://www.zoho.com/r/integrations/measure-manage/",
       "https://www.zoho.com/r/integrations/",
-      "https://www.zoho.com/r/integrations/digitize-automate/"
+      "https://www.zoho.com/r/integrations/digitize-automate/",
+      "https://www.zoho.com/jp/r/integrations/",
+      "https://www.zoho.com/r/integrations/grow-scale/",
+      "https://www.zoho.com/r/jumpstart/",
+      "https://www.zoho.com/es-xl/r/jumpstart/",
+      "https://www.zoho.com/r/legal/third-party-apis-terms.html",
+      "https://www.zoho.com/pt-br/r/legal/third-party-apis-terms.html",
+      "https://www.zoho.com/r/refer-a-friend.html",
+      "https://www.zoho.com.cn/r/legal/third-party-apis-terms.html",
+      "https://www.zoho.com.cn/r/jumpstart/",
+      "https://www.zoho.com/r/jumpstart/schedule-a-call.html"
     ]
   },
   "huffpost.com": {
-    "lastAt": 1758712967911,
+    "lastAt": 1759076991772,
     "urls": [
       "https://www.huffpost.com/entry/caring-for-old-dogs_b_6384598",
       "https://www.huffpost.com/entry/government-spending-rebound_n_6404650",
@@ -15646,11 +15713,20 @@
       "https://www.huffpost.com/entry/2015-charleston-firefighter-calendar_n_6402146",
       "https://www.huffpost.com/entry/kevin-spacey-piano-man_n_6403834",
       "https://www.huffpost.com/entry/largest-charity-gifts-2014_n_6400778",
-      "https://www.huffpost.com/entry/6-things-that-barack-obam_b_6403848"
+      "https://www.huffpost.com/entry/6-things-that-barack-obam_b_6403848",
+      "https://www.huffpost.com/entry/how-the-sony-hack-is-chan_b_6403808",
+      "https://www.huffpost.com/entry/thomas-piketty-legion-of-honor_n_6403790",
+      "https://www.huffpost.com/entry/news-bloopers-2014-was-a-glorious-year-for-tv_n_6401564",
+      "https://www.huffpost.com/entry/top-10-busts-customs-and-border-protection_n_6391148",
+      "https://www.huffpost.com/entry/blue-hole-maya_n_6390872",
+      "https://www.huffpost.com/entry/the-2015-gop-clown-car-bi_b_6402678",
+      "https://www.huffpost.com/entry/a-trip-to-the-continent-m_n_6400600",
+      "https://www.huffpost.com/entry/reading-challenges_n_6401738",
+      "https://www.huffpost.com/entry/taylor-swift-dick-clark-new-year_n_6403738"
     ]
   },
   "bankofamerica.com": {
-    "lastAt": 1758718060252,
+    "lastAt": 1759076993915,
     "urls": [
       "https://www.bankofamerica.com/accessible-banking/overview/",
       "https://www.bankofamerica.com/accessible-banking/hearing-services/",
@@ -15679,15 +15755,15 @@
     ]
   },
   "immedia-semi.com": {
-    "lastAt": 1758718063384,
+    "lastAt": 1759076997788,
     "urls": []
   },
   "dbankcloud.ru": {
-    "lastAt": 1758718067939,
+    "lastAt": 1759077001613,
     "urls": []
   },
   "nationalgeographic.com": {
-    "lastAt": 1758718080484,
+    "lastAt": 1759077011907,
     "urls": [
       "https://nationalgeographic.com/",
       "https://www.nationalgeographic.com/science/article/baby-pygmy-hippo-fiona-april-giraffe-viral-video",
@@ -15728,7 +15804,17 @@
       "https://www.nationalgeographic.com/animals/article/pet-alligators",
       "https://www.nationalgeographic.com/travel/article/is-english-whisky-good",
       "https://www.nationalgeographic.com/premium/article/american-crocodiles-expansion-northern-florida",
-      "https://www.nationalgeographic.com/travel/article/american-whiskey-beginners-guide"
+      "https://www.nationalgeographic.com/travel/article/american-whiskey-beginners-guide",
+      "https://www.nationalgeographic.com/history/article/stonehenge-1",
+      "https://www.nationalgeographic.com/animals/article/watch-orcas-killer-whales-sink-boat",
+      "https://www.nationalgeographic.com/animals/article/cats-pets-communication-app-technology",
+      "https://www.nationalgeographic.com/magazine/article/jerusalems-massive-digs-reveal-new-treasures-and-stoke-ancient-conflicts-feature",
+      "https://www.nationalgeographic.com/travel/article/art-deco-paris",
+      "https://www.nationalgeographic.com/health/article/how-dance-boosts-brain-and-mood",
+      "https://www.nationalgeographic.com/travel/article/an-alternative-to-pantanal-spotting-black-jaguars-in-cerrado-brazil",
+      "https://www.nationalgeographic.com/travel/article/cincinnati-oktoberfest-underground-beer-history",
+      "https://www.nationalgeographic.com/travel/article/paid-content-iceland-best-places-to-visit",
+      "https://www.nationalgeographic.com/history/article/theodosia-burr-burial-site-mystery"
     ]
   },
   "dbankcloud.cn": {
