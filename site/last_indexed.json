@@ -12209,7 +12209,7 @@
     "urls": []
   },
   "anydesk.com": {
-    "lastAt": 1758695665387,
+    "lastAt": 1759058195252,
     "urls": [
       "https://anydesk.com/en/abuse-prevention",
       "https://anydesk.com/en/all-platforms",
@@ -12250,27 +12250,37 @@
       "https://anydesk.com/en/changelog/chrome-os",
       "https://anydesk.com/en/changelog/mac-os",
       "https://anydesk.com/en/changelog/on-premises",
-      "https://anydesk.com/en/changelog/raspberry-pi"
+      "https://anydesk.com/en/changelog/raspberry-pi",
+      "https://anydesk.com/en/changelog/windows",
+      "https://anydesk.com/en/commercial-use",
+      "https://anydesk.com/en/compare-splashtop-alternative",
+      "https://anydesk.com/en/compliance",
+      "https://anydesk.com/en/compare-goto-alternative",
+      "https://anydesk.com/en/contact-anydesk",
+      "https://anydesk.com/en/contact-anydesk-today",
+      "https://anydesk.com/en/contact-anydesk-today/thank-you",
+      "https://anydesk.com/en/contact-anydesk/billing/thank-you",
+      "https://anydesk.com/en/contact-anydesk/billing"
     ]
   },
   "dfn.nl": {
-    "lastAt": 1758695670162,
+    "lastAt": 1759058199771,
     "urls": []
   },
   "substack.com": {
-    "lastAt": 1758695673161,
+    "lastAt": 1759058202801,
     "urls": []
   },
   "amazon.ca": {
-    "lastAt": 1758695676731,
+    "lastAt": 1759058205980,
     "urls": []
   },
   "fb.com": {
-    "lastAt": 1758695680905,
+    "lastAt": 1759058209639,
     "urls": []
   },
   "cambridge.org": {
-    "lastAt": 1758695706146,
+    "lastAt": 1759058221228,
     "urls": [
       "https://www.cambridge.org/highereducation/books/the-origins-of-the-first-world-war/F1F0321D2E082F6CC0FBB0F9F744F0A4/listing",
       "https://www.cambridge.org/highereducation/forms/flippingtheclassroom",
@@ -12300,51 +12310,58 @@
       "https://www.cambridge.org/highereducation/subjects/law",
       "https://www.cambridge.org/highereducation/subjects/philosophy",
       "https://www.cambridge.org/highereducation/subjects/mathematics",
-      "https://www.cambridge.org/highereducation/subjects/physics-and-astronomy"
+      "https://www.cambridge.org/highereducation/subjects/physics-and-astronomy",
+      "https://www.cambridge.org/highereducation/subjects/psychiatry",
+      "https://www.cambridge.org/highereducation/subjects/religion",
+      "https://www.cambridge.org/highereducation/subjects/politics-and-international-relations",
+      "https://www.cambridge.org/highereducation/subjects/psychology",
+      "https://www.cambridge.org/highereducation/services/instructors/textbooks",
+      "https://www.cambridge.org/highereducation/subjects/statistics-and-probability",
+      "https://www.cambridge.org/highereducation/subjects/sociology"
     ]
   },
   "cloudflareinsights.com": {
-    "lastAt": 1758695706443,
+    "lastAt": 1759058221488,
     "urls": [
       "https://cloudflareinsights.com/"
     ]
   },
   "alidns.com": {
-    "lastAt": 1758695709142,
+    "lastAt": 1759058224896,
     "urls": [
       "https://alidns.com/"
     ]
   },
   "grammarly.io": {
-    "lastAt": 1758695712466,
+    "lastAt": 1759058227905,
     "urls": []
   },
   "telephony.goog": {
-    "lastAt": 1758695772027,
+    "lastAt": 1759058287393,
     "urls": []
   },
   "bidr.io": {
-    "lastAt": 1758695775369,
+    "lastAt": 1759058290447,
     "urls": []
   },
   "samsungacr.com": {
-    "lastAt": 1758695778417,
+    "lastAt": 1759058293430,
     "urls": []
   },
   "pvp.net": {
-    "lastAt": 1758695781718,
+    "lastAt": 1759058296611,
     "urls": []
   },
   "e-msedge.net": {
-    "lastAt": 1758695784582,
+    "lastAt": 1759058299499,
     "urls": []
   },
   "asus.com": {
-    "lastAt": 1758695789747,
+    "lastAt": 1759058304839,
     "urls": []
   },
   "spiegel.de": {
-    "lastAt": 1758695808351,
+    "lastAt": 1759058322680,
     "urls": [
       "https://www.spiegel.de/ausland/drohnen-ueber-polen-donald-trump-spekuliert-ueber-russisches-versehen-a-752aa674-758c-4671-9428-fbce0af36f88",
       "https://www.spiegel.de/ausland/charlie-kirk-fbi-bittet-nach-toedlichem-schuss-mit-fotos-um-hinweise-a-55f7af6d-2fc6-4318-90b2-9c8ab7d3ad68",
@@ -12385,31 +12402,41 @@
       "https://www.spiegel.de/sport/fussball/fussball-bundesliga-giulia-gwinn-vom-fc-bayern-muenchen-kehrt-nach-81-tagen-auf-den-platz-zurueck-a-b9f7c387-ce81-4182-9ae1-9664b1587d00",
       "https://www.spiegel.de/wirtschaft/vorsorgevollmacht-viel-zu-wenige-sichern-sich-rechtlich-fuer-fall-der-eigenen-demenz-ab-a-a22e8823-70ed-48e4-bd76-b4b399401f34",
       "https://www.spiegel.de/wirtschaft/airbus-gegen-dassault-europaeisches-kampfjet-projekt-droht-zu-scheitern-a-22770768-97b3-40c7-959a-0c5898c59e3d",
-      "https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-will-wohlhabende-bei-sozialstaat-finanzierung-staerker-heranziehen-a-1bb5c994-62fb-4d4f-97b3-0d14a8745610"
+      "https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-will-wohlhabende-bei-sozialstaat-finanzierung-staerker-heranziehen-a-1bb5c994-62fb-4d4f-97b3-0d14a8745610",
+      "https://www.spiegel.de/panorama/aschau-im-chiemgau-ein-mord-der-keiner-war-vor-dem-eiskeller-prozess-a-9a01d4e0-42aa-4551-84d1-0ac3bc1859d7",
+      "https://www.spiegel.de/ausland/gaza-angriff-auf-nasser-krankenhaus-zweifel-an-begruendung-des-israelischen-militaers-a-a0dbbff3-fe50-42d8-b32b-d68f8a096c59",
+      "https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere-a-97ac2b88-c05c-4744-bf9d-743a110729f4",
+      "https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37",
+      "https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0",
+      "https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c",
+      "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c",
+      "https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04",
+      "https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403",
+      "https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister-a-7b97e621-8a78-414a-ba41-dc0280c20336"
     ]
   },
   "onelink.me": {
-    "lastAt": 1758695808687,
+    "lastAt": 1759058323078,
     "urls": [
       "https://onelink.me/"
     ]
   },
   "service.gov.uk": {
-    "lastAt": 1758695809633,
+    "lastAt": 1759058324026,
     "urls": [
       "https://service.gov.uk/"
     ]
   },
   "ks-cdn.com": {
-    "lastAt": 1758695813865,
+    "lastAt": 1759058328557,
     "urls": []
   },
   "zillow.com": {
-    "lastAt": 1758695821223,
+    "lastAt": 1759058336109,
     "urls": []
   },
   "rackspace.com": {
-    "lastAt": 1758695824956,
+    "lastAt": 1759058352346,
     "urls": [
       "https://www.rackspace.com/",
       "https://www.rackspace.com/about/culture",
@@ -12450,21 +12477,31 @@
       "https://www.rackspace.com/about/leadership/srini-koushik",
       "https://www.rackspace.com/about/responsibility",
       "https://www.rackspace.com/about/leadership/sandeep-bhargava",
-      "https://www.rackspace.com/about/strategic-alliances"
+      "https://www.rackspace.com/about/strategic-alliances",
+      "https://www.rackspace.com/about/why-rackspace-technology",
+      "https://www.rackspace.com/applications/application-operations",
+      "https://www.rackspace.com/applications/cloud-native",
+      "https://www.rackspace.com/applications/application-modernization",
+      "https://www.rackspace.com/applications/adobe-experience-manager",
+      "https://www.rackspace.com/applications/email-productivity",
+      "https://www.rackspace.com/applications/digital-experience",
+      "https://www.rackspace.com/applications/crm",
+      "https://www.rackspace.com/applications/dynamics-365",
+      "https://www.rackspace.com/applications"
     ]
   },
   "myhuaweicloud.com": {
-    "lastAt": 1758695828776,
+    "lastAt": 1759058355865,
     "urls": []
   },
   "box.com": {
-    "lastAt": 1758695829842,
+    "lastAt": 1759058356832,
     "urls": [
       "https://box.com/"
     ]
   },
   "rbc.ru": {
-    "lastAt": 1758695839833,
+    "lastAt": 1759058363674,
     "urls": [
       "https://www.rbc.ru/rbcfreenews/68c14f139a7947895a1d5c7b",
       "https://www.rbc.ru/society/10/09/2025/68c149919a7947f254927c09",
@@ -12504,15 +12541,25 @@
       "https://www.rbc.ru/politics/23/09/2025/68d1b91a9a79472997043f44",
       "https://www.rbc.ru/politics/23/09/2025/68d217a89a794752f1ccdcf5",
       "https://www.rbc.ru/politics/23/09/2025/68d1deec9a79476f985319eb",
-      "https://www.rbc.ru/rbcfreenews/68d2018d9a7947ebc178eaa6"
+      "https://www.rbc.ru/rbcfreenews/68d2018d9a7947ebc178eaa6",
+      "https://www.rbc.ru/economics/26/09/2025/68d68d1d9a79473b642d10ec",
+      "https://www.rbc.ru/spb_sz/26/09/2025/68d6c36e9a79470afdda5e93",
+      "https://www.rbc.ru/society/26/09/2025/68d6c5ff9a7947cfe87b8656",
+      "https://www.rbc.ru/rbcfreenews/68d6ca2b9a794768d3fe337d",
+      "https://www.rbc.ru/sport/26/09/2025/68d6c8139a7947f2aa59d928",
+      "https://www.rbc.ru/sport/26/09/2025/68d6cb799a79471670bdf758",
+      "https://www.rbc.ru/politics/26/09/2025/68d6c4a69a794752732ee066",
+      "https://www.rbc.ru/society/26/09/2025/68d6c0be9a79472055200189",
+      "https://www.rbc.ru/sport/26/09/2025/68d6d0029a79471f618f3a45",
+      "https://www.rbc.ru/politics/26/09/2025/68d6c3e19a7947ab5f15fa7c"
     ]
   },
   "steamstatic.com": {
-    "lastAt": 1758695844327,
+    "lastAt": 1759058367708,
     "urls": []
   },
   "lemonde.fr": {
-    "lastAt": 1758695849504,
+    "lastAt": 1759058373064,
     "urls": [
       "https://www.lemonde.fr/international/live/2025/09/12/en-direct-gaza-le-qatar-assure-vouloir-continuer-a-jouer-son-role-de-mediation-pour-la-paix-malgre-les-frappes-israeliennes-a-doha_6640485_3210.html",
       "https://www.lemonde.fr/culture/article/2025/09/12/labyrinthe-le-crepuscule-radieux-de-feu-chatterton_6640484_3246.html",
@@ -12553,11 +12600,21 @@
       "https://www.lemonde.fr/idees/article/2025/09/24/rodrigo-arenas-sous-l-etendard-de-la-protection-des-mineurs-l-ue-s-apprete-a-faire-un-pas-decisif-vers-une-societe-de-controle_6642716_3232.html",
       "https://www.lemonde.fr/idees/article/2025/09/24/que-resterait-il-d-intelligible-dans-une-decision-de-justice-ultra-censuree-en-occultant-noms-prenoms-adresses-et-dates_6642717_3232.html",
       "https://www.lemonde.fr/sciences/article/2025/09/24/dans-les-secrets-du-nuancier-d-antoine-janot-maitre-teinturier-du-xviii-siecle_6642715_1650684.html",
-      "https://www.lemonde.fr/idees/article/2025/09/24/philippe-juvin-depute-il-y-a-trop-de-fonctionnaires-en-france-nous-avons-besoin-de-mesures-rapides-efficaces-et-justes-pour-en-faire-baisser-le-nombre_6642714_3232.html"
+      "https://www.lemonde.fr/idees/article/2025/09/24/philippe-juvin-depute-il-y-a-trop-de-fonctionnaires-en-france-nous-avons-besoin-de-mesures-rapides-efficaces-et-justes-pour-en-faire-baisser-le-nombre_6642714_3232.html",
+      "https://www.lemonde.fr/international/article/2025/09/28/au-danemark-des-drones-survolent-des-sites-militaires-pour-la-deuxieme-journee-consecutive_6643269_3210.html",
+      "https://www.lemonde.fr/livres/article/2025/09/28/tovaangar-de-celine-minard-tous-sens-en-eveil-dans-le-nouveau-jardin-d-eden_6643266_3260.html",
+      "https://www.lemonde.fr/politique/article/2025/09/28/sophie-binet-secretaire-generale-de-la-cgt-est-l-invitee-de-questions-politiques_6643265_823448.html",
+      "https://www.lemonde.fr/international/live/2025/09/28/en-direct-guerre-en-ukraine-moscou-a-attaque-plusieurs-villes-ukrainiennes-en-particulier-kiev-avec-plus-de-600-drones-et-missiles-dans-la-nuit_6643222_3210.html",
+      "https://www.lemonde.fr/societe/article/2025/09/28/condamnation-de-nicolas-sarkozy-le-syndicat-de-la-magistrature-denonce-le-silence-d-emmanuel-macron-apres-les-menaces-contre-la-presidente-du-tribunal_6643268_3224.html",
+      "https://www.lemonde.fr/international/article/2025/09/28/le-qatar-en-guerre-mediatique-avec-israel-resserre-sa-tutelle-sur-al-jazira_6643264_3210.html",
+      "https://www.lemonde.fr/economie/article/2025/09/28/dans-l-edition-un-marche-en-baisse-et-une-rentree-sociale-tourmentee_6643263_3234.html",
+      "https://www.lemonde.fr/planete/article/2025/09/28/typhon-bualoi-au-vietnam-plus-de-250-000-evacuations-prevues_6643262_3244.html",
+      "https://www.lemonde.fr/quiz-de-culture-generale/article/2025/09/28/quiz-faciles-ou-difficiles-huit-questions-pour-agiter-ses-meninges_6643260_6083483.html",
+      "https://www.lemonde.fr/idees/article/2025/09/28/taxe-zucman-les-super-riches-paient-relativement-beaucoup-moins-d-impots-que-leurs-concitoyens-or-la-super-richesse-est-presque-toujours-liee-a-l-entreprise_6643261_3232.html"
     ]
   },
   "afternic.com": {
-    "lastAt": 1758698548074,
+    "lastAt": 1759058373741,
     "urls": [
       "https://www.afternic.com/sell-domains",
       "https://www.afternic.com/domain-broker",
@@ -12569,7 +12626,7 @@
     ]
   },
   "gumgum.com": {
-    "lastAt": 1758698555678,
+    "lastAt": 1759058376005,
     "urls": [
       "https://gumgum.com/",
       "https://gumgum.com/advertisers",
@@ -12610,15 +12667,25 @@
       "https://gumgum.com/webinars",
       "https://gumgum.com/contact-thank-you",
       "https://gumgum.com/forms/verity-request-a-demo-pmp",
-      "https://gumgum.com/terms-and-policies"
+      "https://gumgum.com/terms-and-policies",
+      "https://gumgum.com/cookieless-advertising",
+      "https://gumgum.com/attention",
+      "https://gumgum.com/mindset-graph",
+      "https://gumgum.com/olv-advertising",
+      "https://gumgum.com/benefits",
+      "https://gumgum.com/gallery",
+      "https://gumgum.com/blog-authors/ben-plomion",
+      "https://gumgum.com/blog-authors/adam-schenkel",
+      "https://gumgum.com/blog-authors/eric-visser",
+      "https://gumgum.com/test"
     ]
   },
   "33across.com": {
-    "lastAt": 1758698559256,
+    "lastAt": 1759058379250,
     "urls": []
   },
   "viber.com": {
-    "lastAt": 1758698560384,
+    "lastAt": 1759058380195,
     "urls": [
       "https://viber.com/"
     ]
