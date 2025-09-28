@@ -18409,11 +18409,11 @@
     ]
   },
   "onedrive.com": {
-    "lastAt": 1758731514000,
+    "lastAt": 1759094327305,
     "urls": []
   },
   "dreamhost.com": {
-    "lastAt": 1758731519580,
+    "lastAt": 1759094332584,
     "urls": [
       "https://www.dreamhost.com/legal/acceptable-use-policy/",
       "https://www.dreamhost.com/legal/accessibility/",
@@ -18454,11 +18454,21 @@
       "https://www.dreamhost.com/",
       "https://www.dreamhost.com/legal/terms-of-service/",
       "https://www.dreamhost.com/legal/domain-registration-terms/",
-      "https://www.dreamhost.com/affiliates/"
+      "https://www.dreamhost.com/affiliates/",
+      "https://www.dreamhost.com/agencyprogram/",
+      "https://www.dreamhost.com/cloud/",
+      "https://www.dreamhost.com/awards/",
+      "https://www.dreamhost.com/company/",
+      "https://www.dreamhost.com/careers/",
+      "https://www.dreamhost.com/domains/",
+      "https://www.dreamhost.com/flash-sale-50/",
+      "https://www.dreamhost.com/extreme-website-makeover/",
+      "https://www.dreamhost.com/flash-sale-60/",
+      "https://www.dreamhost.com/features/"
     ]
   },
   "google.co.jp": {
-    "lastAt": 1758731520874,
+    "lastAt": 1759094333811,
     "urls": [
       "https://www.google.com/intl/is/gmail/about/policy/",
       "https://google.co.jp/",
@@ -18477,27 +18487,27 @@
     ]
   },
   "pixiv.net": {
-    "lastAt": 1758731522903,
+    "lastAt": 1759094336299,
     "urls": [
       "https://pixiv.net/"
     ]
   },
   "spamhaus.org": {
-    "lastAt": 1758731524042,
+    "lastAt": 1759094337387,
     "urls": [
       "https://spamhaus.org/"
     ]
   },
   "msftauth.net": {
-    "lastAt": 1758731526945,
+    "lastAt": 1759094340423,
     "urls": []
   },
   "vegalb.com": {
-    "lastAt": 1758731531285,
+    "lastAt": 1759094345102,
     "urls": []
   },
   "pikabu.ru": {
-    "lastAt": 1758731539807,
+    "lastAt": 1759094354154,
     "urls": [
       "https://pikabu.ru/",
       "https://pikabu.ru/tag/%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0",
@@ -18538,19 +18548,29 @@
       "https://pikabu.ru/tag/%D0%AF%D1%89%D0%B8%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2",
       "https://pikabu.ru/tag/%D0%AF%D1%89%D0%B8%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D0%B9",
       "https://pikabu.ru/tag/%D0%AF%D1%89%D0%B8%D0%BA",
-      "https://pikabu.ru/tag/%D0%AF%D1%89%D0%B5%D1%80%D0%B8%D1%86%D0%B0%20%D1%82%D0%B5%D0%B3%D1%83"
+      "https://pikabu.ru/tag/%D0%AF%D1%89%D0%B5%D1%80%D0%B8%D1%86%D0%B0%20%D1%82%D0%B5%D0%B3%D1%83",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%83%D0%BB%D0%B8%D1%8F",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%81%D0%B0%D0%B9%D0%BA%D0%BB%D0%B8%D0%BD%D0%B3",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%83",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D1%8C",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%80%D0%BA%20%D0%AF%D1%81%D0%B5%D0%BD%D1%8C",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D0%B5%D0%B2%D0%BA%D0%B0",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D1%80%D0%B0%D0%BA%D1%81%D0%B8%D0%BD%20%D0%B4%D0%B2%D0%BE%D1%80",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F",
+      "https://pikabu.ru/tag/%D0%90%D0%BF%D0%BF%D0%BE%D0%BB%D0%BE%D0%BD"
     ]
   },
   "columbia.edu": {
-    "lastAt": 1758731543436,
+    "lastAt": 1759094357467,
     "urls": []
   },
   "caixa.gov.br": {
-    "lastAt": 1758731612244,
+    "lastAt": 1759094426274,
     "urls": []
   },
   "alphonso.tv": {
-    "lastAt": 1758731620709,
+    "lastAt": 1759094432290,
     "urls": [
       "https://alphonso.tv/privacy/smart-tvs/site-privacy/",
       "https://alphonso.tv/privacy/user-opt-out/",
@@ -18588,23 +18608,30 @@
       "https://alphonso.tv/privacy/terms-of-service-fr/",
       "https://alphonso.tv/privacy/terms-of-service-de/",
       "https://alphonso.tv/privacy/this-site/site-privacy-policy-es/",
-      "https://alphonso.tv/privacy/this-site/site-privacy-policy-fr/"
+      "https://alphonso.tv/privacy/this-site/site-privacy-policy-fr/",
+      "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada-spanish/",
+      "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada-simplified-chinese/",
+      "https://alphonso.tv/privacy/this-site/site-privacy-policy-de/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-spanish/",
+      "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada-traditional-chinese/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-french/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-simplified-chinese/"
     ]
   },
   "heytapmobi.com": {
-    "lastAt": 1758731623301,
+    "lastAt": 1759094434966,
     "urls": [
       "https://heytapmobi.com/"
     ]
   },
   "utorrent.com": {
-    "lastAt": 1758731625537,
+    "lastAt": 1759094437195,
     "urls": [
       "https://utorrent.com/"
     ]
   },
   "linode.com": {
-    "lastAt": 1758731646058,
+    "lastAt": 1759094459145,
     "urls": [
       "https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/",
       "https://www.linode.com/blog/devops/cloud-portability-strategy-benefits/",
@@ -18645,21 +18672,31 @@
       "https://www.linode.com/blog/cloud-computing/scalable-video-transcoding-with-kubernetes-and-capella/",
       "https://www.linode.com/blog/cloud-storage/nvme-object-storage-enhanced-performance/",
       "https://www.linode.com/blog/compute/object-storage-use-cases-in-focus-new-endpoints-for-higher-capacity-and-speed/",
-      "https://www.linode.com/blog/compute/you-cant-improve-what-you-cant-see-api-monitoring-is-crucial/"
+      "https://www.linode.com/blog/compute/you-cant-improve-what-you-cant-see-api-monitoring-is-crucial/",
+      "https://www.linode.com/blog/compute/how-to-lower-video-transcoding-costs-by-migrating-to-dedicated-linode-instances/",
+      "https://www.linode.com/blog/compute/defend-your-graphql-server-against-excessive-resource-consumption/",
+      "https://www.linode.com/blog/compute/how-to-lower-your-live-video-transcoding-costs/",
+      "https://www.linode.com/blog/compute/faster-page-loads-with-the-speculation-rules-api/",
+      "https://www.linode.com/blog/compute/cloning-content-to-linode-object-storage-with-rclone/",
+      "https://www.linode.com/blog/compute/leverage-edge-computing-for-low-latency-live-streaming-services/",
+      "https://www.linode.com/blog/compute/the-dangers-of-the-never-expiring-jwt/",
+      "https://www.linode.com/blog/compute/optimizing-web-usability-with-text-fragments/",
+      "https://www.linode.com/blog/security/security-in-your-devops-pipeline/",
+      "https://www.linode.com/blog/security/pointless-may-not-be-harmless-login-page-security-vulnerabilities/"
     ]
   },
   "rayjump.com": {
-    "lastAt": 1758731704871,
+    "lastAt": 1759094517961,
     "urls": []
   },
   "skyhigh.cloud": {
-    "lastAt": 1758731706289,
+    "lastAt": 1759094519494,
     "urls": [
       "https://skyhigh.cloud/"
     ]
   },
   "ancestry.com": {
-    "lastAt": 1758731711128,
+    "lastAt": 1759094523539,
     "urls": [
       "https://www.ancestry.com/last-name-meaning/strelecki",
       "https://www.ancestry.com/last-name-meaning/dulmage",
@@ -18700,15 +18737,25 @@
       "https://www.ancestry.com/last-name-meaning/obeirne",
       "https://www.ancestry.com/last-name-meaning/wigby",
       "https://www.ancestry.com/last-name-meaning/neary",
-      "https://www.ancestry.com/last-name-meaning/deag"
+      "https://www.ancestry.com/last-name-meaning/deag",
+      "https://www.ancestry.com/last-name-meaning/sharbono",
+      "https://www.ancestry.com/last-name-meaning/koeppel",
+      "https://www.ancestry.com/last-name-meaning/peryer",
+      "https://www.ancestry.com/last-name-meaning/sandercombe",
+      "https://www.ancestry.com/last-name-meaning/chiem",
+      "https://www.ancestry.com/last-name-meaning/viveiros",
+      "https://www.ancestry.com/last-name-meaning/borman",
+      "https://www.ancestry.com/last-name-meaning/coslow",
+      "https://www.ancestry.com/last-name-meaning/mazzo",
+      "https://www.ancestry.com/last-name-meaning/coonradt"
     ]
   },
   "epicgames.dev": {
-    "lastAt": 1758731714940,
+    "lastAt": 1759094527108,
     "urls": []
   },
   "jetbrains.com": {
-    "lastAt": 1758731716376,
+    "lastAt": 1759094528539,
     "urls": [
       "https://jetbrains.com/",
       "https://www.jetbrains.com/products/compare/?product=idea-ce&product=pycharm",
@@ -18749,11 +18796,21 @@
       "https://www.jetbrains.com/products/compare/?product=pycharm&product=appcode",
       "https://www.jetbrains.com/products/compare/?product=pycharm&product=rider",
       "https://www.jetbrains.com/products/compare/?product=pycharm&product=resharper",
-      "https://www.jetbrains.com/products/compare/?product=pycharm&product=resharper-cpp"
+      "https://www.jetbrains.com/products/compare/?product=pycharm&product=resharper-cpp",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=rubymine",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=phpstorm",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=goland",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=datagrip",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=webstorm",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=dataspell",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=clion",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=appcode",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=rider",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=resharper"
     ]
   },
   "leparisien.fr": {
-    "lastAt": 1758731722043,
+    "lastAt": 1759094534489,
     "urls": [
       "https://www.leparisien.fr/faits-divers/dysfonctionnements-graves-locaux-indignes-un-ehpad-ferme-par-les-autorites-dans-les-bouches-du-rhone-12-09-2025-S523UQ3LHBHOFFDV5SBRVFXAE4.php",
       "https://www.leparisien.fr/faits-divers/il-etait-gentil-avec-tout-le-monde-mort-dans-laccident-de-funiculaire-de-lisbonne-il-avait-laisse-sa-place-a-sa-femme-12-09-2025-QCBAJTSBK5GCNGCZ3JDDPJJWRA.php",
@@ -18794,11 +18851,21 @@
       "https://www.leparisien.fr/sports/hippisme/quinte-du-jeudi-25-septembre-a-chantilly-je-nai-pas-envie-darreter-stephane-pasquier-un-jockey-toujours-au-top-24-09-2025-PU7BUEYNJBG5RILRGLQV5VKQNQ.php",
       "https://www.leparisien.fr/societe/sante/nous-pouvons-mettre-fin-au-vih-un-traitement-contre-le-sida-pour-40-dollars-par-an-des-2027-24-09-2025-M7V46GNM75CIVNBB2XM7PKKDTQ.php",
       "https://www.leparisien.fr/paris-75/dette-de-9-milliards-deuros-a-paris-une-ville-ne-peut-pas-sendetter-eternellement-24-09-2025-R42XFULK4BHNDI64I2ZSHITHGM.php",
-      "https://www.leparisien.fr/culture-loisirs/musique/hommage-a-balavoine-marguerite-de-la-star-academy-lhyper-weekend-festival-devoile-ses-premiers-noms-24-09-2025-2OKNN3CZ3BH2VHJANZAAWHGOOU.php"
+      "https://www.leparisien.fr/culture-loisirs/musique/hommage-a-balavoine-marguerite-de-la-star-academy-lhyper-weekend-festival-devoile-ses-premiers-noms-24-09-2025-2OKNN3CZ3BH2VHJANZAAWHGOOU.php",
+      "https://www.leparisien.fr/faits-divers/tireur-victimes-incendie-ce-que-lon-sait-de-la-fusillade-qui-a-fait-deux-morts-dans-une-eglise-mormone-du-michigan-28-09-2025-WXKEDBLTSFBYDFBZWI73TX2VJU.php",
+      "https://www.leparisien.fr/international/etats-unis/afghanistan-les-talibans-annoncent-la-liberation-damir-amiri-un-americain-detenu-depuis-neuf-mois-28-09-2025-LQTH6MIFPNHBZKWQBKW7AEWWIY.php",
+      "https://www.leparisien.fr/international/au-maroc-des-manifestations-organisees-par-la-generation-z-se-heurtent-a-de-nombreuses-interpellations-28-09-2025-GALP3YJJVZDKXM77AGC57IGK3I.php",
+      "https://www.leparisien.fr/sports/rugby/cest-une-tempete-dans-un-verre-deau-la-reaction-de-florian-grill-a-laffaire-fred-quercy-28-09-2025-7QGZVG2SRVA2TODJWSQBFD6ANI.php",
+      "https://www.leparisien.fr/politique/paris-avec-lelection-de-michel-barnier-la-droite-retrouve-un-depute-dans-la-capitale-28-09-2025-YH26LR5UCJBOFPOQCWHCV7WGVE.php",
+      "https://www.leparisien.fr/politique/un-contexte-economique-complexe-emmanuel-macron-recevra-lundi-a-lelysee-une-centaine-de-chefs-et-restaurateurs-28-09-2025-5V4NPHL5AFBXFMYKVG25YDHDIM.php",
+      "https://www.leparisien.fr/culture-loisirs/fashion-week-lultime-collection-de-de-giorgio-armani-decede-il-y-a-peu-presentee-a-milan-28-09-2025-6HVJBAPJKFBGDG3WYSUCN6D4K4.php",
+      "https://www.leparisien.fr/culture-loisirs/un-musee-a-ciel-ouvert-un-jardin-gratuit-abritant-des-sculptures-de-picasso-va-voir-le-jour-a-paris-en-2030-28-09-2025-WXGGLDBLRBCJBNPN4WM5CKYI4Q.php",
+      "https://www.leparisien.fr/sports/football/ligue-1/lille-lyon-0-1-tous-les-week-ends-il-y-a-des-problemes-olivier-letang-fustige-larbitrage-28-09-2025-WQUKQC75OVEC3IAPRGTECL6KVI.php",
+      "https://www.leparisien.fr/sports/football/ligue-1/rennes-lens-la-video-de-lexpulsion-de-jonathan-gradit-apres-moins-dune-minute-de-jeu-28-09-2025-BWXKX3R5GJFG7IVP4R7JJFTJSI.php"
     ]
   },
   "google.ca": {
-    "lastAt": 1758731726469,
+    "lastAt": 1759094538951,
     "urls": [
       "https://google.ca/",
       "https://www.google.com/intl/ar_eg/drive/download/",
@@ -18839,11 +18906,21 @@
       "https://www.google.com/intl/en_rw/drive/download/",
       "https://www.google.com/intl/en_sc/drive/download/",
       "https://www.google.com/intl/en_sg/drive/",
-      "https://www.google.com/intl/en_sg/drive/download/"
+      "https://www.google.com/intl/en_sg/drive/download/",
+      "https://www.google.com/intl/es-419/drive/",
+      "https://www.google.com/intl/es-419/drive/download/",
+      "https://www.google.com/intl/es/drive/",
+      "https://www.google.com/intl/es/drive/download/",
+      "https://www.google.com/intl/es-419_ar/drive/",
+      "https://www.google.com/intl/es-419_cl/drive/download/",
+      "https://www.google.com/intl/es-419_cl/drive/",
+      "https://www.google.com/intl/es-419_ar/drive/download/",
+      "https://www.google.com/intl/es-419_co/drive/",
+      "https://www.google.com/intl/es-419_co/drive/download/"
     ]
   },
   "docker.io": {
-    "lastAt": 1758731733528,
+    "lastAt": 1759094546008,
     "urls": [
       "https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/",
       "https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/",
@@ -18884,11 +18961,21 @@
       "https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/",
       "https://www.docker.com/blog/docker-at-microsoft-build-2025/",
       "https://www.docker.com/blog/whats-next-for-mcp-security/",
-      "https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/"
+      "https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/",
+      "https://www.docker.com/blog/docker-desktop-4-41/",
+      "https://www.docker.com/blog/introducing-docker-mcp-catalog-and-toolkit/",
+      "https://www.docker.com/blog/today-is-the-day/",
+      "https://www.docker.com/blog/docker-myths-debunked/",
+      "https://www.docker.com/blog/docker-desktop-on-microsoft-store/",
+      "https://www.docker.com/blog/navigating-proxy-servers-docker-desktop-4-30/",
+      "https://www.docker.com/blog/screaming-in-the-cloud-with-corey-quinn-and-docker-ceo-scott-johnston/",
+      "https://www.docker.com/blog/multi-arch-build-what-about-circleci/",
+      "https://www.docker.com/blog/docker-desktop-3-0-0-smaller-faster-releases/",
+      "https://www.docker.com/blog/addressing-time-drift-in-docker-desktop-for-mac/"
     ]
   },
   "split.io": {
-    "lastAt": 1758731734579,
+    "lastAt": 1759094547310,
     "urls": [
       "https://split.io/",
       "https://www.split.io/",
@@ -18905,29 +18992,29 @@
     ]
   },
   "bol.com": {
-    "lastAt": 1758731742667,
+    "lastAt": 1759094555048,
     "urls": []
   },
   "lavanguardia.com": {
-    "lastAt": 1758731744667,
+    "lastAt": 1759094556920,
     "urls": [
       "https://lavanguardia.com/"
     ]
   },
   "fbpigeon.com": {
-    "lastAt": 1758731747662,
+    "lastAt": 1759094559885,
     "urls": []
   },
   "ttlivecdn.com": {
-    "lastAt": 1758734423473,
+    "lastAt": 1759094562892,
     "urls": []
   },
   "docomo.ne.jp": {
-    "lastAt": 1758734430224,
+    "lastAt": 1759094567347,
     "urls": []
   },
   "frontiersin.org": {
-    "lastAt": 1758734455587,
+    "lastAt": 1759094580010,
     "urls": [
       "https://frontiersin.org/",
       "https://www.frontiersin.org/research-topics/74106/the-fmr1-premutation-expanding-the-clinical-and-molecular-spectrum/impact",
@@ -18968,11 +19055,21 @@
       "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii/articles",
       "https://www.frontiersin.org/research-topics/74452/advanced-electrode-materials-for-rechargeable-batteries---volume-ii/impact",
       "https://www.frontiersin.org/research-topics/74530/motivations-for-physical-activity---volume-v",
-      "https://www.frontiersin.org/research-topics/74530/motivations-for-physical-activity---volume-v/articles"
+      "https://www.frontiersin.org/research-topics/74530/motivations-for-physical-activity---volume-v/articles",
+      "https://www.frontiersin.org/research-topics/73896/novel-approaches-to-drug-mechanism-and-discovery-in-hemostasis-and-thrombosis/impact",
+      "https://www.frontiersin.org/research-topics/73896/novel-approaches-to-drug-mechanism-and-discovery-in-hemostasis-and-thrombosis/articles",
+      "https://www.frontiersin.org/research-topics/73896/novel-approaches-to-drug-mechanism-and-discovery-in-hemostasis-and-thrombosis",
+      "https://www.frontiersin.org/research-topics/73896/novel-approaches-to-drug-mechanism-and-discovery-in-hemostasis-and-thrombosis/authors",
+      "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies",
+      "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies/authors",
+      "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies/impact",
+      "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies/articles",
+      "https://www.frontiersin.org/research-topics/74282/cytoskeletal-dynamics-and-membrane-trafficking-in-renal-physiology-and-disease/articles",
+      "https://www.frontiersin.org/research-topics/74282/cytoskeletal-dynamics-and-membrane-trafficking-in-renal-physiology-and-disease"
     ]
   },
   "cbc.ca": {
-    "lastAt": 1758734457042,
+    "lastAt": 1759094581499,
     "urls": [
       "https://cbc.ca/"
     ]
