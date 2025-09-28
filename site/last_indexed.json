@@ -12691,7 +12691,7 @@
     ]
   },
   "redhat.com": {
-    "lastAt": 1758698567581,
+    "lastAt": 1759063297139,
     "urls": [
       "https://www.redhat.com/ja",
       "https://redhat.com/",
@@ -12730,33 +12730,42 @@
       "https://www.redhat.com/en/blog/top-10-reasons-to-get-certified-0",
       "https://www.redhat.com/en/blog/Downloadable-Version-of-Red-Hat-Enterprise-Virtualization-3-0-Beta-Now-Available-to-All",
       "https://www.redhat.com/en/about/press-releases/red-hat-and-wipro-extend-partnership-and-collaborate-advance-enterprise-openstack-implementations-deliver-devops-solutions-openshift",
-      "https://www.redhat.com/en/about/press-releases/red-hat-launches-new-release-openshift-enterprise-and-adds-private-ipaas"
+      "https://www.redhat.com/en/about/press-releases/red-hat-launches-new-release-openshift-enterprise-and-adds-private-ipaas",
+      "https://www.redhat.com/en/blog/small-footprint-big-impact-red-hat-enterprise-linux-7-atomic-host-beta-now-available",
+      "https://www.redhat.com/en/blog/red-hat-brings-expanded-governance-amazon-web-services-based-public-clouds-manageiq-community",
+      "https://www.redhat.com/en/blog/A-Look-at-the-Future-2012-Middleware-Trends-Part-2",
+      "https://www.redhat.com/en/about/press-releases/charlene-begley-joins-red-hat%E2%80%99s-board-directors",
+      "https://www.redhat.com/en/blog/A-Look-at-the-Future-2012-Middleware-Trends-Part-1",
+      "https://www.redhat.com/en/blog/red-hat-announces-the-availability-of-red-hat-enterprise-linux-58-beta-release",
+      "https://www.redhat.com/en/blog/predictions-for-enterprise-operating-systems-in-2012",
+      "https://www.redhat.com/en/blog/Five-Enterprise-Cloud-Predictions-for-2012",
+      "https://www.redhat.com/en/blog/splitting-atom-recapping-first-atomic-application-forum"
     ]
   },
   "wp.pl": {
-    "lastAt": 1758698574571,
+    "lastAt": 1759063303293,
     "urls": []
   },
   "mediafire.com": {
-    "lastAt": 1758698578525,
+    "lastAt": 1759063306889,
     "urls": []
   },
   "thesun.co.uk": {
-    "lastAt": 1758698588493,
+    "lastAt": 1759063316570,
     "urls": [
       "https://thesun.co.uk/"
     ]
   },
   "creativecdn.com": {
-    "lastAt": 1758698592288,
+    "lastAt": 1759063320651,
     "urls": []
   },
   "heylink.me": {
-    "lastAt": 1758698595713,
+    "lastAt": 1759063324120,
     "urls": []
   },
   "bitrix24.ru": {
-    "lastAt": 1758698601031,
+    "lastAt": 1759063336537,
     "urls": [
       "https://www.bitrix24.ru/",
       "https://www.bitrix24.ru/about/agreement_add.php",
@@ -12797,15 +12806,24 @@
       "https://www.bitrix24.ru/apps/api.php",
       "https://www.bitrix24.ru/apps/",
       "https://www.bitrix24.ru/apps/base.php",
-      "https://www.bitrix24.ru/apps/mobile-and-desktop-apps-rk.php"
+      "https://www.bitrix24.ru/apps/mobile-and-desktop-apps-rk.php",
+      "https://www.bitrix24.ru/apps/mobile-and-desktop-apps.php",
+      "https://www.bitrix24.ru/apps/rules.php",
+      "https://www.bitrix24.ru/apps/mobile-and-desktop.php",
+      "https://www.bitrix24.ru/apps/mobile.php",
+      "https://www.bitrix24.ru/apps/subscribe.php",
+      "https://www.bitrix24.ru/blogs/",
+      "https://www.bitrix24.ru/apps/webhooks.php",
+      "https://www.bitrix24.ru/apps/subscribe_base.php",
+      "https://www.bitrix24.ru/enterprise/"
     ]
   },
   "exp-tas.com": {
-    "lastAt": 1758698603879,
+    "lastAt": 1759063339471,
     "urls": []
   },
   "xvideos.com": {
-    "lastAt": 1758698606004,
+    "lastAt": 1759063341735,
     "urls": [
       "https://www.xvideos.com/",
       "https://www.xvideos.com/c/ass_to_mouths-29",
@@ -12840,13 +12858,13 @@
     ]
   },
   "shopee.co.id": {
-    "lastAt": 1758698607814,
+    "lastAt": 1759063343179,
     "urls": [
       "https://shopee.co.id/"
     ]
   },
   "ya.ru": {
-    "lastAt": 1758698613885,
+    "lastAt": 1759063349943,
     "urls": [
       "https://ya.ru/",
       "https://yandex.ru/medicine/roddom_berezniki",
@@ -12887,21 +12905,31 @@
       "https://yandex.ru/medicine/roddom_nalchik",
       "https://yandex.ru/medicine/roddom_sunzha",
       "https://yandex.ru/medicine/roddom_tikhoretsk",
-      "https://yandex.ru/medicine/roddom_orenburg"
+      "https://yandex.ru/medicine/roddom_orenburg",
+      "https://yandex.ru/medicine/roddom_novokuznetsk",
+      "https://yandex.ru/medicine/roddom_shebekino",
+      "https://yandex.ru/medicine/roddom_astrahan",
+      "https://yandex.ru/medicine/roddom_shakhty",
+      "https://yandex.ru/medicine/roddom_cheboksary",
+      "https://yandex.ru/medicine/roddom_orsk",
+      "https://yandex.ru/medicine/roddom_yoshkar-ola",
+      "https://yandex.ru/medicine/roddom_mtsensk",
+      "https://yandex.ru/medicine/roddom_ulyanovsk",
+      "https://yandex.ru/medicine/roddom_pyatigorsk"
     ]
   },
   "tencent.com": {
-    "lastAt": 1758698632305,
+    "lastAt": 1759063356626,
     "urls": [
       "https://tencent.com/"
     ]
   },
   "imrworldwide.com": {
-    "lastAt": 1758698635243,
+    "lastAt": 1759063359636,
     "urls": []
   },
   "people.com": {
-    "lastAt": 1758698638881,
+    "lastAt": 1759063363366,
     "urls": [
       "https://people.com/18-year-old-victim-of-colorado-high-school-shooting-identified-as-family-requests-privacy-11808579",
       "https://people.com/racist-pipe-bomb-discovered-elementary-school-campus-11808663",
@@ -12942,15 +12970,25 @@
       "https://people.com/glen-powell-shows-support-jimmy-kimmel-following-suspension-11815694",
       "https://people.com/sarah-mclachlan-performs-on-jimmy-kimmel-live-as-show-returns-after-suspension-11815760",
       "https://people.com/jimmy-kimmel-breaks-silence-on-abc-indefinitely-pulling-his-show-emotional-monologue-11812442",
-      "https://people.com/body-of-celeste-rivas-girl-found-in-d4vds-trunk-has-been-released-back-to-her-family-11815999"
+      "https://people.com/body-of-celeste-rivas-girl-found-in-d4vds-trunk-has-been-released-back-to-her-family-11815999",
+      "https://people.com/glen-powell-says-top-gun-maverick-group-chat-is-still-alive-years-later-exclusive-11816863",
+      "https://people.com/endangered-okapi-calf-born-at-san-diego-zoo-see-video-11814800",
+      "https://people.com/why-is-horror-having-a-moment-alma-katsu-and-becky-spratford-break-it-down-exclusive-11819719",
+      "https://people.com/soul-food-star-brandon-hammond-uses-his-own-crying-meme-exclusive-11820025",
+      "https://people.com/peoples-best-books-of-september-2025-11795866",
+      "https://people.com/all-about-benny-blanco-brother-jeremy-levin-11819755",
+      "https://people.com/best-slip-on-shoes-11816161",
+      "https://people.com/will-there-be-house-of-guinness-season-2-11819610",
+      "https://people.com/3-people-killed-multiple-injured-north-carolina-boat-shooter-11820139",
+      "https://people.com/meet-the-kids-of-the-bachelor-franchise-11815545"
     ]
   },
   "dbankcloud.com": {
-    "lastAt": 1758698642229,
+    "lastAt": 1759063366577,
     "urls": []
   },
   "bugsnag.com": {
-    "lastAt": 1758698648391,
+    "lastAt": 1759063372884,
     "urls": [
       "https://bugsnag.com/",
       "https://www.bugsnag.com/blog/",
@@ -12965,13 +13003,13 @@
     ]
   },
   "arxiv.org": {
-    "lastAt": 1758698649584,
+    "lastAt": 1759063374062,
     "urls": [
       "https://arxiv.org/"
     ]
   },
   "mlb.com": {
-    "lastAt": 1758698652991,
+    "lastAt": 1759063377850,
     "urls": [
       "https://www.mlb.com/news/kyle-stowers-marlins-oblique-injury-during-rehab",
       "https://mlb.com/",
@@ -13012,25 +13050,35 @@
       "https://www.mlb.com/es/news/lo-que-hay-en-juego-ultima-semana-temporada-2025-mlb",
       "https://www.mlb.com/news/odicci-alexander-bennett-ausl-bandits-star-played-2025-season-pregnant",
       "https://www.mlb.com/news/how-padres-could-line-up-starting-rotation-for-playoffs",
-      "https://www.mlb.com/es/news/kershaw-agradece-a-los-aficionados-de-los-dodgers-por-18-anos-increibles"
+      "https://www.mlb.com/es/news/kershaw-agradece-a-los-aficionados-de-los-dodgers-por-18-anos-increibles",
+      "https://www.mlb.com/news/mariners-vs-dodgers-five-things-to-know",
+      "https://www.mlb.com/press-release/what-s-happening-this-weekend-at-citizens-bank-park-phillies-vs-twins-september-26-28",
+      "https://www.mlb.com/news/mets-play-marlins-in-3-game-series-with-eye-on-postseason",
+      "https://www.mlb.com/news/tigers-dillon-dingler-homecoming-vs-guardians",
+      "https://www.mlb.com/news/mets-nl-wild-card-2025-clinching-scenarios",
+      "https://www.mlb.com/news/reds-nl-wild-card-2025-clinching-scenarios",
+      "https://www.mlb.com/es/news/jose-ramirez-se-convierte-en-el-lider-de-extrabases-de-todos-los-tiempos-de-cleveland",
+      "https://www.mlb.com/news/mookie-betts-roberto-clemente-award-nominee-2025-dodgers",
+      "https://www.mlb.com/news/d-backs-nl-wild-card-2025-clinching-scenarios",
+      "https://www.mlb.com/es/news/en-un-encuentro-especial-raleigh-agradece-al-fan-que-atrapo-la-bola-de-su-hr-60"
     ]
   },
   "scdn.co": {
-    "lastAt": 1758698656001,
+    "lastAt": 1759063380948,
     "urls": []
   },
   "myspace.com": {
-    "lastAt": 1758698659452,
+    "lastAt": 1759063384096,
     "urls": []
   },
   "unesco.org": {
-    "lastAt": 1758698663604,
+    "lastAt": 1759063388091,
     "urls": [
       "https://unesco.org/"
     ]
   },
   "theverge.com": {
-    "lastAt": 1758698666740,
+    "lastAt": 1759063391288,
     "urls": [
       "https://www.theverge.com/news/776884/openai-microsoft-mou",
       "https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models",
@@ -13071,11 +13119,21 @@
       "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables",
       "https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion",
       "https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update",
-      "https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting"
+      "https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting",
+      "https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust",
+      "https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale",
+      "https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle",
+      "https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall",
+      "https://www.theverge.com/games/785848/blippo-plus-review-switch-steam",
+      "https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error",
+      "https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco",
+      "https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco",
+      "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+      "https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air"
     ]
   },
   "homedepot.com": {
-    "lastAt": 1758698669195,
+    "lastAt": 1759063393915,
     "urls": [
       "https://www.homedepot.com/services/c/window-treatment-installation-h/24a343ba1",
       "https://www.homedepot.com/services/h/appliance",
@@ -13097,15 +13155,15 @@
     ]
   },
   "githubusercontent.com": {
-    "lastAt": 1758698672128,
+    "lastAt": 1759063396855,
     "urls": []
   },
   "usgovcloudapi.net": {
-    "lastAt": 1758698675141,
+    "lastAt": 1759063399868,
     "urls": []
   },
   "airbnb.com": {
-    "lastAt": 1758698679410,
+    "lastAt": 1759063404735,
     "urls": [
       "https://www.airbnb.com/airbnb-friendly/apartments/towson-md",
       "https://www.airbnb.com/airbnb-friendly/apartments/petaluma-ca",
@@ -13126,27 +13184,37 @@
       "https://www.airbnb.com/airbnb-friendly/apartments/nicasio-ca",
       "https://www.airbnb.com/airbnb-friendly/apartments/narragansett-ri",
       "https://www.airbnb.com/airbnb-friendly/apartments/raleigh-nc",
-      "https://www.airbnb.com/airbnb-friendly/apartments/denver-co"
+      "https://www.airbnb.com/airbnb-friendly/apartments/denver-co",
+      "https://www.airbnb.com/airbnb-friendly/apartments/columbia-sc",
+      "https://www.airbnb.com/airbnb-friendly/apartments/lexington-park-md",
+      "https://www.airbnb.com/airbnb-friendly/apartments/spokane-wa",
+      "https://www.airbnb.com/airbnb-friendly/apartments/cincinnati-oh",
+      "https://www.airbnb.com/airbnb-friendly/apartments/houston-tx",
+      "https://www.airbnb.com/airbnb-friendly/apartments/stamford-ct",
+      "https://www.airbnb.com/airbnb-friendly/apartments/albuquerque-nm",
+      "https://www.airbnb.com/airbnb-friendly/apartments/jacksonville-fl",
+      "https://www.airbnb.com/airbnb-friendly/apartments/portland-or",
+      "https://www.airbnb.com/airbnb-friendly/apartments/st-louis-mo"
     ]
   },
   "hihonorcloud.com": {
-    "lastAt": 1758702643798,
+    "lastAt": 1759063406754,
     "urls": [
       "https://hihonorcloud.com/"
     ]
   },
   "miwifi.com": {
-    "lastAt": 1758702651766,
+    "lastAt": 1759063413719,
     "urls": []
   },
   "discordapp.com": {
-    "lastAt": 1758702653039,
+    "lastAt": 1759063415343,
     "urls": [
       "https://discordapp.com/"
     ]
   },
   "bestbuy.com": {
-    "lastAt": 1758702741662,
+    "lastAt": 1759063477326,
     "urls": [
       "https://bestbuy.com/",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&cp=10&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories",
@@ -13185,7 +13253,17 @@
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=18&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=7&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
       "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=6&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
-      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories"
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=8&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=9&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=20&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106002&cp=2&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106002&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=2&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=3&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=5&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=4&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=6&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106004&cp=7&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106004&type=page&usc=All%20Categories",
+      "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0106001&cp=4&id=pcat17071&iht=n&ks=960&list=y&sc=Global&st=categoryid%24abcat0106001&type=page&usc=All%20Categories"
     ]
   },
   "mixpanel.com": {
