@@ -13267,7 +13267,7 @@
     ]
   },
   "mixpanel.com": {
-    "lastAt": 1758702751128,
+    "lastAt": 1759065851151,
     "urls": [
       "https://mixpanel.com/about/",
       "https://mixpanel.com/",
@@ -13308,29 +13308,39 @@
       "https://mixpanel.com/legal/subprocessor-list/",
       "https://mixpanel.com/legal/supplemental-terms/",
       "https://mixpanel.com/legal/supplier-code-of-conduct/",
-      "https://mixpanel.com/legal/tc-for-goods-and-services/"
+      "https://mixpanel.com/legal/tc-for-goods-and-services/",
+      "https://mixpanel.com/legal/terms-of-use/",
+      "https://mixpanel.com/legal/transparency-report/",
+      "https://mixpanel.com/legal/tom/",
+      "https://mixpanel.com/legal/transparency-report-jan-2023/",
+      "https://mixpanel.com/legal/transparency-report-jan-2024/",
+      "https://mixpanel.com/legal/terms-of-use-prior-to-sept-2024/",
+      "https://mixpanel.com/legal/transparency-report-july-2023/",
+      "https://mixpanel.com/legal/transparency-report-july-2022/",
+      "https://mixpanel.com/m/mixpanel-and-twilio-segment/",
+      "https://mixpanel.com/m/navattic/"
     ]
   },
   "contextweb.com": {
-    "lastAt": 1758702752011,
+    "lastAt": 1759065852442,
     "urls": [
       "https://contextweb.com/"
     ]
   },
   "xiaohongshu.com": {
-    "lastAt": 1758702755075,
+    "lastAt": 1759065854118,
     "urls": [
       "https://xiaohongshu.com/"
     ]
   },
   "webmd.com": {
-    "lastAt": 1758702756440,
+    "lastAt": 1759065856019,
     "urls": [
       "https://webmd.com/"
     ]
   },
   "google.cn": {
-    "lastAt": 1758702757238,
+    "lastAt": 1759065856894,
     "urls": [
       "https://www.google.com/intl/gl_es/gmail/about/policy/",
       "https://www.google.com/intl/gu_in/gmail/about/",
@@ -13345,11 +13355,11 @@
     ]
   },
   "everesttech.net": {
-    "lastAt": 1758702816048,
+    "lastAt": 1759065915710,
     "urls": []
   },
   "disqus.com": {
-    "lastAt": 1758702816323,
+    "lastAt": 1759065916171,
     "urls": [
       "https://disqus.com/platform/moderation/",
       "https://disqus.com/",
@@ -13365,11 +13375,11 @@
     ]
   },
   "perfectdomain.com": {
-    "lastAt": 1758702819412,
+    "lastAt": 1759065919185,
     "urls": []
   },
   "latimes.com": {
-    "lastAt": 1758702828795,
+    "lastAt": 1759065927173,
     "urls": [
       "https://www.latimes.com/entertainment/arts/laphil/la-et-cm-la-phil-review-walter-rothwell-19191025-story.html",
       "https://www.latimes.com/local/obituaries/archives/la-me-john-muir-19141225-story.html",
@@ -13410,11 +13420,21 @@
       "https://www.latimes.com/entertainment-arts/story/2025-09-22/cristela-alonzo-netflix-upper-classy-comedy-special",
       "https://www.latimes.com/california/story/2025-09-23/this-program-is-using-augmented-reality-to-teach-kids-spatial-awareness",
       "https://www.latimes.com/california/story/2025-09-23/low-tests-scores-show-math-crisis-began-a-decade-ago-and-worsened",
-      "https://www.latimes.com/entertainment-arts/books/story/2025-09-22/will-there-ever-be-another-you-review-patricia-lockwood-covid"
+      "https://www.latimes.com/entertainment-arts/books/story/2025-09-22/will-there-ever-be-another-you-review-patricia-lockwood-covid",
+      "https://www.latimes.com/sports/story/2025-09-27/la-times-sports-letters-dodgers-relief-still-a-problem",
+      "https://www.latimes.com/travel/story/2025-09-26/la-wk-travel-same-destination-every-year",
+      "https://www.latimes.com/sports/usc/story/2025-09-26/usc-football-vs-illinois-what-to-watch-for",
+      "https://www.latimes.com/entertainment-arts/movies/story/2025-09-26/predators-review-dateline-nbc-to-catch-a-predator-chris-hansen-documentary",
+      "https://www.latimes.com/sports/dodgers/story/2025-09-26/dodgers-mariners-brock-stewart-injuries",
+      "https://www.latimes.com/sports/chargers/story/2025-09-26/chargers-giants-how-to-watch-prediction-betting-odds",
+      "https://www.latimes.com/sports/rams/story/2025-09-27/rams-colts-how-to-watch-prediction-injuries-betting-odds",
+      "https://www.latimes.com/sports/angels/story/2025-09-26/angels-astros-mike-trout-playoff-elimination",
+      "https://www.latimes.com/sports/angels/story/2025-09-27/angels-astros-eliminated-postseason-contention",
+      "https://www.latimes.com/sports/dodgers/story/2025-09-27/dodgers-mariners-kike-hernandez-playoff-roster"
     ]
   },
   "datadoghq.com": {
-    "lastAt": 1758702830764,
+    "lastAt": 1759065929787,
     "urls": [
       "https://datadoghq.com/",
       "https://www.datadoghq.com/summit/london25/agenda/lunch/",
@@ -13455,15 +13475,25 @@
       "https://www.datadoghq.com/name_company/",
       "https://www.datadoghq.com/legal/",
       "https://www.datadoghq.com/content_type/webinar/",
-      "https://www.datadoghq.com/core_product/apm/"
+      "https://www.datadoghq.com/core_product/apm/",
+      "https://www.datadoghq.com/legal/applicant-candidate-privacy/",
+      "https://www.datadoghq.com/legal/applicant-candidate-privacy/2025-09-26/",
+      "https://www.datadoghq.com/core_product/",
+      "https://www.datadoghq.com/content_type/case-study/",
+      "https://www.datadoghq.com/specific_interest/fedramp/",
+      "https://www.datadoghq.com/core_product/incident-management/",
+      "https://www.datadoghq.com/specific_interest/govcloud/",
+      "https://www.datadoghq.com/core_product/incident-response/",
+      "https://www.datadoghq.com/core_product/internal-developer-portal/",
+      "https://www.datadoghq.com/core_product/metrics/"
     ]
   },
   "fiverr.com": {
-    "lastAt": 1758702840730,
+    "lastAt": 1759065939883,
     "urls": []
   },
   "sagepub.com": {
-    "lastAt": 1758702843862,
+    "lastAt": 1759065942484,
     "urls": [
       "https://www.sagepub.com/journals/information-for-authors/submitting-your-manuscript",
       "https://www.sagepub.com/journals/information-for-reviewers/what-is-peer-review",
@@ -13504,30 +13534,40 @@
       "https://www.sagepub.com/journals/information-for-authors/publishing-options/hybrid-open-access-sage-choice-faqs",
       "https://www.sagepub.com/journals",
       "https://www.sagepub.com/about/sage-history-timeline",
-      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/finelib"
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/open-access-agreements/finelib",
+      "https://www.sagepub.com/journals/information-for-authors/overview",
+      "https://www.sagepub.com/journals/information-for-societies-partners/editorial-support",
+      "https://www.sagepub.com/contact-and-support/contact-us",
+      "https://www.sagepub.com/journals/member-subscription/japa-subscription-apa-division-39-member-discount",
+      "https://www.sagepub.com/journals/information-for-authors/choosing-a-journal",
+      "https://www.sagepub.com/journals/information-for-reviewers/how-to-review-plain-language-summaries",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-guidance-support/how-to-do-research-get-published-webinar-series-registration",
+      "https://www.sagepub.com/about-us/our-impact/independence-with-impact-report-2024",
+      "https://www.sagepub.com/journals/information-for-librarians/journals-subject-collections",
+      "https://www.sagepub.com/journals/information-for-authors/publishing-options/therapeutic-advances-series"
     ]
   },
   "shopee.com.br": {
-    "lastAt": 1758702844422,
+    "lastAt": 1759065943264,
     "urls": [
       "https://shopee.com.br/"
     ]
   },
   "amazon.in": {
-    "lastAt": 1758702846228,
+    "lastAt": 1759065945423,
     "urls": [
       "https://amazon.in/"
     ]
   },
   "ipify.org": {
-    "lastAt": 1758702846907,
+    "lastAt": 1759065945861,
     "urls": [
       "https://www.ipify.org/",
       "https://ipify.org/"
     ]
   },
   "prnewswire.com": {
-    "lastAt": 1758702855407,
+    "lastAt": 1759066026695,
     "urls": [
       "https://www.prnewswire.com/resources/",
       "https://www.prnewswire.com/resources/case-studies/How-the-National-Association-of-REALTORS-Boosted-Earned-Media-and-Audience-Engagement-with-a-New-Content-Strategy/",
@@ -13568,11 +13608,20 @@
       "https://www.prnewswire.com/resources/videos-webinars/innovative-methods-strengthening-your-brand-story/",
       "https://www.prnewswire.com/resources/tip-sheets/guide-to-writing-a-great-press-release/",
       "https://www.prnewswire.com/resources/videos-webinars/strategies-for-breaking-through-the-noise-to-elevate-your-brand/",
-      "https://www.prnewswire.com/resources/videos-webinars/reimagine-the-press-release-with-AI/"
+      "https://www.prnewswire.com/resources/videos-webinars/reimagine-the-press-release-with-AI/",
+      "https://www.prnewswire.com/resources/videos-webinars/how-to-extend-storys-impact-with-multichannel-amplification/",
+      "https://www.prnewswire.com/resources/videos-webinars/mastering-crisis-communications-strategies/",
+      "https://www.prnewswire.com/resources/videos-webinars/ai-product-spotlight/thank-you/",
+      "https://www.prnewswire.com/resources/videos-webinars/from-keywords-to-conversations-how-ai-search-is-reshaping-pr/",
+      "https://www.prnewswire.com/resources/videos-webinars/revolutionize-your-pr-workflow/",
+      "https://www.prnewswire.com/resources/videos-webinars/from-booth-to-buzz-maximizing-trade-show-roi-with-smart-tech-and-strategic-pr/",
+      "https://www.prnewswire.com/resources/?sortCategory=white-papers",
+      "https://www.prnewswire.com/resources/white-papers/press-release-beginners-guide/",
+      "https://www.prnewswire.com/resources/videos-webinars/unlocking-effective-communications-strategies/"
     ]
   },
   "rakuten.com": {
-    "lastAt": 1758702860079,
+    "lastAt": 1759066031063,
     "urls": [
       "https://www.rakuten.com/",
       "https://www.rakuten.com/shop/reissonline",
@@ -13613,11 +13662,21 @@
       "https://www.rakuten.com/shop/drmartens",
       "https://www.rakuten.com/shop/alexmill",
       "https://www.rakuten.com/help/article/updating-your-account-settings-360002117727",
-      "https://www.rakuten.com/shop/famousfootwear"
+      "https://www.rakuten.com/shop/famousfootwear",
+      "https://www.rakuten.com/shop/dolcevita",
+      "https://www.rakuten.com/shop/paulstuart",
+      "https://www.rakuten.com/shop/robertbarakett",
+      "https://www.rakuten.com/shop/katinusa",
+      "https://www.rakuten.com/shop/whitehouseblackmarket",
+      "https://www.rakuten.com/help/category/browser-extension-help-26579223731603",
+      "https://www.rakuten.com/help/article/what-are-linked-credit-cards-360002118187",
+      "https://www.rakuten.com/shop/twillory",
+      "https://www.rakuten.com/shop/athleta",
+      "https://www.rakuten.com/july-4th-sale/store/underarmour.com"
     ]
   },
   "nbcnews.com": {
-    "lastAt": 1758702873264,
+    "lastAt": 1759066035970,
     "urls": [
       "https://nbcnews.com/",
       "https://www.nbcnews.com/select/shopping/shark-air-purifier-max-deal-of-the-day-2025-rcna230699",
@@ -13654,65 +13713,74 @@
       "https://www.nbcnews.com/select/shopping/best-tvs-rcna232192",
       "https://www.nbcnews.com/select/shopping/fall-accessories-from-amazon-rcna232395",
       "https://www.nbcnews.com/select/shopping/amazon-cleaning-gadgets-ncna1303946",
-      "https://www.nbcnews.com/select/shopping/best-shampoos-rcna232478"
+      "https://www.nbcnews.com/select/shopping/best-shampoos-rcna232478",
+      "https://www.nbcnews.com/world/asia/tennis-star-apologizes-chinese-fans-coughing-outburst-sparks-outrage-rcna234193",
+      "https://www.nbcnews.com/sports/nfl/won-dallas-cowboys-trade-micah-parsons-nfl-finds-week-4-rcna233570",
+      "https://www.nbcnews.com/news/us-news/russell-m-nelson-oldest-ever-president-church-jesus-christ-latter-day-rcna234197",
+      "https://www.nbcnews.com/world/europe/moldovans-cast-ballots-tense-election-plagued-russian-interference-rcna234195",
+      "https://www.nbcnews.com/world/south-america/colombian-president-accuses-us-violating-international-law-visa-revoke-rcna234194",
+      "https://www.nbcnews.com/health/health-news/trump-touted-drug-leucovorin-autism-families-already-tried-rcna233291",
+      "https://www.nbcnews.com/world/middle-east/iran-weighs-response-un-sanctions-are-reimposed-nuclear-program-rcna234190",
+      "https://www.nbcnews.com/world/europe/russia-launches-deadly-aerial-attack-ukraine-poland-scrambles-jets-rcna234191",
+      "https://www.nbcnews.com/news/us-news/members-meet-putmans-family-die-car-crash-others-injured-rcna234123"
     ]
   },
   "curseforge.com": {
-    "lastAt": 1758702874365,
+    "lastAt": 1759066037149,
     "urls": [
       "https://curseforge.com/"
     ]
   },
   "life360.com": {
-    "lastAt": 1758702877399,
+    "lastAt": 1759066040628,
     "urls": []
   },
   "a-mo.net": {
-    "lastAt": 1758702878409,
+    "lastAt": 1759066042209,
     "urls": [
       "https://a-mo.net/"
     ]
   },
   "criteo.net": {
-    "lastAt": 1758702881803,
+    "lastAt": 1759066045969,
     "urls": []
   },
   "amazon.es": {
-    "lastAt": 1758702886408,
+    "lastAt": 1759066048051,
     "urls": [
       "https://amazon.es/"
     ]
   },
   "iso.org": {
-    "lastAt": 1758702891100,
+    "lastAt": 1759066053153,
     "urls": []
   },
   "turn.com": {
-    "lastAt": 1758702894026,
+    "lastAt": 1759066056028,
     "urls": []
   },
   "omnitagjs.com": {
-    "lastAt": 1758702897182,
+    "lastAt": 1759066058903,
     "urls": []
   },
   "amazon.it": {
-    "lastAt": 1758705905761,
+    "lastAt": 1759066064289,
     "urls": []
   },
   "bandcamp.com": {
-    "lastAt": 1758705907033,
+    "lastAt": 1759066065497,
     "urls": [
       "https://bandcamp.com/"
     ]
   },
   "stripchat.com": {
-    "lastAt": 1758705915502,
+    "lastAt": 1759066075434,
     "urls": [
       "https://stripchat.com/"
     ]
   },
   "volcfcdndvs.com": {
-    "lastAt": 1758705921076,
+    "lastAt": 1759066080109,
     "urls": []
   },
   "usps.com": {
