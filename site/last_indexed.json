@@ -14473,15 +14473,15 @@
     ]
   },
   "fda.gov": {
-    "lastAt": 1758709451609,
+    "lastAt": 1759072728682,
     "urls": []
   },
   "lgtvcommon.com": {
-    "lastAt": 1758709454892,
+    "lastAt": 1759072731859,
     "urls": []
   },
   "xbox.com": {
-    "lastAt": 1758709457832,
+    "lastAt": 1759072740715,
     "urls": [
       "https://xbox.com/",
       "https://www.xbox.com/es-AR",
@@ -14522,11 +14522,21 @@
       "https://www.xbox.com/en-NZ",
       "https://www.xbox.com/ko-KR",
       "https://www.xbox.com/ja-JP",
-      "https://www.xbox.com/zh-TW"
+      "https://www.xbox.com/zh-TW",
+      "https://www.xbox.com/he-IL",
+      "https://www.xbox.com/ar-AE",
+      "https://www.xbox.com/zh-HK",
+      "https://www.xbox.com/en-ZA",
+      "https://www.xbox.com/tr-TR",
+      "https://www.xbox.com/es-AR/accessories",
+      "https://www.xbox.com/pt-BR/accessories",
+      "https://www.xbox.com/en-CA/accessories",
+      "https://www.xbox.com/ar-SA",
+      "https://www.xbox.com/fr-CA/accessories"
     ]
   },
   "sapo.pt": {
-    "lastAt": 1758709464547,
+    "lastAt": 1759072745851,
     "urls": [
       "https://sapo.pt/artigo/adorava-fazer-uma-temporada-de-the-walking-dead-daryl-dixon-no-porto-adoro-portugal-a-conversa-com-norman-reedus-68bb455491fec082046849fb",
       "https://sapo.pt/artigo/quiz-anos-80-que-musica-e-esta-68bc1bd2344020afa7064315",
@@ -14566,11 +14576,20 @@
       "https://sapo.pt/artigo/ha-muita-vida-alem-do-lucro-uma-empresa-que-impacta-a-comunidade-esta-a-caminho-do-sucesso-6173-68a49f452765c02fac73171d",
       "https://sapo.pt/artigo/como-a-amazon-se-tornou-a-gigante-exotica-que-bezos-imaginou-5fe8-68a4a0e420291f011adae234",
       "https://sapo.pt/artigo/casa-dos-segredos-vera-passa-se-com-fabio-por-causa-de-liliana-ciumes-ou-preocupacao-68d31b36ba33a196b1ea11c3",
-      "https://sapo.pt/artigo/blind-zero-na-casa-da-musica-como-assim-30-anos-66f9-68ad19ed1b42150e6043ffbc"
+      "https://sapo.pt/artigo/blind-zero-na-casa-da-musica-como-assim-30-anos-66f9-68ad19ed1b42150e6043ffbc",
+      "https://sapo.pt/artigo/de-ficheiros-secretos-a-mares-vivas-que-series-viamos-ha-30-anos-68cd1aedb6cbcc619bc2ae34",
+      "https://sapo.pt/artigo/luisa-amorim-a-gestora-dos-negocios-do-vinho-68d2ae4b3de287f3696c3645",
+      "https://sapo.pt/artigo/casa-dos-segredos-o-amor-esta-no-ar-sem-receios-fabio-declara-se-a-liliana-nada-nos-vai-separar-68d63eb881ae493dd24b21f5",
+      "https://sapo.pt/artigo/resumo-a-promessa-noivado-em-risco-raquel-faz-ultimato-a-bruno-68d66d2681ae493dd2550261",
+      "https://magg.sapo.pt/televisao/secret-story/artigos/secret-story-leandro-em-missao-vira-o-quarto-azul-do-avesso-eu-sou-o-rei-desta-casa-e-deste-quarto",
+      "https://sapo.pt/artigo/tvi-a-data-de-estreia-do-novo-programa-inspirado-no-ponto-de-encontro-68d5b67acd09c9c6565ec17d",
+      "https://sapo.pt/artigo/dos-palcos-britanicos-aos-novos-mundos-de-alien-terra-a-conversa-com-alex-lawther-68d4126d8750696bf4390a47",
+      "https://sapo.pt/artigo/dora-numa-aventura-magica-sob-o-mar-ganhe-convites-para-a-antestreia-68cbe09eeb5c9f532f043a81",
+      "https://sapo.pt/artigo/o-ceu-em-queda-ganhe-bilhetes-para-varias-sessoes-68d14350141bb4c6af11d89b"
     ]
   },
   "pccc.com": {
-    "lastAt": 1758709467335,
+    "lastAt": 1759072748059,
     "urls": [
       "https://pccc.com/",
       "https://pccc.com/it-support-pricing/",
@@ -14595,15 +14614,15 @@
     ]
   },
   "allegro.pl": {
-    "lastAt": 1758709496461,
+    "lastAt": 1759072776073,
     "urls": []
   },
   "isappcloud.com": {
-    "lastAt": 1758709499717,
+    "lastAt": 1759072779413,
     "urls": []
   },
   "vivo.com.cn": {
-    "lastAt": 1758709517970,
+    "lastAt": 1759072788486,
     "urls": [
       "https://www.vivo.com/sa/ar/about-vivo/career/jobs",
       "https://www.vivo.com/sa/ar/about-vivo",
@@ -14648,7 +14667,7 @@
     ]
   },
   "academia.edu": {
-    "lastAt": 1758709525717,
+    "lastAt": 1759072832216,
     "urls": [
       "https://www.academia.edu/148846/A_Short_Method_for_On_line_Alphanumeric_Character_Recognition",
       "https://academia.edu/",
@@ -14689,21 +14708,30 @@
       "https://www.academia.edu/149074/Awake_upper_airway_obstruction_in_children_with_spastic_quadriplegic_cerebral_palsy",
       "https://www.academia.edu/149068/Influenza_in_the_Neonatal_Intensive_Care_Unit",
       "https://www.academia.edu/149025/When_vision_extinguishes_touch_in_neurologically_normal_people_Extending_the_Colavita_visual_dominance_effect",
-      "https://www.academia.edu/149075/Pharyngeal_pressure_with_high_flow_nasal_cannulae_in_premature_infants"
+      "https://www.academia.edu/149075/Pharyngeal_pressure_with_high_flow_nasal_cannulae_in_premature_infants",
+      "https://www.academia.edu/149102/Refining_associations_between_TAS2R38_diplotypes_and_the_6_n_propylthiouracil_PROP_taste_test_studies_from_the_Avon_Longitudinal_Study_of_Parents_and_Children",
+      "https://www.academia.edu/149131/Selling_organs_and_souls_should_the_state_prohibit_demeaning_practices",
+      "https://www.academia.edu/149106/The_association_of_the_PON1_Q192R_polymorphism_with_depression_in_older_women",
+      "https://www.academia.edu/149130/High_flow_nasal_cannula_for_respiratory_support_in_preterm_infants",
+      "https://www.academia.edu/149140/Mendelian_randomization_Using_genes_as_instruments_for_making_causal_inferences_in_epidemiology",
+      "https://www.academia.edu/149134/Common_variation_in_the_FTO_gene_alters_diabetes_related_metabolic_traits_to_the_extent_expected_given_its_effect_on_BMI",
+      "https://www.academia.edu/149137/Common_variants_in_the_GDF5_UQCC_region_are_associated_with_variation_in_human_height",
+      "https://www.academia.edu/149136/A_common_variant_of_HMGA2_is_associated_with_adult_and_childhood_height_in_the_general_population",
+      "https://www.academia.edu/149139/Common_variants_near_MC4R_are_associated_with_fat_mass_weight_and_risk_of_obesity"
     ]
   },
   "mdpi.com": {
-    "lastAt": 1758709528669,
+    "lastAt": 1759072835218,
     "urls": []
   },
   "unpkg.com": {
-    "lastAt": 1758709529162,
+    "lastAt": 1759072835878,
     "urls": [
       "https://unpkg.com/"
     ]
   },
   "ameblo.jp": {
-    "lastAt": 1758709532317,
+    "lastAt": 1759072840095,
     "urls": [
       "https://ameblo.jp/tsuji-nozomi/",
       "https://ameblo.jp/",
@@ -14744,15 +14772,25 @@
       "https://ameblo.jp/takahashihideki-official/",
       "https://ameblo.jp/rumiko-koyanagi/",
       "https://ameblo.jp/ogura-yuko1101/",
-      "https://ameblo.jp/naomi-hosokawa/"
+      "https://ameblo.jp/naomi-hosokawa/",
+      "https://ameblo.jp/yakumaru-hirohide/",
+      "https://ameblo.jp/yukikokashiwagi/",
+      "https://ameblo.jp/ohshima-naomi/",
+      "https://ameblo.jp/masaru-hanada/",
+      "https://ameblo.jp/parin-aya/",
+      "https://ameblo.jp/ojisan283/",
+      "https://ameblo.jp/h-momoko-0221/",
+      "https://ameblo.jp/holypurewhite/",
+      "https://ameblo.jp/toda-keiko/",
+      "https://ameblo.jp/mofu-everyday/"
     ]
   },
   "namebrightdns.com": {
-    "lastAt": 1758709535202,
+    "lastAt": 1759072842986,
     "urls": []
   },
   "apnews.com": {
-    "lastAt": 1758709542698,
+    "lastAt": 1759072849149,
     "urls": [
       "https://apnews.com/",
       "https://apnews.com/high-court-blocks-execution-of-mentally-ill-killer-in-texas-12th-ld-writethru-7500f8bf2948483896a9a38a019ac612",
@@ -14793,11 +14831,21 @@
       "https://apnews.com/article/lotteries-f9bd4b244d2d47f38212042b661ba977",
       "https://apnews.com/article/lotteries-e3af10a1ee334b11a636cc1e8b114f37",
       "https://apnews.com/article/lotteries-685ad31ffa5444f9a933be20419a0972",
-      "https://apnews.com/article/earthquake-san-francisco-berkeley-california-52502daeb6bf1293726f07da64c35478"
+      "https://apnews.com/article/earthquake-san-francisco-berkeley-california-52502daeb6bf1293726f07da64c35478",
+      "https://apnews.com/live/top-25-college-football-poll-9-28-2025",
+      "https://apnews.com/quiz-weekly-news-quiz-250926",
+      "https://apnews.com/article/lotteries-036ac8dc83a04cd3b8cbaf1253150c8b",
+      "https://apnews.com/article/lotteries-941efc9be21f45cfbecc597b4b9d8f0f",
+      "https://apnews.com/article/orioles-baltimore-yankees-nueva-york-mlb-0c7df3ff34df493eba774b768dc200ae",
+      "https://apnews.com/article/lotteries-62a686fdcb874d9c9315049419cd14da",
+      "https://apnews.com/article/britain-railways-bicentenary-train-journey-f082d1d4cd3a70a56d6a5efad7f6556d",
+      "https://apnews.com/article/cowboys-packers-micah-parsons-170c0845fef78a0999c9b79b42a5537f",
+      "https://apnews.com/article/trump-turner-republicans-delegation-ukraine-russia-sanctions-2e433e9cd3e85014aefe245d7092e10a",
+      "https://apnews.com/article/cachorros-cardenales-busch-comodin-playoffs-nacional-mlb-4a16d2af1d56229190a6b63775915909"
     ]
   },
   "change.org": {
-    "lastAt": 1758709547723,
+    "lastAt": 1759072854889,
     "urls": [
       "https://change.org/",
       "https://www.change.org/p/he-deserves-a-second-chance",
@@ -14834,11 +14882,20 @@
       "https://www.change.org/p/bring-back-the-throne-of-maharaja-ranjit-singh-ji-restore-sikh-heritage-to-punjab",
       "https://www.change.org/p/ask-freebee-to-divest-from-tesla",
       "https://www.change.org/p/demand-south-orange-county-community-colleges-refuse-grant-from-compass-energy-bess",
-      "https://www.change.org/p/achieve-zero-hunger-worldwide-bb7a92ca-5f61-4d9a-adc4-a6731a7ea1ed"
+      "https://www.change.org/p/achieve-zero-hunger-worldwide-bb7a92ca-5f61-4d9a-adc4-a6731a7ea1ed",
+      "https://www.change.org/p/demande-d-infrastructures-ext%C3%A9rieures-d%C3%A9di%C3%A9es-au-pickleball-et-au-tennis-%C3%A0-t%C3%A9treaultville",
+      "https://www.change.org/p/enforce-child-support-orders-in-california",
+      "https://www.change.org/p/%E5%85%AC%E6%AD%A3%E3%81%AA%E5%8F%96%E6%9D%90%E3%81%A8%E5%A0%B1%E9%81%93%E3%82%92-%E5%85%83rkb%E6%AF%8E%E6%97%A5%E6%94%BE%E9%80%81-tbs%E7%B3%BB%E5%88%97%E5%B1%80-%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%E4%B9%85%E5%AE%B6%E4%BD%B3%E5%AD%90%E8%A2%AB%E5%91%8A%E3%81%A8%E3%81%AE%E8%A3%81%E5%88%A4%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+      "https://www.change.org/p/devolvamos-nuestra-estatua-a-casa-para-reforzar-nuestra-cultura",
+      "https://www.change.org/p/lutar-por-um-sal%C3%A1rio-justo-para-t%C3%A9cnicos-em-farm%C3%A1cia",
+      "https://www.change.org/p/grant-nyc-high-school-students-a-day-off-on-clerical-day",
+      "https://www.change.org/p/reinstate-hiv-vaccine-research-funding",
+      "https://www.change.org/p/remove-fluoridation-from-moreton-bay-water-supply",
+      "https://www.change.org/p/stop-the-shutdown-save-job-corps-centers-support-our-youth"
     ]
   },
   "healthline.com": {
-    "lastAt": 1758709553580,
+    "lastAt": 1759072860631,
     "urls": [
       "https://healthline.com/",
       "https://www.healthline.com/health/i-walked-after-eating-for-a-week",
@@ -14879,11 +14936,21 @@
       "https://www.healthline.com/health/riedel-thyroiditis",
       "https://www.healthline.com/health/infectious-thyroiditis",
       "https://www.healthline.com/health/hypochlorous-acid-for-skin",
-      "https://www.healthline.com/health/drugs/do-prescriptions-count-towards-deductible"
+      "https://www.healthline.com/health/drugs/do-prescriptions-count-towards-deductible",
+      "https://www.healthline.com/health/es/alimentos-bebidas-antes-de-dormir",
+      "https://www.healthline.com/health/digestive-health/approaches-for-bm-regularity",
+      "https://www.healthline.com/health/hereditary-angioedema/angioedema-on-lips-pictures",
+      "https://www.healthline.com/health/hereditary-angioedema/angioedema-vs-anaphylaxis-differences",
+      "https://www.healthline.com/health/morbidly-obese-and-need-help",
+      "https://www.healthline.com/health/senior-health/what-causes-dry-heaves-in-elderly",
+      "https://www.healthline.com/health/es/consejos-probados-para-dormir-mejor-por-la-noche",
+      "https://www.healthline.com/health/video/calm-your-mind-breathwork-meditation-for-better-sleep-during-perimenopause",
+      "https://www.healthline.com/health/video/what-really-happens-to-your-body-during-a-heart-attack-cardiologist-explains",
+      "https://www.healthline.com/health/obesity/hypothalamic-obesity-what-you-need-to-know"
     ]
   },
   "welt.de": {
-    "lastAt": 1758709558984,
+    "lastAt": 1759072864999,
     "urls": [
       "https://welt.de/",
       "https://www.welt.de/debatte/plus68c2d115b57f8e2dfedfcb2e/patriotismus-verantwortung-disziplin-solidaritaet-was-den-deutschen-fehlt.html",
@@ -14924,11 +14991,21 @@
       "https://www.welt.de/kultur/theater/article68cbff8ba609990af70f1149/regisseurin-lena-brasch-hat-tiktok-die-kraft-das-theater-zu-veraendern.html",
       "https://www.welt.de/regionales/berlin/article68d3c41a4a958e24fe6c05f9/Feuer-in-Berliner-Hochhaus-Ermittlungen-gegen-Mieter.html",
       "https://www.welt.de/regionales/hamburg/article68d3c2eef690fb3eb9734c0c/Auftakt-im-Prozess-um-toedliche-Messerstiche-in-Kiel.html",
-      "https://www.welt.de/regionales/hessen/article68d3c10d4a958e24fe6c0591/U-Bahn-in-Frankfurt-entgleist-Bergung-dauert-an.html"
+      "https://www.welt.de/regionales/hessen/article68d3c10d4a958e24fe6c0591/U-Bahn-in-Frankfurt-entgleist-Bergung-dauert-an.html",
+      "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article68d54e04a96bd7149d84bbeb/VSG-Altglienicke-BFC-Dynamo-Dynamo-hat-Luft-nach-oben-Regionalliga-Nordost.html",
+      "https://www.welt.de/regionales/hamburg/article68d951960ce4b25e2dca2eb0/Towers-verlieren-zum-Auftakt-gegen-den-MBC.html",
+      "https://www.welt.de/regionales/bayern/article68d950a63204c86ca0ddbe0b/Kind-trinkt-Milch-auf-ex-Kritik-und-Likes-fuer-Video.html",
+      "https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article68d9511e0ce4b25e2dca2eaa/Shutdown-Streit-Trump-trifft-sich-nun-doch-mit-Demokraten.html",
+      "https://www.welt.de/regionales/hessen/article68d950e22f5d2d79563e4c43/Blick-hinter-die-Kulissen-Zootag-im-Frankfurter-Zoo.html",
+      "https://www.welt.de/regionales/berlin/article68d94ff23204c86ca0ddbe05/Kirchen-erinnern-an-Bistums-Gruendung-Lebus-vor-900-Jahren.html",
+      "https://www.welt.de/vermischtes/bilder-des-tages/gallery68d9240b7ba8a67cd7018aee/fotografie-die-besten-bilder-des-tages.html",
+      "https://www.welt.de/politik/ausland/article68d93fcc88300c7476b9a2e4/nathan-gill-ehemaliger-brexit-politiker-gesteht-annahme-von-bestechungsgeldern-aus-russland.html",
+      "https://www.welt.de/regionales/hessen/article68d94bf60ce4b25e2dca2e25/Unbekannte-schmeissen-Leitpfosten-auf-Fahrbahn.html",
+      "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article68d9430e3204c86ca0ddbd54/Revanche-in-Ruanda-Pogacar-nach-Soloritt-wieder-Weltmeister.html"
     ]
   },
   "globalsign.com": {
-    "lastAt": 1758709585290,
+    "lastAt": 1759072868748,
     "urls": [
       "https://www.globalsign.com/en",
       "https://globalsign.com/",
@@ -14969,41 +15046,51 @@
       "https://www.globalsign.com/en/company/news-events/press/httpswwwsmartgridtodaycommembersglobalsign-help-lxi-consortium-iot-securitycfm",
       "https://www.globalsign.com/en/company/news-events/press/lxi-appoints-globalsign-approved-security-vendor",
       "https://www.globalsign.com/en/company/news-events/press/globalsign-introduces-iot-developer-program-and-iot-developer-portal-streamline-iot-security-integrations",
-      "https://www.globalsign.com/en/company/news-events/press/why-nist-announced-cybersecurity-guidelines-iot"
+      "https://www.globalsign.com/en/company/news-events/press/why-nist-announced-cybersecurity-guidelines-iot",
+      "https://www.globalsign.com/en/company/leadership/henry-krumins",
+      "https://www.globalsign.com/en/company/leadership/ichiro-chujo",
+      "https://www.globalsign.com/en/company/leadership/koji-takenobu",
+      "https://www.globalsign.com/en/ssl-information-center",
+      "https://www.globalsign.com/en/ssl-information-center/what-is-ssl",
+      "https://www.globalsign.com/en/company/leadership/carolyn-oldenburg",
+      "https://www.globalsign.com/en/company/leadership/arvid-vermote",
+      "https://www.globalsign.com/en/ssl-information-center/what-is-an-ssl-certificate",
+      "https://www.globalsign.com/en/ssl-information-center/what-is-an-extended-validation-certificate",
+      "https://www.globalsign.com/en/company/news-events/press/pki-guy-explores-iot-security-doug-beattie-globalsign"
     ]
   },
   "hbr.org": {
-    "lastAt": 1758709587762,
+    "lastAt": 1759072870226,
     "urls": [
       "https://hbr.org/"
     ]
   },
   "360.cn": {
-    "lastAt": 1758709592300,
+    "lastAt": 1759072877424,
     "urls": [
       "https://360.cn/"
     ]
   },
   "kontur.ru": {
-    "lastAt": 1758709594483,
+    "lastAt": 1759072879072,
     "urls": [
       "https://kontur.ru/"
     ]
   },
   "upwork.com": {
-    "lastAt": 1758709597942,
+    "lastAt": 1759072882601,
     "urls": []
   },
   "mozilla.net": {
-    "lastAt": 1758709600887,
+    "lastAt": 1759072885928,
     "urls": []
   },
   "stickyadstv.com": {
-    "lastAt": 1758709659697,
+    "lastAt": 1759072944741,
     "urls": []
   },
   "kaspi.kz": {
-    "lastAt": 1758709671846,
+    "lastAt": 1759072957247,
     "urls": [
       "https://kaspi.kz/",
       "https://kaspi.kz/shop/fort-shevchenko/c/scanners/",
@@ -15044,27 +15131,37 @@
       "https://kaspi.kz/shop/fort-shevchenko/c/bed%20pillows%20and%20pillowcases/",
       "https://kaspi.kz/shop/fort-shevchenko/c/men%20shoes/?q=:category:Men%20shoes:manufacturerName:Nike&sort=relevance&ref=fashion-landing-Nike&started_by=popular%20brands",
       "https://kaspi.kz/shop/fort-shevchenko/c/boy%20tights/",
-      "https://kaspi.kz/shop/fort-shevchenko/c/pet%20mats/"
+      "https://kaspi.kz/shop/fort-shevchenko/c/pet%20mats/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/men%20shoes/?q=:category:Men%20shoes:manufacturerName:Respect&sort=relevance&ref=fashion-landing-Respect&started_by=popular%20brands",
+      "https://kaspi.kz/shop/fort-shevchenko/c/boy%20coats/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/girl%20pants/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/women%20fashion/?q=%3AavailableInZones%3AMagnum_ZONE1%3Acategory%3AWomen%20fashion%3AmanufacturerName%3ADKNY&sort=relevance&sc=&started_by=popular%20brands",
+      "https://kaspi.kz/shop/fort-shevchenko/c/perfumes/?q=%3Acategory%3APerfumes%3AmanufacturerName%3AMONTBLANC%3APerfumes*Kind%3A%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D1%84%D0%BB%D0%B0%D0%BA%D0%BE%D0%BD",
+      "https://kaspi.kz/shop/fort-shevchenko/c/stands%20and%20lifts%20for%20the%20engine/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/magnetic%20therapy%20devices/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/relay/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/virus%20blockers/",
+      "https://kaspi.kz/shop/fort-shevchenko/c/portable%20video%20recorders/"
     ]
   },
   "onlyfans.com": {
-    "lastAt": 1758709672288,
+    "lastAt": 1759072957638,
     "urls": [
       "https://onlyfans.com/"
     ]
   },
   "aliyuncsslbintl.com": {
-    "lastAt": 1758712712127,
+    "lastAt": 1759072961232,
     "urls": []
   },
   "onetag-sys.com": {
-    "lastAt": 1758712713135,
+    "lastAt": 1759072962221,
     "urls": [
       "https://onetag-sys.com/"
     ]
   },
   "fontawesome.com": {
-    "lastAt": 1758712715274,
+    "lastAt": 1759072964196,
     "urls": [
       "https://fontawesome.com/",
       "https://fontawesome.com/icons",
@@ -15105,11 +15202,21 @@
       "https://fontawesome.com/search?sponsored=yes",
       "https://fontawesome.com/search?s=solid",
       "https://fontawesome.com/search?s=regular",
-      "https://fontawesome.com/search?s=light"
+      "https://fontawesome.com/search?s=light",
+      "https://fontawesome.com/search?s=thin",
+      "https://fontawesome.com/search?f=brands",
+      "https://fontawesome.com/search?s=duotone",
+      "https://fontawesome.com/icons/categories/halloween",
+      "https://fontawesome.com/icons/categories/hands",
+      "https://fontawesome.com/icons/categories/social",
+      "https://fontawesome.com/icons/categories/household",
+      "https://fontawesome.com/icons/categories/fruits-vegetables",
+      "https://fontawesome.com/icons/categories/punctuation-symbols",
+      "https://fontawesome.com/icons/categories/weather"
     ]
   },
   "go-mpulse.net": {
-    "lastAt": 1758712718453,
+    "lastAt": 1759072967402,
     "urls": []
   },
   "flashtalking.com": {
