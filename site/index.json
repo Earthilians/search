@@ -259726,5 +259726,621 @@
     "title": "Help | Merriam-Webster",
     "description": "Merriam-Webster is the most reliable, trusted, easy-to-use dictionary and thesaurus online. Our prod",
     "text": "Lists of undefined words occur after the entries of these prefixes and combining forms:\nThese words "
+  },
+  {
+    "id": "0bdba671ec74b14cb4f28247abea2f1acba46191",
+    "url": "https://www.ndr.de/sport/fussball/giftiger-hsv-verdient-sich-einen-punkt-bei-union-berlin,hsv-592.html",
+    "title": "Giftiger HSV verdient sich einen Punkt bei Union Berlin | ndr.de",
+    "description": "Der HSV hat in der Fußball-Bundesliga den zweiten Saisonsieg verpasst. Die Hamburger verdienten sich",
+    "text": "Der HSV hat in der Fußball-Bundesliga den zweiten Saisonsieg verpasst. Die Hamburger verdienten sich"
+  },
+  {
+    "id": "e99cda79106a91cc76cf38e0c9283bad1e5e2610",
+    "url": "https://www.ndr.de/geschichte/koepfe/zehnter-todestag-hellmuth-karasek-zwischen-ernst-und-unterhaltung,karasek168.html",
+    "title": "Hellmuth Karasek: Feste Größe im \"Literarischen Quartett\" | ndr.de",
+    "description": "Er war einer der prägenden Kritiker und Intellektuellen der bundesdeutschen Nachkriegszeit. Hellmuth",
+    "text": "Er war einer der prägenden Kritiker und Intellektuellen der bundesdeutschen Nachkriegszeit. Hellmuth"
+  },
+  {
+    "id": "295783de13ba88e7062bc3fab485ae4fce206eb3",
+    "url": "https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/hoehenrettung-im-heide-park-feuerwehren-trainieren-in-soltau,hoehenretter-100.html",
+    "title": "Höhenrettung im Heide Park: Feuerwehren trainieren in Soltau | ndr.de",
+    "description": "Heute wird im Heide Park in Soltau für den Ernstfall trainiert: Höhenretter der Feuerwehren Hannover",
+    "text": "Heute wird im Heide Park in Soltau für den Ernstfall trainiert: Höhenretter der Feuerwehren Hannover"
+  },
+  {
+    "id": "e19b256b25280e239f46485341ece5e4119fd3fe",
+    "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/wegen-bauarbeiten-bahnstrecke-zur-nordseekueste-gesperrt,gleisbauarbeiten-102.html",
+    "title": "Wegen Bauarbeiten: Bahnstrecke zur Nordseeküste gesperrt | ndr.de",
+    "description": "Ab heute ist die Bahnstrecke zwischen Emden und Norddeich für zwei Wochen gesperrt. Grund dafür sind",
+    "text": "Ab heute ist die Bahnstrecke zwischen Emden und Norddeich für zwei Wochen gesperrt. Grund dafür sind"
+  },
+  {
+    "id": "cc9d06246ad0856b6c582b91f0bda2277b65bb47",
+    "url": "https://www.ndr.de/geschichte/koepfe/Gerd-Bucerius-Der-Herr-ueber-die-Zeit-,gerdbucerius101.html",
+    "title": "Gerd Bucerius, Herr über die \"Zeit\": Streitbar wie tolerant | ndr.de",
+    "description": "Der Gründer der Wochenzeitung \"Die Zeit\" Gerd Bucerius galt als streitbar, aber auch als tolerant un",
+    "text": "Der Gründer der Wochenzeitung \"Die Zeit\" Gerd Bucerius galt als streitbar, aber auch als tolerant un"
+  },
+  {
+    "id": "730ec4d74f4500a5df9f596441164bc82de92f4c",
+    "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/buergermeisterwahl-jochen-arenz-bleibt-stadtoberhaupt-von-bad-doberan,mvregiorostock-1094.html",
+    "title": "Bürgermeisterwahl: Jochen Arenz bleibt Stadtoberhaupt von Bad Doberan | ndr.de",
+    "description": "Der amtierende Bürgermeister ist als einziger Kandidat zur Wahl angetreten. 94 Prozent der Wähler st",
+    "text": "Jochen Arenz (parteilos) ist der neue alte Bürgermeister von Bad Doberan (Landkreis Rostock). \"Ich k"
+  },
+  {
+    "id": "7c822a3ef419e14e3209a50603037233b49ab33b",
+    "url": "https://www.ndr.de/sport/dfb-pokal-der-frauen-hsv-und-werder-weiter-meppen-und-96-ausgeschieden,kurzmeldungsport-1102.html",
+    "title": "DFB-Pokal der Frauen: HSV und Werder weiter, Meppen und 96 ausgeschieden | ndr.de",
+    "description": "Kurzmeldung Sport",
+    "text": "Die Fußballerinnen des Hamburger SV sind in die zweite Runde des DFB-Pokals eingezogen. Beim Regiona"
+  },
+  {
+    "id": "b0c24745395e558fc0df21aaa27bc1f3a47f14e9",
+    "url": "https://www.ndr.de/sport/handball/vierter-sieg-in-folge-sg-flensburg-handewitt-nun-zweiter,flensburg-handewitt-152.html",
+    "title": "Vierter Sieg in Folge: SG Flensburg-Handewitt nun Zweiter | ndr.de",
+    "description": "Die SG Flensburg-Handewitt ist in der Handball-Bundesliga zumindest vorübergehend der erste Verfolge",
+    "text": "Die SG Flensburg-Handewitt ist in der Handball-Bundesliga zumindest vorübergehend der erste Verfolge"
+  },
+  {
+    "id": "b38d922d4785274da2fb97e67e430733e59244b1",
+    "url": "https://www.ndr.de/sport/fussball/vfl-osnabrueck-punktet-bei-viktoria-koeln,osnabrueck-294.html",
+    "title": "VfL Osnabrück punktet bei Viktoria Köln | ndr.de",
+    "description": "Trotz mehrerer guter Chancen musste sich Fußball-Drittligist VfL Osnabrück am Sonntagabend mit einem",
+    "text": "Trotz mehrerer guter Chancen musste sich Fußball-Drittligist VfL Osnabrück am Sonntagabend mit einem"
+  },
+  {
+    "id": "65a22296ea7acb47c1133b3c490d92ccb3f6c1ca",
+    "url": "https://www.ndr.de/ratgeber/gesundheit/traumatische-geburt-protagonistinnen-gesucht,fb178.html",
+    "title": "Traumatische Geburt: Protagonistinnen gesucht | ndr.de",
+    "description": "Traumatische Geburt: Protagonistinnen gesucht",
+    "text": "Hast du eine traumatische Geburt mit körperlichen Schäden erlebt? Kommst du aus Norddeutschland und "
+  },
+  {
+    "id": "9671e25f195ec29d26b442181f04eaf2e9ff7b0e",
+    "url": "https://www.vivo.com/sa/ar/products/param/y51",
+    "title": "vivo Y51- كاميرا ثلاثية، مواصفات بطارية 5000 مللي أمبير | vivo السعودية",
+    "description": "استمتع بتجربة هاتف vivo Y51 مع شاشة FHD+ مقاس 6.58 بوصة، وذاكرة وصول عشوائي سعتها 8 جيجابايت، ومساحة",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "6fc38b3e7c5844778eff1cf86affa41a657ab05f",
+    "url": "https://www.vivo.com/sa/ar/products/param/y53s",
+    "title": "بطارية vivo Y53s بسعة 5000 مللي أمبير، مواصفات الشحن السريع | vivo السعودية",
+    "description": "اكتشف هاتف vivo Y53s المزود بمعالج Helio G80 وكاميرات أمامية بدقة 16 ميجابكسل وخلفية بدقة 64 ميجابكس",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "2c3b42fed214d8fa1feaf75da6019fcd67df1fcb",
+    "url": "https://www.vivo.com/sa/ar/products/picture/t1x",
+    "title": "vivo T1x丨vivo Saudi Arabia (AR)",
+    "description": "vivo T1x | vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "29fa32562f5aaafc8968e3a42bb6c9dd35e0f901",
+    "url": "https://www.vivo.com/sa/ar/products/picture/t15g",
+    "title": "vivo T1 5G丨vivo Saudi Arabia (AR)",
+    "description": "vivo T1 5G | vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "5cbe78a62820d055f642d4cb517aa2508b8dc504",
+    "url": "https://www.vivo.com/sa/ar/products/param/y555g",
+    "title": "بطارية vivo Y55 5G-5000 مللي أمبير، مواصفات الشحن السريع | vivo السعودية",
+    "description": "استمتع بتجربة هاتف vivo Y55 5G مع شاشة FHD+ مقاس 6.58 بوصة، ومعالج Dimensity 700، وبطارية 5000 مللي ",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "0e333feee4360d82debf186854884dfec692ac1e",
+    "url": "https://www.vivo.com/sa/ar/products/param/y765g",
+    "title": "vivo Y76 5G-مواصفات الكاميرات الخلفية الثلاثية | vivo السعودية",
+    "description": "اكتشف هاتف vivo Y76 5G مع ذاكرة وصول عشوائي (RAM) سعة 8 جيجابايت + مساحة تخزين 128 جيجابايت، وكاميرا",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "f82428196aa797c4b93175444fbf71f1a5269e5c",
+    "url": "https://www.vivo.com/sa/ar/products/picture/tws-air",
+    "title": "vivo TWS Air丨vivo Saudi Arabia (AR)",
+    "description": "vivo TWS Air | vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "dc02dd3ea678f5dff09b72170d4279354c71ed99",
+    "url": "https://www.vivo.com/sa/ar/products/picture/v27",
+    "title": "vivo V27丨vivo Saudi Arabia (AR)",
+    "description": "vivo V27 | vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "a12ca59514355faac7463688d08692149d258920",
+    "url": "https://www.vivo.com/sa/ar/products/picture/v29",
+    "title": "V29 GALLERY",
+    "description": "vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "7e6709c7691fd1145bf08aad3fb1f73d77aefffb",
+    "url": "https://www.vivo.com/sa/ar/products/picture/v30",
+    "title": "V30 GALLERY",
+    "description": "vivo Saudi Arabia (AR)",
+    "text": "X200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5G\nY04\nX200 FE\nV60 5G\nV50 5G\nV50 Lite 5G\nY29s 5G\nY39 5"
+  },
+  {
+    "id": "27f274e54fbc20f930ec3aa952df612d536da4f7",
+    "url": "https://www.finn.no/motor/artikler/bat/bunnstoff-styr-unna-nybegynner-tabbene",
+    "title": "Tre nybegynnertips for bunnstoff | FINN.no",
+    "description": "For noen er det en kjærkommen tradisjon på starten av en ny båtsesong. For andre setter det familien",
+    "text": "Du kan spare gode penger på å påføre bunnstoff selv. Men skal du beholde familiefreden gjelder det å"
+  },
+  {
+    "id": "6238eaafacdbae6231469b945e402748ba135677",
+    "url": "https://www.finn.no/motor/artikler/bat/kjopekontrakt-for-baat-er-en-veldig-god-ide-1-1",
+    "title": "Skal du kjøpe båt er det veldig viktig med kjøpekontrakt | FINN.no",
+    "description": "Når du skal du kjøpe brukt båt så er det viktig å ha en kjøpekontrakt. I samarbeid med Forbrukerråde",
+    "text": "Ingen er dønn ærlige hele tiden, så vi har laget en solid kontraktsmal i samarbeid med Forbrukerråde"
+  },
+  {
+    "id": "7e02f8c65e82b9f7285372b11500b3eb1149031e",
+    "url": "https://www.finn.no/motor/artikler/bat/her-er-battypene-du-bor-velge-til-barna",
+    "title": "Hvilken båt bør man velge til de unge og håpefulle? | FINN.no",
+    "description": "Mange barn og unge benytter sommeren til å prøve seg i en båt for første gang, og fine sommere gjør ",
+    "text": "Mange barn og unge benytter sommeren til å prøve seg i en båt for første gang, og fine sommere gjør "
+  },
+  {
+    "id": "ff249da112013e8c9b88c36040b0fa682705d686",
+    "url": "https://www.finn.no/motor/artikler/bat/ekstrautstyret-som-gjor-at-baten-holder-seg-i-verdi-1",
+    "title": "Ekstrautstyr gjør at båten holder seg i verdi | FINN.no",
+    "description": "For deg som skal kjøpe bruktbåt kan du spare mye penger på å tenke over hva slags ekstrautstyr du tr",
+    "text": "For deg som skal kjøpe bruktbåt kan du spare mye penger på å tenke over hva slags ekstrautstyr du tr"
+  },
+  {
+    "id": "8ea7d78cb62527c2f7a2ddd484abddea0fab57c2",
+    "url": "https://www.finn.no/motor/artikler/bat/runar-65-er-bare-en-helt-vanlig-fyr-som-elsker-bat",
+    "title": "Runar (65) skulle i hvert fall ikke ha båt! | FINN.no",
+    "description": "Du trenger ikke å kunne mange knuter for å trives på sjøen.",
+    "text": "Du trenger ikke å kunne mange knuter for å trives på sjøen.\nPublisert 11. april 2025 kl. 11.46\nDet e"
+  },
+  {
+    "id": "7114158538b7e0501d2920cc4b85eb62a04559d0",
+    "url": "https://www.finn.no/motor/artikler/bat/slik-gjor-du-klar-baten-for-sesongen",
+    "title": "Slik gjør du klar båten for sesongen | FINN.no",
+    "description": "Noe av det viktigste man kan gjøre for å ta vare på båten sin, er å sende motoren på service og gi b",
+    "text": "Noen få enkle grep på din båt, før sjøsetting, kan spare deg for store utgifter. Det er mye man enke"
+  },
+  {
+    "id": "ca9ec779b192f150bedf809353082e3449d64768",
+    "url": "https://www.finn.no/motor/artikler/bat/slik-sjosetter-du-baten-ikke-bilen",
+    "title": "Slik sjøsetter du båten - ikke bilen! | FINN.no",
+    "description": "Sommer og båtliv nærmer seg. Med denne guiden får du båten trygt på vannet!",
+    "text": "Sommer og båtliv nærmer seg. Med denne guiden får du båten trygt på vannet!\nPublisert 14. mai 2021 k"
+  },
+  {
+    "id": "5344e6450a3b8f6c6c8a787fd9a5c73b49d462a8",
+    "url": "https://www.finn.no/motor/artikler/bat/her-er-sjekklisten-for-deg-som-drommer-om-bat",
+    "title": "Ti tips til deg som drømmer om å kjøpe båt | FINN.no",
+    "description": "I skrivende stund er det tusenvis av båter til salgs på FINN.no. Det er altså mye å velge i allerede",
+    "text": "I skrivende stund er det tusenvis av båter til salgs på FINN.no. Det er altså mye å velge i allerede"
+  },
+  {
+    "id": "a9a3f8ed43b6be91d56cd1e0a6f1c24a0aeed54d",
+    "url": "https://www.coursera.org/articles/adobe-content-creator-certificate-skills-video",
+    "title": "8 In-Demand Skills from Adobe's Content Creator Certificate [VIDEO] | Coursera",
+    "description": "Transform your creativity into a career with Adobe's Content Creator Professional Certificate! This ",
+    "text": "Transform your creativity into a career with Adobe's Content Creator Professional Certificate! This "
+  },
+  {
+    "id": "300dae4156433bce5e80427f599bc2de4aebda25",
+    "url": "https://www.coursera.org/articles/adobe-content-creator-certificate-tools-video",
+    "title": "Adobe Content Creator Certificate: Tools You Need to Start Your Career [VIDEO] | Coursera",
+    "description": "Want to create professional content without years of design experience? Adobe Express and Firefly ar",
+    "text": "Want to create professional content without years of design experience? Adobe Express and Firefly ar"
+  },
+  {
+    "id": "bdf44e38119ebca3eddece141fed1ce5f39d5ca1",
+    "url": "https://www.coursera.org/articles/adobe-content-creator-certificate-career-paths-video",
+    "title": "3 Career Paths After Getting Your Adobe Content Creator Certificate [VIDEO] | Coursera",
+    "description": "Wondering how an Adobe certification can transform your career? This video reveals 3 in-demand jobs ",
+    "text": "Wondering how an Adobe certification can transform your career? This video reveals 3 in-demand jobs "
+  },
+  {
+    "id": "a73fdb0ef12db1615c8f47da84217bad87179656",
+    "url": "https://www.coursera.org/articles/address-resolution-protocol",
+    "title": "What Is Address Resolution Protocol? | Coursera",
+    "description": "Learn about the address resolution protocol and how it connects a computer's IP address to a MAC add",
+    "text": "Learn about the address resolution protocol and how it connects a computer's IP address to a MAC add"
+  },
+  {
+    "id": "9963ed21ac795755a5a48ad4a5c5fcfbb322ca20",
+    "url": "https://www.coursera.org/articles/adobe-creative-cloud",
+    "title": "Adobe Creative Cloud: What Is It and Is It Right for You? | Coursera",
+    "description": "Explore how creators use Adobe Creative Cloud apps to create an array of visual content, and explore",
+    "text": "Explore how creators use Adobe Creative Cloud apps to create an array of visual content, and explore"
+  },
+  {
+    "id": "33fb5fa0d4ff0700b3a0ba002d18ddb6bf726a73",
+    "url": "https://www.coursera.org/articles/adobe-express",
+    "title": "Adobe Express: Features, Uses, and Getting Started | Coursera",
+    "description": "Learn about the web-based content creation platform Adobe Express and how social media marketers, bu",
+    "text": "Learn about the web-based content creation platform Adobe Express and how social media marketers, bu"
+  },
+  {
+    "id": "ff6ae257bacae079b98dac577063b389153ec30b",
+    "url": "https://www.coursera.org/articles/adobe-express-certification",
+    "title": "What Is the Adobe Express Certification? | Coursera",
+    "description": "Explore the Adobe Express certification process and get details about exam topics, prep courses, and",
+    "text": "Explore the Adobe Express certification process and get details about exam topics, prep courses, and"
+  },
+  {
+    "id": "59192215b1f262cc4172e1f0bad4341e7d7e63bd",
+    "url": "https://www.coursera.org/articles/adobe-firefly",
+    "title": "Adobe Firefly: Key Features and Use Cases | Coursera",
+    "description": "Explore Adobe Firefly, a family of AI models and tools you can use to expand your creativity. Discov",
+    "text": "Explore Adobe Firefly, a family of AI models and tools you can use to expand your creativity. Discov"
+  },
+  {
+    "id": "23d182b1177f6f4a90bb4e1227822673b3d8390e",
+    "url": "https://www.coursera.org/articles/adobe-generative-ai",
+    "title": "Adobe Generative AI: Features, Applications, and Getting Started | Coursera",
+    "description": "Learn how Adobe generative AI is revolutionizing the creative process and get tips to start creating",
+    "text": "Learn how Adobe generative AI is revolutionizing the creative process and get tips to start creating"
+  },
+  {
+    "id": "8db486c8d4751e10ded39dbc2b80857abce0adad",
+    "url": "https://www.coursera.org/articles/advanced-analytics",
+    "title": "Advanced Analytics: Definition, Benefits, and Use Cases | Coursera",
+    "description": "Advanced analytics employs some of the most complex data analytics techniques to help businesses and",
+    "text": "Advanced analytics employs some of the most complex data analytics techniques to help businesses and"
+  },
+  {
+    "id": "2362c8b78e55396e6e4abf37ccb48758a043ec8e",
+    "url": "https://trello.com/templates/business/decision-tracking-board-g8vsbmEA",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "d00b33ce5a971713bad06a0a00bab12ffc8ede56",
+    "url": "https://trello.com/templates/team-management/offsite-planning-QFFN55LD",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "5d0eac84a13600eb00b6670316eb27a49e5d0c04",
+    "url": "https://trello.com/templates/personal/discover-the-best-of-paris-in-48-hours-myL5r2y4",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "f347828a19ac10c62783f0cf7f7d8858a269db12",
+    "url": "https://trello.com/templates/team-management/1-on-1-meeting-agenda-FoIwUPz2",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "476c39f5cc52d126642a76bb4252b49cbecc1e27",
+    "url": "https://trello.com/templates/sales/customer-success-board-tBR1MPkA",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "08822621a5d4fe65edd5484872d76e486e10495a",
+    "url": "https://trello.com/templates/product-management/shipping-planner-MC3vZiVE",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "2eae42956ff7fd20c38248edb14ee04593e18e4a",
+    "url": "https://trello.com/templates/sales/bike-repair-pipeline-9clNtU6v",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "5cb9859ffc136c808dbc0ac9b4ff2fab49b5f6c9",
+    "url": "https://trello.com/templates/project-management/managing-translations-ePkNcvAX",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "37d66717b1824612484ea99550a99d3501f08d04",
+    "url": "https://trello.com/templates/design/design-sprint-6NanhvtF",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "482e4235a58b238c78fcb1968cf673f0eab5d854",
+    "url": "https://trello.com/templates/productivity/marc-andreesen-productivity-system-VOy8QVlg",
+    "title": "Trello",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards",
+    "text": ""
+  },
+  {
+    "id": "d4e26082bfbc1b561e7456abe00525d5f4080dc5",
+    "url": "https://www.aftonbladet.se/horoskop/a/zAvA1q/dagens-horoskop-27-september",
+    "title": "Dagens horoskop 27 september",
+    "description": "Hur blir din dag? Astrolog Tor Tolander ger dig horoskopet för den 27 september 2025.",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nTor Tolander\nchevron-right\nPublicerad 2025-09-27 05.30\nHur blir din d"
+  },
+  {
+    "id": "5139c254baebc1316d4e4b4a1eb17012a0a2c3e1",
+    "url": "https://www.aftonbladet.se/ledare/a/Gy45L4/ar-det-har-vi-ska-bo-att-bo-kvar-med-mamma-ar-basta-preventivmedlet",
+    "title": "Är det här vi ska bo? | Att bo kvar med mamma är bästa preventivmedlet",
+    "description": "Jag är nydumpad. Helvete.",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nEmil Nordfjell\nAftonbladets ledarsida är oberoende socialdemokratisk."
+  },
+  {
+    "id": "e1cec3b2639eab8775b7fd8a6552ffc5fa88065d",
+    "url": "https://www.aftonbladet.se/ledare/a/eMAmoM/du-betalar-hogre-skatt-an-sovande-miljardarer",
+    "title": "Förmögenhetsskatt | Nu har nio av tio fransmän fått nog",
+    "description": "Det ska löna sig att arbeta. Det är så det brukar låta från högern. Ändå låter de miljardärernas rik",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nGabriella Kärnekull Wolfe\nchevron-right\nPublicerad 2025-09-27 06.00\nA"
+  },
+  {
+    "id": "af737f910c2df85db74bba13d37cda17e6aa9e31",
+    "url": "https://www.aftonbladet.se/nyheter/a/Gy4X8q/urinvagsinfektion-kan-ge-ledtrad-om-cancer",
+    "title": "Urinvägsinfektion kan ge ledtråd om cancer",
+    "description": "En ny studie visar att det kan finnas ett samband mellan urinvägsinfektion och vissa cancertyper hos",
+    "text": "Dagens namn: Mikael, Mikaela\nTT\nchevron-right\nPublicerad 2025-09-27 05.30\nEn ny studie visar att det"
+  },
+  {
+    "id": "017bcd9b7fc158dcc0a7a2ee2ee85048367fe2fd",
+    "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1406896",
+    "title": "Uppgifter: 50 000 ryska soldater har flytt - Senaste nytt – snabba nyheter från Aftonbladet",
+    "description": "",
+    "text": "Dagens namn: Mikael, Mikaela\nMinst 50 000 ryska soldater har flytt från striderna i Ukraina sedan in"
+  },
+  {
+    "id": "e4436003a803b77a4244d7cc4284711544c6e8d1",
+    "url": "https://www.aftonbladet.se/debatt/a/zAvkkq/sverige-inte-immunt-mot-den-farliga-utvecklingen",
+    "title": "Sverige inte immunt mot den farliga utvecklingen",
+    "description": "DEBATT. Kunskap, vetenskap och yttrandefrihet är grundbultarna i ett demokratiskt samhälle. Men de ä",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nDetta är en debattartikel. Det är skribenten som står för åsikterna s"
+  },
+  {
+    "id": "6e1bfc9c3dae8de34ed14d48ab7e724b6a991cf0",
+    "url": "https://www.aftonbladet.se/nyheter/a/wgwkp1/sa-klarar-din-mat-ett-stromavbrott",
+    "title": "Så klarar din mat ett strömavbrott",
+    "description": "Vad kan du äta i kylskåpet efter ett strömavbrott och vilka varor borde du kasta? Och hur undviker d",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nTT\nchevron-right\nPublicerad 2025-09-27 06.30\nVad kan du äta i kylskåp"
+  },
+  {
+    "id": "493e3dd6e416205331d9a9b705754697efdca14f",
+    "url": "https://www.aftonbladet.se/nyheter/a/jQoxnb/risk-for-fler-politiska-mord-efter-charlie-kirk",
+    "title": "Risk för fler politiska mord efter Charlie Kirk",
+    "description": "Mordet på högerdebattören Charlie Kirk kan leda till ytterligare eskalerat politiskt våld i USA. USA",
+    "text": "Dagens namn: Mikael, Mikaela\nTT\nchevron-right\nPublicerad 2025-09-27 06.00\nMordet på högerdebattören "
+  },
+  {
+    "id": "4e1a30d68a80a686fa407f09ec4e26cc6411d2bf",
+    "url": "https://www.aftonbladet.se/nojesbladet/a/zAvXrK/ani-jewels-vd-om-att-jobba-med-bianca-ingrosso-och-lovisa-worge",
+    "title": "Ani Jewels vd om att jobba med Bianca Ingrosso och Lovisa Worge",
+    "description": "Camilla Tullberg Wengholm är vd på Bianca Ingrosso och Lovisa Worges smyckesföretag. Nu berättar hon",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nNatalie Demirian Genna\nchevron-right\nPublicerad 2025-09-27 06.24\nCami"
+  },
+  {
+    "id": "c19d197a7d82613e5e5683283b422f3702c0130b",
+    "url": "https://www.aftonbladet.se/kungligt/a/pP7XWE/sara-fergusons-brev-till-jeffrey-epstein",
+    "title": "Sara Fergusons brev till Jeffrey Epstein",
+    "description": "Skandalerna i brittiska kungahuset",
+    "text": "Dagens namn: Mikael, Mikaela\n/\nJenny Alexandersson\nDetta är en kommenterande text. Analys och ställn"
+  },
+  {
+    "id": "55b0b3479e66d0024f52b74ec562adf9f6f72834",
+    "url": "https://www.lanacion.com.ar/editoriales/la-grave-crisis-humanitaria-en-afganistan-nid29092025/",
+    "title": "La grave crisis humanitaria en Afganistán - LA NACION",
+    "description": "La grave crisis humanitaria en Afganistán - LA NACION",
+    "text": "La pobreza, la sequía y el hambre en una economía colapsada castigan a millones de afganos cuya situ"
+  },
+  {
+    "id": "aa0279e07da203f22ef051857fa6f189c74ddd89",
+    "url": "https://www.lanacion.com.ar/juegos/adivinanzas-con-respuestas-descubri-el-significado-escondido-en-la-imagen-290925-nid29092025/",
+    "title": "¿Podés encontrar la palabra escondida en esta imagen? - LA NACION",
+    "description": "Los distintos elementos de este rebús representan una palabra o una frase: ¿podés descifrar cuál? - ",
+    "text": "LN Juegos continúa en expansión y ahora suma rebuses a su propuesta lúdica. A diferencia de los clás"
+  },
+  {
+    "id": "30055c5789b946ee0d82cc5206f5db822a5f1573",
+    "url": "https://www.lanacion.com.ar/opinion/el-aporte-vital-de-la-diplomacia-nid29092025/",
+    "title": "El aporte vital de la diplomacia - LA NACION",
+    "description": "El aporte vital de la diplomacia - LA NACION",
+    "text": "El 29 de septiembre se celebra el Día del Diplomático Argentino. La fecha fue elegida por el papa Ju"
+  },
+  {
+    "id": "fd0553ace640a43f88c1e4a366730cac8e0ed73e",
+    "url": "https://www.lanacion.com.ar/estados-unidos/el-objeto-coleccionable-encontrado-en-ohio-y-valorado-en-cientos-de-dolares-en-una-tienda-de-segunda-nid28092025/",
+    "title": "El objeto coleccionable encontrado en Ohio y valorado en cientos de dólares: en una tienda de segund",
+    "description": "Un hombre en Ohio halló en una tienda de segunda mano un videojuego de edición especial por menos de",
+    "text": "Lo que parecía una espera aburrida terminó convirtiéndose en un hallazgo inesperado. Un hombre de 31"
+  },
+  {
+    "id": "5aa637b8054794048e0e2e9e0ac709ec76f03517",
+    "url": "https://www.lanacion.com.ar/agencias/un-vistazo-a-la-25-jornada-del-futbol-de-brasil-nid29092025/",
+    "title": "Un vistazo a la 25ª jornada del fútbol de Brasil - LA NACION",
+    "description": "Resultados y goleadores de los partidos de la 25ª jornada del campeonato de... - LA NACION",
+    "text": "Resultados y goleadores de los partidos de la 25ª jornada del campeonato de fútbol de Brasil:\n- Sába"
+  },
+  {
+    "id": "770007cd213084e86e29be31aa57a6af9a3d0a74",
+    "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-sismos-reportados-hoy-domingo-28-de-septiembre-nid28092025/",
+    "title": "Temblor en EEUU: los sismos reportados el domingo 28 de septiembre - LA NACION",
+    "description": "Las últimas noticias y actualizaciones sobre los movimientos telúricos de este domingo en todo el te",
+    "text": "Las últimas noticias y actualizaciones sobre los movimientos telúricos de este domingo en todo el te"
+  },
+  {
+    "id": "15e94b8e7aa7c847cfbdf3443abc10ca09eaf71d",
+    "url": "https://www.lanacion.com.ar/sabado/la-gente-hace-muchas-mas-trampas-si-usa-ia-son-niveles-de-engano-que-no-habiamos-visto-nid29092025/",
+    "title": "La gente hace muchas más trampas si usa IA: “Son niveles de engaño que no habíamos visto” - LA NACIO",
+    "description": "La investigación muestra que delegar en una máquina, tan complaciente con las peticiones humanas, mu",
+    "text": "A un humano le resulta más fácil hacer trampas si delega en una máquina como ChatGPT, según un nuevo"
+  },
+  {
+    "id": "915774c9a9fe6a25bc3de0cc6596fa36f4cc37f6",
+    "url": "https://www.lanacion.com.ar/opinion/los-entornos-digitales-y-la-proteccion-de-la-infancia-nid29092025/",
+    "title": "Los entornos digitales y la protección de la infancia - LA NACION",
+    "description": "Los entornos digitales y la protección de la infancia - LA NACION",
+    "text": "El entorno digital ofrece a los niños oportunidades extraordinarias. Según el Comité de los Derechos"
+  },
+  {
+    "id": "a45eec18727bfdd5836c2548f8790beccf716f32",
+    "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-mexico-ultimos-sismos-reportados-hoy-domingo-28-de-septiembre-nid28092025/",
+    "title": "Temblor en México: los sismos reportados el domingo 28 de septiembre - LA NACION",
+    "description": "Las últimas noticias y actualizaciones sobre los movimientos telúricos de este domingo en todo el te",
+    "text": "Las últimas noticias y actualizaciones sobre los movimientos telúricos de este domingo en todo el te"
+  },
+  {
+    "id": "ad0adda2bea61492d6db055b0c1dca95bbe7f15e",
+    "url": "https://www.lanacion.com.ar/agencias/cruzeiro-y-palmeiras-juegan-para-flamengo-que-toma-ventaja-en-el-brasileirao-nid29092025/",
+    "title": "Cruzeiro y Palmeiras juegan para Flamengo, que toma ventaja en el Brasileirão - LA NACION",
+    "description": "El Flamengo se distanció en el liderato del Brasileirão tras ganar este domingo por 2-1 en su visita",
+    "text": "El Flamengo se distanció en el liderato del Brasileirão tras ganar este domingo por 2-1 en su visita"
+  },
+  {
+    "id": "7ea4b4de8c080aa943452bff06090f2cbf1fa173",
+    "url": "https://www.jimdo.com/es/pagina-web/inmobiliaria/",
+    "title": "Crea tu página web inmobiliaria: ¡empieza gratis! | Jimdo",
+    "description": "Crea una página web inmobiliaria con Jimdo. Promociona tu agencia, sitúa tu promotora en el mapa o v",
+    "text": "Nuestro editor de páginas web\nHerramientas útiles para tu página web\nPara tu sector\nNuestro creador "
+  },
+  {
+    "id": "ce06edd4e2134dd6e7f736b62d8be0d3720620f3",
+    "url": "https://www.jimdo.com/nl/website/makelaar/",
+    "title": "Bouw je eigen makelaarssite | Jimdo",
+    "description": "Maak een prachtige makelaarswebsite met  Jimdo. Promoot je makelaardij, zet je vastgoed op de kaart ",
+    "text": "Onze sitebuilder\nHandige tools voor je website\nVoor jouw branche\nOnze webwinkel-builder\nHandige tool"
+  },
+  {
+    "id": "59dd5b715a8a01ddc7b2e687c2586acfaa322d01",
+    "url": "https://www.jimdo.com/fr/site-internet/site-immobilier/",
+    "title": "Créez votre site web immobilier | Jimdo",
+    "description": "Créez un beau site web immobilier avec Jimdo. Faites connaître votre agence immobilière, mettez en a",
+    "text": "Notre créateur de site\nOutils pratiques pour votre site\nPour votre activité\nNotre éditeur d'e-boutiq"
+  },
+  {
+    "id": "8782e3a5474e167eba4da2ab13f70d713f0e063d",
+    "url": "https://www.jimdo.com/de/website/immobilienmakler/",
+    "title": "Erstelle deine eigene Immobilienmakler-Homepage | Jimdo",
+    "description": "Baue eine professionelle Website für Immobilienmakler. Präsentiere dein Business, dein Portfolio ode",
+    "text": "Unser Website-Baukasten\nHilfreiche Tools für deine Website\nFür deine Branche\nUnser Onlineshop-Baukas"
+  },
+  {
+    "id": "b5b9d2b09c1be46f889fb0cf486e83341d3a72c3",
+    "url": "https://www.jimdo.com/it/sito-web/immobiliare/",
+    "title": "Crea il tuo sito web immobiliare | Jimdo",
+    "description": "Crea uno splendido sito immobiliare con Jimdo senza codici di programmazione. Promuovi la tua agenzi",
+    "text": "Il nostro editor per siti web\nStrumenti utili per il tuo sito\nPer il tuo settore\nIl nostro editor pe"
+  },
+  {
+    "id": "ae6009861af0fe9e84975b8ae101e6e3898fc2de",
+    "url": "https://www.jimdo.com/website/portfolio/",
+    "title": "Create an Online Portfolio | Jimdo",
+    "description": "Professional creatives use Jimdo to build beautiful portfolio websites—it's easy, fast, and has ever",
+    "text": "Our Website Builder\nUseful tools for your website\nFor your industry\nOur Online Store Builder\nUseful "
+  },
+  {
+    "id": "c0a4d8192183e82fa0c5ca8e294e077333ed9418",
+    "url": "https://www.jimdo.com/de/website/portfolio/",
+    "title": "Portfolio Website erstellen: So präsentierst du deine Arbeiten optimal",
+    "description": "Lerne, wie du mit einer Portfolio-Website deine Arbeiten ansprechend präsentierst. Nutze Tipps und T",
+    "text": "Unser Website-Baukasten\nHilfreiche Tools für deine Website\nFür deine Branche\nUnser Onlineshop-Baukas"
+  },
+  {
+    "id": "8cdfe717e31dfc2146c15012e6ca0c275fa8d1f7",
+    "url": "https://www.jimdo.com/nl/website/portfolio/",
+    "title": "Maak een online portfolio",
+    "description": "Maak je eigen portfolio website met Jimdo. Presenteer en organiseer je werk met foto's, video's en t",
+    "text": "Onze sitebuilder\nHandige tools voor je website\nVoor jouw branche\nOnze webwinkel-builder\nHandige tool"
+  },
+  {
+    "id": "bfd627223d56b7c4f1048ff0a197eacd1e6e437a",
+    "url": "https://www.jimdo.com/es/pagina-web/portafolio/",
+    "title": "Crear un portafolio digital gratis | Fácil y profesional",
+    "description": "¿Te dedicas a una profesión creativa? Crea un fantástico portafolio online, presenta tus trabajos y ",
+    "text": "Nuestro editor de páginas web\nHerramientas útiles para tu página web\nPara tu sector\nNuestro creador "
+  },
+  {
+    "id": "d5d35c06ec12e44e984ee89320b9e5938537f5fd",
+    "url": "https://www.jimdo.com/fr/site-internet/portfolio/",
+    "title": "Créez un portfolio professionnel en ligne en quelques clics",
+    "description": "Les professionnels créatifs aiment Jimdo pour ses sites portfolio épurés. Exposez facilement vos plu",
+    "text": "Notre créateur de site\nOutils pratiques pour votre site\nPour votre activité\nNotre éditeur d'e-boutiq"
+  },
+  {
+    "id": "8aa2ae5d38d95acf8253b7d9e979019c67edfbbb",
+    "url": "https://www.youporn.com/",
+    "title": "Free Porn Videos - HD Porno Tube & XXX Sex Videos | YouPorn",
+    "description": "YouPorn is your home for free XXX porn videos. Sit back and watch all of the unlimited, high quality",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "aa324c64db3c77b57735aad4f0a733f4b61a8d40",
+    "url": "https://www.youporn.com/gay/top_rated/",
+    "title": "Gay Sex Videos XXX Porn Movies With Men Ass Fucking  | YouPorn",
+    "description": "Searching for GAY SEX VIDEOS and graphic ASS FUCKING? YouPornGay has all the PORN MOVIES you could e",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "96200bbde0459fce48074f47d8aee6ec3e69ddfb",
+    "url": "https://www.youporn.com/most_viewed/",
+    "title": "Hot Porno Movies - Sex Tube With Big Tits, Pussy & Ass :: YouPorn",
+    "description": "WATCH Hardcore Porno Movies at YOUPORN! CLICK the best sex tube with the hottest BIG TIT Babes and E",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "970c488ae8afab6ba1de0ac68d58b3454541def8",
+    "url": "https://www.youporn.com/top_rated/",
+    "title": "Hot Sex Videos & Porn Movies With Sexy Babes Fucking | YouPorn",
+    "description": "Sex Videos? YOUPORN has the BEST! CLICK and WATCH hot sexy babes fucking in the best PORN MOVIES and",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "fe88f5c2a4cbe01c9fc31cb416290480936862c9",
+    "url": "https://www.youporn.com/gay/most_viewed/",
+    "title": "Best Gay Porn - Sex Tube With Naked Gay Men & Twinks | YouPorn",
+    "description": "FREE GAY PORN is here at YouPornGay. TWINKS and hot GAY MEN engaging in every type of sex imaginable",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "4678c678364fd281f602655221fd475ad66fc85b",
+    "url": "https://www.youporn.com/most_favorited/",
+    "title": "You Porn's Greatest Videos From This Week, Pussy Porn, Sex Videos",
+    "description": "You Porn's best pussy porn of the week. Users' favorites from the past week for the greatest sex vid",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "8427052a905a55eb859616d21a72ba2a72326923",
+    "url": "https://www.youporn.com/gay/most_favorited/",
+    "title": "Top Gay Porn Movies - Big Cock Twinks in Free Movies | Youporn",
+    "description": "",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "a15b33ca8baad3f1efcd1bc4fe0e98396035d606",
+    "url": "https://www.youporn.com/browse/time/",
+    "title": "Watch Porn Videos and XXX Sextube Movies | YouPorn",
+    "description": "Visit YouPorn for the hottest selection of XXX sextube movies. Sit back and watch porn videos starri",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "6a9944a70d488ff8826cfcc77a231d2a8545513d",
+    "url": "https://www.youporn.com/gay/browse/time/",
+    "title": "Watch Gay Porn Videos Hardcore Anal Twink Sex Tube | Youporn",
+    "description": "YouPornGay boasts some of the best GAY PORN VIDEOS on its high quality SEX TUBE. Graphic ANAL SEX, a",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
+  },
+  {
+    "id": "91eb5b7b40e3e5b330750388e89ce60cf7f6b8c9",
+    "url": "https://www.youporn.com/gay/",
+    "title": "Gay Porn Movies - Huge Cock 18+ Twinks in Free Videos | Youporn",
+    "description": "Visit Youporngay.com for the best gay porn movies! Get hot 18+ twink hunks sucking huge cocks and ha",
+    "text": "This is an adult website\nThis website contains age-restricted materials including nudity and explici"
   }
 ]
