@@ -33107,19 +33107,19 @@
     ]
   },
   "business.site": {
-    "lastAt": 1758820795039,
+    "lastAt": 1759187999303,
     "urls": [
       "https://business.site/"
     ]
   },
   "fc2.com": {
-    "lastAt": 1758820796735,
+    "lastAt": 1759188000263,
     "urls": [
       "https://fc2.com/"
     ]
   },
   "betking.com": {
-    "lastAt": 1758820801982,
+    "lastAt": 1759188007563,
     "urls": [
       "https://www.betking.com/",
       "https://www.betking.com/live/",
@@ -33160,15 +33160,25 @@
       "https://www.betking.com/help/general-help/deposits/quickteller-atm/",
       "https://www.betking.com/help/general-help/deposits/zenith-bank-transfer/",
       "https://www.betking.com/help/general-help/deposits/interswitch-webpay/",
-      "https://www.betking.com/help/general-help/deposits/paydirect/"
+      "https://www.betking.com/help/general-help/deposits/paydirect/",
+      "https://www.betking.com/help/general-help/deposits/uba/",
+      "https://www.betking.com/help/general-help/deposits/opay/",
+      "https://www.betking.com/help/general-help/deposits/coralpay/",
+      "https://www.betking.com/help/general-help/deposits/fastest-deposit-ever-with-opay/",
+      "https://www.betking.com/help/general-help/deposits/palmpay-x-betking-discount-promo/",
+      "https://www.betking.com/help/general-help/withdrawals/",
+      "https://www.betking.com/help/general-help/withdrawals/withdrawal-with-opaypalmpay/",
+      "https://www.betking.com/help/general-help/account-tutorials/how-to-register-an-account/",
+      "https://www.betking.com/help/general-help/account-tutorials/",
+      "https://www.betking.com/help/general-help/account-tutorials/how-cashout-works/"
     ]
   },
   "hik-connect.com": {
-    "lastAt": 1758820805425,
+    "lastAt": 1759188010581,
     "urls": []
   },
   "odoo.com": {
-    "lastAt": 1758820813403,
+    "lastAt": 1759188019612,
     "urls": [
       "https://www.odoo.com/acceptable-use",
       "https://www.odoo.com/app/accounting-features",
@@ -33209,11 +33219,21 @@
       "https://www.odoo.com/app/fleet",
       "https://www.odoo.com/app/forum",
       "https://www.odoo.com/app/forum-features",
-      "https://www.odoo.com/app/helpdesk"
+      "https://www.odoo.com/app/helpdesk",
+      "https://www.odoo.com/app/helpdesk-features",
+      "https://www.odoo.com/app/invoice-automation",
+      "https://www.odoo.com/app/inventory-hardware",
+      "https://www.odoo.com/app/inventory",
+      "https://www.odoo.com/app/inventory-features",
+      "https://www.odoo.com/app/invoicing-features",
+      "https://www.odoo.com/app/invoicing",
+      "https://www.odoo.com/app/iot-faq",
+      "https://www.odoo.com/app/iot-features",
+      "https://www.odoo.com/app/iot"
     ]
   },
   "az24.vn": {
-    "lastAt": 1758820817510,
+    "lastAt": 1759188021578,
     "urls": [
       "https://az24.vn/",
       "https://az24.vn/xsmb-sxmb-xo-so-mien-bac.html",
@@ -33256,23 +33276,23 @@
     ]
   },
   "humoruniv.com": {
-    "lastAt": 1758820822411,
+    "lastAt": 1759188025848,
     "urls": [
       "https://humoruniv.com/"
     ]
   },
   "sitescout.com": {
-    "lastAt": 1758820825829,
+    "lastAt": 1759188028186,
     "urls": [
       "https://sitescout.com/"
     ]
   },
   "gree-apps.net": {
-    "lastAt": 1758820829151,
+    "lastAt": 1759188031218,
     "urls": []
   },
   "almasryalyoum.com": {
-    "lastAt": 1758820831713,
+    "lastAt": 1759188035752,
     "urls": [
       "https://www.almasryalyoum.com/caricatures/details/543",
       "https://www.almasryalyoum.com/caricatures/details/1655",
@@ -33313,47 +33333,57 @@
       "https://www.almasryalyoum.com/caricatures/details/1626",
       "https://www.almasryalyoum.com/caricatures/details/1624",
       "https://www.almasryalyoum.com/caricatures/details/1625",
-      "https://www.almasryalyoum.com/caricatures/details/1622"
+      "https://www.almasryalyoum.com/caricatures/details/1622",
+      "https://www.almasryalyoum.com/caricatures/details/1623",
+      "https://www.almasryalyoum.com/caricatures/details/1620",
+      "https://www.almasryalyoum.com/caricatures/details/1621",
+      "https://www.almasryalyoum.com/caricatures/details/1706",
+      "https://www.almasryalyoum.com/caricatures/details/1619",
+      "https://www.almasryalyoum.com/caricatures/details/1631",
+      "https://www.almasryalyoum.com/caricatures/details/1617",
+      "https://www.almasryalyoum.com/caricatures/details/503",
+      "https://www.almasryalyoum.com/caricatures/details/1618",
+      "https://www.almasryalyoum.com/caricatures/details/457"
     ]
   },
   "escortbabylon.net": {
-    "lastAt": 1758820832291,
+    "lastAt": 1759188036288,
     "urls": [
       "https://escortbabylon.net/"
     ]
   },
   "afribaba.com": {
-    "lastAt": 1758820835507,
+    "lastAt": 1759188039496,
     "urls": []
   },
   "jra.jp": {
-    "lastAt": 1758820839355,
+    "lastAt": 1759188042544,
     "urls": [
       "https://jra.jp/"
     ]
   },
   "ganamos.io": {
-    "lastAt": 1758820841018,
+    "lastAt": 1759188044600,
     "urls": [
       "https://ganamos.io/"
     ]
   },
   "jra.go.jp": {
-    "lastAt": 1758820845906,
+    "lastAt": 1759188048395,
     "urls": []
   },
   "dogdrip.net": {
-    "lastAt": 1758820847061,
+    "lastAt": 1759188049061,
     "urls": [
       "https://dogdrip.net/"
     ]
   },
   "tamildhool.net": {
-    "lastAt": 1758820850145,
+    "lastAt": 1759188051985,
     "urls": []
   },
   "tubidy.center": {
-    "lastAt": 1758820851139,
+    "lastAt": 1759188054278,
     "urls": [
       "https://tubidy.limited/",
       "https://tubidy.limited/about-us",
@@ -33365,13 +33395,13 @@
     ]
   },
   "escort.club": {
-    "lastAt": 1758820862182,
+    "lastAt": 1759188066386,
     "urls": [
       "https://escort.club/"
     ]
   },
   "girlschannel.net": {
-    "lastAt": 1758820864052,
+    "lastAt": 1759188067923,
     "urls": [
       "https://girlschannel.net/",
       "https://girlschannel.net/new/",
@@ -33404,13 +33434,13 @@
     ]
   },
   "banxia.la": {
-    "lastAt": 1758820865226,
+    "lastAt": 1759188070359,
     "urls": [
       "https://banxia.la/"
     ]
   },
   "flashscore.fr": {
-    "lastAt": 1758820871272,
+    "lastAt": 1759188076910,
     "urls": [
       "https://www.flashscore.fr/",
       "https://www.flashscore.fr/football-americain/",
@@ -33451,29 +33481,39 @@
       "https://www.flashscore.fr/kabaddi/",
       "https://www.flashscore.fr/saut-a-ski/",
       "https://www.flashscore.fr/ski-de-fond/",
-      "https://www.flashscore.fr/football/afrique/"
+      "https://www.flashscore.fr/football/afrique/",
+      "https://www.flashscore.fr/football/amerique-du-nord-et-centrale/",
+      "https://www.flashscore.fr/football/monde/",
+      "https://www.flashscore.fr/football/amerique-du-sud/",
+      "https://www.flashscore.fr/football/asie/",
+      "https://www.flashscore.fr/football/serbie-et-montenegro/",
+      "https://www.flashscore.fr/football/australie-oceanie/",
+      "https://www.flashscore.fr/football/europe/",
+      "https://www.flashscore.fr/football/albanie/",
+      "https://www.flashscore.fr/football/andorre/",
+      "https://www.flashscore.fr/football/argentine/"
     ]
   },
   "flashscore.mobi": {
-    "lastAt": 1758820875687,
+    "lastAt": 1759188081752,
     "urls": [
       "https://flashscore.mobi/"
     ]
   },
   "botinok.porn": {
-    "lastAt": 1758820877306,
+    "lastAt": 1759188083735,
     "urls": [
       "https://botinok.porn/"
     ]
   },
   "fpo.xxx": {
-    "lastAt": 1758820887277,
+    "lastAt": 1759188095276,
     "urls": [
       "https://fpo.xxx/"
     ]
   },
   "twinsfun.com": {
-    "lastAt": 1758820889747,
+    "lastAt": 1759188097185,
     "urls": [
       "https://twinsfun.com/",
       "https://twinsfun.com/video/clap-your-hands-5280",
@@ -33514,15 +33554,25 @@
       "https://twinsfun.com/category/toys",
       "https://twinsfun.com/category/pretend-play",
       "https://twinsfun.com/category/playground",
-      "https://twinsfun.com/category/johny-johny-yes-papa"
+      "https://twinsfun.com/category/johny-johny-yes-papa",
+      "https://twinsfun.com/video/dancing-ballerina-cappuccina-ballerina-show",
+      "https://twinsfun.com/video/ambulance-toy-cars-rescue-adventure",
+      "https://twinsfun.com/video/peppa-pig-fun-park-with-slides-rides",
+      "https://twinsfun.com/video/colorful-farm-animals-adventure",
+      "https://twinsfun.com/video/strange-world-of-ballerina-cappuccina-tung-tung-tung-sahur",
+      "https://twinsfun.com/video/toy-cars-and-planes-in-a-yellow-bucket",
+      "https://twinsfun.com/video/colorful-eggs-splash-surprise-cars",
+      "https://twinsfun.com/video/rainbow-candy-surprise-with-toys",
+      "https://twinsfun.com/video/farmer-monkey-feeds-all-the-cute-farm-friends",
+      "https://twinsfun.com/video/monkey-finds-eggs-full-of-baby-animals"
     ]
   },
   "salonboard.com": {
-    "lastAt": 1758825265976,
+    "lastAt": 1759188165992,
     "urls": []
   },
   "animanch.com": {
-    "lastAt": 1758825273447,
+    "lastAt": 1759188174515,
     "urls": [
       "https://animanch.com/",
       "https://animanch.com/archives/11961.html",
@@ -33563,15 +33613,25 @@
       "https://animanch.com/archives/15154677.html",
       "https://animanch.com/archives/15156253.html",
       "https://animanch.com/archives/15156059.html",
-      "https://animanch.com/archives/15156495.html"
+      "https://animanch.com/archives/15156495.html",
+      "https://animanch.com/archives/15158160.html",
+      "https://animanch.com/archives/15159470.html",
+      "https://animanch.com/archives/15162963.html",
+      "https://animanch.com/archives/15032189.html",
+      "https://animanch.com/archives/15163119.html",
+      "https://animanch.com/archives/15160589.html",
+      "https://animanch.com/archives/15029945.html",
+      "https://animanch.com/archives/15172249.html",
+      "https://animanch.com/archives/15166597.html",
+      "https://animanch.com/archives/14986554.html"
     ]
   },
   "8888.porn": {
-    "lastAt": 1758825277110,
+    "lastAt": 1759188178693,
     "urls": []
   },
   "turbo.az": {
-    "lastAt": 1758825280268,
+    "lastAt": 1759188181854,
     "urls": []
   },
   "shaalaa.com": {
