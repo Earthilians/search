@@ -20056,23 +20056,23 @@
     ]
   },
   "firebaseio.com": {
-    "lastAt": 1758741601336,
+    "lastAt": 1759110533893,
     "urls": []
   },
   "lgtvsdp.com": {
-    "lastAt": 1758741606082,
+    "lastAt": 1759110540134,
     "urls": []
   },
   "i18n-pglstatp.com": {
-    "lastAt": 1758741609376,
+    "lastAt": 1759110543392,
     "urls": []
   },
   "alipaydns.com": {
-    "lastAt": 1758741617786,
+    "lastAt": 1759110552317,
     "urls": []
   },
   "ilovepdf.com": {
-    "lastAt": 1758741620008,
+    "lastAt": 1759110554460,
     "urls": [
       "https://www.ilovepdf.com/",
       "https://www.ilovepdf.com/powerpoint_to_pdf",
@@ -20113,25 +20113,35 @@
       "https://www.ilovepdf.com/organize-pdf",
       "https://www.ilovepdf.com/unlock_pdf",
       "https://www.ilovepdf.com/merge_pdf",
-      "https://www.ilovepdf.com/rotate_pdf"
+      "https://www.ilovepdf.com/rotate_pdf",
+      "https://www.ilovepdf.com/register",
+      "https://www.ilovepdf.com/contact",
+      "https://www.ilovepdf.com/protect-pdf",
+      "https://www.ilovepdf.com/uk",
+      "https://www.ilovepdf.com/sign-pdf",
+      "https://www.ilovepdf.com/jpg_to_pdf",
+      "https://www.ilovepdf.com/html-to-pdf",
+      "https://www.ilovepdf.com/id",
+      "https://www.ilovepdf.com/repair-pdf",
+      "https://www.ilovepdf.com/education"
     ]
   },
   "moneycontrol.com": {
-    "lastAt": 1758741623971,
+    "lastAt": 1759110557850,
     "urls": []
   },
   "businesswire.com": {
-    "lastAt": 1758741627881,
+    "lastAt": 1759110560974,
     "urls": []
   },
   "trendyol.com": {
-    "lastAt": 1758741629945,
+    "lastAt": 1759110562495,
     "urls": [
       "https://trendyol.com/"
     ]
   },
   "theconversation.com": {
-    "lastAt": 1758741635582,
+    "lastAt": 1759110567782,
     "urls": [
       "https://theconversation.com/us",
       "https://theconversation.com/uk",
@@ -20172,11 +20182,21 @@
       "https://theconversation.com/africa/environment",
       "https://theconversation.com/africa/politics",
       "https://theconversation.com/africa/technology",
-      "https://theconversation.com/fr/arts"
+      "https://theconversation.com/fr/arts",
+      "https://theconversation.com/fr/economie",
+      "https://theconversation.com/fr/politique",
+      "https://theconversation.com/fr/international",
+      "https://theconversation.com/fr/education",
+      "https://theconversation.com/fr/environnement",
+      "https://theconversation.com/fr/sante",
+      "https://theconversation.com/fr/new-podcasts",
+      "https://theconversation.com/uk/arts",
+      "https://theconversation.com/fr/technologie",
+      "https://theconversation.com/uk/business"
     ]
   },
   "wikihow.com": {
-    "lastAt": 1758741641609,
+    "lastAt": 1759110573567,
     "urls": [
       "https://www.wikihow.com/%22Pass%22-As-a-Woman",
       "https://www.wikihow.com/0101-Angel-Number",
@@ -20217,15 +20237,25 @@
       "https://www.wikihow.com/1234-Angel-Number",
       "https://www.wikihow.com/1233-Angel-Number",
       "https://www.wikihow.com/1244-Angel-Number",
-      "https://www.wikihow.com/123123-Meaning"
+      "https://www.wikihow.com/123123-Meaning",
+      "https://www.wikihow.com/1313-Angel-Number",
+      "https://www.wikihow.com/133-Angel-Number",
+      "https://www.wikihow.com/1333-Angel-Number",
+      "https://www.wikihow.com/1414-Angel-Number",
+      "https://www.wikihow.com/147-Angel-Number",
+      "https://www.wikihow.com/15-Amp-vs-20-Amp-Outlet",
+      "https://www.wikihow.com/1515-Angel-Number",
+      "https://www.wikihow.com/1551-Angel-Number",
+      "https://www.wikihow.com/16-Guard-Buzz-Cut",
+      "https://www.wikihow.com/1616-Angel-Number"
     ]
   },
   "sahibinden.com": {
-    "lastAt": 1758741647033,
+    "lastAt": 1759110578135,
     "urls": []
   },
   "kleinanzeigen.de": {
-    "lastAt": 1758741654714,
+    "lastAt": 1759110585596,
     "urls": [
       "https://www.kleinanzeigen.de/stadt/berlin/",
       "https://www.kleinanzeigen.de/s-autos/c216",
@@ -20266,15 +20296,25 @@
       "https://www.kleinanzeigen.de/stadt/stuttgart/",
       "https://www.kleinanzeigen.de/stadt/braunschweig/",
       "https://www.kleinanzeigen.de/stadt/augsburg/",
-      "https://www.kleinanzeigen.de/stadt/kassel/"
+      "https://www.kleinanzeigen.de/stadt/kassel/",
+      "https://www.kleinanzeigen.de/stadt/bochum/",
+      "https://www.kleinanzeigen.de/stadt/erfurt/",
+      "https://www.kleinanzeigen.de/stadt/chemnitz/",
+      "https://www.kleinanzeigen.de/s-%C3%B6sterreich/k0",
+      "https://www.kleinanzeigen.de/s-motorraeder-roller/simson-s51/k0c305",
+      "https://www.kleinanzeigen.de/stadt/trier/",
+      "https://www.kleinanzeigen.de/stadt/paderborn/",
+      "https://www.kleinanzeigen.de/stadt/duisburg/",
+      "https://www.kleinanzeigen.de/stadt/hamm/",
+      "https://www.kleinanzeigen.de/m-abgemeldet.html"
     ]
   },
   "leboncoin.fr": {
-    "lastAt": 1758741661100,
+    "lastAt": 1759110591807,
     "urls": []
   },
   "pusher.com": {
-    "lastAt": 1758741663338,
+    "lastAt": 1759110593501,
     "urls": [
       "https://pusher.com/docs/beams/concepts/active-devices/",
       "https://pusher.com/",
@@ -20315,19 +20355,29 @@
       "https://pusher.com/docs/beams/reference/server-sdk-python/",
       "https://pusher.com/docs/beams/reference/server-sdk-ruby/",
       "https://pusher.com/docs/beams/reference/server-sdk-swift/",
-      "https://pusher.com/docs/beams/reference/web/"
+      "https://pusher.com/docs/beams/reference/web/",
+      "https://pusher.com/docs/beams/reference/webhooks/",
+      "https://pusher.com/docs/channels/getting_started/android/",
+      "https://pusher.com/docs/channels/getting_started/javascript-realtime-chart/",
+      "https://pusher.com/docs/channels/getting_started/javascript-realtime-user-list/",
+      "https://pusher.com/docs/channels/getting_started/debugging/",
+      "https://pusher.com/docs/channels/getting_started/javascript/",
+      "https://pusher.com/docs/channels/",
+      "https://pusher.com/docs/channels/library_auth_reference/auth-signatures/",
+      "https://pusher.com/docs/channels/library_auth_reference/pusher-websockets-protocol/",
+      "https://pusher.com/docs/channels/library_auth_reference/logging/"
     ]
   },
   "doppiocdn.com": {
-    "lastAt": 1758741666604,
+    "lastAt": 1759110596746,
     "urls": []
   },
   "cspserver.net": {
-    "lastAt": 1758741670531,
+    "lastAt": 1759110600587,
     "urls": []
   },
   "aparat.com": {
-    "lastAt": 1758741801101,
+    "lastAt": 1759110655514,
     "urls": [
       "https://www.aparat.com/v/zho16xf",
       "https://www.aparat.com/v/vvswo0m",
@@ -20368,17 +20418,27 @@
       "https://www.aparat.com/v/uraxye6",
       "https://www.aparat.com/v/lac8mee",
       "https://www.aparat.com/v/llmai0z",
-      "https://www.aparat.com/v/dkuiiug"
+      "https://www.aparat.com/v/dkuiiug",
+      "https://www.aparat.com/v/mky0ens",
+      "https://www.aparat.com/v/tmab64x",
+      "https://www.aparat.com/v/zitguyg",
+      "https://www.aparat.com/v/vsaxw44",
+      "https://www.aparat.com/v/frhmfg3",
+      "https://www.aparat.com/v/xyg30hq",
+      "https://www.aparat.com/v/cdlasq5",
+      "https://www.aparat.com/v/bte5649",
+      "https://www.aparat.com/v/exh62w5",
+      "https://www.aparat.com/v/wqz8cfu"
     ]
   },
   "ovh.net": {
-    "lastAt": 1758741802522,
+    "lastAt": 1759110656562,
     "urls": [
       "https://ovh.net/"
     ]
   },
   "ultimate-guitar.com": {
-    "lastAt": 1758741813158,
+    "lastAt": 1759110666194,
     "urls": [
       "https://www.ultimate-guitar.com/news/general_music_news/you-cant-fight-it-either-be-part-of-it-or-dont-the-exact-moment-megadeth-became-a-dave-mustaine-solo-project-according-to-david-ellefson",
       "https://www.ultimate-guitar.com/news/general_music_news/we-had-the-flights-purchased-the-hotels-ready-to-go-the-real-reason-why-wolf-van-halen-didnt-appear-at-ozzys-and-sabbaths-farewell-show",
@@ -20419,27 +20479,37 @@
       "https://www.ultimate-guitar.com/news/general_music_news/bruce-dickinson-addresses-rumor-about-paul-dianno-says-people-were-afraid-how-their-meeting-would-go-thats-internet-bull---t",
       "https://www.ultimate-guitar.com/news/general_music_news/ive-always-tried-to-play-exactly-what-is-on-the-record-john-5-explains-why-he-refuses-to-alter-mick-mars-guitar-parts",
       "https://www.ultimate-guitar.com/news/general_music_news/it-would-be-ridiculous-to-ask-metallica-to-bring-testament-on-tour-alex-skolnick-says-im-not-gonna-ask-them-hey-man-take-me-on-tour",
-      "https://www.ultimate-guitar.com/news/general_music_news/what-is-it-about-who-the-f--k-knows-according-to-peter-gabriel-genesis-members-on-how-they-recorded-their-greatest-album-in-abandoned-led-zeppelin-house"
+      "https://www.ultimate-guitar.com/news/general_music_news/what-is-it-about-who-the-f--k-knows-according-to-peter-gabriel-genesis-members-on-how-they-recorded-their-greatest-album-in-abandoned-led-zeppelin-house",
+      "https://www.ultimate-guitar.com/news/general_music_news/i-said-to-myself-this-is-the-classic-john-the-most-important-lesson-john-fogerty-learned-while-writing-one-of-creedence-clearwater-revivals-greatest-hits",
+      "https://www.ultimate-guitar.com/news/general_music_news/pure-chaos-and-a-mountain-of-illegal-substances-created-one-of-the-best-music-themed-movies-of-all-time-and-we-owe-it-a-lot",
+      "https://www.ultimate-guitar.com/news/general_music_news/they-were-the-first-to-push-rock-n-roll-beyond-pretty-little-pop-songs-this-band-played-heavy-music-before-everybody-according-to-deep-purples-ian-paice",
+      "https://www.ultimate-guitar.com/news/general_music_news/id-never-thought-of-us-in-those-terms-why-pink-floyd-isnt-prog-rock-according-to-david-gilmour",
+      "https://www.ultimate-guitar.com/news/general_music_news/it-was-named-the-worst-album-of-all-time-yet-it-featured-jimmy-page-jeff-beck-john-bonham-and-noel-redding-was-it-really-that-bad",
+      "https://www.ultimate-guitar.com/articles/features/no-one-expected-it-and-yet-this-90s-ballad-became-a-surprising-success-it-was-all-thanks-to-a-major-motion-picture-and-a-clever-marketing-plan-181591",
+      "https://www.ultimate-guitar.com/articles/features/they-were-so-close-to-transforming-metal-then-the-frontman-went-insane-one-of-genres-biggest-missed-chances-182015",
+      "https://www.ultimate-guitar.com/news/general_music_news/chino-moreno-reveals-why-deftone-tried-hard-to-avoid-being-labeled-nu-metal-explains-how-they-still-resonate-with-younger-generations",
+      "https://www.ultimate-guitar.com/news/general_music_news/a-lot-of-people-think-i-need-to-play-like-al-di-meola-well-no-the-real-danger-of-hyperfocusing-on-guitar-technique-according-to-marty-friedman",
+      "https://www.ultimate-guitar.com/news/general_music_news/gary-holt-on-kirk-hammetts-reputation-in-the-metal-community-people-leave-him-out-of-that-discussion-a-lot-and-i-think-its-bull----t"
     ]
   },
   "samsungcloud.tv": {
-    "lastAt": 1758741816222,
+    "lastAt": 1759110669544,
     "urls": []
   },
   "idnes.cz": {
-    "lastAt": 1758741830365,
+    "lastAt": 1759110681375,
     "urls": [
       "https://idnes.cz/"
     ]
   },
   "magazineluiza.com.br": {
-    "lastAt": 1758741834496,
+    "lastAt": 1759110684658,
     "urls": [
       "https://magazineluiza.com.br/"
     ]
   },
   "poki.com": {
-    "lastAt": 1758741844822,
+    "lastAt": 1759110693751,
     "urls": [
       "https://poki.com/en/minecraft",
       "https://poki.com/",
@@ -20480,21 +20550,31 @@
       "https://poki.com/en/decoration",
       "https://poki.com/en/horse-riding",
       "https://poki.com/en/soccer",
-      "https://poki.com/en/chess"
+      "https://poki.com/en/chess",
+      "https://poki.com/en/boat",
+      "https://poki.com/en/drawing",
+      "https://poki.com/en/maze",
+      "https://poki.com/en/mouse",
+      "https://poki.com/en/checkers",
+      "https://poki.com/en/mahjong",
+      "https://poki.com/en/make-up",
+      "https://poki.com/en/pirates",
+      "https://poki.com/en/ragdoll",
+      "https://poki.com/en/platform"
     ]
   },
   "ameba.jp": {
-    "lastAt": 1758741847934,
+    "lastAt": 1759110696171,
     "urls": [
       "https://ameba.jp/"
     ]
   },
   "tiktokpangle.us": {
-    "lastAt": 1758741851186,
+    "lastAt": 1759110699445,
     "urls": []
   },
   "economist.com": {
-    "lastAt": 1758741852513,
+    "lastAt": 1759110700652,
     "urls": [
       "https://www.economist.com/audio-edition",
       "https://www.economist.com/get-the-app",
@@ -20509,7 +20589,7 @@
     ]
   },
   "n-tv.de": {
-    "lastAt": 1758745576857,
+    "lastAt": 1759110706028,
     "urls": [
       "https://www.n-tv.de/politik/",
       "https://www.n-tv.de/Teletext/",
@@ -20549,11 +20629,19 @@
       "https://www.n-tv.de/wirtschaft/boersenkurse/aktien/europa/EuroStoxx50/",
       "https://www.n-tv.de/wirtschaft/boersenkurse/aktien/usa/",
       "https://www.n-tv.de/wirtschaft/boersenkurse/aktien/europa/stoxx50/",
-      "https://www.n-tv.de/wirtschaft/boersenkurse/aktien/usa/nasdaq/"
+      "https://www.n-tv.de/wirtschaft/boersenkurse/aktien/usa/nasdaq/",
+      "https://www.n-tv.de/wirtschaft/wirtschaft_startup/",
+      "https://www.n-tv.de/wirtschaft/boersenkurse/fonds/",
+      "https://www.n-tv.de/wirtschaft/der_boersen_tag/",
+      "https://www.n-tv.de/wirtschaft/termine/",
+      "https://www.n-tv.de/sport/darts/",
+      "https://www.n-tv.de/sport/der_sport_tag/",
+      "https://www.n-tv.de/sport/Deutsche_Rallye_Meisterschaft/",
+      "https://www.n-tv.de/sport/basketball/"
     ]
   },
   "innovid.com": {
-    "lastAt": 1758745581686,
+    "lastAt": 1759110708860,
     "urls": [
       "https://www.innovid.com/education/ctv",
       "https://www.innovid.com/about-us/social-responsibility",
@@ -20594,11 +20682,21 @@
       "https://www.innovid.com/resources/blog/100-digital-tv",
       "https://www.innovid.com/resources/blog/3-key-trends-defining-cannes-lions-2024",
       "https://www.innovid.com/resources/blog/4-scary-monsters-that-frighten-media-strategists",
-      "https://www.innovid.com/resources/blog/4-pillars-of-championing-converged-tv-campaigns"
+      "https://www.innovid.com/resources/blog/4-pillars-of-championing-converged-tv-campaigns",
+      "https://www.innovid.com/resources/blog/advertising-on-live-streamed-sports",
+      "https://www.innovid.com/resources/blog/anheuser-busch-benefits-from-45-decrease-in-cost-per-unique-reach-with-innovid-ctv-insights",
+      "https://www.innovid.com/resources/blog/ai-in-ad-tech-cutting-through-hype-harnessing-potential",
+      "https://www.innovid.com/resources/blog/ai-mythbusters-debunking-the-biggest-ai-misconceptions-in-advertising",
+      "https://www.innovid.com/resources/blog/apple-attribution-innovidxp-how-innovid-is-responding-to-recent-privacy-enhancements",
+      "https://www.innovid.com/resources/blog/auto-advertising-gains-horsepower-video-insights-from-innovid-iq",
+      "https://www.innovid.com/resources/blog/beyond-the-buzz-talking-3is-with-industry-leaders",
+      "https://www.innovid.com/resources/blog/bringing-harmony-to-the-ctv-marketplace--together",
+      "https://www.innovid.com/resources/blog/bringing-real-time-sports-data-to-advertising",
+      "https://www.innovid.com/resources/blog/calling-all-cord-cutters-advertising-week-ny-day-3"
     ]
   },
   "fortune.com": {
-    "lastAt": 1758745585378,
+    "lastAt": 1759110711307,
     "urls": [
       "https://fortune.com/",
       "https://fortune.com/section/arts-and-entertainment/",
@@ -20639,11 +20737,21 @@
       "https://fortune.com/2025/09/24/u-s-new-home-sales-unexpectedly-jump-20-percent-august/",
       "https://fortune.com/2025/09/24/canada-population-growth-rate-near-zero-on-immigration-curbs/",
       "https://fortune.com/2025/09/24/housing-costs-so-high-gen-z-millennials-sacrifices-delayed-milestones/",
-      "https://fortune.com/article/ufb-direct-bank-review/"
+      "https://fortune.com/article/ufb-direct-bank-review/",
+      "https://fortune.com/2025/09/28/michigan-church-shooting-hybrid-threat-suspect-thomas-jacob-sanford-marine-veteran/",
+      "https://fortune.com/2025/09/28/michigan-church-shooting-attacks-houses-of-worship-20-years/",
+      "https://fortune.com/article/intel-lip-bu-tan-artificial-intelligence-chips-trump/",
+      "https://fortune.com/2025/09/28/michigan-church-shooting-fire-mormon-latter-day-saints-grand-blanc-township/",
+      "https://fortune.com/2025/09/28/werner-herzog-interview-book-the-future-of-truth-gen-z/",
+      "https://fortune.com/2025/09/28/pentagon-generals-admirals-quantico-meeting-trump-pete-hegseth/",
+      "https://fortune.com/2025/09/28/government-shutdown-jobs-report-dekay-fed-rate-cuts-mixed-economic-signals/",
+      "https://fortune.com/2025/09/28/new-york-city-mayor-eric-adams-reelection-campaign-democratic-socialist-mamdai-cuomo/",
+      "https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/",
+      "https://fortune.com/article/best-creatine-supplements/"
     ]
   },
   "merriam-webster.com": {
-    "lastAt": 1758745590522,
+    "lastAt": 1759110715060,
     "urls": [
       "https://www.merriam-webster.com/login",
       "https://www.merriam-webster.com/advertising",
@@ -20681,7 +20789,16 @@
       "https://www.merriam-webster.com/help/explanatory-notes/dict-attributive-nouns",
       "https://www.merriam-webster.com/help/explanatory-notes/dict-capitalization",
       "https://www.merriam-webster.com/help/explanatory-notes/dict-combining-forms",
-      "https://www.merriam-webster.com/help/explanatory-notes/dict-cross-references"
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-cross-references",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-etymology",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-definitions",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-dates",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-entries",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-functional-labels",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-plant-animal-names",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-inflected-forms",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-synonyms",
+      "https://www.merriam-webster.com/help/explanatory-notes/dict-undefined-words"
     ]
   },
   "coupang.com": {
