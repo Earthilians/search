@@ -41194,49 +41194,49 @@
     "urls": []
   },
   "chartbeat.net": {
-    "lastAt": 1758878828473,
+    "lastAt": 1759245772908,
     "urls": []
   },
   "ctmail.com": {
-    "lastAt": 1758878887333,
+    "lastAt": 1759245831757,
     "urls": []
   },
   "script.ac": {
-    "lastAt": 1758878891002,
+    "lastAt": 1759245834806,
     "urls": []
   },
   "usgs.gov": {
-    "lastAt": 1758878902272,
+    "lastAt": 1759245847292,
     "urls": [
       "https://usgs.gov/"
     ]
   },
   "fortinet.net": {
-    "lastAt": 1758878961084,
+    "lastAt": 1759245906103,
     "urls": []
   },
   "eyeota.net": {
-    "lastAt": 1758878967557,
+    "lastAt": 1759245913885,
     "urls": []
   },
   "ria.ru": {
-    "lastAt": 1758878987947,
+    "lastAt": 1759245934782,
     "urls": [
       "https://ria.ru/"
     ]
   },
   "servicepipe.ru": {
-    "lastAt": 1758878992606,
+    "lastAt": 1759245938844,
     "urls": []
   },
   "themoviedb.org": {
-    "lastAt": 1758878995079,
+    "lastAt": 1759245940088,
     "urls": [
       "https://themoviedb.org/"
     ]
   },
   "primis.tech": {
-    "lastAt": 1758878998346,
+    "lastAt": 1759245942656,
     "urls": [
       "https://primis.tech/",
       "https://www.primis.tech/resources/blogs/primis-technology-updates-api-2-10/",
@@ -41277,19 +41277,29 @@
       "https://www.primis.tech/resources/blogs/por-que-el-video-es-bueno-para-la-experiencia-del-usuario/",
       "https://www.primis.tech/resources/blogs/generacion-video-como-llegar-a-la-generacion-que-crecio-con-los-videos-en-linea/",
       "https://www.primis.tech/resources/blogs/como-los-publishers-pueden-sacar-provecho-del-crecimiento-del-consumo-de-videos-durante-el-confinamiento/",
-      "https://www.primis.tech/resources/blogs/la-posicion-ideal-para-las-unidades-de-video/"
+      "https://www.primis.tech/resources/blogs/la-posicion-ideal-para-las-unidades-de-video/",
+      "https://www.primis.tech/resources/blogs/lo-que-todo-publisher-necesita-saber-sobre-seguridad-de-marca/",
+      "https://www.primis.tech/resources/blogs/primis-lanza-primis-next-lo-ultimo-en-la-evolucion-del-video-discovery/",
+      "https://www.primis.tech/resources/blogs/primis-partnership-human-fight-against-ad-fraud/",
+      "https://www.primis.tech/resources/blogs/the-5-elements-of-video-discovery-the-guide-for-publishers-2/",
+      "https://www.primis.tech/resources/blogs/mejoramos-nuestro-tablero-de-playlist-para-otorgar-mas-control-a-los-publishers/",
+      "https://www.primis.tech/resources/blogs/primis-launches-new-product-center/",
+      "https://www.primis.tech/resources/blogs/primis-expands-video-library-new-partnerships-2021/",
+      "https://www.primis.tech/resources/blogs/primis-launches-industry-leading-amp-video-player/",
+      "https://www.primis.tech/resources/blogs/primis-and-gamurs-group-sign-exclusive-partnership-for-video-monetization/",
+      "https://www.primis.tech/resources/blogs/associated-press-selects-primis-as-video-content-syndication-provider/"
     ]
   },
   "bfmio.com": {
-    "lastAt": 1758879057159,
+    "lastAt": 1759246001469,
     "urls": []
   },
   "discomax.com": {
-    "lastAt": 1758879060391,
+    "lastAt": 1759246004862,
     "urls": []
   },
   "logitech.com": {
-    "lastAt": 1758879063734,
+    "lastAt": 1759246007678,
     "urls": [
       "https://www.logitech.com/es-ar",
       "https://www.logitech.com/es-ar/shop",
@@ -41330,37 +41340,47 @@
       "https://www.logitech.com/es-ar/shop/p/m720-triathlon",
       "https://www.logitech.com/es-ar/shop/p/mx-ergo-wireless-trackball-mouse",
       "https://www.logitech.com/es-ar/shop/p/m650-signature-wireless-mouse",
-      "https://www.logitech.com/es-ar/shop/p/limited-edition-wireless-mouse"
+      "https://www.logitech.com/es-ar/shop/p/limited-edition-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m575-ergo-wireless-trackball",
+      "https://www.logitech.com/es-ar/shop/p/pro-x2-superlight-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/g305-lightspeed-wireless-gaming-mouse",
+      "https://www.logitech.com/es-ar/shop/p/g502-lightspeed-wireless-gaming-mouse",
+      "https://www.logitech.com/es-ar/shop/p/g502-x-plus-wireless-lightforce",
+      "https://www.logitech.com/es-ar/shop/p/g303-shroud-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/g502-hero-gaming-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m350-pebble-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m190-wireless-mouse",
+      "https://www.logitech.com/es-ar/shop/p/m187-mini-wireless-mouse"
     ]
   },
   "dropbox-dns.com": {
-    "lastAt": 1758879066946,
+    "lastAt": 1759246010545,
     "urls": []
   },
   "jwpltx.com": {
-    "lastAt": 1758879068590,
+    "lastAt": 1759246011412,
     "urls": [
       "https://jwpltx.com/"
     ]
   },
   "verizon.com": {
-    "lastAt": 1758879070414,
+    "lastAt": 1759246012765,
     "urls": [
       "https://verizon.com/"
     ]
   },
   "sfgate.com": {
-    "lastAt": 1758879077349,
+    "lastAt": 1759246018442,
     "urls": []
   },
   "harman.com": {
-    "lastAt": 1758879080004,
+    "lastAt": 1759246020623,
     "urls": [
       "https://harman.com/"
     ]
   },
   "wunderground.com": {
-    "lastAt": 1758879086609,
+    "lastAt": 1759246026940,
     "urls": [
       "https://wunderground.com/",
       "https://www.wunderground.com/forecast/mx/puerto-vallarta",
@@ -41401,17 +41421,27 @@
       "https://www.wunderground.com/forecast/ca/hamilton",
       "https://www.wunderground.com/forecast/us/ga/athens",
       "https://www.wunderground.com/forecast/is/reykjav%C3%ADk",
-      "https://www.wunderground.com/forecast/ua/odessa"
+      "https://www.wunderground.com/forecast/ua/odessa",
+      "https://www.wunderground.com/forecast/pt/lisbon",
+      "https://www.wunderground.com/forecast/ca/edmonton",
+      "https://www.wunderground.com/forecast/ca/winnipeg",
+      "https://www.wunderground.com/forecast/au/melbourne",
+      "https://www.wunderground.com/forecast/fr/paray-vieille-poste",
+      "https://www.wunderground.com/forecast/us/va/richmond",
+      "https://www.wunderground.com/forecast/pl/warsaw",
+      "https://www.wunderground.com/forecast/ch/zurich",
+      "https://www.wunderground.com/forecast/ru/saint-petersburg",
+      "https://www.wunderground.com/forecast/ca/banff"
     ]
   },
   "timeanddate.com": {
-    "lastAt": 1758879088160,
+    "lastAt": 1759246028104,
     "urls": [
       "https://timeanddate.com/"
     ]
   },
   "eskimi.com": {
-    "lastAt": 1758879092183,
+    "lastAt": 1759246029741,
     "urls": [
       "https://www.eskimi.com/career-page",
       "https://www.eskimi.com/blog",
@@ -41452,15 +41482,25 @@
       "https://www.eskimi.com/blog-post",
       "https://www.eskimi.com/high-impact-ads",
       "https://www.eskimi.com/resource",
-      "https://www.eskimi.com/whitelabel"
+      "https://www.eskimi.com/whitelabel",
+      "https://www.eskimi.com/gallery-old",
+      "https://www.eskimi.com/industries/healthcare",
+      "https://www.eskimi.com/industries/betting",
+      "https://www.eskimi.com/exchange-general-terms",
+      "https://www.eskimi.com/certification",
+      "https://www.eskimi.com/industries/agency",
+      "https://www.eskimi.com/industries/fmcg",
+      "https://www.eskimi.com/programmatic-explained",
+      "https://www.eskimi.com/form-submission-success/publisher-thank-you",
+      "https://www.eskimi.com/exchanges"
     ]
   },
   "science.org": {
-    "lastAt": 1758879099027,
+    "lastAt": 1759246037278,
     "urls": []
   },
   "maricopa.gov": {
-    "lastAt": 1758879103278,
+    "lastAt": 1759246042197,
     "urls": [
       "https://maricopa.gov/",
       "https://www.maricopa.gov/9/I-Want-To",
@@ -41501,19 +41541,29 @@
       "https://www.maricopa.gov/3665/Steps-Procedures",
       "https://www.maricopa.gov/3873/Frequently-Asked-Questions",
       "https://www.maricopa.gov/3877/Active-Districts",
-      "https://www.maricopa.gov/3874/County-Districts"
+      "https://www.maricopa.gov/3874/County-Districts",
+      "https://www.maricopa.gov/3092/Health-Wellness",
+      "https://www.maricopa.gov/3228/Meetings-Agendas",
+      "https://www.maricopa.gov/5334/Courts",
+      "https://www.maricopa.gov/342/Aggregate-Mining-Operations-Zoning-Distr",
+      "https://www.maricopa.gov/5681/Elections-Equipment-Audit",
+      "https://www.maricopa.gov/348/Air-Pollution-Hearing-Board",
+      "https://www.maricopa.gov/349/Arizona-Diamondbacks-Foundation-Board-of",
+      "https://www.maricopa.gov/358/Audit-Advisory-Committee",
+      "https://www.maricopa.gov/351/Board-of-AdjustmentDrainage-Review-Board",
+      "https://www.maricopa.gov/354/Board-of-Health"
     ]
   },
   "msecnd.net": {
-    "lastAt": 1758879106214,
+    "lastAt": 1759246045077,
     "urls": []
   },
   "zdnscloud.com": {
-    "lastAt": 1758879110899,
+    "lastAt": 1759246049669,
     "urls": []
   },
   "mparticle.com": {
-    "lastAt": 1758879115398,
+    "lastAt": 1759246053064,
     "urls": [
       "https://www.mparticle.com/about-us/",
       "https://mparticle.com/",
@@ -41550,19 +41600,28 @@
       "https://www.mparticle.com/customer-data-platform-vendor-comparison/",
       "https://www.mparticle.com/customer-data-maturity-learn-more/",
       "https://www.mparticle.com/customer-data-platform-buying-guide/",
-      "https://www.mparticle.com/data-plan-builder-download/"
+      "https://www.mparticle.com/data-plan-builder-download/",
+      "https://www.mparticle.com/drive-campaign-velocity-and-efficiency-with-mparticle/",
+      "https://www.mparticle.com/eliminate-guesswork-with-the-power-of-ai/",
+      "https://www.mparticle.com/demo-request/",
+      "https://www.mparticle.com/drybar-customer-experience-data-location/",
+      "https://www.mparticle.com/exploring-composability-in-the-customer-data-stack/",
+      "https://www.mparticle.com/fireside-chat-with-mparticles-new-chief-product-officer-jason-lynn/",
+      "https://www.mparticle.com/get-in-touch/",
+      "https://www.mparticle.com/flexible-data-activation-with-mparticle-warehouse-sync/",
+      "https://www.mparticle.com/get-a-demo/"
     ]
   },
   "pnas.org": {
-    "lastAt": 1758882237449,
+    "lastAt": 1759246058181,
     "urls": []
   },
   "canvas-user-content.com": {
-    "lastAt": 1758882240602,
+    "lastAt": 1759246061362,
     "urls": []
   },
   "starlink.com": {
-    "lastAt": 1758882248460,
+    "lastAt": 1759246068672,
     "urls": [
       "https://www.starlink.com/",
       "https://starlink.com/",
@@ -41603,11 +41662,21 @@
       "https://www.starlink.com/residential/89kitoffer/nebraska",
       "https://www.starlink.com/residential/89kitoffer/nevada",
       "https://www.starlink.com/residential/89kitoffer/newmexico",
-      "https://www.starlink.com/residential/albuquerque-new-mexico-fast-internet"
+      "https://www.starlink.com/residential/albuquerque-new-mexico-fast-internet",
+      "https://www.starlink.com/bd/referrals",
+      "https://www.starlink.com/gr/referrals",
+      "https://www.starlink.com/fr/referrals",
+      "https://www.starlink.com/de/referrals",
+      "https://www.starlink.com/cz/referrals",
+      "https://www.starlink.com/id/referrals",
+      "https://www.starlink.com/it/referrals",
+      "https://www.starlink.com/il/referrals",
+      "https://www.starlink.com/ke/referrals",
+      "https://www.starlink.com/jp/referrals"
     ]
   },
   "mmcdn.com": {
-    "lastAt": 1758882249463,
+    "lastAt": 1759246069623,
     "urls": [
       "https://mmcdn.com/"
     ]
