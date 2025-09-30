@@ -281783,5 +281783,481 @@
     "title": "Endurance accessories brand uses reviews to win customers | Bazaarvoice",
     "description": "",
     "text": "March 5, 2015\nIt’s challenging for small companies to make a big impact. But endurance accessories b"
+  },
+  {
+    "id": "cced463a9c94fef32206e613d484f3a3f4a081b6",
+    "url": "https://tailscale.com/compliance",
+    "title": "Legal Hub",
+    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables",
+    "text": "The information provided here is for Tailscale customers and users who have questions about our term"
+  },
+  {
+    "id": "155ca15b66b220816c68ef31cb945587b543d64e",
+    "url": "https://tailscale.com/resources-hub",
+    "title": "Resources Hub",
+    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables",
+    "text": "Tailscale Resources\nTailscale Resources\nDiscover how professionals like you are leveraging Tailscale"
+  },
+  {
+    "id": "ab223733f65d177f3e5a809bcbafa66878060805",
+    "url": "https://tailscale.com/universe-25",
+    "title": "Meet Tailscale at GitHub Universe!",
+    "description": "Learn about all the ways you can engage with the Tailscale team if you plan on attending GitHub Univ",
+    "text": "Meet Tailscale at\nLearn about all the ways you can engage with the Tailscale team if you plan on att"
+  },
+  {
+    "id": "1f2f17c3ebea515604562b69c23efee179f7ad79",
+    "url": "https://tailscale.com/resources/fedramp",
+    "title": "Using Tailscale in FedRAMP Moderate Environments",
+    "description": "Evaluate Tailscale's fit in your FedRAMP Moderate environment. Get help with Security and Compliance",
+    "text": "Using Tailscale in FedRAMP Moderate environments\nTailscale is a modern VPN built on WireGuard, desig"
+  },
+  {
+    "id": "d653e98193ed4d64cdacdea2fe688d917c0b699c",
+    "url": "https://tailscale.com/use-cases/kubernetes",
+    "title": "Secure, Zero-Trust Access for Kubernetes (Start for Free) | Tailscale",
+    "description": "Secure remote access for ingress/egress, cross-cluster peering, and the Kubernetes control plane.",
+    "text": "Eliminate toil with simple and secure network access to the control plane API, services, and entire "
+  },
+  {
+    "id": "f0c2dab81fa26265b1f4ca64eae62d391b894c4e",
+    "url": "https://tailscale.com/partnerships",
+    "title": "Tailscale Partnership",
+    "description": "Leverage Tailscale’s cutting-edge solutions to enhance your service portfolio and drive significant ",
+    "text": "Partnerships\nUnlock new opportunities with Tailscale Partnerships\nLeverage Tailscale’s cutting-edge "
+  },
+  {
+    "id": "081c7f69b1c24ffe517a1a88ed2a29c49671591f",
+    "url": "https://tailscale.com/contact/sales",
+    "title": "Deploy our Zero-Config, No-Fuss VPN Today | Talk to Tailscale",
+    "description": "Contact our sales team to learn how to use Tailscale to build secure networks that avoid the public ",
+    "text": "We’re here to help you secure and simplify your network.\nProduct\nUse Cases\nResources\nCompany\nHelp & "
+  },
+  {
+    "id": "5a4b0a33eb85850bc3c9bf6196fd43fac14bba6f",
+    "url": "https://tailscale.com/security",
+    "title": "Security | Tailscale",
+    "description": "Learn how Tailscale reviews risks on a regular basis to ensure proper mitigations are in place.",
+    "text": "Thousands of teams trust Tailscale — and that’s in part thanks to our commitment to security and pri"
+  },
+  {
+    "id": "14694a602ca8ae3f9177f74587760bebaf4080b8",
+    "url": "https://tailscale.com/wireguard-vpn",
+    "title": "WireGuard® for Enterprise",
+    "description": "Operationalize WireGuard® incrementally across the most complex network infrastructures.",
+    "text": "Incrementally operationalize WireGuard® across the most complex network infrastructures.\nTailscale p"
+  },
+  {
+    "id": "eb3a70490e6efd00f983bf1c1beacfcdc77ccc47",
+    "url": "https://tailscale.com/solutions/security",
+    "title": "Tailscale for Security Teams",
+    "description": "Tailscale enables scalable Zero Trust for security teams",
+    "text": "Security\nTailscale for security teams\nShrink the risk surface area for your organization\nDynamically"
+  },
+  {
+    "id": "3967d737a2b8a9aee019cf19fbfd6dc8fc48511d",
+    "url": "https://www.adswizz.com/prisma-media-choisit-adswizz/",
+    "title": "Prisma Media Chosit AdsWizz - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "6cc89bb098e666c4af605f826ddedef5355812d2",
+    "url": "https://www.adswizz.com/listen-up-prospering-in-podcasts-in-a-post-pandemic-world/",
+    "title": "Listen up: Prospering in podcasts in a post-pandemic world - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "8cc45105930072610f7e72793690dfcc8bfbdadf",
+    "url": "https://www.adswizz.com/how-audio-attribution-can-transform-multichannel-campaigns-by-garrison-dua-vp-demand-north-america/",
+    "title": "How Audio Attribution Can Transform Multichannel Campaigns, by Garrison Dua, VP Demand, North Americ",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "b8d26ea653124e3794424ed9dccf21bdf453cebd",
+    "url": "https://www.adswizz.com/idobi-signs-exclusive-agreement-with-adswizz-for-global-monetization-of-audio-inventory/",
+    "title": "idobi Signs Exclusive Agreement with AdsWizz for Global Monetization of Audio Inventory - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "ed5c4df341a92ebc126e8a8eeda504b089bb061f",
+    "url": "https://www.adswizz.com/leading-italian-radio-station-rds-100-grandi-successi-signs-agreement-with-adswizz-for-audio-ad-tech-solutions/",
+    "title": "Leading Italian radio station, RDS 100% Grandi Successi, signs agreement with AdsWizz for audio ad t",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "cee2a9b4b0ffe8afbb69a6adee890a1f000fd068",
+    "url": "https://www.adswizz.com/adswizzs-audio-streaming-platform-gets-label-from-the-french-alliance-for-press-and-media-figures-acpm/",
+    "title": "AdsWizz’s Audio Streaming Platform Gets Label From The French Alliance for Press and Media Figures (",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "525e52a976754ae6200cfdeedd833e2fbc981c16",
+    "url": "https://www.adswizz.com/mad-fest-moments-programmatic-audio-boom-is-helping-brands-to-reach-audiences-at-scale/",
+    "title": "MAD//Fest Moments: Programmatic Audio Boom Is Helping Brands To Reach Audiences At Scale - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "a3c24afcb072e09d838e797b213252afb182d0a4",
+    "url": "https://www.adswizz.com/nrc-start-groot-advertentienetwerk-voor-podcasts/",
+    "title": "NRC start groot advertentienetwerk voor podcasts - AdsWizz",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "12e0ba9ebc6200dbd7439dcfa8f50145adf379cf",
+    "url": "https://www.adswizz.com/consumers-turn-up-the-volume-on-podcasts-but-are-brands-listening-by-ella-kerr-mccutcheon-business-development-director-eu-adswizz/",
+    "title": "Consumers turn up the volume on podcasts — but are brands listening? By Ella Kerr-McCutcheon, Busine",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "27b2086c73e982cde12ef0a0f060f58187296877",
+    "url": "https://www.adswizz.com/why-enhanced-segment-targeting-is-important-in-any-podcast-advertising-strategy-by-garrison-dua-vp-demand-north-america/",
+    "title": "Why enhanced segment targeting is important in any podcast advertising strategy, by Garrison Dua, VP",
+    "description": "",
+    "text": "We enable the effective monetization and personalization of digital audio by providing a complete su"
+  },
+  {
+    "id": "588b24faace226fe8931ccc821558496289db42c",
+    "url": "https://www.infonline.de/joint-industry-committees/",
+    "title": "Joint Industry Committees - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "3e0b2afdc79963646f9b8b8b011feb93a13474ae",
+    "url": "https://www.infonline.de/infonline/",
+    "title": "INFOnline - INFOnline GmbH",
+    "description": "",
+    "text": "Standardmäßig ohne Cookies  |  Einwilligungsfreies Tracking  |  DSGVO- & TTDSG-konform"
+  },
+  {
+    "id": "d2d4e9525143763350c9edb129ae79338a4a39de",
+    "url": "https://www.infonline.de/agf/",
+    "title": "agf - INFOnline GmbH",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2274c196f6695e60d5e721dabeb1f300148675e6",
+    "url": "https://www.infonline.de/glossar/",
+    "title": "Glossar - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "926a06cc068ddd7f4935f0323dd6e47c790eb5a2",
+    "url": "https://www.infonline.de/qclient/nutzungsbedingungen/",
+    "title": "Nutzungsbedingungen - INFOnline GmbH",
+    "description": "",
+    "text": "Die Metrik Qualified Client gibt an, von wie vielen technischen Endgeräten aus innerhalb eines Monat"
+  },
+  {
+    "id": "e8e37f913271a20cf6bce426754be81facfeb08c",
+    "url": "https://www.infonline.de/it-verstaerkung-gesucht/",
+    "title": "IT-Verstärkung gesucht - INFOnline GmbH",
+    "description": "",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "e5d25545739e9ac1cd6851d552e91b394571b010",
+    "url": "https://www.infonline.de/qclient/faqs/",
+    "title": "FAQs für Publishing Benchmark - INFOnline GmbH",
+    "description": "",
+    "text": "Ja, die Veröffentlichung der Monatsdaten unter www.publishing-benchmark.de ist derzeit kostenlos. Di"
+  },
+  {
+    "id": "7f0a107b5aa05129fc6f587f8f964758b4ce4e22",
+    "url": "https://www.infonline.de/publisher/",
+    "title": "Publisher setzen auf die Werbeträgermessung der INFOnline.",
+    "description": "Mit der standardiserten Werbeträgermessung, können Publisher problemlos an der IVW-Ausweisung und de",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "a31654985b4535afeaa46a74e76ac3420e433b4b",
+    "url": "https://www.infonline.de/qclient/",
+    "title": "INFOnline Qualified Client | Mehr als nur eine Metrik",
+    "description": "Optimieren Sie Ihre digitale Leistung mit dem Qualified Client. Er ist vergleichbar, IVW-geprüft und",
+    "text": "Sie erreichen uns montags bis donnerstags zwischen 09:00 Uhr – 17:30 Uhr, freitags 09:00 Uhr – 16:00"
+  },
+  {
+    "id": "771e0e8a7b9ffb78abadd9ef7196d99a22bc3f44",
+    "url": "https://www.iheart.com/artist/alexis-19206/",
+    "title": "Alexis | iHeart",
+    "description": "Take My Hand, Secondhand Kiss, Estoy Muy Solo",
+    "text": "Alexis\nSecondhand Kiss\nSep 2025 • 1 song\nLate Check-In (feat. Static Rim)\nJul 2025 • 1 song\nLate Che"
+  },
+  {
+    "id": "8c130126dcaa3f46b4a2d0e5059993b9f3494bc4",
+    "url": "https://www.iheart.com/artist/pepe-urquiaga-19614/",
+    "title": "Pepe Urquiaga | iHeart",
+    "description": "Mosaico Cubano, El Son Se Fué de Cuba, La Montaña",
+    "text": "Pepe Urquiaga\nPitbull\nMonica\nDon Omar\niHeart\nLive Radio\nPodcasts\nArtist Radio\nNews\nFeatures\nEvents\nC"
+  },
+  {
+    "id": "5cca79df8854c9fe504fa32ce95ea72de665f976",
+    "url": "https://www.iheart.com/artist/dick-deedee-20134/",
+    "title": "Dick & DeeDee | iHeart",
+    "description": "Thou Shalt Not Steal (Rerecorded), The Mountain's High, Young And In Love (Rerecorded)",
+    "text": "Dick & DeeDee\nDick & DeeDee - Their Very Best (Rerecorded Version)\nMar 2008 • 3 songs\nRoy Orbison\nTh"
+  },
+  {
+    "id": "b927ca773e6aac234df4e918d71bfc09841beeb8",
+    "url": "https://www.iheart.com/artist/quincy-jones-ray-brown-orchestra-3918/",
+    "title": "Quincy Jones | iHeart",
+    "description": "The Secret Garden (Sweet Seduction Suite), One Hundred Ways, Just Once",
+    "text": "Quincy Jones\nMidnight Reverie\nDec 2023 • 24 songs\nThe Music You Need\nJan 2023 • 23 songs\nQuincy Jone"
+  },
+  {
+    "id": "993d96c1ee6c215c550741ee40abfae9b19b08e0",
+    "url": "https://www.iheart.com/artist/peter-godwin-12139/",
+    "title": "Peter Godwin | iHeart",
+    "description": "Images of Heaven, You!, Spoken Images",
+    "text": "Peter Godwin\nSunset Rise\nJan 2024 • 12 songs\n80s Remixes, Singles and B-Sides\nApr 2023 • 14 songs\nYo"
+  },
+  {
+    "id": "96fa1faa1c58e005f2e850137ecdc44c8e3fc14e",
+    "url": "https://www.iheart.com/artist/dj-sangeet-20382/",
+    "title": "DJ Sangeet | iHeart",
+    "description": "Defolder, Basho's Pond",
+    "text": "DJ Sangeet\nBasho's Pond\nFeb 2019 • 2 songs\nDemi Lovato\nThe Chainsmokers\nCalvin Harris\niHeart\nLive Ra"
+  },
+  {
+    "id": "3b949e3ac3c38d83c4faec0df5cf5c8c26132bc0",
+    "url": "https://www.iheart.com/artist/chalk-dust-21058/",
+    "title": "Chalk Dust | iHeart",
+    "description": "No More Licks in School, Turnbull the Teacher, From Naipal with Shame",
+    "text": "Chalk Dust\nA Thread of Hope\nApr 2008 • 7 songs\nSugar Aloes\nCro Cro\nThe Rootsman\niHeart\nLive Radio\nPo"
+  },
+  {
+    "id": "b77717047efa5a0cfac6b14b363f8b71199a3319",
+    "url": "https://www.iheart.com/artist/james-keane-20396/",
+    "title": "James Keane | iHeart",
+    "description": "Once In Royal David's City, The Door, Tick",
+    "text": "James Keane\nWalking In A Winter Wonderland\nOct 2022 • 1 song\nOnce In Royal David's City\nOct 2021 • 1"
+  },
+  {
+    "id": "087063d72cc9a656b8d578e3b3ade81ccf93426a",
+    "url": "https://www.iheart.com/artist/fred-worx-21116/",
+    "title": "Fred Worx | iHeart",
+    "description": "All your favorite music, podcasts, and radio stations available for free. Listen to thousands of liv",
+    "text": "Fred Worx\nBingo Players\nShowtek\nMilli Vanilli\niHeart\nLive Radio\nPodcasts\nArtist Radio\nNews\nFeatures\n"
+  },
+  {
+    "id": "65d0ac3295ead66fc163e6b9d757db4e75cf8acf",
+    "url": "https://www.iheart.com/artist/multiplydivide-22097/",
+    "title": "Multiply | iHeart",
+    "description": "It Sold in Catalogues, 1991, Mannequins",
+    "text": "Multiply\nGasoline & You Know Vip\nMar 2024 • 2 songs\nBig Vibes (feat. Swegking & Quilox)\nSep 2022 • 1"
+  },
+  {
+    "id": "204290b6db65bb2539bd477b64e056b74cf6834f",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/david-keighley-dead-imax-chief-quality-officer-1236359042/",
+    "title": "David Keighley Dead: Imax Chief Quality Officer Was 77",
+    "description": "quality guru large format cinema platform lauded Christopher Nolan, James Cameron, Denis Villeneuve ",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "4c0b341f5ab8cfdce512f892b8dec640438799cd",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-lydia-west-season-2-big-mood-channel-4-1236358414/",
+    "title": "Nicola Coughlan, Lydia West Kick Off Filming on 'Big Mood' (Exclusive)",
+    "description": "Filming is underway on the season two of Channel 4's hit comedy 'Big Mood' with stars Nicola Coughla",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "bed7584568ad84ed0a01bbb24a477b05c2db8aa9",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-please-dont-destroy-ben-marshall-cast-additions-1236359164/",
+    "title": "‘SNL’: Please Don’t Destroy’s Ben Marshall, 4 Others Join Cast",
+    "description": "‘Saturday Night Live’ has added five featured players to its cast: Tommy Brennan, Jeremy Culhane, Be",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "dbaad2cd231c14057dfee8844ac44722a6d144f7",
+    "url": "https://www.hollywoodreporter.com/movies/movie-reviews/karl-review-lagerfeld-documentary-1236358608/",
+    "title": "'Karl' Review: Lagerfeld Doc Is Engaging if Unilluminating",
+    "description": "'Karl' is a documentary about the late designer Karl Lagerfeld, featuring Tilda Swinton, Tom Ford an",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "2795bc58435414f2c05b49fb86b3bb575be1e7c7",
+    "url": "https://www.hollywoodreporter.com/business/business-news/spin-magazine-owner-sale-talks-deal-1236357659/",
+    "title": "Spin Magazine Sale Collapses After Buyer Doesn't Wire the Money",
+    "description": "Spin magazine had been in talks for eight months to be sold to a Florida-based music app company.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "5e3f4da5db223fdf03739851ead84be561a07f80",
+    "url": "https://www.hollywoodreporter.com/business/business-news/canal-french-cinema-giant-ugc-1236359172/",
+    "title": "Canal+ to Take Stake in French Cinema Giant UGC",
+    "description": "The deal would combine Canal+’s production and distribution arm, StudioCanal, with UGC’s exhibition ",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "2e95401e6492d9f114f41f664816043e2e24e474",
+    "url": "https://www.hollywoodreporter.com/music/music-news/mtv-vmas-2025-presenters-kpop-demon-hunters-paris-hilton-1236359205/",
+    "title": "MTV VMAs 2025 Presenters: KPop Demon Hunters Stars, Paris Hilton",
+    "description": "The 2025 MTV VMAs added presenters from KPop Demon Hunters and Hunting Wives; Paris Hilton; Jessica ",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "927ec43653e88f3bb897c7433378938726ca9cfb",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-returns-season-27-episode-4-butters-trump-satan-1236359199/",
+    "title": "Butters is in Hot Water When 'South Park' Returns This Week",
+    "description": "South Park returns Sept. 3 with a clip of the next episode showing Butters in trouble.",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "b89db915b7e2c2fbfc188f5af04a3763442ddabb",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-please-dont-destroy-sketches-ending-1236359243/",
+    "title": "‘SNL’s’ Please Don’t Destroy Era Is Over",
+    "description": "‘SNL’ writer and Please Don’t Destroy member John Higgins is leaving the show, ending the filmed ske",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "97b7b298f8088c1ee9efdbaceeb594af558b9d16",
+    "url": "https://www.hollywoodreporter.com/music/music-news/esa-pekka-salonen-los-angeles-philharmonic-1236359248/",
+    "title": "Esa-Pekka Salonen Returns to the Los Angeles Philharmonic",
+    "description": "Famed Finnish conductor Esa-Pekka Salonen is returning to the Los Angeles Philharmonic as creative d",
+    "text": "Subscribe for full access to The Hollywood Reporter\nSubscribe for full access to The Hollywood Repor"
+  },
+  {
+    "id": "d8b663208e987a66aa00cc335ac2c0e1960fd8d1",
+    "url": "https://www.sap.com/france/documents/2024/04/34286410-ba7e-0010-bca6-c68f7e60039b.html",
+    "title": "3 stratégies RH clés pour les entreprises axées sur la croissance",
+    "description": "Découvrez les points clés d'une étude Oxford Economics sur la manière dont les responsables RH et in",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "bb7c211a9d62e8bc57163e40681f74a01bb55f93",
+    "url": "https://www.sap.com/france/documents/2023/09/ae341767-8e7e-0010-bca6-c68f7e60039b.html",
+    "title": "SAP France Newsletter n°8 2023 Supply Chain & Industry 4.0",
+    "description": "Découvrez les innovations, tendances, témoignages clients, nouveautés produits, avis d'experts, évén",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "e95e6ecf7fb04f3cc02996b3aaa494322010f153",
+    "url": "https://www.sap.com/france/documents/2024/04/5e587711-ba7e-0010-bca6-c68f7e60039b.html",
+    "title": "Donnez aux utilisateurs métier les moyens de créer des sites avec une expérience low-code",
+    "description": "Découvrez comment SAP Build Work Zone aide les collaborateurs au cœur de vos défis à concevoir des s",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "b4a876520ac65b25f99d2f8c76110cf0dcc48b65",
+    "url": "https://www.sap.com/france/documents/2024/04/164a3d1b-b97e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "432adbbd3df46044bcf468e940b2bb758d552be2",
+    "url": "https://www.sap.com/france/documents/2023/11/b2083db4-987e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "2511d1196c928baf0b04407ff4b41218d57dc0fa",
+    "url": "https://www.sap.com/france/documents/2024/04/ec874b7e-b67e-0010-bca6-c68f7e60039b.html",
+    "title": "Authentification",
+    "description": "",
+    "text": "L'authentification est nécessaire pour pouvoir continuer.\n© 2025 SAP SE ou société affiliée SAP. Tou"
+  },
+  {
+    "id": "ca5f75e7bc9875626b4ca0585c7edda0958ca8a1",
+    "url": "https://www.sap.com/france/documents/2024/04/d8b571a9-b47e-0010-bca6-c68f7e60039b.html",
+    "title": "Une croissance intelligente et évolutive, optimisée par SAP",
+    "description": "Découvrez comment SAP vous aide à assurer la croissance continue de votre entreprise grâce à des sol",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "62b08c65887ddd353d3d73bd3bdbbe210d34c9d5",
+    "url": "https://www.sap.com/france/documents/2024/04/101edc07-b57e-0010-bca6-c68f7e60039b.html",
+    "title": "Infographie : Les grandes tendances RH 2024",
+    "description": "Comment évolue le monde du travail ? Êtes-vous prêt pour la suite ? Les chercheurs RH de SAP vous do",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "e67531e873b753c5193b4688f45465146c5481da",
+    "url": "https://www.sap.com/france/documents/2024/04/6c89b717-b77e-0010-bca6-c68f7e60039b.html",
+    "title": "Présentation de la solution : SAP SuccessFactors Recruiting",
+    "description": "Découvrez comment la solution SAP SuccessFactors Recruiting aide les entreprises de toutes tailles à",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "76f28c202750308570ecb2f80b3e61c2ecd9ca24",
+    "url": "https://www.sap.com/france/documents/2024/04/a42aef08-b57e-0010-bca6-c68f7e60039b.html",
+    "title": "Présentation de la solution : brochure du produit SAP SuccessFactors Onboarding",
+    "description": "Découvrez comment la solution SAP SuccessFactors Onboarding et la suite HXM unifient les workflows p",
+    "text": "© 2025 SAP SE ou société affiliée SAP. Tous droits réservés."
+  },
+  {
+    "id": "5dad68ca0743fa1a46f06a5c9426f7587e44fe51",
+    "url": "https://www.thawte.com/about",
+    "title": "About | Thawte",
+    "description": "Thawte is a globally recognized provider of TLS/SSL certificates, powered by DigiCert, the industry-",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "3745e38f784e222f0bf82581d06354dcb0701d45",
+    "url": "https://www.thawte.com/fr",
+    "title": "Sécurité SSL intelligente dans le monde entier | Thawte",
+    "description": "Chez Thawte, la confiance numérique se situe au cœur de tous les enjeux : confiance dans la fiabilit",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "98f822720ccff7130def2d88a210cfbecbe96ea4",
+    "url": "https://www.thawte.com/sitemap",
+    "title": "Sitemap | Thawte",
+    "description": "Sitemap for Thawte",
+    "text": "CHOOSE YOUR LANGUAGE ×\nTLS/SSL CERTIFICATES\nDIGICERT CERTIFICATES\nEU (EIDAS)\nPKIOVERHEID\nChoose the "
+  },
+  {
+    "id": "c906c5df29f7330e999bbe017f2465d3a133a98c",
+    "url": "https://www.thawte.com/fr/tls-ssl/tls-ssl-certificates",
+    "title": "Certificats SSL et de signature de code | La sécurité web selon Thawte",
+    "description": "Pour vos certificats SSL et de signature de code, faites confiance à Thawte, une autorité de certifi",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "83140011f671fd5c2ddf558b6c105f3f344ade37",
+    "url": "https://www.thawte.com/fr/tls-ssl/compare-multi-domain-certificates",
+    "title": "Comparer nos certificats TLS/SSL multi-domaines | Thawte",
+    "description": "Comparer et acheter des certificats Thawte TLS/SSL multi-domaines. Comparez les différents certifica",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "416368d7a7e63364598d9af2f3b1c41a11b3f419",
+    "url": "https://www.thawte.com/fr/tls-ssl/web-server-ssl-certificates",
+    "title": "Acheter des certificats SSL pour serveurs web | Thawte",
+    "description": "Achetez des certificats Thawte SSL pour serveurs web afin de prouver votre identité dans le monde vi",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "77ce8db2254d43e7d34323f8c9f7be3fda6ba8ba",
+    "url": "https://www.thawte.com/fr/tls-ssl/compare-single-domain-certificates",
+    "title": "Comparer nos certificats TLS/SSL mono-domaines | Thawte",
+    "description": "Comparer et acheter des certificats Thawte TLS/SSL mono-domaines. Comparez les différents certificat",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "056d3cb5bd9dc4f93e33da0676b6c79d3d3aafbb",
+    "url": "https://www.thawte.com/fr/tls-ssl/compare-wildcard-certificates",
+    "title": "Comparer nos certificats TLS/SSL Wildcard | Thawte",
+    "description": "Comparer et acheter des certificats Thawte TLS/SSL Wildcard. Comparez les différents certificats TLS",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
+  },
+  {
+    "id": "2910f6653e5ff0a78eea0f24830c314416e30a8b",
+    "url": "https://www.thawte.com/fr/tls-ssl/ssl123-ssl-certificates",
+    "title": "Acheter des certificats SSL123 pour une validation de domaine accélérée | Thawte",
+    "description": "Découvrez Thawte SSL123, les certificats émis en un temps record pour accélérer le chiffrement des c",
+    "text": "CHOOSE YOUR LANGUAGE ×\nCERTIFICATS TLS/SSL\nCERTIFICATS DIGICERT\nEU (règlement eIDAS)\nPKIOVERHEID\nVou"
   }
 ]
