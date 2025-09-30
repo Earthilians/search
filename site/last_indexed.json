@@ -38755,11 +38755,11 @@
     ]
   },
   "brusnika.tech": {
-    "lastAt": 1758864118168,
+    "lastAt": 1759231171559,
     "urls": []
   },
   "datto.com": {
-    "lastAt": 1758864124214,
+    "lastAt": 1759231182232,
     "urls": [
       "https://www.datto.com/blog/",
       "https://www.datto.com/blog/podcast-recap-how-to-simplify-cybersecurity-for-your-c-suite/",
@@ -38800,11 +38800,21 @@
       "https://www.datto.com/blog/what-is-phishing/",
       "https://www.datto.com/blog/what-is-server-virtualization/",
       "https://www.datto.com/blog/what-is-ryuk-ransomware-and-how-does-it-work/",
-      "https://www.datto.com/blog/what-is-platform-as-a-servicepaas/"
+      "https://www.datto.com/blog/what-is-platform-as-a-servicepaas/",
+      "https://www.datto.com/blog/what-is-patch-management/",
+      "https://www.datto.com/blog/what-is-offsite-backup-vs-onsite-backup/",
+      "https://www.datto.com/blog/what-is-nvidia-rtx-lhr-v2-unlocker-and-how-does-it-work/",
+      "https://www.datto.com/blog/network-attached-storage-nas/",
+      "https://www.datto.com/blog/what-is-nist-compliance-and-how-to-be-compliant/",
+      "https://www.datto.com/blog/what-is-nfs-file-share/",
+      "https://www.datto.com/blog/what-is-maze-ransomware-and-how-does-it-work/",
+      "https://www.datto.com/blog/what-is-managed-soc-security-operation-center-why-msps-need-mdr/",
+      "https://www.datto.com/blog/what-is-malware/",
+      "https://www.datto.com/blog/what-is-it-asset-management/"
     ]
   },
   "americanexpress.com": {
-    "lastAt": 1758864129333,
+    "lastAt": 1759231188959,
     "urls": [
       "https://about.americanexpress.com/corporate-sustainability/community-giving/backing-low-carbon-communities/default.aspx",
       "https://about.americanexpress.com/corporate-sustainability/esg/esg-reporting-and-resources/default.aspx",
@@ -38845,11 +38855,21 @@
       "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-UK-colleagues-take-part-in-Seven-Sisters-Country-Park-nature-recovery-project-through-new-partnership-with-The-South-Downs-National-Park-Trust/default.aspx",
       "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-Resy-Donate-500K-to-The-Southern-Smoke-Foundation/default.aspx",
       "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-The-Black-Theatre-Coalition-Announce-Inaugural-Directing-Fellowship/default.aspx",
-      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-the-Coalition-to-Back-Black-Businesses-Grant-Recipients-Reflect-on-Navigating-Entrepreneurship/default.aspx"
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-the-Coalition-to-Back-Black-Businesses-Grant-Recipients-Reflect-on-Navigating-Entrepreneurship/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-announces-return-of-its-most-generous-ever-welcome-bonuses-for-new-American-Express-UK-Business-Platinum-and-Gold-Cardmembers/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-SiriusXM-Bring-Shop-Small-on-its-First-Ever-Concert-Tour-This-Summer/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-boosts-Cardmember-bonus-rewards-with-Invite-a-Friend-referral-programme/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-Resy-Drive-Over-8.6-Million-Reservations-to-8000-Restaurants-as-Part-Of-Every-Resy-Counts/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-the-National-Trust-for-Historic-Preservation-Bring-Back-1-Million-Grant-Program-to-Support-Historic-Small-Restaurants/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-to-Open-a-New-Centurion-Lounge-at-Hartsfield-Jackson-Atlanta-International-Airport/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-to-Match-Eligible-Donations-Made-with-Membership-Rewards-Points-in-Support-of-Relief-Efforts-in-Ukraine/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-talks-about-the-ESG-Report/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/Brits-Looking-To-Impress-Guests-With-Over-Half-Increasing-Spend-On-Home-And-Garden-Improvements-Compared-To-Pre-Pandemic/default.aspx",
+      "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-ExpressExpands-Membership-With-New-American-Express-Rewards-Checking-Account/default.aspx"
     ]
   },
   "norton.com": {
-    "lastAt": 1758864132918,
+    "lastAt": 1759231192098,
     "urls": [
       "https://us.norton.com/products/norton-driver-updater",
       "https://us.norton.com/products/genie-scam-detector",
@@ -38890,11 +38910,21 @@
       "https://us.norton.com/downloads",
       "https://us.norton.com/about-norton",
       "https://us.norton.com/feature/privacy-monitor",
-      "https://us.norton.com/feature/parental-control"
+      "https://us.norton.com/feature/parental-control",
+      "https://us.norton.com/feature/safe-web",
+      "https://us.norton.com/feature/backup",
+      "https://us.norton.com/feature/safecam",
+      "https://us.norton.com/feature/firewall",
+      "https://us.norton.com/feature/password-manager",
+      "https://us.norton.com/feature/dark-web-monitoring",
+      "https://us.norton.com/feature/identity-lock",
+      "https://us.norton.com/feature/norton-360-features-comparison",
+      "https://us.norton.com/feature/antivirus-for-windows-11",
+      "https://us.norton.com/feature/antivirus-for-windows-10"
     ]
   },
   "fao.org": {
-    "lastAt": 1758864138841,
+    "lastAt": 1759231200742,
     "urls": [
       "https://www.fao.org/newsroom/story/more-fruit-for-the-labour/en",
       "https://fao.org/",
@@ -38935,11 +38965,21 @@
       "https://www.fao.org/newsroom/story/hu",
       "https://www.fao.org/newsroom/story/tr",
       "https://www.fao.org/newsroom/detail/it",
-      "https://www.fao.org/newsroom/story/pt"
+      "https://www.fao.org/newsroom/story/pt",
+      "https://www.fao.org/newsroom/detail/en",
+      "https://www.fao.org/newsroom/detail/ru",
+      "https://www.fao.org/newsroom/story/drought-within-an-ocean/en",
+      "https://www.fao.org/newsroom/story/drought-within-an-ocean/ru",
+      "https://www.fao.org/newsroom/detail/zh",
+      "https://www.fao.org/newsroom/story/drought-within-an-ocean/fr",
+      "https://www.fao.org/newsroom/story/drought-within-an-ocean/zh",
+      "https://www.fao.org/newsroom/detail/fr",
+      "https://www.fao.org/newsroom/detail/ar",
+      "https://www.fao.org/newsroom/detail/es"
     ]
   },
   "ovh.com": {
-    "lastAt": 1758864198083,
+    "lastAt": 1759231254164,
     "urls": [
       "https://www.ovh.com/fr/protection-donnees-personnelles/exercer-vos-droits",
       "https://www.ovh.com/fr/deals/",
@@ -38980,23 +39020,33 @@
       "https://www.ovh.com/world/es/soluciones/vrack/",
       "https://www.ovh.com/ma/cdn/infrastructure/",
       "https://www.ovh.com/ma/support/contrats/",
-      "https://www.ovh.com/ma/cloud-databases/"
+      "https://www.ovh.com/ma/cloud-databases/",
+      "https://www.ovh.com/ma/cdn/",
+      "https://www.ovh.com/ma/solutions/vrack/",
+      "https://www.ovh.com/ma/nas/",
+      "https://www.ovh.com/ma/protection-donnees-personnelles/exercer-vos-droits",
+      "https://www.ovh.com/ma/solutions/load-balancer/",
+      "https://www.ovh.com/ma/support/procedures/",
+      "https://www.ovh.com/tn/solutions/load-balancer/",
+      "https://www.ovh.com/tn/cdn/",
+      "https://www.ovh.com/tn/support/contrats/",
+      "https://www.ovh.com/tn/support/procedures/"
     ]
   },
   "getpocket.com": {
-    "lastAt": 1758864199796,
+    "lastAt": 1759231255540,
     "urls": [
       "https://getpocket.com/"
     ]
   },
   "kernel.org": {
-    "lastAt": 1758864200918,
+    "lastAt": 1759231256476,
     "urls": [
       "https://kernel.org/"
     ]
   },
   "google.com.au": {
-    "lastAt": 1758864202271,
+    "lastAt": 1759231257962,
     "urls": [
       "https://www.google.com/intl/ta/gmail/about/",
       "https://www.google.com/intl/te_in/gmail/about/",
@@ -39011,7 +39061,7 @@
     ]
   },
   "globenewswire.com": {
-    "lastAt": 1758864205170,
+    "lastAt": 1759231261900,
     "urls": [
       "https://globenewswire.com/",
       "https://www.globenewswire.com/news-release/2025/09/13/3149514/673/en/SLNO-Investor-News-If-You-Have-Suffered-Losses-in-Soleno-Therapeutics-Inc-NASDAQ-SLNO-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
@@ -39052,56 +39102,66 @@
       "https://www.globenewswire.com/news-release/2025/09/26/3156821/0/en/Start-of-Day-Message.html",
       "https://www.globenewswire.com/news-release/2025/09/26/3156813/0/en/Precast-Concrete-Expert-David-Tejel-Explores-Pipe-Solutions-for-Drainage-and-Sewer-Systems-in-HelloNation.html",
       "https://www.globenewswire.com/news-release/2025/09/26/3156816/0/en/Cipher-Mining-Announces-Pricing-of-Upsized-Private-Offering-of-1-1-Billion-of-0-00-Convertible-Senior-Notes.html",
-      "https://www.globenewswire.com/news-release/2025/09/26/3156814/0/en/Plumbing-Expert-Catrina-Aubry-of-Rochester-Explains-Emergency-Plumbing-Services-for-HelloNation.html"
+      "https://www.globenewswire.com/news-release/2025/09/26/3156814/0/en/Plumbing-Expert-Catrina-Aubry-of-Rochester-Explains-Emergency-Plumbing-Services-for-HelloNation.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158456/0/en/2025-Liaoning-Aviation-Industry-Development-Conference-and-Shenyang-Faku-International-Flight-Conference-Opens.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158453/0/en/Draganfly-Selected-by-U-S-Army-to-Supply-Flex-FPV-Drone-Systems.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158454/28124/en/AI-in-the-Quick-Service-Restaurants-QSRs-Market-2025-2029-Tech-Advancements-and-Labor-Shortages-Shape-Dynamics-Driving-AI-in-QSR-Revenues-by-6-83-Billion.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158452/0/en/Same-Day-Payday-Loan-No-Credit-Check-RadCred-Launches-AI-Powered-Platform-for-Instant-Payday-Loan-Online-for-Bad-Credit-2025.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158455/0/en/The-Crossover-You-Never-Saw-Coming-Bratz-and-Hello-Kitty-Unite-for-a-Superstylish-Supercute-Doll-Line.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158451/0/en/Apollo-Art-Auctions-Presents-Day-Two-of-The-Prince-Collection-Masterpieces-from-Egypt-Greece-and-Rome.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158450/28124/en/Bridge-Construction-Strategic-Industry-Report-2025-2030-Technological-Innovations-Infrastructure-Demand-and-Sustainability-Standards-Drive-Global-Growth.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158449/0/en/Computer-Vision-Systems-Market-Expected-to-Reach-USD-75-52-Billion-by-2032-Fueled-by-Widespread-AI-and-ML-Adoption-Worldwide-SNS-Insider.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158447/0/en/Ocular-Therapeutix-Announces-Pricing-of-Underwritten-Offering-of-Common-Stock.html",
+      "https://www.globenewswire.com/news-release/2025/09/30/3158448/28124/en/AI-in-Financial-Planning-and-Analysis-Market-to-Grow-by-Over-48-Billion-by-2029-Generative-AI-and-Conversational-Analytics-Fuel-Industry-Growth.html"
     ]
   },
   "zenlogic.net": {
-    "lastAt": 1758864208585,
+    "lastAt": 1759231265427,
     "urls": []
   },
   "secureserver.net": {
-    "lastAt": 1758864212189,
+    "lastAt": 1759231269207,
     "urls": []
   },
   "amd.com": {
-    "lastAt": 1758864280997,
+    "lastAt": 1759231338014,
     "urls": []
   },
   "restream-media.net": {
-    "lastAt": 1758864285159,
+    "lastAt": 1759231342252,
     "urls": []
   },
   "zpath.net": {
-    "lastAt": 1758864288215,
+    "lastAt": 1759231345270,
     "urls": []
   },
   "aws-prd.net": {
-    "lastAt": 1758864291946,
+    "lastAt": 1759231348822,
     "urls": []
   },
   "strava.com": {
-    "lastAt": 1758864304106,
+    "lastAt": 1759231360667,
     "urls": [
       "https://www.strava.com/",
       "https://strava.com/"
     ]
   },
   "politico.com": {
-    "lastAt": 1758864308373,
+    "lastAt": 1759231364575,
     "urls": []
   },
   "alp.ru": {
-    "lastAt": 1758864310797,
+    "lastAt": 1759231366964,
     "urls": [
       "https://alp.ru/"
     ]
   },
   "translate.goog": {
-    "lastAt": 1758864314400,
+    "lastAt": 1759231370592,
     "urls": []
   },
   "acm.org": {
-    "lastAt": 1758864318513,
+    "lastAt": 1759231379574,
     "urls": [
       "https://www.acm.org/acm-focus",
       "https://www.acm.org/acm-history",
@@ -39138,15 +39198,24 @@
       "https://www.acm.org/about-acm/org-chart",
       "https://www.acm.org/about-acm/acm-india-council",
       "https://www.acm.org/about-acm/annual-reports-current-fy",
-      "https://www.acm.org/about-acm/acm-constitution"
+      "https://www.acm.org/about-acm/acm-constitution",
+      "https://www.acm.org/about-acm/acm-history",
+      "https://www.acm.org/about-acm/contact-us",
+      "https://www.acm.org/about-acm/acm-policies-and-procedures",
+      "https://www.acm.org/about-acm/acm-annual-reports-2015",
+      "https://www.acm.org/about-acm/boole-bio",
+      "https://www.acm.org/about-acm/get-involved",
+      "https://www.acm.org/about-acm/officer-bios",
+      "https://www.acm.org/about-acm/class/list-class-demo",
+      "https://www.acm.org/about-acm/sysavail"
     ]
   },
   "hh.ru": {
-    "lastAt": 1758864323792,
+    "lastAt": 1759231384757,
     "urls": []
   },
   "matterport.com": {
-    "lastAt": 1758864328605,
+    "lastAt": 1759231389477,
     "urls": [
       "https://matterport.com/matterport-top-deals",
       "https://matterport.com/en-gb/matterport-top-deals",
@@ -39187,37 +39256,47 @@
       "https://matterport.com/es/axis",
       "https://matterport.com/ja/axis",
       "https://matterport.com/ko/axis",
-      "https://matterport.com/it/axis"
+      "https://matterport.com/it/axis",
+      "https://matterport.com/es/learn/real-estate-marketing/tools",
+      "https://matterport.com/learn/real-estate-marketing/tools",
+      "https://matterport.com/de/learn/real-estate-marketing/tools",
+      "https://matterport.com/fr/learn/real-estate-marketing/tools",
+      "https://matterport.com/en-gb/learn/real-estate-marketing/tools",
+      "https://matterport.com/ja/learn/real-estate-marketing/tools",
+      "https://matterport.com/it/learn/real-estate-marketing/tools",
+      "https://matterport.com/ko/learn/real-estate-marketing/tools",
+      "https://matterport.com/learn/digital-twin/examples",
+      "https://matterport.com/en-gb/learn/digital-twin/examples"
     ]
   },
   "adaether.com": {
-    "lastAt": 1758864332230,
+    "lastAt": 1759231392921,
     "urls": []
   },
   "mwbsys.com": {
-    "lastAt": 1758864335352,
+    "lastAt": 1759231396075,
     "urls": []
   },
   "springserve.com": {
-    "lastAt": 1758864336556,
+    "lastAt": 1759231397207,
     "urls": [
       "https://springserve.com/"
     ]
   },
   "wechat.com": {
-    "lastAt": 1758868425018,
+    "lastAt": 1759231400806,
     "urls": [
       "https://wechat.com/"
     ]
   },
   "acronis.com": {
-    "lastAt": 1758868450086,
+    "lastAt": 1759231435703,
     "urls": [
       "https://acronis.com/"
     ]
   },
   "siemens.com": {
-    "lastAt": 1758868454294,
+    "lastAt": 1759231440100,
     "urls": [
       "https://www.siemens.com/es/es.html",
       "https://www.siemens.com/es/es/empresa.html",
@@ -39258,11 +39337,21 @@
       "https://www.siemens.com/ph/en/company/about/contact-us1.html",
       "https://www.siemens.com/ph/en/company/about/contact-us2.html",
       "https://www.siemens.com/ph/en/company/about/contact-us21.html",
-      "https://www.siemens.com/ph/en/company/about/partner-information.html"
+      "https://www.siemens.com/ph/en/company/about/partner-information.html",
+      "https://www.siemens.com/es/es/empresa/equipo-directivo/fernando-ortega.html",
+      "https://www.siemens.com/es/es/empresa/equipo-directivo/jose-ramon-castro.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens.html",
+      "https://www.siemens.com/es/es/empresa/equipo-directivo/javier-conde.html",
+      "https://www.siemens.com/es/es/empresa/equipo-directivo/patricia-blasco.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens/barometro-de-la-ia-en-espana.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens/ciudades-sostenibles.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens/claves-e-inversiones-estrategicas-para-una-espana-50.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens/claves-e-inversiones-estrategicas-para-una-espana-50/descarga.html",
+      "https://www.siemens.com/es/es/empresa/estudios-de-siemens/estudio-de-digitalizacion.html"
     ]
   },
   "avito.st": {
-    "lastAt": 1758868456948,
+    "lastAt": 1759231442701,
     "urls": [
       "https://avito.st/"
     ]

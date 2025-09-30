@@ -277002,5 +277002,628 @@
     "title": "But we didn’t know!",
     "description": "Media outlets publish a sufficient amount of nonsense about anti-viruses, but there are limits to ev",
     "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "36c01a660d9ab296862011363fd6a96f02f32a14",
+    "url": "https://www.datto.com/blog/what-is-patch-management/",
+    "title": "What is Patch Management? Microsoft Patching Best Practices & Benefits",
+    "description": "Datto RMM’s built-in patch management software increases MSP efficiency with automated patching.",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nPatch management is th"
+  },
+  {
+    "id": "c1d2cfe2b48cc0dd69c037bac3b825a15054a0f4",
+    "url": "https://www.datto.com/blog/what-is-offsite-backup-vs-onsite-backup/",
+    "title": "What is Offsite Backup vs Onsite Backup? | Datto",
+    "description": "Offsite backups are a type of data protection that provides a copy of a business' production system ",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nOffsite backups are a "
+  },
+  {
+    "id": "29c4a8c9fb969f246ab51f1309744453fbf4ddae",
+    "url": "https://www.datto.com/blog/what-is-nvidia-rtx-lhr-v2-unlocker-and-how-does-it-work/",
+    "title": "What is Nvidia RTX-LHR v2 Unlocker and How Does it Work? | Datto",
+    "description": "On February 22, the crypto mining community received a massive fake news alert that claimed to succe",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nOn February 22, the cr"
+  },
+  {
+    "id": "8be0936f4963b8a8b7364da87c4adc61e7ddf726",
+    "url": "https://www.datto.com/blog/network-attached-storage-nas/",
+    "title": "What is Network-Attached Storage (NAS)? | Datto",
+    "description": "Discover the role of NAS in modern businesses, its benefits, limitations, and how Datto's BCDR solut",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nAs businesses navigate"
+  },
+  {
+    "id": "39a6935c7ee958f317b93e560fa4689eb1202f65",
+    "url": "https://www.datto.com/blog/what-is-nist-compliance-and-how-to-be-compliant/",
+    "title": "What Is NIST Compliance and How to Be Compliant? | Datto",
+    "description": "After almost every type of cyberattack spiked in 2021, cybersecurity is more critical than ever for ",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nAfter almost every typ"
+  },
+  {
+    "id": "1b8494661fbb7ffe8ba1cd36b319b27eda07cbb5",
+    "url": "https://www.datto.com/blog/what-is-nfs-file-share/",
+    "title": "What is Network File System (NFS) File Share? | Datto",
+    "description": "What is NFS file share, how does it compare to other NAS options, and how can you get it running on ",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nNFS, or Network File S"
+  },
+  {
+    "id": "519d509957903172c04795838410250bfac5f8a2",
+    "url": "https://www.datto.com/blog/what-is-maze-ransomware-and-how-does-it-work/",
+    "title": "What is Maze Ransomware and How Does it Work? | Datto",
+    "description": "Maze Ransomware has been in the headlines non-stop ever since it was first reported in May 2019. It ",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nMaze Ransomware has be"
+  },
+  {
+    "id": "94a67b24e74614efcd6b03eef3a1a6a3abc90b6c",
+    "url": "https://www.datto.com/blog/what-is-managed-soc-security-operation-center-why-msps-need-mdr/",
+    "title": "What is Managed SOC (Security Operation Center)? | Datto",
+    "description": "Managed SOC provides the highest level of threat protection to MSPs and their clients. It combines t",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nHackers have a deep pl"
+  },
+  {
+    "id": "d55be1afd27eab1dddf79d9b25ce55b550b8278f",
+    "url": "https://www.datto.com/blog/what-is-malware/",
+    "title": "What Is Malware? | Datto Tech Blog",
+    "description": "There are many different types of malware. Each type of malware has its own specific purpose and met",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nAlmost 600,000 pieces "
+  },
+  {
+    "id": "eec4c80da848a3fe9382d28273df50e2859da9c1",
+    "url": "https://www.datto.com/blog/what-is-it-asset-management/",
+    "title": "What is IT Asset Management (ITAM)? | Datto",
+    "description": "ITAM is an encompassing strategy that manages the lifecycle of an organization's IT assets, includin",
+    "text": "FLEXspend\nfor Datto Backup\nIntegrations\nConnect with your essential MSP tools\nIn the digital era, ef"
+  },
+  {
+    "id": "5506c48edd755ff67bd29d058db0299bbf2a9a57",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-announces-return-of-its-most-generous-ever-welcome-bonuses-for-new-American-Express-UK-Business-Platinum-and-Gold-Cardmembers/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "3e08ad0ff66c274f148cb185d257a51cc7171ff4",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-SiriusXM-Bring-Shop-Small-on-its-First-Ever-Concert-Tour-This-Summer/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "2d4e3d32ba65fcfd17232d0ceb1868e99548b9e9",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-boosts-Cardmember-bonus-rewards-with-Invite-a-Friend-referral-programme/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "9e8cb1b9c9169268c87fc6434e64c061b5be34d7",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-Resy-Drive-Over-8.6-Million-Reservations-to-8000-Restaurants-as-Part-Of-Every-Resy-Counts/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "6720eade0c724f6f5dddac511d4ffae0f173113f",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-and-the-National-Trust-for-Historic-Preservation-Bring-Back-1-Million-Grant-Program-to-Support-Historic-Small-Restaurants/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "19de633b157ec6008cf7b8c5288754906ac343e6",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-to-Open-a-New-Centurion-Lounge-at-Hartsfield-Jackson-Atlanta-International-Airport/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "699cbe36218da9c0a3ad9caf7a4342819b4af8f9",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-to-Match-Eligible-Donations-Made-with-Membership-Rewards-Points-in-Support-of-Relief-Efforts-in-Ukraine/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "7e48a81d4e72e39aa41a033fea2b2a4e8d142886",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-talks-about-the-ESG-Report/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "e787c85f5152dd58b412cf04c0ecfa4bfbb24a6d",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/Brits-Looking-To-Impress-Guests-With-Over-Half-Increasing-Spend-On-Home-And-Garden-Improvements-Compared-To-Pre-Pandemic/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "fd6d70c85664317273cb8e5fa5a2863eecc6f73e",
+    "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-ExpressExpands-Membership-With-New-American-Express-Rewards-Checking-Account/default.aspx",
+    "title": "Amex Newsroom",
+    "description": "American Express Newsroom",
+    "text": ""
+  },
+  {
+    "id": "ff0129d266df5f23dbe6f5681c50f971e2464007",
+    "url": "https://us.norton.com/feature/safe-web",
+    "title": "Norton Safe Web extension | Check website safety",
+    "description": "Check websites’ safety before you visit them with the Norton Safe Web browser extension ► Explore no",
+    "text": "Go to Account to download services\nGo to Account to download services\nView a website’s safety rating"
+  },
+  {
+    "id": "2475de90b799e8bbfdbe433a0f1ef26c038a9d35",
+    "url": "https://us.norton.com/feature/backup",
+    "title": "Norton Cloud Backup: What is it & how does it work? | Norton",
+    "description": "Store your important files as preventive measure against data loss due to ransomware, hard drive fai",
+    "text": "Go to Account to download services\nGo to Account to download services\nNorton PC Cloud Backup helps p"
+  },
+  {
+    "id": "f2383f016552cd840eb73721fe05f49d222d5da0",
+    "url": "https://us.norton.com/feature/safecam",
+    "title": "SafeCam from Norton | Webcam Security",
+    "description": "Webcam security specifically for your Windows PC’s camera helps to protect you against unauthorized ",
+    "text": "Go to Account to download services\nGo to Account to download services\nSafeCam alerts you to attempts"
+  },
+  {
+    "id": "efb39b0f41b57b8aec258e81d16f594ffc727089",
+    "url": "https://us.norton.com/feature/firewall",
+    "title": "Norton Smart Firewall & Intrusion Prevention System I Norton",
+    "description": "Norton Smart Firewall & Intrusion Prevention System monitors internet traffic to help protect agains",
+    "text": "Go to Account to download services\nGo to Account to download services\nDon’t let your files and data "
+  },
+  {
+    "id": "ac39ee203763f75878b6847a80eb7ecea96ca90c",
+    "url": "https://us.norton.com/feature/password-manager",
+    "title": "Norton Password Manager | Install for Free",
+    "description": "Install Norton Password Manager for free on PC, Mac®, Android, and iOS or get the browser extension.",
+    "text": "Go to Account to download services\nGo to Account to download services\nCreate and store passwords, ba"
+  },
+  {
+    "id": "568590f2ac280556492cb5a586e1fa2888e674fe",
+    "url": "https://us.norton.com/feature/dark-web-monitoring",
+    "title": "Dark Web Monitoring with Norton | What is it & how does it work?",
+    "description": "Norton offers a Dark Web Monitoring service that alerts you if we discover your personal information",
+    "text": "Go to Account to download services\nGo to Account to download services\nThe dark web is a place where "
+  },
+  {
+    "id": "8aa291db6a3b4a13677f9df9f06363ca34d783a6",
+    "url": "https://us.norton.com/feature/identity-lock",
+    "title": "Identity Lock: What is identity lock & how does it work?",
+    "description": "Identity Lock gives you proactive tools to lock and unlock your credit file, helping to protect agai",
+    "text": "Go to Account to download services\nGo to Account to download services\nIdentity Lock gives you a proa"
+  },
+  {
+    "id": "4c0c89d37e00e2656d373ddbb6af0fac05b6d9d3",
+    "url": "https://us.norton.com/feature/norton-360-features-comparison",
+    "title": "Compare Norton 360 Products and Plans: Security, Privacy, Identity, and Scam Features",
+    "description": "Check out our Norton 360 comparison guide to learn about the different features available across our",
+    "text": "Go to Account to download services\nGo to Account to download services\nMillions of people rely on Nor"
+  },
+  {
+    "id": "561dff5036c31032a1eb7f30ffb487fabfdab3e6",
+    "url": "https://us.norton.com/feature/antivirus-for-windows-11",
+    "title": "Download Antivirus Software for Windows 11 PC | Norton",
+    "description": "Norton's antivirus software for Windows 11 PC and laptops will help protect your device against onli",
+    "text": "Go to Account to download services\nGo to Account to download services\nNorton AntiVirus Plus helps to"
+  },
+  {
+    "id": "c8ac39f176f0e3c183eb874f5fb7277566e2ddf7",
+    "url": "https://us.norton.com/feature/antivirus-for-windows-10",
+    "title": "Download Antivirus Software for Windows 10 PC | Norton",
+    "description": "Norton's antivirus software for Windows 10 PC and laptops will help protect your device against onli",
+    "text": "Go to Account to download services\nGo to Account to download services\nNorton AntiVirus Plus helps to"
+  },
+  {
+    "id": "6272b683c46f0c7d8ddfbf8bb2c870a6a1ad84d1",
+    "url": "https://www.fao.org/newsroom/detail/en",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "d098f04866b799970f97029ef210b45fca350415",
+    "url": "https://www.fao.org/newsroom/detail/ru",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "dbe970cd0fbb922f2cc2e1653d0e879d3b809a09",
+    "url": "https://www.fao.org/newsroom/story/drought-within-an-ocean/en",
+    "title": "Drought within an ocean | Newsroom | Food and Agriculture Organization of the United Nations",
+    "description": "In depth story: Drought within an ocean",
+    "text": "Willy Gonçalves clicks his tongue to get the goats to run a little faster up the tall dirt hill in f"
+  },
+  {
+    "id": "ed0a6019ed0c1a4d37ab046a870df6384ab24796",
+    "url": "https://www.fao.org/newsroom/story/drought-within-an-ocean/ru",
+    "title": "Засуха посреди океана | ФАО | Продовольственная и сельскохозяйственная организация Объединенных Наци",
+    "description": "In depth story: Засуха посреди океана",
+    "text": "Вилли Гонcалвеш щелкает языком, подгоняя коз вверх по высокому грунтовому холму, расположенному у ег"
+  },
+  {
+    "id": "2c170bc267dbfa17bf778d875b2ff29305cdf853",
+    "url": "https://www.fao.org/newsroom/detail/zh",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "176c4a9eafdce26672ad97ae00aca5e1ee9184f8",
+    "url": "https://www.fao.org/newsroom/story/drought-within-an-ocean/fr",
+    "title": "Un archipel en proie à la sécheresse | FAO | Organisation des Nations Unies pour l'alimentation et l",
+    "description": "In depth story: Un archipel en proie à la sécheresse",
+    "text": "Willy Gonçalves claque sa langue pour faire accélérer ses chèvres sur la grande colline de terre sit"
+  },
+  {
+    "id": "9224e0f67cbc47f6d691a2012264989478898589",
+    "url": "https://www.fao.org/newsroom/story/drought-within-an-ocean/zh",
+    "title": "汪洋中的干旱岛屿  | 联合国粮食及农业组织",
+    "description": "In depth story: The power of the sun",
+    "text": "维利·贡萨尔维斯吹着口哨，不断催促山羊往山上跑得再快一些。这片土坡就在他家农场对面，地势颇高，羊群在这里寻找青草进食。\n佛得角在葡萄牙语中的含义是“绿色海角”，然而，每年的这个时节，这里并非想象中那般"
+  },
+  {
+    "id": "96885c6255be3f9e897464d40f7824ebb1c756ae",
+    "url": "https://www.fao.org/newsroom/detail/fr",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "4fa08d1522bb17ab2bfc4f461e7bde3be48969e3",
+    "url": "https://www.fao.org/newsroom/detail/ar",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "5251b93ddf88c6f8e0cb57631e4bcbadc199c276",
+    "url": "https://www.fao.org/newsroom/detail/es",
+    "title": "detail",
+    "description": "News detail",
+    "text": "Director-General QU Dongyu says the adoption of good practices holds the key to achieving sustainabi"
+  },
+  {
+    "id": "e2d6e06a84b65663318117786ecfe502e0391f24",
+    "url": "https://www.ovh.com/ma/cdn/",
+    "title": "CDN : Découvrez notre solution de réseau de diffusion de contenu | OVHcloud",
+    "description": "Améliorez la vitesse de chargement de vos sites web à l’international grâce au CDN. Attirez des visi",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "37317010ac16faa820f7dd818320e1abb568404a",
+    "url": "https://www.ovh.com/ma/solutions/vrack/",
+    "title": "vRack : Créez un réseau privé isolé pour vos serveurs | OVHcloud",
+    "description": "Le vRack vous permet de créer des infrastructures privées complexes à l’échelle mondiale et multi-da",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "8a3bf86ba1c5818d97b74309590f0ca45f59bb23",
+    "url": "https://www.ovh.com/ma/nas/",
+    "title": "Serveur NAS : Nos offres de stockage NAS | OVHcloud Maroc",
+    "description": "NASH-HA est une solution de stockage de fichiers de 3To à 144 To pour votre serveur dédié OVHcloud. ",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "5e1465cb18efd90e0084840d243a5b167beb9e10",
+    "url": "https://www.ovh.com/ma/protection-donnees-personnelles/exercer-vos-droits",
+    "title": "OVHcloud",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "dfab5f6c34a87fbc46fd2ff9c8dcab4237a25e97",
+    "url": "https://www.ovh.com/ma/solutions/load-balancer/",
+    "title": "Load Balancer : Faites évoluer votre infrastructure | OVHcloud Maroc",
+    "description": "Le Load Balancer répartit la charge entre vos services dans nos datacenters, afin de soutenir un tra",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "818249621ce43741aa903ede87185ff8c3b69c3d",
+    "url": "https://www.ovh.com/ma/support/procedures/",
+    "title": "Procédures - Support - OVH",
+    "description": "",
+    "text": "OVH met à votre disposition des procédures vous permettant de modifier vos informations administrati"
+  },
+  {
+    "id": "aa7f33d84767e545a83461ff590fc0eb078a5d96",
+    "url": "https://www.ovh.com/tn/solutions/load-balancer/",
+    "title": "Load Balancer : Faites évoluer votre infrastructure | OVHcloud Tunisie",
+    "description": "Le Load Balancer répartit la charge entre vos services dans nos datacenters, afin de soutenir un tra",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "23af39d5cb60394be33b641bd7c6e3c6d91b10ff",
+    "url": "https://www.ovh.com/tn/cdn/",
+    "title": "CDN : Découvrez notre solution de réseau de diffusion de contenu | OVHcloud",
+    "description": "Améliorez la vitesse de chargement de vos sites web à l’international grâce au CDN. Attirez des visi",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "d8e8028c5d212c533fa109abc493f74936142c41",
+    "url": "https://www.ovh.com/tn/support/contrats/",
+    "title": "Contrats | OVHcloud Tunisie",
+    "description": "Retrouvez l'ensemble des conditions générales et particulières (nom de domaine, hébergement mutualis",
+    "text": "Bienvenue chez OVHcloud.\nConnectez-vous pour commander, gérer vos produits et solutions et suivre vo"
+  },
+  {
+    "id": "d5fe2a01f0de74750d47498c1dc6c93fd0c6b051",
+    "url": "https://www.ovh.com/tn/support/procedures/",
+    "title": "Procédures - Support - OVH",
+    "description": "Les conseillers OVH sont à votre disposition pour toutes vos questions commerciales et techniques, a",
+    "text": "Bienvenue chez OVHcloud !\nIdentifiez-vous pour commander, gérez vos produits et services et suivre v"
+  },
+  {
+    "id": "1f46bbca5a332bc8e97240c968b8db6cfb400c90",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158456/0/en/2025-Liaoning-Aviation-Industry-Development-Conference-and-Shenyang-Faku-International-Flight-Conference-Opens.html",
+    "title": "2025 Liaoning Aviation Industry Development Conference and",
+    "description": "SHENYANG, China, Sept.  30, 2025  (GLOBE NEWSWIRE) -- On September 29, the 2025 Liaoning Aviation In",
+    "text": "September 30, 2025 07:18 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "f471e0c408e2a94787028b8abd3b3a73f7632f57",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158453/0/en/Draganfly-Selected-by-U-S-Army-to-Supply-Flex-FPV-Drone-Systems.html",
+    "title": "Draganfly Selected by U.S. Army to Supply Flex FPV Drone",
+    "description": "Tampa, Florida, Sept.  30, 2025  (GLOBE NEWSWIRE) -- Draganfly Inc. (NASDAQ: DPRO) (CSE: DPRO) (FSE:",
+    "text": "September 30, 2025 07:15 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "ccc71de20c3d3e7ca215dc44cc21870408ffef82",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158454/28124/en/AI-in-the-Quick-Service-Restaurants-QSRs-Market-2025-2029-Tech-Advancements-and-Labor-Shortages-Shape-Dynamics-Driving-AI-in-QSR-Revenues-by-6-83-Billion.html",
+    "title": "AI in the Quick Service Restaurants (QSRs) Market",
+    "description": "Key opportunities in the AI in quick service restaurants market include leveraging AI for labor shor",
+    "text": "September 30, 2025 07:15 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "0ae80eeb7d39fd01226bbdae18f66cb1ca68534c",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158452/0/en/Same-Day-Payday-Loan-No-Credit-Check-RadCred-Launches-AI-Powered-Platform-for-Instant-Payday-Loan-Online-for-Bad-Credit-2025.html",
+    "title": "Same Day Payday Loan No Credit Check: RadCred Launches",
+    "description": "RadCred unveils revolutionary AI-powered lending platform delivering same day payday loans no credit",
+    "text": "September 30, 2025 07:12 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "5b672edabc2397444aaa13d81a8aa0b2963a23ba",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158455/0/en/The-Crossover-You-Never-Saw-Coming-Bratz-and-Hello-Kitty-Unite-for-a-Superstylish-Supercute-Doll-Line.html",
+    "title": "The Crossover You Never Saw Coming: Bratz and Hello Kitty",
+    "description": "Bratz® and Hello Kitty® unite for the first-ever collector dolls! Cloe, Yasmin & Jade shine in kawai",
+    "text": "September 30, 2025 07:17 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "863cc9eba03617076e09fb1f1a117f81565a7697",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158451/0/en/Apollo-Art-Auctions-Presents-Day-Two-of-The-Prince-Collection-Masterpieces-from-Egypt-Greece-and-Rome.html",
+    "title": "Apollo Art Auctions Presents Day Two of The Prince",
+    "description": "The sale offers a rich variety of antiquities, from small to monumental, including remarkable Roman ",
+    "text": "September 30, 2025 07:11 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "4078722f2084bf69b1aa63f1ebe1f0d41d9d1fcc",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158450/28124/en/Bridge-Construction-Strategic-Industry-Report-2025-2030-Technological-Innovations-Infrastructure-Demand-and-Sustainability-Standards-Drive-Global-Growth.html",
+    "title": "Bridge Construction Strategic Industry Report 2025-2030:",
+    "description": "The main market opportunities in bridge construction arise from technological advancements like high",
+    "text": "September 30, 2025 07:11 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "35a5ebdf1616d7b1793bc6cb8d1dfc984e929141",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158449/0/en/Computer-Vision-Systems-Market-Expected-to-Reach-USD-75-52-Billion-by-2032-Fueled-by-Widespread-AI-and-ML-Adoption-Worldwide-SNS-Insider.html",
+    "title": "Computer Vision Systems Market Expected to Reach USD 75.52",
+    "description": "The market for computer vision systems is growing quickly, mostly due to the growing use of machine ",
+    "text": "September 30, 2025 07:10 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "d8db9d002f3098fcd530393e82699b1f1b78e1e2",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158447/0/en/Ocular-Therapeutix-Announces-Pricing-of-Underwritten-Offering-of-Common-Stock.html",
+    "title": "Ocular Therapeutix™ Announces Pricing of Underwritten",
+    "description": "BEDFORD, Mass., Sept.  30, 2025  (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (Nasdaq: OCUL) (“Ocula",
+    "text": "September 30, 2025 07:08 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "cb33513f527d9ad80bf3ac67eddc41d6307a5d5c",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158448/28124/en/AI-in-Financial-Planning-and-Analysis-Market-to-Grow-by-Over-48-Billion-by-2029-Generative-AI-and-Conversational-Analytics-Fuel-Industry-Growth.html",
+    "title": "AI in Financial Planning and Analysis Market to Grow by",
+    "description": "Key market opportunities in AI for financial planning and analysis include the rise of generative AI",
+    "text": "September 30, 2025 07:09 ET\n        \n\n        \n             | Source:\n            \n\n                "
+  },
+  {
+    "id": "414f89742ecebeedb13490baf740c7c04b80d484",
+    "url": "https://www.acm.org/about-acm/acm-history",
+    "title": "ACM History",
+    "description": "ACM, the Association for Computing Machinery http://www.acm.org, is the world's largest educational ",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "7eae41384ee25bc6e03382000a8a4fa74c367161",
+    "url": "https://www.acm.org/about-acm/contact-us",
+    "title": "Contact Information",
+    "description": "Ways to contact ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "6ade87b75be8b02420854e426d805e482f1f0c0f",
+    "url": "https://www.acm.org/about-acm/acm-policies-and-procedures",
+    "title": "ACM's Policies and Procedures",
+    "description": "This page describes ACM's Policies and Procedures.",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "d0b91a2d90373979dc22200a5754c8311d5a1f99",
+    "url": "https://www.acm.org/about-acm/acm-annual-reports-2015",
+    "title": "ACM 2015 Annual Report",
+    "description": "Information about ACM annual reports",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "9e16e2dd7f1605b252493ca5adcb7cd74ba93b07",
+    "url": "https://www.acm.org/about-acm/boole-bio",
+    "title": "George Boole, 1815-1864",
+    "description": "About George Boole",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "b326942148f91542d5098028011f37792d7d5ed3",
+    "url": "https://www.acm.org/about-acm/get-involved",
+    "title": "Get Involved, Stay Involved",
+    "description": "Ways to get involved and volunteer at ACM",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "62525a2adf4ffda32ffd0eb06fbc0c99067fb055",
+    "url": "https://www.acm.org/about-acm/officer-bios",
+    "title": "ACM Officers",
+    "description": "Brief biographic information of key ACM officers.",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "e8b3fd0fb136e8496d7f6a2899ab5dbcd09ba0ad",
+    "url": "https://www.acm.org/about-acm/class/list-class-demo",
+    "title": "Bullet Styles for Unordered Lists",
+    "description": "Bullet Styles for Unordered Lists",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "9166c6e7c9dd9f5f3d84cdb2f4eca5a6ce8e3fa3",
+    "url": "https://www.acm.org/about-acm/sysavail",
+    "title": "ACM System Notices",
+    "description": "ACM System Notices",
+    "text": "About ACM\nACM, the world's largest educational and scientific computing society, delivers resources "
+  },
+  {
+    "id": "02c81674952010eff71ff6bdb563db913531ef0e",
+    "url": "https://matterport.com/es/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Ventas: +34 910 482 834\nWe don’t need to emphasize how competitive the residential real estate indus"
+  },
+  {
+    "id": "9e1e1d676a584cd0929724feab680ac22a5532a1",
+    "url": "https://matterport.com/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Sales: +1(888) 993-8990\nWe don’t need to emphasize how competitive the residential real estate indus"
+  },
+  {
+    "id": "b8752802b3b32e66b46f80ae2049ff0d992d72aa",
+    "url": "https://matterport.com/de/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Vertrieb: +49 6956 608908\nWe don’t need to emphasize how competitive the residential real estate ind"
+  },
+  {
+    "id": "870b780645711723f0cbb1a2b7941cb964a600a2",
+    "url": "https://matterport.com/fr/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Ventes : +33 1 85 65 09 33\nWe don’t need to emphasize how competitive the residential real estate in"
+  },
+  {
+    "id": "540990932cbcc137fd9f8e5d34e03e4c7da01f56",
+    "url": "https://matterport.com/en-gb/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Sales: +44(0)2038 747580\nWe don’t need to emphasize how competitive the residential real estate indu"
+  },
+  {
+    "id": "c4331155e7dd90d6b17f8d3a940f8b92e4fd77fc",
+    "url": "https://matterport.com/ja/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "営業担当 : 03-6897-2960\nWe don’t need to emphasize how competitive the residential real estate industry "
+  },
+  {
+    "id": "b368484c3535d85336ff9395bfc3626038fdf758",
+    "url": "https://matterport.com/it/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "Vendite: +39 02 87045024\nWe don’t need to emphasize how competitive the residential real estate indu"
+  },
+  {
+    "id": "7d825e81bb9e00343a1c4dfbf5350823b32af3d7",
+    "url": "https://matterport.com/ko/learn/real-estate-marketing/tools",
+    "title": "Best Real Estate Marketing Tools To Boost Property Sales | Matterport",
+    "description": "Most Effective Real Estate Marketing Tools To Boost Residential Property Sales",
+    "text": "영업: +65 6797 8416\nWe don’t need to emphasize how competitive the residential real estate industry ca"
+  },
+  {
+    "id": "ed87c3d0ebe5f478f833192d2ef71014a92f0eb5",
+    "url": "https://matterport.com/learn/digital-twin/examples",
+    "title": "12 Best Digital Twin Examples Across Industries [2024] | Matterport",
+    "description": "Matterport",
+    "text": "Sales: +1(888) 993-8990"
+  },
+  {
+    "id": "bcdf7a1925029ec0bdb1452b49d298e61af7045d",
+    "url": "https://matterport.com/en-gb/learn/digital-twin/examples",
+    "title": "12 Best Digital Twin Examples Across Industries [2024] | Matterport",
+    "description": "Matterport",
+    "text": "Sales: +44(0)2038 747580"
+  },
+  {
+    "id": "ada5875d7eec0c1c49cfb170da82238e60c7ff18",
+    "url": "https://www.siemens.com/es/es/empresa/equipo-directivo/fernando-ortega.html",
+    "title": "Fernando Ortega - Siemens ES",
+    "description": "Fernando Ortega, General Counsel & Director General de Legal y Compliance en Siemens España.",
+    "text": ""
+  },
+  {
+    "id": "11702028eba31a0b549063463f05c50821557da7",
+    "url": "https://www.siemens.com/es/es/empresa/equipo-directivo/jose-ramon-castro.html",
+    "title": "José Ramón Castro - Siemens ES",
+    "description": "José Ramón Castro, director general de Digital Industries en Siemens España y Portugal.",
+    "text": ""
+  },
+  {
+    "id": "d22f419b61d9165344206a980bb2bec6e4bea806",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens.html",
+    "title": "Estudios de Siemens - Siemens ES",
+    "description": "Encuentra todos los estudios que Siemens ha realizado: Digitalización, Industria 4.0, Ciudades 4.0 y",
+    "text": ""
+  },
+  {
+    "id": "a0646173a5e0800c1874299af1ec3a286c4ac7fa",
+    "url": "https://www.siemens.com/es/es/empresa/equipo-directivo/javier-conde.html",
+    "title": "Javier Conde - Siemens ES",
+    "description": "Javier Conde, nuevo Director de People and Organization en Siemens España y Portugal, expandiendo su",
+    "text": ""
+  },
+  {
+    "id": "e720d3b5de95fe931b6596e1103d182924d25a42",
+    "url": "https://www.siemens.com/es/es/empresa/equipo-directivo/patricia-blasco.html",
+    "title": "Patricia Blasco - Siemens ES",
+    "description": "Patricia Blasco: Financial Director of Smart Infrastructure at Siemens Spain and Portugal, with exte",
+    "text": ""
+  },
+  {
+    "id": "c8eaddcf337fef88ac968f53c7e6eb4355e0c4f0",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens/barometro-de-la-ia-en-espana.html",
+    "title": "Barómetro de la IA en España - Siemens ES",
+    "description": "Conoce el estado de implantación de la inteligencia artificial en la industria y en las infraestruct",
+    "text": "La Inteligencia Artificial está impactando en todas las áreas de la vida cotidiana. Pero, ¿cuál es e"
+  },
+  {
+    "id": "a0aacfdb5c52edc349d39cccac7bbf40f01e2e02",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens/ciudades-sostenibles.html",
+    "title": "25 ciudades sostenibles - Siemens ES",
+    "description": "Estudio sobre las 25 ciudades españolas más sostenibles según Siemens.",
+    "text": ""
+  },
+  {
+    "id": "dcb17089e6203e249039e728c3d5d96596bb03cf",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens/claves-e-inversiones-estrategicas-para-una-espana-50.html",
+    "title": "Claves e inversiones estratégicas para una España 5.0 - Siemens ES",
+    "description": "¿Cómo te imaginas España en el futuro? Nos hemos hecho esta pregunta y creemos que nuestro país pued",
+    "text": ""
+  },
+  {
+    "id": "4ae524d1f760a7e991cf6d1fcd430e1b80013416",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens/claves-e-inversiones-estrategicas-para-una-espana-50/descarga.html",
+    "title": "Descarga - Siemens ES",
+    "description": "Consigue el informe \"Claves e inversiones estratégicas para una España 5.0\" de PwC. Descárgalo en un",
+    "text": ""
+  },
+  {
+    "id": "adf5e31b93c8d49d15e636528c93a84c3b2b43dd",
+    "url": "https://www.siemens.com/es/es/empresa/estudios-de-siemens/estudio-de-digitalizacion.html",
+    "title": "Estudio de Digitalización - Siemens ES",
+    "description": "España 4.0: el reto de la transformación digital de la economía Estudio sobre el estado de la digita",
+    "text": ""
   }
 ]
