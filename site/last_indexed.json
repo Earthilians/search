@@ -38190,13 +38190,13 @@
     "urls": []
   },
   "amap.com": {
-    "lastAt": 1758860828924,
+    "lastAt": 1759227912107,
     "urls": [
       "https://amap.com/"
     ]
   },
   "ovhcloud.com": {
-    "lastAt": 1758860834637,
+    "lastAt": 1759227917750,
     "urls": [
       "https://www.ovhcloud.com/asia/personal-data-protection/legal-privacy-security/",
       "https://www.ovhcloud.com/asia/web-cloud/databases/configuration/",
@@ -38237,21 +38237,31 @@
       "https://www.ovhcloud.com/asia/case-studies/clickmeeting/",
       "https://www.ovhcloud.com/asia/case-studies/loisigroup/",
       "https://www.ovhcloud.com/asia/case-studies/ethstaker/",
-      "https://www.ovhcloud.com/asia/case-studies/combigo/"
+      "https://www.ovhcloud.com/asia/case-studies/combigo/",
+      "https://www.ovhcloud.com/asia/support-levels/business/",
+      "https://www.ovhcloud.com/asia/support-levels/plans/",
+      "https://www.ovhcloud.com/asia/support-levels/enterprise/",
+      "https://www.ovhcloud.com/asia/support-levels/standard/",
+      "https://www.ovhcloud.com/asia/support-levels/premium/",
+      "https://www.ovhcloud.com/asia/support-levels/",
+      "https://www.ovhcloud.com/asia/public-cloud/uc-applications-big-data-ai/",
+      "https://www.ovhcloud.com/asia/public-cloud/ai-machine-learning/",
+      "https://www.ovhcloud.com/asia/public-cloud/kafka-mirrormaker/",
+      "https://www.ovhcloud.com/asia/public-cloud/data-catalog/"
     ]
   },
   "mobile.de": {
-    "lastAt": 1758860839095,
+    "lastAt": 1759227922231,
     "urls": []
   },
   "stripe.network": {
-    "lastAt": 1758860839466,
+    "lastAt": 1759227922599,
     "urls": [
       "https://stripe.network/"
     ]
   },
   "evernote.com": {
-    "lastAt": 1758860842345,
+    "lastAt": 1759227926194,
     "urls": [
       "https://evernote.com/compare-plans",
       "https://evernote.com/",
@@ -38286,11 +38296,11 @@
     ]
   },
   "stbid.ru": {
-    "lastAt": 1758860856310,
+    "lastAt": 1759227938879,
     "urls": []
   },
   "connatix.com": {
-    "lastAt": 1758860857585,
+    "lastAt": 1759227939145,
     "urls": [
       "https://connatix.com/video-analytics",
       "https://connatix.com/video-monetization",
@@ -38313,7 +38323,7 @@
     ]
   },
   "sky.com": {
-    "lastAt": 1758860865185,
+    "lastAt": 1759227948746,
     "urls": [
       "https://www.sky.com/",
       "https://www.sky.com/broadband",
@@ -38350,11 +38360,16 @@
       "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-bbc-iplayer",
       "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-disney-plus",
       "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-my-5",
-      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-itvx"
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-itvx",
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-netflix",
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-roku",
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-roxi",
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-weather",
+      "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-youtube"
     ]
   },
   "google.co.id": {
-    "lastAt": 1758860866763,
+    "lastAt": 1759227949949,
     "urls": [
       "https://www.google.com/intl/sr/gmail/about/",
       "https://www.google.com/intl/sr/gmail/about/policy/",
@@ -38369,15 +38384,15 @@
     ]
   },
   "protek.ru": {
-    "lastAt": 1758860925575,
+    "lastAt": 1759228008763,
     "urls": []
   },
   "px-cloud.net": {
-    "lastAt": 1758860928719,
+    "lastAt": 1759228012054,
     "urls": []
   },
   "vtb.ru": {
-    "lastAt": 1758860939738,
+    "lastAt": 1759228038862,
     "urls": [
       "https://vtb.ru/",
       "https://www.vtb.ru/promo/gzpn/",
@@ -38403,39 +38418,39 @@
     ]
   },
   "udemy.com": {
-    "lastAt": 1758860943114,
+    "lastAt": 1759228042058,
     "urls": []
   },
   "geocities.com": {
-    "lastAt": 1758860946681,
+    "lastAt": 1759228045604,
     "urls": []
   },
   "bk6bba-resources.com": {
-    "lastAt": 1758860950370,
+    "lastAt": 1759228049015,
     "urls": []
   },
   "about.com": {
-    "lastAt": 1758860950987,
+    "lastAt": 1759228049566,
     "urls": [
       "https://about.com/"
     ]
   },
   "ftc.gov": {
-    "lastAt": 1758860954313,
+    "lastAt": 1759228051891,
     "urls": [
       "https://ftc.gov/"
     ]
   },
   "bitrixphone.com": {
-    "lastAt": 1758860957646,
+    "lastAt": 1759228055021,
     "urls": []
   },
   "webhostbox.net": {
-    "lastAt": 1758860960515,
+    "lastAt": 1759228057920,
     "urls": []
   },
   "barnesandnoble.com": {
-    "lastAt": 1758860970970,
+    "lastAt": 1759228068080,
     "urls": [
       "https://barnesandnoble.com/",
       "https://www.barnesandnoble.com/w/100-organic-cotton-canvas-tote-with-bag-of-books-print-green-re-wrap/1146339196",
@@ -38476,11 +38491,21 @@
       "https://www.barnesandnoble.com/w/the-knave-and-the-moon-rachel-gillig/1148304786",
       "https://www.barnesandnoble.com/w/the-gingerbread-bakery-laurie-gilmore/1146412383",
       "https://www.barnesandnoble.com/w/game-on-navessa-allen/1148120629",
-      "https://www.barnesandnoble.com/w/alchemised-senlinyu/1146838848"
+      "https://www.barnesandnoble.com/w/alchemised-senlinyu/1146838848",
+      "https://www.barnesandnoble.com/w/phoebe-bermans-gonna-lose-it-brooke-averick/1148118220",
+      "https://www.barnesandnoble.com/w/ti-84-plus-calculator-ken-yablonski/1147379103",
+      "https://www.barnesandnoble.com/w/the-court-of-the-dead-rick-riordan/1147065251",
+      "https://www.barnesandnoble.com/w/tourist-season-brynne-weaver/1147291861",
+      "https://www.barnesandnoble.com/w/107-days-kamala-harris/1147932213",
+      "https://www.barnesandnoble.com/w/poems-prayers-matthew-mcconaughey/1147717698",
+      "https://www.barnesandnoble.com/w/impossible-creatures-katherine-rundell/1143746993",
+      "https://www.barnesandnoble.com/w/a-sheepdog-named-oscar-dara-waldron/1147201024",
+      "https://www.barnesandnoble.com/w/rites-of-the-starling-devney-perry/1148334932",
+      "https://www.barnesandnoble.com/w/confronting-evil-bill-oreilly/1146923767"
     ]
   },
   "mirror.co.uk": {
-    "lastAt": 1758860981429,
+    "lastAt": 1759228080858,
     "urls": [
       "https://www.mirror.co.uk/news/uk-news/london-tommy-robinson-protest-live-35897418",
       "https://www.mirror.co.uk/tv/tv-news/itv-you-bet-tours-stephen-35898894",
@@ -38521,11 +38546,21 @@
       "https://www.mirror.co.uk/money/shopping-deals/boots-no7-christmas-gift-set-35963766",
       "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-saliba-mbappe-35964320",
       "https://www.mirror.co.uk/sport/golf/ryder-cup-bethpage-black-sign-35955719",
-      "https://www.mirror.co.uk/news/us-news/tragedy-boy-7-dies-after-35968171"
+      "https://www.mirror.co.uk/news/us-news/tragedy-boy-7-dies-after-35968171",
+      "https://www.mirror.co.uk/gaming/release-date-next-fortnite-update-35988689",
+      "https://www.mirror.co.uk/tv/tv-news/death-paradise-announces-return-beloved-35988671",
+      "https://www.mirror.co.uk/news/uk-news/i-would-go-jail-remove-35987940",
+      "https://www.mirror.co.uk/news/politics/keir-starmer-speech-today-live-35976635",
+      "https://www.mirror.co.uk/news/weird-news/my-neighbours-customers-keep-blocking-35987675",
+      "https://www.mirror.co.uk/sport/football/news/jurgen-klopp-club-world-cup-35988692",
+      "https://www.mirror.co.uk/money/dwp-told-increase-benefit-800-35988173",
+      "https://www.mirror.co.uk/news/world-news/louth-tallanstown-live-incident-updates-35983199",
+      "https://www.mirror.co.uk/news/uk-news/beckenham-fire-live-odeon-cinema-35987305",
+      "https://www.mirror.co.uk/tv/tv-news/mafs-uk-star-rebecca-reveals-35988322"
     ]
   },
   "utexas.edu": {
-    "lastAt": 1758860983190,
+    "lastAt": 1759228083463,
     "urls": [
       "https://www.utexas.edu/",
       "https://utexas.edu/",
@@ -38566,19 +38601,29 @@
       "https://www.utexas.edu/campus-life/report-misconduct",
       "https://www.utexas.edu/mhart",
       "https://www.utexas.edu/podcasts",
-      "https://www.utexas.edu/honor-the-horns"
+      "https://www.utexas.edu/honor-the-horns",
+      "https://www.utexas.edu/energy",
+      "https://www.utexas.edu/mobile",
+      "https://www.utexas.edu/energy/business-economy",
+      "https://www.utexas.edu/entrepreneurship",
+      "https://www.utexas.edu/energy/science-engineering",
+      "https://www.utexas.edu/energy/law-policy",
+      "https://www.utexas.edu/energy/education",
+      "https://www.utexas.edu/energy/get-involved",
+      "https://www.utexas.edu/studybreak",
+      "https://www.utexas.edu/about-cloned"
     ]
   },
   "xinhuanet.com": {
-    "lastAt": 1758860987349,
+    "lastAt": 1759228088151,
     "urls": []
   },
   "dnse0.com": {
-    "lastAt": 1758860990590,
+    "lastAt": 1759228091383,
     "urls": []
   },
   "getbootstrap.com": {
-    "lastAt": 1758860993700,
+    "lastAt": 1759228093991,
     "urls": [
       "https://getbootstrap.com/",
       "https://getbootstrap.com/components/",
@@ -38619,23 +38664,33 @@
       "https://getbootstrap.com/docs/5.3/content/figures/",
       "https://getbootstrap.com/docs/5.3/content/images/",
       "https://getbootstrap.com/docs/5.3/content/reboot/",
-      "https://getbootstrap.com/docs/5.3/content/tables/"
+      "https://getbootstrap.com/docs/5.3/content/tables/",
+      "https://getbootstrap.com/docs/5.3/content/typography/",
+      "https://getbootstrap.com/docs/5.3/customize/",
+      "https://getbootstrap.com/docs/5.3/customize/components/",
+      "https://getbootstrap.com/docs/5.3/customize/color/",
+      "https://getbootstrap.com/docs/5.3/customize/color-modes/",
+      "https://getbootstrap.com/docs/5.3/customize/css-variables/",
+      "https://getbootstrap.com/docs/5.3/customize/options/",
+      "https://getbootstrap.com/docs/5.3/customize/optimize/",
+      "https://getbootstrap.com/docs/5.3/customize/overview/",
+      "https://getbootstrap.com/docs/5.3/customize/sass/"
     ]
   },
   "site.com": {
-    "lastAt": 1758860994473,
+    "lastAt": 1759228095022,
     "urls": [
       "https://site.com/"
     ]
   },
   "ultradns.com": {
-    "lastAt": 1758864093683,
+    "lastAt": 1759228095387,
     "urls": [
       "https://ultradns.com/"
     ]
   },
   "drweb.com": {
-    "lastAt": 1758864104423,
+    "lastAt": 1759228104502,
     "urls": [
       "https://www.drweb.com/",
       "https://drweb.com/",
@@ -38676,15 +38731,25 @@
       "https://www.drweb.com/saas/find_provider/?lng=en",
       "https://www.drweb.com/pravda/rubrics/?lng=en",
       "https://www.drweb.com/pravda/statistics/activity/?lng=en",
-      "https://www.drweb.com/pravda/rating/?lng=en"
+      "https://www.drweb.com/pravda/rating/?lng=en",
+      "https://www.drweb.com/pravda",
+      "https://www.drweb.com/pravda/services/?lng=en",
+      "https://www.drweb.com/pravda/informer/?lng=en",
+      "https://www.drweb.com/pravda/issue/?number=163&lng=en",
+      "https://www.drweb.com/user/registration/?from=pravda&lng=en",
+      "https://www.drweb.com/pravda/comments/?lng=en",
+      "https://www.drweb.com/pravda/issue/?number=138&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=166&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=135&lng=en",
+      "https://www.drweb.com/pravda/issue/?number=164&lng=en"
     ]
   },
   "lfstrm.tv": {
-    "lastAt": 1758864110424,
+    "lastAt": 1759228110780,
     "urls": []
   },
   "parklogic.com": {
-    "lastAt": 1758864111739,
+    "lastAt": 1759228112116,
     "urls": [
       "https://parklogic.com/"
     ]

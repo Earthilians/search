@@ -276547,5 +276547,460 @@
     "title": "Ad Gallery - Cymbiotika\n      \n    \n    \n      \n    \n     | AdRoll",
     "description": "",
     "text": "Run full-funnel, multi-channel advertising campaigns Learn more\nGenerate and close B2B pipeline with"
+  },
+  {
+    "id": "d5386460dc748b7643dee1f9e0753bd418e6c3e5",
+    "url": "https://www.ovhcloud.com/asia/support-levels/business/",
+    "title": "Business Support. A team dedicated to enterprise-level accounts | OVHcloud Asia",
+    "description": "Get a team of IT support engineers who are available 24/7 and keen to provide you with support and a",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "1e4f753beb4b678d71ef0b31f6cc60e1cc31f089",
+    "url": "https://www.ovhcloud.com/asia/support-levels/plans/",
+    "title": "Comparison of support levels | OVHcloud Asia",
+    "description": "View our comparison table of various OVHcloud support levels: Standard, Premium, Business, and Entre",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "83ecfd8ff691891a2a6780608ebb5c070e6daf59",
+    "url": "https://www.ovhcloud.com/asia/support-levels/enterprise/",
+    "title": "Find out more about our expert Enterprise support team, here to help you succeed | OVHcloud Asia",
+    "description": "OVH offers support through an international team of Technical and Sales Account Managers, Solutions ",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "44b117d6776c2185f670d0c72b63dbd4b91d7885",
+    "url": "https://www.ovhcloud.com/asia/support-levels/standard/",
+    "title": "Standard Support. Autonomy - the key to your success | OVHcloud Asia",
+    "description": "Standard support is included for free with every OVHcloud solution. It gives you access to a compreh",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "a7d426f20cf07284b3e9dcc82e12ce5d4ae1f50d",
+    "url": "https://www.ovhcloud.com/asia/support-levels/premium/",
+    "title": "Premium Support. Reactivity and support for your business | OVHcloud Asia",
+    "description": "This Premium Support solution covers all OVHcloud products. An advisor will prioritise your requests",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "12136992efa30f5f981e57ff9ff6144ee4017030",
+    "url": "https://www.ovhcloud.com/asia/support-levels/",
+    "title": "Discover the different levels of product/service support | OVHcloud Asia",
+    "description": "Each level of service is adapted to your different needs, so that you get the best experience using ",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "1b5e33570c8cca5d8798d697b9088d37f7789517",
+    "url": "https://www.ovhcloud.com/asia/public-cloud/uc-applications-big-data-ai/",
+    "title": "Object storage for big data and AI applications | OVHcloud Asia",
+    "description": "Do you have big data or AI requirements? Object storage is ideal for maintaining a massive volume of",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "00dce70dee062cfa681336f01682f790f9b7ffde",
+    "url": "https://www.ovhcloud.com/asia/public-cloud/ai-machine-learning/",
+    "title": "Solutions IA & Machine Learning | OVHcloud Asia",
+    "description": "Take advantage of our unique offerings to build your AI and machine learning models. Elevate your bu",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "6fd4a24221ae09f5ed0fac0547ccfcbac6256399",
+    "url": "https://www.ovhcloud.com/asia/public-cloud/kafka-mirrormaker/",
+    "title": "Kafka MirrorMaker: Database Mirroring | OVHcloud Asia",
+    "description": "Strengthen your data architecture with Kafka MirrorMaker, a key solution for replicating data betwee",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "3e9c44fee124db7105b63e7283ca0eabaaf111bf",
+    "url": "https://www.ovhcloud.com/asia/public-cloud/data-catalog/",
+    "title": "Data Catalogue | OVHcloud Asia",
+    "description": "Discover OVHcloud Data Catalogue - centralise, connect and manage all your data sources with more th",
+    "text": "Welcome to OVHcloud.\nLog in to order, manage your products and services, and track your orders.\nProd"
+  },
+  {
+    "id": "6795cd21ea79fae1757f193c06730e5a5598345f",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-netflix",
+    "title": "Netflix help | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Information on how to activate, use features, get billing information and fix problems with Netflix ",
+    "text": "You're up to date\n    No new alerts\nActivating & using Netflix\nFix a problem with Netflix\nSharing yo"
+  },
+  {
+    "id": "9e6810c1e2a24d010d4233b71c7bd1a335554225",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-roku",
+    "title": "Using TV apps - Using Roku | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "Using TV apps - Using Roku",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "f5c6664fe809f3db6fdae46506548b548c1b1ef8",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-roxi",
+    "title": "ROXi | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "How to use the ROXi app on Sky Q.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "29dd72483f7dd6b479c805565b44f5168bc8b482",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-weather",
+    "title": "Sky Weather | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "How to use the Sky Weather app on Sky Q, Sky Glass or Sky Stream.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "e8c64223349e9b0f89b0b216b6153d802f885f14",
+    "url": "https://www.sky.com/help/articles/apps-on-sky-q-and-glass-youtube",
+    "title": "YouTube | Sky Help | Sky.com | Sky Help | Sky.com",
+    "description": "How to use the YouTube app on Sky Q and Sky Glass.",
+    "text": "You're up to date\n    No new alerts"
+  },
+  {
+    "id": "cd094351c738b5f1578bd645ff5033a93253d10b",
+    "url": "https://www.barnesandnoble.com/w/phoebe-bermans-gonna-lose-it-brooke-averick/1148118220",
+    "title": "Phoebe Berman's Gonna Lose It: A Novel (Signed Book) by Brooke Averick, Hardcover | Barnes & Noble®",
+    "description": "Meet one of the most unforgettable new protagonists in fiction: Phoebe Berman. She has one month to ",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "5394779c162178ab4aa14cfdcadc5b6237708855",
+    "url": "https://www.barnesandnoble.com/w/ti-84-plus-calculator-ken-yablonski/1147379103",
+    "title": "Ti 84 Plus Calculator: a QuickStudy Laminated Reference Guide by Ken Yablonski, Other Format | Barne",
+    "description": "You’ve just purchased a TI-84 Plus calculator to assist in performing different types of mathematica",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "9f00178708c7ba23d16dfea406872a45a70ad011",
+    "url": "https://www.barnesandnoble.com/w/the-court-of-the-dead-rick-riordan/1147065251",
+    "title": "The Court of the Dead: A Nico di Angelo Adventure (Signed B&N Exclusive Edition) by Rick Riordan,  M",
+    "description": "This Signed Barnes & Noble Exclusive Edition includes stenciled and stained edges, special endpapers",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "05e0ef3e4f3833355e0f87b1f8c3595e8e93fbee",
+    "url": "https://www.barnesandnoble.com/w/tourist-season-brynne-weaver/1147291861",
+    "title": "Tourist Season (Signed B&N Exclusive Edition): The Seasons of Carnage Trilogy by Brynne Weaver, Hard",
+    "description": "This Signed Barnes & Noble Exclusive Edition features specially designed endpapers, sprayed edges, a",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "5d036915ad0a3071a0f0ca5ca2e9aa11b34b66bd",
+    "url": "https://www.barnesandnoble.com/w/107-days-kamala-harris/1147932213",
+    "title": "107 Days by Kamala Harris, Hardcover | Barnes & Noble®",
+    "description": "For the first time, and with surprising and revealing insights, former Vice President Kamala Harris ",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "a0ce5b4ca4e01fa47056bcbf9de807b8a930114f",
+    "url": "https://www.barnesandnoble.com/w/poems-prayers-matthew-mcconaughey/1147717698",
+    "title": "Poems & Prayers by Matthew McConaughey, Hardcover | Barnes & Noble®",
+    "description": "#1 NEW YORK TIMES BESTSELLER • From the Academy Award–winning actor and author of Greenlights comes ",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "876eb8f4994bdbefd4bcd605ffbfd274e831986b",
+    "url": "https://www.barnesandnoble.com/w/impossible-creatures-katherine-rundell/1143746993",
+    "title": "Impossible Creatures (B&N Exclusive Edition) by Katherine Rundell,  Ashley Mackenzie, Paperback | Ba",
+    "description": "This Barnes & Noble Exclusive 'Dragon Edition' includes a unique cover insert and printed edge desig",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "4cc10c1f9e37bb2ef673f69bd421260924fb1e10",
+    "url": "https://www.barnesandnoble.com/w/a-sheepdog-named-oscar-dara-waldron/1147201024",
+    "title": "A Sheepdog Named Oscar: Love and Companionship in Rural Ireland by Dara Waldron, Paperback | Barnes ",
+    "description": "NEW YORK TIMES BESTSELLER  Barnes & Noble September 2025 Nonfiction Book of the Month!  A moving mem",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "67b933dc2ebf43b1b97ac95b4f6b2f4de2ff8c1c",
+    "url": "https://www.barnesandnoble.com/w/rites-of-the-starling-devney-perry/1148334932",
+    "title": "Rites of the Starling by Devney Perry, Hardcover | Barnes & Noble®",
+    "description": "Don't miss out on the stunning DELUXE LIMITED EDITION while supplies last. This breathtaking collect",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "4e831189cb24eb6aafb95a39bd999ce39d278842",
+    "url": "https://www.barnesandnoble.com/w/confronting-evil-bill-oreilly/1146923767",
+    "title": "Confronting Evil: Assessing the Worst of the Worst by Bill O'Reilly,  Josh Hammer, Hardcover | Barne",
+    "description": "Instant #1 New York Times bestseller!By the #1 bestselling history author in the world, Bill O'Reill",
+    "text": "Uh-oh, it looks like your Internet Explorer is out of date.\n\nFor a better shopping experience, pleas"
+  },
+  {
+    "id": "d8d1c7d685372c283f93e39560dde93510558e75",
+    "url": "https://www.mirror.co.uk/gaming/release-date-next-fortnite-update-35988689",
+    "title": "Release date for the next Fortnite update and what you can expect from the incoming 37.40 downtime -",
+    "description": "The next Fortnite update is on the way, and it's set to bring the first bout of Fortnitemares conten",
+    "text": "The next Fortnite update is just around the corner, and it's set to kick off the Fortnitemares event"
+  },
+  {
+    "id": "4e8174034b0f92b3438a4c7e670f171a1ffb5227",
+    "url": "https://www.mirror.co.uk/tv/tv-news/death-paradise-announces-return-beloved-35988671",
+    "title": "Death in Paradise announces return of beloved detective in major spin-off update - The Mirror",
+    "description": "The BBC has released first-look pictures from the highly anticipated second series of Return to Para",
+    "text": "Death in Paradise fans are in for a treat as Detective Jack Mooney, portrayed by Ardal O'Hanlon, is "
+  },
+  {
+    "id": "60b8495b3c4fa63565722b0bb15927d505d0ab89",
+    "url": "https://www.mirror.co.uk/news/uk-news/i-would-go-jail-remove-35987940",
+    "title": "'I would rather go to jail than remove plant pots outside my home' - The Mirror",
+    "description": "A pensioner has caused one local council a huge headache after refusing to remove three plant pots d",
+    "text": "A pensioner locked in a bizarre battle with his local council over a set of plant pots outside his h"
+  },
+  {
+    "id": "6f8032b45f773293091254be5a6eb701cfaf79a9",
+    "url": "https://www.mirror.co.uk/news/politics/keir-starmer-speech-today-live-35976635",
+    "title": "Keir Starmer speech today LIVE: Watch PM reveal major changes at Labour conference - Mirror Online",
+    "description": "Prime Minister Keir Starmer will declare a 'new world is coming' as he unveils major NHS plans in hi",
+    "text": "Patients will be able to use a new 'online hospital' from 2027, with millions of extra appointments "
+  },
+  {
+    "id": "f42f18016f50cfbdea31e8194fff775bca80eefb",
+    "url": "https://www.mirror.co.uk/news/weird-news/my-neighbours-customers-keep-blocking-35987675",
+    "title": "'My neighbour's customers keep blocking my drive so I'm plotting revenge' - The Mirror",
+    "description": "An at home business started up by a neighbour has a resident furious as customers are using their la",
+    "text": "A neighbour is driving a resident mad as they use their driveway for customer parking. The at-home b"
+  },
+  {
+    "id": "6529bd7c20a90ccb60426e032200d0f76368cd61",
+    "url": "https://www.mirror.co.uk/sport/football/news/jurgen-klopp-club-world-cup-35988692",
+    "title": "Jurgen Klopp reiterates Club World Cup view in face of criticism from Sky Sports reporter - The Mirr",
+    "description": "The former Liverpool manager described FIFA's summer tournament as “worst idea ever implemented in f",
+    "text": "Jurgen Klopp has doubled down on his criticism of the Club World Cup by reiterating his belief that "
+  },
+  {
+    "id": "3f8da5b833dcb0f61f0f73a12b02329d23dd4f48",
+    "url": "https://www.mirror.co.uk/money/dwp-told-increase-benefit-800-35988173",
+    "title": "DWP told to increase this benefit to £800 a week - The Mirror",
+    "description": "DWP has been told to upgrade one benefit to £800 a week",
+    "text": "The Department for Work and Pensions is being urged to increase one benefit to £800 - per week. An o"
+  },
+  {
+    "id": "8614d8649f5a4fb199404d8a0a0d1878ed426081",
+    "url": "https://www.mirror.co.uk/news/world-news/louth-tallanstown-live-incident-updates-35983199",
+    "title": "Tallanstown incident UPDATES: Suspect's horror statement after family 'murdered' - World News - Mirr",
+    "description": "Couple Mark and Louise O'Connor, in their 50s, and their son Evan, who was in his 20s, were killed i",
+    "text": "A suspected triple murder has sent shockwaves through a small rural town in Ireland - with three mem"
+  },
+  {
+    "id": "7f9897ecbf02feff8489cf396f9087013b92c2f4",
+    "url": "https://www.mirror.co.uk/news/uk-news/beckenham-fire-live-odeon-cinema-35987305",
+    "title": "Beckenham fire LIVE: Huge blaze breaks out near Odeon cinema in town centre - Mirror Online",
+    "description": "Videos online show a huge fire and thick smoke at the Odeon in Beckenham, South East London with eme",
+    "text": "A massive fire has been raging by a popular cinema with emergency services tackling the flames and p"
+  },
+  {
+    "id": "b9611ff8e69b70bced34435e629369c976200f72",
+    "url": "https://www.mirror.co.uk/tv/tv-news/mafs-uk-star-rebecca-reveals-35988322",
+    "title": "MAFS UK star Rebecca reveals what procedures she's had done after fans question age - The Mirror",
+    "description": "Married At First Sight UK star Rebecca, who wanted an 'alpha male' husband, hit back at trolls who q",
+    "text": "Married At First Sight UK star Rebecca addressed the rumours she's been lying about her age after ma"
+  },
+  {
+    "id": "ae01ff154b634882299cb0646c20d667cce75add",
+    "url": "https://www.utexas.edu/energy",
+    "title": "Texas Energy | University of Texas at Austin",
+    "description": "The University of Texas at Austin leads the way in addressing one of the world’s most pressing chall",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "511bc95fd204fd8f025cfc6871d4b7c6dc8c313a",
+    "url": "https://www.utexas.edu/mobile",
+    "title": "UT Mobile Apps | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "e871000926a4caf6786170e9cad67a4cd2aec204",
+    "url": "https://www.utexas.edu/energy/business-economy",
+    "title": "Texas Energy Business & Economy | University of Texas at Austin",
+    "description": "The University of Texas at Austin is a dynamic hub for collaboration, connecting top experts with en",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "4a49a03dc76364551ba3315642864b6bac1b626b",
+    "url": "https://www.utexas.edu/entrepreneurship",
+    "title": "Texas Entrepreneurship | University of Texas at Austin",
+    "description": "",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "09399167226e2eeb9a13ba44e37d3fdb294d58df",
+    "url": "https://www.utexas.edu/energy/science-engineering",
+    "title": "Texas Energy Science & Engineering | University of Texas at Austin",
+    "description": "With unmatched research spanning energy exploration, sustainability, production, storage, transmissi",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "f7a1192c6f680d6a9a594a495b3f9297e4e2d5eb",
+    "url": "https://www.utexas.edu/energy/law-policy",
+    "title": "Texas Energy Law & Policy | University of Texas at Austin",
+    "description": "The world of international energy is highly complex, with overlapping regulatory frameworks and juri",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "afaa707462559a50849acd6f2342452050ab3efd",
+    "url": "https://www.utexas.edu/energy/education",
+    "title": "Texas Energy Education | University of Texas at Austin",
+    "description": "Located in the heart of the world’s energy industry, The University of Texas at Austin offers an unp",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "7652573ae41a513457150d605ef73b0a6165803d",
+    "url": "https://www.utexas.edu/energy/get-involved",
+    "title": "Texas Energy Get Involved | University of Texas at Austin",
+    "description": "UT Austin is committed to interdisciplinary, cross-sector collaborations that accelerate energy inno",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "d3666a369504162d97dca2d64c638d9f090d63c1",
+    "url": "https://www.utexas.edu/studybreak",
+    "title": "The Great Longhorn Study Break - Texas Today:  UT Events & Announcements Calendar",
+    "description": "Texas Today:  UT Events & Announcements Calendar events updated every day. Powered by the Localist C",
+    "text": "As each long semester winds to a close, be sure to take advantage of the many opportunities to relax"
+  },
+  {
+    "id": "8c2095906cefa4f8e5fd0f699a9141a81d4a6763",
+    "url": "https://www.utexas.edu/about-cloned",
+    "title": "About - Cloned | University of Texas at Austin",
+    "description": "About The University of Texas at Austin",
+    "text": "What Starts Here Changes the World. It's more than a motto. It’s what we prove each and every day, a"
+  },
+  {
+    "id": "779d006e2829a01f2fa43ce94e2dc8691700b8b6",
+    "url": "https://getbootstrap.com/docs/5.3/content/typography/",
+    "title": "Typography · Bootstrap v5.3",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text,",
+    "text": "Documentation and examples for Bootstrap typography, including global settings, headings, body text,"
+  },
+  {
+    "id": "f545d1d5e87402fa001a3e137b7ab913cfdd14f9",
+    "url": "https://getbootstrap.com/docs/5.3/customize/",
+    "title": "Bootstrap",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8affb398e51fe275e1de919dde7ca3db32626826",
+    "url": "https://getbootstrap.com/docs/5.3/customize/components/",
+    "title": "Components · Bootstrap v5.3",
+    "description": "Learn how and why we build nearly all our components responsively and with base and modifier classes",
+    "text": "Learn how and why we build nearly all our components responsively and with base and modifier classes"
+  },
+  {
+    "id": "73b1e1c9807ddce0c48728f3fcc17f98535f1586",
+    "url": "https://getbootstrap.com/docs/5.3/customize/color/",
+    "title": "Color · Bootstrap v5.3",
+    "description": "Bootstrap is supported by an extensive color system that themes our styles and components. This enab",
+    "text": "Bootstrap is supported by an extensive color system that themes our styles and components. This enab"
+  },
+  {
+    "id": "9069f2328e2037b7b8ea4c4929de6cf1fd8932a0",
+    "url": "https://getbootstrap.com/docs/5.3/customize/color-modes/",
+    "title": "Color modes · Bootstrap v5.3",
+    "description": "Bootstrap now supports color modes, or themes, as of v5.3.0. Explore our default light color mode an",
+    "text": "Bootstrap now supports color modes, or themes, as of v5.3.0. Explore our default light color mode an"
+  },
+  {
+    "id": "59dc18ac76ab11367341810f58757ed5c1322871",
+    "url": "https://getbootstrap.com/docs/5.3/customize/css-variables/",
+    "title": "CSS variables · Bootstrap v5.3",
+    "description": "Use Bootstrap’s CSS custom properties for fast and forward-looking design and development.",
+    "text": "Use Bootstrap’s CSS custom properties for fast and forward-looking design and development.\nBootstrap"
+  },
+  {
+    "id": "aa3f70d85909be1601c6d032fec4baca7c6d10e4",
+    "url": "https://getbootstrap.com/docs/5.3/customize/options/",
+    "title": "Options · Bootstrap v5.3",
+    "description": "Quickly customize Bootstrap with built-in variables to easily toggle global CSS preferences for cont",
+    "text": "Quickly customize Bootstrap with built-in variables to easily toggle global CSS preferences for cont"
+  },
+  {
+    "id": "ac954749be0822b55c0cb74a6a81699ac38037e2",
+    "url": "https://getbootstrap.com/docs/5.3/customize/optimize/",
+    "title": "Optimize · Bootstrap v5.3",
+    "description": "Keep your projects lean, responsive, and maintainable so you can deliver the best experience and foc",
+    "text": "Keep your projects lean, responsive, and maintainable so you can deliver the best experience and foc"
+  },
+  {
+    "id": "06db1460d68d3b89ee1dc780ce56812c55758f98",
+    "url": "https://getbootstrap.com/docs/5.3/customize/overview/",
+    "title": "Customize · Bootstrap v5.3",
+    "description": "Learn how to theme, customize, and extend Bootstrap with Sass, a boatload of global options, an expa",
+    "text": "Learn how to theme, customize, and extend Bootstrap with Sass, a boatload of global options, an expa"
+  },
+  {
+    "id": "ab096adeb5e7a48c48afd3d6d1d75e223c737aa8",
+    "url": "https://getbootstrap.com/docs/5.3/customize/sass/",
+    "title": "Sass · Bootstrap v5.3",
+    "description": "Utilize our source Sass files to take advantage of variables, maps, mixins, and functions to help yo",
+    "text": "Utilize our source Sass files to take advantage of variables, maps, mixins, and functions to help yo"
+  },
+  {
+    "id": "9d86604db1b574c1892d74439edf7c8f812ac228",
+    "url": "https://www.drweb.com/pravda",
+    "title": "The Anti-virus Times — Infinite horizons",
+    "description": "Infinite horizons: Read issues of the Anti-virus Times—you’ll be up to speed on today's Internet thr",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "6f64c7937818ceecaaddaa133af9ec401d75aaad",
+    "url": "https://www.drweb.com/pravda/services/?lng=en",
+    "title": "The Anti-virus Times — Subscribe to our mailing list",
+    "description": "Configure the Anti-virus Times project according to your interests—get notifications about new issue",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "d4a65e5dc83e6039aedf810165e47f53ad648205",
+    "url": "https://www.drweb.com/pravda/informer/?lng=en",
+    "title": "The Anti-virus Times — Infinite horizons",
+    "description": "Infinite horizons: Read issues of the Anti-virus Times—you’ll be up to speed on today's Internet thr",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "022dee8b1e4c660315f9bc366d0b8d29135a8e8a",
+    "url": "https://www.drweb.com/pravda/issue/?number=163&lng=en",
+    "title": "Information to go",
+    "description": "The Anti-virus Times issue Cheap passwords for sale spawned a discussion in the comments section abo",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "982c1769513df521e480e0af9c822fbedf9263d1",
+    "url": "https://www.drweb.com/user/registration/?from=pravda&lng=en",
+    "title": "Register Dr.Web site user account",
+    "description": "Doctor Web is a Russian IT-security solutions vendor developing Dr.Web anti-virus for businesses and",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\n+\n          Add to library\n"
+  },
+  {
+    "id": "e1b369bcf2f734a088b8efe619fad5bf691531fb",
+    "url": "https://www.drweb.com/pravda/comments/?lng=en",
+    "title": "The Anti-virus Times — Infinite horizons",
+    "description": "Infinite horizons: Read issues of the Anti-virus Times—you’ll be up to speed on today's Internet thr",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "bf9b322ad57945a19cde2b8a6db9ebf2602c494b",
+    "url": "https://www.drweb.com/pravda/issue/?number=138&lng=en",
+    "title": "Left, right, march",
+    "description": "To achieve their goals, fraudsters love to replace symbols in well-known addresses so that the alter",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "3ae8c8cd183df2664a8cb91dd09f2efc949820bf",
+    "url": "https://www.drweb.com/pravda/issue/?number=166&lng=en",
+    "title": "Keyboard tricks",
+    "description": "The developers behind the SwiftKey keyboard disabled the cloud sync feature after users reported tha",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "6f54bad78f9d82f7ed8dcdab6efdf4e5af574da8",
+    "url": "https://www.drweb.com/pravda/issue/?number=135&lng=en",
+    "title": "Tricks with files",
+    "description": "If you've ever seen the results of comparative anti-virus software tests, you’ve probably noticed th",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
+  },
+  {
+    "id": "48a374b04b83464b5f55f07a64acd765bd3dc7c9",
+    "url": "https://www.drweb.com/pravda/issue/?number=164&lng=en",
+    "title": "But we didn’t know!",
+    "description": "Media outlets publish a sufficient amount of nonsense about anti-viruses, but there are limits to ev",
+    "text": "Your browser is obsolete!\nThe page may not load correctly.\nFOR CUSTOMERS\nOther Resources\nSearch\nTo s"
   }
 ]
