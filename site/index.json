@@ -278640,5 +278640,747 @@
     "title": "Enterprise Solutions | Sectigo® Official",
     "description": "Leading provider of SSL/TLS certificates, automated certificate management and website security solu",
     "text": "Purpose-built digital certificate management for small businesses\nCA agnostic certificate lifecycle "
+  },
+  {
+    "id": "47d6ad6f16c0270bdc8d53dd2d49631d0438ef80",
+    "url": "https://www.hcaptcha.com/post/humanity-verification-the-first-3-000-years",
+    "title": "Humanity Verification: The First 3,000 Years | Blog - hCaptcha",
+    "description": "Humans have been verifying other humans for over 3,000 years. From ancient seals to modern-day CAPTC",
+    "text": "April 18, 2022\nLast updated: 07/14/2023\n‍\nWe live in an era of wonders, most of which we take for gr"
+  },
+  {
+    "id": "37954a3098417cafbcc4b19a28899f7cb46482d9",
+    "url": "https://www.hcaptcha.com/post/hcaptcha-is-unaffected-by-okta-compromise",
+    "title": "hCaptcha is not affected by the Okta compromise | Blog - hCaptcha",
+    "description": "hCaptcha's review of the January 2022 Okta compromise. There was no impact to hCaptcha services from",
+    "text": "March 23, 2022\nOn March 22, 2022 we were notified of a compromise of Okta that occurred in January 2"
+  },
+  {
+    "id": "bb81a37a255ebd2459e0df48a6831e1001a0c529",
+    "url": "https://www.hcaptcha.com/post/hcaptcha-surpasses-one-million-publishers",
+    "title": "hCaptcha Now One Million Publishers | Blog - hCaptcha",
+    "description": "hCaptcha has reached one million publisher integrations! Discover how hCaptcha is protecting the int",
+    "text": "April 14, 2022\nToday, we are happy to announce that hCaptcha has surpassed one million publishers. T"
+  },
+  {
+    "id": "aecf35fe59bb0988217c508c6341fc33241595be",
+    "url": "https://www.hcaptcha.com/post/empowering-security-teams-through-advanced-analytics",
+    "title": "Empowering Security Teams through Advanced Analytics | Blog - hCaptcha",
+    "description": "Learn how advanced analytics can empower security teams to stay ahead of threats and protect their o",
+    "text": "April 18, 2022\nEnterprises large and small require detailed analytics to make informed decisions rel"
+  },
+  {
+    "id": "bfd5a5e2174fb6d14ab3cc82b0c33d57dd123ec1",
+    "url": "https://www.hcaptcha.com/post/how-credential-stuffing-can-derail-your-business-and-what-to-do-about-it-2",
+    "title": "How Credential Stuffing Can Derail Your Business and What to Do About It | Blog - hCaptcha",
+    "description": "Credential stuffing can be a serious threat to your business. Discover what it is, how it works, and",
+    "text": "February 22, 2022\nIn a credential stuffing attack, fraudsters use automated tools (i.e. bots) to bre"
+  },
+  {
+    "id": "4adae03bed5184d03f238072e89874048a512f73",
+    "url": "https://www.hcaptcha.com/post/hcaptcha-is-not-affected-by-log4shell-heres-how-we-know-2",
+    "title": "hCaptcha is not affected by log4shell. Here's how we know. | Blog - hCaptcha",
+    "description": "Find out how hCaptcha is not affected by the log4shell vulnerability. Learn about the steps we've ta",
+    "text": "January 13, 2022\nRecently, a major flaw in log4j version 2 was published. This is a popular logging "
+  },
+  {
+    "id": "64834e650daee1a444787bcfa1e04c65e170d769",
+    "url": "https://www.hcaptcha.com/post/hcaptcha-now-the-largest-independent-captcha-service",
+    "title": "hCaptcha Is Now The Largest Independent CAPTCHA Service, Runs on 15% Of The Internet | Blog - hCaptc",
+    "description": "Discover how hCaptcha has become the largest independent CAPTCHA service and now runs on 15% of the ",
+    "text": "January 8, 2022\nWe are proud to announce that hCaptcha has grown into the largest independent cybers"
+  },
+  {
+    "id": "d59610f2db738f89442367924cd159a2c996e773",
+    "url": "https://www.hcaptcha.com/post/do-captchas-really-discriminate-against-non-americans-2",
+    "title": "Do CAPTCHAS discriminate against non-Americans? | Blog - hCaptcha",
+    "description": "Explore the question of whether CAPTCHAs discriminate against non-Americans. Learn about the potenti",
+    "text": "January 4, 2022\nLast updated: January 29, 2025\n‍\nTerence Eden makes an interesting point on his blog"
+  },
+  {
+    "id": "05aaddd066bb1fc267ac43ea30e8de44a83026cd",
+    "url": "https://www.hcaptcha.com/post/why-captchas-will-be-with-us-always",
+    "title": "Why CAPTCHAs Will Be With Us Always | Blog - hCaptcha",
+    "description": "Learn why CAPTCHAs are still essential for website security and protecting against spam and abuse in",
+    "text": "May 13, 2021\nSeptember 2022: We like to repost this perennial favorite at regular intervals. Its ori"
+  },
+  {
+    "id": "580ec6ea0b09f7ccd73d45facabacd9fcc8cf4c2",
+    "url": "https://smadex.com/retargeting-users-based-on-real-time-campaign-behaviour/",
+    "title": "Retargeting users based on real-time campaign behaviour - Smadex",
+    "description": "We’ve recently released a new retargeting feature in our self-service mobile DSP under the Audiences",
+    "text": "We’ve recently released a new retargeting feature in our self-service mobile DSP under the Audiences"
+  },
+  {
+    "id": "4237f9f093e1126e5d276be77dc4d07eae929f20",
+    "url": "https://smadex.com/attribution-models-for-mobile-advertising/",
+    "title": "Attribution models for mobile advertising - Smadex",
+    "description": "A well-built media plan involves the very difficult challenge of trying to balance the different adv",
+    "text": "A well-built media plan involves the very difficult challenge of trying to balance the different adv"
+  },
+  {
+    "id": "cab402dd9b29a39e2a2a398cb7944b5c9722e10d",
+    "url": "https://smadex.com/awesome-new-features-crushing-performance-advertising/",
+    "title": "Awesome new features for crushing performance advertising - Smadex",
+    "description": "We’ve been working extra hard to release some truly ground breaking industry leading performance and",
+    "text": "We’ve been working extra hard to release some truly ground breaking industry leading performance and"
+  },
+  {
+    "id": "05df78ba330e184415c2b9f7bc3ac23500c78850",
+    "url": "https://smadex.com/pre-bid-for-brand-safety-and-viewability/",
+    "title": "Pre-bid for brand safety and viewability - Smadex",
+    "description": "Smadex takes brand safety very seriously: this is reflected in our platform, by giving advertisers f",
+    "text": "Smadex takes brand safety very seriously: this is reflected in our platform, by giving advertisers f"
+  },
+  {
+    "id": "775ccbc98948f6b2da0744073c7d3d7d3a75f9d4",
+    "url": "https://smadex.com/meet-smadex-at-mwc-2018-in-barcelona/",
+    "title": "Meet Smadex at MWC 2018 in Barcelona - Smadex",
+    "description": "Meet Smadex, the leading mobile-first DSP for branding and performance in Hall 8.1 A63 Stand # 14.",
+    "text": "The Smadex team will be at MWC 2018 again this year and you’ll be able to find us in Hall 8.1 A63 St"
+  },
+  {
+    "id": "f46340c114e5475fe308de2622bccbf4901e888b",
+    "url": "https://smadex.com/brand-safety-and-ad-fraud-improvements-using-ads-txt-verified-supply/",
+    "title": "Brand safety and ad fraud improvements using Ads.txt - Smadex",
+    "description": "Ads.txt was one of the key buzzwords in programmatic advertising last year. After slow adoption, tak",
+    "text": "Ads.txt was one of the key buzzwords in programmatic advertising last year. After slow adoption, tak"
+  },
+  {
+    "id": "c8daf56e24c3702f3e31273cd9742e0078c705f2",
+    "url": "https://smadex.com/creative-library-tool/",
+    "title": "Manage all your creatives with the new creative library tool - Smadex",
+    "description": "New feature in the Smadex Workspace that uses improves flexibility and optimization. Users can now b",
+    "text": "We’ve released a new feature in the Workspace area that uses efficiency to improve creative flexibil"
+  },
+  {
+    "id": "543b382e4a838ddb5ce5381fb0a6644282830f25",
+    "url": "https://smadex.com/entravision-completes-acquisition-of-smadex/",
+    "title": "Entravision completes acquisition of Smadex - Smadex",
+    "description": "13/06/2018 company update: We are pleased to announce that Entravision (NYSE: EVC), a has completed ",
+    "text": "13/06/2018 company update: We are pleased to announce that Entravision (NYSE: EVC), a has completed "
+  },
+  {
+    "id": "f1a92f97c91b6a98e666cd0358a7400d11b6b5b0",
+    "url": "https://smadex.com/smadex-moat-partnership/",
+    "title": "Smadex partners with MOAT to guarantee brand safety and viewability - Smadex",
+    "description": "New partnership with MOAT will provide advertisers guaranteed viewability and overall improve brand ",
+    "text": "We are excited to announce our new partnership with MOAT, to drive higher viewability standards and "
+  },
+  {
+    "id": "f16b75886270b2589639f9cc1bb06b6f594d68f1",
+    "url": "https://smadex.com/native-ads-mobile-app/",
+    "title": "How to get scalable native ads on premium mobile web and apps",
+    "description": "Smadex, the self serve programmatic DSP now offers native ads on premium web and apps, with brand sa",
+    "text": "The demand for native ads continues to grow as more and more brands and agencies are allocating larg"
+  },
+  {
+    "id": "1c2ea55117378ee921b7923fb406506794b90e47",
+    "url": "https://www.bbb.org/us/md/frederick/profile/hearing-assistive-devices/tri-state-hearing-aid-audiology-center-0011-10821",
+    "title": "Tri State Hearing Aid & Audiology Center | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Hearing Assistive Devices in Frederick, MD. See BBB rating, reviews, complaints,",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "aa0709eb33f34801782c6c97240c564aac1586fa",
+    "url": "https://www.bbb.org/us/md/salisbury/profile/construction-services/shipe-builders-inc-0011-10815",
+    "title": "Shipe Builders, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Construction Services in Salisbury, MD. See BBB rating, reviews, complaints, and",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "231811fb8d87a5b54aa8b68608f3dc08f314916a",
+    "url": "https://www.bbb.org/us/md/earleville/profile/campgrounds/r-m-entbuttonwood-beach-camping-resort-0011-10835",
+    "title": "R & M Ent./Buttonwood Beach Camping Resort | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Campgrounds in Earleville, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "5237f0bdf9eb6d7e069209c6d3835f68b0945a0f",
+    "url": "https://www.bbb.org/us/md/emmitsburg/profile/mason-contractors/jd-walter-company-inc-0011-10912",
+    "title": "JD Walter & Company, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Mason Contractors in Emmitsburg, MD. See BBB rating, reviews, complaints, and mo",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "dacabcb2fa0ace3c7f04a255b94554b9b84bdb28",
+    "url": "https://www.bbb.org/us/md/frederick/profile/online-retailer/wonder-book-video-inc-0011-10910",
+    "title": "Wonder Book & Video, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Online Retailer in Frederick, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "ad7c60dd1d6f1404a2f3411ec411582121990074",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/upholsterer/clifton-upholstering-and-design-inc-0011-10935",
+    "title": "Clifton Upholstering and Design , Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Upholsterer in Baltimore, MD. See BBB rating, reviews, complaints, and more.",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "ea1788f1edce0bce53ccdbccbc248550a389f9d2",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/mason-contractors/braun-joseph-j-sr-concrete-stone-block-0011-10954",
+    "title": "Braun, Joseph J. Sr. Concrete, Stone & Block | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Mason Contractors in Baltimore, MD. See BBB rating, reviews, complaints, and mor",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "a04278e873d4673920ff4dea83727a4ff3473523",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/foreign-auto-repair/mt-washington-autohaus-inc-0011-1097",
+    "title": "Mt. Washington Autohaus, Inc. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Foreign Auto Repair in Baltimore, MD. See BBB rating, reviews, complaints, and m",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "5ed8dc5b4b73eb64d39cf055f77061e4a6cc5192",
+    "url": "https://www.bbb.org/us/md/boonsboro/profile/window-installation/kline-window-door-co-0011-10992",
+    "title": "Kline Window & Door Co. | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Window Installation in Boonsboro, MD. See BBB rating, reviews, complaints, and m",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "a1e60bad2dd91163f82e5636cdabb45b1617039b",
+    "url": "https://www.bbb.org/us/md/baltimore/profile/motorcycle-dealers/petes-cycle-company-0011-10980",
+    "title": "Pete's Cycle Company | BBB Business Profile | Better Business Bureau",
+    "description": "Not BBB Accredited. Motorcycle Dealers in Baltimore, MD. See BBB rating, reviews, complaints, and mo",
+    "text": "We use cookies to give users the best content and online experience. By clicking “Accept All Cookies"
+  },
+  {
+    "id": "3a50cc5b1dbb8f856245e8c32b3b2837911c9d72",
+    "url": "https://safety.google/stories/faq/",
+    "title": "Google Online Security & Privacy Questions - Google Safety Center",
+    "description": "Everything you need to know about your online data: Where it comes from, who has access to it, and h",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "b3c05a22e81c8034527217e44c2a041d29ce4907",
+    "url": "https://safety.google/stories/gsec-geburtstag/",
+    "title": "\"Data security shouldn't be complicated.\" - Google Safety Center",
+    "description": "Google has been focusing on data privacy and data security on the Internet at the Google Safety Engi",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "6567323e2b0659dc002326884e4058c64e6fb4c6",
+    "url": "https://safety.google/stories/lena-rohou/",
+    "title": "Navigating Data Security with Lena Rohou - Google Safety Center",
+    "description": "Google&rsquo;s Lena Rohou is responsible for the German Google Digital Garage program, whose range o",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "c01a699f50e0fd291d706509a029a6198ff41db3",
+    "url": "https://safety.google/stories/mark-risher/",
+    "title": "Password Security Management - Google Safety Center",
+    "description": "When it comes to online security, many users feel overwhelmed. Google's Mark Risher and Stephan Mick",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "7cfe45ec13a6e6b1e82f6bf1dddd73e155a4b8ac",
+    "url": "https://safety.google/stories/hash-matching-to-help-ncmec/",
+    "title": "How Image Hashing Technology Helps NCMEC - Google Safety Center",
+    "description": "In the United States, the National Center for Missing &amp; Exploited Children (NCMEC) receives mill",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "a87d93f2a1f0a31a90c8480d7c54a3eef64a04dc",
+    "url": "https://safety.google/stories/micklitz-debooij/",
+    "title": "Stephan MicKlitz On Privacy Needs & Tools - Google Safety Center",
+    "description": "User experience researchers study how people interact with products. Arne de Booij specialises in us",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "efb2f1641e9a7b7a71910447ccfaf7d510016caf",
+    "url": "https://safety.google/stories/micklitz-fair/",
+    "title": "How to Download & Transfer Your Data - Google Safety Center",
+    "description": "Want to download personal data to your computer or transfer it to another provider? Both are possibl",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "8fe838cb140f96931cbf5e0158598d3604f1ef82",
+    "url": "https://safety.google/stories/micklitz-holfelder/",
+    "title": "User Data Privacy & Safety Engineering - Google Safety Center",
+    "description": "The Google Safety Engineering Center in Munich is a global hub for privacy and safety engineering. E",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "9722a4add4fb144e4a60239381b2c060331a85d1",
+    "url": "https://safety.google/stories/micklitz-hannemann/",
+    "title": "Data Protection & Control Center - Google Safety Center",
+    "description": "Stephan Micklitz and Jan Hannemann have spent years developing tools that allow users to decide what",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "38c5e274a8cb18884b577027fccc9eca59e709bf",
+    "url": "https://safety.google/stories/micklitz-pietraszek/",
+    "title": "How Google Prevents Cyberattacks - Google Safety Center",
+    "description": "From hacking and phishing to malware, cybercriminals employ a variety of methods to hijack user acco",
+    "text": "Jump to Content\nDiscover how we build products that protect your privacy.\nLearn about our advertisin"
+  },
+  {
+    "id": "1220b7ffcd4ab213dc085ef02993913db245d3f2",
+    "url": "https://wpastra.com/plugins/wordpress-gutenberg-block-plugins/",
+    "title": "28 Best WordPress Block Editor Plugins of 2025 (Expert Picks)",
+    "description": "28 of the best WordPress block editor plugins reviewed and rated. Compare and choose the best editor",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "be2104cbf688074ae05fbf615640bdfe4fe07da9",
+    "url": "https://wpastra.com/resources/best-grammar-checker/",
+    "title": "16 Best Grammar Checkers in 2025 | Expert Reviews",
+    "description": "Discover the top 16 grammar checkers for error-free writing. Compare features, pricing, and accuracy",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "b9b1ee5390e69be6e80568479eee9506e7e81df6",
+    "url": "https://wpastra.com/guides-and-tutorials/contact-forms-with-elementor/",
+    "title": "How To Create an Elementor Contact Form (FREE and Paid)",
+    "description": "You don't need to have Elementor Pro to create engaging contact forms. Follow our guide to create a ",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "461a60684cd94b8cc6eef23ff333b0a368efb96b",
+    "url": "https://wpastra.com/comparison/wp-rocket-vs-w3-total-cache/",
+    "title": "WP Rocket vs W3 Total Cache: Best WordPress Cache Plugin 2025",
+    "description": "Compare WP Rocket and W3 Total Cache side-by-side. Discover which WordPress caching plugin is faster",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "7077afa9c701cc7431e08ab47289ba3597c87f1d",
+    "url": "https://wpastra.com/resources/saas-black-friday-deals/",
+    "title": "SaaS Black Friday Deals 2025: SaaS-y Savings up to 90%!",
+    "description": "Black Friday and Cyber Monday 2025: Score massive savings on top products! Don't miss out on these u",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "1649f003fe8cea18378c782498fd1caaff55e55e",
+    "url": "https://wpastra.com/resources/managed-wordpress-hosting/",
+    "title": "13 Best Managed WordPress Hosting Services (2025)",
+    "description": "Explore our detailed comparison of the 13 Best managed WordPress hosting services to supercharge you",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "6d91c8f78c482ff35d4abb8c97ac4257d6f4c73f",
+    "url": "https://wpastra.com/guides-and-tutorials/how-to-clear-wordpress-cache/",
+    "title": "How To Clear WordPress Cache (With and Without Plugins)",
+    "description": "Learn how to clear WordPress cache and optimize your website's speed. Follow our expert guidance for",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "c2d1ad1f1ac6538b77e0af4941f59bae7987e55b",
+    "url": "https://wpastra.com/guides-and-tutorials/start-an-online-jewelry-business/",
+    "title": "How to Start a Jewelry Business Online: 7 Steps (2025)",
+    "description": "Learn how to start a successful jewelry business online with our comprehensive guide. From product s",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "4d0711819e3f8fa3e24de861e2be5cd93792e4eb",
+    "url": "https://wpastra.com/resources/halloween-wordpress-deals/",
+    "title": "Top 55+ WordPress Halloween Deals 2025 - Save Up to 70% Off",
+    "description": "Save up to 70% on the best WordPress Halloween deals for themes, plugins, and more. Don’t miss out o",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "7a033a8bc207129cfc0d3be08aff31c1db7a9a76",
+    "url": "https://wpastra.com/resources/best-learndash-examples/",
+    "title": "10 Modern LearnDash Website Examples You Can Copy Today",
+    "description": "Discover 10 inspiring LearnDash examples that will revolutionize your website and delight your stude",
+    "text": "MAXIMUM SAVINGS with Business Toolkit – Grab premium templates & bonus tools for up to 40% OFF\nSite "
+  },
+  {
+    "id": "0ba2f3222e47a0d53ce0b54a2fa8a6961a901759",
+    "url": "https://www.ninjaone.com/blog/",
+    "title": "IT & MSP Articles, News & Resources | NinjaOne",
+    "description": "Stay up to date with the latest articles, news, and resources on endpoint management for IT professi",
+    "text": "RMM\nEndpoint Management\nPatch Management\nRemote Access\nMDM\nPSA\nTicketing\nDocumentation\nBackup\nEmail "
+  },
+  {
+    "id": "852c87e350cff9b557a17c819e5b3b910f199234",
+    "url": "https://www.ninjaone.com/blog/alternatives-to-afi/",
+    "title": "Afi Alternatives: Top Competitors in 2025 | NinjaOne",
+    "description": "Explore the top Afi alternatives for cloud data protection. Compare features and discover tools that",
+    "text": "Home / Blog / Compare / Afi Alternatives: Top Competitors in 2025\nSecurity is one of the top priorit"
+  },
+  {
+    "id": "604a4334436c823538306b0e7136287a7f18d8d5",
+    "url": "https://www.ninjaone.com/de/blog/alternativen-zu-connectwise-cloud-backup/",
+    "title": "Beste Alternativen zu ConnectWise Cloud Backup für 2025 - NinjaOne",
+    "description": "Erfahren Sie von den besten Alternativen zu ConnectWise Cloud Backup und treffen Sie bei der Migrati",
+    "text": "Startseite / Blog / Backup / Beste Alternativen zu ConnectWise Cloud Backup für 2025\nSehen Sie sich "
+  },
+  {
+    "id": "2f969d53b43ddf692c4d918bb261db032adb8047",
+    "url": "https://www.ninjaone.com/blog/alternatives-to-ivanti/",
+    "title": "Ivanti Competitors: 10 Best Alternatives in 2025",
+    "description": "This is a compiled list of the best Ivanti competitors & alternatives. Compare and decide which one ",
+    "text": "Home / Blog / Compare / Best Ivanti Competitors & Alternatives\nWe’ve compiled the best Ivanti compet"
+  },
+  {
+    "id": "7692286e247ce3f584c145fee1c7ead89a7d34a3",
+    "url": "https://www.ninjaone.com/it/blog/oltre-il-ticket-perche-il-vero-supporto-e-trasformativo-non-transazionale/",
+    "title": "Oltre il ticket: Perché il vero supporto è trasformativo, non transazionale - NinjaOne",
+    "description": "Quando la maggior parte delle persone pensa all'assistenza IT, immagina un help desk che risolve i p",
+    "text": "Home / Blog / NinjaOne / Oltre il ticket: Perché il vero supporto è trasformativo, non transazionale"
+  },
+  {
+    "id": "6acf6f1aaa5f343afd00c3c62b06f9af9fcf97f1",
+    "url": "https://www.ninjaone.com/it/blog/come-impostare-la-modalita-di-visualizzazione-alt-tab-su-finestra/",
+    "title": "Come impostare la modalità di visualizzazione Alt+Tab su finestra o a schermo intero in Windows 11 -",
+    "description": "Questa guida ti aiuterà a capire come passare dalla modalità a finestra a quella a schermo intero di",
+    "text": "Home / Blog / Operazioni IT / Come impostare la modalità di visualizzazione Alt+Tab su finestra o a "
+  },
+  {
+    "id": "a4c2d1660cd59872d760ac8fb18daeee3f550118",
+    "url": "https://www.ninjaone.com/blog/enable-or-disable-open-with-prompt-windows-11/",
+    "title": "How to Enable or Disable Open With Prompt in Windows | NinjaOne",
+    "description": "Learn how to enable or disable open with prompt so you do not show the \"new application installed\" n",
+    "text": "Home / Blog / IT Ops / How to Enable or Disable “Open With” Prompt After Installing a New App in Win"
+  },
+  {
+    "id": "901b991e238deb024930e62540865dea4ad8636c",
+    "url": "https://www.ninjaone.com/blog/automate-windows-event-log-monitoring/",
+    "title": "How to Automate Windows Event Log Monitoring Across Multiple Clients | NinjaOne",
+    "description": "This guide explains how to automate Windows Event Log monitoring/forwarding prerequisites.",
+    "text": "Home / Blog / IT Ops / How to Automate Windows Event Log Monitoring Across Multiple Clients\nWindows "
+  },
+  {
+    "id": "67a1471fa81f2a95c06cad9d89e973e062758195",
+    "url": "https://www.ninjaone.com/de/blog/ninjaone-als-nr-1-in-13-kategorien-im-g2-herbstbericht-2025-ausgezeichnet/",
+    "title": "NinjaOne als Nr. 1 in 13 Kategorien im G2-Herbstbericht 2025 ausgezeichnet",
+    "description": "Diesen Herbst feiern wir große Erfolge – dank euch! Im G2-Herbstbericht 2025 wurde NinjaOne gleich i",
+    "text": "Startseite / Blog / NinjaOne / NinjaOne als Nr. 1 in 13 Kategorien im G2-Herbstbericht 2025 ausgezei"
+  },
+  {
+    "id": "6575597e7ade43c5599ce285f1dc0ae523c1781c",
+    "url": "https://www.ninjaone.com/de/blog/die-besten-systemadministrator-tools-fuer-it-experten/",
+    "title": "Die besten Systemadministrator-Tools für 2025 | NinjaOne",
+    "description": "Haben Sie genug davon, unzählige Softwarelösungen auszuprobieren und am Ende enttäuscht zu werden? E",
+    "text": "Startseite / Blog / Vergleichen Sie / 90+ beste SysAdmin-Tools für IT-Experten im Jahre 2025\nVon Rem"
+  },
+  {
+    "id": "42a3e347ef3103a68cf464d0e450b75dd990d97b",
+    "url": "https://www.pcmag.com/categories/mobile-phones/brands/samsung",
+    "title": "Samsung Mobile Phone Reviews | PCMag",
+    "description": "Interested in Mobile Phones by Samsung? Find out what our experts at PCMag had to say from our testi",
+    "text": "Samsung's Galaxy S25 FE provides many flagship features, such as a durable build, dependable cameras"
+  },
+  {
+    "id": "af4526946cfe08297518b59569a3fe102c614712",
+    "url": "https://www.pcmag.com/categories/printers/brands/hp",
+    "title": "HP Printer Reviews | PCMag",
+    "description": "Interested in Printers by HP? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "HP’s Color LaserJet Pro 4201dw is a fast color laser printer with top-notch print quality that's wel"
+  },
+  {
+    "id": "25c8dd7007efc25f9390a75c99382c2a8cd5356f",
+    "url": "https://www.pcmag.com/categories/cameras/brands/sony",
+    "title": "Sony Camera Reviews | PCMag",
+    "description": "Interested in Cameras by Sony? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Sony FE 50-150mm F2 GM breaks new ground by putting F2 optics in a telezoom lens and should be a"
+  },
+  {
+    "id": "7b61a206fd71938161f230e59a37b34236922b83",
+    "url": "https://www.pcmag.com/categories/tvs/brands/lg",
+    "title": "LG TV Reviews | PCMag",
+    "description": "Interested in TVs by LG? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "If you can afford it, the stunning LG Evo G5 is simply one of the most gorgeous TVs you can buy, wit"
+  },
+  {
+    "id": "e3fce0e81292d1c8bad6b92e2d32e5e758ad96eb",
+    "url": "https://www.pcmag.com/categories/pc-cases/brands/silverstonetechnology",
+    "title": "SilverStoneTechnology PC Case Reviews | PCMag",
+    "description": "Interested in PC Cases by SilverStoneTechnology? Find out what our experts at PCMag had to say from ",
+    "text": "Yes, it's expensive. But SilverStone’s Crown 04 is a well-built, great-looking horizontal case that "
+  },
+  {
+    "id": "e856db0ebd673f3b6158c2af555e13565b64f0bd",
+    "url": "https://www.pcmag.com/categories/laptops/brands/apple",
+    "title": "Apple Laptop Reviews | PCMag",
+    "description": "We benchmark, rate, and review hundreds of PCs each year so we can deliver expert buying advice to h",
+    "text": "We’re getting antsy for a more significant redesign, but the MacBook Air 15-inch remains Apple's bes"
+  },
+  {
+    "id": "add3cbaf5308677779405d70921715fd89bfa039",
+    "url": "https://www.pcmag.com/categories/headphones/brands/skullcandy",
+    "title": "Skullcandy Headphone Reviews | PCMag",
+    "description": "Interested in Headphones by Skullcandy? Find out what our experts at PCMag had to say from our testi",
+    "text": "The Skullcandy Method 360 ANC wireless earphones include audio tuned by Bose and sound great, but th"
+  },
+  {
+    "id": "deb05e7cad9a5974aec54416cb13a1367fed33d1",
+    "url": "https://www.pcmag.com/categories/lenses/brands/canon",
+    "title": "Canon Lens Reviews | PCMag",
+    "description": "Interested in Lenses by Canon? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Canon RF 35mm F1.4 L VCM lens focuses fast, blurs backgrounds easily, and isn't too heavy to car"
+  },
+  {
+    "id": "0af4b3e32021bbbfe0e10053ce1c5718afd98e06",
+    "url": "https://www.pcmag.com/categories/tvs/brands/sony",
+    "title": "Sony TV Reviews | PCMag",
+    "description": "Interested in TVs by Sony? Find out what our experts at PCMag had to say from our testing lab.",
+    "text": "The Sony Bravia 8 II is a fantastic-looking OLED TV with plenty of features, including hands-free Go"
+  },
+  {
+    "id": "6efb9e0a5dc82d3c79bcd5b1718f74adcb2991b0",
+    "url": "https://www.pcmag.com/categories/keyboards/brands/logitech",
+    "title": "Logitech Keyboard Reviews | PCMag",
+    "description": "Interested in Keyboards by Logitech? Find out what our experts at PCMag had to say from our testing ",
+    "text": "The Logitech Signature Slim Solar+ K980 Keyboard isn't much of an upgrade over Logitech's previous m"
+  },
+  {
+    "id": "4b55140a716f27e7340b7bc3f769282cdab411a4",
+    "url": "https://squareup.com/us/en/legal/general/financial-services-tos",
+    "title": "Additional Square Financial Services Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "932d58c873579306b5c609f087452713fbe83516",
+    "url": "https://squareup.com/us/en/legal/general/square-local-tos",
+    "title": "Square Local Pilot Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "75887311632ae2929609a74892ce7261b9ed9630",
+    "url": "https://squareup.com/us/en/legal/general/tidal-potc",
+    "title": "Tidal Purchase Order Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "463eb4bf882a68cc0fc87dd60a2a39fa6f9b8ea7",
+    "url": "https://squareup.com/us/en/legal/general/payment-archive-2023",
+    "title": "Payment Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "d475e14c03fbaad7aed9bad13dbf7cf38fa7c099",
+    "url": "https://squareup.com/us/en/legal/general/ua-archive-2023",
+    "title": "General Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "ff89bad5d06e6803ad960512fd6907621bc1bd35",
+    "url": "https://squareup.com/us/en/legal/general/square-go-terms",
+    "title": "Square Go Terms of Use",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "a3fd78da85f7ddf1f77cc1ceb9b4ba18d8c06447",
+    "url": "https://squareup.com/us/en/legal/general/ach-service-terms",
+    "title": "ACH Service Terms",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "974cb736c4fe4979d39d0e454b1df5f3c216690c",
+    "url": "https://squareup.com/us/en/legal/general/square-potc",
+    "title": "Square Purchase Order Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "6c17cf62a72ecc66ccaaad7d647e20100dc1ac12",
+    "url": "https://squareup.com/us/en/legal/general/tidal-potc-nts",
+    "title": "Tidal Purchase Order Terms and Conditions",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "f4b304f58e781118b4018f97d2cc0eed5c02462c",
+    "url": "https://squareup.com/us/en/legal/general/team",
+    "title": "Square Staff Terms of Service",
+    "description": "",
+    "text": "JavaScript is required for full functionality of this site. Learn how to enable JavaScript in your w"
+  },
+  {
+    "id": "7acea96e6b13714a9b8ebbe8b9daba8e784044e3",
+    "url": "https://www.ringcentral.com/cloud-call-center.html",
+    "title": "What is Cloud Call Center [Benefits & Demo] | RingCentral",
+    "description": "What is a cloud call center? Learn what it is, how it differs from a cloud contact center, how to ch",
+    "text": "Cloud call centers, or cloud-based contact centers, are the hub of a company’s customer service and "
+  },
+  {
+    "id": "f25b14a2c5632a9af4249a98bc3a90b25a9b8593",
+    "url": "https://www.ringcentral.com/cloud-communications-security.html",
+    "title": "RingCentral: Secure Cloud Communications & Collaboration–Free eBook",
+    "description": "Download a free copy of the eBook “RingCentral: Secure Cloud Communications and Collaboration” and l",
+    "text": "Explore the best and most advanced ways to prevent cyber attacks and avoid business-crushing costs i"
+  },
+  {
+    "id": "258906aec22b093d6888d8f1f7b98712b06b071e",
+    "url": "https://www.ringcentral.com/cloud-contact-center.html",
+    "title": "Cloud Contact Center: Features & Benefits | RingCentral",
+    "description": "Manage all of your customer communications using RingCentral RingCX's features. Check out the benefi",
+    "text": "Legacy solutions require voice modules, expansion I/O cards, additional software licenses, and other"
+  },
+  {
+    "id": "9f2f495289038cb4b1426a26ef1bb622d801376e",
+    "url": "https://www.ringcentral.com/cloud-pbx.html",
+    "title": "Cloud PBX: AI-Powered Business Phone System",
+    "description": "Upgrade to RingCentral's AI-powered Cloud PBX. Get unlimited VoIP calling, video meetings, SMS, & mo",
+    "text": "AI-powered voice, fax, text, conferencing, and HD video meetings—all on your business phone\n\n\n\n .\nCl"
+  },
+  {
+    "id": "67169af02952437284f641edb2a6108c6ddd893c",
+    "url": "https://www.ringcentral.com/cloudconnector.html",
+    "title": "Hosted PBX (Private Branch Exchange) - How Does it Work?",
+    "description": "A hosted PBX offers cloud business telephony, removing the need for an on-premises setup. Learn why ",
+    "text": "SEE ALL FEATURES\nWith the RingCentral mobile app, employees can call, fax, SMS text, enable call rec"
+  },
+  {
+    "id": "323d5cb2cada68a027e91cd98813e477efe62ca2",
+    "url": "https://www.ringcentral.com/cobrowsing.html",
+    "title": "Cobrowsing: What It Is, How It Works & Why You Might Want It",
+    "description": "Cobrowsing is a tool that lets your agents access a customer's browser and navigate or control it in",
+    "text": "What is cobrowsing, how does it work, and why should you consider a cobrowsing solution for your con"
+  },
+  {
+    "id": "0782ba0d5f3022fc65b8ddee1c0bf7e2d4afb2a5",
+    "url": "https://www.ringcentral.com/collaborative_high_tech_ebook.html",
+    "title": "Collaborative communications for the new high-tech workplace – Free eBook | RingCentral",
+    "description": "Download a free eBook on Collaborative communications for the new high-tech workplace. Find out how ",
+    "text": "Productivity. Savings. Revenue. Learn how other high-tech companies are adopting long-term collabora"
+  },
+  {
+    "id": "4b45772411ffffc865d5e441fd809fa9ab3d9282",
+    "url": "https://www.ringcentral.com/company.html",
+    "title": "About RingCentral & What Makes Us Unique",
+    "description": "See how RingCentral is transforming business communications with AI, helping companies worldwide enh",
+    "text": ""
+  },
+  {
+    "id": "100207e65c2e0302718096323c248af6dfddaa32",
+    "url": "https://www.ringcentral.com/company/careers/internship-program.html",
+    "title": "Internships and College Programs - Opportunities for Students and Graduates | RingCentral Careers",
+    "description": "The internships at RingCentral offer amazing opportunities for growth and career development. Apply ",
+    "text": ""
+  },
+  {
+    "id": "d3b639fbfa26abbc146c5fd2cc2a557d9630e32b",
+    "url": "https://www.ringcentral.com/company/careers.html",
+    "title": "Join Our Team | RingCentral Careers",
+    "description": "Join the RingCentral team and help revolutionize business communications. Get great job benefits and",
+    "text": "Together, we’re building the world’s most trusted business communications platform that frees people"
+  },
+  {
+    "id": "13c51501c92c12e4143a9826625a14c13bbb532e",
+    "url": "https://kpmg.com/xx/en/contacts/a/charles-abbey.html",
+    "title": "Charles Abbey",
+    "description": "Charles focuses on the energy and infrastructure sectors and has been advising clients in the clean ",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nPartner, Deal Adviso"
+  },
+  {
+    "id": "0f5f554a5d6082d58e869ee8aaf5a88dcc23498c",
+    "url": "https://kpmg.com/xx/en/contacts/a/charles-armstrong.html",
+    "title": "Charles Armstrong",
+    "description": "Charles Armstrong specialized in corporate strategy with a focus in retail banking, wealth and inves",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nPartner\nKPMG in Cana"
+  },
+  {
+    "id": "8af01b5046be462ba28e5f4dbb34848c5ff9ce55",
+    "url": "https://kpmg.com/xx/en/contacts/a/celine-allenbach.html",
+    "title": "Celine Allenbach",
+    "description": "Celine Allenbach, Senior Manager, KPMG in Switzerland",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nSenior Manager\nKPMG "
+  },
+  {
+    "id": "b290a20cb6c7ab9d31139510f6ecfa4fe53a5f66",
+    "url": "https://kpmg.com/xx/en/contacts/a/bryn-anderson.html",
+    "title": "Bryn Anderson",
+    "description": "Bryn is a Senior Manager at KPMG and the coordinator of the firm’s internal Global Sports Network.",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nSenior Manager\nKPMG "
+  },
+  {
+    "id": "77e463988af9bdc8cee17b676b5fa62e89cece99",
+    "url": "https://kpmg.com/xx/en/contacts/a/camille-asaro.html",
+    "title": "Camille Asaro",
+    "description": "Camille is an Audit Partner with KPMG’s New York Financial Services practice with a specialization i",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nPartner, Audit – Alt"
+  },
+  {
+    "id": "f0fb19c5468ffb7ac1951950a450e4825cdf7591",
+    "url": "https://kpmg.com/xx/en/contacts/a/christian-athanasoulas.html",
+    "title": "Christian Athanasoulas",
+    "description": "Christian is the U.S. Tax Practice Leader – Services for KPMG’s Tax.",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nTax Practice Leader "
+  },
+  {
+    "id": "1ebb634e52597e3c8d5a0e39d0bcaac5c37c7b21",
+    "url": "https://kpmg.com/xx/en/contacts/a/chris-allen.html",
+    "title": "Christopher Allen",
+    "description": "Chris is a Principal Advisor with KPMG in Singapore. He was previously ASEAN Commercial Head of Syng",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nPrincipal Advisor, B"
+  },
+  {
+    "id": "36bb889573f0df8908ac75fee0a52850bb21e038",
+    "url": "https://kpmg.com/xx/en/contacts/a/christian-aldana-castillo.html",
+    "title": "Christian Aldana Castillo",
+    "description": "Director, KPMG Guatemala",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nDirector\nKPMG de Gua"
+  },
+  {
+    "id": "cd9fbf5ca4c2c8588513414f425f65a03a6a3f94",
+    "url": "https://kpmg.com/xx/en/contacts/a/claire-angell.html",
+    "title": "Claire Angell",
+    "description": "Claire Angell, UK Head of Tax for Energy and Natural Resources, KPMG in the UK",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nUK Head of Tax for E"
+  },
+  {
+    "id": "557b32b41a46617fd1b392b7f03b886e2328ffed",
+    "url": "https://kpmg.com/xx/en/contacts/a/claudia-arevalo.html",
+    "title": "Claudia Arevalo",
+    "description": "Supervisor Tax - GMS",
+    "text": "Your search term was too short.\nSearch terms must include 3 or more characters.\nSupervisor Tax - GMS"
+  },
+  {
+    "id": "77870c904f6a7cc85d67fab0ebd58195d4789c8e",
+    "url": "https://www.tbank.ru/invest/help/situation/",
+    "title": "Что происходит на бирже: торги Тинькофф Инвестиции",
+    "description": "Как проходят биржевые торги валютой и иностранными бумагами. Как работают сервисы Тинькофф Инвестици",
+    "text": "Приложение Т‑Инвестиций:\nЦенные бумаги:\nВалюта:\nДля пользователей Android. Приложение пропало из Goo"
+  },
+  {
+    "id": "d77b787944899c5e2758063e991f0407adbfcdc3",
+    "url": "https://www.tbank.ru/bank/help/crisis-faq/",
+    "title": "Т‑Помощь — вопросы и ответы",
+    "description": "Ответы на популярные вопросы о продуктах банка. Разбор практических ситуаций. Вопросы по финансовой ",
+    "text": "Т‑Помощь\nБаза знаний для клиентов Т‑Банка. Всё, что нужно знать о наших продуктах\nОтвечаем на вопрос"
+  },
+  {
+    "id": "2fa707fbeb5f7d37fcf6b7fe27fc5a502bb83ffd",
+    "url": "https://www.tbank.ru/invest/help/voting-share/",
+    "title": "Что такое голосующая акция и как она влияет на корпоративное управление",
+    "description": "Какие права дает голосующая акция владельцу. Какие типы акций существуют. Как голосующие акции позво",
+    "text": "Голосующая акция — это ценная бумага, которая дает своему владельцу право участвовать в принятии реш"
+  },
+  {
+    "id": "8319cbd602ac0a683e2d03fd82268a5bd29f40eb",
+    "url": "https://www.tbank.ru/invest/help/money-supply/",
+    "title": "Что такое денежная масса",
+    "description": "Что собой представляет денежная масса и на какие категории ее делят. Зачем инвесторам анализировать ",
+    "text": "Денежная масса — это общее количество денег, циркулирующих в экономике конкретной страны. Такая масс"
+  },
+  {
+    "id": "0763d9f667f72a3158abd93e323d083631a7980d",
+    "url": "https://www.tbank.ru/invest/help/stock-return/",
+    "title": "Что такое доходность акции и как ее рассчитать",
+    "description": "Что входит в понятие доходности акции. В чем ее важность для инвесторов. Как рассчитать доходность а",
+    "text": "Доходность акции — это показатель эффективности вложений в определенную акцию. Он выражается в проце"
+  },
+  {
+    "id": "b7d0cc8899527bac1b52c50b03b8b47288abb0bd",
+    "url": "https://www.tbank.ru/invest/help/share-class/",
+    "title": "Что такое классы акций",
+    "description": "Как класс акций влияет на права и привилегии акционеров. Акции каких классов существуют на фондовом ",
+    "text": "Классы акций — это категории ценных бумаг одной компании, которые различаются по набору прав, предос"
+  },
+  {
+    "id": "87c28aafc1d3430d37740ae61371d62f1918dfd1",
+    "url": "https://www.tbank.ru/invest/help/clearing/",
+    "title": "Что такое клиринг",
+    "description": "Для чего нужен клиринг. Как устроены клиринговые центры. Как клиринг влияет на безопасность и эффект",
+    "text": "Клиринг — это процесс расчета сделок по ценным бумагам, товарам или валюте, который обеспечивается б"
   }
 ]

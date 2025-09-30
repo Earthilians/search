@@ -40511,7 +40511,7 @@
     ]
   },
   "hcaptcha.com": {
-    "lastAt": 1758875479946,
+    "lastAt": 1759242151233,
     "urls": [
       "https://www.hcaptcha.com/",
       "https://www.hcaptcha.com/pro",
@@ -40550,15 +40550,24 @@
       "https://www.hcaptcha.com/post/how-to-defend-your-organization-against-a-card-testing-attack",
       "https://www.hcaptcha.com/post/fastmail-puts-privacy-first-with-hcaptcha",
       "https://www.hcaptcha.com/post/why-ecommerce-leader-shopify-uses-hcaptcha",
-      "https://www.hcaptcha.com/post/hcaptcha-advice-on-soc2-type-ii-certification"
+      "https://www.hcaptcha.com/post/hcaptcha-advice-on-soc2-type-ii-certification",
+      "https://www.hcaptcha.com/post/humanity-verification-the-first-3-000-years",
+      "https://www.hcaptcha.com/post/hcaptcha-is-unaffected-by-okta-compromise",
+      "https://www.hcaptcha.com/post/hcaptcha-surpasses-one-million-publishers",
+      "https://www.hcaptcha.com/post/empowering-security-teams-through-advanced-analytics",
+      "https://www.hcaptcha.com/post/how-credential-stuffing-can-derail-your-business-and-what-to-do-about-it-2",
+      "https://www.hcaptcha.com/post/hcaptcha-is-not-affected-by-log4shell-heres-how-we-know-2",
+      "https://www.hcaptcha.com/post/hcaptcha-now-the-largest-independent-captcha-service",
+      "https://www.hcaptcha.com/post/do-captchas-really-discriminate-against-non-americans-2",
+      "https://www.hcaptcha.com/post/why-captchas-will-be-with-us-always"
     ]
   },
   "glassdoor.com": {
-    "lastAt": 1758875483080,
+    "lastAt": 1759242154686,
     "urls": []
   },
   "shop.app": {
-    "lastAt": 1758875485538,
+    "lastAt": 1759242157225,
     "urls": [
       "https://shop.app/legal-and-policies",
       "https://shop.app/privacy",
@@ -40573,7 +40582,7 @@
     ]
   },
   "smadex.com": {
-    "lastAt": 1758875490311,
+    "lastAt": 1759242161580,
     "urls": [
       "https://smadex.com/smadex-in-the-latest-mobile-lumascape/",
       "https://smadex.com/ios-9-targeting-now-supported-on-smadex/",
@@ -40614,23 +40623,33 @@
       "https://smadex.com/bid-stream-level-reporting-to-reporting-to-optimize-programmatic-campaigns/",
       "https://smadex.com/meet-smadex-at-cannes-lions/",
       "https://smadex.com/smadex-integrates-ias-for-brand-safety-and-viewabilityhttpsmadex-comwp-adminpost-phppost7063actionedit/",
-      "https://smadex.com/smadex-adds-weve-insights-to-power-programmatic-video-audience-buying/"
+      "https://smadex.com/smadex-adds-weve-insights-to-power-programmatic-video-audience-buying/",
+      "https://smadex.com/retargeting-users-based-on-real-time-campaign-behaviour/",
+      "https://smadex.com/attribution-models-for-mobile-advertising/",
+      "https://smadex.com/awesome-new-features-crushing-performance-advertising/",
+      "https://smadex.com/pre-bid-for-brand-safety-and-viewability/",
+      "https://smadex.com/meet-smadex-at-mwc-2018-in-barcelona/",
+      "https://smadex.com/brand-safety-and-ad-fraud-improvements-using-ads-txt-verified-supply/",
+      "https://smadex.com/creative-library-tool/",
+      "https://smadex.com/entravision-completes-acquisition-of-smadex/",
+      "https://smadex.com/smadex-moat-partnership/",
+      "https://smadex.com/native-ads-mobile-app/"
     ]
   },
   "sc-static.net": {
-    "lastAt": 1758875493891,
+    "lastAt": 1759242164845,
     "urls": []
   },
   "dbankcdn.com": {
-    "lastAt": 1758875497166,
+    "lastAt": 1759242168021,
     "urls": []
   },
   "ctgcdn.com": {
-    "lastAt": 1758875501803,
+    "lastAt": 1759242171537,
     "urls": []
   },
   "bbb.org": {
-    "lastAt": 1758875505476,
+    "lastAt": 1759242175387,
     "urls": [
       "https://bbb.org/",
       "https://www.bbb.org/us/md/nottingham/profile/auto-body-repair-and-painting/chucks-body-fender-0011-10000178",
@@ -40671,19 +40690,29 @@
       "https://www.bbb.org/us/md/towson/profile/electric-tools/black-decker-us-inc-0011-1070",
       "https://www.bbb.org/us/md/white-marsh/profile/new-car-dealers/koons-chevrolet-of-white-marsh-0011-10724",
       "https://www.bbb.org/us/md/glen-burnie/profile/tattoos/dragon-moon-tattoo-studio-inc-0011-10778",
-      "https://www.bbb.org/us/md/lutherville-timonium/profile/building-construction-consultants/blair-sons-company-inc-0011-1077"
+      "https://www.bbb.org/us/md/lutherville-timonium/profile/building-construction-consultants/blair-sons-company-inc-0011-1077",
+      "https://www.bbb.org/us/md/frederick/profile/hearing-assistive-devices/tri-state-hearing-aid-audiology-center-0011-10821",
+      "https://www.bbb.org/us/md/salisbury/profile/construction-services/shipe-builders-inc-0011-10815",
+      "https://www.bbb.org/us/md/earleville/profile/campgrounds/r-m-entbuttonwood-beach-camping-resort-0011-10835",
+      "https://www.bbb.org/us/md/emmitsburg/profile/mason-contractors/jd-walter-company-inc-0011-10912",
+      "https://www.bbb.org/us/md/frederick/profile/online-retailer/wonder-book-video-inc-0011-10910",
+      "https://www.bbb.org/us/md/baltimore/profile/upholsterer/clifton-upholstering-and-design-inc-0011-10935",
+      "https://www.bbb.org/us/md/baltimore/profile/mason-contractors/braun-joseph-j-sr-concrete-stone-block-0011-10954",
+      "https://www.bbb.org/us/md/baltimore/profile/foreign-auto-repair/mt-washington-autohaus-inc-0011-1097",
+      "https://www.bbb.org/us/md/boonsboro/profile/window-installation/kline-window-door-co-0011-10992",
+      "https://www.bbb.org/us/md/baltimore/profile/motorcycle-dealers/petes-cycle-company-0011-10980"
     ]
   },
   "cdnhwcbqs106.com": {
-    "lastAt": 1758875512122,
+    "lastAt": 1759242181939,
     "urls": []
   },
   "adidas.com": {
-    "lastAt": 1758875580932,
+    "lastAt": 1759242250749,
     "urls": []
   },
   "safety.google": {
-    "lastAt": 1758875583041,
+    "lastAt": 1759242252858,
     "urls": [
       "https://safety.google/",
       "https://safety.google/assistant/",
@@ -40724,11 +40753,21 @@
       "https://safety.google/security/security-leadership/",
       "https://safety.google/stories/backend/",
       "https://safety.google/stories/dsin/",
-      "https://safety.google/stories/chrome-profile/"
+      "https://safety.google/stories/chrome-profile/",
+      "https://safety.google/stories/faq/",
+      "https://safety.google/stories/gsec-geburtstag/",
+      "https://safety.google/stories/lena-rohou/",
+      "https://safety.google/stories/mark-risher/",
+      "https://safety.google/stories/hash-matching-to-help-ncmec/",
+      "https://safety.google/stories/micklitz-debooij/",
+      "https://safety.google/stories/micklitz-fair/",
+      "https://safety.google/stories/micklitz-holfelder/",
+      "https://safety.google/stories/micklitz-hannemann/",
+      "https://safety.google/stories/micklitz-pietraszek/"
     ]
   },
   "wpastra.com": {
-    "lastAt": 1758875589051,
+    "lastAt": 1759242258888,
     "urls": [
       "https://wpastra.com/",
       "https://wpastra.com/blog/",
@@ -40769,15 +40808,25 @@
       "https://wpastra.com/resources/memberpress-alternatives/",
       "https://wpastra.com/guides-and-tutorials/install-wordpress-in-xampp/",
       "https://wpastra.com/resources/web-safe-fonts/",
-      "https://wpastra.com/guides-and-tutorials/build-blog-with-elementor/"
+      "https://wpastra.com/guides-and-tutorials/build-blog-with-elementor/",
+      "https://wpastra.com/plugins/wordpress-gutenberg-block-plugins/",
+      "https://wpastra.com/resources/best-grammar-checker/",
+      "https://wpastra.com/guides-and-tutorials/contact-forms-with-elementor/",
+      "https://wpastra.com/comparison/wp-rocket-vs-w3-total-cache/",
+      "https://wpastra.com/resources/saas-black-friday-deals/",
+      "https://wpastra.com/resources/managed-wordpress-hosting/",
+      "https://wpastra.com/guides-and-tutorials/how-to-clear-wordpress-cache/",
+      "https://wpastra.com/guides-and-tutorials/start-an-online-jewelry-business/",
+      "https://wpastra.com/resources/halloween-wordpress-deals/",
+      "https://wpastra.com/resources/best-learndash-examples/"
     ]
   },
   "mosspf.com": {
-    "lastAt": 1758875592235,
+    "lastAt": 1759242262335,
     "urls": []
   },
   "ninjarmm.com": {
-    "lastAt": 1758875623039,
+    "lastAt": 1759242272587,
     "urls": [
       "https://www.ninjaone.com/blog/patch-management-policy/",
       "https://ninjarmm.com/",
@@ -40808,25 +40857,35 @@
       "https://www.ninjaone.com/fr/blog/sauvegarde-de-fichiers-vs-sauvegarde-dimages/",
       "https://www.ninjaone.com/es/blog/copia-de-seguridad-de-archivos-vs-copia-de-seguridad-de-imagen/",
       "https://www.ninjaone.com/sv/blog/backup-av-filer-vs-bilder-hur-och-nar/",
-      "https://www.ninjaone.com/it/blog/softaware-backup-file-e-backup-immagine/"
+      "https://www.ninjaone.com/it/blog/softaware-backup-file-e-backup-immagine/",
+      "https://www.ninjaone.com/blog/",
+      "https://www.ninjaone.com/blog/alternatives-to-afi/",
+      "https://www.ninjaone.com/de/blog/alternativen-zu-connectwise-cloud-backup/",
+      "https://www.ninjaone.com/blog/alternatives-to-ivanti/",
+      "https://www.ninjaone.com/it/blog/oltre-il-ticket-perche-il-vero-supporto-e-trasformativo-non-transazionale/",
+      "https://www.ninjaone.com/it/blog/come-impostare-la-modalita-di-visualizzazione-alt-tab-su-finestra/",
+      "https://www.ninjaone.com/blog/enable-or-disable-open-with-prompt-windows-11/",
+      "https://www.ninjaone.com/blog/automate-windows-event-log-monitoring/",
+      "https://www.ninjaone.com/de/blog/ninjaone-als-nr-1-in-13-kategorien-im-g2-herbstbericht-2025-ausgezeichnet/",
+      "https://www.ninjaone.com/de/blog/die-besten-systemadministrator-tools-fuer-it-experten/"
     ]
   },
   "smilewanted.com": {
-    "lastAt": 1758875627684,
+    "lastAt": 1759242277334,
     "urls": []
   },
   "inc.com": {
-    "lastAt": 1758875632863,
+    "lastAt": 1759242282442,
     "urls": []
   },
   "feedburner.com": {
-    "lastAt": 1758875633832,
+    "lastAt": 1759242283440,
     "urls": [
       "https://feedburner.com/"
     ]
   },
   "pcmag.com": {
-    "lastAt": 1758875638453,
+    "lastAt": 1759242287909,
     "urls": [
       "https://pcmag.com/",
       "https://www.pcmag.com/categories/lenses/brands/sigma",
@@ -40867,25 +40926,35 @@
       "https://www.pcmag.com/categories/cameras/brands/fujifilm",
       "https://www.pcmag.com/categories/graphics-cards/brands/amd",
       "https://www.pcmag.com/categories/desktop-pcs/brands/hp",
-      "https://www.pcmag.com/categories/mobile-phones/brands/motorola"
+      "https://www.pcmag.com/categories/mobile-phones/brands/motorola",
+      "https://www.pcmag.com/categories/mobile-phones/brands/samsung",
+      "https://www.pcmag.com/categories/printers/brands/hp",
+      "https://www.pcmag.com/categories/cameras/brands/sony",
+      "https://www.pcmag.com/categories/tvs/brands/lg",
+      "https://www.pcmag.com/categories/pc-cases/brands/silverstonetechnology",
+      "https://www.pcmag.com/categories/laptops/brands/apple",
+      "https://www.pcmag.com/categories/headphones/brands/skullcandy",
+      "https://www.pcmag.com/categories/lenses/brands/canon",
+      "https://www.pcmag.com/categories/tvs/brands/sony",
+      "https://www.pcmag.com/categories/keyboards/brands/logitech"
     ]
   },
   "vercel.app": {
-    "lastAt": 1758875638981,
+    "lastAt": 1759242288544,
     "urls": [
       "https://vercel.app/"
     ]
   },
   "inbake.com": {
-    "lastAt": 1758875697797,
+    "lastAt": 1759242347357,
     "urls": []
   },
   "samsungiotcloud.com": {
-    "lastAt": 1758875700812,
+    "lastAt": 1759242350802,
     "urls": []
   },
   "squareup.com": {
-    "lastAt": 1758875703979,
+    "lastAt": 1759242354021,
     "urls": [
       "https://squareup.com/",
       "https://squareup.com/us/en/legal/general/odd-pricing",
@@ -40926,11 +40995,21 @@
       "https://squareup.com/us/en/legal/general/baber-evo-legal",
       "https://squareup.com/us/en/legal/general/billpay-bpf",
       "https://squareup.com/us/en/legal/general/appointments/clp/savanna-boda-nyc-official-rules",
-      "https://squareup.com/us/en/legal/general/data-processing-terms"
+      "https://squareup.com/us/en/legal/general/data-processing-terms",
+      "https://squareup.com/us/en/legal/general/financial-services-tos",
+      "https://squareup.com/us/en/legal/general/square-local-tos",
+      "https://squareup.com/us/en/legal/general/tidal-potc",
+      "https://squareup.com/us/en/legal/general/payment-archive-2023",
+      "https://squareup.com/us/en/legal/general/ua-archive-2023",
+      "https://squareup.com/us/en/legal/general/square-go-terms",
+      "https://squareup.com/us/en/legal/general/ach-service-terms",
+      "https://squareup.com/us/en/legal/general/square-potc",
+      "https://squareup.com/us/en/legal/general/tidal-potc-nts",
+      "https://squareup.com/us/en/legal/general/team"
     ]
   },
   "ringcentral.com": {
-    "lastAt": 1758875707053,
+    "lastAt": 1759242358776,
     "urls": [
       "https://www.ringcentral.com/",
       "https://www.ringcentral.com/1800-number.html",
@@ -40971,15 +41050,25 @@
       "https://www.ringcentral.com/chatbots.html",
       "https://www.ringcentral.com/ccaas.html",
       "https://www.ringcentral.com/cheap-voip-service.html",
-      "https://www.ringcentral.com/cloud_pbx_microsoft_teams.html"
+      "https://www.ringcentral.com/cloud_pbx_microsoft_teams.html",
+      "https://www.ringcentral.com/cloud-call-center.html",
+      "https://www.ringcentral.com/cloud-communications-security.html",
+      "https://www.ringcentral.com/cloud-contact-center.html",
+      "https://www.ringcentral.com/cloud-pbx.html",
+      "https://www.ringcentral.com/cloudconnector.html",
+      "https://www.ringcentral.com/cobrowsing.html",
+      "https://www.ringcentral.com/collaborative_high_tech_ebook.html",
+      "https://www.ringcentral.com/company.html",
+      "https://www.ringcentral.com/company/careers/internship-program.html",
+      "https://www.ringcentral.com/company/careers.html"
     ]
   },
   "startappservice.com": {
-    "lastAt": 1758875710170,
+    "lastAt": 1759242361775,
     "urls": []
   },
   "kpmg.com": {
-    "lastAt": 1758875715733,
+    "lastAt": 1759242366494,
     "urls": [
       "https://kpmg.com/xx/en.html",
       "https://kpmg.com/",
@@ -41020,19 +41109,29 @@
       "https://kpmg.com/xx/en/contacts/a/bozorg-amiri.html",
       "https://kpmg.com/xx/en/contacts/a/attila-aranyi.html",
       "https://kpmg.com/xx/en/contacts/a/austin-abas.html",
-      "https://kpmg.com/xx/en/contacts/a/bronwyn-allan.html"
+      "https://kpmg.com/xx/en/contacts/a/bronwyn-allan.html",
+      "https://kpmg.com/xx/en/contacts/a/charles-abbey.html",
+      "https://kpmg.com/xx/en/contacts/a/charles-armstrong.html",
+      "https://kpmg.com/xx/en/contacts/a/celine-allenbach.html",
+      "https://kpmg.com/xx/en/contacts/a/bryn-anderson.html",
+      "https://kpmg.com/xx/en/contacts/a/camille-asaro.html",
+      "https://kpmg.com/xx/en/contacts/a/christian-athanasoulas.html",
+      "https://kpmg.com/xx/en/contacts/a/chris-allen.html",
+      "https://kpmg.com/xx/en/contacts/a/christian-aldana-castillo.html",
+      "https://kpmg.com/xx/en/contacts/a/claire-angell.html",
+      "https://kpmg.com/xx/en/contacts/a/claudia-arevalo.html"
     ]
   },
   "hwcdn.ru": {
-    "lastAt": 1758875720233,
+    "lastAt": 1759242370624,
     "urls": []
   },
   "bing.net": {
-    "lastAt": 1758878690968,
+    "lastAt": 1759242373725,
     "urls": []
   },
   "photobucket.com": {
-    "lastAt": 1758878691369,
+    "lastAt": 1759242374154,
     "urls": [
       "https://photobucket.com/",
       "https://photobucket.com/accessibility-commitment",
@@ -41043,7 +41142,7 @@
     ]
   },
   "tbank.ru": {
-    "lastAt": 1758878700803,
+    "lastAt": 1759242382043,
     "urls": [
       "https://www.tbank.ru/bank/help/general/self-employed/work/connect-to-the-service/",
       "https://www.tbank.ru/bank/help/loans/nopledge/use-and-pay/",
@@ -41080,11 +41179,18 @@
       "https://www.tbank.ru/insurance/help/europrotocol-pomoshnik-osago/",
       "https://www.tbank.ru/business/help/business-payout/salary/connect-for-yandex/",
       "https://www.tbank.ru/bank/help/debit-cards/magnit-black/",
-      "https://www.tbank.ru/bank/help/credit-cards/magnit-platinum/"
+      "https://www.tbank.ru/bank/help/credit-cards/magnit-platinum/",
+      "https://www.tbank.ru/invest/help/situation/",
+      "https://www.tbank.ru/bank/help/crisis-faq/",
+      "https://www.tbank.ru/invest/help/voting-share/",
+      "https://www.tbank.ru/invest/help/money-supply/",
+      "https://www.tbank.ru/invest/help/stock-return/",
+      "https://www.tbank.ru/invest/help/share-class/",
+      "https://www.tbank.ru/invest/help/clearing/"
     ]
   },
   "akamai.com": {
-    "lastAt": 1758878769613,
+    "lastAt": 1759242450853,
     "urls": []
   },
   "chartbeat.net": {
