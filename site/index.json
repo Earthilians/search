@@ -283687,5 +283687,586 @@
     "title": "アプリ内購入イベントをBrazeに送信 – RevenueCat",
     "description": "Brazeでアプリ内購入イベントを使用すると、顧客のコンテキストや行動を理解したコンテンツを作成するのに役立ちます。",
     "text": "Brazeでアプリ内購入イベントを使用することで、顧客のコンテキストや行動を理解したコンテンツを作成するのに役立ちます。\n無料トライアル終了間際のユーザーにオンボーディングキャンペーンを送信します。\n"
+  },
+  {
+    "id": "b663c1ec143509a6b9b31bd55a1cc95b3a121405",
+    "url": "https://www.mediavine.com/happy-new-years-mediavine/",
+    "title": "Happy New Years from Mediavine - Mediavine",
+    "description": "As a business built entirely on word of mouth, with absolutely no outbound marketing, we know that's",
+    "text": "This past year has seen explosive growth for the network. As a business built entirely on word of mo"
+  },
+  {
+    "id": "5cdcf73aff4b06ce91db9f991b6f66d06ed1d0aa",
+    "url": "https://www.mediavine.com/mediavine-ssl-ads-go-secure/",
+    "title": "Mediavine SSL Ads: Should You Go Secure? - Mediavine",
+    "description": "Mediavine SSL ads: Should you go secure? Find out how to prepare your site for a switch from http to",
+    "text": "For nearly two years, Mediavine has supported SSL ads, but has never encouraged publishers run them."
+  },
+  {
+    "id": "e2b55cd7a0f239dd352c4345daa320e3c95572cb",
+    "url": "https://www.mediavine.com/are-mediavine-ads-ssl-compatible-our-guide-to-going-ssl/",
+    "title": "Are Mediavine Ads SSL Compatible? Our guide to going HTTPS - Mediavine",
+    "description": "Yes! Mediavine Ads are SSL compatible. Just follow this guide to make sure you've set up your site t",
+    "text": "Yes! Mediavine Ads are SSL compatible. Just follow this guide to make sure you’ve set up your site t"
+  },
+  {
+    "id": "20dd85570b8a2e5773ae3deab0dfd3452d555f9e",
+    "url": "https://www.mediavine.com/push-notifications-drive-traffic-best-users/",
+    "title": "What Are Push Notifications? Drive More Traffic From Your Best Users - Mediavine",
+    "description": "Website push notifications are a emerging tool for publishers How to use push notifications to garne",
+    "text": "Website push notifications are an emerging tool for publishers looking to reach their audience in re"
+  },
+  {
+    "id": "3d5ada16ec10016f3340129e431b315142dbbf57",
+    "url": "https://www.mediavine.com/blogger-interview-mel-mels-kitchen-cafe/",
+    "title": "Blogger Interview: Mel Gunnell of Mel's Kitchen Cafe - Mediavine",
+    "description": "Read our blogger interview with Mel Gunnell of Mel's Kitchen Cafe. Take an insightful look into her ",
+    "text": "Today we are chatting with Mel Gunnell, of none other than Mel’s Kitchen Cafe. I’ve been a big fan f"
+  },
+  {
+    "id": "1ec47ab54d09f627a4d6c83590789c8383beb6af",
+    "url": "https://www.mediavine.com/skippable-vs-non-skippable-video-ads/",
+    "title": "Skippable vs Non Skippable Video Ads - Mediavine",
+    "description": "Ever wonder why you're making so little money at YouTube despite all those views you're getting? A l",
+    "text": "Thanks to the prevalence of skippable video ads on YouTube, our publishers that use the Mediavine vi"
+  },
+  {
+    "id": "1454e2f0f8fa5c6ce3894cdbfcc2a61324a33042",
+    "url": "https://www.mediavine.com/optimizing-pre-roll-ad-length/",
+    "title": "Optimizing Pre-Roll Ad Length - Mediavine",
+    "description": "We offer the Mediavine Video Player to all of our bloggers. We help monetize those video views via o",
+    "text": "At Mediavine, we offer the Mediavine Video Player to all of our bloggers. This allows publishers who"
+  },
+  {
+    "id": "1ffc26c39b691e2d7feb33bdb8097e6735169320",
+    "url": "https://www.mediavine.com/ads-txt-prevent-ad-fraud-use/",
+    "title": "Ads.txt: How Does it Prevent Ad Fraud (and Why Should I Use it)? - Mediavine",
+    "description": "The IAB announced a new standard, ads.txt, to help fight ad fraud. How does it work and why should y",
+    "text": "Last month, the IAB (Interactive Advertising Bureau) announced a new standard, ads.txt, to help figh"
+  },
+  {
+    "id": "20e3688e88abecd7f7ad44e8a391df2ac6f82d3e",
+    "url": "https://www.mediavine.com/mediavine-google-certified-publishing-partner/",
+    "title": "Mediavine is a Google Certified Publishing Partner - Mediavine",
+    "description": "Mediavine joined a list of fewer than 40 companies around the world as Google Certified Publishing P",
+    "text": "Mediavine is thrilled to announce that after being extensively vetted, and having exceeded rigorous "
+  },
+  {
+    "id": "f0cd5b37042fa2624717bee28f9e5c8ba3cfb569",
+    "url": "https://www.mediavine.com/lazy-loading-ads-mediavine-ads-load-200-faster/",
+    "title": "Lazy Loading Ads: Why Mediavine Ads Load 200% Faster - Mediavine",
+    "description": "That 200% is actually a conservative estimate. Most Mediavine lazy loading ads will load in a second",
+    "text": "If you know anything about Mediavine, you’re probably aware of our obsession with page speed. We fee"
+  },
+  {
+    "id": "eb4ba812a7a67cd9694a215f7fbe731b21bf0b12",
+    "url": "https://www.airship.com/blog/driving-profitability-and-roi-by-being-customer-obsessed/",
+    "title": "Driving Profitability and ROI by Being Customer-Obsessed | Airship",
+    "description": "",
+    "text": "Tobias Dengel\nConnect with our team of experts to discuss your conversion and loyalty goals, and how"
+  },
+  {
+    "id": "2026efdab1189407683d43466aa33f0166cd4764",
+    "url": "https://www.airship.com/blog/mobile-a-b-testing-adds-an-n/",
+    "title": "Mobile A/B Testing Adds an “n” | Airship",
+    "description": "",
+    "text": "Bill Schneider\nConnect with our team of experts to discuss your conversion and loyalty goals, and ho"
+  },
+  {
+    "id": "653a7612f6a7d289bcdb40402e9eac3e80d63b1f",
+    "url": "https://www.airship.com/blog/track-your-onboarding-efforts-with-these-app-analytics-reports/",
+    "title": "Track Your Onboarding Efforts With These App Analytics Reports | Airship",
+    "description": "",
+    "text": "Kayleigh OMalley\nConnect with our team of experts to discuss your conversion and loyalty goals, and "
+  },
+  {
+    "id": "7b22b35b5e4014270d8913d38afe61a0aea18a8c",
+    "url": "https://www.airship.com/blog/bankings-digital-transformation-see-the-trends-and-technologies-to-consider/",
+    "title": "Banking’s Digital Transformation: See the Trends and Technologies to Consider in this Report | Airsh",
+    "description": "",
+    "text": "Corey Gault\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVP of Communications\nConnect with our team of experts to d"
+  },
+  {
+    "id": "697f889501992be22dfd35eebf9b81cacd70d0db",
+    "url": "https://www.airship.com/blog/urban-airship-anticipates-google-wallet-driving-mass-adoption-of-mobile-loy/",
+    "title": "Urban Airship Anticipates Google Wallet Driving Mass Adoption of Mobile Loyalty Solutions | Airship",
+    "description": "",
+    "text": "Urban Airship Staff\nConnect with our team of experts to discuss your conversion and loyalty goals, a"
+  },
+  {
+    "id": "9c3bd3fb82529158f947d9b58a4b3a8c248f991d",
+    "url": "https://www.airship.com/blog/how-ai-orchestration-works-and-helps-marketers-and-businesses/",
+    "title": "How AI Orchestration Works and Helps Marketers and Businesses | Airship",
+    "description": "",
+    "text": "Nigel Arthur\nConnect with our team of experts to discuss your conversion and loyalty goals, and how "
+  },
+  {
+    "id": "86327aa56808f27333c47b0051d71fc6fd126fad",
+    "url": "https://www.airship.com/blog/leverage-mobile-engagement-to-anticipate-customer-needs/",
+    "title": "Leverage Mobile Engagement to Anticipate Customer Needs | Airship",
+    "description": "",
+    "text": "Connect with our team of experts to discuss your conversion and loyalty goals, and how we can help y"
+  },
+  {
+    "id": "d448cde0505e66c729ca5745fab7a7b1fbc0d2b3",
+    "url": "https://www.airship.com/blog/with-gdpr-in-the-background-digital-protectionism-is-on-the-rise-adweek/",
+    "title": "With GDPR in the Background, Digital Protectionism Is on the Rise | Airship",
+    "description": "",
+    "text": "Mike Herrick\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSVP of Technology\nConnect with our team of experts to dis"
+  },
+  {
+    "id": "55e9d82c99d5a35fde837e78cd6af95ab979dfe1",
+    "url": "https://www.airship.com/blog/the-evolution-of-a-new-mobile-wallet-feature-batch-importer/",
+    "title": "The Evolution Of A New Mobile Wallet Feature: Batch Importer | Airship",
+    "description": "",
+    "text": "Henry Lyne\nConnect with our team of experts to discuss your conversion and loyalty goals, and how we"
+  },
+  {
+    "id": "002cf4e7379940cfaeeda71c845fad49b28ad0af",
+    "url": "https://www.airship.com/blog/mobile-engagement-embraces-google-analytics/",
+    "title": "Mobile Engagement Embraces Google Analytics | Airship",
+    "description": "",
+    "text": "Greg Weinger and Michael Richardson\nConnect with our team of experts to discuss your conversion and "
+  },
+  {
+    "id": "b3582c04afe88debae96f6f5a293e5a1b022330f",
+    "url": "https://www.insales.ru/page/vacancy-support",
+    "title": "Вакансия InSales - Cпециалист клиентской технической поддержки",
+    "description": "Вакансия InSales - Cпециалист клиентской технической поддержки: Мы ищем в нашу команду специалиста к",
+    "text": "Мы ищем в нашу команду специалиста клиентской поддержки, который поможет разобраться с функциями и п"
+  },
+  {
+    "id": "3e6a70c2b9069e92bba87cd51b1e50ff39b89eee",
+    "url": "https://www.insales.ru/page/sajt-iz-vitriny-marketplejsa",
+    "title": "Получи сайт из маркетплейса за 3 шага",
+    "description": "Готовый сайт из магазина на Озон и Вайлдберриз за 1 минуту. Начни зарабатывать на 20 % больше с сайт",
+    "text": ""
+  },
+  {
+    "id": "0c9c8f112cbcd8174a9400f7af5a1cc9faa05c5d",
+    "url": "https://www.insales.ru/page/terms_of_use",
+    "title": "Пользовательское соглашение",
+    "description": "Пользовательское соглашение",
+    "text": "Настоящий документ «Пользовательское соглашение» (далее - «Соглашение») представляет собой предложен"
+  },
+  {
+    "id": "71de4bc7f73850c205c7273378e209a88b5df3c8",
+    "url": "https://www.insales.ru/page/newplans-2024",
+    "title": "Меняем цены на тарифы с 1 июля 2024 года",
+    "description": "Меняем цены на тарифы с 1 июля 2024 года",
+    "text": "С 1 июля 2024 года подписка на inSales станет дороже. Это позволит нам продолжать улучшать платформу"
+  },
+  {
+    "id": "4c6ebd2ece0f3f9bba47ef0ee7358b7b7b751298",
+    "url": "https://www.insales.ru/page/registration",
+    "title": "Регистрация в InSales",
+    "description": "Регистрация в InSales",
+    "text": "Укажите email для администрирования интернет-магазина"
+  },
+  {
+    "id": "033310dd1764569280892eb1a03d39bf0c82c6a2",
+    "url": "https://www.insales.ru/page/yookassa_evotor",
+    "title": "Создайте интернет-магазин бесплатно с inSales, Юkassa и Эвотор",
+    "description": "Запустите онлайн-продажи с тройной выгодой за несколько шагов. Создайте интернет-магазин бесплатно н",
+    "text": "Готовый сайт за 15 минут, приём онлайн-платежей и фискализация в одном решении\nПри использовании сер"
+  },
+  {
+    "id": "285abe7f889368d750659fb2e1e7db5692e7ecdf",
+    "url": "https://www.insales.ru/page/cms",
+    "title": "Движок интернет-магазина inSales - лучшая CMS для интернет-магазина",
+    "description": "CMS для интернет-магазина InSales является одним из лучших движков интернет-магазина, так как содерж",
+    "text": "CMS для интернет-магазина inSales является одним из лучших движков интернет-магазина, так как содерж"
+  },
+  {
+    "id": "bd7f8975fe59d7553a5fc00122344d94c0c4cb45",
+    "url": "https://www.insales.ru/page/utm",
+    "title": "Генератор UTM-меток – Компоновщик ЮТМ-меток для Яндекс.Директ, Google Ads, ВКонтакте, Facebook, YouT",
+    "description": "Генератор UTM-меток для Яндекс.Директ, Google Ads, ВКонтакте, Facebook, YouTube, Instagram и TikTok,",
+    "text": "Генерируйте UTM-метки для ссылок в рекламных кампаниях Яндекс.Директ, Google Ads, ВКонтакте, YouTube"
+  },
+  {
+    "id": "5ca7c8950df4526a23d906928dde8f50254039ba",
+    "url": "https://www.insales.ru/page/offer_cms_fl",
+    "title": "Создай интернет-магазин на платформе inSales за 1 день",
+    "description": "Создай интернет-магазин на платформе inSales за 1 день (fl)",
+    "text": "Используй широкий CMS-функционал для управления бизнесом\nЗагружай товары в inSales из разных типов ф"
+  },
+  {
+    "id": "6796972679975875e1bd45f4bdd7b5e981eeaf2f",
+    "url": "https://itch.io/updates/itchio-week-day-5-part-1-itchio-refinery",
+    "title": "itch.io week day 5 part 1: itch.io refinery - itch.io",
+    "description": "Early access has a problem.  Yes, the original idea of releasing in-development games to the public ",
+    "text": "Early access has a problem.\nYes, the original idea of releasing in-development games to the public i"
+  },
+  {
+    "id": "9065528bcfe33d920a6e46bf79025ab4adebc18a",
+    "url": "https://itch.io/updates/itchio-week-day-3-bonus-co-op-bundles",
+    "title": "itch.io week day 3 BONUS: Co-op bundles - itch.io",
+    "description": "This is a bonus post for day 3. In the previous post we talked about our bundling system for solo de",
+    "text": "This is a bonus post for day 3. In the previous post we talked about our bundling system for solo de"
+  },
+  {
+    "id": "2a6e196787abdfe6cbced74d00202098624b9a63",
+    "url": "https://itch.io/updates/itchio-week-day-4dashboard-communitiesarielle-grimes-and-mushbuh",
+    "title": "itch.io week day 4: Dashboard, Communities, Arielle Grimes and Mushbuh - itch.io",
+    "description": "itch.io has always been about building the best tools for the creators that upload their work. itch.",
+    "text": "itch.io has always been about building the best tools for the creators that upload their work. itch."
+  },
+  {
+    "id": "0bf5be7d888d4c85ebd2eb1154b878f3e5cc0ac4",
+    "url": "https://itch.io/updates/itchio-week-day-2-the-widget-robert-yang-kyle-seeley",
+    "title": "itch.io week day 2: The widget, Robert Yang & Kyle Seeley - itch.io",
+    "description": "Ready for day 2 of itch.io week ? In case you missed, yesterday was about the  about the new app . T",
+    "text": "Ready for day 2 of itch.io week? In case you missed, yesterday was about the about the new app.\nMany"
+  },
+  {
+    "id": "af2a3b8f666ed50b5b1cb22a396ff52ec003cd0d",
+    "url": "https://itch.io/updates/itchio-week-day-3-sales-bundleskenney-vleugels-anddaniel-linssen",
+    "title": "itch.io week day 3: Sales, bundles, Kenney Vleugels and Daniel Linssen - itch.io",
+    "description": "Hosting a promotion is powerful tool when you’re trying to sell a game. It’s a good way to get peopl",
+    "text": "Hosting a promotion is powerful tool when you’re trying to sell a game. It’s a good way to get peopl"
+  },
+  {
+    "id": "06c39fd59c0a4c5ef9eccabf6ff5d0ec6562a677",
+    "url": "https://itch.io/updates/itchio-week-day-1-itch-app-ditto",
+    "title": "itch.io week day 1: itch app & Ditto - itch.io",
+    "description": "Thanks for following along with itch.io week . As a reminder, each day this week we’ll be revisiting",
+    "text": "Thanks for following along with itch.io week. As a reminder, each day this week we’ll be revisiting "
+  },
+  {
+    "id": "f731f1723a13d0bb071e86f567fed27a5c201044",
+    "url": "https://itch.io/updates/get-ready-for-itchio-week",
+    "title": "Get ready for itch.io week - itch.io",
+    "description": "Are you ready for 5 days of creators, functionality & more… and our next big release at the end? I h",
+    "text": "Are you ready for 5 days of creators, functionality & more… and our next big release at the end? I h"
+  },
+  {
+    "id": "5d8f60f5c62040f3b0ae95e7532d8cbede2bd7c3",
+    "url": "https://itch.io/updates/introducing-game-embeds",
+    "title": "Introducing Game Embeds - itch.io",
+    "description": "You’ve just finished your  Ludum Dare 35  game, and you’re looking to take advantage of embedding yo",
+    "text": "You’ve just finished your Ludum Dare 35 game, and you’re looking to take advantage of embedding your"
+  },
+  {
+    "id": "33398a46d2f30a8edf2f2a539c1818c6d4311fbe",
+    "url": "https://itch.io/updates/come-say-hello-at-pax-east",
+    "title": "Come say hello at PAX East - itch.io",
+    "description": "Are you going to be at PAX East? Come find Leaf and Chris to talk itch.io. We won’t have a booth but",
+    "text": "Are you going to be at PAX East? Come find Leaf and Chris to talk itch.io. We won’t have a booth but"
+  },
+  {
+    "id": "bc81268ffb1faf49d0ea3b7d27c9bfe19c1c52c8",
+    "url": "https://itch.io/updates/vote-for-itchios-app-on-steam-greenlight",
+    "title": "Vote for itch.io’s app on Steam Greenlight - itch.io",
+    "description": "Thanks for the support over the past 3 years, you can now vote for us on Steam Greenlight! Support i",
+    "text": "Thanks for the support over the past 3 years, you can now vote for us on Steam Greenlight! Support i"
+  },
+  {
+    "id": "672cf31495eb808338bbc4b72b12e32c6eb68a77",
+    "url": "https://www.lazada.com.ph/products/dayway-motorcycle-battery-25l3l4l5l65l7l9l3-battery-charger-motorcycle-accessories-by-if-motor-i4461367698.html",
+    "title": "DAYWAY MOTORCYCLE BATTERY 2.5L/3L/4L/5L/6.5L/7L/9L/3 battery charger motorcycle accessories by IF MO",
+    "description": "DAYWAY BATTERY FOT MOTORCYCLE COD3L 4 5L 7L 9L COD HIGH QUALITY. motorcycle battery for honda tmx 12",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "5985f7555a09a2e5342b898f85fd8c3e86119221",
+    "url": "https://www.lazada.com.ph/products/baygon-shield-defense-multi-insect-killer-500ml-new-odorless-packaging-i4465138130.html",
+    "title": "BAYGON SHIELD DEFENSE MULTI-INSECT KILLER (500ML) NEW ODORLESS PACKAGING | Lazada PH",
+    "description": "SC Johnson",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "79445fd8775f79525d8c3fa1d309951029e9c1b1",
+    "url": "https://www.lazada.com.ph/products/saliva-ejector-disposable-dental-soft-tips-suction-tube-tips-100-pcs-per-1-bag-i4465280225.html",
+    "title": "Saliva Ejector Disposable Dental Soft Tips Suction Tube Tips 100 pcs per 1 Bag | Lazada PH",
+    "description": "portable saliva ejector machine. Plus Plus Tube Shark 100 pcs. saliva ejector tip holder. painless d",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "475a4adf958f95e3e2b74eb6812cd8085c5f31d0",
+    "url": "https://www.lazada.com.ph/products/cttc-miniature-cafe-toy-decoration-model-mini-drink-iced-american-latte-play-house-for-dollhouse-accessories-i4466006078.html",
+    "title": "{CTTC} Miniature Cafe Toy Decoration Model Mini Drink Iced American Latte Play House For Dollhouse A",
+    "description": "Material: Resin. Weight: 2g. Color: As pictures show. Package Includes: 1 pcs Mini Drink Iced Americ",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "7bfba960d55180eadd818263a9abb4b4a462938b",
+    "url": "https://www.lazada.com.ph/products/ulanzi-st-27-ironman-iv-metal-phone-clip-tripod-mount-for-smartphones-i4465928353.html",
+    "title": "Ulanzi ST-27 Ironman IV Metal Phone Clip Tripod Mount for Smartphones | Lazada PH",
+    "description": "Ulanzi Metal. phone accessories",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "b85439e4880fec5d165ad072630ff4e0143793d8",
+    "url": "https://www.lazada.com.ph/products/tactical-wallet-edc-tri-fold-military-fan-wallet-multi-functional-large-capacity-nylon-certificate-holder-card-holder-tactical-cosmetics-bag-i4465023000.html",
+    "title": "Tactical Wallet EDC Tri-Fold Military Fan Wallet Multi-Functional Large Capacity Nylon Certificate H",
+    "description": "Nylon. wallet for men with coin purse. tactical wallets for men. tactical wallet for men. military w",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "d52284723f60e03d2a2cbaedea4030782ec623e2",
+    "url": "https://www.lazada.com.ph/products/naruto-t-shirt-black-shirt-unisex-mens-women-tee-famous-anime-japanese-cartoons-top-i4466195447.html",
+    "title": "Naruto' T shirt Black shirt Unisex mens women tee Famous Anime Japanese Cartoons top | Lazada PH",
+    "description": "JRUEKY CLOTHING Short Sleeve Graphic Print",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "fd3baf11c0123d8350849a41704d3831b331de8f",
+    "url": "https://www.lazada.com.ph/products/t-shirt-for-women-summer-korean-mid-length-short-sleeved-t-shirt-loose-versatile-tshirt-tops-i4467656100.html",
+    "title": "T-shirt for women Summer Korean mid-length short-sleeved T-shirt loose versatile tshirt tops | Lazad",
+    "description": "AMOOR Plain Short Sleeve Korean Cotton Blend. AMOOR",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "47188093131e62201f777e299dffe31c4ca8329f",
+    "url": "https://www.lazada.com.ph/products/big-size-hard-plastic-colorful-shoe-box-shoes-rack-storage-organizer-foldable-drawer-carton-and-case-i4467725172.html",
+    "title": "Big Size Hard Plastic Colorful Shoe Box Shoes Rack Storage Organizer Foldable Drawer Carton And Case",
+    "description": "Polyurethane. lagayan ng sapatos organizer. ph perfect home store. lalagyan ng mga shoes. shoe durab",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "f8be4df44bef1e3e0871377f85372951b8510d9e",
+    "url": "https://www.lazada.com.ph/products/cod-kiddie-casual-dress-self-tie-strap-with-cute-prints-3-7-yrs-old-i4468033651.html",
+    "title": "COD | KIDDIE CASUAL DRESS SELF-TIE STRAP WITH CUTE PRINTS (3-7 yrs old) | Lazada PH",
+    "description": "outfit for kids girls 5 to 6 dress. dress for kids girls little pony. dress for kids 6 years old gir",
+    "text": "Shop through our app to enjoy:\nFor any other inquiries, Click here"
+  },
+  {
+    "id": "c9bfb1c774d1dede66ee885418529c26cfe719ae",
+    "url": "https://www.gettyimages.ae/detail/video/more-flooding-is-on-the-way-as-heavy-rain-continues-to-news-footage/001-03-02EC",
+    "title": "More flooding is on the way, as heavy rain continues to sweep across... Stock Footage Video - Getty ",
+    "description": "More flooding is on the way, as heavy rain continues to sweep across parts of the country. The Envir",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "2c5a0cda8cea1099f8056529df7cfb3a77defa7b",
+    "url": "https://www.gettyimages.ae/detail/video/vision-of-floodwaters-in-the-village-of-yalding-kent-news-footage/001-03-04EC",
+    "title": "Vision of floodwaters in the village of Yalding, Kent.<br>Guid:... Stock Footage Video - Getty Image",
+    "description": "Vision of floodwaters in the village of Yalding, Kent.<br>Guid: ANBM501X<br>Story Number: 001/03/04E",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "5e611293063de5ce550793b75bdd649baaafb9c9",
+    "url": "https://www.gettyimages.ae/detail/video/police-have-named-a-man-they-want-to-question-after-the-news-footage/001-03-05EC",
+    "title": "Police have named a man they want to question, after the remains of... Stock Footage Video - Getty I",
+    "description": "Police have named a man they want to question, after the remains of two women's bodies were discover",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "a7c3e7cf299c0eb2fc742431df1d06ca46edc566",
+    "url": "https://www.gettyimages.ae/detail/video/tony-blair-issues-gloomy-new-year-message-he-cant-recall-news-footage/001-03-06EC",
+    "title": "PM Tony Blair issues gloomy New Year message - he can't recall a time... Stock Footage Video - Getty",
+    "description": "PM Tony Blair issues gloomy New Year message - he can't recall a time when UK faced such &quot;diffi",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "da28ec9220d84b7781a80e251a5cb7d176516d56",
+    "url": "https://www.gettyimages.ae/detail/video/more-flooding-is-on-the-way-as-heavy-rain-continues-to-news-footage/001-03-03EC",
+    "title": "More flooding is on the way, as heavy rain continues to sweep across... Stock Footage Video - Getty ",
+    "description": "More flooding is on the way, as heavy rain continues to sweep across parts of the country. The Envir",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "41a39bfef8064149ccf66cf133681ec9cfef32f6",
+    "url": "https://www.gettyimages.ae/detail/video/tony-blair-issued-gloomy-new-year-message-cant-recall-a-news-footage/001-03-07EC",
+    "title": "PM Tony Blair issued gloomy New Year message - can't recall a time... Stock Footage Video - Getty Im",
+    "description": "PM Tony Blair issued gloomy New Year message - can't recall a time when UK faced such &quot;difficul",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "59ba9c88c48b4cf8a41352f740a4e8cc9e2a98bc",
+    "url": "https://www.gettyimages.ae/detail/video/in-premier-league-football-manchester-united-defeated-news-footage/001-03-09EC",
+    "title": "In Premier League football, Manchester United defeated Sunderland 2-1... Stock Footage Video - Getty",
+    "description": "In Premier League football, Manchester United defeated Sunderland 2-1 at Old Trafford, while Newcast",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "c36f3a0d6b50b8146e08ecbad62a629b2fafbf89",
+    "url": "https://www.gettyimages.ae/detail/video/tony-blair-issued-a-gloomy-new-year-message-cant-recall-a-news-footage/001-03-08EC",
+    "title": "PM Tony Blair issued a gloomy New Year message - can't recall a time... Stock Footage Video - Getty ",
+    "description": "PM Tony Blair issued a gloomy New Year message - can't recall a time when UK faced such &quot;diffic",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "c7a6301c6981835051479276ab8caa4bb3c7b4c2",
+    "url": "https://www.gettyimages.ae/detail/video/the-first-footage-of-the-damage-caused-by-cyclone-zoe-in-news-footage/001-03-10EC",
+    "title": "The first footage of the damage caused by Cyclone Zoe in the South... Stock Footage Video - Getty Im",
+    "description": "The first footage of the damage caused by Cyclone Zoe in the South Pacific, suggests that there are ",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "4fdfd521c65ff3a1dfa52af34c448954efaef746",
+    "url": "https://www.gettyimages.ae/detail/video/the-first-footage-of-the-damage-caused-by-cyclone-zoe-in-news-footage/001-03-11EC",
+    "title": "The first footage of the damage caused by Cyclone Zoe in the South... Stock Footage Video - Getty Im",
+    "description": "The first footage of the damage caused by Cyclone Zoe in the South Pacific, suggests that there are ",
+    "text": "Browse millions of royalty-free images and photos, available in a variety of formats and styles, inc"
+  },
+  {
+    "id": "5ae5e7dd0215f80d9075b4477ee4f7e84ba5ec83",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Flay%C4%B1r%C4%B1q_2.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bfcd55a2fa6ee8349fb18f09c2db5b292628b5da",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Flay%C4%B1r%C4%B1q.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "d81daea8e1b11cdf5529a3c6627b1dc3d4f5f97a",
+    "url": "https://git-scm.com/book/az/v2/ch00/_binary_fayllar.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "c7b4bcd470574e3351417bd311e11a1bdc6fdbda",
+    "url": "https://git-scm.com/book/az/v2/ch00/_ba%C5%9Fqa_gui_l%C9%99r.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "79c922cf2ba5c13fb23eec73b32409b0327b5f1e",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bildri%C5%9Fl%C9%99r_s%C9%99hif%C9%99si.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "760ef59f3a791a72a88b5feaf1de16062a0512ef",
+    "url": "https://git-scm.com/book/az/v2/ch00/_binary_fayllar%C4%B1n_m%C3%BC%C9%99yy%C9%99nl%C9%99%C5%9Fdirilm%C9%99si.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "72f40cc7ce67e93ec08e51ca71686b6252aaf12f",
+    "url": "https://git-scm.com/book/az/v2/ch00/_binary_fayllar%C4%B1_f%C9%99rql%C9%99ndirm%C9%99k.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "662a0ca0b0af6c8ada5df129d06133623764b532",
+    "url": "https://git-scm.com/book/az/v2/ch00/_binary_search.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fd5e12863d89aed7e4e0a17056d443ded1905d6a",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bir_bazaar_deposundan_bir_git_deposu_yarad%C4%B1n.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "215cc33d44751e5ffa3cd2b88f7e8450505f0d75",
+    "url": "https://git-scm.com/book/az/v2/ch00/_bir_commit_i_b%C3%B6lm%C9%99k.html",
+    "title": "Redirecting…",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "3e9a069098cd538b89bb54f00ccdd4125459c621",
+    "url": "https://www.usa.gov/what-is-social-security",
+    "title": "Social Security benefits and how to apply | USAGov",
+    "description": "Understand Social Security benefits and retirement. Get a Social Security number. Replace a Social S",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "bb062a60426c90f8951717a5cd0e7c6f763bb3a1",
+    "url": "https://www.usa.gov/help-with-utility-bills",
+    "title": "Help with utility bills | USAGov",
+    "description": "If you have a low income, you may qualify for help paying your phone and internet bills and help pay",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "a08843deca27d6ec37c049d390c053b5e9db9924",
+    "url": "https://www.usa.gov/help-with-phone-internet-bills",
+    "title": "Get help paying for phone and internet service | USAGov",
+    "description": "See if you qualify for Lifeline, a program that can help you get discounted telephone or internet se",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "275fff2cd5360400696fe63c2251576439e09b16",
+    "url": "https://www.usa.gov/social-security-calculators",
+    "title": "Use Social Security retirement calculators to estimate your benefits | USAGov",
+    "description": "Calculate your future benefits with Social Security’s online tools. Find out your full retirement ag",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "6c8c182b5ce05cd84a47d6cbd0c09037e06fd5b7",
+    "url": "https://www.usa.gov/emergency-food-assistance",
+    "title": "How to get emergency food assistance | USAGov",
+    "description": "If you are hungry now, call 211 to find food in your area. Learn where to get immediate food assista",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "45e4857a8ccd165ffa1d47799b0bdbf7e9959fa3",
+    "url": "https://www.usa.gov/help-with-energy-bills",
+    "title": "Get help with energy bills | USAGov",
+    "description": "Explore LIHEAP, WAP, and other government programs to help pay for your heating, cooling, or home we",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "ecd753eb6a84ce52b55c980b1e1f0fa4ddaa769e",
+    "url": "https://www.usa.gov/social-security-disability",
+    "title": "SSDI and SSI benefits for people with disabilities | USAGov",
+    "description": "Find out if you are eligible for benefits through Social Security Disability Insurance (SSDI) or Sup",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "2ffbbdc6c41d79595adb757d39b4d4494e61c269",
+    "url": "https://www.usa.gov/social-security-report-a-death",
+    "title": "Report the death of a Social Security or Medicare beneficiary | USAGov",
+    "description": "Find out how to cancel Social Security Administration (SSA) benefits when someone who receives Socia",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "ba2be39ded0fd949eedf393506f9ae4c17114850",
+    "url": "https://www.usa.gov/social-security-abroad",
+    "title": "Getting Social Security benefits if you are living outside the U.S. | USAGov",
+    "description": "If you get Social Security benefits, you can still receive payments while you visit or live in most ",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "e7a2b63df8d8886260763d96bda0a080eca4667a",
+    "url": "https://www.usa.gov/social-security-card",
+    "title": "How to get, replace, or correct a Social Security card | USAGov",
+    "description": "Learn how to replace or correct your Social Security card, and find out how to get one for the first",
+    "text": "An official website of the United States government\nHere's how you know\nOfficial websites use .gov\n\t"
+  },
+  {
+    "id": "7b9293af0cf9fc158c274955387a70bfdf248cf2",
+    "url": "https://www.rfc-editor.org/rfcs-per-year",
+    "title": "Number of RFCs Published per Year » RFC Editor",
+    "description": "",
+    "text": "Year index: Click the document count below to see the list of RFCs published in a given year.\nIAB • "
+  },
+  {
+    "id": "9a3ee7f0fe7f1cccf47d448f824f84a815e2d029",
+    "url": "https://www.rfc-editor.org/search",
+    "title": "RFC Search",
+    "description": "",
+    "text": "IAB •  IANA •  IETF  • IRTF  •  ISE  • ISOC\n\nReports  • Site Map  •  Contact Us"
+  },
+  {
+    "id": "d0b1c9ffd04da53e9ff2d68a51fc209f809d872a",
+    "url": "https://www.rfc-editor.org/report-summary/ietf",
+    "title": "Reports at IETF Meetings » RFC Editor",
+    "description": "",
+    "text": "The RFC Editor makes a brief report to the plenary of each IETF meeting. Each report includes a brie"
+  },
+  {
+    "id": "d084c2403a8407bf4d139f5b45af339e809c2493",
+    "url": "https://www.rfc-editor.org/all_clusters.php",
+    "title": "All Document Clusters in the RFC Editor Queue » RFC Editor",
+    "description": "",
+    "text": "The asterisk (*) indicates documents that are normative references, but do\nnot themselves have any n"
   }
 ]
