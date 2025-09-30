@@ -44247,13 +44247,13 @@
     "urls": []
   },
   "huggingface.co": {
-    "lastAt": 1758900307712,
+    "lastAt": 1759267202843,
     "urls": [
       "https://huggingface.co/"
     ]
   },
   "iterable.com": {
-    "lastAt": 1758900315766,
+    "lastAt": 1759267210953,
     "urls": [
       "https://iterable.com/",
       "https://iterable.com/partners/technology/amazon-web-services-aws",
@@ -44294,11 +44294,20 @@
       "https://iterable.com/partners/technology/revv",
       "https://iterable.com/partners/technology/segment",
       "https://iterable.com/partners/technology/sendgrid",
-      "https://iterable.com/partners/technology/sendtric"
+      "https://iterable.com/partners/technology/sendtric",
+      "https://iterable.com/partners/technology/stensul",
+      "https://iterable.com/partners/technology/stitch",
+      "https://iterable.com/partners/technology/tealium",
+      "https://iterable.com/partners/technology/sparkpost",
+      "https://iterable.com/partners/technology/shopify",
+      "https://iterable.com/partners/technology/twilio",
+      "https://iterable.com/partners/technology/workato",
+      "https://iterable.com/partners/technology/wrenchai",
+      "https://iterable.com/partners/technology/wove"
     ]
   },
   "admatic.de": {
-    "lastAt": 1758900321923,
+    "lastAt": 1759267216245,
     "urls": [
       "https://admatic.de/2025/01/03/boost-revenue-and-engagement-with-interstitial-and-scroll-ads/",
       "https://admatic.de/2025/01/02/maximize-your-revenue-with-prebid-header-bidding-a-guide-for-publishers/",
@@ -44328,7 +44337,7 @@
     ]
   },
   "splashtop.com": {
-    "lastAt": 1758900432251,
+    "lastAt": 1759267321307,
     "urls": [
       "https://www.splashtop.com/add-ons/endpoint-management",
       "https://www.splashtop.com/products",
@@ -44369,17 +44378,27 @@
       "https://www.splashtop.com/products/enterprise",
       "https://www.splashtop.com/products/remote-support",
       "https://www.splashtop.com/form/request-enterprise-scripts-and-tasks",
-      "https://www.splashtop.com/form/foxpass-contact-us"
+      "https://www.splashtop.com/form/foxpass-contact-us",
+      "https://www.splashtop.com/awards",
+      "https://www.splashtop.com/foxpass/form/contact-us",
+      "https://www.splashtop.com/free-trial",
+      "https://www.splashtop.com/products/remote-support/trial-hub",
+      "https://www.splashtop.com/foxpass/lp/radius-server",
+      "https://www.splashtop.com/lp/customer-webinars",
+      "https://www.splashtop.com/form/ask-the-experts-remote-access-11-19",
+      "https://www.splashtop.com/form/ask-the-experts-remote-support-12-17",
+      "https://www.splashtop.com/form/ask-the-experts-remote-access-12-17",
+      "https://www.splashtop.com/form/ask-the-experts-remote-support-11-19"
     ]
   },
   "sec.gov": {
-    "lastAt": 1758900443798,
+    "lastAt": 1759267332927,
     "urls": [
       "https://sec.gov/"
     ]
   },
   "samba.tv": {
-    "lastAt": 1758900446303,
+    "lastAt": 1759267335568,
     "urls": [
       "https://www.samba.tv/",
       "https://samba.tv/",
@@ -44420,11 +44439,21 @@
       "https://www.samba.tv/business/press-inquiries",
       "https://www.samba.tv/business/press-kit",
       "https://www.samba.tv/business/press-releases",
-      "https://www.samba.tv/business/lp/holiday-strategy-tips-copy"
+      "https://www.samba.tv/business/lp/holiday-strategy-tips-copy",
+      "https://www.samba.tv/users/privacy-center",
+      "https://www.samba.tv/business/lp/ps-data",
+      "https://www.samba.tv/business/lp/ps-audience",
+      "https://www.samba.tv/users/privacy-policy",
+      "https://www.samba.tv/business/publisher",
+      "https://www.samba.tv/business/lp/q122-australia-state-of-report",
+      "https://www.samba.tv/business/lp/real-time-tv-viewership",
+      "https://www.samba.tv/business/resources/reports",
+      "https://www.samba.tv/business/lp/q321-sovr",
+      "https://www.samba.tv/business/lp/q2-21-state-of-viewership-report"
     ]
   },
   "wshareit.com": {
-    "lastAt": 1758900450664,
+    "lastAt": 1759267339691,
     "urls": [
       "https://wshareit.com/",
       "https://www.ushareit.com/news/90/",
@@ -44465,17 +44494,27 @@
       "https://www.ushareit.com/news/75/",
       "https://www.ushareit.com/m/news/77/",
       "https://www.ushareit.com/m/news/75/",
-      "https://www.ushareit.com/news/86/"
+      "https://www.ushareit.com/news/86/",
+      "https://www.ushareit.com/news/85/",
+      "https://www.ushareit.com/news/84/",
+      "https://www.ushareit.com/m/news/84/",
+      "https://www.ushareit.com/m/news/85/",
+      "https://www.ushareit.com/news/82/",
+      "https://www.ushareit.com/m/news/86/",
+      "https://www.ushareit.com/m/news/82/",
+      "https://www.ushareit.com/news/78/",
+      "https://www.ushareit.com/m/news/78/",
+      "https://www.ushareit.com/news/74/"
     ]
   },
   "hbomax.com": {
-    "lastAt": 1758900452076,
+    "lastAt": 1759267340988,
     "urls": [
       "https://hbomax.com/"
     ]
   },
   "bigcartel.com": {
-    "lastAt": 1758900454888,
+    "lastAt": 1759267344201,
     "urls": [
       "https://www.bigcartel.com/resources/help/article/stripe-terminal-for-android",
       "https://bigcartel.com/",
@@ -44516,11 +44555,21 @@
       "https://www.bigcartel.com/resources/help/article/neat-theme",
       "https://www.bigcartel.com/resources/help/article/create-product-option-groups",
       "https://www.bigcartel.com/resources/help/article/create-privacy-policy",
-      "https://www.bigcartel.com/resources/help/article/tiktok-pixel"
+      "https://www.bigcartel.com/resources/help/article/tiktok-pixel",
+      "https://www.bigcartel.com/product/pricing",
+      "https://www.bigcartel.com/resources/help/article/subscriptions",
+      "https://www.bigcartel.com/resources/help/article/netizen-theme",
+      "https://www.bigcartel.com/resources/help/article/delete-a-product",
+      "https://www.bigcartel.com/resources/help/article/faq",
+      "https://www.bigcartel.com/resources/help/article/set-up-checkout",
+      "https://www.bigcartel.com/resources/help/article/create-shop-terms",
+      "https://www.bigcartel.com/resources/help/article/cosmos-theme",
+      "https://www.bigcartel.com/resources/help/article/ranger-theme",
+      "https://www.bigcartel.com/resources/help/article/edit-a-product-url"
     ]
   },
   "broadcom.com": {
-    "lastAt": 1758900458733,
+    "lastAt": 1759267346978,
     "urls": [
       "https://www.broadcom.com/products/ethernet-connectivity/phy-and-poe/optical/bcm83820",
       "https://broadcom.com/",
@@ -44561,77 +44610,87 @@
       "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/plcc-4-leds/flat-top/asmt-sgb5-nw703",
       "https://www.broadcom.com/products/leds-and-displays/surface-mount-plcc/plcc-4-leds/flat-top/asmt-sbb5-nt703",
       "https://www.broadcom.com/products/leds-and-displays/standard-brightness/3mm-t1/hlmp-nw50-u0000",
-      "https://www.broadcom.com/products/leds-and-displays/standard-brightness/bicolor/hl3p-62c0-000mc"
+      "https://www.broadcom.com/products/leds-and-displays/standard-brightness/bicolor/hl3p-62c0-000mc",
+      "https://www.broadcom.com/products/leds-and-displays/standard-brightness/3mm-t1/hlmp-nw60-u00dd",
+      "https://www.broadcom.com/products/optocouplers/industrial-plastic/digital-optocouplers/high-speed-cmos/15mbd-acpl-k73n-000e",
+      "https://www.broadcom.com/products/optocouplers/industrial-plastic/digital-optocouplers/high-speed-cmos/15mbd-acpl-074n-000e",
+      "https://www.broadcom.com/products/optocouplers/industrial-plastic/digital-optocouplers/high-speed-cmos/15mbd-acpl-w70n-000e",
+      "https://www.broadcom.com/products/optocouplers/industrial-plastic/digital-optocouplers/high-speed-cmos/15mbd-acpl-m75n-000e",
+      "https://www.broadcom.com/products/storage/raid-controllers/megaraid-9520-2m2",
+      "https://www.broadcom.com/products/leds-and-displays/standard-brightness/3mm-t1/hlmp-nw30-wz000",
+      "https://www.broadcom.com/products/leds-and-displays/infrared-leds/chipled/hsm8-c400",
+      "https://www.broadcom.com/products/leds-and-displays/chip-leds/0201-0.65-x-0.38mm-top-mount/hsmc-c200",
+      "https://www.broadcom.com/products/leds-and-displays/chip-leds/0201-0.65-x-0.38mm-top-mount/hsma-c200"
     ]
   },
   "163img.com": {
-    "lastAt": 1758900517554,
+    "lastAt": 1759267405791,
     "urls": []
   },
   "foggymorningmist.com": {
-    "lastAt": 1758900521028,
+    "lastAt": 1759267408997,
     "urls": []
   },
   "arcticwolf.net": {
-    "lastAt": 1758900524631,
+    "lastAt": 1759267412743,
     "urls": []
   },
   "geoedge.be": {
-    "lastAt": 1758900528020,
+    "lastAt": 1759267415638,
     "urls": []
   },
   "emptyfieldgrassm.com": {
-    "lastAt": 1758900531184,
+    "lastAt": 1759267418680,
     "urls": []
   },
   "nyu.edu": {
-    "lastAt": 1758900533584,
+    "lastAt": 1759267420559,
     "urls": [
       "https://nyu.edu/"
     ]
   },
   "ogury.io": {
-    "lastAt": 1758900537566,
+    "lastAt": 1759267424285,
     "urls": []
   },
   "aboutcookies.org": {
-    "lastAt": 1758900540343,
+    "lastAt": 1759267426542,
     "urls": [
       "https://aboutcookies.org/"
     ]
   },
   "spectrum.com": {
-    "lastAt": 1758900603154,
+    "lastAt": 1759267487363,
     "urls": []
   },
   "rtbcdn.ru": {
-    "lastAt": 1758900608934,
+    "lastAt": 1759267492734,
     "urls": []
   },
   "mosspf.net": {
-    "lastAt": 1758900612054,
+    "lastAt": 1759267495788,
     "urls": []
   },
   "websitewelcome.com": {
-    "lastAt": 1758900613215,
+    "lastAt": 1759267497066,
     "urls": [
       "https://websitewelcome.com/"
     ]
   },
   "ssrn.com": {
-    "lastAt": 1758900616948,
+    "lastAt": 1759267500861,
     "urls": [
       "https://ssrn.com/"
     ]
   },
   "myhostadmin.net": {
-    "lastAt": 1758900619570,
+    "lastAt": 1759267503298,
     "urls": [
       "https://myhostadmin.net/"
     ]
   },
   "lazada.co.id": {
-    "lastAt": 1758900651135,
+    "lastAt": 1759267533320,
     "urls": [
       "https://www.lazada.co.id/tag/uniqlo-x-marni/",
       "https://www.lazada.co.id/tag/kucing-abu-abu-putih/",
@@ -44669,15 +44728,25 @@
       "https://www.lazada.co.id/tag/akari-tv-smart-besar/",
       "https://www.lazada.co.id/tag/kaos-rjp-pria-dewasa/",
       "https://www.lazada.co.id/tag/burkat-outer/",
-      "https://www.lazada.co.id/tag/prop-money/"
+      "https://www.lazada.co.id/tag/prop-money/",
+      "https://www.lazada.co.id/products/buku-admistrasi-bidan-klinik-dll-ukuran-folio-f4-i7106234362.html",
+      "https://www.lazada.co.id/products/vakum-megapro-new-monoshock-verza-karet-skep-jarum-vakum-per-karburator-mega-pro-mono-shock-i7075152633.html",
+      "https://www.lazada.co.id/products/drum-elektrik-portable-phip-9-silicone-pads-usb-supply-i7103654520.html",
+      "https://www.lazada.co.id/products/lumpur-vulkanik-body-wash-sabun-pemutih-badan-260ml--whitening--exfoliate--improve-skin-texture-i7099326218.html",
+      "https://www.lazada.co.id/products/sandal-gladys-series-by-genuine-leather-i7078802677.html",
+      "https://www.lazada.co.id/products/batok-lampu-depan-belakang-yamaha-mio-new-mio-smile--reflektor-depan-komplit-tinggal-pasang-i7172620213.html",
+      "https://www.lazada.co.id/products/knalpot-krace-new-nmax-standar-racing--knalpot-new-nmax-krace--knalpot-krace-krace-k-race-new-nmax-i7214464248.html",
+      "https://www.lazada.co.id/products/kikir-kuku-7-sisi-nail-buffer-7-steps-alat-penghalus-amplas-nail-art-manicure-pedicure-perawatan-pengkilap-i7238458847.html",
+      "https://www.lazada.co.id/products/shodoo-outsider-kamen-rider-10-zeroone-ark-zero--ark-one-2set-i7246284631.html",
+      "https://www.lazada.co.id/products/botol-minum-smiggle-botol-minum-anak-sekolah-warna-warni-lucu-flip-top-body-colorful-premiummart-i7174504719.html"
     ]
   },
   "spbycdn.com": {
-    "lastAt": 1758900656406,
+    "lastAt": 1759267537352,
     "urls": []
   },
   "vkplay.ru": {
-    "lastAt": 1758904115423,
+    "lastAt": 1759267546902,
     "urls": [
       "https://vkplay.ru/",
       "https://vkplay.ru/play/game/solar_struggle_survival/",
@@ -44718,19 +44787,29 @@
       "https://vkplay.ru/play/game/nav/",
       "https://vkplay.ru/play/game/northflower-the-last-watch/",
       "https://vkplay.ru/play/game/starcross/",
-      "https://vkplay.ru/play/game/after_the_end/"
+      "https://vkplay.ru/play/game/after_the_end/",
+      "https://vkplay.ru/play/game/saints-row-gold-edition/",
+      "https://vkplay.ru/play/game/word_rescue/",
+      "https://vkplay.ru/play/game/dance_dance_revolution_universe_2/",
+      "https://vkplay.ru/play/game/jurassic-world-evolution-3/",
+      "https://vkplay.ru/play/game/solar_struggle/",
+      "https://vkplay.ru/play/game/the_puzzle_3d/",
+      "https://vkplay.ru/play/game/tap_bubble_simulator/",
+      "https://vkplay.ru/play/game/arcade_horse_racing/",
+      "https://vkplay.ru/play/game/reentry-an-orbital-simulator/",
+      "https://vkplay.ru/play/game/naval_campaigns_1_jutland/"
     ]
   },
   "redditmedia.com": {
-    "lastAt": 1758904119051,
+    "lastAt": 1759267549902,
     "urls": []
   },
   "icndns.net": {
-    "lastAt": 1758904177868,
+    "lastAt": 1759267608714,
     "urls": []
   },
   "usertrust.com": {
-    "lastAt": 1758904236678,
+    "lastAt": 1759267667526,
     "urls": []
   },
   "ihg.com": {
