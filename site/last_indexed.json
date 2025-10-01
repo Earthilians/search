@@ -1,6 +1,6 @@
 {
   "google.com": {
-    "lastAt": 1758950405828,
+    "lastAt": 1759296157322,
     "urls": [
       "https://www.google.com/intl/am/gmail/about/policy/",
       "https://google.com/",
@@ -25,31 +25,31 @@
     ]
   },
   "mail.ru": {
-    "lastAt": 1758950408646,
+    "lastAt": 1759296160122,
     "urls": [
       "https://mail.ru/"
     ]
   },
   "microsoft.com": {
-    "lastAt": 1758950487295,
+    "lastAt": 1759296239732,
     "urls": [
       "https://microsoft.com/"
     ]
   },
   "facebook.com": {
-    "lastAt": 1758950490641,
+    "lastAt": 1759296243575,
     "urls": []
   },
   "amazonaws.com": {
-    "lastAt": 1758950493670,
+    "lastAt": 1759296246631,
     "urls": []
   },
   "googleapis.com": {
-    "lastAt": 1758950497170,
+    "lastAt": 1759296250128,
     "urls": []
   },
   "dzen.ru": {
-    "lastAt": 1758950502905,
+    "lastAt": 1759296257296,
     "urls": [
       "https://dzen.ru/b/ZgPtqqRwAjJG421s",
       "https://dzen.ru/b/ZqkEhTlXzTYLeAY5",
@@ -100,11 +100,21 @@
       "https://dzen.ru/b/ZpC672-ZOxFMH-sv",
       "https://dzen.ru/b/ZAm8UvfUbC_jACoi",
       "https://dzen.ru/b/Z7YryRT93jkwXPzi",
-      "https://dzen.ru/b/Y5cdQGDZ2D24z7zo"
+      "https://dzen.ru/b/Y5cdQGDZ2D24z7zo",
+      "https://dzen.ru/b/Ys7YRjHHIW2rpQVV",
+      "https://dzen.ru/b/Y-9wuzOYUDdXbPxm",
+      "https://dzen.ru/b/Zwk6ML75SGwIR1EH",
+      "https://dzen.ru/b/ZgZlzaRwAjJG5O4X",
+      "https://dzen.ru/b/Z3GckFZLgxb0kvEj",
+      "https://dzen.ru/b/ZlcGxGt-D2NL8L8n",
+      "https://dzen.ru/b/Z0ifr-nWInezKydV",
+      "https://dzen.ru/b/Y_EhzOUPGGPe7QA-",
+      "https://dzen.ru/b/ZrMRzacyHXQEp-Gc",
+      "https://dzen.ru/b/31Mufq5Ng1cOFGsp"
     ]
   },
   "cloudflare.com": {
-    "lastAt": 1758950506687,
+    "lastAt": 1759296261362,
     "urls": [
       "https://www.cloudflare.com/zero-trust/products/dlp/",
       "https://www.cloudflare.com/forstartups/",
@@ -151,11 +161,20 @@
       "https://www.cloudflare.com/developer-platform/products/hyperdrive/",
       "https://www.cloudflare.com/aiindex-signup/",
       "https://www.cloudflare.com/the-net/protect-client-side-environment/",
-      "https://www.cloudflare.com/lp/securitybuildersworkshops/"
+      "https://www.cloudflare.com/lp/securitybuildersworkshops/",
+      "https://www.cloudflare.com/performance/ensure-application-availability/",
+      "https://www.cloudflare.com/enterprise/",
+      "https://www.cloudflare.com/about-overview/",
+      "https://www.cloudflare.com/performance/accelerate-mobile-experiences/",
+      "https://www.cloudflare.com/integrations/rackspace-managed-services/",
+      "https://www.cloudflare.com/integrations/microsoft-azure/",
+      "https://www.cloudflare.com/integrations/ibm-cloud-internet-services/",
+      "https://www.cloudflare.com/integrations/kubernetes/",
+      "https://www.cloudflare.com/gaming/"
     ]
   },
   "youtube.com": {
-    "lastAt": 1758950509214,
+    "lastAt": 1759296263681,
     "urls": [
       "https://www.youtube.com/ads/",
       "https://www.youtube.com/ads/how-it-works/create-a-video-ad/",
@@ -206,11 +225,21 @@
       "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/rakuten/",
       "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/senpai/",
       "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/south-dakota-school-of-mines-technology/",
-      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/tulanes-closet/"
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/tulanes-closet/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/lstn-headphones/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/xfinity/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/missouri-star-quilt-company/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/william-painter/",
+      "https://www.youtube.com/intl/ALL_br/ads/resources/success-stories/united-airlines/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/rakuten/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/tulanes-closet/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/united-airlines/",
+      "https://www.youtube.com/intl/ALL_ca/ads/resources/success-stories/william-painter/",
+      "https://www.youtube.com/intl/ALL_cl/ads/"
     ]
   },
   "apple.com": {
-    "lastAt": 1758950518220,
+    "lastAt": 1759296271128,
     "urls": [
       "https://apple.com/",
       "https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/",
@@ -227,35 +256,38 @@
       "https://www.apple.com/accessibility/",
       "https://www.apple.com/accessibility/features/",
       "https://www.apple.com/accessibility/features/?hearing",
-      "https://www.apple.com/accessibility/features/?vision"
+      "https://www.apple.com/accessibility/features/?vision",
+      "https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/",
+      "https://www.apple.com/newsroom/2025/09/apple-announces-final-cut-camera-2-0/",
+      "https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/"
     ]
   },
   "instagram.com": {
-    "lastAt": 1758950519556,
+    "lastAt": 1759296272533,
     "urls": [
       "https://instagram.com/"
     ]
   },
   "akamai.net": {
-    "lastAt": 1758950522736,
+    "lastAt": 1759296275434,
     "urls": []
   },
   "gstatic.com": {
-    "lastAt": 1758950525694,
+    "lastAt": 1759296278392,
     "urls": []
   },
   "twitter.com": {
-    "lastAt": 1758950526602,
+    "lastAt": 1759296279186,
     "urls": [
       "https://twitter.com/"
     ]
   },
   "akamaiedge.net": {
-    "lastAt": 1758950530052,
+    "lastAt": 1759296282597,
     "urls": []
   },
   "office.com": {
-    "lastAt": 1758950530532,
+    "lastAt": 1759296283281,
     "urls": [
       "https://office.com/"
     ]
@@ -48317,25 +48349,25 @@
     ]
   },
   "orcid.org": {
-    "lastAt": 1758921556505,
+    "lastAt": 1759296283745,
     "urls": [
       "https://orcid.org/"
     ]
   },
   "webs.com": {
-    "lastAt": 1758921557267,
+    "lastAt": 1759296284437,
     "urls": [
       "https://webs.com/"
     ]
   },
   "redislabs.com": {
-    "lastAt": 1758921558513,
+    "lastAt": 1759296285595,
     "urls": [
       "https://redislabs.com/"
     ]
   },
   "nubank.com.br": {
-    "lastAt": 1758921561286,
+    "lastAt": 1759296287359,
     "urls": [
       "https://nubank.com.br/pedir/nu",
       "https://nubank.com.br/ajuda-e-seguranca/central-de-protecao",
@@ -48376,29 +48408,39 @@
       "https://nubank.com.br/contratos/termos-e-condicoes-nubankmais",
       "https://nubank.com.br/contratos/termos-e-condicoes-emprestimo-dinheiro-como-garantia",
       "https://nubank.com.br/contratos/termos-e-condicoes-antecipacao-saque-aniversario-fgts",
-      "https://nubank.com.br/contratos/contrato-e-regulamento-nubank-ultravioleta"
+      "https://nubank.com.br/contratos/contrato-e-regulamento-nubank-ultravioleta",
+      "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/security-policy",
+      "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-seguranca",
+      "https://nubank.com.br/transparencia/cessao-creditos-desenrola",
+      "https://nubank.com.br/contratos/termos-e-condicoes-assistente-de-cobrancas",
+      "https://nubank.com.br/contratos/contrato-cartao-de-credito-para-menores-de-idade",
+      "https://nubank.com.br/transparencia/politicas-de-privacidade-e-seguranca/politica-de-seguridad",
+      "https://nubank.com.br/contratos/termos-e-condicoes-cartao-nu-empresas",
+      "https://nubank.com.br/contratos/termos-e-condicoes-link-de-pagamento",
+      "https://nubank.com.br/contratos/termos-e-condicoes-emprestimo-desenrola",
+      "https://nubank.com.br/contratos/termos-e-condicoes-tap-to-pay"
     ]
   },
   "cloudflarestorage.com": {
-    "lastAt": 1758921630095,
+    "lastAt": 1759296356167,
     "urls": []
   },
   "tospotify.com": {
-    "lastAt": 1758921633236,
+    "lastAt": 1759296359413,
     "urls": []
   },
   "isnssdk.com": {
-    "lastAt": 1758921636299,
+    "lastAt": 1759296362682,
     "urls": []
   },
   "ucdavis.edu": {
-    "lastAt": 1758921641490,
+    "lastAt": 1759296367514,
     "urls": [
       "https://ucdavis.edu/"
     ]
   },
   "smithsonianmag.com": {
-    "lastAt": 1758921644498,
+    "lastAt": 1759296369474,
     "urls": [
       "https://www.smithsonianmag.com/",
       "https://www.smithsonianmag.com/about/",
@@ -48439,11 +48481,21 @@
       "https://www.smithsonianmag.com/december/",
       "https://www.smithsonianmag.com/podcast/",
       "https://www.smithsonianmag.com/newsletters/manage/confirm/",
-      "https://www.smithsonianmag.com/newsletters/signup/confirm/"
+      "https://www.smithsonianmag.com/newsletters/signup/confirm/",
+      "https://www.smithsonianmag.com/video/",
+      "https://www.smithsonianmag.com/smart-news/a-free-outdoor-sculpture-park-dedicated-to-pablo-picasso-is-coming-to-paris-180987420/",
+      "https://www.smithsonianmag.com/arts-culture/why-are-some-of-the-worlds-best-directors-reviving-this-special-film-format-created-in-the-1950s-180987424/",
+      "https://www.smithsonianmag.com/smart-news/the-iconic-cover-of-david-bowies-aladdin-sane-could-become-the-most-expensive-album-artwork-ever-sold-180987409/",
+      "https://www.smithsonianmag.com/smart-news/hide-from-predators-some-animals-camouflage-surroundings-others-display-bright-colors-warning-what-keeps-safest-180987418/",
+      "https://www.smithsonianmag.com/smart-news/trees-in-the-amazon-might-be-more-resilient-to-climate-change-than-we-thought-180987416/",
+      "https://www.smithsonianmag.com/smart-news/scientists-reconstruct-a-million-year-old-skull-and-suggest-it-could-rewrite-our-timeline-of-human-evolution-180987419/",
+      "https://www.smithsonianmag.com/smart-news/archaeologists-discover-mysterious-earthwork-circles-built-6500-years-ago-nearly-2000-years-before-stonehenge-180987417/",
+      "https://www.smithsonianmag.com/smart-news/archaeologists-unearth-seven-rare-wampum-beads-at-17th-century-english-settlement-in-canada-180987413/",
+      "https://www.smithsonianmag.com/science-nature/gulls-spit-up-gunk-can-help-ecologists-understand-human-pollution-180987407/"
     ]
   },
   "geotrust.com": {
-    "lastAt": 1758921649385,
+    "lastAt": 1759296377522,
     "urls": [
       "https://www.geotrust.com/",
       "https://www.geotrust.com/tls-ssl/compare-certificates",
@@ -48482,25 +48534,28 @@
       "https://www.geotrust.com/support/ssl-validation-process",
       "https://www.geotrust.com/sitemap",
       "https://www.geotrust.com/knowledgebase",
-      "https://www.geotrust.com/404"
+      "https://www.geotrust.com/404",
+      "https://www.geotrust.com/jp/tls-ssl/tls-ssl-certificates",
+      "https://www.geotrust.com/jp",
+      "https://www.geotrust.com/jp/tls-ssl/wildcard-multi-domain-ssl-certificates"
     ]
   },
   "onetrust.io": {
-    "lastAt": 1758921652481,
+    "lastAt": 1759296380828,
     "urls": []
   },
   "getgo.com": {
-    "lastAt": 1758921711292,
+    "lastAt": 1759296439666,
     "urls": []
   },
   "oppomobile.com": {
-    "lastAt": 1758921713279,
+    "lastAt": 1759296442418,
     "urls": [
       "https://oppomobile.com/"
     ]
   },
   "stumbleupon.com": {
-    "lastAt": 1758921713927,
+    "lastAt": 1759296442713,
     "urls": [
       "https://stumbleupon.com/"
     ]
