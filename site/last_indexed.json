@@ -5302,13 +5302,13 @@
     "urls": []
   },
   "vkontakte.ru": {
-    "lastAt": 1758982728995,
+    "lastAt": 1759332176053,
     "urls": [
       "https://vkontakte.ru/"
     ]
   },
   "mts.ru": {
-    "lastAt": 1758982741125,
+    "lastAt": 1759332203089,
     "urls": [
       "https://moskva.mts.ru/personal",
       "https://mts.ru/",
@@ -5359,29 +5359,39 @@
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/shherbinka",
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/elektrostal",
       "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_100mb/golicino",
-      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/solnechnogorsk"
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_1gb/solnechnogorsk",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_100mb/chehov",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/ultra",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_100mb/ramenskoe",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-doma-horosho-mts-home/voskresenskoe",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-doma-horosho-mts-home/vatutinki",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-doma-horosho-mts-home/gazoprovod",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-doma-horosho-mts-home/balashiha",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_100mb/zhukovski",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mts-doma-horosho-mts-home/zheleznodorozhnyj",
+      "https://moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/vip_plus_100mb/lobnya"
     ]
   },
   "byteoversea.net": {
-    "lastAt": 1758982744338,
+    "lastAt": 1759332206541,
     "urls": []
   },
   "hp.com": {
-    "lastAt": 1758982821818,
+    "lastAt": 1759332287006,
     "urls": [
       "https://hp.com/"
     ]
   },
   "mtgglobals.com": {
-    "lastAt": 1758982824902,
+    "lastAt": 1759332290431,
     "urls": []
   },
   "amazon.co.uk": {
-    "lastAt": 1758982829668,
+    "lastAt": 1759332295624,
     "urls": []
   },
   "tinyurl.com": {
-    "lastAt": 1758982833935,
+    "lastAt": 1759332299408,
     "urls": [
       "https://tinyurl.com/",
       "https://tinyurl.com/app/features/custom-links",
@@ -5399,27 +5409,27 @@
     ]
   },
   "who.int": {
-    "lastAt": 1758982837152,
+    "lastAt": 1759332302485,
     "urls": [
       "https://who.int/"
     ]
   },
   "adtrafficquality.google": {
-    "lastAt": 1758982838316,
+    "lastAt": 1759332303686,
     "urls": [
       "https://adtrafficquality.google/"
     ]
   },
   "facebook.net": {
-    "lastAt": 1758982841535,
+    "lastAt": 1759332306800,
     "urls": []
   },
   "samsungcloud.com": {
-    "lastAt": 1758982844610,
+    "lastAt": 1759332309962,
     "urls": []
   },
   "avast.com": {
-    "lastAt": 1758982850908,
+    "lastAt": 1759332316348,
     "urls": [
       "https://www.avast.com/cs-cz/about",
       "https://www.avast.com/ar-sa/about",
@@ -5470,31 +5480,41 @@
       "https://www.avast.com/pl-pl/about",
       "https://www.avast.com/pt-pt/about",
       "https://www.avast.com/ro-ro/about",
-      "https://www.avast.com/ru-kz/about"
+      "https://www.avast.com/ru-kz/about",
+      "https://www.avast.com/sv-se/about",
+      "https://www.avast.com/tr-tr/about",
+      "https://www.avast.com/th-th/about",
+      "https://www.avast.com/tl-ph/about",
+      "https://www.avast.com/vi-vn/about",
+      "https://www.avast.com/zh-cn/about",
+      "https://www.avast.ru/about",
+      "https://www.avast.com/zh-tw/about",
+      "https://www.avast.com/ar-sa/acceptable-use-policy",
+      "https://www.avast.com/ar-ww/acceptable-use-policy"
     ]
   },
   "openx.net": {
-    "lastAt": 1758982851976,
+    "lastAt": 1759332317310,
     "urls": [
       "https://openx.net/"
     ]
   },
   "playstation.net": {
-    "lastAt": 1758982856998,
+    "lastAt": 1759332322405,
     "urls": []
   },
   "crashlytics.com": {
-    "lastAt": 1758982857814,
+    "lastAt": 1759332323176,
     "urls": [
       "https://crashlytics.com/"
     ]
   },
   "2mdn.net": {
-    "lastAt": 1758986365233,
+    "lastAt": 1759332326121,
     "urls": []
   },
   "drom.ru": {
-    "lastAt": 1758986370473,
+    "lastAt": 1759332330895,
     "urls": [
       "https://www.drom.ru/catalog/acura/",
       "https://www.drom.ru/catalog/alpina/",
@@ -5545,19 +5565,29 @@
       "https://www.drom.ru/catalog/lamborghini/",
       "https://www.drom.ru/catalog/land_rover/",
       "https://www.drom.ru/catalog/lexus/",
-      "https://www.drom.ru/catalog/lifan/"
+      "https://www.drom.ru/catalog/lifan/",
+      "https://www.drom.ru/catalog/maserati/",
+      "https://www.drom.ru/catalog/lincoln/",
+      "https://www.drom.ru/catalog/marussia/",
+      "https://www.drom.ru/catalog/lotus/",
+      "https://www.drom.ru/catalog/luxgen/",
+      "https://www.drom.ru/catalog/mazda/",
+      "https://www.drom.ru/catalog/mercedes-benz/",
+      "https://www.drom.ru/catalog/mini/",
+      "https://www.drom.ru/catalog/mitsubishi/",
+      "https://www.drom.ru/catalog/mitsuoka/"
     ]
   },
   "safebrowsing.apple": {
-    "lastAt": 1758986373896,
+    "lastAt": 1759332333968,
     "urls": []
   },
   "media-amazon.com": {
-    "lastAt": 1758986376831,
+    "lastAt": 1759332336915,
     "urls": []
   },
   "launchdarkly.com": {
-    "lastAt": 1758986390712,
+    "lastAt": 1759332339048,
     "urls": [
       "https://launchdarkly.com/",
       "https://launchdarkly.com/events-webinars/",
@@ -5608,11 +5638,21 @@
       "https://launchdarkly.com/blog/instinct-isnt-enough-to-build-software/",
       "https://launchdarkly.com/blog/llm-inference-optimization/",
       "https://launchdarkly.com/blog/view-feature-flags-in-zendesk/",
-      "https://launchdarkly.com/blog/self-healing-software-with-release-observability/"
+      "https://launchdarkly.com/blog/self-healing-software-with-release-observability/",
+      "https://launchdarkly.com/blog/high-impact-experiments/",
+      "https://launchdarkly.com/blog/software-development-tools/",
+      "https://launchdarkly.com/blog/experimentation-for-product-managers/",
+      "https://launchdarkly.com/blog/control-after-deployment/",
+      "https://launchdarkly.com/blog/testing-in-production-for-safety-and-sanity/",
+      "https://launchdarkly.com/blog/snowflake-summit-recap-2023/",
+      "https://launchdarkly.com/blog/trajectory-readling-list/",
+      "https://launchdarkly.com/blog/mabs-not-just-fancy-ab-tests/",
+      "https://launchdarkly.com/blog/experimentation-the-power-of-continuous-improvement/",
+      "https://launchdarkly.com/blog/high-traffic-experimentation-best-practices/"
     ]
   },
   "grammarly.com": {
-    "lastAt": 1758986398325,
+    "lastAt": 1759332347527,
     "urls": [
       "https://www.grammarly.com/",
       "https://www.grammarly.com/signup",
@@ -5659,23 +5699,32 @@
       "https://www.grammarly.com/blog/commonly-confused-words/forego-forgo/",
       "https://www.grammarly.com/blog/vocabulary/loathe/",
       "https://www.grammarly.com/blog/commonly-confused-words/macaron-vs-macaroon-food-term-mistakes/",
-      "https://www.grammarly.com/blog/commonly-confused-words/crummy-crumby/"
+      "https://www.grammarly.com/blog/commonly-confused-words/crummy-crumby/",
+      "https://www.grammarly.com/blog/commonly-confused-words/entitled-titled/",
+      "https://www.grammarly.com/blog/vocabulary/ginormous/",
+      "https://www.grammarly.com/blog/writing-tips/scientific-writing-more-casual/",
+      "https://www.grammarly.com/blog/language-trends-culture/new-uses-old-words/",
+      "https://www.grammarly.com/blog/commonly-confused-words/disinterested-uninterested/",
+      "https://www.grammarly.com/blog/language-trends-culture/how-language-represents-color/",
+      "https://www.grammarly.com/blog/vocabulary/loquacious/",
+      "https://www.grammarly.com/blog/writing-process/ways-to-inspire-creativity/",
+      "https://www.grammarly.com/blog/commonly-confused-words/conscious-conscience/"
     ]
   },
   "samsungqbe.com": {
-    "lastAt": 1758986401286,
+    "lastAt": 1759332350520,
     "urls": []
   },
   "static.microsoft": {
-    "lastAt": 1758986404251,
+    "lastAt": 1759332353416,
     "urls": []
   },
   "cdngslb.com": {
-    "lastAt": 1758986463108,
+    "lastAt": 1759332412276,
     "urls": []
   },
   "ivi.ru": {
-    "lastAt": 1758986469915,
+    "lastAt": 1759332418952,
     "urls": [
       "https://www.ivi.ru/collections/oscar",
       "https://www.ivi.ru/collections/vampires",
@@ -5726,11 +5775,21 @@
       "https://www.ivi.ru/collections/semejnyie-dramyi",
       "https://www.ivi.ru/collections/usa-comedy",
       "https://www.ivi.ru/collections/family-comedy",
-      "https://www.ivi.ru/collections/romantic-comedies"
+      "https://www.ivi.ru/collections/romantic-comedies",
+      "https://www.ivi.ru/collections/sovet-melodramyi",
+      "https://www.ivi.ru/collections/zombie-movies",
+      "https://www.ivi.ru/collections/boxing-movies",
+      "https://www.ivi.ru/collections/kriminalnyie_dramyi",
+      "https://www.ivi.ru/collections/animal-movies",
+      "https://www.ivi.ru/collections/movies-about-school",
+      "https://www.ivi.ru/collections/robbery-movies",
+      "https://www.ivi.ru/collections/doomsday-movies",
+      "https://www.ivi.ru/collections/istoricheskie-melodrams",
+      "https://www.ivi.ru/collections/movies-alien-invasion"
     ]
   },
   "notamedia.ru": {
-    "lastAt": 1758986476479,
+    "lastAt": 1759332425304,
     "urls": [
       "https://agency.nota.media/",
       "https://agency.nota.media/company/",
@@ -5771,11 +5830,21 @@
       "https://agency.nota.media/blog/2nagradyvkonkurseWorkspaceDigitalAwards/",
       "https://agency.nota.media/blog/digest-ai-aprel/",
       "https://agency.nota.media/blog/20mestreitingruneta2023/",
-      "https://agency.nota.media/blog/wadlinespringawards2023/"
+      "https://agency.nota.media/blog/wadlinespringawards2023/",
+      "https://agency.nota.media/blog/Dprofilewin/",
+      "https://agency.nota.media/blog/maksim-malyshev-interview/",
+      "https://agency.nota.media/blog/digest-ai-june/",
+      "https://agency.nota.media/blog/Viewshape-DesignRush/",
+      "https://agency.nota.media/blog/digest-ai-july/",
+      "https://agency.nota.media/blog/pravila-onlayn-kommunikatsii/",
+      "https://agency.nota.media/blog/digest-ai-august/",
+      "https://agency.nota.media/blog/interviewleaderqualities/",
+      "https://agency.nota.media/blog/professiya-tekhnicheskiy-pisatel/",
+      "https://agency.nota.media/blog/digest-ai-september/"
     ]
   },
   "stripe.com": {
-    "lastAt": 1758986483227,
+    "lastAt": 1759332432501,
     "urls": [
       "https://stripe.com/legal/ssa",
       "https://stripe.com/ssa",
@@ -5826,11 +5895,21 @@
       "https://stripe.com/legal/sponsorship-policy",
       "https://stripe.com/legal/check-scan",
       "https://stripe.com/legal/stripe-event-speaker-release",
-      "https://stripe.com/legal/sfa-terms"
+      "https://stripe.com/legal/sfa-terms",
+      "https://stripe.com/legal/startup-program-terms",
+      "https://stripe.com/legal/paypay",
+      "https://stripe.com/legal/customer-and-payment-sharing",
+      "https://stripe.com/legal/fxquotes",
+      "https://stripe.com/legal/ssa/fi",
+      "https://stripe.com/legal/fee-credits",
+      "https://stripe.com/legal/stripe-verified",
+      "https://stripe.com/legal/issuing/multi-currency",
+      "https://stripe.com/legal/startup-offer",
+      "https://stripe.com/legal/verified"
     ]
   },
   "inmobi.com": {
-    "lastAt": 1758986488942,
+    "lastAt": 1759332438430,
     "urls": [
       "https://www.inmobi.com/",
       "https://www.inmobi.com/company/leadership",
@@ -5847,13 +5926,13 @@
     ]
   },
   "launchpad.net": {
-    "lastAt": 1758986490444,
+    "lastAt": 1759332440024,
     "urls": [
       "https://launchpad.net/"
     ]
   },
   "ipv4only.arpa": {
-    "lastAt": 1758986549258,
+    "lastAt": 1759332498836,
     "urls": []
   },
   "ampproject.org": {
