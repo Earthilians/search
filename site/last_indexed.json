@@ -7287,53 +7287,53 @@
     ]
   },
   "cmediahub.ru": {
-    "lastAt": 1759001297203,
+    "lastAt": 1759353614768,
     "urls": []
   },
   "cedexis.net": {
-    "lastAt": 1759001300513,
+    "lastAt": 1759353617729,
     "urls": []
   },
   "rambler.ru": {
-    "lastAt": 1759001306294,
+    "lastAt": 1759353621831,
     "urls": [
       "https://rambler.ru/"
     ]
   },
   "springer.com": {
-    "lastAt": 1759001307296,
+    "lastAt": 1759353622366,
     "urls": [
       "https://springer.com/"
     ]
   },
   "id5-sync.com": {
-    "lastAt": 1759001310131,
+    "lastAt": 1759353624889,
     "urls": [
       "https://id5-sync.com/"
     ]
   },
   "fb-t-msedge.net": {
-    "lastAt": 1759001313387,
+    "lastAt": 1759353627874,
     "urls": []
   },
   "bloomberg.com": {
-    "lastAt": 1759001320819,
+    "lastAt": 1759353636657,
     "urls": [
       "https://www.bloomberg.com/news/articles/2025-09-22/first-brands-mulls-restructuring-options-including-bankruptcy"
     ]
   },
   "ok.ru": {
-    "lastAt": 1759001333668,
+    "lastAt": 1759353647781,
     "urls": [
       "https://ok.ru/"
     ]
   },
   "myshopify.com": {
-    "lastAt": 1759001337287,
+    "lastAt": 1759353651209,
     "urls": []
   },
   "telegraph.co.uk": {
-    "lastAt": 1759001347458,
+    "lastAt": 1759353663926,
     "urls": [
       "https://telegraph.co.uk/",
       "https://www.telegraph.co.uk/wrestling/2021/04/08/wrestling-artistic-should-funded-like-theatre-opera-mps-say/",
@@ -7384,53 +7384,63 @@
       "https://www.telegraph.co.uk/theatre/what-to-see/as-you-like-it-the-globe-review-shakespeare/",
       "https://www.telegraph.co.uk/theatre/what-to-see/review-red-pitch-bush-theatre-tyrell-williams/",
       "https://www.telegraph.co.uk/theatre/what-to-see/assassins-chichester-festival-theatre-sondheim-review/",
-      "https://www.telegraph.co.uk/theatre/what-to-see/august-in-england-lenny-henry-with-charisma-debut-play/"
+      "https://www.telegraph.co.uk/theatre/what-to-see/august-in-england-lenny-henry-with-charisma-debut-play/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/black-superhero-royal-court-review-witty-debut-storytelling/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/winners-curse-park-theatre-review-can-clive-anderson-heal-middle/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/winters-tale-sam-wanamaker-playhouse-shakespeares-globe-review/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/sleepova-bush-theatre-review-snap-pace-endearing-ode-black-womanhood/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/julius-caesar-royal-shakespeare-theatre-review-melodrama-puzzling/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/mother-goose-hackney-empire-review-giant-twerking-fowl-jibes/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/400-years-molieres-birth-tartuffe-hits-satirical-bulls-eye/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/night-duke-yorks-review-first-ever-all-night-takeover-west-end/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/christmas-carol-shakespeare-north-hard-say-humbug-madcap-inventive/",
+      "https://www.telegraph.co.uk/theatre/what-to-see/cherry-orchard-review-chekhov-outer-space-isnt-daft-sounds/"
     ]
   },
   "consultant.ru": {
-    "lastAt": 1759001350765,
+    "lastAt": 1759353666796,
     "urls": [
       "https://consultant.ru/"
     ]
   },
   "naver.com": {
-    "lastAt": 1759001353724,
+    "lastAt": 1759353669784,
     "urls": [
       "https://naver.com/"
     ]
   },
   "sberbank.ru": {
-    "lastAt": 1759001360210,
+    "lastAt": 1759353672123,
     "urls": [
       "https://sberbank.ru/"
     ]
   },
   "vkuser.net": {
-    "lastAt": 1759001419021,
+    "lastAt": 1759353730934,
     "urls": []
   },
   "sc-cdn.net": {
-    "lastAt": 1759001422127,
+    "lastAt": 1759353734056,
     "urls": []
   },
   "dropcatch.com": {
-    "lastAt": 1759001423308,
+    "lastAt": 1759353735181,
     "urls": [
       "https://dropcatch.com/"
     ]
   },
   "liadm.com": {
-    "lastAt": 1759004544049,
+    "lastAt": 1759353738431,
     "urls": []
   },
   "mozilla.com": {
-    "lastAt": 1759004545460,
+    "lastAt": 1759353740235,
     "urls": [
       "https://mozilla.com/"
     ]
   },
   "gnu.org": {
-    "lastAt": 1759004572279,
+    "lastAt": 1759353743574,
     "urls": [
       "http://www.gnu.org/keepingup.de.html",
       "http://www.gnu.org/keepingup.html",
@@ -7471,27 +7481,37 @@
       "http://www.gnu.org/award/award.html",
       "http://www.gnu.org/award/award.de.html",
       "http://www.gnu.org/award/award.sq.html",
-      "http://www.gnu.org/award/award.zh-cn.html"
+      "http://www.gnu.org/award/award.zh-cn.html",
+      "http://www.gnu.org/award/award-1999.html",
+      "http://www.gnu.org/award/award-1998.en.html",
+      "http://www.gnu.org/award/award-1998.sq.html",
+      "http://www.gnu.org/award/award-1998.html",
+      "http://www.gnu.org/award/award-1998.zh-cn.html",
+      "http://www.gnu.org/award/award-1999.en.html",
+      "http://www.gnu.org/award/award-1999.sq.html",
+      "http://www.gnu.org/award/1998/finalists.html",
+      "http://www.gnu.org/award/1998/finalists.en.html",
+      "http://www.gnu.org/award/award-1999.zh-cn.html"
     ]
   },
   "un.org": {
-    "lastAt": 1759004574912,
+    "lastAt": 1759353745014,
     "urls": [
       "https://un.org/"
     ]
   },
   "aliyun.com": {
-    "lastAt": 1759004599399,
+    "lastAt": 1759353769501,
     "urls": [
       "https://aliyun.com/"
     ]
   },
   "inner-active.mobi": {
-    "lastAt": 1759004623993,
+    "lastAt": 1759353812911,
     "urls": []
   },
   "wp.com": {
-    "lastAt": 1759004628690,
+    "lastAt": 1759353818085,
     "urls": [
       "https://wordpress.com/features/",
       "https://wp.com/",
@@ -7541,41 +7561,51 @@
       "https://wordpress.com/theme/chanson",
       "https://wordpress.com/theme/ici",
       "https://wordpress.com/theme/indice",
-      "https://wordpress.com/theme/essentialist"
+      "https://wordpress.com/theme/essentialist",
+      "https://wordpress.com/theme/bysshe",
+      "https://wordpress.com/theme/hever",
+      "https://wordpress.com/theme/modernist",
+      "https://wordpress.com/theme/perenne",
+      "https://wordpress.com/theme/observer",
+      "https://wordpress.com/theme/roblog",
+      "https://wordpress.com/theme/hoat",
+      "https://wordpress.com/theme/beep",
+      "https://wordpress.com/theme/stitchery",
+      "https://wordpress.com/theme/twentytwentyfour"
     ]
   },
   "azureedge.net": {
-    "lastAt": 1759004631543,
+    "lastAt": 1759353820968,
     "urls": []
   },
   "1c.ru": {
-    "lastAt": 1759004633645,
+    "lastAt": 1759353823008,
     "urls": [
       "https://1c.ru/"
     ]
   },
   "xboxlive.com": {
-    "lastAt": 1759004637962,
+    "lastAt": 1759353827666,
     "urls": []
   },
   "mediatek.com": {
-    "lastAt": 1759004639335,
+    "lastAt": 1759353829227,
     "urls": [
       "https://mediatek.com/"
     ]
   },
   "mi.com": {
-    "lastAt": 1759004644334,
+    "lastAt": 1759353835017,
     "urls": []
   },
   "espn.com": {
-    "lastAt": 1759004649365,
+    "lastAt": 1759353839274,
     "urls": [
       "https://espn.com/"
     ]
   },
   "tripadvisor.com": {
-    "lastAt": 1759004664871,
+    "lastAt": 1759353853229,
     "urls": []
   },
   "stanford.edu": {
