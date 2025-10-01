@@ -2040,25 +2040,25 @@
     ]
   },
   "bytefcdn-oversea.com": {
-    "lastAt": 1758964944622,
+    "lastAt": 1759314275888,
     "urls": []
   },
   "msftncsi.com": {
-    "lastAt": 1758964947493,
+    "lastAt": 1759314278815,
     "urls": []
   },
   "userapi.com": {
-    "lastAt": 1758964950989,
+    "lastAt": 1759314281265,
     "urls": [
       "https://userapi.com/"
     ]
   },
   "okcdn.ru": {
-    "lastAt": 1758964959214,
+    "lastAt": 1759314286461,
     "urls": []
   },
   "telekom.de": {
-    "lastAt": 1758964966560,
+    "lastAt": 1759314300272,
     "urls": [
       "https://telekom.de/",
       "https://www.telekom.de/datenschutzhinweise",
@@ -2106,17 +2106,23 @@
       "https://www.telekom.de/hilfe/bauherren/schneller-weg-zum-hausanschluss.pdf",
       "https://www.telekom.de/hilfe/bauherren/neuer-hausanschuss",
       "https://www.telekom.de/hilfe/bauherren/service-verlegung",
-      "https://www.telekom.de/hilfe/bauherren/uebergang-lte-sofort"
+      "https://www.telekom.de/hilfe/bauherren/uebergang-lte-sofort",
+      "https://www.telekom.de/hilfe/cell-broadcast",
+      "https://www.telekom.de/hilfe/cell-broadcast/anleitungen-deutsch",
+      "https://www.telekom.de/hilfe/cell-broadcast-video",
+      "https://www.telekom.de/hilfe/beste-services",
+      "https://www.telekom.de/hilfe/de-mail-abschaltung",
+      "https://www.telekom.de/hilfe/clever-erweitern"
     ]
   },
   "apache.org": {
-    "lastAt": 1758964967667,
+    "lastAt": 1759314301430,
     "urls": [
       "https://apache.org/"
     ]
   },
   "one.one": {
-    "lastAt": 1758968430859,
+    "lastAt": 1759314304923,
     "urls": [
       "https://www.one.com/en/",
       "https://www.one.com/it/",
@@ -2167,25 +2173,35 @@
       "https://www.one.com/pt/dominios/que-extensao-de-dominio-devo-usar",
       "https://www.one.com/nl/over-ons/nieuws",
       "https://www.one.com/da/om-os/karriere",
-      "https://www.one.com/de/ueber-uns/karriere"
+      "https://www.one.com/de/ueber-uns/karriere",
+      "https://www.one.com/nl/academy",
+      "https://www.one.com/pt/marketing-online",
+      "https://www.one.com/en/domain/what-is-a-top-level-domain",
+      "https://www.one.com/fr/hebergement-web/qu-est-ce-que-l-hebergement-web",
+      "https://www.one.com/en/hosting",
+      "https://www.one.com/es/quienes-somos/contacto",
+      "https://www.one.com/en/websitebuilder/create-your-own-website",
+      "https://www.one.com/it/info/prodotto-informativa-sulla-privacy",
+      "https://www.one.com/da/info/cookiepolitik",
+      "https://www.one.com/it/sicurezza-del-sito-web/cosa-e-un-certificato-ssl"
     ]
   },
   "app-measurement.com": {
-    "lastAt": 1758968434155,
+    "lastAt": 1759314308147,
     "urls": []
   },
   "github.io": {
-    "lastAt": 1758968434661,
+    "lastAt": 1759314308571,
     "urls": [
       "https://github.io/"
     ]
   },
   "outlook.com": {
-    "lastAt": 1758968473853,
+    "lastAt": 1759314324255,
     "urls": []
   },
   "criteo.com": {
-    "lastAt": 1758968481136,
+    "lastAt": 1759314332756,
     "urls": [
       "https://www.criteo.com/blog/",
       "https://www.criteo.com/blog/will-retailers-brand-utilize-omnichannel/",
@@ -2236,17 +2252,27 @@
       "https://www.criteo.com/blog/ken-hughes-criteo-london-forum/",
       "https://www.criteo.com/blog/top-10-reasons-excited-ces/",
       "https://www.criteo.com/blog/building-strong-privacy-fortress/",
-      "https://www.criteo.com/blog/privacy-by-design/"
+      "https://www.criteo.com/blog/privacy-by-design/",
+      "https://www.criteo.com/blog/why-privacy-matters/",
+      "https://www.criteo.com/blog/an-enlightened-holiday/",
+      "https://www.criteo.com/blog/rise-black-friday-globally/",
+      "https://www.criteo.com/blog/holiday-ad-campaign-strategies/",
+      "https://www.criteo.com/blog/black-friday-2017-shopping-data/",
+      "https://www.criteo.com/blog/shipping-holiday-shopping/",
+      "https://www.criteo.com/blog/never-early-begin-holiday-planning/",
+      "https://www.criteo.com/blog/retailers-can-win-customer-journey-analytics/",
+      "https://www.criteo.com/blog/smart-personalization-driving-retail-experience/",
+      "https://www.criteo.com/blog/uk-fmcg-trend-report-taking-stock-of-the-future-of-grocery/"
     ]
   },
   "nist.gov": {
-    "lastAt": 1758968486606,
+    "lastAt": 1759314337738,
     "urls": [
       "https://nist.gov/"
     ]
   },
   "dropbox.com": {
-    "lastAt": 1758968491970,
+    "lastAt": 1759314341638,
     "urls": [
       "https://dropbox.com/",
       "https://www.dropbox.com/it/business/solutions",
@@ -2297,11 +2323,21 @@
       "https://www.dropbox.com/nb_NO/business/trust/compliance",
       "https://www.dropbox.com/pt_BR/business/trust",
       "https://www.dropbox.com/fr/business/partners",
-      "https://www.dropbox.com/fr/business"
+      "https://www.dropbox.com/fr/business",
+      "https://www.dropbox.com/ja/business/trust/compliance/security-practices",
+      "https://www.dropbox.com/de/business/trust/compliance/security-practices",
+      "https://www.dropbox.com/es/business/trust/privacy/data-protection",
+      "https://www.dropbox.com/ms/business/trust/privacy/account-protection",
+      "https://www.dropbox.com/de/business/pricing",
+      "https://www.dropbox.com/id/business/app-integrations",
+      "https://www.dropbox.com/ms/business/trust",
+      "https://www.dropbox.com/nb_NO/business/trust/security/control-visibility",
+      "https://www.dropbox.com/zh_CN/business/tour",
+      "https://www.dropbox.com/business/trust/privacy"
     ]
   },
   "gravatar.com": {
-    "lastAt": 1758968492536,
+    "lastAt": 1759314342353,
     "urls": [
       "https://gravatar.com/",
       "https://gravatar.com/link-in-bio",
@@ -2313,7 +2349,7 @@
     ]
   },
   "adriver.ru": {
-    "lastAt": 1758968498124,
+    "lastAt": 1759314344802,
     "urls": [
       "https://www.adriver.ru/articles_845/",
       "https://www.adriver.ru/articles_856/",
@@ -2352,37 +2388,37 @@
     ]
   },
   "rbxcdn.com": {
-    "lastAt": 1758968501235,
+    "lastAt": 1759314347890,
     "urls": []
   },
   "adnxs.com": {
-    "lastAt": 1758968504171,
+    "lastAt": 1759314350880,
     "urls": []
   },
   "cdn77.org": {
-    "lastAt": 1758968507882,
+    "lastAt": 1759314354314,
     "urls": []
   },
   "xiaomi.com": {
-    "lastAt": 1758968517166,
+    "lastAt": 1759314363894,
     "urls": []
   },
   "app-analytics-services.com": {
-    "lastAt": 1758968520750,
+    "lastAt": 1759314367401,
     "urls": []
   },
   "tumblr.com": {
-    "lastAt": 1758968522773,
+    "lastAt": 1759314368600,
     "urls": [
       "https://tumblr.com/"
     ]
   },
   "3gppnetwork.org": {
-    "lastAt": 1758968525737,
+    "lastAt": 1759314371576,
     "urls": []
   },
   "applovin.com": {
-    "lastAt": 1758968531803,
+    "lastAt": 1759314378035,
     "urls": [
       "https://www.applovin.com/blog/",
       "https://www.applovin.com/ja/blog/%e5%8a%b9%e6%9e%9c%e7%9a%84%e3%81%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b9%e3%83%88%e3%82%a2%e3%81%ae%e8%aa%ac%e6%98%8e%e6%96%87%e3%81%ae%e6%9b%b8%e3%81%8d%e6%96%b9%e3%81%a8%e3%81%af%ef%bc%9f/",
@@ -2433,23 +2469,33 @@
       "https://www.applovin.com/blog/applovin-cares-2018-nonprofit-organizations/",
       "https://www.applovin.com/blog/applovin-cares-supports-asian-american-organizations-to-stop-hate-crimes/",
       "https://www.applovin.com/blog/applovin-cares-garden-project/",
-      "https://www.applovin.com/blog/applovin-cares-black-lives-matter/"
+      "https://www.applovin.com/blog/applovin-cares-black-lives-matter/",
+      "https://www.applovin.com/blog/applovin-cares-sydney-paige-school-supplies/",
+      "https://www.applovin.com/blog/applovin-cares-helping-for-the-holidays/",
+      "https://www.applovin.com/blog/applovin-cares-the-simple-good-art-fundraiser/",
+      "https://www.applovin.com/blog/applovin-cares-one-tree-planted/",
+      "https://www.applovin.com/blog/applovin-cares-how-we-gave-back-in-2020/",
+      "https://www.applovin.com/blog/applovin-cares-sounding-the-alarm-red-cross/",
+      "https://www.applovin.com/blog/applovin-cares-minds-matter-san-francisco/",
+      "https://www.applovin.com/blog/applovin-cares-826-valencia/",
+      "https://www.applovin.com/blog/applovin-cares-roundup-of-good/",
+      "https://www.applovin.com/blog/applovin-cares-supporting-schools-animals-and-more/"
     ]
   },
   "spov-msedge.net": {
-    "lastAt": 1758968534764,
+    "lastAt": 1759314381025,
     "urls": []
   },
   "steamserver.net": {
-    "lastAt": 1758968538005,
+    "lastAt": 1759314384435,
     "urls": []
   },
   "tiktokcdn-us.com": {
-    "lastAt": 1758968541473,
+    "lastAt": 1759314387472,
     "urls": []
   },
   "yandex.ru": {
-    "lastAt": 1758968557643,
+    "lastAt": 1759314403328,
     "urls": [
       "https://yandex.ru/legal",
       "https://yandex.ru/support/id/ru/troubleshooting/forgot-password",
@@ -2458,15 +2504,15 @@
     ]
   },
   "trbcdn.net": {
-    "lastAt": 1758968565461,
+    "lastAt": 1759314408475,
     "urls": []
   },
   "ggpht.com": {
-    "lastAt": 1758968568401,
+    "lastAt": 1759314411397,
     "urls": []
   },
   "epicgames.com": {
-    "lastAt": 1758968573292,
+    "lastAt": 1759314415589,
     "urls": []
   },
   "amazonvideo.com": {
