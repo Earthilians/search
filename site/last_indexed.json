@@ -6762,7 +6762,7 @@
     "urls": []
   },
   "forter.com": {
-    "lastAt": 1758997803575,
+    "lastAt": 1759350324103,
     "urls": [
       "https://www.forter.com/blog/",
       "https://www.forter.com/blog/2015-03-the-post-emv-fraud-tsunami-101-guide-for-online-retailers/",
@@ -6813,69 +6813,79 @@
       "https://www.forter.com/blog/visas-lower-fraud-ratio-could-spell-trouble-for-unprepared-merchants/",
       "https://www.forter.com/blog/forters-final-four-the-essential-guide-to-fraud-march-madness/",
       "https://www.forter.com/blog/are-you-gdpr-ready/",
-      "https://www.forter.com/blog/hot-spots-for-travel-fraud/"
+      "https://www.forter.com/blog/hot-spots-for-travel-fraud/",
+      "https://www.forter.com/blog/a-closer-look-what-is-friendly-fraud/",
+      "https://www.forter.com/blog/forter-achieves-100-billion-transaction-milestone/",
+      "https://www.forter.com/blog/sca-implementation-delayed-uk/",
+      "https://www.forter.com/blog/meet-iftah-gideoni/",
+      "https://www.forter.com/blog/how-an-integrated-fraud-platform-streamlines-sca/",
+      "https://www.forter.com/blog/the-future-of-travel-forter-at-wit-singapore-2019/",
+      "https://www.forter.com/blog/aviation-fraud-in-africa/",
+      "https://www.forter.com/blog/time-to-stop-holding-orders-hostage-to-3ds/",
+      "https://www.forter.com/blog/ccpa-top-5-things-merchants-need-to-know/",
+      "https://www.forter.com/blog/mattress-firms-partnership-with-forter/"
     ]
   },
   "debian.org": {
-    "lastAt": 1758997804666,
+    "lastAt": 1759350326175,
     "urls": [
       "https://debian.org/"
     ]
   },
   "akamaihd.net": {
-    "lastAt": 1758997807665,
+    "lastAt": 1759350329092,
     "urls": []
   },
   "lijit.com": {
-    "lastAt": 1758997808605,
+    "lastAt": 1759350330640,
     "urls": [
       "https://lijit.com/"
     ]
   },
   "netflix.net": {
-    "lastAt": 1758997816678,
+    "lastAt": 1759350336770,
     "urls": []
   },
   "tiktokcdn-eu.com": {
-    "lastAt": 1758997819672,
+    "lastAt": 1759350339868,
     "urls": []
   },
   "nstld.com": {
-    "lastAt": 1758997822660,
+    "lastAt": 1759350342927,
     "urls": []
   },
   "googletagservices.com": {
-    "lastAt": 1758997825595,
+    "lastAt": 1759350345861,
     "urls": []
   },
   "huawei.com": {
-    "lastAt": 1758997831229,
+    "lastAt": 1759350350851,
     "urls": []
   },
   "nease.net": {
-    "lastAt": 1758997890084,
+    "lastAt": 1759350409710,
     "urls": []
   },
   "weibo.com": {
-    "lastAt": 1758997891807,
+    "lastAt": 1759350411070,
     "urls": [
       "https://weibo.com/"
     ]
   },
   "fastly-edge.com": {
-    "lastAt": 1758997894777,
+    "lastAt": 1759350413925,
     "urls": []
   },
   "autodesk.com": {
-    "lastAt": 1758997897986,
+    "lastAt": 1759350417578,
     "urls": []
   },
   "vedsalb.com": {
-    "lastAt": 1758997903107,
+    "lastAt": 1759350423044,
     "urls": []
   },
   "wiley.com": {
-    "lastAt": 1758997906296,
+    "lastAt": 1759350427337,
     "urls": [
       "https://www.wiley.com/en-us/Herding+Chickens%3A+Innovative+Techniques+for+Project+Management-p-9780782150575",
       "https://wiley.com/",
@@ -6926,11 +6936,21 @@
       "https://www.wiley.com/en-us/Survey+Data+Harmonization+in+the+Social+Sciences-p-9781119712183",
       "https://www.wiley.com/en-us/Mind%2BMachine%3A+A+Decision+Model+for+Optimizing+and+Implementing+Analytics-p-9781119302971",
       "https://www.wiley.com/en-us/Dialectic+of+Nihilsm%3A+Post-Structuralism+and+Law-p-9780631137085",
-      "https://www.wiley.com/en-us/Equality%3A+What+It+Means+and+Why+It+Matters-p-9781509565511"
+      "https://www.wiley.com/en-us/Equality%3A+What+It+Means+and+Why+It+Matters-p-9781509565511",
+      "https://www.wiley.com/en-us/Handbook+of+the+Undergraduate+Curriculum%3A+A+Comprehensive+Guide+to+Purposes%2C+Structures%2C+Practices%2C+and+Change-p-9780787902896",
+      "https://www.wiley.com/en-us/Telling+Stories%3A+A+Short+Path+to+Writing+Better+Software+Requirements-p-9780470437001",
+      "https://www.wiley.com/en-us/Value-Creating+Growth%3A+How+to+Lift+Your+Company+to+the+Next+Level+of+Performance-p-9780787946616",
+      "https://www.wiley.com/en-us/Physik+in+den+Ingenieur-+und+Naturwissenschaften%2C+Band+1%3A+Mechanik+und+Thermodynamik%2C+4.+Auflage-p-9783527829651",
+      "https://www.wiley.com/en-us/Advances+in+DEA+Theory+and+Applications%3A+With+Extensions+to+Forecasting+Models-p-9781118946695",
+      "https://www.wiley.com/en-us/The+Cellular+Radio+Handbook%3A+A+Reference+for+Cellular+System+Operation%2C+4th+Edition-p-9780471387251",
+      "https://www.wiley.com/en-us/Principles+of+Linguistic+Change%2C+Volume+1%3A+Internal+Factors-p-9780631179146",
+      "https://www.wiley.com/en-us/Acupressure+and+Reflexology+For+Dummies-p-9781118051535",
+      "https://www.wiley.com/en-us/Coping+Skills+Interventions+for+Children+and+Adolescents-p-9781555424930",
+      "https://www.wiley.com/en-us/The+Math+Teacher's+Problem-a-Day%2C+Grades+4-8%3A+Over+180+Reproducible+Pages+of+Quick+Skill+Builders-p-9780787997649"
     ]
   },
   "nature.com": {
-    "lastAt": 1758997910493,
+    "lastAt": 1759350432579,
     "urls": [
       "https://www.nature.com/articles/s41387-025-00388-5",
       "https://www.nature.com/articles/s41387-025-00386-7",
@@ -6981,33 +7001,43 @@
       "https://www.nature.com/subjects/adult-neurogenesis",
       "https://www.nature.com/subjects/adult-stem-cells",
       "https://www.nature.com/subjects/adverse-effects",
-      "https://www.nature.com/subjects/aerospace-engineering"
+      "https://www.nature.com/subjects/aerospace-engineering",
+      "https://www.nature.com/subjects/agency",
+      "https://www.nature.com/subjects/aesthetic-dentistry",
+      "https://www.nature.com/subjects/aggression",
+      "https://www.nature.com/subjects/ageing",
+      "https://www.nature.com/subjects/agricultural-genetics",
+      "https://www.nature.com/subjects/agriculture",
+      "https://www.nature.com/subjects/air-microbiology",
+      "https://www.nature.com/subjects/agri-ecology",
+      "https://www.nature.com/subjects/alcohol-misuse-in-dental-patients",
+      "https://www.nature.com/subjects/alcoholic-liver-disease"
     ]
   },
   "appcenter.ms": {
-    "lastAt": 1759000575019,
+    "lastAt": 1759350434318,
     "urls": [
       "https://appcenter.ms/"
     ]
   },
   "adsafeprotected.com": {
-    "lastAt": 1759000577667,
+    "lastAt": 1759350436629,
     "urls": []
   },
   "adobe.net": {
-    "lastAt": 1759000582886,
+    "lastAt": 1759350442019,
     "urls": []
   },
   "washingtonpost.com": {
-    "lastAt": 1759000794943,
+    "lastAt": 1759350653811,
     "urls": []
   },
   "kaspersky-labs.com": {
-    "lastAt": 1759000798044,
+    "lastAt": 1759350657128,
     "urls": []
   },
   "cdc.gov": {
-    "lastAt": 1759000812689,
+    "lastAt": 1759350668845,
     "urls": [
       "https://www.cdc.gov/contact/accessibility.html",
       "https://www.cdc.gov/covidtreatment/index.html",
@@ -7058,17 +7088,17 @@
     ]
   },
   "pages.dev": {
-    "lastAt": 1759000813249,
+    "lastAt": 1759350669203,
     "urls": [
       "https://pages.dev/"
     ]
   },
   "mynetname.net": {
-    "lastAt": 1759000816959,
+    "lastAt": 1759350673417,
     "urls": []
   },
   "dailymail.co.uk": {
-    "lastAt": 1759000822851,
+    "lastAt": 1759350678606,
     "urls": [
       "https://www.dailymail.co.uk/news/article-15088457/Silk-Road-Charlie-Kirk-pardon.html",
       "https://www.dailymail.co.uk/travel/article-15088233/Brit-living-Thailand-expenses-cheaper-UK-rent.html",
@@ -7119,23 +7149,35 @@
       "https://www.dailymail.co.uk/news/article-15139961/Federal-employees-anxiety-government-shutdown.html",
       "https://www.dailymail.co.uk/sport/college-football/article-15140235/pitt-louisville-ballboy-crazy-scuffle.html",
       "https://www.dailymail.co.uk/tvshowbiz/article-15140365/Strictly-Come-Dancing-2025-Dani-Dyer-Amber-Davies.html",
-      "https://www.dailymail.co.uk/news/article-15140099/Gangland-armourer-guns-Britain-criminals-EnchroChat-jailed.html"
+      "https://www.dailymail.co.uk/news/article-15140099/Gangland-armourer-guns-Britain-criminals-EnchroChat-jailed.html",
+      "https://www.dailymail.co.uk/media/article-15152977/Joy-Reid-Republicans-abolish-income-tax-earnings.html",
+      "https://www.dailymail.co.uk/news/article-15153075/north-carolina-police-arrest-child-bike.html",
+      "https://www.dailymail.co.uk/news/article-15152319/prince-rupert-walmart-closed-british-columbia-canada.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15153603/Rita-Ora-walks-hand-hand-Kate-Moss-arrive-Tom-Ford-Paris-Fashion-Week.html",
+      "https://www.dailymail.co.uk/femail/article-15149941/nicole-kidman-four-children-tom-cruise.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15153323/Kendall-Jenner-greets-fans-Schiapparelli-fit-PFW.html",
+      "https://www.dailymail.co.uk/femail/article-15150019/patrick-bet-david-48000-call-minnect-cost-call-conservative-influencer.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15153753/Cara-Delevingne-glossy-makeover-grey-suit-Paris-Fashion-Week-Balmain.html",
+      "https://www.dailymail.co.uk/news/article-15153405/Greta-Thunberg-detained-Israeli-military-flotilla-Gaza.html",
+      "https://www.dailymail.co.uk/tvshowbiz/article-15153521/Janet-Jackson-Paris-hug-reunion-tom-ford-runway-PFW.html"
     ]
   },
   "wsj.com": {
-    "lastAt": 1759000829525,
-    "urls": []
+    "lastAt": 1759350685634,
+    "urls": [
+      "https://www.wsj.com/world"
+    ]
   },
   "heytapmobile.com": {
-    "lastAt": 1759000832526,
+    "lastAt": 1759350688857,
     "urls": []
   },
   "etsy.com": {
-    "lastAt": 1759001284816,
+    "lastAt": 1759351142289,
     "urls": []
   },
   "checkpoint.com": {
-    "lastAt": 1759001287230,
+    "lastAt": 1759351148563,
     "urls": [
       "https://checkpoint.com/",
       "https://www.checkpoint.com/infinity/threatcloud-ai/brand-spoofing-prevention/",
@@ -7186,11 +7228,21 @@
       "https://www.checkpoint.com/mind/certified-fiverr-expert-form/",
       "https://www.checkpoint.com/cloudguard/effective-risk-management/",
       "https://www.checkpoint.com/cloudguard/cnapp/",
-      "https://www.checkpoint.com/privacy/security/"
+      "https://www.checkpoint.com/privacy/security/",
+      "https://www.checkpoint.com/ransomware-timeline/",
+      "https://www.checkpoint.com/buyers-guides/",
+      "https://www.checkpoint.com/ransomware-hub/",
+      "https://www.checkpoint.com/cloudguard/developer-security/",
+      "https://www.checkpoint.com/cloudguard/workshops/deploying-devsecops/",
+      "https://www.checkpoint.com/cloudguard/workshops/optimizing-cloud-security/",
+      "https://www.checkpoint.com/cloudguard/workshops/migrating-to-the-cloud/",
+      "https://www.checkpoint.com/cloudguard/cloud-infrastructure-entitlement-management/",
+      "https://www.checkpoint.com/comparison/best-cloud-workload-protection-platform/",
+      "https://www.checkpoint.com/about-us/esg/environment/"
     ]
   },
   "gosuslugi.ru": {
-    "lastAt": 1759001292386,
+    "lastAt": 1759351175366,
     "urls": [
       "https://www.gosuslugi.ru/help/news/27",
       "https://gosuslugi.ru/",
