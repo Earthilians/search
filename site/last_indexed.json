@@ -3100,19 +3100,19 @@
     "urls": []
   },
   "ripn.net": {
-    "lastAt": 1758971982890,
+    "lastAt": 1759323061421,
     "urls": []
   },
   "shifen.com": {
-    "lastAt": 1758972041740,
+    "lastAt": 1759323120287,
     "urls": []
   },
   "msftconnecttest.com": {
-    "lastAt": 1758972044588,
+    "lastAt": 1759323123137,
     "urls": []
   },
   "shopify.com": {
-    "lastAt": 1758972048090,
+    "lastAt": 1759323126324,
     "urls": [
       "https://www.shopify.com/",
       "https://www.shopify.com/1mbb",
@@ -3158,32 +3158,45 @@
       "https://www.shopify.com/careers",
       "https://www.shopify.com/careers/candidate-guide",
       "https://www.shopify.com/card-reader-discount/terms-and-conditions",
-      "https://www.shopify.com/careers/candidate-guide/ai-usage"
+      "https://www.shopify.com/careers/candidate-guide/ai-usage",
+      "https://www.shopify.com/careers/candidate-guide/are-you-ready",
+      "https://www.shopify.com/careers/candidate-guide/compensation",
+      "https://www.shopify.com/careers/candidate-guide/why-it-might-be-hard",
+      "https://www.shopify.com/careers/candidate-guide/digital-by-design",
+      "https://www.shopify.com/careers/candidate-guide/world-view",
+      "https://www.shopify.com/careers/disciplines/design",
+      "https://www.shopify.com/careers/candidate-privacy-notice",
+      "https://www.shopify.com/careers/extraordinary",
+      "https://www.shopify.com/careers/candidate-guide/leadership"
     ]
   },
   "pv-cdn.net": {
-    "lastAt": 1758972051226,
+    "lastAt": 1759323129746,
     "urls": []
   },
   "chatgpt.com": {
-    "lastAt": 1758972057393,
+    "lastAt": 1759323135693,
     "urls": [
       "https://chatgpt.com/",
       "https://chatgpt.com/gpts",
       "https://chatgpt.com/overview",
       "https://chatgpt.com/use-cases/university-educators",
       "https://chatgpt.com/use-cases/students",
-      "https://chatgpt.com/use-cases/scientists"
+      "https://chatgpt.com/use-cases/scientists",
+      "https://chatgpt.com/use-cases/student-writing-guide",
+      "https://chatgpt.com/contact-sales",
+      "https://chatgpt.com/features/connectors",
+      "https://chatgpt.com/use-cases/inspiration-image-creation"
     ]
   },
   "discord.com": {
-    "lastAt": 1758972058803,
+    "lastAt": 1759323136814,
     "urls": [
       "https://discord.com/"
     ]
   },
   "medium.com": {
-    "lastAt": 1758972064608,
+    "lastAt": 1759323141465,
     "urls": [
       "https://medium.com/",
       "https://medium.com/@faintliesh",
@@ -3234,11 +3247,21 @@
       "https://medium.com/@jamie.a.mullen/list/c75ed793c3a1",
       "https://medium.com/@nbaqq44/list/d5b91f4bbff3",
       "https://medium.com/@fritzism/list/68758c29736a",
-      "https://medium.com/@xuanhuy238/list/f83374e2d247"
+      "https://medium.com/@xuanhuy238/list/f83374e2d247",
+      "https://medium.com/binary-options-signals-software-review-is-binary/about",
+      "https://medium.com/personal-coach/about",
+      "https://medium.com/be-an-inspiration",
+      "https://medium.com/3-ofertas-de-mike-geary-review",
+      "https://medium.com/be-an-inspiration/about",
+      "https://medium.com/the-block-chain",
+      "https://medium.com/women-magnet-formula-reviews",
+      "https://medium.com/pray-for-lonely-ppl/about",
+      "https://medium.com/life-begins-at-incorporation",
+      "https://medium.com/the-block-chain/about"
     ]
   },
   "soundcloud.com": {
-    "lastAt": 1758972073334,
+    "lastAt": 1759323149067,
     "urls": [
       "https://soundcloud.com/",
       "https://soundcloud.com/charts/new",
@@ -3266,23 +3289,27 @@
       "https://soundcloud.com/download/iphone",
       "https://soundcloud.com/download",
       "https://soundcloud.com/download/android",
-      "https://soundcloud.com/upload"
+      "https://soundcloud.com/upload",
+      "https://soundcloud.com/signin",
+      "https://creators.soundcloud.com/",
+      "https://creators.soundcloud.com/guide",
+      "https://creators.soundcloud.com/guide/videos"
     ]
   },
   "miui.com": {
-    "lastAt": 1758972076344,
+    "lastAt": 1759323152183,
     "urls": [
       "https://miui.com/"
     ]
   },
   "casalemedia.com": {
-    "lastAt": 1758972083492,
+    "lastAt": 1759323170018,
     "urls": [
       "https://casalemedia.com/"
     ]
   },
   "adobe.io": {
-    "lastAt": 1758972089188,
+    "lastAt": 1759323175692,
     "urls": [
       "https://developer.adobe.com/",
       "https://adobe.io/",
@@ -3333,15 +3360,25 @@
       "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/data-types/",
       "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/delete/",
       "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/get/",
-      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/save/"
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/admin/report-suite/save/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/calculated-metrics/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/classifications/data-types/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/data-insertion/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/data-feeds/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/classifications/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/data-insertion/troubleshooting/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/data-insertion/variable-reference/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/reporting/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/reporting/data-warehouse/",
+      "https://developer.adobe.com/analytics-apis/docs/1.4/guides/data-sources/"
     ]
   },
   "cdn-apple.com": {
-    "lastAt": 1758972092143,
+    "lastAt": 1759323178763,
     "urls": []
   },
   "cnn.com": {
-    "lastAt": 1758972116755,
+    "lastAt": 1759323188244,
     "urls": [
       "https://cnn.com/",
       "https://www.cnn.com/videos/tv/2024/05/15/an-travel-market-spotlights-middle-east-tourism-spc-intl.cnn",
@@ -3392,11 +3429,21 @@
       "https://www.cnn.com/2025/09/27/china/russia-china-military-agreement-intl-hnk",
       "https://www.cnn.com/2025/09/27/us/housing-costs-affordability-metro-areas-vis",
       "https://www.cnn.com/2025/09/27/health/weddings-essay-wellness",
-      "https://www.cnn.com/2025/09/27/politics/fact-check-tylenol-autism-trump"
+      "https://www.cnn.com/2025/09/27/politics/fact-check-tylenol-autism-trump",
+      "https://www.cnn.com/2025/10/01/entertainment/eric-dane-vows-to-fight-als",
+      "https://www.cnn.com/2025/10/01/us/memphis-federal-task-force-trump-bondi-hnk",
+      "https://www.cnn.com/2025/10/01/politics/government-shutdown-virginia-governor-race",
+      "https://www.cnn.com/2025/10/01/media/jimmy-kimmel-stephen-colbert",
+      "https://www.cnn.com/politics/live-news/government-shutdown-us-congress-10-01-25",
+      "https://www.cnn.com/sponsor/angola-ministry-of-communications/angotic-a-digital-leap",
+      "https://www.cnn.com/sponsor/angola-ministry-of-communications/africa-us-growing-together",
+      "https://www.cnn.com/2025/10/01/economy/adp-private-jobs-report-september",
+      "https://www.cnn.com/cnn-underscored/money/best-zero-percent-apr-credit-cards",
+      "https://www.cnn.com/cnn-underscored/money/best-business-credit-cards"
     ]
   },
   "android.com": {
-    "lastAt": 1758972119623,
+    "lastAt": 1759323190876,
     "urls": [
       "https://www.android.com/",
       "https://android.com/",
@@ -3447,11 +3494,21 @@
       "https://www.android.com/intl/en_uk/ai/",
       "https://www.android.com/intl/es-419_mx/ai/",
       "https://www.android.com/intl/es_es/ai/",
-      "https://www.android.com/intl/es_us/ai/"
+      "https://www.android.com/intl/es_us/ai/",
+      "https://www.android.com/intl/vi_vn/new-features-on-android/featured/",
+      "https://www.android.com/intl/zh-CN_cn/new-features-on-android/featured/",
+      "https://www.android.com/intl/th_th/new-features-on-android/featured/",
+      "https://www.android.com/intl/zh-HK_hk/new-features-on-android/featured/",
+      "https://www.android.com/intl/zh-TW_tw/new-features-on-android/featured/",
+      "https://www.android.com/intl/tr_tr/new-features-on-android/featured/",
+      "https://www.android.com/intl/da_dk/new-features-on-android/featured/",
+      "https://www.android.com/intl/en_au/new-features-on-android/featured/",
+      "https://www.android.com/intl/en_ca/new-features-on-android/featured/",
+      "https://www.android.com/intl/en_hk/new-features-on-android/featured/"
     ]
   },
   "myfritz.net": {
-    "lastAt": 1758976847224,
+    "lastAt": 1759323192624,
     "urls": [
       "https://www.myfritz.net/about",
       "https://myfritz.net/",
@@ -3460,11 +3517,11 @@
     ]
   },
   "nflxso.net": {
-    "lastAt": 1758976850237,
+    "lastAt": 1759323195748,
     "urls": []
   },
   "meraki.com": {
-    "lastAt": 1758976859548,
+    "lastAt": 1759323204349,
     "urls": [
       "https://meraki.cisco.com/",
       "https://meraki.cisco.com/collateral/",
@@ -3515,17 +3572,27 @@
       "https://meraki.cisco.com/fr-fr/products/smart-cameras/videos/",
       "https://meraki.cisco.com/fr-ca/products/meraki-insight/",
       "https://meraki.cisco.com/fr-ca/products/switches/features/",
-      "https://meraki.cisco.com/pt-br/products/switches/features2/"
+      "https://meraki.cisco.com/pt-br/products/switches/features2/",
+      "https://meraki.cisco.com/fr-ca/webinars/",
+      "https://meraki.cisco.com/de-de/products/smart-cameras/videos/",
+      "https://meraki.cisco.com/en-au/products/switches/features/",
+      "https://meraki.cisco.com/en-au/products/meraki-insight/",
+      "https://meraki.cisco.com/fr-ca/products/smart-cameras/videos/",
+      "https://meraki.cisco.com/products/meraki-insight/",
+      "https://meraki.cisco.com/en-au/products/smart-cameras/videos/",
+      "https://meraki.cisco.com/en-uk/products/switches/features/",
+      "https://meraki.cisco.com/en-uk/products/meraki-insight/",
+      "https://meraki.cisco.com/en-uk/products/smart-cameras/videos/"
     ]
   },
   "w3.org": {
-    "lastAt": 1758976861022,
+    "lastAt": 1759323205594,
     "urls": [
       "https://w3.org/"
     ]
   },
   "taboola.com": {
-    "lastAt": 1758976866824,
+    "lastAt": 1759323210493,
     "urls": [
       "https://www.taboola.com/",
       "https://taboola.com/",
@@ -3576,23 +3643,33 @@
       "https://www.taboola.com/fr/resources/webinars",
       "https://www.taboola.com/de/resources/webinars",
       "https://www.taboola.com/es/resources/webinars",
-      "https://www.taboola.com/pt/resources/webinars"
+      "https://www.taboola.com/pt/resources/webinars",
+      "https://www.taboola.com/zh-hans/resources/webinars",
+      "https://www.taboola.com/fr/all-press-releases",
+      "https://www.taboola.com/zh-hans/all-press-releases",
+      "https://www.taboola.com/ko/resources/webinars",
+      "https://www.taboola.com/zh-hant/resources/webinars",
+      "https://www.taboola.com/ja/resources/webinars",
+      "https://www.taboola.com/es/all-press-releases",
+      "https://www.taboola.com/all-news-items",
+      "https://www.taboola.com/ko/all-press-releases",
+      "https://www.taboola.com/ja/all-press-releases"
     ]
   },
   "example.com": {
-    "lastAt": 1758976868038,
+    "lastAt": 1759323224076,
     "urls": [
       "https://example.com/"
     ]
   },
   "t.co": {
-    "lastAt": 1758976869127,
+    "lastAt": 1759323225078,
     "urls": [
       "https://t.co/"
     ]
   },
   "theguardian.com": {
-    "lastAt": 1758976873332,
+    "lastAt": 1759323229380,
     "urls": [
       "https://theguardian.com/",
       "https://www.theguardian.com/politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
@@ -3643,11 +3720,21 @@
       "https://www.theguardian.com/football/live/2025/sep/27/crystal-palace-v-liverpool-atletico-v-real-madrid-and-more-clockwatch-live",
       "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
       "https://www.theguardian.com/world/2025/sep/27/mohammed-ibrahim-case-state-department",
-      "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap"
+      "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
+      "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "https://www.theguardian.com/sport/live/2025/oct/01/womens-cricket-world-cup-live-australia-v-new-zealand",
+      "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news",
+      "https://www.theguardian.com/football/2025/oct/01/emma-hayes-i-dont-think-coaches-are-always-thought-about-as-human-beings-interview",
+      "https://www.theguardian.com/politics/live/2025/oct/01/keir-starmer-labour-conference-nigel-farage-reform-uk-politics-latest-news-updates",
+      "https://www.theguardian.com/environment/2025/oct/01/fracking-ban-uk-labour-counter-reform-promise",
+      "https://www.theguardian.com/world/live/2025/oct/01/mette-frederiksen-denmark-europe-russia-vladimir-putin-volodymyr-zelenskyy-ukraine-hybrid-war-security-europe-live-news",
+      "https://www.theguardian.com/business/live/2025/oct/01/uk-house-prices-return-to-growth-us-dollar-shutdown-manufacturing-growth-business-live-news",
+      "https://www.theguardian.com/sport/2025/oct/01/gregor-townsend--newcastle-red-bulls-sack-steve-diamond-rugby-union",
+      "https://www.theguardian.com/sport/2025/oct/01/boone-defends-pulling-ace-max-fried-as-yankees-risk-playoff-exit-to-red-sox"
     ]
   },
   "doubleverify.com": {
-    "lastAt": 1758976879355,
+    "lastAt": 1759323234958,
     "urls": [
       "https://doubleverify.com/doubleverify%e3%81%8c-adchan-tokyo2020-%e3%81%ab%e5%8f%82%e5%8a%a0/",
       "https://doubleverify.com/adweek-apac/",
@@ -3698,15 +3785,25 @@
       "https://doubleverify.com/how-dv-marketplace-suite-helps-platforms-drive-inventory-quality-and-efficiency-in-programmatic-advertising/",
       "https://doubleverify.com/apac-global-insights-report-webinar-2023/",
       "https://doubleverify.com/dvs-contextual-solution-drastically-lowered-cpms-and-cpcs-for-an-alcohol-brand/",
-      "https://doubleverify.com/dv-omd-improved-zains-ksa-campaign-authentic-rate-by-33/"
+      "https://doubleverify.com/dv-omd-improved-zains-ksa-campaign-authentic-rate-by-33/",
+      "https://doubleverify.com/doubleverifys-ctv-viewability-measurement-solution-revealed-exceptionally-high-viewability-rates-on-samsung-tv-plus/",
+      "https://doubleverify.com/doubleverify-measurement-on-youtube-and-google-video-partners-jp/",
+      "https://doubleverify.com/doubleverify-measurement-on-youtube-and-google-video-partners/",
+      "https://doubleverify.com/thats-a-wrap-another-successful-adventure-at-cannes-lions-international-festival-of-creativity-2023/",
+      "https://doubleverify.com/ask-the-experts-building-strategic-foundations-of-media-quality-jp/",
+      "https://doubleverify.com/top-5-takeaways-from-dvs-2023-global-insights-report-jp/",
+      "https://doubleverify.com/admanagerforum-2023-summer-summit-demand-meets-supply/",
+      "https://doubleverify.com/finding-the-right-strategy-to-power-influencer-marketing-campaigns/",
+      "https://doubleverify.com/dv-cologne-2023/",
+      "https://doubleverify.com/advertising-week-apac-2023-sydney/"
     ]
   },
   "capcutapi.com": {
-    "lastAt": 1758976882561,
+    "lastAt": 1759323238334,
     "urls": []
   },
   "vungle.com": {
-    "lastAt": 1758976885645,
+    "lastAt": 1759323242493,
     "urls": [
       "https://vungle.com/news/vungle-appears-in-forbes-must-read-tips-from-the-best-minds-in-mobile/",
       "https://vungle.com/",
@@ -3756,25 +3853,35 @@
       "https://vungle.com/blog/5-tips-for-diversifying-ad-spend-outside-the-us/",
       "https://vungle.com/blog/the-vungalow-meet-alice-senior-marketing-manager/",
       "https://vungle.com/blog/vungle-top-5-media-partner-boosts-its-market-share-by-36/",
-      "https://vungle.com/event/g-star/"
+      "https://vungle.com/event/g-star/",
+      "https://vungle.com/blog/g-star-demonstrated-koreas-growing-curiosity-in-overseas-monetization/",
+      "https://vungle.com/blog/3-golden-rules-of-in-app-monetization/",
+      "https://vungle.com/blog/vungle-adopts-sellers-json-supplychain-object-to-boost-the-value-of-publisher-inventory/",
+      "https://vungle.com/blog/new-test-your-sdk-placement-settings-on-your-own-test-devices/",
+      "https://vungle.com/event/learn-how-to-increase-your-revenue-with-vungle-at-white-nights-amsterdam/",
+      "https://vungle.com/blog/striving-to-redefine-how-the-world-experiences-mobile-ads/",
+      "https://vungle.com/blog/why-vungle-isnt-afraid-of-automation-and-you-shouldnt-be-either/",
+      "https://vungle.com/blog/part-3-getting-ready-for-gdpr-practical-considerations/",
+      "https://vungle.com/blog/gdpr-building-a-compliant-network-part-2-of-3/",
+      "https://vungle.com/blog/8-tips-for-making-a-great-playable-ad/"
     ]
   },
   "registrar-servers.com": {
-    "lastAt": 1758976888867,
+    "lastAt": 1759323245766,
     "urls": []
   },
   "dnsowl.com": {
-    "lastAt": 1758976892540,
+    "lastAt": 1759323248984,
     "urls": []
   },
   "b-cdn.net": {
-    "lastAt": 1758976894570,
+    "lastAt": 1759323249921,
     "urls": [
       "https://b-cdn.net/"
     ]
   },
   "ttvnw.net": {
-    "lastAt": 1758976898029,
+    "lastAt": 1759323253423,
     "urls": []
   },
   "akamaized.net": {
