@@ -3885,11 +3885,11 @@
     "urls": []
   },
   "akamaized.net": {
-    "lastAt": 1758976901216,
+    "lastAt": 1759325567578,
     "urls": []
   },
   "pubmatic.com": {
-    "lastAt": 1758976911670,
+    "lastAt": 1759325574441,
     "urls": [
       "https://pubmatic.com/",
       "https://pubmatic.com/landing-page/",
@@ -3940,11 +3940,21 @@
       "https://pubmatic.com/openwrap-sdk-gasbuddy/",
       "https://pubmatic.com/openwrap-sdk-gasbuddy-ps/",
       "https://pubmatic.com/9gag-openwrap-sdk-case-study-kr/",
-      "https://pubmatic.com/9gag-openwrap-sdk-case-study-cn/"
+      "https://pubmatic.com/9gag-openwrap-sdk-case-study-cn/",
+      "https://pubmatic.com/pubmatic-gift/",
+      "https://pubmatic.com/built-for-you-ps/",
+      "https://pubmatic.com/publift-33-uplift-programmatic-revenue-cn/",
+      "https://pubmatic.com/onesheet-es/",
+      "https://pubmatic.com/openwrap-advantage/",
+      "https://pubmatic.com/convert/",
+      "https://pubmatic.com/exceed-campaign-goals-with-biddable-ctv-marketplaces/",
+      "https://pubmatic.com/leadingthroughchange-ctv/",
+      "https://pubmatic.com/carbon-efficient/",
+      "https://pubmatic.com/event-participation-agreement/"
     ]
   },
   "gmail.com": {
-    "lastAt": 1758976913004,
+    "lastAt": 1759325575723,
     "urls": [
       "https://www.google.com/intl/de/gmail/about/policy/",
       "https://www.google.com/intl/el/gmail/about/",
@@ -3959,11 +3969,11 @@
     ]
   },
   "azurefd.net": {
-    "lastAt": 1758976915888,
+    "lastAt": 1759325578706,
     "urls": []
   },
   "forbes.com": {
-    "lastAt": 1758976922466,
+    "lastAt": 1759325583748,
     "urls": [
       "https://www.forbes.com/sites/tomsanderson/2025/09/11/this-decisive-talk-convinced-fc-barcelona-star-to-stay-at-club/",
       "https://www.forbes.com/sites/olliebarder/2025/09/11/daemon-x-machina-titanic-scion-brings-back-old-boss-for-a-new-event/",
@@ -4014,23 +4024,33 @@
       "https://www.forbes.com/sites/tonyeast/2025/09/27/pacers-dont-view-2025-26-as-a-gap-year-but-might-need-to-tweak-style/",
       "https://www.forbes.com/sites/jbrewer/2025/09/27/fiduciary-financial-advisors-are-not-all-equal-what-you-need-to-know/",
       "https://www.forbes.com/sites/bryantoporek/2025/09/27/sixers-quentin-grimes-would-both-lose-if-he-accepts-87-million-qualifying-offer/",
-      "https://www.forbes.com/sites/rdaniel-foster/2025/09/27/amsterdam-will-throw-an-epic-750th-birthday-party-on-october-27/"
+      "https://www.forbes.com/sites/rdaniel-foster/2025/09/27/amsterdam-will-throw-an-epic-750th-birthday-party-on-october-27/",
+      "https://www.forbes.com/sites/joemicallef/2025/10/01/two-grand-golds-fifteen-golds-cmb-2025s-single-malt-whisky-medalists/",
+      "https://www.forbes.com/sites/timnewcomb/2025/10/01/wilson-extends-lifestyle-court-shoe-lineup/",
+      "https://www.forbes.com/sites/rogervaldez/2025/10/01/bad-housing-policy-in-seattle-should-be-a-warning-to-other-cities/",
+      "https://www.forbes.com/sites/stuartanderson/2025/10/01/immigration-data-indicate-indian-student-enrollment-may-plummet/",
+      "https://www.forbes.com/sites/pamdanziger/2025/10/01/stanley-1913-aims-for-another-viral-hit-in-next-wicked-cup-launch-at-target/",
+      "https://www.forbes.com/sites/greatspeculations/2025/10/01/coreweave-stock-to-250/",
+      "https://www.forbes.com/sites/greatspeculations/2025/10/01/pfizer-drug-pricing-deal-more-upside-for-pfe-stock/",
+      "https://www.forbes.com/councils/forbestechcouncil/2025/10/01/how-to-automate-any-web-scraping-workflow-with-ai/",
+      "https://www.forbes.com/sites/joemicallef/2025/10/01/sherry-strength-and-style-the-best-scotch-whisky-at-cmb-2025/",
+      "https://www.forbes.com/councils/forbesbusinesscouncil/2025/10/01/top-mistakes-to-avoid-as-a-new-landlord/"
     ]
   },
   "godaddy.com": {
-    "lastAt": 1758976926188,
+    "lastAt": 1759325587539,
     "urls": []
   },
   "demdex.net": {
-    "lastAt": 1758976929822,
+    "lastAt": 1759325590541,
     "urls": []
   },
   "mangosip.ru": {
-    "lastAt": 1758976988665,
+    "lastAt": 1759325649385,
     "urls": []
   },
   "twitch.tv": {
-    "lastAt": 1758976991566,
+    "lastAt": 1759325651475,
     "urls": [
       "https://www.twitch.tv/annual-recap",
       "https://www.twitch.tv/directory/gaming",
@@ -4081,15 +4101,25 @@
       "https://www.twitch.tv/directory/category/silent-hill-f",
       "https://www.twitch.tv/--redacted_login--",
       "https://www.twitch.tv/sintica",
-      "https://www.twitch.tv/directory/category/apex-legends"
+      "https://www.twitch.tv/directory/category/apex-legends",
+      "https://www.twitch.tv/caedrel",
+      "https://www.twitch.tv/directory/category/food-and-drink",
+      "https://www.twitch.tv/directory/V.T",
+      "https://www.twitch.tv/directory/category/rust",
+      "https://www.twitch.tv/directory/tags/523fe736-fa95-44c7-b22f-13008ca2172c",
+      "https://www.twitch.tv/directory/category/roblox",
+      "https://www.twitch.tv/jessu",
+      "https://www.twitch.tv/sasavot",
+      "https://www.twitch.tv/directory/category/talk-shows-and-podcasts",
+      "https://www.twitch.tv/amazonmusic"
     ]
   },
   "jomodns.com": {
-    "lastAt": 1758976995729,
+    "lastAt": 1759325656187,
     "urls": []
   },
   "creativecommons.org": {
-    "lastAt": 1758977004580,
+    "lastAt": 1759325663562,
     "urls": [
       "https://creativecommons.org/",
       "https://creativecommons.org/2015/03/25/celebrate-creative-commons-with-a-limited-edition-tee/",
@@ -4140,15 +4170,25 @@
       "https://creativecommons.org/2002/09/25/telepolis/",
       "https://creativecommons.org/2002/09/25/slisalumnimagazine/",
       "https://creativecommons.org/2002/09/25/bitabout/",
-      "https://creativecommons.org/2002/09/25/newyorktimes/"
+      "https://creativecommons.org/2002/09/25/newyorktimes/",
+      "https://creativecommons.org/2002/09/25/creativecommonsannounced/",
+      "https://creativecommons.org/2002/09/25/sfgate/",
+      "https://creativecommons.org/2002/09/25/cnetnewscom/",
+      "https://creativecommons.org/2002/05/16/creativecommonsannounced-2/",
+      "https://creativecommons.org/2002/09/25/newmanagementteam/",
+      "https://creativecommons.org/2002/10/22/lawcom-2/",
+      "https://creativecommons.org/2002/10/22/telepolis-2/",
+      "https://creativecommons.org/2002/10/22/interactivistinfoexchange/",
+      "https://creativecommons.org/2002/10/22/definedesign/",
+      "https://creativecommons.org/2002/10/22/americaneconomicassociation/"
     ]
   },
   "edgecdn.ru": {
-    "lastAt": 1758977010189,
+    "lastAt": 1759325668713,
     "urls": []
   },
   "bbc.co.uk": {
-    "lastAt": 1758977015793,
+    "lastAt": 1759325674446,
     "urls": [
       "https://www.bbc.co.uk/sport",
       "https://www.bbc.co.uk/sport/formula1",
@@ -4199,11 +4239,21 @@
       "https://www.bbc.co.uk/news/health-10869329",
       "https://www.bbc.co.uk/news/uk-england-hereford-worcester-11285540",
       "https://www.bbc.co.uk/news/world-south-asia-10805458",
-      "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-11442610"
+      "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-11442610",
+      "https://www.bbc.co.uk/news/world-us-canada-10973459",
+      "https://www.bbc.co.uk/news/uk-northern-ireland-10981812",
+      "https://www.bbc.co.uk/news/uk-northern-ireland-10975548",
+      "https://www.bbc.co.uk/news/uk-northern-ireland-11485201",
+      "https://www.bbc.co.uk/news/health-10551039",
+      "https://www.bbc.co.uk/news/uk-england-cornwall-11294396",
+      "https://www.bbc.co.uk/news/uk-scotland-tayside-central-11500823",
+      "https://www.bbc.co.uk/news/uk-scotland-tayside-central-11564739",
+      "https://www.bbc.co.uk/news/uk-england-surrey-10979233",
+      "https://www.bbc.co.uk/news/health-11437079"
     ]
   },
   "bbc.com": {
-    "lastAt": 1758977019767,
+    "lastAt": 1759325678837,
     "urls": [
       "https://bbc.com/",
       "https://www.bbc.com/arabic/multimedia/2009/08/090827_sf_nayyefattempt_tc2",
@@ -4254,11 +4304,21 @@
       "https://www.bbc.com/arabic/worldnews/2009/06/090623_afghanistan_germans_tc2",
       "https://www.bbc.com/arabic/business/2009/06/090623_us_china_trade_tc2",
       "https://www.bbc.com/arabic/middleeast/2009/06/090627_af_rafah_crossing_tc2",
-      "https://www.bbc.com/arabic/business/2009/06/090623_iraq_oildfield_development"
+      "https://www.bbc.com/arabic/business/2009/06/090623_iraq_oildfield_development",
+      "https://www.bbc.com/arabic/artandculture/2009/06/090623_me_film_sheata_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090624_sf_iraq_kurd_elex_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090624_sf_iran_g8_tc2",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090623_om_women_mayor_tc2",
+      "https://www.bbc.com/arabic/business/2009/06/090624_sf_eu_auditing_tc2",
+      "https://www.bbc.com/arabic/business/2009/06/090618_tomtest",
+      "https://www.bbc.com/arabic/middleeast/2009/06/090623_iz_cairo_russia_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090620_mz_aqsa_tunnels_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090623_sf_washington_train_tc2",
+      "https://www.bbc.com/arabic/multimedia/2009/06/090620_ma_iran_rallies_tc2"
     ]
   },
   "slack.com": {
-    "lastAt": 1758977023095,
+    "lastAt": 1759325682150,
     "urls": [
       "https://slack.com/",
       "https://slack.com//trust/data-requests",
@@ -4306,11 +4366,19 @@
       "https://slack.com/blog/collaboration/asynchronous-communication-best-practices",
       "https://slack.com/blog/collaboration/asynchronous-video-hybrid-workplace",
       "https://slack.com/blog/collaboration/approach-collaboration-with-intention",
-      "https://slack.com/blog/collaboration/asynchronous-video-meetings-future-work"
+      "https://slack.com/blog/collaboration/asynchronous-video-meetings-future-work",
+      "https://slack.com/blog/collaboration/attention-london-and-tokyo-frontiers-tour-is-coming-to-you",
+      "https://slack.com/blog/collaboration/atlassian-and-slack-drive-value-for-technical-teams",
+      "https://slack.com/blog/collaboration/automating-customer-support-escalations-in-slack",
+      "https://slack.com/blog/collaboration/balancing-work-parenting-while-remote",
+      "https://slack.com/blog/collaboration/best-business-file-sharing-solutions",
+      "https://slack.com/blog/collaboration/battle-meeting-fatigue-slack-channels",
+      "https://slack.com/blog/collaboration/best-collaboration-tools",
+      "https://slack.com/blog/collaboration/best-document-collaboration-tools"
     ]
   },
   "sourceforge.net": {
-    "lastAt": 1758979421393,
+    "lastAt": 1759325684008,
     "urls": [
       "https://sourceforge.net/top",
       "https://sourceforge.net/",
@@ -4361,15 +4429,25 @@
       "https://sourceforge.net/projects/autosave/",
       "https://sourceforge.net/projects/autosave/reviews/",
       "https://sourceforge.net/projects/autosave/support",
-      "https://sourceforge.net/projects/rocketdockissue/"
+      "https://sourceforge.net/projects/rocketdockissue/",
+      "https://sourceforge.net/projects/rocketdockissue/reviews/",
+      "https://sourceforge.net/projects/rocketdockissue/files/",
+      "https://sourceforge.net/projects/opensourcetools/reviews/",
+      "https://sourceforge.net/projects/opensourcetools/",
+      "https://sourceforge.net/projects/rocketdockissue/support",
+      "https://sourceforge.net/projects/opensourcetools/support",
+      "https://sourceforge.net/projects/opensourcetools/files/",
+      "https://sourceforge.net/projects/onlinechargings/",
+      "https://sourceforge.net/projects/onlinechargings/support",
+      "https://sourceforge.net/projects/onlinechargings/reviews/"
     ]
   },
   "root-servers.net": {
-    "lastAt": 1758979424565,
+    "lastAt": 1759325687503,
     "urls": []
   },
   "weather.com": {
-    "lastAt": 1758979431495,
+    "lastAt": 1759325694885,
     "urls": [
       "https://weather.com/",
       "https://weather.com/apps",
@@ -4413,11 +4491,17 @@
       "https://weather.com/maps/satellite/unitedkingdom-weather-map",
       "https://weather.com/photos/collection/ugc/news/weather-hurricanes",
       "https://weather.com/maps/weekly-precipitation-estimate",
-      "https://weather.com/maps/us-visible-satellite"
+      "https://weather.com/maps/us-visible-satellite",
+      "https://weather.com/maps/satellite/france-weather-map",
+      "https://weather.com/maps/eastcentraldopplerradar",
+      "https://weather.com/maps/uswatervapor",
+      "https://weather.com/photos",
+      "https://weather.com/maps/usnorthcentraldopplerradar",
+      "https://weather.com/maps/severe/lightningstrikes"
     ]
   },
   "netangels.ru": {
-    "lastAt": 1758979438814,
+    "lastAt": 1759325700604,
     "urls": [
       "https://www.netangels.ru/blog/",
       "https://www.netangels.ru/company/",
@@ -4468,15 +4552,25 @@
       "https://www.netangels.ru/domain/accountant/",
       "https://www.netangels.ru/domain/accountants/",
       "https://www.netangels.ru/domain/abkhazia.su/",
-      "https://www.netangels.ru/domain/actor/"
+      "https://www.netangels.ru/domain/actor/",
+      "https://www.netangels.ru/domain/ad/",
+      "https://www.netangels.ru/domain/adult/",
+      "https://www.netangels.ru/domain/adygeya.ru/",
+      "https://www.netangels.ru/domain/aero/",
+      "https://www.netangels.ru/domain/adygeya.su/",
+      "https://www.netangels.ru/domain/af/",
+      "https://www.netangels.ru/domain/ae/",
+      "https://www.netangels.ru/domain/ag/",
+      "https://www.netangels.ru/domain/africa/",
+      "https://www.netangels.ru/domain/agency/"
     ]
   },
   "azurewebsites.net": {
-    "lastAt": 1758979441668,
+    "lastAt": 1759325703658,
     "urls": []
   },
   "roku.com": {
-    "lastAt": 1758979446523,
+    "lastAt": 1759325710796,
     "urls": [
       "https://www.roku.com/",
       "https://www.roku.com/en-gb/",
@@ -4527,21 +4621,31 @@
       "https://www.roku.com/products/players/compare",
       "https://www.roku.com/de-de/products/players/compare",
       "https://www.roku.com/pt-br/products/players/compare",
-      "https://www.roku.com/fr-ca/products/players/compare"
+      "https://www.roku.com/fr-ca/products/players/compare",
+      "https://www.roku.com/products/players/roku-ultra",
+      "https://www.roku.com/products/smart-home/lights/roku-smart-light-strip-se",
+      "https://www.roku.com/fr-ca/products/players/roku-ultra",
+      "https://www.roku.com/en-ca/products/players/roku-ultra",
+      "https://www.roku.com/about/content-policy",
+      "https://www.roku.com/products/accessories",
+      "https://www.roku.com/products/smart-home/cameras/roku-floodlight-camera",
+      "https://www.roku.com/products/smart-home/cameras/roku-solar-panel-usbc",
+      "https://www.roku.com/en-gb/products/finder/roku-tv/emtronics",
+      "https://www.roku.com/en-ca/whats-on/the-roku-channel/roku-originals/punkd"
     ]
   },
   "scorecardresearch.com": {
-    "lastAt": 1758979447657,
+    "lastAt": 1759325712132,
     "urls": [
       "https://scorecardresearch.com/"
     ]
   },
   "webex.com": {
-    "lastAt": 1758979451647,
+    "lastAt": 1759325715155,
     "urls": []
   },
   "ebay.com": {
-    "lastAt": 1758979459094,
+    "lastAt": 1759325721543,
     "urls": [
       "https://www.ebay.com/itm/326765290243",
       "https://www.ebay.com/itm/146819987615",
@@ -4587,11 +4691,20 @@
       "https://www.ebay.com/itm/297635027098",
       "https://www.ebay.com/itm/336199092892",
       "https://www.ebay.com/itm/357666964102",
-      "https://www.ebay.com/itm/397086584107"
+      "https://www.ebay.com/itm/397086584107",
+      "https://www.ebay.com/itm/146854240188",
+      "https://www.ebay.com/itm/277412885089",
+      "https://www.ebay.com/itm/167824732876",
+      "https://www.ebay.com/itm/157347614596",
+      "https://www.ebay.com/itm/146854240198",
+      "https://www.ebay.com/itm/167824732978",
+      "https://www.ebay.com/itm/167824732962",
+      "https://www.ebay.com/itm/197735348642",
+      "https://www.ebay.com/itm/326793639142"
     ]
   },
   "salesforce.com": {
-    "lastAt": 1758979463851,
+    "lastAt": 1759325724619,
     "urls": [
       "https://www.salesforce.com/",
       "https://salesforce.com/",
@@ -4642,19 +4755,29 @@
       "https://www.salesforce.com/service/ai/",
       "https://www.salesforce.com/marketing/b2b-automation/",
       "https://www.salesforce.com/service/customer-service-incident-management/",
-      "https://www.salesforce.com/marketing/engagement/"
+      "https://www.salesforce.com/marketing/engagement/",
+      "https://www.salesforce.com/marketing/data/",
+      "https://www.salesforce.com/marketing/loyalty-management/",
+      "https://www.salesforce.com/marketing/automation/",
+      "https://www.salesforce.com/marketing/all-products/",
+      "https://www.salesforce.com/marketing/ai/",
+      "https://www.salesforce.com/marketing/personalization/",
+      "https://www.salesforce.com/marketing/pricing/",
+      "https://www.salesforce.com/commerce/customer-acquisition/",
+      "https://www.salesforce.com/commerce/all-ecommerce-products/",
+      "https://www.salesforce.com/commerce/online-store-platform/"
     ]
   },
   "comcast.net": {
-    "lastAt": 1758979467061,
+    "lastAt": 1759325728102,
     "urls": []
   },
   "wsdvs.com": {
-    "lastAt": 1758979471716,
+    "lastAt": 1759325732487,
     "urls": []
   },
   "ubuntu.com": {
-    "lastAt": 1758979476659,
+    "lastAt": 1759325746895,
     "urls": [
       "https://ubuntu.com/",
       "https://ubuntu.com/pricing",
@@ -4705,17 +4828,27 @@
       "https://ubuntu.com/appliance/nextcloud/vm",
       "https://ubuntu.com/appliance/about",
       "https://ubuntu.com/appliance/mosquitto",
-      "https://ubuntu.com/appliance/nextcloud/intel-nuc"
+      "https://ubuntu.com/appliance/nextcloud/intel-nuc",
+      "https://ubuntu.com/appliance/mosquitto/raspberry-pi",
+      "https://ubuntu.com/appliance/lxd",
+      "https://ubuntu.com/appliance/mosquitto/vm",
+      "https://ubuntu.com/appliance/mosquitto/raspberry-pi2",
+      "https://ubuntu.com/appliance/mosquitto/intel-nuc",
+      "https://ubuntu.com/appliance/lxd/raspberry-pi",
+      "https://ubuntu.com/appliance/lxd/intel-nuc",
+      "https://ubuntu.com/appliance/openhab",
+      "https://ubuntu.com/appliance/openhab/raspberry-pi",
+      "https://ubuntu.com/appliance/openhab/raspberry-pi2"
     ]
   },
   "mit.edu": {
-    "lastAt": 1758979478227,
+    "lastAt": 1759325747900,
     "urls": [
       "https://mit.edu/"
     ]
   },
   "ksyuncdn.com": {
-    "lastAt": 1758979482396,
+    "lastAt": 1759325753173,
     "urls": []
   },
   "oracle.com": {
