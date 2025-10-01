@@ -649,11 +649,11 @@
     ]
   },
   "apple-dns.net": {
-    "lastAt": 1758954629158,
+    "lastAt": 1759303398349,
     "urls": []
   },
   "digicert.com": {
-    "lastAt": 1758954641597,
+    "lastAt": 1759303404080,
     "urls": [
       "https://www.digicert.com/",
       "https://www.digicert.com/resource-center",
@@ -692,11 +692,17 @@
       "https://www.digicert.com/qualified-certificates/compare-psd2-qsealc",
       "https://www.digicert.com/qualified-certificates/compare-psd2-qwacs",
       "https://www.digicert.com/pkioverheid/compare-pkio-document-signing",
-      "https://www.digicert.com/qualified-certificates/qualified-web-authentication-certificates-qwacs"
+      "https://www.digicert.com/qualified-certificates/qualified-web-authentication-certificates-qwacs",
+      "https://www.digicert.com/pkioverheid/compare-pkio-authentication-encryption",
+      "https://www.digicert.com/tls-ssl/malware-scanning",
+      "https://www.digicert.com/tls-ssl/unified-patent-court-certificates",
+      "https://www.digicert.com/tls-ssl/post-quantum-cryptography",
+      "https://www.digicert.com/smime-certificate-linter",
+      "https://www.digicert.com/pkioverheid/private-services-server"
     ]
   },
   "pinterest.com": {
-    "lastAt": 1758954646799,
+    "lastAt": 1759303410090,
     "urls": [
       "https://pinterest.com/",
       "https://www.pinterest.com/ideas/traditional-polish-gulasz/948853720619/",
@@ -747,23 +753,33 @@
       "https://www.pinterest.com/leonardoycamila/",
       "https://www.pinterest.com/frump533/",
       "https://www.pinterest.com/kmwilson063/",
-      "https://www.pinterest.com/sheylacalderon05/"
+      "https://www.pinterest.com/sheylacalderon05/",
+      "https://www.pinterest.com/pin/family-vacations-with-teenagers-in-2025--397653842117724824/",
+      "https://www.pinterest.com/pin/gmbn-on-instagram-dropping-in-with-a-new-bike-have-you-seen-doddstar1979s-first-look-at-the-new-nukeproofbikes-reactor-over-on-gmbntech-hit-the-link--476185360601258460/",
+      "https://www.pinterest.com/pin/wood-magic-marble-towel-holder-with-wheat-design-in-2025--577164508533000312/",
+      "https://www.pinterest.com/pin/glow-up--1036602039213256093/",
+      "https://www.pinterest.com/pin/bolivar-state-flag-ad-statevenezuelaflagbolivar-affiliate--704813410421231714/",
+      "https://www.pinterest.com/pin/collage-item-pins--1096626578006631351/",
+      "https://www.pinterest.com/pin/handwoven-turquoise-glass-bead-bracelet-with-by-tiachia-on-etsy-9600--273945589807288295/",
+      "https://www.pinterest.com/pin/floral-garland-in-pink--212021094949712864/",
+      "https://www.pinterest.com/pin/mittagessen-bei-chambers-green-walking-on-rocky-beach-picnic-1910s-foto-schwarz-wei-foto-etsyde-in-2025--4599230887450552320/",
+      "https://www.pinterest.com/pin/groovy-kids-stuff--24206916722703203/"
     ]
   },
   "sharepoint.com": {
-    "lastAt": 1758954715609,
+    "lastAt": 1759303478900,
     "urls": []
   },
   "gtld-servers.net": {
-    "lastAt": 1758954718930,
+    "lastAt": 1759303482295,
     "urls": []
   },
   "tiktokcdn.com": {
-    "lastAt": 1758954722060,
+    "lastAt": 1759303485536,
     "urls": []
   },
   "yahoo.com": {
-    "lastAt": 1758954726255,
+    "lastAt": 1759303490101,
     "urls": [
       "https://www.yahoo.com/news/weather/united-states/virginia/abingdon-2351607",
       "https://www.yahoo.com/news/weather/united-states/oregon/gleneden-beach-2411148",
@@ -814,21 +830,31 @@
       "https://www.yahoo.com/news/weather/united-states/washington/port-hadlock-2475383",
       "https://www.yahoo.com/news/weather/united-states/virginia/blue-ridge-2365871",
       "https://www.yahoo.com/news/weather/united-states/pennsylvania/blue-ridge-summit-2365894",
-      "https://www.yahoo.com/news/weather/united-states/maryland/stevenson-2499763"
+      "https://www.yahoo.com/news/weather/united-states/maryland/stevenson-2499763",
+      "https://www.yahoo.com/news/weather/united-states/arkansas/new-blaine-2458046",
+      "https://www.yahoo.com/news/weather/united-states/west-virginia/rock-2483007",
+      "https://www.yahoo.com/news/weather/united-states/alabama/anniston-2354927",
+      "https://www.yahoo.com/news/weather/united-states/georgia/chickamauga-2379653",
+      "https://www.yahoo.com/news/weather/united-states/wisconsin/minocqua-2452171",
+      "https://www.yahoo.com/news/weather/united-states/tennessee/tellico-plains-2504613",
+      "https://www.yahoo.com/news/weather/united-states/iowa/north-liberty-2461272",
+      "https://www.yahoo.com/news/weather/united-states/tennessee/clarksville-2380893",
+      "https://www.yahoo.com/news/weather/united-states/georgia/cornelia-2385105",
+      "https://www.yahoo.com/news/weather/united-states/connecticut/southern-connecticut-state-university-24866405"
     ]
   },
   "windows.net": {
-    "lastAt": 1758954731898,
+    "lastAt": 1759303494203,
     "urls": []
   },
   "googlesyndication.com": {
-    "lastAt": 1758954733060,
+    "lastAt": 1759303495355,
     "urls": [
       "https://googlesyndication.com/"
     ]
   },
   "roblox.com": {
-    "lastAt": 1758954734040,
+    "lastAt": 1759303496723,
     "urls": [
       "https://www.roblox.com/",
       "https://www.roblox.com/charts",
@@ -848,17 +874,17 @@
     ]
   },
   "domaincontrol.com": {
-    "lastAt": 1758954737473,
+    "lastAt": 1759303499909,
     "urls": []
   },
   "skype.com": {
-    "lastAt": 1758954738190,
+    "lastAt": 1759303500551,
     "urls": [
       "https://skype.com/"
     ]
   },
   "ntp.org": {
-    "lastAt": 1758954741337,
+    "lastAt": 1759303502029,
     "urls": [
       "https://www.ntp.org/support/securitynotice/ntpbug3806/",
       "https://www.ntp.org/reflib/enhancements/suggestions-protocol-and-security-enhancements-ntp/",
@@ -909,15 +935,25 @@
       "https://www.ntp.org/support/securitynotice/ntpbug3110/",
       "https://www.ntp.org/support/securitynotice/ntpbug3113/",
       "https://www.ntp.org/support/securitynotice/ntpbug3114/",
-      "https://www.ntp.org/support/securitynotice/ntpbug3118/"
+      "https://www.ntp.org/support/securitynotice/ntpbug3118/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3043/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3119/",
+      "https://www.ntp.org/support/securitynotice/4_2_8p8-release-announcement/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3044/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3042/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3045/",
+      "https://www.ntp.org/support/securitynotice/ntpbug2952/",
+      "https://www.ntp.org/support/securitynotice/4_2_8p7-release-announcement/",
+      "https://www.ntp.org/support/securitynotice/ntpbug2879/",
+      "https://www.ntp.org/support/securitynotice/ntpbug3046/"
     ]
   },
   "whatsapp.com": {
-    "lastAt": 1758954744717,
+    "lastAt": 1759303505840,
     "urls": []
   },
   "msn.com": {
-    "lastAt": 1758957473440,
+    "lastAt": 1759303513824,
     "urls": [
       "https://www.msn.com/en-us/play",
       "https://www.msn.com/en-us/play/bubble",
@@ -968,11 +1004,21 @@
       "https://www.msn.com/en-us/play/tag-bubble_shooter",
       "https://www.msn.com/en-us/play/tag-building",
       "https://www.msn.com/en-us/play/tag-candy_themed",
-      "https://www.msn.com/en-us/play/tag-car"
+      "https://www.msn.com/en-us/play/tag-car",
+      "https://www.msn.com/en-us/play/tag-cartoon",
+      "https://www.msn.com/en-us/play/tag-character_customization",
+      "https://www.msn.com/en-us/play/tag-cats",
+      "https://www.msn.com/en-us/play/tag-collecting",
+      "https://www.msn.com/en-us/play/tag-city_building",
+      "https://www.msn.com/en-us/play/tag-color",
+      "https://www.msn.com/en-us/play/tag-color_matching",
+      "https://www.msn.com/en-us/play/tag-colorful",
+      "https://www.msn.com/en-us/play/tag-combat",
+      "https://www.msn.com/en-us/play/tag-crafting"
     ]
   },
   "goo.gl": {
-    "lastAt": 1758957474589,
+    "lastAt": 1759303515442,
     "urls": [
       "https://goo.gl/"
     ]
@@ -48591,7 +48637,7 @@
     ]
   },
   "jino.ru": {
-    "lastAt": 1758921720157,
+    "lastAt": 1759303522986,
     "urls": [
       "https://jino.ru/hosting/",
       "https://jino.ru/mail/",
@@ -48632,43 +48678,54 @@
       "https://jino.ru/journal/articles/domen-one-makita/",
       "https://jino.ru/journal/articles/domen-io-games/",
       "https://jino.ru/journal/articles/minecraft-dlya-detey/",
-      "https://jino.ru/journal/articles/minecraft-poyavlenie/"
+      "https://jino.ru/journal/articles/minecraft-poyavlenie/",
+      "https://jino.ru/journal/articles/certificate-mintsifry/",
+      "https://jino.ru/journal/articles/wordpress-2023/",
+      "https://jino.ru/journal/articles/rebranding/",
+      "https://jino.ru/journal/articles/shagi-posle-udaleniya-virusov-s-saita/",
+      "https://jino.ru/journal/articles/programma-winscp/",
+      "https://jino.ru/journal/articles/jino-pluses/",
+      "https://jino.ru/journal/articles/sozdanie-servera-minecraft/",
+      "https://jino.ru/journal/articles/domen-aktiv-kompanii/",
+      "https://jino.ru/journal/articles/rabota-cdn/",
+      "https://jino.ru/journal/articles/microsoft-zabyla-prodlit-domen/"
     ]
   },
   "im-apps.net": {
-    "lastAt": 1758921723894,
+    "lastAt": 1759303526858,
     "urls": []
   },
   "pndsn.com": {
-    "lastAt": 1758921727132,
+    "lastAt": 1759303530249,
     "urls": []
   },
   "infocyte.com": {
-    "lastAt": 1758921731419,
+    "lastAt": 1759303534898,
     "urls": []
   },
   "itv.com": {
-    "lastAt": 1758921800233,
+    "lastAt": 1759303603706,
     "urls": []
   },
   "swiftkey.com": {
-    "lastAt": 1758921801114,
+    "lastAt": 1759303604334,
     "urls": [
       "https://swiftkey.com/"
     ]
   },
   "riskified.com": {
-    "lastAt": 1758921805749,
+    "lastAt": 1759303608577,
     "urls": []
   },
   "thetimes.co.uk": {
-    "lastAt": 1758921820876,
+    "lastAt": 1759303622479,
     "urls": [
-      "https://thetimes.co.uk/"
+      "https://thetimes.co.uk/",
+      "https://www.thetimes.com/subscribe/"
     ]
   },
   "selectel.ru": {
-    "lastAt": 1758921840461,
+    "lastAt": 1759303661094,
     "urls": [
       "https://selectel.ru/",
       "https://selectel.ru/graphics-card-nvidia-h100-80gb/",
@@ -48709,25 +48766,35 @@
       "https://selectel.ru/about/documents/",
       "https://selectel.ru/about/partners-programm/",
       "https://selectel.ru/lab/2e8cb-eatx/",
-      "https://selectel.ru/about/security/"
+      "https://selectel.ru/about/security/",
+      "https://selectel.ru/lab/cxl-ram-expander/",
+      "https://selectel.ru/lab/general-load-balancer/",
+      "https://selectel.ru/lab/loongson-3c5000l/",
+      "https://selectel.ru/lab/h100/",
+      "https://selectel.ru/lab/anklav/",
+      "https://selectel.ru/lab/milk-v-mars/",
+      "https://selectel.ru/lab/server-selectel/",
+      "https://selectel.ru/lab/starfive-visionfive-v1/",
+      "https://selectel.ru/prices/calculator/",
+      "https://selectel.ru/services/1c-leasing/"
     ]
   },
   "nejm.org": {
-    "lastAt": 1758921845549,
+    "lastAt": 1759303665854,
     "urls": []
   },
   "protechts.net": {
-    "lastAt": 1758921848637,
+    "lastAt": 1759303669296,
     "urls": []
   },
   "schwab.com": {
-    "lastAt": 1758921849226,
+    "lastAt": 1759303669839,
     "urls": [
       "https://schwab.com/"
     ]
   },
   "permutive.com": {
-    "lastAt": 1758925179968,
+    "lastAt": 1759303674975,
     "urls": [
       "https://permutive.com/",
       "http://permutive.com/how-publishers-can-reclaim-their-rightful-place-in-the-advertising-contract",
@@ -48768,11 +48835,21 @@
       "http://permutive.com/seven-common-pitfalls-digital-publishers-face-when-shifting-their-focus-to-first-party-data",
       "http://permutive.com/permutive-has-secured-75m-in-series-c-funding-led-by-softbank-vision-fund-2",
       "http://permutive.com/publishers-step-up-to-prove-the-power-the-of-their-first-party-data-to-advertisers",
-      "http://permutive.com/consumer-trust-is-the-future-of-digital-advertising"
+      "http://permutive.com/consumer-trust-is-the-future-of-digital-advertising",
+      "http://permutive.com/in-conversation-with-the-independent-first-party-data-cohorts-and-cleanrooms",
+      "http://permutive.com/how-ranker-uses-cohorts-to-connect-advertisers-with-valued-audiences",
+      "http://permutive.com/identity-in-a-post-cookie-world",
+      "http://permutive.com/three-things-we-learned-about-creating-effective-first-party-data-strategies",
+      "http://permutive.com/building-a-privacy-first-infrastructure-for-digital-advertising",
+      "http://permutive.com/podcast-reimagining-data-privacy",
+      "http://permutive.com/tackling-the-identity-challenge-why-every-publisher-has-100-visibility-on-their-audience",
+      "http://permutive.com/why-first-party-data-solves-mobile-privacy-challenges-for-app-publishers",
+      "http://permutive.com/permutive-appoints-mark-pearlstein-as-chief-revenue-officer-to-manage-global-revenue",
+      "http://permutive.com/identity-isnt-dead-but-its-changing-for-the-better"
     ]
   },
   "windy.com": {
-    "lastAt": 1758925181600,
+    "lastAt": 1759303675549,
     "urls": [
       "https://windy.com/"
     ]
