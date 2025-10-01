@@ -46969,7 +46969,7 @@
     ]
   },
   "fwmrm.net": {
-    "lastAt": 1758914317809,
+    "lastAt": 1759288506510,
     "urls": [
       "https://www.freewheel.com/",
       "https://www.freewheel.com/optout.html",
@@ -47010,21 +47010,31 @@
       "https://www.freewheel.com/insights/blog/preventing-the-perils-of-programmatic-for-premium-video",
       "https://www.freewheel.com/insights/blog/reaching-voters-in-a-cross-screen-world",
       "https://www.freewheel.com/insights/blog/freewheel-mediatalks-podcast-episode-1",
-      "https://www.freewheel.com/insights/blog/live-sports-the-power-of-the-live-audience-for-brands"
+      "https://www.freewheel.com/insights/blog/live-sports-the-power-of-the-live-audience-for-brands",
+      "https://www.freewheel.com/insights/blog/across-europe-tv-viewing-is-already-a-connected-experience",
+      "https://www.freewheel.com/insights/blog/fostering-inclusion-through-the-black-employee-network",
+      "https://www.freewheel.com/insights/blog/getting-to-know-freewheels-new-cto-yuling-ma",
+      "https://www.freewheel.com/insights/blog/freewheel-video-marketplace-report-inside-frances-evolving-premium-video-industry",
+      "https://www.freewheel.com/insights/blog/freewheel-media-pillars-measurement-transparency-and-flexibility",
+      "https://www.freewheel.com/insights/blog/tv-whether-streaming-or-linear-is-your-best-bet-for-engaging-the-post-pandemic-consumer",
+      "https://www.freewheel.com/insights/blog/fast-becoming-force-streaming-ad-delivery",
+      "https://www.freewheel.com/insights/blog/programmatic-digital-video-ad-buys-likely-to-reach-50-percent-milestone-in-2026",
+      "https://www.freewheel.com/insights/blog/advertising-during-world-cup-means-scoring-big-with-audiences",
+      "https://www.freewheel.com/insights/blog/how-programmatic-ad-buys-shaping-premium-video-landscape"
     ]
   },
   "altervista.org": {
-    "lastAt": 1758914320913,
+    "lastAt": 1759288509384,
     "urls": [
       "https://altervista.org/"
     ]
   },
   "yimg.jp": {
-    "lastAt": 1758914324508,
+    "lastAt": 1759288513306,
     "urls": []
   },
   "apachefriends.org": {
-    "lastAt": 1758914326138,
+    "lastAt": 1759288515105,
     "urls": [
       "https://www.apachefriends.org/blog.html",
       "https://www.apachefriends.org/404.html",
@@ -47065,17 +47075,27 @@
       "https://www.apachefriends.org/faq_osx.html",
       "https://www.apachefriends.org/es/faq_osx.html",
       "https://www.apachefriends.org/hu/faq_osx.html",
-      "https://www.apachefriends.org/fr/faq_osx.html"
+      "https://www.apachefriends.org/fr/faq_osx.html",
+      "https://www.apachefriends.org/it/faq_osx.html",
+      "https://www.apachefriends.org/ro/faq_osx.html",
+      "https://www.apachefriends.org/jp/faq_osx.html",
+      "https://www.apachefriends.org/pl/faq_osx.html",
+      "https://www.apachefriends.org/pt_br/faq_osx.html",
+      "https://www.apachefriends.org/ru/faq_osx.html",
+      "https://www.apachefriends.org/tr/faq_osx.html",
+      "https://www.apachefriends.org/ur/faq_osx.html",
+      "https://www.apachefriends.org/zh_cn/faq_osx.html",
+      "https://www.apachefriends.org/zh_tw/faq_osx.html"
     ]
   },
   "signal.org": {
-    "lastAt": 1758914327489,
+    "lastAt": 1759288516287,
     "urls": [
       "https://signal.org/"
     ]
   },
   "grafana.com": {
-    "lastAt": 1758914331992,
+    "lastAt": 1759288521859,
     "urls": [
       "https://grafana.com/",
       "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v11-5/",
@@ -47116,11 +47136,21 @@
       "https://grafana.com/docs/beyla/latest/configure/export-modes/",
       "https://grafana.com/docs/grafana-cloud/visualizations/dashboards/build-dashboards/create-dashboard/",
       "https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/create-dashboard/",
-      "https://grafana.com/docs/k6/latest/javascript-api/k6-crypto/createhash/"
+      "https://grafana.com/docs/k6/latest/javascript-api/k6-crypto/createhash/",
+      "https://grafana.com/docs/k6/latest/javascript-api/crypto/subtlecrypto/decrypt/",
+      "https://grafana.com/docs/k6/latest/using-k6/scenarios/executors/",
+      "https://grafana.com/docs/k6/latest/extensions/explore/",
+      "https://grafana.com/docs/k6/latest/using-k6/secret-source/file/",
+      "https://grafana.com/docs/grafana-cloud/cost-management-and-billing/analyze-costs/metrics-costs/define-usage-groups/",
+      "https://grafana.com/docs/grafana-cloud/monitor-applications/frontend-observability/quickstart/",
+      "https://grafana.com/docs/grafana-cloud/monitor-applications/ai-observability/genai/evaluations/setup/",
+      "https://grafana.com/docs/grafana-cloud/monitor-applications/ai-observability/genai/observability/",
+      "https://grafana.com/docs/grafana-cloud/monitor-applications/ai-observability/genai/observability/setup/",
+      "https://grafana.com/docs/k6/latest/javascript-api/crypto/getrandomvalues/"
     ]
   },
   "unity.com": {
-    "lastAt": 1758914337751,
+    "lastAt": 1759288528188,
     "urls": [
       "https://unity.com/blog/games/neon",
       "https://unity.com/",
@@ -47161,15 +47191,25 @@
       "https://unity.com/blog/games/spectating-vr",
       "https://unity.com/ja/blog/subscription-why",
       "https://unity.com/kr/blog/subscription-why",
-      "https://unity.com/fr/blog/what-is-gametech"
+      "https://unity.com/fr/blog/what-is-gametech",
+      "https://unity.com/blog/pixyz-whats-new-2024",
+      "https://unity.com/blog/games/koop-case-study",
+      "https://unity.com/blog/munich-autoday-recap",
+      "https://unity.com/blog/bmw-asset-management",
+      "https://unity.com/blog/news/a-vote-for-a-bug",
+      "https://unity.com/fr/blog/time-to-engagement",
+      "https://unity.com/es/blog/time-to-engagement",
+      "https://unity.com/de/blog/time-to-engagement",
+      "https://unity.com/ru/blog/time-to-engagement",
+      "https://unity.com/pt/blog/time-to-engagement"
     ]
   },
   "amp-endpoint3.com": {
-    "lastAt": 1758914340939,
+    "lastAt": 1759288531384,
     "urls": []
   },
   "livescience.com": {
-    "lastAt": 1758914350474,
+    "lastAt": 1759288537131,
     "urls": [
       "https://www.livescience.com/space/extraterrestrial-life/chinese-scientists-hunt-for-alien-radio-signals-in-potentially-habitable-trappist-1-system",
       "https://www.livescience.com/space/astronomy/james-webb-telescopes-starlit-mountaintop-could-be-the-observatorys-best-image-yet-space-photo-of-the-week",
@@ -47210,15 +47250,25 @@
       "https://www.livescience.com/planet-earth/plants/cairo-fossil-forest-the-oldest-forest-in-north-america-with-385-million-year-old-trees",
       "https://www.livescience.com/space/nasa-launches-special-mission-to-study-earths-mysterious-halo",
       "https://www.livescience.com/archaeology/gold-coins-started-appearing-one-after-another-1-400-year-old-hoard-with-money-and-jewelry-unearthed-near-sea-of-galilee",
-      "https://www.livescience.com/space/asteroids/science-history-dart-humanitys-first-ever-asteroid-deflection-mission-punches-a-space-rock-in-the-face-sept-26-2022"
+      "https://www.livescience.com/space/asteroids/science-history-dart-humanitys-first-ever-asteroid-deflection-mission-punches-a-space-rock-in-the-face-sept-26-2022",
+      "https://www.livescience.com/archaeology/check-new-reconstructions-reveal-the-faces-beneath-the-death-masks-of-pre-hispanic-colombians",
+      "https://www.livescience.com/space/black-holes/stars-that-brush-past-black-holes-live-longer-stranger-lives-after-their-close-encounters-with-death",
+      "https://www.livescience.com/space/astronomy/james-webb-telescope-spies-a-farting-dwarf-planet-with-fluorescent-gas-in-the-outer-solar-system",
+      "https://www.livescience.com/archaeology/ancient-egyptians/tutankhamun-quiz-how-much-do-you-know-about-the-famous-boy-king-from-ancient-egypt",
+      "https://www.livescience.com/archaeology/life-size-rock-art-points-the-way-to-oldest-human-inhabitants-of-saudi-arabia-and-the-desert-oases-they-used",
+      "https://www.livescience.com/technology/computing/microsoft-unveils-new-liquid-cooled-computer-chips-they-could-prevent-ai-data-centers-from-massively-overheating",
+      "https://www.livescience.com/planet-earth/geology/sea-of-saharan-star-dunes-clashes-with-otherworldly-terrain-where-2-countries-meet-earth-from-space",
+      "https://www.livescience.com/human-behavior/citation-cartels-ghost-writing-and-fake-peer-review-how-fraud-is-causing-a-crisis-in-science-and-what-we-can-do-about-it-opinion",
+      "https://www.livescience.com/planet-earth/iran-among-worlds-most-extreme-subsidence-hotspots-with-some-areas-sinking-up-to-1-foot-per-year-study-finds",
+      "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-statue-of-messi-found-at-saqqara-necropolis-is-only-known-example-of-its-kind-from-the-old-kingdom"
     ]
   },
   "applvn.com": {
-    "lastAt": 1758914353765,
+    "lastAt": 1759288540491,
     "urls": []
   },
   "one.com": {
-    "lastAt": 1758914357992,
+    "lastAt": 1759288544482,
     "urls": [
       "https://www.one.com/nl/",
       "https://www.one.com/nl/over-ons",
@@ -47259,11 +47309,21 @@
       "https://www.one.com/en/features",
       "https://www.one.com/sv/webbhotell-hosting",
       "https://www.one.com/sv/om-oss/nyheter",
-      "https://www.one.com/da/online-marketing"
+      "https://www.one.com/da/online-marketing",
+      "https://www.one.com/pt/dominios/dominio-de-nivel-superior",
+      "https://www.one.com/it/domini/che-cos-e-un-nome-di-dominio",
+      "https://www.one.com/es/websitebuilder/crear-una-pagina-web",
+      "https://www.one.com/es/websitebuilder",
+      "https://www.one.com/no/epost",
+      "https://www.one.com/es/planes-precios",
+      "https://www.one.com/de/domains/was-ist-eine-top-level-domain",
+      "https://www.one.com/en/glossary",
+      "https://www.one.com/es/quienes-somos/noticias",
+      "https://www.one.com/sv/academy"
     ]
   },
   "coingecko.com": {
-    "lastAt": 1758914366437,
+    "lastAt": 1759288551401,
     "urls": [
       "https://www.coingecko.com/",
       "https://www.coingecko.com/zh-tw",
@@ -47304,11 +47364,21 @@
       "https://www.coingecko.com/lt",
       "https://www.coingecko.com/en/coins/tether/aud",
       "https://www.coingecko.com/en/coins/xrp/aud",
-      "https://www.coingecko.com/en/coins/bnb/aud"
+      "https://www.coingecko.com/en/coins/bnb/aud",
+      "https://www.coingecko.com/en/coins/solana/aud",
+      "https://www.coingecko.com/en/coins/dogecoin/aud",
+      "https://www.coingecko.com/en/coins/lido-staked-ether/aud",
+      "https://www.coingecko.com/en/coins/usdc/aud",
+      "https://www.coingecko.com/en/coins/tron/aud",
+      "https://www.coingecko.com/en/coins/cardano/aud",
+      "https://www.coingecko.com/en/coins/wrapped-steth/aud",
+      "https://www.coingecko.com/en/coins/ethena-usde/aud",
+      "https://www.coingecko.com/en/coins/wrapped-bitcoin/aud",
+      "https://www.coingecko.com/en/coins/wrapped-beacon-eth/aud"
     ]
   },
   "cpmstar.com": {
-    "lastAt": 1758914367250,
+    "lastAt": 1759288552216,
     "urls": [
       "https://cpmstar.com/",
       "https://www.cpmstar.com/about",
@@ -47322,11 +47392,11 @@
     ]
   },
   "hsforms.com": {
-    "lastAt": 1758914370104,
+    "lastAt": 1759288555224,
     "urls": []
   },
   "khanacademy.org": {
-    "lastAt": 1758914377877,
+    "lastAt": 1759288562863,
     "urls": [
       "https://www.khanacademy.org/science/ka-science-grade-6",
       "https://www.khanacademy.org/humanities/art-asia",
@@ -47367,11 +47437,21 @@
       "https://www.khanacademy.org/math/revision-term-1-ncert-math-class-12",
       "https://www.khanacademy.org/math/get-ready-for-5th-grade",
       "https://www.khanacademy.org/science/learn-to-learn",
-      "https://www.khanacademy.org/humanities/ancient-art-civilizations"
+      "https://www.khanacademy.org/humanities/ancient-art-civilizations",
+      "https://www.khanacademy.org/college-careers-more/als-k-to-12-life-career-skills",
+      "https://www.khanacademy.org/khan-for-educators/khan-for-educators-advanced-course",
+      "https://www.khanacademy.org/math/class-10-bridge-course-mh",
+      "https://www.khanacademy.org/math/class-6-od",
+      "https://www.khanacademy.org/kmap/operations-and-algebraic-thinking-d",
+      "https://www.khanacademy.org/kmap/geometric-properties-equations-circles-b",
+      "https://www.khanacademy.org/math/cc-fifth-grade-math",
+      "https://www.khanacademy.org/science/revision-term-1-ncert-biology-grade-11",
+      "https://www.khanacademy.org/science/telangana-class-8-science",
+      "https://www.khanacademy.org/science/revision-term-1-od-grade-9-life-science"
     ]
   },
   "yahoo.net": {
-    "lastAt": 1758914381729,
+    "lastAt": 1759288567233,
     "urls": [
       "https://www.yahoo.com/news/weather/united-states/new-mexico/abiquiu-2351621",
       "https://www.yahoo.com/news/weather/united-states/virginia/fredericksburg-2407171",
@@ -47412,23 +47492,33 @@
       "https://www.yahoo.com/news/weather/united-states/iowa/mason-city-2446664",
       "https://www.yahoo.com/news/weather/united-states/north-dakota/hazelton-2419269",
       "https://www.yahoo.com/news/weather/united-states/nebraska/bellevue-2362026",
-      "https://www.yahoo.com/news/weather/united-states/virginia/new-point-2458861"
+      "https://www.yahoo.com/news/weather/united-states/virginia/new-point-2458861",
+      "https://www.yahoo.com/news/weather/united-states/minnesota/mahnomen-2444272",
+      "https://www.yahoo.com/news/weather/united-states/kansas/roeland-park-2483864",
+      "https://www.yahoo.com/news/weather/united-states/alabama/weaver-2515759",
+      "https://www.yahoo.com/news/weather/united-states/oklahoma/roff-2483876",
+      "https://www.yahoo.com/news/weather/united-states/north-carolina/kure-beach-2434038",
+      "https://www.yahoo.com/news/weather/united-states/louisiana/spokane-2497665",
+      "https://www.yahoo.com/news/weather/united-states/colorado/commerce-city-91802011",
+      "https://www.yahoo.com/news/weather/united-states/nebraska/cambridge-2373568",
+      "https://www.yahoo.com/news/weather/united-states/new-york/east-chatham-2395430",
+      "https://www.yahoo.com/news/weather/united-states/texas/perryton-2470764"
     ]
   },
   "nmrodam.com": {
-    "lastAt": 1758914384754,
+    "lastAt": 1759288570260,
     "urls": []
   },
   "gpcloudservice.com": {
-    "lastAt": 1758914387713,
+    "lastAt": 1759288573162,
     "urls": []
   },
   "coloros.com": {
-    "lastAt": 1758914446562,
+    "lastAt": 1759288632013,
     "urls": []
   },
   "amazonaws.com.cn": {
-    "lastAt": 1758914466116,
+    "lastAt": 1759288653926,
     "urls": [
       "https://www.amazonaws.cn/022cb2557de33b9b96e6a799ebe8fdc7.html/",
       "https://www.amazonaws.cn/about-aws/analyst-reports/",
@@ -47469,11 +47559,21 @@
       "https://www.amazonaws.cn/about-aws/china/faqs/",
       "https://www.amazonaws.cn/about-aws/china/faqs/signup-process/",
       "https://www.amazonaws.cn/about-aws/analyst-reports/car-data-platform/thank-you/",
-      "https://www.amazonaws.cn/about-aws/analyst-reports/car-data-platform/"
+      "https://www.amazonaws.cn/about-aws/analyst-reports/car-data-platform/",
+      "https://www.amazonaws.cn/about-aws/regional-product-services/",
+      "https://www.amazonaws.cn/agreement/beijing/",
+      "https://www.amazonaws.cn/activate/",
+      "https://www.amazonaws.cn/about-aws/china/faqs/signup/",
+      "https://www.amazonaws.cn/agreement/ningxia/",
+      "https://www.amazonaws.cn/activate/activate-promo/",
+      "https://www.amazonaws.cn/amazon-mq/",
+      "https://www.amazonaws.cn/amazon-mq/faqs/",
+      "https://www.amazonaws.cn/amazon-mq/features/",
+      "https://www.amazonaws.cn/activate/terms/"
     ]
   },
   "smh.com.au": {
-    "lastAt": 1758914477104,
+    "lastAt": 1759288668187,
     "urls": [
       "https://www.smh.com.au/sport/athletics/this-australian-teen-prodigy-just-matched-one-of-the-world-s-best-but-not-the-way-he-wanted-20250914-p5muuw.html",
       "https://www.smh.com.au/culture/celebrity/when-bruce-willis-would-check-out-wife-emma-knew-something-was-wrong-20250914-p5muys.html",
@@ -47514,45 +47614,55 @@
       "https://www.smh.com.au/traveller/inspiration/the-island-with-australia-s-best-produce-and-the-restaurant-with-no-food-20250828-p5mqn9.html",
       "https://www.smh.com.au/traveller/inspiration/the-sydney-opera-house-s-little-sister-and-the-other-jewels-of-antwerp-20250829-p5mqy4.html",
       "https://www.smh.com.au/national/from-the-bear-to-the-boss-jeremy-allen-white-s-new-glory-days-in-springsteen-biopic-20250901-p5mrif.html",
-      "https://www.smh.com.au/traveller/inspiration/no-buffets-or-entertainment-just-an-incredible-cruise-experience-period-20250707-p5md39.html"
+      "https://www.smh.com.au/traveller/inspiration/no-buffets-or-entertainment-just-an-incredible-cruise-experience-period-20250707-p5md39.html",
+      "https://www.smh.com.au/national/australia-news-live-us-heads-for-government-shutdown-nicole-kidman-files-for-divorce-from-keith-urban-reports-say-20251001-p5mz4s.html",
+      "https://www.smh.com.au/national/freya-leach-s-sky-has-fallen-in-but-what-will-be-the-punishment-probably-nothing-20250929-p5mytx.html",
+      "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-lower-as-shutdown-threat-looms-china-blow-for-bhp-20251001-p5mz4f.html",
+      "https://www.smh.com.au/world/north-america/a-novice-defence-secretary-lectures-the-brass-on-what-it-takes-to-win-20251001-p5mz5f.html",
+      "https://www.smh.com.au/world/north-america/five-takeaways-from-trump-s-unusual-speech-to-military-elite-20251001-p5mz7d.html",
+      "https://www.smh.com.au/culture/tv-and-radio/i-was-actually-there-abc-black-saturday-cronulla-september-11-20250929-p5mym2.html",
+      "https://www.smh.com.au/culture/celebrity/nicole-kidman-files-for-divorce-from-keith-urban-after-19-years-of-marriage-20251001-p5mz4x.html",
+      "https://www.smh.com.au/national/nsw/raya-had-a-huge-win-over-a-horror-strip-search-she-s-had-another-victory-20251001-p5mz9f.html",
+      "https://www.smh.com.au/business/companies/china-is-flexing-its-muscles-as-a-new-era-dawns-for-iron-ore-20251001-p5mz5t.html",
+      "https://www.smh.com.au/sport/rugby-union/slipper-announces-retirement-from-test-rugby-as-o-connor-dropped-20251001-p5mzaf.html"
     ]
   },
   "featureassets.org": {
-    "lastAt": 1758914480083,
+    "lastAt": 1759288671413,
     "urls": []
   },
   "oaistatic.com": {
-    "lastAt": 1758914482994,
+    "lastAt": 1759288674465,
     "urls": []
   },
   "magnit.ru": {
-    "lastAt": 1758914541809,
+    "lastAt": 1759288733279,
     "urls": []
   },
   "senate.gov": {
-    "lastAt": 1758914542078,
+    "lastAt": 1759288735771,
     "urls": [
       "https://senate.gov/"
     ]
   },
   "mwscdn.ru": {
-    "lastAt": 1758914548134,
+    "lastAt": 1759288741483,
     "urls": []
   },
   "mts-ws.net": {
-    "lastAt": 1758918241311,
+    "lastAt": 1759288745914,
     "urls": []
   },
   "akstat.io": {
-    "lastAt": 1758918244273,
+    "lastAt": 1759288749534,
     "urls": []
   },
   "tdnsv5.com": {
-    "lastAt": 1758918247449,
+    "lastAt": 1759288752728,
     "urls": []
   },
   "justice.gov": {
-    "lastAt": 1758918253831,
+    "lastAt": 1759288758688,
     "urls": [
       "https://justice.gov/"
     ]
