@@ -2516,13 +2516,13 @@
     "urls": []
   },
   "amazonvideo.com": {
-    "lastAt": 1758968574687,
+    "lastAt": 1759317577144,
     "urls": [
       "https://amazonvideo.com/"
     ]
   },
   "archive.org": {
-    "lastAt": 1758968581182,
+    "lastAt": 1759317581070,
     "urls": [
       "https://archive.org/",
       "https://archive.org/details/soundcloud-586083063",
@@ -2573,11 +2573,21 @@
       "https://archive.org/details/rfauxmfwotcpxgf6rvwihhvh4r2drhodzhowvfw9",
       "https://archive.org/details/xotgxrkzuxucjgcvwbtldh4tj586exx4sy7pkcwg",
       "https://archive.org/details/ddd_010071344_mpeg21",
-      "https://archive.org/details/ddd_010075531_mpeg21"
+      "https://archive.org/details/ddd_010075531_mpeg21",
+      "https://archive.org/details/kbs-news-video-news9-1994-02-24-1500k",
+      "https://archive.org/details/ddd_010073384_mpeg21",
+      "https://archive.org/details/q3z1twl2fqs5cbnifjk8ppuxhhpqr20d1f9u1ln7",
+      "https://archive.org/details/npr-morning-edition-04-12-2006",
+      "https://archive.org/details/h91y1labw1zi8b5qqhjglwyxzpp8ulurn5ndkjra",
+      "https://archive.org/details/hoxlg7mjtevblurzu0nzzsmp4qzweqfzmhmn001o",
+      "https://archive.org/details/qzpo1dluxvmszboznsqcaybzvgkozjczuhcoycrz",
+      "https://archive.org/details/f1xumgvnd9fwxflaiph9ycowzb4adgtmmd6eqdlk",
+      "https://archive.org/details/mvdcpdev4je1vhjazlqoqp4au0vtdbb83qt75vhc",
+      "https://archive.org/details/ddd_010054371_mpeg21"
     ]
   },
   "pki.goog": {
-    "lastAt": 1758968581583,
+    "lastAt": 1759317581480,
     "urls": [
       "https://pki.goog/",
       "https://pki.goog/faq/",
@@ -2589,15 +2599,15 @@
     ]
   },
   "miit.gov.cn": {
-    "lastAt": 1758968585760,
+    "lastAt": 1759317586602,
     "urls": []
   },
   "amazon.dev": {
-    "lastAt": 1758968588893,
+    "lastAt": 1759317589604,
     "urls": []
   },
   "nih.gov": {
-    "lastAt": 1758968591225,
+    "lastAt": 1759317591679,
     "urls": [
       "https://www.nih.gov/",
       "https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office/community-liaison-council-meeting-minutes-july-19-2012",
@@ -2648,17 +2658,27 @@
       "https://www.nih.gov/about-nih/get-involved-nih/small-business-opportunities",
       "https://www.nih.gov/about-nih/voices-nih-community",
       "https://www.nih.gov/about-nih/voices-nih-community/you-could-have-died-several-times-now",
-      "https://www.nih.gov/about-nih/voices-nih-community/i-was-tired-fighting-disease"
+      "https://www.nih.gov/about-nih/voices-nih-community/i-was-tired-fighting-disease",
+      "https://www.nih.gov/about-nih/voices-nih-community/first-twelve-months-we-lost-over-300-people",
+      "https://www.nih.gov/about-nih/voices-nih-community/i-never-knew-how-it-was-feel-free",
+      "https://www.nih.gov/news-events/nih-research-matters",
+      "https://www.nih.gov/about-nih/voices-nih-community/i-know-there-strength-me",
+      "https://www.nih.gov/about-nih/voices-nih-community/all-books-we-read-never-could-have-prepared-us",
+      "https://www.nih.gov/about-nih/voices-nih-community/nows-your-chance-run",
+      "https://www.nih.gov/about-nih/voices-nih-community/everybody-wants-be-optimistic",
+      "https://www.nih.gov/about-nih/voices-nih-community/it-was-scariest-time-my-life-not-knowing-why-xavier-was-sick",
+      "https://www.nih.gov/about-nih/voices-nih-community/most-important-letter-my-life",
+      "https://www.nih.gov/about-nih/voices-nih-community/im-down-zero"
     ]
   },
   "lencr.org": {
-    "lastAt": 1758971784906,
+    "lastAt": 1759317592491,
     "urls": [
       "https://lencr.org/"
     ]
   },
   "paypal.com": {
-    "lastAt": 1758971791033,
+    "lastAt": 1759317598451,
     "urls": [
       "https://www.paypal.com/ae/home?locale.x=ar_AE",
       "https://paypal.com/",
@@ -2707,11 +2727,21 @@
       "https://www.paypal.com/ae/cshelp/article/how-can-i-release-my-payments-on-hold-help129?locale.x=ar_AE",
       "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-or-deny-a-partial-refund-help179?locale.x=ar_AE",
       "https://www.paypal.com/ae/cshelp/article/how-can-i-submit-a-question-regarding-paypal%E2%80%99s-privacy-practices-help370?locale.x=ar_AE",
-      "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-donations-with-paypal-help200?locale.x=ar_AE"
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-accept-donations-with-paypal-help200?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-access-virtual-terminal-ts2225?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-american-express-and-jcb-to-my-paypal-payments-pro-or-virtual-terminal-account-ts2170?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-a-custom-logo-to-my-paypal-checkout-flow-ts2180?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-access-the-sandbox-account-associated-with-my-rest-api-test-credentials-ts1497?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-access-my-charity-dashboard-help208?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-paypal-checkout-to-my-custom-shopping-cart-ts1200?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-and-confirm-change-or-remove-a-phone-number-on-my-paypal-account-help265?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-change-or-remove-a-street-address-on-my-paypal-account-help239?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-money-to-my-paypal-account-from-my-bank-help114?locale.x=ar_AE",
+      "https://www.paypal.com/ae/cshelp/article/how-do-i-add-remove-or-update-an-email-address-on-my-paypal-account-help135?locale.x=ar_AE"
     ]
   },
   "kaspersky.com": {
-    "lastAt": 1758971796395,
+    "lastAt": 1759317605783,
     "urls": [
       "https://www.kaspersky.com/renewal-center/home",
       "https://www.kaspersky.com/small-business-security/downloads/kart",
@@ -2762,21 +2792,31 @@
       "https://www.kaspersky.com/enterprise-security/mitre/round2-results",
       "https://www.kaspersky.com/partners",
       "https://www.kaspersky.com/enterprise-security/mitre/round2-compare",
-      "https://www.kaspersky.com/partners/technology"
+      "https://www.kaspersky.com/partners/technology",
+      "https://www.kaspersky.com/about",
+      "https://www.kaspersky.com/antispam-software-development",
+      "https://www.kaspersky.com/activation-guide",
+      "https://www.kaspersky.com/android-antivirus",
+      "https://www.kaspersky.com/anti-corruption-policy",
+      "https://www.kaspersky.com/anti-ransomware-tool",
+      "https://www.kaspersky.com/antivirus-sdk",
+      "https://www.kaspersky.com/best-secure-vpn",
+      "https://www.kaspersky.com/botnet-monitoring-and-data-feeds",
+      "https://www.kaspersky.com/antivirus"
     ]
   },
   "discord.gg": {
-    "lastAt": 1758971797024,
+    "lastAt": 1759317606189,
     "urls": [
       "https://discord.gg/"
     ]
   },
   "forms.gle": {
-    "lastAt": 1758971800378,
+    "lastAt": 1759317609477,
     "urls": []
   },
   "nytimes.com": {
-    "lastAt": 1758971804006,
+    "lastAt": 1759317617210,
     "urls": [
       "https://www.nytimes.com/2025/09/10/us/charlie-kirk-political-violence.html",
       "https://nytimes.com/",
@@ -2827,11 +2867,21 @@
       "https://www.nytimes.com/athletic/6667145/2025/09/27/joe-ryan-twins-start-trade-offseason/",
       "https://www.nytimes.com/athletic/6662516/2025/09/27/penn-state-oregon-james-franklin-top-10-betting-lines/",
       "https://www.nytimes.com/athletic/6665466/2025/09/26/graham-potter-face-swap/",
-      "https://www.nytimes.com/2025/09/27/opinion/james-comey-indictment.html"
+      "https://www.nytimes.com/2025/09/27/opinion/james-comey-indictment.html",
+      "https://www.nytimes.com/athletic/6675182/2025/10/01/college-football-week-6-miami-fsu-alabama-vanderbilt-how-to-watch/",
+      "https://www.nytimes.com/2025/10/01/briefing/the-federal-government-shut-down-overnight.html",
+      "https://www.nytimes.com/live/2025/10/01/us/government-shutdown-trump-news",
+      "https://www.nytimes.com/athletic/6679057/2025/10/01/las-vegas-aces-wnba-finals-return/",
+      "https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html",
+      "https://www.nytimes.com/athletic/6678701/2025/10/01/wild-training-camp-zuccarello-power-play-wallstedt/",
+      "https://www.nytimes.com/athletic/6678678/2025/10/01/blackhawks-frank-nazar-preseason-power-play/",
+      "https://www.nytimes.com/athletic/6677935/2025/10/01/harrison-brunicke-penguins-prospect-training-camp/",
+      "https://www.nytimes.com/athletic/6676933/2025/10/01/arsenal-corners-set-pieces-open-play-premier-league/",
+      "https://www.nytimes.com/athletic/6674505/2025/10/01/wizards-170-days-of-offseason-work-has-to-start-showing-when-lights-are-brightest/"
     ]
   },
   "f5.com": {
-    "lastAt": 1758971808884,
+    "lastAt": 1759317630949,
     "urls": [
       "https://www.f5.com/appworld/tools/config",
       "https://www.f5.com/appworld/tools",
@@ -2882,15 +2932,25 @@
       "https://www.f5.com/authors/lisa-citron",
       "https://www.f5.com/authors/james-feger",
       "https://www.f5.com/authors/matt-mabis",
-      "https://www.f5.com/authors/tim-wagner"
+      "https://www.f5.com/authors/tim-wagner",
+      "https://www.f5.com/authors/navpreet-gill",
+      "https://www.f5.com/authors/joel-moses",
+      "https://www.f5.com/authors/neil-jaques",
+      "https://www.f5.com/authors/ken-arora",
+      "https://www.f5.com/authors/ana-white",
+      "https://www.f5.com/authors/mika-yamamoto",
+      "https://www.f5.com/authors/michael-wiley1",
+      "https://www.f5.com/authors/isaac-noumba",
+      "https://www.f5.com/authors/scott-de-buitleir",
+      "https://www.f5.com/authors/keith-bowers"
     ]
   },
   "macromedia.com": {
-    "lastAt": 1758971867742,
+    "lastAt": 1759317689805,
     "urls": []
   },
   "rubiconproject.com": {
-    "lastAt": 1758971874882,
+    "lastAt": 1759317697261,
     "urls": [
       "https://www.magnite.com/press/discovery-selects-magnite-to-strengthen-dtc-advertising-proposition-for-streaming-services-in-the-uk-japan-and-india/",
       "https://rubiconproject.com/",
@@ -2941,19 +3001,29 @@
       "https://www.magnite.com/press/acquisition/",
       "https://www.magnite.com/blog-fr/advertising-consumer-goods-and-the-ott-advantage-in-indonesia/",
       "https://www.magnite.com/press-ja/french-streaming-platform-molotov-selects-magnite-as-ssp-and-springserve-as-ad-server/",
-      "https://www.magnite.com/blog-it/live-in-five-political-advertisers-achieve-instant-scale-with-programmatic-offering/"
+      "https://www.magnite.com/blog-it/live-in-five-political-advertisers-achieve-instant-scale-with-programmatic-offering/",
+      "https://www.magnite.com/press-es/magnite-introduces-open-beta-of-new-ctv-ott-solution-named-unified-decisioning/",
+      "https://www.magnite.com/press-de/magnite-and-quigley-simpson-announce-strategic-alliance-and-launch-first-of-its-kind-performance-marketplace/",
+      "https://www.magnite.com/press-fr/magnite-research-finds-91-of-tv-viewers-in-latam-watch-streaming-tv-weekly/",
+      "https://www.magnite.com/press-fr/magnite-research-finds-americans-are-actively-planning-vacation-travel-and-ctv-is-key-to-reaching-travel-decision-makers/",
+      "https://www.magnite.com/press-fr/magnite-signs-agreement-with-netmovies-for-ctv/",
+      "https://www.magnite.com/press/chmedia-primary-programmatic-ssp/",
+      "https://www.magnite.com/press-fr/fubotv-selects-magnite-as-preferred-ssp/",
+      "https://www.magnite.com/blog-de/how-publicis-aims-to-improve-multicultural-marketing-with-its-verified-process/",
+      "https://www.magnite.com/blog-ja/the-live-sports-advertising-opportunity-with-fubotv/",
+      "https://www.magnite.com/press-fr/magnite-expands-ctv-business-in-india-with-samsung-ads/"
     ]
   },
   "l-msedge.net": {
-    "lastAt": 1758971877832,
+    "lastAt": 1759317700141,
     "urls": []
   },
   "spo-msedge.net": {
-    "lastAt": 1758971880820,
+    "lastAt": 1759317703003,
     "urls": []
   },
   "flickr.com": {
-    "lastAt": 1758971887205,
+    "lastAt": 1759317707447,
     "urls": [
       "https://flickr.com/",
       "https://www.flickr.com/photos/203406655@N06/galleries",
@@ -3004,19 +3074,29 @@
       "https://www.flickr.com/photos/203591849@N06/galleries",
       "https://www.flickr.com/people/202578769@N03",
       "https://www.flickr.com/photos/203203160@N02/albums",
-      "https://www.flickr.com/photos/202582424@N06"
+      "https://www.flickr.com/photos/202582424@N06",
+      "https://www.flickr.com/photos/203387773@N02/albums",
+      "https://www.flickr.com/photos/203478454@N07/albums",
+      "https://www.flickr.com/photos/203281620@N03",
+      "https://www.flickr.com/people/202233204@N06",
+      "https://www.flickr.com/photos/202579897@N04/galleries",
+      "https://www.flickr.com/photos/203369041@N02/favorites",
+      "https://www.flickr.com/people/202728105@N08",
+      "https://www.flickr.com/photos/203504757@N03/galleries",
+      "https://www.flickr.com/people/203511581@N07",
+      "https://www.flickr.com/photos/203483561@N07"
     ]
   },
   "wildberries.ru": {
-    "lastAt": 1758971893676,
+    "lastAt": 1759317715871,
     "urls": []
   },
   "ozon.ru": {
-    "lastAt": 1758971919195,
+    "lastAt": 1759317743608,
     "urls": []
   },
   "aliyuncs.com": {
-    "lastAt": 1758971924047,
+    "lastAt": 1759317748531,
     "urls": []
   },
   "ripn.net": {
@@ -49226,43 +49306,43 @@
     "urls": []
   },
   "hyatt.com": {
-    "lastAt": 1758925214105,
+    "lastAt": 1759317752330,
     "urls": []
   },
   "theglobeandmail.com": {
-    "lastAt": 1758925220129,
+    "lastAt": 1759317757890,
     "urls": [
       "https://theglobeandmail.com/"
     ]
   },
   "samsungpositioning.com": {
-    "lastAt": 1758925223236,
+    "lastAt": 1759317761060,
     "urls": []
   },
   "so.com": {
-    "lastAt": 1758925232002,
+    "lastAt": 1759317769626,
     "urls": [
       "https://so.com/"
     ]
   },
   "lazada.com": {
-    "lastAt": 1758925246599,
+    "lastAt": 1759317779532,
     "urls": [
       "https://lazada.com/"
     ]
   },
   "ny.gov": {
-    "lastAt": 1758925250125,
+    "lastAt": 1759317783248,
     "urls": [
       "https://ny.gov/"
     ]
   },
   "xxpkg.com": {
-    "lastAt": 1758925257104,
+    "lastAt": 1759317790548,
     "urls": []
   },
   "qz.com": {
-    "lastAt": 1758925261884,
+    "lastAt": 1759317794538,
     "urls": [
       "https://qz.com/search",
       "https://qz.com/latest",
@@ -49292,11 +49372,18 @@
       "https://qz.com/work/2133841/orpheus-chamber-orchestra-offers-lessons-in-leadership-and-collaboration",
       "https://qz.com/2146052/mackenzie-scotts-wealth-is-growing-faster-than-her-donation-list",
       "https://qz.com/2154395/delta-expects-to-turn-a-profit-because-of-high-demand-for-flights",
-      "https://qz.com/africa/1975305/what-ngozi-okonjo-iwealas-wto-role-means-for-african-women"
+      "https://qz.com/africa/1975305/what-ngozi-okonjo-iwealas-wto-role-means-for-african-women",
+      "https://qz.com/1863798/can-nike-and-adidas-turn-their-support-for-protestors-into-action",
+      "https://qz.com/1985319/e-commerce-will-soon-be-a-trillion-dollar-industry-in-the-us",
+      "https://qz.com/1976430/chinas-gen-z-investors-turn-fund-managers-into-online-stars",
+      "https://qz.com/india/1990963/after-brent-crude-oil-now-steel-price-rise-hurts-indian-economy",
+      "https://qz.com/1998676/how-china-and-the-us-can-work-together-on-clean-energy",
+      "https://qz.com/work/1999273/derek-chauvins-guilty-verdict-cant-be-ignored-at-work",
+      "https://qz.com/africa/2001084/new-malaria-vaccine-has-landmark-results-in-burkina-faso-trial"
     ]
   },
   "crazyegg.com": {
-    "lastAt": 1758925274546,
+    "lastAt": 1759317800986,
     "urls": [
       "https://www.crazyegg.com/about-us",
       "https://www.crazyegg.com/",
@@ -49337,7 +49424,17 @@
       "https://www.crazyegg.com/case-study/happy-trails",
       "https://www.crazyegg.com/case-study/radio-free-europe",
       "https://www.crazyegg.com/case-study/sendible",
-      "https://www.crazyegg.com/case-study/wall-monkeys"
+      "https://www.crazyegg.com/case-study/wall-monkeys",
+      "https://www.crazyegg.com/case-study/miller-and-smith",
+      "https://www.crazyegg.com/blog/all/",
+      "https://www.crazyegg.com/blog/5-adwords-extensions/",
+      "https://www.crazyegg.com/blog/amp-with-google-analytics-tracking/",
+      "https://www.crazyegg.com/blog/attention-grabbers/",
+      "https://www.crazyegg.com/blog/high-email-open-rates/",
+      "https://www.crazyegg.com/blog/beautiful-restaurant-website-design/",
+      "https://www.crazyegg.com/blog/facebook-ecommerce-apps/",
+      "https://www.crazyegg.com/blog/avoid-email-spam-filter/",
+      "https://www.crazyegg.com/blog/emojis-in-email/"
     ]
   },
   "braze.eu": {
