@@ -1024,7 +1024,7 @@
     ]
   },
   "adobe.com": {
-    "lastAt": 1758961638160,
+    "lastAt": 1759307528740,
     "urls": [
       "https://adobe.com/",
       "https://www.adobe.com/ie/metaverse.html",
@@ -1050,11 +1050,12 @@
       "https://www.adobe.com/ie/creativecloud/plans.html",
       "https://www.adobe.com/africa/metaverse.html",
       "https://www.adobe.com/th_en/metaverse.html",
-      "https://www.adobe.com/ch_de/products/catalog.html"
+      "https://www.adobe.com/ch_de/products/catalog.html",
+      "https://www.adobe.com/cz/metaverse.html"
     ]
   },
   "spotify.com": {
-    "lastAt": 1758961642693,
+    "lastAt": 1759307533768,
     "urls": [
       "https://www.spotify.com/us/signup",
       "https://www.spotify.com/ae-en/signup",
@@ -1105,11 +1106,21 @@
       "https://www.spotify.com/br-pt/signup",
       "https://www.spotify.com/br-en/signup",
       "https://www.spotify.com/bs/signup",
-      "https://www.spotify.com/bt/signup"
+      "https://www.spotify.com/bt/signup",
+      "https://www.spotify.com/bw/signup",
+      "https://www.spotify.com/by-en/signup",
+      "https://www.spotify.com/bz-es/signup",
+      "https://www.spotify.com/bz-en/signup",
+      "https://www.spotify.com/by-ru/signup",
+      "https://www.spotify.com/ca-en/signup",
+      "https://www.spotify.com/ca-fr/signup",
+      "https://www.spotify.com/cd-sw/signup",
+      "https://www.spotify.com/cd-fr/signup",
+      "https://www.spotify.com/cg-fr/signup"
     ]
   },
   "vimeo.com": {
-    "lastAt": 1758961647297,
+    "lastAt": 1759307538822,
     "urls": [
       "https://vimeo.com/",
       "https://vimeo.com/blog",
@@ -1157,15 +1168,22 @@
       "https://vimeo.com/blog/topics/events-streaming",
       "https://vimeo.com/blog/topics/monetization",
       "https://vimeo.com/blog/topics/hosting-player",
-      "https://vimeo.com/blog/topics/employee-comms"
+      "https://vimeo.com/blog/topics/employee-comms",
+      "https://vimeo.com/blog/topics/marketing",
+      "https://vimeo.com/blog/topics/video-management",
+      "https://vimeo.com/blog/topics/production",
+      "https://vimeo.com/blog/topics/pre-production",
+      "https://vimeo.com/blog/topics/creation-editing",
+      "https://vimeo.com/blog/inspiration/get-inspired",
+      "https://vimeo.com/blog/inspiration/creator-stories"
     ]
   },
   "ln-msedge.net": {
-    "lastAt": 1758961650176,
+    "lastAt": 1759307541729,
     "urls": []
   },
   "tiktok.com": {
-    "lastAt": 1758961653043,
+    "lastAt": 1759307544522,
     "urls": [
       "https://www.tiktok.com/following",
       "https://www.tiktok.com/about",
@@ -1211,37 +1229,46 @@
       "https://www.tiktok.com/creators/creator-portal/ja-jp/",
       "https://www.tiktok.com/creators/creator-portal/pt-br/",
       "https://www.tiktok.com/creators/creator-portal",
-      "https://www.tiktok.com/creators/creator-portal/category/getting-started-on-tiktok"
+      "https://www.tiktok.com/creators/creator-portal/category/getting-started-on-tiktok",
+      "https://www.tiktok.com/safety/en-us",
+      "https://www.tiktok.com/creators/creator-portal/category/foundations-for-success",
+      "https://www.tiktok.com/creators/creator-portal/category/tiktok-creation-essentials",
+      "https://www.tiktok.com/creators/creator-portal/category/tiktok-content-strategy",
+      "https://www.tiktok.com/creators/creator-portal/category/community-guidelines-and-safety",
+      "https://www.tiktok.com/creators/creator-portal/foundations-for-success/making-your-videos-more-accessible/",
+      "https://www.tiktok.com/creators/creator-portal/tiktok-content-strategy/maximizing-your-live-events/",
+      "https://www.tiktok.com/creators/creator-portal/category/getting-paid-to-create",
+      "https://www.tiktok.com/creators/creator-portal/tiktok-content-strategy/qa-engaging-with-your-community/"
     ]
   },
   "cloudfront.net": {
-    "lastAt": 1758961656042,
+    "lastAt": 1759307547621,
     "urls": []
   },
   "tiktokv.com": {
-    "lastAt": 1758961660661,
+    "lastAt": 1759307552043,
     "urls": []
   },
   "x.com": {
-    "lastAt": 1758961661496,
+    "lastAt": 1759307552931,
     "urls": [
       "https://x.com/"
     ]
   },
   "gvt2.com": {
-    "lastAt": 1758961664524,
+    "lastAt": 1759307555946,
     "urls": []
   },
   "gvt1.com": {
-    "lastAt": 1758961667480,
+    "lastAt": 1759307558939,
     "urls": []
   },
   "akam.net": {
-    "lastAt": 1758961670568,
+    "lastAt": 1759307561936,
     "urls": []
   },
   "gandi.net": {
-    "lastAt": 1758961673396,
+    "lastAt": 1759307564870,
     "urls": [
       "https://www.gandi.net/en",
       "https://www.gandi.net/en/simple-hosting/wordpress",
@@ -1292,49 +1319,59 @@
       "https://www.gandi.net/en-US/domain/tld?prefix=i",
       "https://www.gandi.net/en-US/domain/tld?prefix=j",
       "https://www.gandi.net/en-US/domain/tld?prefix=k",
-      "https://www.gandi.net/en-US/domain/tld?prefix=l"
+      "https://www.gandi.net/en-US/domain/tld?prefix=l",
+      "https://www.gandi.net/en-US/domain/tld?prefix=m",
+      "https://www.gandi.net/en-US/domain/tld?prefix=q",
+      "https://www.gandi.net/en-US/domain/tld?prefix=o",
+      "https://www.gandi.net/en-US/domain/tld?prefix=n",
+      "https://www.gandi.net/en-US/domain/tld?prefix=p",
+      "https://www.gandi.net/en-US/domain/tld?prefix=r",
+      "https://www.gandi.net/en-US/domain/tld?prefix=s",
+      "https://www.gandi.net/en-US/domain/tld?prefix=t",
+      "https://www.gandi.net/en-US/domain/tld?prefix=u",
+      "https://www.gandi.net/en-US/domain/tld?prefix=v"
     ]
   },
   "a-msedge.net": {
-    "lastAt": 1758961676252,
+    "lastAt": 1759307567731,
     "urls": []
   },
   "bit.ly": {
-    "lastAt": 1758961697453,
+    "lastAt": 1759307588950,
     "urls": [
       "https://bit.ly/"
     ]
   },
   "ytimg.com": {
-    "lastAt": 1758961700398,
+    "lastAt": 1759307591968,
     "urls": []
   },
   "office365.com": {
-    "lastAt": 1758961763422,
+    "lastAt": 1759307654917,
     "urls": []
   },
   "edgekey.net": {
-    "lastAt": 1758961766414,
+    "lastAt": 1759307657878,
     "urls": []
   },
   "nic.ru": {
-    "lastAt": 1758961769051,
+    "lastAt": 1759307659542,
     "urls": [
       "https://nic.ru/"
     ]
   },
   "cloudflare.net": {
-    "lastAt": 1758961772041,
+    "lastAt": 1759307662743,
     "urls": []
   },
   "yandex.net": {
-    "lastAt": 1758961774929,
+    "lastAt": 1759307666236,
     "urls": [
       "https://yandex.net/"
     ]
   },
   "qq.com": {
-    "lastAt": 1758961781541,
+    "lastAt": 1759307673279,
     "urls": [
       "https://news.qq.com/rain/a/20250911V03ELI00",
       "https://news.qq.com/rain/a/20250911V039BM00",
@@ -1385,11 +1422,21 @@
       "https://news.qq.com/rain/a/20250927V044Y800",
       "https://news.qq.com/rain/a/20250927A0454H00",
       "https://news.qq.com/rain/a/20250927V044XB00",
-      "https://news.qq.com/rain/a/20250927A0451J00"
+      "https://news.qq.com/rain/a/20250927A0451J00",
+      "https://news.qq.com/rain/a/20251001A04ZZL00",
+      "https://news.qq.com/rain/a/20250924V06PE800",
+      "https://news.qq.com/rain/a/20250924V04UUJ00",
+      "https://news.qq.com/rain/a/20251001A0500V00",
+      "https://news.qq.com/rain/a/20251001A04Y7D00",
+      "https://news.qq.com/rain/a/20250916V05PEQ00",
+      "https://news.qq.com/rain/a/20250924V04UX300",
+      "https://news.qq.com/rain/a/20250924V04UL400",
+      "https://news.qq.com/rain/a/20250924V04UYA00",
+      "https://news.qq.com/rain/a/20251001A0500800"
     ]
   },
   "wordpress.com": {
-    "lastAt": 1758961785286,
+    "lastAt": 1759307678366,
     "urls": [
       "https://wordpress.com/",
       "https://gd.wordpress.com/",
@@ -1440,11 +1487,21 @@
       "https://wordpress.com/patterns/layouts/menu",
       "https://wordpress.com/patterns/testimonials",
       "https://wordpress.com/patterns/layouts/gallery",
-      "https://wordpress.com/patterns/layouts/services"
+      "https://wordpress.com/patterns/layouts/services",
+      "https://wordpress.com/education/",
+      "https://wordpress.com/theme/shhh",
+      "https://wordpress.com/theme/azur",
+      "https://wordpress.com/theme/miko",
+      "https://wordpress.com/theme/retrospect",
+      "https://wordpress.com/theme/clairevoyant",
+      "https://wordpress.com/theme/slab",
+      "https://wordpress.com/theme/kansei",
+      "https://wordpress.com/theme/patisserie",
+      "https://wordpress.com/theme/maizymas"
     ]
   },
   "zoom.us": {
-    "lastAt": 1758961787639,
+    "lastAt": 1759307680826,
     "urls": [
       "https://zoom.us/download",
       "https://zoom.us/join",
@@ -1495,11 +1552,21 @@
       "https://zoom.us/id/signin",
       "https://zoom.us/id/pricing/developer",
       "https://zoom.us/id/test",
-      "https://zoom.us/id/zoomconference/gcoverage"
+      "https://zoom.us/id/zoomconference/gcoverage",
+      "https://zoom.us/it/pricing/zoom-contact-center",
+      "https://zoom.us/it/signin",
+      "https://zoom.us/it/pricing/zoom-rooms",
+      "https://zoom.us/it/pricing/zoom-phone",
+      "https://zoom.us/it/pricing/developer",
+      "https://zoom.us/it/signup",
+      "https://zoom.us/it/test",
+      "https://zoom.us/it/zoomconference/gcoverage",
+      "https://zoom.us/it/zoomconference/rates",
+      "https://zoom.us/ja"
     ]
   },
   "opera.com": {
-    "lastAt": 1758961796319,
+    "lastAt": 1759307688834,
     "urls": [
       "https://www.opera.com/",
       "https://www.opera.com/features",
@@ -1550,7 +1617,17 @@
       "https://www.opera.com/pt/features/vkontakte",
       "https://www.opera.com/pt-br/features/vkontakte",
       "https://www.opera.com/tr/features/vkontakte",
-      "https://www.opera.com/ru/features/vkontakte"
+      "https://www.opera.com/ru/features/vkontakte",
+      "https://www.opera.com/nb/features/vkontakte",
+      "https://www.opera.com/it/features/vkontakte",
+      "https://www.opera.com/vi/features/vkontakte",
+      "https://www.opera.com/id/features/vkontakte",
+      "https://www.opera.com/ko/features/vkontakte",
+      "https://www.opera.com/ja/features/vkontakte",
+      "https://www.opera.com/uk/features/vkontakte",
+      "https://www.opera.com/features/units-converter",
+      "https://www.opera.com/pl/features/units-converter",
+      "https://www.opera.com/zh-cn/features/vkontakte"
     ]
   },
   "samsung.com": {
@@ -48855,11 +48932,11 @@
     ]
   },
   "thehill.com": {
-    "lastAt": 1758925186771,
+    "lastAt": 1759307697662,
     "urls": []
   },
   "cpanel.com": {
-    "lastAt": 1758925189574,
+    "lastAt": 1759307700636,
     "urls": [
       "https://www.cpanel.net/blog/products/blocking-attacks-with-easyapache-4s-mod_evasive/",
       "https://www.cpanel.net/blog/products/coming-very-soon-dnsonly-server-licenses/",
@@ -48900,11 +48977,21 @@
       "https://www.cpanel.net/blog/tips-and-tricks/how-to-use-a-remote-mysql-database-with-cpanel/",
       "https://www.cpanel.net/blog/products/wordpress-auto-updates-should-you-use-them/",
       "https://www.cpanel.net/blog/products/how-to-deploy-a-wordpress-staging-site-with-cpanel/",
-      "https://www.cpanel.net/blog/business-knowledge/discord-and-your-business/"
+      "https://www.cpanel.net/blog/business-knowledge/discord-and-your-business/",
+      "https://www.cpanel.net/blog/general-knowledge/what-is-a-decentralized-domain-name-system/",
+      "https://www.cpanel.net/blog/tips-and-tricks/secure-your-cpanel-server-with-ssh-keys-and-public-key-cryptography/",
+      "https://www.cpanel.net/blog/products/synchronizing-your-cpanel-calendar-contacts-and-email-on-android-with-activesync/",
+      "https://www.cpanel.net/blog/general-knowledge/what-is-an-nft-non-fungible-tokens-explained/",
+      "https://www.cpanel.net/blog/general-knowledge/what-is-a-yat-emoji-identifiers-explained/",
+      "https://www.cpanel.net/blog/general-knowledge/how-to-manage-inode-quotas-and-control-inode-usage/",
+      "https://www.cpanel.net/blog/general-knowledge/how-to-manually-remove-malware-from-websites/",
+      "https://www.cpanel.net/blog/tips-and-tricks/how-to-change-the-main-shared-ip-address-on-cpanel/",
+      "https://www.cpanel.net/blog/general-knowledge/how-to-use-cookie-free-domains-for-faster-website-performance/",
+      "https://www.cpanel.net/blog/products/varchar-vs-text-for-mysql-databases/"
     ]
   },
   "umd.edu": {
-    "lastAt": 1758925193696,
+    "lastAt": 1759307704390,
     "urls": [
       "https://umd.edu/",
       "https://umd.edu/about",
@@ -48938,7 +49025,7 @@
     ]
   },
   "ey.com": {
-    "lastAt": 1758925204664,
+    "lastAt": 1759307711866,
     "urls": [
       "https://www.ey.com/en_gl",
       "https://ey.com/",
@@ -48977,11 +49064,20 @@
       "https://www.ey.com/en_gl/people/alex-campbell",
       "https://www.ey.com/en_gl/people/alex-jiang",
       "https://www.ey.com/en_gl/people/alex-lewis",
-      "https://www.ey.com/en_gl/people/alex-noble"
+      "https://www.ey.com/en_gl/people/alex-noble",
+      "https://www.ey.com/en_gl/people/alexis-gazzo",
+      "https://www.ey.com/en_gl/people/alexandra-loran",
+      "https://www.ey.com/en_gl/people/adrian-van-hest",
+      "https://www.ey.com/en_gl/people/alex-seeley",
+      "https://www.ey.com/en_gl/people/alwin-schatz",
+      "https://www.ey.com/en_gl/people/alicia-rubi",
+      "https://www.ey.com/en_gl/people/alison-c-clark",
+      "https://www.ey.com/en_gl/people/alix-cheema",
+      "https://www.ey.com/en_gl/people/allen-melton"
     ]
   },
   "home-assistant.io": {
-    "lastAt": 1758925207363,
+    "lastAt": 1759307714070,
     "urls": [
       "https://www.home-assistant.io/dashboards/button/",
       "https://home-assistant.io/",
@@ -49022,11 +49118,21 @@
       "https://www.home-assistant.io/dashboards/statistics-graph/",
       "https://www.home-assistant.io/dashboards/thermostat/",
       "https://www.home-assistant.io/dashboards/statistic/",
-      "https://www.home-assistant.io/dashboards/todo-list/"
+      "https://www.home-assistant.io/dashboards/todo-list/",
+      "https://www.home-assistant.io/docs/authentication/",
+      "https://www.home-assistant.io/docs/authentication/multi-factor-auth/",
+      "https://www.home-assistant.io/dashboards/weather-forecast/",
+      "https://www.home-assistant.io/docs/authentication/providers/",
+      "https://www.home-assistant.io/dashboards/vertical-stack/",
+      "https://www.home-assistant.io/docs/automation/",
+      "https://www.home-assistant.io/docs/automation/basics/",
+      "https://www.home-assistant.io/docs/automation/editor/",
+      "https://www.home-assistant.io/docs/automation/action/",
+      "https://www.home-assistant.io/docs/automation/condition/"
     ]
   },
   "microsoftazuread-sso.com": {
-    "lastAt": 1758925210320,
+    "lastAt": 1759307716936,
     "urls": []
   },
   "hyatt.com": {
