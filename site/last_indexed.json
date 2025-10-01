@@ -1631,31 +1631,31 @@
     ]
   },
   "samsung.com": {
-    "lastAt": 1758961852655,
+    "lastAt": 1759310786115,
     "urls": [
       "https://samsung.com/"
     ]
   },
   "google-analytics.com": {
-    "lastAt": 1758961853526,
+    "lastAt": 1759310787019,
     "urls": [
       "https://google-analytics.com/"
     ]
   },
   "baidu.com": {
-    "lastAt": 1758961857798,
+    "lastAt": 1759310790597,
     "urls": [
       "https://baidu.com/"
     ]
   },
   "cloudflare-dns.com": {
-    "lastAt": 1758961858757,
+    "lastAt": 1759310791565,
     "urls": [
       "https://cloudflare-dns.com/"
     ]
   },
   "windows.com": {
-    "lastAt": 1758961861072,
+    "lastAt": 1759310796699,
     "urls": [
       "https://www.microsoft.com/en-us/windows/apps-for-windows",
       "https://www.microsoft.com/en-us/windows/ai-features",
@@ -1706,53 +1706,63 @@
       "https://www.microsoft.com/en-us/windows/tips/voice-access",
       "https://www.microsoft.com/en-us/windows/tips/narrator",
       "https://www.microsoft.com/en-us/windows/tips/easier-to-see",
-      "https://www.microsoft.com/en-us/windows/tips/live-captions"
+      "https://www.microsoft.com/en-us/windows/tips/live-captions",
+      "https://www.microsoft.com/en-us/windows/tips/microsoft-store",
+      "https://www.microsoft.com/en-us/windows/tips/start-menu",
+      "https://www.microsoft.com/en-us/windows/tips/windows-shortcuts",
+      "https://www.microsoft.com/en-us/windows/tips/file-explorer",
+      "https://www.microsoft.com/en-us/windows/digital-pen-touch-voice-features",
+      "https://www.microsoft.com/en-us/windows/tips/auto-hdr",
+      "https://www.microsoft.com/en-us/windows/tips/controller",
+      "https://www.microsoft.com/en-us/windows/tips/game-bar",
+      "https://www.microsoft.com/en-us/windows/tips/focus-sessions",
+      "https://www.microsoft.com/en-us/windows/tips"
     ]
   },
   "nginx.org": {
-    "lastAt": 1758961867759,
+    "lastAt": 1759310804234,
     "urls": [
       "https://nginx.org/"
     ]
   },
   "edgesuite.net": {
-    "lastAt": 1758964817673,
+    "lastAt": 1759310807123,
     "urls": []
   },
   "cdninstagram.com": {
-    "lastAt": 1758964820735,
+    "lastAt": 1759310810121,
     "urls": []
   },
   "googleadservices.com": {
-    "lastAt": 1758964823975,
+    "lastAt": 1759310813348,
     "urls": []
   },
   "mozilla.org": {
-    "lastAt": 1758964825152,
+    "lastAt": 1759310814706,
     "urls": [
       "https://mozilla.org/"
     ]
   },
   "wa.me": {
-    "lastAt": 1758964829594,
+    "lastAt": 1759310818923,
     "urls": []
   },
   "reddit.com": {
-    "lastAt": 1758964832531,
+    "lastAt": 1759310821868,
     "urls": []
   },
   "a2z.com": {
-    "lastAt": 1758964835455,
+    "lastAt": 1759310824764,
     "urls": []
   },
   "ui.com": {
-    "lastAt": 1758964838297,
+    "lastAt": 1759310827953,
     "urls": [
       "https://ui.com/"
     ]
   },
   "unity3d.com": {
-    "lastAt": 1758964842726,
+    "lastAt": 1759310831900,
     "urls": [
       "https://unity.com/blog",
       "https://unity.com/fr/blog",
@@ -1803,27 +1813,37 @@
       "https://unity.com/blog/nine-ua-holiday-tips",
       "https://unity.com/ja/blog/what-is-gametech",
       "https://unity.com/blog/creating-ads-with-ai",
-      "https://unity.com/kr/blog/what-is-gametech"
+      "https://unity.com/kr/blog/what-is-gametech",
+      "https://unity.com/cn/blog/time-to-engagement",
+      "https://unity.com/ja/blog/time-to-engagement",
+      "https://unity.com/kr/blog/time-to-engagement",
+      "https://unity.com/fr/blog/rewarded-ad-systems",
+      "https://unity.com/blog/news/update-about-ziva",
+      "https://unity.com/es/blog/rewarded-ad-systems",
+      "https://unity.com/de/blog/rewarded-ad-systems",
+      "https://unity.com/ru/blog/rewarded-ad-systems",
+      "https://unity.com/pt/blog/rewarded-ad-systems",
+      "https://unity.com/cn/blog/rewarded-ad-systems"
     ]
   },
   "wac-msedge.net": {
-    "lastAt": 1758964845574,
+    "lastAt": 1759310834776,
     "urls": []
   },
   "vk.com": {
-    "lastAt": 1758964847595,
+    "lastAt": 1759310836751,
     "urls": [
       "https://vk.com/"
     ]
   },
   "googledomains.com": {
-    "lastAt": 1758964848074,
+    "lastAt": 1759310837270,
     "urls": [
       "https://googledomains.com/"
     ]
   },
   "snapchat.com": {
-    "lastAt": 1758964853107,
+    "lastAt": 1759310842405,
     "urls": [
       "https://www.snapchat.com/",
       "https://www.snapchat.com/captcha",
@@ -1864,31 +1884,39 @@
       "https://www.snapchat.com/lens/8f9e27ea4166442c9857c12904113ccf",
       "https://www.snapchat.com/lens/f19fa5efef9b43f9a29322bfb66867fd",
       "https://www.snapchat.com/lens/f28af12f49fa4601bd0354165615477a",
-      "https://www.snapchat.com/lens/02bd8a118ea04491a04e29c29a74552a"
+      "https://www.snapchat.com/lens/02bd8a118ea04491a04e29c29a74552a",
+      "https://www.snapchat.com/lens/022f1483c694449891520b95e12cec1e",
+      "https://www.snapchat.com/lens/05fe23f5eb1b420fb7bed3855cd7957e",
+      "https://www.snapchat.com/lens/9d4f9c5df92f4225a76e8a65d47e0aeb",
+      "https://www.snapchat.com/lens/7ae6842054c44bf68d1b51dfaf9b2432",
+      "https://www.snapchat.com/lens/7f858ccb2a3b430a964ba0ec0527b0ed",
+      "https://www.snapchat.com/lens/99afe3c7c71d42e69c795d16f7a81b31",
+      "https://www.snapchat.com/lens/e9611088b5484b778fa27c50c58a9f21",
+      "https://www.snapchat.com/lens/6442cd71778e42ac9338eb6c4e8df47d"
     ]
   },
   "nginx.com": {
-    "lastAt": 1758964854364,
+    "lastAt": 1759310843631,
     "urls": [
       "https://nginx.com/"
     ]
   },
   "msedge.net": {
-    "lastAt": 1758964913177,
+    "lastAt": 1759310902442,
     "urls": []
   },
   "blogspot.com": {
-    "lastAt": 1758964914229,
+    "lastAt": 1759310903464,
     "urls": [
       "https://blogspot.com/"
     ]
   },
   "vedcdnlb.com": {
-    "lastAt": 1758964918797,
+    "lastAt": 1759310907965,
     "urls": []
   },
   "sentry.io": {
-    "lastAt": 1758964921911,
+    "lastAt": 1759310910745,
     "urls": [
       "https://sentry.io/",
       "https://sentry.io/about/press-releases/sentry-acquires-emerge-tools-to-enhance-its-mobile-app-monitoring-solution/",
@@ -1939,25 +1967,35 @@
       "https://sentry.io/customers/cloudflare/",
       "https://sentry.io/customers/disney-plus/",
       "https://sentry.io/customers/disqus/",
-      "https://sentry.io/customers/divipay/"
+      "https://sentry.io/customers/divipay/",
+      "https://sentry.io/customers/dovetail/",
+      "https://sentry.io/customers/duolingo/",
+      "https://sentry.io/customers/eventbrite/",
+      "https://sentry.io/customers/facepunch-studios/",
+      "https://sentry.io/customers/doctorc/",
+      "https://sentry.io/customers/faros-ai/",
+      "https://sentry.io/customers/flexport/",
+      "https://sentry.io/customers/flo/",
+      "https://sentry.io/customers/forethought/",
+      "https://sentry.io/customers/freshly/"
     ]
   },
   "t.me": {
-    "lastAt": 1758964923823,
+    "lastAt": 1759310912605,
     "urls": [
       "https://t.me/"
     ]
   },
   "amazon-adsystem.com": {
-    "lastAt": 1758964927453,
+    "lastAt": 1759310924100,
     "urls": []
   },
   "aiv-cdn.net": {
-    "lastAt": 1758964930366,
+    "lastAt": 1759310927158,
     "urls": []
   },
   "intuit.com": {
-    "lastAt": 1758964937695,
+    "lastAt": 1759310934579,
     "urls": [
       "https://www.intuit.com/",
       "https://www.intuit.com/ca/",
@@ -1980,17 +2018,23 @@
       "https://www.intuit.com/careers/benefits/select-time-employees/",
       "https://www.intuit.com/in/careers/design-user-experience/",
       "https://www.intuit.com/careers/legal/",
-      "https://www.intuit.com/careers/locations/"
+      "https://www.intuit.com/careers/locations/",
+      "https://www.intuit.com/ca/best-place-to-work/inspiring-and-caring/",
+      "https://www.intuit.com/ca/careers/",
+      "https://www.intuit.com/careers/locations/united-states/",
+      "https://www.intuit.com/careers/programs/entry-level-careers/",
+      "https://www.intuit.com/in/careers/product-management/",
+      "https://www.intuit.com/careers/privacy/"
     ]
   },
   "europa.eu": {
-    "lastAt": 1758964939682,
+    "lastAt": 1759310936595,
     "urls": [
       "https://europa.eu/"
     ]
   },
   "dns.google": {
-    "lastAt": 1758964941200,
+    "lastAt": 1759310937980,
     "urls": [
       "https://dns.google/"
     ]

@@ -288412,5 +288412,313 @@
     "title": "Automation conditions - Home Assistant",
     "description": "Automations can test conditions when invoked.",
     "text": "Conditions are an optional part of an automation rule. They can be used to prevent the automation’s "
+  },
+  {
+    "id": "c27092f81be764c8656b147d01b4b954f776d5d6",
+    "url": "https://www.microsoft.com/en-us/windows/tips/microsoft-store",
+    "title": "Microsoft Store for Search | Microsoft Windows",
+    "description": "Explore Windows 11 search with Microsoft Store. The Microsoft Store makes it easy to find the apps, ",
+    "text": "The Microsoft Store on Windows helps you find apps, movies, and shows faster.\nLearn more about how t"
+  },
+  {
+    "id": "113b3d15adbcdb78580f843ff079e0797cb18a4d",
+    "url": "https://www.microsoft.com/en-us/windows/tips/start-menu",
+    "title": "Start Menu | Microsoft Windows",
+    "description": "Get the most out of your Windows 11 experience with the Start menu. With the Start menu, you can sav",
+    "text": "Save time, find it faster. The Start menu now comes with an enhanced search to help you find the fil"
+  },
+  {
+    "id": "aed33dca1bdde24c543ec86208b751ccc2c56c4b",
+    "url": "https://www.microsoft.com/en-us/windows/tips/windows-shortcuts",
+    "title": "Windows Shortcuts & Hotkeys for Organization | Microsoft Windows",
+    "description": "Explore Windows 11 organization with Windows shortcuts and hotkeys. Windows shortcuts help you save ",
+    "text": "Everyone knows copy and paste, but do you know how to instantly access Settings or Snipping Tool wit"
+  },
+  {
+    "id": "11eed241d0e8bd97b96fd8325106eab975695ff0",
+    "url": "https://www.microsoft.com/en-us/windows/tips/file-explorer",
+    "title": "File Explorer | Microsoft Windows",
+    "description": "Get the most out of your Windows 11 experience with File Explorer. File Explorer in Windows makes it",
+    "text": "Frequently asked questions\nWhen you delete a synced online-only file from your device, it is removed"
+  },
+  {
+    "id": "d656435970dc84c4d7c0675c400d620b7cdd0b49",
+    "url": "https://www.microsoft.com/en-us/windows/digital-pen-touch-voice-features",
+    "title": "Windows 11 Voice Navigation, Digital Pen, and Touchscreen Gestures | Microsoft Windows",
+    "description": "Make the most of your Windows 11 experience using voice navigation, digital pens, and touchscreen ge",
+    "text": "Windows 11 touchscreen devices and digital pens\nGet help choosing your new Windows PC.\nChoose from a"
+  },
+  {
+    "id": "6e4264fdec7ff968c7ad60552c18006233836d4c",
+    "url": "https://www.microsoft.com/en-us/windows/tips/auto-hdr",
+    "title": "Auto HDR for Gaming | Microsoft Windows",
+    "description": "Explore Windows 11 gaming with Auto HDR. Auto HDR in Windows can make your games come to life by aut",
+    "text": "Auto HDR is a feature that automatically upgrades your DirectX 11 or DirectX 12 games from standard "
+  },
+  {
+    "id": "6c5674793f5c0a947407d0b54ef3b3155843c502",
+    "url": "https://www.microsoft.com/en-us/windows/tips/controller",
+    "title": "Connect Your Controller for Gaming | Microsoft Windows",
+    "description": "Explore Windows 11 gaming by connecting your controller to your PC. Many PC games let you play with ",
+    "text": "Get a seamless gaming experience by connecting a controller to your PC. To pair your Xbox Wireless C"
+  },
+  {
+    "id": "7a0f9614dcc6ded9b755da26f15864f603abd4fa",
+    "url": "https://www.microsoft.com/en-us/windows/tips/game-bar",
+    "title": "Game Bar for Gaming | Microsoft Windows",
+    "description": "Explore Windows 11 gaming with Game Bar. Access widgets that let you chat with Xbox friends across d",
+    "text": "Windows logo key  + G it with Game Bar, the customizable, gaming overlay built into Windows. Game Ba"
+  },
+  {
+    "id": "639a3c0cfc8b24ec1d67e6b50142070004b45f93",
+    "url": "https://www.microsoft.com/en-us/windows/tips/focus-sessions",
+    "title": "Focus Sessions for Productivity | Microsoft Windows",
+    "description": "Explore Windows 11 productivity with Focus Sessions. Learn how Focus Sessions can help you minimize ",
+    "text": "Focus Sessions is a feature in Windows that helps you minimize distractions. When you're in a focus "
+  },
+  {
+    "id": "89883e5c67deeaf27c0986b512afa91ab0f3340a",
+    "url": "https://www.microsoft.com/en-us/windows/tips",
+    "title": "Windows 11 Features & Tips | Microsoft Windows",
+    "description": "Find the latest features and helpful tips on how to use them to get the most out of your Windows PC.",
+    "text": "Windows 11 features & tips\nPopular features & tips\nExplore all categories\nGet the most out of Window"
+  },
+  {
+    "id": "10dc45321230748ccba2124c9a77f0369a910bd6",
+    "url": "https://unity.com/cn/blog/time-to-engagement",
+    "title": "How to measure time-to-engagement interactive ads | Unity",
+    "description": "Learn from Daniel Herman about how to measure time-to-engagement interactive ads.",
+    "text": "“Unity”、Unity 徽标及其他 Unity 商标是 Unity Technologies 或其分支机构在美国及其他地区的商标或注册商标（单击此处获取更多信息）。其他名称或品牌是其各自所有者的商"
+  },
+  {
+    "id": "bc44f93dde29cc23429d59a843f4ce1a708433f6",
+    "url": "https://unity.com/ja/blog/time-to-engagement",
+    "title": "How to measure time-to-engagement interactive ads | Unity",
+    "description": "Learn from Daniel Herman about how to measure time-to-engagement interactive ads.",
+    "text": "「Unity」の名称、Unity のロゴ、およびその他の Unity の商標は、米国およびその他の国における Unity Technologies またはその関係会社の商標または登録商標です（詳しくは"
+  },
+  {
+    "id": "39f81d362993142eab2952495f810ecfa7c1af05",
+    "url": "https://unity.com/kr/blog/time-to-engagement",
+    "title": "How to measure time-to-engagement interactive ads | Unity",
+    "description": "Learn from Daniel Herman about how to measure time-to-engagement interactive ads.",
+    "text": "'Unity', Unity 로고 및 기타 Unity 상표는 미국 및 기타 국가에서 유니티 테크놀로지스 또는 계열사의 상표 또는 등록상표입니다(여기에서 자세한 정보 확인). 기타 명"
+  },
+  {
+    "id": "3c5f030ae29e8ff69f7c08a31efb744d3c80b9e9",
+    "url": "https://unity.com/fr/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "« Unity », ses logos et autres marques sont des marques commerciales ou des marques commerciales dép"
+  },
+  {
+    "id": "97a77f5049cb7f9a5bbe3dca78bb1eff4a76741f",
+    "url": "https://unity.com/blog/news/update-about-ziva",
+    "title": "An update about Ziva",
+    "description": "An announcement about changes to Unity’s support for Ziva VFX, Ziva Real-Time, Ziva Face Trainer, an",
+    "text": "\"Unity\", Unity logos, and other Unity trademarks are trademarks or registered trademarks of Unity Te"
+  },
+  {
+    "id": "95035bf389ca91250705abe134c7911b0299552d",
+    "url": "https://unity.com/es/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "\"Unity\", los logotipos de Unity y otras marcas comerciales de Unity son marcas comerciales o marcas "
+  },
+  {
+    "id": "03e345de7c1365751ea10da9345f0a7bb1b8e611",
+    "url": "https://unity.com/de/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "\"Unity\", Unity-Logos und sonstige Marken von Unity sind Marken oder eingetragene Markenzeichen von U"
+  },
+  {
+    "id": "02a601a5804d2c9e150cb5831d94b5a6ac2dff8b",
+    "url": "https://unity.com/ru/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "Unity, логотипы Unity и другие торговые знаки Unity являются зарегистрированными торговыми знаками к"
+  },
+  {
+    "id": "d7429ddf75e89e150fc60e8a96949ac4b3c4c81b",
+    "url": "https://unity.com/pt/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "“Unity”, logotipos Unity e outras marcas comerciais de Unity são marcas comerciais ou marcas comerci"
+  },
+  {
+    "id": "b4f2ec221c830f74eed7a59d5b4330393afb1a42",
+    "url": "https://unity.com/cn/blog/rewarded-ad-systems",
+    "title": "Rewarded ad systems: Are they right for your game and how to implement them | Unity",
+    "description": "In order to effectively monetize in this new hybrid ecosystem, publishers and studios need players w",
+    "text": "“Unity”、Unity 徽标及其他 Unity 商标是 Unity Technologies 或其分支机构在美国及其他地区的商标或注册商标（单击此处获取更多信息）。其他名称或品牌是其各自所有者的商"
+  },
+  {
+    "id": "f814acb8a66d5752665bec9ac07686583b773369",
+    "url": "https://www.snapchat.com/lens/022f1483c694449891520b95e12cec1e",
+    "title": "Skamling Filtre Filter by Nicki | Snapchat Lenses",
+    "description": "Try the Skamling Filtre Filter by Nicki | #skole #fest #kolding #filter #dis #skamling #efterskole |",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "b7e5b6b111dc90c705dbb4517ab38e4ed5c2a0f5",
+    "url": "https://www.snapchat.com/lens/05fe23f5eb1b420fb7bed3855cd7957e",
+    "title": "Area 51 Filter by Mikael Hagen Johansen | Snapchat Lenses",
+    "description": "Try the Area 51 Filter by Mikael Hagen Johansen | #funny #alien #voice #voicechanger #happy #sad #ar",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "7159ab3440b7d8306c9ffaa19ed57a05d2b4d28e",
+    "url": "https://www.snapchat.com/lens/9d4f9c5df92f4225a76e8a65d47e0aeb",
+    "title": "waud r u looking Filter by Sammy | Snapchat Lenses",
+    "description": "Try the waud r u looking Filter by Sammy | #jason #brothers #twins #waud #wauds #joe | #jason #broth",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "014dbea9a662dc2d8fff99ba3da141a7d890bf2d",
+    "url": "https://www.snapchat.com/lens/7ae6842054c44bf68d1b51dfaf9b2432",
+    "title": "Bjonk Hammer Filter by Snapchat | Snapchat Lenses",
+    "description": "Try the Bjonk Hammer Filter by Snapchat | #dum #hammer #bonk #heeh #bjonk #idit | #dum #hammer #bonk",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "50e64ce1d4291333df0b85da313e42a9a28c63fd",
+    "url": "https://www.snapchat.com/lens/7f858ccb2a3b430a964ba0ec0527b0ed",
+    "title": "KL Eating Life Filter by Carlson Ng | Snapchat Lenses",
+    "description": "Try the KL Eating Life Filter by Carlson Ng | #malaysia | #malaysia",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "b79ee868f550e0d199e7274600ad1903e0771578",
+    "url": "https://www.snapchat.com/lens/99afe3c7c71d42e69c795d16f7a81b31",
+    "title": "grapes Filter by kate <3 | Snapchat Lenses",
+    "description": "Try the grapes Filter by kate <3 | #grapes | #grapes",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "7af1e05f6331b4a87b2c64749b7a7784767adadc",
+    "url": "https://www.snapchat.com/lens/e9611088b5484b778fa27c50c58a9f21",
+    "title": "ISDKV RAN color 1 Filter by Ilyas Darakchiev | Snapchat Lenses",
+    "description": "Try the ISDKV RAN color 1 Filter by Ilyas Darakchiev | #footwear #sneakers #ran #boots #kicks #isdkv",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "865510ae64892699bffd774486ec7f83b7c9bf2f",
+    "url": "https://www.snapchat.com/lens/6442cd71778e42ac9338eb6c4e8df47d",
+    "title": "palm tree blush Filter by alexis | Snapchat Lenses",
+    "description": "Try the palm tree blush Filter by alexis | #alexis #palmtree #blush | #alexis #palmtree #blush",
+    "text": "Find more Lenses and Filters"
+  },
+  {
+    "id": "3da4744494b7c37fb98200b2f53bb92da03c1121",
+    "url": "https://sentry.io/customers/dovetail/",
+    "title": "Keeping Uptime at 99.999% with Mobile Error Monitoring for Dovetail | Sentry",
+    "description": "Keeping Uptime at 99.999% with Mobile Error Monitoring for Dovetail",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "221cc117ebb48be3de2c7f48e4b9faa8b4d75028",
+    "url": "https://sentry.io/customers/duolingo/",
+    "title": "How Duolingo debugs issues 12x faster while reducing alert fatigue and empowering engineers | Sentry",
+    "description": "Learn how Duolingo debugs issues 12x faster, reduces alert fatigue, and empowers engineers with Sent",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "0da7e85655ce7016e6cd373cc67e18d969cdd7e3",
+    "url": "https://sentry.io/customers/eventbrite/",
+    "title": "How Eventbrite cuts through the noise to fix what matters with Sentry | Sentry",
+    "description": "How Eventbrite cuts through the noise to fix what matters with Sentry",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "27630e0d93738a7747f179ba4a8f192d7eb71350",
+    "url": "https://sentry.io/customers/facepunch-studios/",
+    "title": "How Facepunch Studios uses Sentry | Sentry",
+    "description": "We got word that the people behind Rust were using Sentry to prioritize their bug fixes. After recov",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "aed023a99119b3e120d05f7ed42f6699e80809c4",
+    "url": "https://sentry.io/customers/doctorc/",
+    "title": "How DoctorC Scales Healthcare Tech with Sentry | Sentry",
+    "description": "A mobile-first healthcare company, DoctorC, uses Sentry to bring medical lab testing to the patient.",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "53c210110242e6c4984086cc5e62ef3008b7e8cf",
+    "url": "https://sentry.io/customers/faros-ai/",
+    "title": "How Faros AI sped up incident resolution by monitoring client-side performance with Sentry, from pag",
+    "description": "How Faros AI sped up incident resolution by monitoring client-side performance with Sentry, from pag",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "9c9c2ee557949a88bf8d5a103a162528a5d38918",
+    "url": "https://sentry.io/customers/flexport/",
+    "title": "Monitoring Critical Workflows With a Focus on Customer Experience | Sentry",
+    "description": "We sat down with Xin Shen from Flexport at DEX 2022, our annual developer experience conference; to ",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "0a24e1bf4e714812d4a26ab4bd9f4c06ac3fa9f7",
+    "url": "https://sentry.io/customers/flo/",
+    "title": "How the #1 Women's Health App Keeps Performance Fast and Errors Down for Millions Globally | Sentry",
+    "description": "Error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boo",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "644873264f0efeb85564f0f07756271cc752e29e",
+    "url": "https://sentry.io/customers/forethought/",
+    "title": "How Forethought Reduced Time to Resolution by up to 94% With Sentry | Sentry",
+    "description": "Leveraging custom tools to improve team performance, health and management",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "c31d22c5ab4c1a71a8692ebe969d233e1fa6cd49",
+    "url": "https://sentry.io/customers/freshly/",
+    "title": "Why Freshly Cooks with Sentry | Sentry",
+    "description": "Freshly delivers chef-cooked, healthy meals to people across the US. Read about how Freshly adds a s",
+    "text": "There’s never a good time for errors or performance degradations to show up, but during periods of p"
+  },
+  {
+    "id": "a302a350e60a84c0cfb99046fc1453a3dda89758",
+    "url": "https://www.intuit.com/ca/best-place-to-work/inspiring-and-caring/",
+    "title": "Inspiring and Caring - Great Place to Work 2021 | Intuit Canada",
+    "description": "Our employees feel empathy for our customers and are motivated to solve their problems through progr",
+    "text": "From their first day working at Intuit, we strive to offer our employees a differentiated experience"
+  },
+  {
+    "id": "ca522bfe5f60414a6141a829bab761d9adefbd29",
+    "url": "https://www.intuit.com/ca/careers/",
+    "title": "Explore Career and Job Opportunities in Canada | Intuit Canada",
+    "description": "Intuit Canada ranked as a Best Workplace in Canada in 2021. Learn more about our technology, culture",
+    "text": "Canada Careers\nUSA\nUSA\nGrow your career building an AI-driven platform that connects people to all t"
+  },
+  {
+    "id": "b1aa00371921bde768cd4e963ea42f352f24732c",
+    "url": "https://www.intuit.com/careers/locations/united-states/",
+    "title": "Office locations in the United States | Intuit Careers",
+    "description": "Find open roles in software engineering, data science, design, product management, internships, and ",
+    "text": "Careers\nJoin a team that's powering prosperity for approximately 100 million customers around the wo"
+  },
+  {
+    "id": "045f77bf5dd7e594f53ffc4f6eab62361112dd88",
+    "url": "https://www.intuit.com/careers/programs/entry-level-careers/",
+    "title": "Entry Level Jobs – TurboTax, QuickBooks | Intuit Careers",
+    "description": "Intuit offers entry level jobs, where you can start your career and make a meaningful impact in the ",
+    "text": "Careers\nCAREERS\nLaunch your career with an entry-level job in data, engineering, analyst, and other "
+  },
+  {
+    "id": "45de3a37e1b150c56ba06897392422a741f73c3f",
+    "url": "https://www.intuit.com/in/careers/product-management/",
+    "title": "Product Management Team in India | Intuit Careers",
+    "description": "We learn from our two core innovation competencies: Customer Driven Innovation (CDI) and Design for ",
+    "text": "Hybrid work at Intuit: blending the best of in-person collaboration and the flexibility of virtual w"
+  },
+  {
+    "id": "219452edcc2edf22e0490822bfa9a3597190c751",
+    "url": "https://www.intuit.com/careers/privacy/",
+    "title": "Intuit: Global Applicant and Employee Privacy Statement",
+    "description": "",
+    "text": "Privacy & Security\nPRIVACY\nEffective Date: March 22, 2024\nFor the global contingent worker privacy s"
   }
 ]
