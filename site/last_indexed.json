@@ -8264,7 +8264,7 @@
     ]
   },
   "ip-api.com": {
-    "lastAt": 1759008048595,
+    "lastAt": 1759360763686,
     "urls": [
       "https://ip-api.com/",
       "https://ip-api.com/docs/",
@@ -8282,13 +8282,13 @@
     ]
   },
   "xhamster.com": {
-    "lastAt": 1759008050425,
+    "lastAt": 1759360765530,
     "urls": [
       "https://xhamster.com/"
     ]
   },
   "duckduckgo.com": {
-    "lastAt": 1759008052955,
+    "lastAt": 1759360768110,
     "urls": [
       "https://duckduckgo.com/",
       "https://duckduckgo.com/settings",
@@ -8313,25 +8313,25 @@
     ]
   },
   "pixabay.com": {
-    "lastAt": 1759008056011,
+    "lastAt": 1759360771157,
     "urls": []
   },
   "pangle.io": {
-    "lastAt": 1759008059788,
+    "lastAt": 1759360778938,
     "urls": []
   },
   "dotomi.com": {
-    "lastAt": 1759008060635,
+    "lastAt": 1759360779726,
     "urls": [
       "https://dotomi.com/"
     ]
   },
   "aws.dev": {
-    "lastAt": 1759008063685,
+    "lastAt": 1759360782828,
     "urls": []
   },
   "yandex.com": {
-    "lastAt": 1759008076184,
+    "lastAt": 1759360795299,
     "urls": [
       "https://yandex.com/",
       "https://yandex.com/legal",
@@ -8340,27 +8340,27 @@
     ]
   },
   "quora.com": {
-    "lastAt": 1759008077528,
+    "lastAt": 1759360796558,
     "urls": [
       "https://quora.com/"
     ]
   },
   "goskope.com": {
-    "lastAt": 1759008080842,
+    "lastAt": 1759360799875,
     "urls": []
   },
   "steamcommunity.com": {
-    "lastAt": 1759008081424,
+    "lastAt": 1759360800616,
     "urls": [
       "https://steamcommunity.com/"
     ]
   },
   "yximgs.com": {
-    "lastAt": 1759008084625,
+    "lastAt": 1759360803799,
     "urls": []
   },
   "dnsmadeeasy.com": {
-    "lastAt": 1759008088194,
+    "lastAt": 1759360807466,
     "urls": [
       "https://dnsmadeeasy.com/resources/unlock-the-power-of-dns-txt-records",
       "https://dnsmadeeasy.com/resources/subnet-mask-cheat-sheet",
@@ -8411,15 +8411,25 @@
       "https://dnsmadeeasy.com/resources/clearing-dns-cache-a-step-by-step-guide-for-dns-tech-professionals",
       "https://dnsmadeeasy.com/resources/what-is-my-ip-address-windows-and-mac",
       "https://dnsmadeeasy.com/resources/guide-how-to-change-dns-records-safely",
-      "https://dnsmadeeasy.com/resources/managed-dns-providers-software-easy-to-use"
+      "https://dnsmadeeasy.com/resources/managed-dns-providers-software-easy-to-use",
+      "https://dnsmadeeasy.com/resources/the-interplay-between-dns-and-email-an-essential-guide-for-dns-professionals",
+      "https://dnsmadeeasy.com/resources/navigating-the-dns-landscape-self-managed-vs-managed-dns-solutions",
+      "https://dnsmadeeasy.com/resources/the-state-of-ipv6-adoption-in-2025-progress-pitfalls-and-pathways-forward",
+      "https://dnsmadeeasy.com/resources/why-smb-organizations-need-proactive-dns-monitoring-to-stay-competitive",
+      "https://dnsmadeeasy.com/resources/what-is-an-a-record",
+      "https://dnsmadeeasy.com/resources/how-to-use-dns-to-prevent-security-issues-dnssec",
+      "https://dnsmadeeasy.com/resources/mastering-dns-redirects",
+      "https://dnsmadeeasy.com/resources/dns-load-balancing-with-global-traffic-director",
+      "https://dnsmadeeasy.com/resources/dns-commands-for-windows-troubleshooting",
+      "https://dnsmadeeasy.com/resources/ssl-tls-certificate-what-is-it-and-why-you-need-one"
     ]
   },
   "sfx.ms": {
-    "lastAt": 1759008091102,
+    "lastAt": 1759360810374,
     "urls": []
   },
   "ngenix.net": {
-    "lastAt": 1759008098413,
+    "lastAt": 1759360820547,
     "urls": [
       "https://ngenix.net/",
       "https://ngenix.net/company/",
@@ -8470,33 +8480,43 @@
       "https://ngenix.net/news/lets-figure-out-whether-ai-bots-need-to-be-blocked/",
       "https://ngenix.net/news/how-data-leaks-happen-why-it-is-dangerous-and-how-to-protect-data/",
       "https://ngenix.net/news/for-cisoclub-how-to-build-reliable-web-protection/",
-      "https://ngenix.net/news/cybersecurity-in-finance-trends-challenges-and-forecasts/"
+      "https://ngenix.net/news/cybersecurity-in-finance-trends-challenges-and-forecasts/",
+      "https://ngenix.net/news/panel-discussion-and-ngenix-multidesk-demo-at-bis-summit-2025/",
+      "https://ngenix.net/news/ngenix-at-phdays-2025-lets-meet-may-22-24-in-luzhniki/",
+      "https://ngenix.net/news/ngenix-platform-improvements-from-january-to-march-2025/",
+      "https://ngenix.net/news/bot-protection-how-to-fight-bots-with-the-new-bot-detection-service/",
+      "https://ngenix.net/news/dns-under-attack-types-of-attacks-and-defenses/",
+      "https://ngenix.net/news/ciso-forum-2025-discussing-ddos-protection-and-latest-news-from-the-world-of-information-security/",
+      "https://ngenix.net/news/discussing-pro-clouds-meet-on-april-3-at-security-territory-2025/",
+      "https://ngenix.net/news/attacks-bypassing-the-provider-how-the-origin-direct-connect-service-will-help-protect-the-site/",
+      "https://ngenix.net/news/internet-protocol-vulnerabilities-common-attacks-on-protocols-and-mitigation-methods/",
+      "https://ngenix.net/news/availability-monitoring-ngenix-launches-active-health-check-service/"
     ]
   },
   "kwai.net": {
-    "lastAt": 1759008157225,
+    "lastAt": 1759360879361,
     "urls": []
   },
   "foxnews.com": {
-    "lastAt": 1759011567095,
+    "lastAt": 1759360885489,
     "urls": [
       "https://foxnews.com/"
     ]
   },
   "avcdn.net": {
-    "lastAt": 1759011570501,
+    "lastAt": 1759360888804,
     "urls": []
   },
   "tiktokv.eu": {
-    "lastAt": 1759011574949,
+    "lastAt": 1759360892727,
     "urls": []
   },
   "qlivecdn.com": {
-    "lastAt": 1759011578227,
+    "lastAt": 1759360896237,
     "urls": []
   },
   "teamviewer.com": {
-    "lastAt": 1759011600762,
+    "lastAt": 1759360919216,
     "urls": [
       "https://www.teamviewer.cn/cn/",
       "https://www.teamviewer.cn/cn/global/",
@@ -8542,17 +8562,26 @@
       "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-launch-local-management-team-china/",
       "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-now-integrated-with-zoho-crm-and-zoho-desk/",
       "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-integrates-sophos-mobile/",
-      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-expands-partnership-with-zoho-through-zoho-crms-meeting-integration-platform/"
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-expands-partnership-with-zoho-through-zoho-crms-meeting-integration-platform/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-announces-remote-control-support-for-zebra-technologies-android-based-devices/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-pilot-remote-support-via-augmented-reality-for-everyone/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewers-augmented-reality-solution-teamviewer-pilot-now-with-text-integration/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-exceeds-2-billion-installations-on-devices-all-over-the-world/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-launches-pilot-2-0-augmented-reality/",
+      "https://www.teamviewer.cn/cn/global/company/press/2020/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/teamviewer-introduces-patch-management/",
+      "https://www.teamviewer.cn/cn/global/company/press/2019/qualitest-research-shows-competitive-advantages-of-teamviewer/",
+      "https://www.teamviewer.cn/cn/global/company/press/2020/new-research-and-development-hub-in-greece-for-teamviewer/"
     ]
   },
   "amazon.de": {
-    "lastAt": 1759011602527,
+    "lastAt": 1759360921581,
     "urls": [
       "https://amazon.de/"
     ]
   },
   "duolingo.com": {
-    "lastAt": 1759011605952,
+    "lastAt": 1759360925276,
     "urls": [
       "https://www.duolingo.com/course/ar/en/Learn-Arabic",
       "https://duolingo.com/",
@@ -8600,7 +8629,7 @@
     ]
   },
   "plesk.com": {
-    "lastAt": 1759011627926,
+    "lastAt": 1759360936015,
     "urls": [
       "https://www.plesk.com/blog/product-technology/schedule-automatic-backups-cloud-storage/",
       "https://www.plesk.com/blog/product-technology/my-plesk-user-experience-1-easy-starts-common-issues/",
@@ -8651,21 +8680,31 @@
       "https://www.plesk.com/blog/product-technology/protect-websites-plesk-security-extensions/",
       "https://www.plesk.com/blog/tips-easy-reading/save-4-hours-weekly-server-management/",
       "https://www.plesk.com/blog/business-industry/top-hacking-groups-cybersecurity-today/",
-      "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-roundup-june/"
+      "https://www.plesk.com/blog/plesk-news-announcements/web-hosting-news-roundup-june/",
+      "https://www.plesk.com/blog/fun-and-games/plesk-docker-quiz/",
+      "https://www.plesk.com/blog/events/best-wceu-takeaways-plesk-stories/",
+      "https://www.plesk.com/blog/plesk-news-announcements/moving-towards-full-gdpr-compliance/",
+      "https://www.plesk.com/blog/business-industry/wordpress-most-popular-cms-choice/",
+      "https://www.plesk.com/blog/product-technology/using-plesk-for-git-hosting/",
+      "https://www.plesk.com/blog/tips-easy-reading/coding-standards-matter/",
+      "https://www.plesk.com/blog/product-technology/protect-your-domain-reputation/",
+      "https://www.plesk.com/blog/tips-easy-reading/best-business-youtube-channels/",
+      "https://www.plesk.com/blog/business-industry/grow-web-development-business/",
+      "https://www.plesk.com/blog/product-technology/chat-support-software-live-chat-solution-reve-chat/"
     ]
   },
   "online-metrix.net": {
-    "lastAt": 1759011630823,
+    "lastAt": 1759360938890,
     "urls": []
   },
   "telegram.me": {
-    "lastAt": 1759011631800,
+    "lastAt": 1759360940256,
     "urls": [
       "https://telegram.me/"
     ]
   },
   "cnbc.com": {
-    "lastAt": 1759011642085,
+    "lastAt": 1759360950748,
     "urls": [
       "https://cnbc.com/",
       "https://www.cnbc.com/asia-markets/",
@@ -8716,19 +8755,29 @@
       "https://www.cnbc.com/make-it/work/",
       "https://www.cnbc.com/us-top-news-and-analysis/",
       "https://www.cnbc.com/world-top-news/",
-      "https://www.cnbc.com/2025/09/27/us-to-revoke-colombian-presidents-visa-over-comments-at-pro-palestinian-gathering.html"
+      "https://www.cnbc.com/2025/09/27/us-to-revoke-colombian-presidents-visa-over-comments-at-pro-palestinian-gathering.html",
+      "https://www.cnbc.com/2025/10/01/europe-markets-oct-1-ftse-100-stoxx-600-us-government-shutdown.html",
+      "https://www.cnbc.com/gold/",
+      "https://www.cnbc.com/alternative-investing/",
+      "https://www.cnbc.com/middle-east-turmoil/",
+      "https://www.cnbc.com/metals/",
+      "https://www.cnbc.com/international-sports/",
+      "https://www.cnbc.com/entertainment/",
+      "https://www.cnbc.com/venture-capital/",
+      "https://www.cnbc.com/consumer-discretionary/",
+      "https://www.cnbc.com/daily-open/"
     ]
   },
   "mcafee.com": {
-    "lastAt": 1759011710895,
+    "lastAt": 1759361019557,
     "urls": []
   },
   "firetvcaptiveportal.com": {
-    "lastAt": 1759011769706,
+    "lastAt": 1759361078370,
     "urls": []
   },
   "imcmdb.net": {
-    "lastAt": 1759011828519,
+    "lastAt": 1759361137183,
     "urls": []
   },
   "zendesk.com": {
