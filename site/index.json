@@ -296973,5 +296973,565 @@
     "title": "Продукты CDNvideo - www.cdnvideo.ru",
     "description": "Наши продукты: онлайн-трансляции в интернете, защита сайтов от DDoS-атак, ускорение загрузки контент",
     "text": ""
+  },
+  {
+    "id": "3698e0ac52a9b2992730db30321f27fcbde8989a",
+    "url": "https://gitlab.com/gitlab-org/secure/tests/ifrenkel/ds-v2-template-tests",
+    "title": "DS v2 template-tests · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "3fab327fd3fa76c30568f792fb65af85ffc3140d",
+    "url": "https://gitlab.com/groups/gitlab-org/secure/tests/ifrenkel/ds-v2-template-tests/-/packages",
+    "title": "Package registry · DS v2 template-tests · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "564d03f1582894c641c4d54996b926a1021277e0",
+    "url": "https://gitlab.com/groups/gitlab-org/secure/tests/ifrenkel/ds-v2-template-tests/-/issues",
+    "title": "Issues · DS v2 template-tests · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "7308f14a718e60db3df43c03b057bca553484c26",
+    "url": "https://gitlab.com/groups/gitlab-org/secure/tests/ifrenkel/ds-v2-template-tests/-/epics",
+    "title": "Epics · DS v2 template-tests · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "a87a02a7589edb2f5150c2669cde8acd366193b3",
+    "url": "https://gitlab.com/groups/gitlab-org/secure/tests/ifrenkel/ds-v2-template-tests/-/merge_requests",
+    "title": "Merge requests · DS v2 template-tests · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "37df6fadfab5b608d4dbecb3dac12f76f703fd8e",
+    "url": "https://gitlab.com/gitlab-org/security-risk-management/security-policies/team-member-environment/andys-test-group/verify-issue-569681",
+    "title": "verify-issue-569681 · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "790a265edd430cd56e0386863e742a11119a6471",
+    "url": "https://gitlab.com/groups/gitlab-org/security-risk-management/security-policies/team-member-environment/andys-test-group/verify-issue-569681/-/issues",
+    "title": "Issues · verify-issue-569681 · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "f3f4458da159e34e9468fd19ce9893468849ef07",
+    "url": "https://gitlab.com/groups/gitlab-org/security-risk-management/security-policies/team-member-environment/andys-test-group/verify-issue-569681/-/packages",
+    "title": "Package registry · verify-issue-569681 · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "24d9fe304f08717782d7cb43d0feaf70bc29c817",
+    "url": "https://gitlab.com/groups/gitlab-org/security-risk-management/security-policies/team-member-environment/andys-test-group/verify-issue-569681/-/epics",
+    "title": "Epics · verify-issue-569681 · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "9007185adb0ce69e610844ca53a487d6c08b046c",
+    "url": "https://gitlab.com/groups/gitlab-org/security-risk-management/security-policies/team-member-environment/andys-test-group/verify-issue-569681/-/merge_requests",
+    "title": "Merge requests · verify-issue-569681 · GitLab",
+    "description": "GitLab.com",
+    "text": ""
+  },
+  {
+    "id": "e7f47b7800aab2fe69725a007a40e2982bb90b4f",
+    "url": "https://www.paloaltonetworks.com/network-security/secure-your-enteprise",
+    "title": "From chasing threats to blocking them - Palo Alto Networks",
+    "description": "Real-time security for the modern enterprise.",
+    "text": "It’s your move. Secure your enterprise.\nEnterprises are evolving.So are cyberattacks.\nShouldn’t your"
+  },
+  {
+    "id": "8e29c076ddf325c796ad68304f1b5fbd0d51c8d5",
+    "url": "https://www.paloaltonetworks.com/network-security/forrester-tei-software-firewalls",
+    "title": "Forrester TEI software firewalls - Palo Alto Networks",
+    "description": "Discover the benefits of Palo Alto Networks software firewalls with Forrester TEI. Explore more toda",
+    "text": "Forrester Consulting study details the benefits, costs and risks.\nLearn how Palo Alto Networks softw"
+  },
+  {
+    "id": "6b075b30302ea60e7d4e97097000ce701ad36cc8",
+    "url": "https://www.paloaltonetworks.com/network-security/unified-ot-security",
+    "title": "Unified OT security for Zero Operational Downtime - Palo Alto Networks",
+    "description": "Palo Alto Networks provides unified OT security that minimizes operational downtime for manufacturer",
+    "text": "How Can Manufacturers Overcome Cybersecurity Obstacles?\nExplore What’s Holding You Back Below\n38% of"
+  },
+  {
+    "id": "6099eb0c8a41ae3563c5c3ae4a23edd6e0fdc27e",
+    "url": "https://www.paloaltonetworks.com/network-security/small-business",
+    "title": "Secure Small and Medium Businesses - Palo Alto Networks",
+    "description": "Our prevention-focused security reduces complexity and delivers enterprise-grade protection for your",
+    "text": "of small businesses describe cybersecurity as one of the top five biggest threats they currently fac"
+  },
+  {
+    "id": "605aa5a6fe6b37ad81bd8930c534858e70caa23f",
+    "url": "https://www.paloaltonetworks.com/network-security/customer-stories",
+    "title": "Network Security Customer Stories - Palo Alto Networks",
+    "description": "Explore how top companies like Grupo Bimbo and Putnam Investments enhance network security with Palo",
+    "text": "Putnam partners with Palo Alto Networks for network security.\nBetter chooses Palo Alto Networks plat"
+  },
+  {
+    "id": "5e329ed47160e83a826b5676ab6e49d99975b8af",
+    "url": "https://www.paloaltonetworks.com/network-security/industry-validation",
+    "title": "From evaluating your options to selecting with confidence - Palo Alto Networks",
+    "description": "Advance your goals with best-in-class network security from an industry leader.",
+    "text": "It’s your move to secure your enterprise. Advance your\n                    goals with best-in-class "
+  },
+  {
+    "id": "1341cc1d5d14717a964d21c9fb9bcd9064a108d1",
+    "url": "https://www.paloaltonetworks.com/network-security/hardware-firewall-innovations",
+    "title": "AI-Powered Next Generation Hardware Firewall - Palo Alto Networks",
+    "description": "Get an immersive virtual preview of our industry-leading Next-Generation Firewalls.",
+    "text": "Defend the initial target with best-in-class security protection powered by inline AI. Integrated ma"
+  },
+  {
+    "id": "2406679a97248319cbe6bc16e166440fa748ab06",
+    "url": "https://www.paloaltonetworks.com/network-security/advanced-dns-security",
+    "title": "ADNS Security - Palo Alto Networks",
+    "description": "Advanced DNS Security offers the industry’s first real-time protection against network-based DNS hij",
+    "text": "Learn why organizations must protect their DNS traffic to deliver a safe and reliable web experience"
+  },
+  {
+    "id": "73e7f6559795e98ef623c7e44b8eb18e11935844",
+    "url": "https://www.paloaltonetworks.com/network-security/hwfw-upgrade",
+    "title": "Secure Your Enterprise Refresh Campaign - Palo Alto Networks",
+    "description": "Build more robust and unified network security as you upgrade your Next-Generation Firewalls.",
+    "text": "TODAY’S LANDSCAPE\nAs organizations grow and threats evolve, security must keep pace. Has your enterp"
+  },
+  {
+    "id": "d452f56a530fd18fc2b2f36041d5446c74227381",
+    "url": "https://www.paloaltonetworks.com/network-security/strata-logging-service",
+    "title": "Strata Logging Service - Palo Alto Networks",
+    "description": "Collect, transform and integrate your enterprise’s security data to enable Palo Alto Networks soluti",
+    "text": "Facilitate AI/ML and make data-driven decisions with access to rich data at cloud-native scale.\nMeet"
+  },
+  {
+    "id": "794c1b57c755a4c3eca4d33f211d14878a6ef284",
+    "url": "https://www.atlassian.com/trust",
+    "title": "Trust Center | Atlassian",
+    "description": "Learn how Atlassian’s enterprise-grade cloud offers resilience at scale, comprehensive data protecti",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "866b4228d48b5e60b3df799e6ef0bc534d427c1e",
+    "url": "https://www.atlassian.com/migration",
+    "title": "Atlassian Ascend | Atlassian",
+    "description": "Ascend to new heights and transform on Atlassian Cloud. Find key information, resources, and support",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "dbe6b6cd9ba0a832fdacd0bc0ab2eedc15ad5b4c",
+    "url": "https://www.atlassian.com/company/contact/general-inquiries",
+    "title": "Atlassian Support: General Inquiries | Atlassian",
+    "description": "Have a question? Reach out to our experts to find the support you are looking for.",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "55a2f6ae1fbed85f735cdc2d22fca0e32dbad7d2",
+    "url": "https://www.atlassian.com/company/contact/product-evaluator-advice",
+    "title": "Product advice | Atlassian",
+    "description": "Evaluating our products and need advice before you buy?",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "91b0fefc140f014500add55b7d098a559aef7817",
+    "url": "https://www.atlassian.com/partners",
+    "title": "Atlassian Partners: Receive Product Support | Atlassian",
+    "description": "As an Atlassian customer, Atlassian Partners can provide you with professional services, expertise, ",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "3a72e8a74b33212c13a2e1a61fc5fbff81ae4070",
+    "url": "https://www.atlassian.com/company/contact/purchasing-licensing",
+    "title": "Atlassian Support: Pricing, Billing, & Licensing | Atlassian",
+    "description": "Have a pricing question or need help managing your account?",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "8068f1520af845c637fd8978c0b4bd82ebeaa969",
+    "url": "https://www.atlassian.com/licensing/purchase-licensing",
+    "title": "Atlassian Purchasing and Licensing FAQ | Atlassian",
+    "description": "From evaluating and ordering to upgrades and renewals, review the latest information on licensing At",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "cdf4d2373dc6de7033afd28da43fc9318c95d014",
+    "url": "https://www.atlassian.com/project-management",
+    "title": "Project management resources | Atlassian",
+    "description": "Discover all the resources, guides, templates, and tools your team needs to successfully plan and ma",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "836f99e8274116ca8d226c13f751707be070da14",
+    "url": "https://www.atlassian.com/agile",
+    "title": "What is Agile? | Atlassian",
+    "description": "Learn agile software development, agile methodologies and industry best practices from beginner tuto",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "b4e7872acc110f681de445c3dd1ca15f2e49617f",
+    "url": "https://www.atlassian.com/work-management/project-collaboration",
+    "title": "Project Collaboration: 6 Tips for Success | The Workstream | The Workstream",
+    "description": "This guide will teach you the ins and outs of project collaboration. Learn how to create an effectiv",
+    "text": "Flexible project management\nCollaborative knowledge workspace\nHigh-velocity service delivery\nTransfo"
+  },
+  {
+    "id": "d99de4244758f0615d5819037f2b44a6390c28e1",
+    "url": "https://www.deviantart.com/phc/art/Wouldnt-you-want-to-get-away-2741309",
+    "title": "Wouldnt you want to get away by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "e7b730fb85aeabb5a5f182fb0439a284bfb18c21",
+    "url": "https://www.deviantart.com/phc/art/Flower-for-my-loved-one-1953320",
+    "title": "Flower for my loved one by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "1b03cd28a8d0fa42c46adfd22f2388663be3f3fc",
+    "url": "https://www.deviantart.com/phc/art/John-Does-a-Kickflip-1912678",
+    "title": "John Does a Kickflip by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "77e5afd4bdc58a19d4ae77b3780e81dfba8f099c",
+    "url": "https://www.deviantart.com/phc/art/Myself-2722821",
+    "title": "Myself by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4221b4956f801f688b42a64107c0e1c309109f15",
+    "url": "https://www.deviantart.com/phc/art/A-tree-from-below-976402",
+    "title": "A tree from below by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8f28d10c0f7ffb59b8ae0bce4a927c757e6e16d7",
+    "url": "https://www.deviantart.com/phc/art/my-friend-Alex-971598",
+    "title": "my friend Alex by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "8f51decd745b9e415562fb418d33166fc6289947",
+    "url": "https://www.deviantart.com/phc/art/headphones-and-minidisc-947868",
+    "title": "headphones and minidisc by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "02e6bb41c673409bdf2e22623c3b8205134865ee",
+    "url": "https://www.deviantart.com/phc/art/Branting-943583",
+    "title": "Branting by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "79bebabff7a68af1a360c8ea6943c578d8d42fa6",
+    "url": "https://www.deviantart.com/phc/art/Calle-on-the-bus-947017",
+    "title": "Calle - on the bus by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a9ef445cccd7b934e1a3c75cd448f50a8f545732",
+    "url": "https://www.deviantart.com/phc/art/Anti-Iraq-War-Demo-Stockholm-935293",
+    "title": "Anti Iraq War Demo - Stockholm by phc on DeviantArt",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "b232227cd8b21e4aa11b08b264526f91e3d5da93",
+    "url": "https://www.wix.com/event/website",
+    "title": "Create a Professional Event Website | Wix.com",
+    "description": "Design an event website with Wix Events. Sell tickets and collect RSVPs, host live and online events",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "dfc57cabc35bb0372c032d9bd67aecbe0265022a",
+    "url": "https://www.wix.com/explore/websites/site/coco-gonser-photography",
+    "title": "Coco Gonser Photography | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "c10e51a82904cade08e6fb5f98ed9d9e4610a124",
+    "url": "https://www.wix.com/blog/how-to-design-a-website",
+    "title": "How to Design a Website (Step-by-Step Guide)",
+    "description": "This guide walks you through how to design a website from start to finish. Design a website that imp",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "8f011665b03818fab29b3c6593c882b838d5a4df",
+    "url": "https://www.wix.com/blog/wix-websites-examples",
+    "title": "15 outstanding Wix website examples that will inspire you",
+    "description": "Explore 15 outstanding Wix website examples that highlight unique designs, modern layouts and creati",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "3743d912ae9fa69934a9a9ffe990601a97b4d2a6",
+    "url": "https://www.wix.com/blog/how-to-start-a-blog",
+    "title": "How to start a blog in 10 steps: a beginner's guide",
+    "description": "How to start a blog, create your blog site online & what to blog about. A step-by-step guide for new",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "3fe5ad8eb7dfe3d1f58aefa83944e93dfe3175af",
+    "url": "https://www.wix.com/explore/websites/site/roee-ben-yehouda",
+    "title": "Roee Ben Yehouda | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "5df7692b56ddabef461ba29e80a626bf5346aad2",
+    "url": "https://www.wix.com/explore/websites/site/sonja-van-duelman",
+    "title": "Sonja Van Duelman | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "285fe4a70c62cbd3824d6d09f41fa0e7f46e580c",
+    "url": "https://www.wix.com/explore/websites/site/hedof",
+    "title": "Hedof | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "e177b83bccd10e1b7166219c895b0ccafeb8c262",
+    "url": "https://www.wix.com/explore/websites/site/dopple-press",
+    "title": "Dopple Press | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "1204be17fa6825df19a6d1004373af2cdd1688cd",
+    "url": "https://www.wix.com/explore/websites/site/lemontree-%2B-co",
+    "title": "Lemontree + Co | Explore Page - LIVE",
+    "description": "",
+    "text": "Create your site with intuitive design features.\nChoose from 900+ website templates.\nCreate your sit"
+  },
+  {
+    "id": "c5a95a7d16cf4f2851f6e83eaaa0d62fe69d4d13",
+    "url": "https://visualstudio.microsoft.com/de/vs/features/game-development/",
+    "title": "Spieleentwicklung und Debuggen | Visual Studio",
+    "description": "Erstellen Sie Ihre Spiele mit DirectX, Unity oder Cocos? Bringen Sie Ihre Spieleentwicklung mit Visu",
+    "text": "Erstellen Sie 2D- und 3D-Hochleistungsspiele in DirectX für die Ausführung auf einer großen Bandbrei"
+  },
+  {
+    "id": "1598ba8a9351916c147f5d038f30800c2461ccf5",
+    "url": "https://visualstudio.microsoft.com/de/vs/test-professional/",
+    "title": "Professionelle Softwaretests | Visual Studio",
+    "description": "Steigern Sie die Qualität und Zusammenarbeit des gesamten Entwicklungsvorgangs durch Features und Fu",
+    "text": "Fördern Sie Qualität und Zusammenarbeit im gesamten Entwicklungsprozess\nEnthält praktisch die gesamt"
+  },
+  {
+    "id": "24a7c72fa62000f7e829be492161060e0f62b4a9",
+    "url": "https://visualstudio.microsoft.com/de/vs/unity-tools/",
+    "title": "Unity-Spieleentwicklungstools | Visual Studio",
+    "description": "Möchten Sie die leistungsfähigste Unity-Entwicklungsumgebung? Erstellen und debuggen Sie Code und st",
+    "text": "Verwandeln Sie Visual Studio in eine leistungsstarke Unity-Entwicklungsumgebung.\nKostenlose, mit all"
+  },
+  {
+    "id": "098e9d401c78c776533cf037a1994628c17fc224",
+    "url": "https://visualstudio.microsoft.com/de/vs/features/develop/",
+    "title": "Entwickeln in Visual Studio",
+    "description": "Die Visual Studio-IDE unterstützt Sie beim Refactoring, Debuggen und Nachvollziehen Ihres Codes mit ",
+    "text": "Tastenkombinationen konfigurieren: Extras > Optionen > Umgebung > Tastatur\nVerwenden Glühbirnen um a"
+  },
+  {
+    "id": "9149e1fe36a593fc6bf8033fbd8bd9e616384cf5",
+    "url": "https://visualstudio.microsoft.com/de/vs/professional/",
+    "title": "Entwicklertools und -dienste | Visual Studio Professional",
+    "description": "Entwicklungstools und Dienste für Einzelpersonen oder kleine Teams.Steigern Sie die Produktivität, u",
+    "text": "Professionelle Entwicklertools und -dienste für einzelne Entwickler oder kleine Teams.\nErstellen Sie"
+  },
+  {
+    "id": "4a5e069581282a445cdb235ff4eb86b9b1f5836a",
+    "url": "https://visualstudio.microsoft.com/de/vs/features/universal-windows-platform/",
+    "title": "Universelle Windows-Plattform | Visual Studio",
+    "description": "Mithilfe von UWP und Visual Studio können Sie fesselnde und immersive Anwendungen entwickeln, die üb",
+    "text": "Entwickeln Sie Apps für eine breite Palette von Geräten, darunter PC, Mobile, Xbox, HoloLens, IoT un"
+  },
+  {
+    "id": "9bc67d81bc6909dc1c4027b0282254d986efc9a2",
+    "url": "https://visualstudio.microsoft.com/de/vs/community/",
+    "title": "Visual Studio 2022 Community Edition – neueste kostenlose Version herunterladen",
+    "description": "Testen Sie unsere kostenlose, voll ausgestattete und erweiterbare IDE zum Erstellen moderner Entwick",
+    "text": "Eine voll ausgestattete, erweiterbare und kostenlose IDE zum Erstellen moderner Anwendungen für Andr"
+  },
+  {
+    "id": "341d3e4025cd762e10c2ecaf4abad552019fd878",
+    "url": "https://visualstudio.microsoft.com/de/vs/features/office-tools/",
+    "title": "Office Developer Tools | Visual Studio",
+    "description": "Leistungsfähige Unterstützung aller Arten der Office-Entwicklung mit den Entwicklungstools für Visua",
+    "text": "Wählen Sie eine Projektvorlage aus, um sofort zu starten. Erweitern Sie Office und SharePoint mithil"
+  },
+  {
+    "id": "8b65c7c8d005a1f4972e23e1e8bcd99f9c8e664b",
+    "url": "https://visualstudio.microsoft.com/de/dev-essentials/",
+    "title": "Visual Studio Dev Essentials",
+    "description": "Alles, was Sie zum Erstellen und Bereitstellen Ihrer App auf beliebigen Plattformen benötigen, einsc",
+    "text": "Alles, was Sie zum Erstellen und Bereitstellen Ihrer App auf einer beliebigen Plattform benötigen. D"
+  },
+  {
+    "id": "ce9a6a51b5f3f1cb25863f77dfd9bc6cda68a94a",
+    "url": "https://visualstudio.microsoft.com/de/vs/features/cplusplus/",
+    "title": "Visual Studio C/C++-IDE und Compiler für Windows",
+    "description": "Laden Sie die kostenlose Visual Studio-IDE herunter, um anhand der neuesten, standardkonformen Versi",
+    "text": "Entwickeln Sie moderne C- und C++-Apps für Windows mithilfe der Tools Ihrer Wahl, z. B. MSVC, Clang,"
+  },
+  {
+    "id": "314e05d942cc1aa95c2cdfcb4b8fcd7b2ca1d373",
+    "url": "https://www.free.fr/freebox/service-free-proxi/",
+    "title": "Service d'assistance de proximité - Free Proxi",
+    "description": "Free Proxi : l'assistance de proximité créée par Free pour ses abonnés. Des équipes locales composée",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nFree Proxi\nFree Proxi\nFree Proxi est le no"
+  },
+  {
+    "id": "c385fa0009d8794878cb68ee4f98159c3b664708",
+    "url": "https://www.free.fr/freebox/signaler-un-abus/",
+    "title": "Signaler un abus : contenu illicite, phishing ou spam",
+    "description": "Vous avez constaté un abus ? Signalez-nous tout contenu illicite, phishing ou spam. Nous traiterons ",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nPour nous signaler tout abus, veuillez rem"
+  },
+  {
+    "id": "afa959baac79325c33717709181e54e84341cf9b",
+    "url": "https://www.free.fr/freebox/tarifs-et-conditions/",
+    "title": "Tarifs et conditions des offres Freebox",
+    "description": "Retrouvez les brochures tarifaires, les récapitulatifs contractuels ainsi que l'ensemble des documen",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nOffres & Services\nAbonné\nAide & Contact\nSo"
+  },
+  {
+    "id": "d61b207359dde4ad59ac86974336956d5182ac05",
+    "url": "https://www.free.fr/freebox/telephone/",
+    "title": "Quelles destinations d'appel incluses avec ma Freebox ? - Free",
+    "description": "Découvrez la liste des destinations étrangères incluses ou en option avec les offres Freebox.",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nUne destination particulière ?\nDESTINATION"
+  },
+  {
+    "id": "b9b57fb1c382c30da533cafafbc66614ce04a2d8",
+    "url": "https://www.free.fr/freebox/tv-by-canal/",
+    "title": "TV by CANAL : regardez 46 chaines TV d'exception chez Free",
+    "description": "Profitez de 46 chaines d’exception pour toute la famille avec TV by CANAL sur Freebox Ultra. À voir ",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nTV By CANAL\nTV By CANAL\nRegardez sur tous "
+  },
+  {
+    "id": "03b0420a5ffec3d0436fecd5f932e8280186435f",
+    "url": "https://www.free.fr/freebox/universal-plus/",
+    "title": "Les chaines Universal+ incluses sur votre Freebox",
+    "description": "Regardez 13ÈME RUE, SYFY, E! et DreamWorks en direct et en replay. Inclus pour les abonnés Freebox U",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nUniversal+\nUniversal+\n4 chaines exceptionn"
+  },
+  {
+    "id": "98a41744a47c239933f7ecbae4c278c1d34b02f9",
+    "url": "https://www.free.fr/freebox/vos-applications/",
+    "title": "Découvrez vos applications Free - Free",
+    "description": "Découvrez les apps Free qui vous accompagnent au quotidien : Freebox Connect, Freebox Files, Freebox",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nApps Free\nApps Free\nDes applications simpl"
+  },
+  {
+    "id": "0ea16b47419ba0b2a4b0799dd53e8f52478084df",
+    "url": "https://www.free.fr/freebox/event/save-the-date/",
+    "title": "Save the date",
+    "description": "Free lui déroule le tapis rouge. Rendez-vous le 3 décembre 2024 pour en savoir plus.",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nOffres & Services\nAbonné\nAide & Contact\nSo"
+  },
+  {
+    "id": "d27fb08e2c0934ca981208017e8eae82c01a0773",
+    "url": "https://www.free.fr/freebox/wifi-7/",
+    "title": "Wi-Fi 7: le meilleur du Wi-Fi avec Free",
+    "description": "Profitez du Wi-Fi 7 dernière génération avec Freebox pour une connexion internet plus rapide et un m",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nWi-Fi 7\nWi-Fi 7\nChez Free, l'innovation es"
+  },
+  {
+    "id": "bea29d53ad8f779d58262e0369ec0b5b05034d82",
+    "url": "https://www.free.fr/freebox/informations/avis-freebox/",
+    "title": "Avis Free : Quelle note a Free ? Témoignages abonnés Freebox.",
+    "description": "Les avis de nos abonnés sont précieux, nous les collectons avec le tiers de confiance certifié Avis ",
+    "text": "Espace Abonné\nWebMail\nFree Transfert\nContact\nPortail Free\nConsultez les avis de nos nouveaux abonnés"
+  },
+  {
+    "id": "8e2cf41eda464fcb4f8c96318600f3f4abef5549",
+    "url": "https://www.trustpilot.com/categories/african_restaurant",
+    "title": "Best companies in African Restaurant on Trustpilot",
+    "description": "Find and compare the best companies in African Restaurant on Trustpilot, and add your own experience",
+    "text": "(5)\nNomieskitchen\nwww.nomieskitchen.com\n3.82 reviews\nUnited States\nThechooseyvegan\nthechooseyvegan.c"
+  },
+  {
+    "id": "b0425d66240f4d41515b2e9494cf6e7af28579aa",
+    "url": "https://www.trustpilot.com/categories/african_goods_store",
+    "title": "Best companies in African Goods Store on Trustpilot",
+    "description": "Find and compare the best companies in African Goods Store on Trustpilot, and add your own experienc",
+    "text": "(15)\nMost relevant\nAfricanjoyflix\nwww.africanjoyflix.com\n4.92,105 reviews\nUnited States\nMost relevan"
+  },
+  {
+    "id": "bb592c9e73629374454501b02bc7baffd1954e8d",
+    "url": "https://www.trustpilot.com/categories/after_school_program",
+    "title": "Best companies in After School Program on Trustpilot",
+    "description": "Find and compare the best companies in After School Program on Trustpilot, and add your own experien",
+    "text": "(58)\nMost relevant\nAixue Inc\naixue.us\n4.9152 reviews\n25418 Northern Blvd, Suite 2, Little Neck, Unit"
+  },
+  {
+    "id": "255a4cf5529bdaa023e51e8334f6ae67d4b984f3",
+    "url": "https://www.trustpilot.com/categories/african_pacific_cuisine",
+    "title": "Best companies in African & Pacific Cuisine on Trustpilot",
+    "description": "Find and compare the best companies in African & Pacific Cuisine on Trustpilot, and add your own exp",
+    "text": "(7)\nLaud Naija Shawarma\nlaudshawarma.com\n4.317 reviews\n8200 Dixon Ave, Silver Spring, United States\n"
+  },
+  {
+    "id": "36d94d6a20ff7478ee1915a87446ef56b9b9e7f6",
+    "url": "https://www.trustpilot.com/categories/afghani_restaurant",
+    "title": "Best companies in Afghani Restaurant on Trustpilot",
+    "description": "Find and compare the best companies in Afghani Restaurant on Trustpilot, and add your own experience",
+    "text": "(1)\nbugcrowd op in the chat\noastify.com\n0.00 reviews\nUnited States"
+  },
+  {
+    "id": "ada215cf7b381ee9d6f686227cf0537dec1c1387",
+    "url": "https://www.trustpilot.com/categories/senior_citizens_care_service",
+    "title": "Best companies in Aged Care on Trustpilot",
+    "description": "Find and compare the best companies in Aged Care on Trustpilot, and add your own experience",
+    "text": "(44)\nCareYaya\ncareyaya.org\n4.621 reviews\n600 Park Offices Drive, Suite 300, Research Triangle Park, "
+  },
+  {
+    "id": "dfb49a80c3e0a2d069d86c2f11b1cd1b9cec5863",
+    "url": "https://www.trustpilot.com/categories/agistment_service",
+    "title": "Best companies in Agistment Service on Trustpilot",
+    "description": "Find and compare the best companies in Agistment Service on Trustpilot, and add your own experience",
+    "text": "(2)\nPicktime\npicktimebot.com\n3.8368 reviews\nUnited States\nPet Insurance Review\npetinsurancereview.co"
+  },
+  {
+    "id": "d233b5647d06d95079e4d7b540ce0992ef858680",
+    "url": "https://www.trustpilot.com/categories/agricultural_association",
+    "title": "Best companies in Agricultural Association on Trustpilot",
+    "description": "Find and compare the best companies in Agricultural Association on Trustpilot, and add your own expe",
+    "text": "(4)\nMushroomvalleyfarms\nmushroomvalleyfarms.com\n4.526 reviews\n1224 W. 21st Street, Unit 5413, CLOVIS"
+  },
+  {
+    "id": "13148141f68cc43e57c9b7163ec0052d7387ae57",
+    "url": "https://www.trustpilot.com/categories/aggregate_supplier",
+    "title": "Best companies in Aggregate Supplier on Trustpilot",
+    "description": "Find and compare the best companies in Aggregate Supplier on Trustpilot, and add your own experience",
+    "text": "(5)\nAlidrop - AliExpress Dropshipping\nalidrop.co\n4.71,212 reviews\nUnited States\nAggregateMarkets\nagg"
+  },
+  {
+    "id": "3b2bce280d8a61ec2a2f4ea166677367dfebaaec",
+    "url": "https://www.trustpilot.com/categories/agricultural_cooperative",
+    "title": "Best companies in Agricultural Cooperative on Trustpilot",
+    "description": "Find and compare the best companies in Agricultural Cooperative on Trustpilot, and add your own expe",
+    "text": "(6)\nPalm Beach Bees\npalmbeachbees.com\n3.82 reviews\nUnited States\nOllloll\nollloll.com\n3.71 review\nUni"
   }
 ]
