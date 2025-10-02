@@ -12856,7 +12856,7 @@
     "urls": []
   },
   "optimizely.com": {
-    "lastAt": 1759051257606,
+    "lastAt": 1759409113642,
     "urls": [
       "https://www.optimizely.com/no/",
       "https://www.optimizely.com/de/",
@@ -12907,31 +12907,41 @@
       "https://www.optimizely.com/no/products/feature-experimentation/free-feature-flagging/",
       "https://www.optimizely.com/products/feature-experimentation/free-feature-flagging/",
       "https://www.optimizely.com/sv/products/feature-experimentation/free-feature-flagging/",
-      "https://www.optimizely.com/de/products/personalization/"
+      "https://www.optimizely.com/de/products/personalization/",
+      "https://www.optimizely.com/sv/products/personalization/",
+      "https://www.optimizely.com/de/products/personalization/recommendations/",
+      "https://www.optimizely.com/no/products/personalization/",
+      "https://www.optimizely.com/products/personalization/",
+      "https://www.optimizely.com/sv/products/personalization/recommendations/",
+      "https://www.optimizely.com/no/products/personalization/recommendations/",
+      "https://www.optimizely.com/de/products/asset-management/",
+      "https://www.optimizely.com/products/personalization/recommendations/",
+      "https://www.optimizely.com/sv/products/asset-management/",
+      "https://www.optimizely.com/no/products/asset-management/"
     ]
   },
   "ring.com": {
-    "lastAt": 1759051262678,
+    "lastAt": 1759409118887,
     "urls": [
       "https://ring.com/"
     ]
   },
   "expireddomains.com": {
-    "lastAt": 1759051263628,
+    "lastAt": 1759409119921,
     "urls": [
       "https://expireddomains.com/"
     ]
   },
   "tandfonline.com": {
-    "lastAt": 1759051267575,
+    "lastAt": 1759409124420,
     "urls": []
   },
   "mgts.ru": {
-    "lastAt": 1759051326384,
+    "lastAt": 1759409183281,
     "urls": []
   },
   "stackadapt.com": {
-    "lastAt": 1759051330675,
+    "lastAt": 1759409188317,
     "urls": [
       "https://www.stackadapt.com/",
       "https://www.stackadapt.com/academy",
@@ -12974,23 +12984,31 @@
       "https://www.stackadapt.com/main",
       "https://www.stackadapt.com/legal-document-centre/mexico-privacy-policy",
       "https://www.stackadapt.com/legal-document-centre/consumer-rights-web-form-thank-you",
-      "https://www.stackadapt.com/legal-document-centre/accessibility-commitment"
+      "https://www.stackadapt.com/legal-document-centre/accessibility-commitment",
+      "https://www.stackadapt.com/legal-document-centre/event-terms-and-conditions",
+      "https://www.stackadapt.com/our-solutions/solutions-finder",
+      "https://www.stackadapt.com/industry-solutions/travel",
+      "https://www.stackadapt.com/industry-solutions/finance",
+      "https://www.stackadapt.com/industry-solutions/regulated",
+      "https://www.stackadapt.com/news/archive",
+      "https://www.stackadapt.com/industry-solutions/b2b",
+      "https://www.stackadapt.com/legal-document-centre/website-and-platform-user-privacy-policy"
     ]
   },
   "typekit.net": {
-    "lastAt": 1759051389486,
+    "lastAt": 1759409247171,
     "urls": []
   },
   "smaato.net": {
-    "lastAt": 1759051392582,
+    "lastAt": 1759409250487,
     "urls": []
   },
   "oraclecloud.com": {
-    "lastAt": 1759051396540,
+    "lastAt": 1759409254228,
     "urls": []
   },
   "mailchimp.com": {
-    "lastAt": 1759051405606,
+    "lastAt": 1759409263245,
     "urls": [
       "https://mailchimp.com/resources/sms-event-marketing/",
       "https://mailchimp.com/resources/omnichannel-marketing-automation/",
@@ -13041,41 +13059,51 @@
       "https://mailchimp.com/resources/bounce-back-email/",
       "https://mailchimp.com/webinar-library/the-final-countdown/success/",
       "https://mailchimp.com/resources/omnichannel-content-strategy/",
-      "https://mailchimp.com/case-studies/ravinia-festival-popup-forms/"
+      "https://mailchimp.com/case-studies/ravinia-festival-popup-forms/",
+      "https://mailchimp.com/resources/holiday-shopping-has-changed/",
+      "https://mailchimp.com/resources/new-year-new-subscribers/",
+      "https://mailchimp.com/webinar-racing-towards-growth/success/",
+      "https://mailchimp.com/resources/from-gifting-to-giving/",
+      "https://mailchimp.com/webinar-advancing-e-commerce/",
+      "https://mailchimp.com/webinar-the-winning-formula/success/",
+      "https://mailchimp.com/webinar-library/unleash-the-potential-of-sms-marketing/",
+      "https://mailchimp.com/webinar-library/unleash-the-potential-of-sms-marketing/success/",
+      "https://mailchimp.com/webinar-library/how-to-grow-your-brand/success/",
+      "https://mailchimp.com/webinar-library/how-to-grow-your-brand/"
     ]
   },
   "mozgcp.net": {
-    "lastAt": 1759051408669,
+    "lastAt": 1759409266286,
     "urls": []
   },
   "withgoogle.com": {
-    "lastAt": 1759051409049,
+    "lastAt": 1759409266757,
     "urls": [
       "https://withgoogle.com/"
     ]
   },
   "nel.goog": {
-    "lastAt": 1759051412042,
+    "lastAt": 1759409269824,
     "urls": []
   },
   "dnspod.net": {
-    "lastAt": 1759051470856,
+    "lastAt": 1759409328671,
     "urls": []
   },
   "impervadns.net": {
-    "lastAt": 1759051473731,
+    "lastAt": 1759409331562,
     "urls": []
   },
   "agkn.com": {
-    "lastAt": 1759051476614,
+    "lastAt": 1759409334550,
     "urls": []
   },
   "ieee.org": {
-    "lastAt": 1759051483150,
+    "lastAt": 1759409340142,
     "urls": []
   },
   "newrelic.com": {
-    "lastAt": 1759051486802,
+    "lastAt": 1759409343017,
     "urls": [
       "https://newrelic.com/",
       "https://newrelic.com/blog/nerdlog/unify-monitoring-across-the-entire-sap-landscape",
@@ -13126,45 +13154,55 @@
       "https://newrelic.com/press-release/20161104",
       "https://newrelic.com/instant-observability/log-analysis",
       "https://newrelic.com/instant-observability/ejb-session-beans",
-      "https://newrelic.com/instant-observability/msmq"
+      "https://newrelic.com/instant-observability/msmq",
+      "https://newrelic.com/instant-observability/network-routers-and-switches",
+      "https://newrelic.com/instant-observability/ibm-db2",
+      "https://newrelic.com/instant-observability/mule-esb",
+      "https://newrelic.com/instant-observability/dnn-community",
+      "https://newrelic.com/instant-observability/redis-prometheus",
+      "https://newrelic.com/instant-observability/azure-machine-learning",
+      "https://newrelic.com/instant-observability/amazon-mwaa",
+      "https://newrelic.com/press-release/20161004",
+      "https://newrelic.com/instant-observability/solr",
+      "https://newrelic.com/instant-observability/redis"
     ]
   },
   "bytefcdn-ttpus.com": {
-    "lastAt": 1759051489977,
+    "lastAt": 1759409346690,
     "urls": []
   },
   "aboutads.info": {
-    "lastAt": 1759051490647,
+    "lastAt": 1759409347655,
     "urls": [
       "https://aboutads.info/"
     ]
   },
   "xerox.com": {
-    "lastAt": 1759051494639,
+    "lastAt": 1759409352579,
     "urls": [
       "https://xerox.com/"
     ]
   },
   "he.net": {
-    "lastAt": 1759051495925,
+    "lastAt": 1759409353661,
     "urls": [
       "https://he.net/"
     ]
   },
   "w3schools.com": {
-    "lastAt": 1759054843114,
+    "lastAt": 1759409356364,
     "urls": [
       "https://w3schools.com/"
     ]
   },
   "elpais.com": {
-    "lastAt": 1759054844421,
+    "lastAt": 1759409358018,
     "urls": [
       "https://elpais.com/"
     ]
   },
   "pinimg.com": {
-    "lastAt": 1759054852985,
+    "lastAt": 1759409362912,
     "urls": [
       "https://pinimg.com/",
       "https://www.pinterest.com/ideas/big-hole-charm-beads/908317145438/",
@@ -13215,15 +13253,25 @@
       "https://www.pinterest.com/shopping/chic-evening-corset-dress-with-puff-sleeves/909189861858/",
       "https://www.pinterest.com/shopping/relaxed-fit-solid-color-cotton-sweatpants/911456848531/",
       "https://www.pinterest.com/shopping/pink-vases/910807515540/",
-      "https://www.pinterest.com/shopping/casual-brown-knit-cardigan/918175643519/"
+      "https://www.pinterest.com/shopping/casual-brown-knit-cardigan/918175643519/",
+      "https://www.pinterest.com/today/best/lifes-too-short-for-drab-home-decor/68448/",
+      "https://www.pinterest.com/today/best/gifs-and-memes-to-spread-the-spooky-spirit/76333/",
+      "https://www.pinterest.com/today/best/money-saving-challenges-to-start-today/55486/",
+      "https://www.pinterest.com/today/best/lazy-hair-day-these-clip-styles-have-got-you/77768/",
+      "https://www.pinterest.com/today/best/hourglass-nails-are-trending-again/98776/",
+      "https://www.pinterest.com/today/best/stay-sun-safe-with-these-trending-hats/107700/",
+      "https://www.pinterest.com/today/best/inclusive-beauty-inspiration/55175/",
+      "https://www.pinterest.com/today/best/happy-mothers-day/90013/",
+      "https://www.pinterest.com/today/best/fall-outfit-ideas/128363/",
+      "https://www.pinterest.com/today/best/summer-picnic-inspiration/71597/"
     ]
   },
   "avsxappcaptiveportal.com": {
-    "lastAt": 1759054911838,
+    "lastAt": 1759409421724,
     "urls": []
   },
   "jotform.com": {
-    "lastAt": 1759054915354,
+    "lastAt": 1759409425397,
     "urls": [
       "https://www.jotform.com/workflow-templates/",
       "https://jotform.com/",
@@ -13274,11 +13322,21 @@
       "https://www.jotform.com/workflow-templates/help-desk-ticket-approval-process-template",
       "https://www.jotform.com/workflow-templates/business-trip-approval-workflow-template",
       "https://www.jotform.com/workflow-templates/car-loan-application-pre-approval-process-template",
-      "https://www.jotform.com/workflow-templates/unemployment-benefits-approval-workflow-template"
+      "https://www.jotform.com/workflow-templates/unemployment-benefits-approval-workflow-template",
+      "https://www.jotform.com/workflow-templates/business-loan-pre-approval-process-template",
+      "https://www.jotform.com/workflow-templates/cancellation-approval-process-template",
+      "https://www.jotform.com/workflow-templates/course-registration-approval-process-template",
+      "https://www.jotform.com/workflow-templates/invoice-approval-workflow-template",
+      "https://www.jotform.com/workflow-templates/work-from-home-approval-request-template",
+      "https://www.jotform.com/workflow-templates/timesheet-approval-workflow-template",
+      "https://www.jotform.com/workflow-templates/pick-up-request-approval-workflow-template",
+      "https://www.jotform.com/workflow-templates/travel-expense-reimbursement-request-approval-template",
+      "https://www.jotform.com/workflow-templates/warranty-claim-approval-process-template",
+      "https://www.jotform.com/workflow-templates/sponsorship-approval-workflow-template"
     ]
   },
   "pendo.io": {
-    "lastAt": 1759054924782,
+    "lastAt": 1759409431903,
     "urls": [
       "https://www.pendo.io/",
       "https://pendo.io/",
@@ -13328,11 +13386,21 @@
       "https://www.pendo.io/web-accessibility/",
       "https://www.pendo.io/solutions/pendo-for-marketing/",
       "https://www.pendo.io/pricing/",
-      "https://www.pendo.io/state-of-product-leadership/"
+      "https://www.pendo.io/state-of-product-leadership/",
+      "https://www.pendo.io/diversity-and-inclusion/",
+      "https://www.pendo.io/solutions/public-sector/",
+      "https://www.pendo.io/solutions/nonprofit/",
+      "https://www.pendo.io/solutions/ed-tech-digital-learning/",
+      "https://www.pendo.io/digital-adoption-solutions/user-training/",
+      "https://www.pendo.io/solutions/healthcare/",
+      "https://www.pendo.io/help-center/",
+      "https://www.pendo.io/solutions/professional-services/",
+      "https://www.pendo.io/solutions/services-support/",
+      "https://www.pendo.io/solutions/services-support/technical-support/"
     ]
   },
   "yieldmo.com": {
-    "lastAt": 1759054931813,
+    "lastAt": 1759409439674,
     "urls": [
       "https://yieldmo.com/ttd-deal-set-up-easy-proposal-api/",
       "https://yieldmo.com/ttd-activate-yieldmo-supply/",
@@ -13360,11 +13428,15 @@
       "https://yieldmo.com/top-insurer-reduces-incremental-cost-per-sale-by-80/",
       "https://yieldmo.com/top-auto-brand-increases-conversions-by-35-and-cpa-by-24/",
       "https://yieldmo.com/major-auto-brand-increases-viewability-by-15-while-reducing-ecpm-30/",
-      "https://yieldmo.com/major-auto-brand-leverages-contextual-curation-to-prepare-for-the-cookieless-future/"
+      "https://yieldmo.com/major-auto-brand-leverages-contextual-curation-to-prepare-for-the-cookieless-future/",
+      "https://yieldmo.com/top-cpg-brand-drives-75-vcr-with-contextual-curation/",
+      "https://yieldmo.com/top-big-box-retailer-achieves-50-higher-cross-device-roas-in-real-time/",
+      "https://yieldmo.com/dfo-dv360-native-display-creative-setup/",
+      "https://yieldmo.com/dfo-ttd-native-display-creative-setup/"
     ]
   },
   "tbcache.com": {
-    "lastAt": 1759054990667,
+    "lastAt": 1759409498488,
     "urls": []
   },
   "brave.com": {
