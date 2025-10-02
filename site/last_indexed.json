@@ -19722,13 +19722,13 @@
     ]
   },
   "seedtag.com": {
-    "lastAt": 1759086995709,
+    "lastAt": 1759443586672,
     "urls": [
       "https://seedtag.com/"
     ]
   },
   "worldbank.org": {
-    "lastAt": 1759087002541,
+    "lastAt": 1759443592543,
     "urls": [
       "https://worldbank.org/",
       "https://www.worldbank.org/en/country/djibouti/publication/djibouti-economic-monitor-winter-2021",
@@ -19775,15 +19775,23 @@
       "https://www.worldbank.org/en/country/iran/publication/iran-economic-monitor-fall-2021",
       "https://www.worldbank.org/en/country/malaysia/publication/malaysia-economic-monitor-december-2021-staying-afloat",
       "https://www.worldbank.org/en/country/algeria/publication/algeria-economic-update-fall-2021",
-      "https://www.worldbank.org/en/country/china/publication/china-economic-update-december-2021"
+      "https://www.worldbank.org/en/country/china/publication/china-economic-update-december-2021",
+      "https://www.worldbank.org/en/country/malawi/publication/unlocking-malawi-s-economic-growth-by-bridging-the-widening-gender-gaps-in-the-labour-workforce",
+      "https://www.worldbank.org/en/country/congo/publication/republic-of-congo-living-in-times-of-covid-19-what-do-the-surveys-reveal-about-households-and-companies",
+      "https://www.worldbank.org/en/country/uzbekistan/brief/cpf-consultations",
+      "https://www.worldbank.org/ja/country/tajikistan/publication/tajikistan-the-economic-impacts-of-disasters-along-key-transport-corridors",
+      "https://www.worldbank.org/en/country/jordan/publication/jordan-economic-monitor-fall-2021",
+      "https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-december-2021",
+      "https://www.worldbank.org/pt/country/brazil/brief/impactos-da-covid19-no-brasil-evidencias-sobre-pessoas-com-deficiencia-durante-a-pandemia",
+      "https://www.worldbank.org/en/country/brazil/brief/impactos-da-covid19-no-brasil-evidencias-sobre-pessoas-com-deficiencia-durante-a-pandemia"
     ]
   },
   "chaturbate.com": {
-    "lastAt": 1759087005934,
+    "lastAt": 1759443595746,
     "urls": []
   },
   "character.ai": {
-    "lastAt": 1759087014103,
+    "lastAt": 1759443602301,
     "urls": [
       "https://character.ai/about",
       "https://character.ai/",
@@ -19791,7 +19799,7 @@
     ]
   },
   "binance.com": {
-    "lastAt": 1759087016974,
+    "lastAt": 1759443607634,
     "urls": [
       "https://www.binance.com/en/trade/1000CAT_BNB",
       "https://www.binance.com/en/trade/1000CAT_FDUSD",
@@ -19842,47 +19850,57 @@
       "https://www.binance.com/es-MX/trade/1000CAT_USDC",
       "https://www.binance.com/es-MX/trade/1000CAT_USDT",
       "https://www.binance.com/es-MX/trade/1000CHEEMS_USDC",
-      "https://www.binance.com/es-MX/trade/1000CHEEMS_USDT"
+      "https://www.binance.com/es-MX/trade/1000CHEEMS_USDT",
+      "https://www.binance.com/da-DK/trade",
+      "https://www.binance.com/da-DK/trade/0G_FDUSD",
+      "https://www.binance.com/da-DK/trade/0G_USDC",
+      "https://www.binance.com/da-DK/trade/1000CAT_FDUSD",
+      "https://www.binance.com/da-DK/trade/0G_USDT",
+      "https://www.binance.com/da-DK/trade/1000CHEEMS_USDC",
+      "https://www.binance.com/da-DK/trade/1000CHEEMS_USDT",
+      "https://www.binance.com/da-DK/trade/1000SATS_TRY",
+      "https://www.binance.com/da-DK/trade/1000SATS_USDT",
+      "https://www.binance.com/da-DK/trade/1INCH_BTC"
     ]
   },
   "capcut.com": {
-    "lastAt": 1759087018905,
+    "lastAt": 1759443609483,
     "urls": [
       "https://capcut.com/"
     ]
   },
   "samsungcloudsolution.net": {
-    "lastAt": 1759087022213,
+    "lastAt": 1759443612646,
     "urls": []
   },
   "beget.com": {
-    "lastAt": 1759087023352,
+    "lastAt": 1759443613516,
     "urls": [
       "https://beget.com/"
     ]
   },
   "amazon.com.br": {
-    "lastAt": 1759087026216,
+    "lastAt": 1759443614806,
     "urls": [
       "https://amazon.com.br/"
     ]
   },
   "adblockplus.org": {
-    "lastAt": 1759087027510,
+    "lastAt": 1759443615836,
     "urls": [
       "https://adblockplus.org/"
     ]
   },
   "incapdns.net": {
-    "lastAt": 1759087030434,
+    "lastAt": 1759443618690,
     "urls": []
   },
   "gtm-a2b2.com": {
-    "lastAt": 1759087089244,
+    "lastAt": 1759443677503,
     "urls": []
   },
   "supercell.com": {
-    "lastAt": 1759087092584,
+    "lastAt": 1759443679808,
     "urls": [
       "https://supercell.com/",
       "https://supercell.com/404",
@@ -19933,11 +19951,21 @@
       "https://supercell.com/en/careers/why-you-might-love-it-here",
       "https://supercell.com/en/careers/joining-supercell",
       "https://supercell.com/en/careers/living-shanghai",
-      "https://supercell.com/en/debug/sentry-test"
+      "https://supercell.com/en/debug/sentry-test",
+      "https://supercell.com/en/fan-content-policy/ar",
+      "https://supercell.com/en/fan-content-policy/es",
+      "https://supercell.com/en/fan-content-policy/cn",
+      "https://supercell.com/en/fan-content-policy/de",
+      "https://supercell.com/en/fan-content-policy/cnt",
+      "https://supercell.com/en/fan-content-policy/fa",
+      "https://supercell.com/en/fan-content-policy/fi",
+      "https://supercell.com/en/fan-content-policy/fr",
+      "https://supercell.com/en/fan-content-policy/id",
+      "https://supercell.com/en/fan-content-policy/it"
     ]
   },
   "ebay.de": {
-    "lastAt": 1759087100909,
+    "lastAt": 1759443696345,
     "urls": [
       "https://www.ebay.de/b/Samsung-spiegellose-Systemkameras/31388/bn_1253",
       "https://www.ebay.de/b/Canon-DSLR-Kameras/31388/bn_1269",
@@ -19983,43 +20011,52 @@
       "https://www.ebay.de/b/Birkenstock-Herrenschuhe/93427/bn_80132",
       "https://www.ebay.de/b/Everlast-Herrenschuhe/93427/bn_80210",
       "https://www.ebay.de/b/Bullboxer-Herrenschuhe/93427/bn_80147",
-      "https://www.ebay.de/b/G-Star-Herrenschuhe/93427/bn_80248"
+      "https://www.ebay.de/b/G-Star-Herrenschuhe/93427/bn_80248",
+      "https://www.ebay.de/b/Toshiba-Camcorder/11724/bn_362",
+      "https://www.ebay.de/b/PRAKTICA-Digitalkameras/31388/bn_1384",
+      "https://www.ebay.de/b/Rollei-Digitalkameras/31388/bn_1388",
+      "https://www.ebay.de/b/GE-Digitalkameras/31388/bn_1399",
+      "https://www.ebay.de/b/Unterwasser-Beutel-fur-Kamera/50506/bn_71071",
+      "https://www.ebay.de/b/Camcorder-mit-Gesichtserkennung/11724/bn_342",
+      "https://www.ebay.de/b/Canon-Bridgekameras/31388/bn_1295",
+      "https://www.ebay.de/b/JVC-Camcorder/11724/bn_365",
+      "https://www.ebay.de/b/Ricoh-Caplio-Digitalkameras/31388/bn_1345"
     ]
   },
   "4dex.io": {
-    "lastAt": 1759087103944,
+    "lastAt": 1759443699332,
     "urls": []
   },
   "kwai.com": {
-    "lastAt": 1759087107059,
+    "lastAt": 1759443702695,
     "urls": [
       "https://kwai.com/"
     ]
   },
   "kueezrtb.com": {
-    "lastAt": 1759087108329,
+    "lastAt": 1759443703735,
     "urls": [
       "https://kueezrtb.com/"
     ]
   },
   "microsoftapp.net": {
-    "lastAt": 1759087111207,
+    "lastAt": 1759443706588,
     "urls": []
   },
   "mercadolivre.com.br": {
-    "lastAt": 1759087115162,
+    "lastAt": 1759443709617,
     "urls": []
   },
   "kslawin.com": {
-    "lastAt": 1759087118372,
+    "lastAt": 1759443713084,
     "urls": []
   },
   "ad.gt": {
-    "lastAt": 1759087121888,
+    "lastAt": 1759443716814,
     "urls": []
   },
   "repubblica.it": {
-    "lastAt": 1759087127631,
+    "lastAt": 1759443722423,
     "urls": [
       "https://repubblica.it/",
       "https://www.repubblica.it/sport/calcio/serie-a/2025/09/12/news/cuadrado_simulatore_juve_inter_intervista-424842320/",
@@ -20070,11 +20107,21 @@
       "https://www.repubblica.it/economia/2025/09/28/news/trump_lisa_monaco_licenziamento_microsoft_azure_cloud_israele-424876771/",
       "https://www.repubblica.it/politica/2025/09/28/diretta/elezioni_regionali_marche_valle_d_aosta_2025_news_oggi-424875691/",
       "https://www.repubblica.it/esteri/2025/09/28/diretta/israele_gaza_hamas_guerra_news_oggi_diretta-424875566/",
-      "https://www.repubblica.it/solidarieta/diritti-umani/2025/09/28/news/salute_globale_i_tagli_ai_finanziamenti_minacciano_la_lotta_contro_aids_tubercolosi_e_malaria-424876681/"
+      "https://www.repubblica.it/solidarieta/diritti-umani/2025/09/28/news/salute_globale_i_tagli_ai_finanziamenti_minacciano_la_lotta_contro_aids_tubercolosi_e_malaria-424876681/",
+      "https://www.repubblica.it/cultura/rubriche/la-coda-dell-occhio/2025/10/03/news/repubblicaculturarubrichela-coda-dell-occhio_sesso_debole-424886189/",
+      "https://www.repubblica.it/commenti/2025/10/03/news/meloni_non_violenza_strategie_liberta_manconi-424886663/",
+      "https://www.repubblica.it/politica/2025/10/03/news/la_vignetta_di_ellekappa_meloni_sciopero_generale_flotilla-424887161/",
+      "https://www.repubblica.it/rubriche/l-amaca/2025/10/03/news/l_amaca_del_3_ottobre_2025-424886480/",
+      "https://www.repubblica.it/dossier/cultura/cinquanta-anni-di-repubblica/2025/10/03/news/simpson_processo_assoluzione_1995_garimberti_50_anni_repubblica-424887072/",
+      "https://www.repubblica.it/rubriche/le-lettere/2025/10/03/news/posta_e_risposta_del_3_ottobre_2025-424886610/",
+      "https://www.repubblica.it/cronaca/2025/10/03/news/previsioni_meteo_weekend_maltempo-424887221/",
+      "https://www.repubblica.it/commenti/2025/10/02/news/flotilla_diritto_internazionale_gatta-424886887/",
+      "https://www.repubblica.it/economia/2025/10/03/news/il_comunicato_del_cdr-424887203/",
+      "https://www.repubblica.it/economia/2025/10/03/news/mps_11_nomi_per_il_cda_mediobanca_inizia_l_era_grilli-melzi_d_eril-424887217/"
     ]
   },
   "bitdefender.com": {
-    "lastAt": 1759090936094,
+    "lastAt": 1759443724681,
     "urls": [
       "https://www.bitdefender.com/en-us/news/bitdefender-earns-four-av-test-best-protection-awards-3956",
       "https://bitdefender.com/",
@@ -20125,11 +20172,21 @@
       "https://www.bitdefender.com/en-us/news/bitdefender-iot-security-platform-named-leader-of-smart-home-security-market-in-ovum-research-3750",
       "https://www.bitdefender.com/en-us/news/bitdefender-gives-partners-a-leading-edge-with-new-channel-marketing-automation-platform-3751",
       "https://www.bitdefender.com/en-us/news/bitdefender-wins-product-of-the-year-award-from-av-comparatives-3437",
-      "https://www.bitdefender.com/en-us/news/bitdefender-names-joe-sykora-vp-of-worldwide-channel-development-strengthening-commitment-to-channel-partners-3421"
+      "https://www.bitdefender.com/en-us/news/bitdefender-names-joe-sykora-vp-of-worldwide-channel-development-strengthening-commitment-to-channel-partners-3421",
+      "https://www.bitdefender.com/en-us/news/bitdefender-to-showcase-evolution-of-smart-home-security-at-ces-2018-3405",
+      "https://www.bitdefender.com/en-us/news/bitdefender-enters-japanese-tux-market-129",
+      "https://www.bitdefender.com/en-us/news/bitdefender-announces-availability-of-bitdefender-box-2-the-next-generation-security-hub-for-the-connected-home-3394",
+      "https://www.bitdefender.com/en-us/news/bitdefender-and-netgear-partner-to-bring-comprehensive-iot-security-to-customers-worldwide-3415",
+      "https://www.bitdefender.com/en-us/news/bitdefender-enters-distribution-agreement-with-m-link-system-128",
+      "https://www.bitdefender.com/en-us/news/bitdefender-8-professional-plus-detects-all-itw-viruses-120",
+      "https://www.bitdefender.com/en-us/news/bitdefender-announces-availability-of-bitdefender-box-2-the-next-generation-security-hub-for-the-connected-home-33940",
+      "https://www.bitdefender.com/en-us/news/bitdefender-enters-partnership-with-mapae-119",
+      "https://www.bitdefender.com/en-us/news/new-bagle-variant-spreading-quickly-118",
+      "https://www.bitdefender.com/en-us/news/hauri-products-will-use-bitdefender-antivirus-engines-117"
     ]
   },
   "corriere.it": {
-    "lastAt": 1759090944246,
+    "lastAt": 1759443730194,
     "urls": [
       "https://www.corriere.it/salute/dizionario/",
       "https://corriere.it/",
@@ -20178,11 +20235,20 @@
       "https://www.corriere.it/salute/dizionario/acetonemia/",
       "https://www.corriere.it/salute/dizionario/acido-acetilsalicilico/",
       "https://www.corriere.it/salute/dizionario/acido-cloridrico/",
-      "https://www.corriere.it/salute/dizionario/acido-acidobase-equilibrio/"
+      "https://www.corriere.it/salute/dizionario/acido-acidobase-equilibrio/",
+      "https://www.corriere.it/salute/dizionario/acido-ialuronico/",
+      "https://www.corriere.it/salute/dizionario/acido-desossiribonucleico/",
+      "https://www.corriere.it/salute/dizionario/acido-etacrinico/",
+      "https://www.corriere.it/salute/dizionario/acido-folico/",
+      "https://www.corriere.it/salute/dizionario/acido-lisergico/",
+      "https://www.corriere.it/salute/dizionario/acido-lattico/",
+      "https://www.corriere.it/salute/dizionario/acido-nalidissico/",
+      "https://www.corriere.it/salute/dizionario/acido-nucleico/",
+      "https://www.corriere.it/salute/dizionario/acido-nicotinico/"
     ]
   },
   "mgid.com": {
-    "lastAt": 1759090949586,
+    "lastAt": 1759443739279,
     "urls": [
       "https://www.mgid.com/it/blog/category/inserzionisti",
       "https://www.mgid.com/it/blog/category/stampa",
@@ -20233,11 +20299,21 @@
       "https://www.mgid.com/vi/case-studies/domino-s-mang-den-mot-giai-phap-thu-vi-cho-khu-vuc-indonesia-vi",
       "https://www.mgid.com/vi/case-studies/fca-trai-nghiem-hieu-suat-duoc-thuc-day-thong-qua-quang-cao-tu-nhien-vi",
       "https://www.mgid.com/th/case-studies/domino-s-delivering-a-delectable-solution-to-the-indonesian-region-th",
-      "https://www.mgid.com/th/case-studies/hsbc-bank-serving-the-financial-world-through-unique-messaging-th"
+      "https://www.mgid.com/th/case-studies/hsbc-bank-serving-the-financial-world-through-unique-messaging-th",
+      "https://www.mgid.com/ru/blog/ekonomika-vnimaniya-kak-uderzhivat-vnimanie-lyudej-s-pomoshhyu-reklamy",
+      "https://www.mgid.com/blog/how-to-improve-the-technical-side-of-a-website-a-checklist-for-publishers",
+      "https://www.mgid.com/it/blog/vincere-l-economia-dell-attenzione-come-catturare-l-attenzione-delle-persone-con-gli-annunci-pubblicitari",
+      "https://www.mgid.com/th/blog/winning-the-attention-economy-how-to-hold-people-s-attention-with-ads-th",
+      "https://www.mgid.com/uk/blog/ekonomika-uvagi-yak-utrimuvati-uvagu-lyudej-za-dopomogoyu-reklami",
+      "https://www.mgid.com/id/blog/sukses-dalam-ekonomi-berbasis-perhatian-cara-membuat-orang-terus-tertarik-dengan-iklan",
+      "https://www.mgid.com/pt/blog/vencendo-a-economia-da-atencao-como-prender-a-atencao-das-pessoas-com-anuncios",
+      "https://www.mgid.com/es/blog/ganando-la-economia-de-la-atencion-como-mantener-la-atencion-de-las-personas-con-anuncios",
+      "https://www.mgid.com/vi/blog/gianh-duoc-kinh-te-suc-chu-y-cach-thu-hut-su-chu-y-cua-moi-nguoi-bang-quang-cao",
+      "https://www.mgid.com/blog/winning-the-attention-economy-how-to-hold-people-s-attention-with-ads"
     ]
   },
   "chess.com": {
-    "lastAt": 1759090957881,
+    "lastAt": 1759443745612,
     "urls": [
       "https://www.chess.com/play/computer",
       "https://www.chess.com/",
@@ -20283,15 +20359,24 @@
       "https://www.chess.com/why",
       "https://www.chess.com/article/view/know-the-challenger-ian-nepomniachtchi",
       "https://www.chess.com/article/view/leon-chess-festival-2020",
-      "https://www.chess.com/article/view/the-best-chess-game-of-all-time-tournament"
+      "https://www.chess.com/article/view/the-best-chess-game-of-all-time-tournament",
+      "https://www.chess.com/article/view/meeting-with-mvl",
+      "https://www.chess.com/article/view/rook-endgame-essentials-part-1",
+      "https://www.chess.com/article/view/chess-premium-membership",
+      "https://www.chess.com/article/view/the-10-silliest-ways-to-lose-a-chess-game",
+      "https://www.chess.com/article/view/the-top-10-chess-games-of-2017",
+      "https://www.chess.com/article/view/serendipity-an-unforeseen-friendship",
+      "https://www.chess.com/article/view/the-10-most-common-mistakes-among-chess-beginners",
+      "https://www.chess.com/forum",
+      "https://www.chess.com/forum/category/general"
     ]
   },
   "cdn-vk.ru": {
-    "lastAt": 1759090965563,
+    "lastAt": 1759443749384,
     "urls": []
   },
   "eporner.com": {
-    "lastAt": 1759090970420,
+    "lastAt": 1759443752778,
     "urls": [
       "https://www.eporner.com/hd-porn/nSyx08Si2fm/Gay-Pornstar-Got-Pleasured-by-A-Homemade-Design-Dildo/",
       "https://www.eporner.com/hd-porn/QLGCCA0EjqF/Fucking-Demo-Of-Penis-Ring-For-Gays/",
@@ -20338,15 +20423,25 @@
       "https://www.eporner.com/search/gotporn/",
       "https://www.eporner.com/search/bangbros/",
       "https://www.eporner.com/search/vporn/",
-      "https://www.eporner.com/search/xhamster/"
+      "https://www.eporner.com/search/xhamster/",
+      "https://www.eporner.com/hd-porn/QBCOztgUJq7/Gay-Porn-Star-Wearing-Sexy-Jockstraps/",
+      "https://www.eporner.com/search/blacked/",
+      "https://www.eporner.com/search/yespornplease/",
+      "https://www.eporner.com/search/faapy/",
+      "https://www.eporner.com/search/cliphunter/",
+      "https://www.eporner.com/search/brazzers/",
+      "https://www.eporner.com/search/naughty-america/",
+      "https://www.eporner.com/search/pornhub/",
+      "https://www.eporner.com/search/porndig/",
+      "https://www.eporner.com/search/mofos/"
     ]
   },
   "zenecn.net": {
-    "lastAt": 1759090973843,
+    "lastAt": 1759443756159,
     "urls": []
   },
   "www.gov.br": {
-    "lastAt": 1759090977440,
+    "lastAt": 1759443758960,
     "urls": [
       "https://www.gov.br/"
     ]
