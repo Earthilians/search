@@ -11136,7 +11136,7 @@
     "urls": []
   },
   "target.com": {
-    "lastAt": 1759043932681,
+    "lastAt": 1759389673147,
     "urls": [
       "https://www.target.com/s/1+inch+curling+iron",
       "https://www.target.com/s/1+ounce+mason+jars",
@@ -11187,15 +11187,25 @@
       "https://www.target.com/s/110+volt+clothes+dryer",
       "https://www.target.com/s/11x14+diploma+frame",
       "https://www.target.com/s/11x11+fabric+storage+bins",
-      "https://www.target.com/s/11x14+floating+frame"
+      "https://www.target.com/s/11x14+floating+frame",
+      "https://www.target.com/s/12+drawer+storage+cart",
+      "https://www.target.com/s/11x14+scrapbook+album",
+      "https://www.target.com/s/11x17+poster+frame",
+      "https://www.target.com/s/11x14+tabletop+frame",
+      "https://www.target.com/s/11x7+inch+baking+dish",
+      "https://www.target.com/s/12+foot+curtain+rods",
+      "https://www.target.com/s/12+inch+action+figures",
+      "https://www.target.com/s/12+ft+extension+cord",
+      "https://www.target.com/s/12+inch+bed+risers",
+      "https://www.target.com/s/12+electric+frying+pan"
     ]
   },
   "alicdn.com": {
-    "lastAt": 1759043991539,
+    "lastAt": 1759389732003,
     "urls": []
   },
   "dynatrace.com": {
-    "lastAt": 1759043993985,
+    "lastAt": 1759389736933,
     "urls": [
       "https://www.dynatrace.com/",
       "https://dynatrace.com/",
@@ -11246,17 +11256,27 @@
       "https://www.dynatrace.com/info/ebooks/deliver-better-services/",
       "https://www.dynatrace.com/customers/u-haul/",
       "https://www.dynatrace.com/customers/bt/",
-      "https://www.dynatrace.com/info/ebooks/application-performance-monitoring-roadmap/"
+      "https://www.dynatrace.com/info/ebooks/application-performance-monitoring-roadmap/",
+      "https://www.dynatrace.com/customers/kbc/",
+      "https://www.dynatrace.com/info/ebooks/delivering-better-user-experiences-unified-observability/",
+      "https://www.dynatrace.com/info/ebooks/optimize-your-transition-to-the-cloud/",
+      "https://www.dynatrace.com/info/ebooks/state-local-government-digital-transformation/",
+      "https://www.dynatrace.com/customers/carnival/",
+      "https://www.dynatrace.com/info/ebooks/aiops-strategy-for-banking/",
+      "https://www.dynatrace.com/customers/american-fidelity/",
+      "https://www.dynatrace.com/info/ebooks/using-business-analytics/",
+      "https://www.dynatrace.com/customers/keybank-kubernetes/",
+      "https://www.dynatrace.com/info/ebooks/advanced-observability-arcgis-other-apps/"
     ]
   },
   "sina.com.cn": {
-    "lastAt": 1759044000648,
+    "lastAt": 1759389745069,
     "urls": [
       "https://sina.com.cn/"
     ]
   },
   "intercom.io": {
-    "lastAt": 1759044004519,
+    "lastAt": 1759389748341,
     "urls": [
       "https://www.intercom.com/suite",
       "https://www.intercom.com/pricing",
@@ -11302,15 +11322,24 @@
       "https://www.intercom.com/customers/put-io",
       "https://www.intercom.com/customers/pitch",
       "https://www.intercom.com/customers/ratemyagent",
-      "https://www.intercom.com/customers/rebag"
+      "https://www.intercom.com/customers/rebag",
+      "https://www.intercom.com/customers/rocket-money",
+      "https://www.intercom.com/customers/stuart",
+      "https://www.intercom.com/customers/swyftx",
+      "https://www.intercom.com/customers/synthesia-pioneer",
+      "https://www.intercom.com/customers/tado-fin",
+      "https://www.intercom.com/customers/synthesia",
+      "https://www.intercom.com/customers/tado",
+      "https://www.intercom.com/customers/tagplus",
+      "https://www.intercom.com/customers/threadbeast"
     ]
   },
   "hicloud.com": {
-    "lastAt": 1759044007848,
+    "lastAt": 1759389751651,
     "urls": []
   },
   "playstation.com": {
-    "lastAt": 1759044009975,
+    "lastAt": 1759389757020,
     "urls": [
       "https://www.playstation.com/es-ar/ps5/buy-now/",
       "https://www.playstation.com/es-ar/ps5/",
@@ -11361,11 +11390,21 @@
       "https://www.playstation.com/es-ar/games/cosmonious-high/",
       "https://www.playstation.com/es-ar/games/coffee-talk-episode-2--hibiscus---butterfly/",
       "https://www.playstation.com/es-ar/games/cocoon/",
-      "https://www.playstation.com/es-ar/games/construction-simulator/"
+      "https://www.playstation.com/es-ar/games/construction-simulator/",
+      "https://www.playstation.com/es-ar/games/core-keeper/",
+      "https://www.playstation.com/es-ar/games/cosmodread/",
+      "https://www.playstation.com/es-ar/games/contra-operation-galuga/",
+      "https://www.playstation.com/es-ar/games/code-vein-ii/",
+      "https://www.playstation.com/es-ar/games/coral-island/",
+      "https://www.playstation.com/es-ar/games/conscript/",
+      "https://www.playstation.com/es-ar/games/call-of-duty-black-ops-cold-war/",
+      "https://www.playstation.com/es-ar/games/call-of-duty-black-ops-4/",
+      "https://www.playstation.com/es-ar/games/call-of-duty-warzone/",
+      "https://www.playstation.com/es-ar/games/coffee-talk/"
     ]
   },
   "docker.com": {
-    "lastAt": 1759044016412,
+    "lastAt": 1759389763016,
     "urls": [
       "https://docker.com/",
       "https://www.docker.com/blog/",
@@ -11416,7 +11455,17 @@
       "https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/",
       "https://www.docker.com/blog/start-dev-environments-locally-compose-v2-rc-1-and-more-in-docker-desktop-3-6/",
       "https://www.docker.com/blog/from-edge-to-mainstream-scaling-to-100k-iot-devices/",
-      "https://www.docker.com/blog/building-serverless-apps-with-docker/"
+      "https://www.docker.com/blog/building-serverless-apps-with-docker/",
+      "https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/",
+      "https://www.docker.com/blog/simplify-ai-development-with-the-model-context-protocol-and-docker/",
+      "https://www.docker.com/blog/cto-chat-overcoming-the-developer-experience-gap-feat-redmonk-flow-io/",
+      "https://www.docker.com/blog/introducing-docker-model-runner/",
+      "https://www.docker.com/blog/3-software-developer-trends-youll-hear-about-at-dockercon/",
+      "https://www.docker.com/blog/what-you-can-expect-at-dockercon-2022/",
+      "https://www.docker.com/blog/announcing-compose-v2-general-availability/",
+      "https://www.docker.com/blog/back-up-and-share-docker-volumes-with-this-extension/",
+      "https://www.docker.com/blog/the-impacts-of-an-insecure-software-supply-chain/",
+      "https://www.docker.com/blog/tracking-global-vaccination-rates-with-docker-python-and-iot/"
     ]
   },
   "360safe.com": {
@@ -53503,15 +53552,15 @@
     ]
   },
   "dnse1.com": {
-    "lastAt": 1758944052778,
+    "lastAt": 1759389766647,
     "urls": []
   },
   "cedexis-radar.net": {
-    "lastAt": 1758944055665,
+    "lastAt": 1759389769817,
     "urls": []
   },
   "ably.io": {
-    "lastAt": 1758947167247,
+    "lastAt": 1759389774557,
     "urls": [
       "https://ably.com/solutions/chat/group-chat",
       "https://ably.com/liveobjects",
@@ -53552,17 +53601,27 @@
       "https://ably.com/resources/ebooks/livestream-chat-at-scale",
       "https://ably.com/resources/whitepapers/the-online-gaming-betting-guide-to-delivering-powerful-realtime-experiences/thank-you",
       "https://ably.com/resources/whitepapers/kafka-for-realtime-mobile-banking",
-      "https://ably.com/resources/whitepapers/kafka-for-realtime-mobile-banking/thank-you"
+      "https://ably.com/resources/whitepapers/kafka-for-realtime-mobile-banking/thank-you",
+      "https://ably.com/resources/reports/the-state-of-serverless-websocket-infrastructure",
+      "https://ably.com/resources/ebooks/four-pillars-of-dependability",
+      "https://ably.com/resources/webinars/how-nascar-delivers-realtime-data",
+      "https://ably.com/resources/ebooks/how-to-deliver-live-fan-experiences-without-sacrificing-roi",
+      "https://ably.com/resources/ebooks/unlock-innovation-in-fan-engagement",
+      "https://ably.com/resources/whitepapers/using-the-ably-platform-at-scale",
+      "https://ably.com/resources/solution-briefs/extend-confluent-cloud-data-pipelines-to-the-edge",
+      "https://ably.com/resources/case-studies/ably-customers",
+      "https://ably.com/resources/webinars/serverless-websockets-and-the-serverless-stack",
+      "https://ably.com/resources/whitepapers/connect-kafka-client-devices"
     ]
   },
   "battle.net": {
-    "lastAt": 1758947169255,
+    "lastAt": 1759389776731,
     "urls": [
       "https://battle.net/"
     ]
   },
   "ohmy.bid": {
-    "lastAt": 1758947172151,
+    "lastAt": 1759389779289,
     "urls": [
       "https://ohmy.bid/",
       "http://ohmy.bid/",
@@ -53570,13 +53629,13 @@
     ]
   },
   "cctv.com": {
-    "lastAt": 1758947176011,
+    "lastAt": 1759389797278,
     "urls": [
       "https://cctv.com/"
     ]
   },
   "indianexpress.com": {
-    "lastAt": 1758947182216,
+    "lastAt": 1759389811568,
     "urls": [
       "https://indianexpress.com/",
       "https://indianexpress.com/article/cities/chandigarh/property-dispute-former-mla-simarjeet-bainss-brother-nephew-booked-for-attempt-to-murder-10250128/",
@@ -53617,15 +53676,25 @@
       "https://indianexpress.com/article/political-pulse/rahul-gandhi-political-maturity-challenging-bjp-pm-d-raja-10274029/",
       "https://indianexpress.com/article/world/king-charles-pay-state-visit-vatican-pope-leo-10274034/",
       "https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-27-2025-news-headlines-10274030/",
-      "https://indianexpress.com/article/sports/tennis/boris-becker-bjorn-borg-autobiography-sharp-minds-do-stupid-things-10274065/"
+      "https://indianexpress.com/article/sports/tennis/boris-becker-bjorn-borg-autobiography-sharp-minds-do-stupid-things-10274065/",
+      "https://indianexpress.com/article/entertainment/bollywood/farah-khan-revisits-small-house-she-grew-up-in-mother-had-to-sell-it-when-family-had-no-money-we-had-no-sofa-slept-on-floor-10283466/",
+      "https://indianexpress.com/article/cities/delhi/delhi-property-prices-likely-to-rise-as-govt-plans-circle-rate-revision-10283490/",
+      "https://indianexpress.com/article/cities/delhi/delhi-cabbie-robbed-gunpoint-carjackers-used-girlfriends-10283578/",
+      "https://indianexpress.com/article/sports/cricket/why-the-australian-womens-team-no-longer-called-southern-stars-10283565/",
+      "https://indianexpress.com/article/entertainment/bollywood/ibrahim-ali-khan-is-new-age-salman-khan-akshay-kumars-son-aarav-has-fashion-ambition-studying-at-best-college-abu-jani-sandeep-khosla-on-star-kids-10283472/",
+      "https://indianexpress.com/photos/lifestyle-gallery/deepika-padukone-alia-bhatt-pilates-coach-yasmin-karachiwala-easy-lotus-stem-kamal-kakdi-recipe-fibre-chips-expert-10280140/",
+      "https://indianexpress.com/article/technology/social/big-instagram-update-meta-testing-reels-as-default-tab-on-app-10283187/",
+      "https://indianexpress.com/article/lifestyle/health/is-there-direct-link-between-sugar-consumption-back-pain-experts-joint-health-9513779/",
+      "https://indianexpress.com/photos/lifestyle-gallery/how-yoga-can-help-in-treating-migraine-10278296/",
+      "https://indianexpress.com/article/sports/cricket/ravindra-jadeja-special-feeling-india-test-vice-captain-wi-series-10283509/"
     ]
   },
   "rumble.com": {
-    "lastAt": 1758947221264,
+    "lastAt": 1759389850785,
     "urls": []
   },
   "belkin.com": {
-    "lastAt": 1758947233431,
+    "lastAt": 1759389860096,
     "urls": [
       "https://www.belkin.com/shop-by/featured-products/2-in-1-magsafe-wireless-charging-pad/",
       "https://www.belkin.com/shop-by/featured-products/2-in-1-magsafe-wireless-charging-stand/",
@@ -53666,11 +53735,21 @@
       "https://www.belkin.com/company/belkin-live/",
       "https://www.belkin.com/company/blog/belkin-guide-android-phone-chargers/",
       "https://www.belkin.com/company/blog/mothers-day-gifts-and-tips/",
-      "https://www.belkin.com/business/belkin-dock-utility/"
+      "https://www.belkin.com/business/belkin-dock-utility/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-13-mini/",
+      "https://www.belkin.com/shop-by/special-offers/earn-belkin-rewards/",
+      "https://www.belkin.com/rewards/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-13/",
+      "https://www.belkin.com/company/blog/belkin-sku-comparison-advisor/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-13-pro/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-13-pro-max/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-6/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-6s/",
+      "https://www.belkin.com/verizon-for-iphone/iphone-7/"
     ]
   },
   "deadline.com": {
-    "lastAt": 1758947238702,
+    "lastAt": 1759389866735,
     "urls": [
       "https://deadline.com/",
       "https://deadline.com/2025/08/jesus-animated-comedy-series-prime-video-chosen-adventures-1236500113/",
@@ -53711,15 +53790,25 @@
       "https://deadline.com/2025/09/the-new-yorker-at-100-review-telluride-film-festival-1236503332/",
       "https://deadline.com/2025/09/graham-greene-dead-dances-with-wolves-wind-river-1236502962/",
       "https://deadline.com/2025/09/joe-bugner-dead-muhammad-ali-twice-1236503400/",
-      "https://deadline.com/2025/09/disney-sued-former-top-lawyer-discrimination-1236500834/"
+      "https://deadline.com/2025/09/disney-sued-former-top-lawyer-discrimination-1236500834/",
+      "https://deadline.com/2025/09/diddy-no-new-trial-1236556188/",
+      "https://deadline.com/2025/09/doc-episode-202-recap-felicity-huffman-debut-interview-1236565770/",
+      "https://deadline.com/2025/09/as-government-shutdown-looms-donald-trumps-gop-and-democrats-start-the-media-messaging-blame-game-1236566654/",
+      "https://deadline.com/2025/09/hera-launches-female-podcast-business-1236565871/",
+      "https://deadline.com/2025/10/micro-drama-vertical-spirit-studios-night-train-uk-series-1236566262/",
+      "https://deadline.com/2025/09/hbo-max-spain-documentary-focus-iberseries-1236566089/",
+      "https://deadline.com/2025/09/dancing-with-the-stars-week-3-who-went-home-1236566890/",
+      "https://deadline.com/2025/09/wnba-usa-network-versant-expanded-multi-year-rights-deal-1236566912/",
+      "https://deadline.com/2025/09/jimmy-kimmel-fcc-threat-trump-1236566954/",
+      "https://deadline.com/2025/09/jimmy-kimmel-stephen-colbert-late-night-wars-1236566955/"
     ]
   },
   "telecid.ru": {
-    "lastAt": 1758947245661,
+    "lastAt": 1759389871948,
     "urls": []
   },
   "newscientist.com": {
-    "lastAt": 1758947255921,
+    "lastAt": 1759389875515,
     "urls": [
       "https://www.newscientist.com/",
       "https://newscientist.com/",
@@ -53760,29 +53849,39 @@
       "https://www.newscientist.com/section/video/",
       "https://www.newscientist.com/section/secrect-science/",
       "https://www.newscientist.com/section/the-renewable-energy-revolution/",
-      "https://www.newscientist.com/section/uncategorized/"
+      "https://www.newscientist.com/section/uncategorized/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/south-croydon/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/harrow/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/london-central-/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/uxbridge/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/sutton/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/manchester/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/glasgow/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/cambridge/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/brighton/",
+      "https://www.newscientist.com/nsj/jobs/chemistry/edinburgh/"
     ]
   },
   "tdnsstic1.cn": {
-    "lastAt": 1758947259151,
+    "lastAt": 1759389879282,
     "urls": []
   },
   "pp.ru": {
-    "lastAt": 1758947261965,
+    "lastAt": 1759389881343,
     "urls": [
       "https://pp.ru/"
     ]
   },
   "falais.com": {
-    "lastAt": 1758947265006,
+    "lastAt": 1759389884303,
     "urls": []
   },
   "sgsnssdk.com": {
-    "lastAt": 1758947268126,
+    "lastAt": 1759389887498,
     "urls": []
   },
   "padlet.com": {
-    "lastAt": 1758947270388,
+    "lastAt": 1759389889342,
     "urls": [
       "https://ar.padlet.com/",
       "https://bg.padlet.com/",
@@ -53823,11 +53922,21 @@
       "https://th.padlet.com/",
       "https://tr.padlet.com/",
       "https://sv.padlet.com/",
-      "https://vi.padlet.com/"
+      "https://vi.padlet.com/",
+      "https://bg.padlet.com/contact-us",
+      "https://ca.padlet.com/contact-us",
+      "https://zh-tw.padlet.com/",
+      "https://zh-cn.padlet.com/",
+      "https://ar.padlet.com/contact-us",
+      "https://cs.padlet.com/contact-us",
+      "https://cy-gb.padlet.com/contact-us",
+      "https://da.padlet.com/contact-us",
+      "https://de.padlet.com/contact-us",
+      "https://el.padlet.com/contact-us"
     ]
   },
   "mapquest.com": {
-    "lastAt": 1758947274266,
+    "lastAt": 1759389892806,
     "urls": [
       "https://mapquest.com/",
       "https://www.mapquest.com/travel/destinations/spring-break-travel/most-walkable-cities-in-the-us.htm",
@@ -53864,23 +53973,32 @@
       "https://www.mapquest.com/travel/kusadasi.htm",
       "https://www.mapquest.com/travel/iceland-food.htm",
       "https://www.mapquest.com/travel/yacht-week.htm",
-      "https://www.mapquest.com/travel/french-alps.htm"
+      "https://www.mapquest.com/travel/french-alps.htm",
+      "https://www.mapquest.com/travel/nusa-penida.htm",
+      "https://www.mapquest.com/travel/santiago-de-cuba.htm",
+      "https://www.mapquest.com/travel/hobbiton.htm",
+      "https://www.mapquest.com/travel/coron-palawan.htm",
+      "https://www.mapquest.com/travel/sharjah.htm",
+      "https://www.mapquest.com/travel/slot-canyon.htm",
+      "https://www.mapquest.com/travel/destinations/travel-guide/family-safety/is-belize-safe.htm",
+      "https://www.mapquest.com/travel/destinations/travel-guide/family-safety/is-morocco-safe.htm",
+      "https://www.mapquest.com/travel/ring-of-kerry.htm"
     ]
   },
   "imf.org": {
-    "lastAt": 1758947275015,
+    "lastAt": 1759389893451,
     "urls": [
       "https://imf.org/"
     ]
   },
   "web.dev": {
-    "lastAt": 1758947325468,
+    "lastAt": 1759389944248,
     "urls": [
       "https://web.dev/"
     ]
   },
   "technologyreview.com": {
-    "lastAt": 1758947331483,
+    "lastAt": 1759389950647,
     "urls": [
       "https://www.technologyreview.com/2019/11/25/128/video-game-addiction-is-now-being-recognizedwhat-happens-next/",
       "https://www.technologyreview.com/2019/04/09/1169/this-may-be-the-apple-ii-of-ai-driven-robot-arms/",
@@ -53914,11 +54032,17 @@
       "https://www.technologyreview.com/2019/01/09/137899/smart-cities-coule-be-lousy-if-you-have-a-disability/",
       "https://www.technologyreview.com/2019/01/31/137623/watch-this-super-speedy-3d-printer-make-objects-suddenly-appear/",
       "https://www.technologyreview.com/2018/10/31/139263/the-internet-is-taking-over-a-persons-life-for-halloween-and-you-can-be-a-part-of-it/",
-      "https://www.technologyreview.com/2018/10/18/139708/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/"
+      "https://www.technologyreview.com/2018/10/18/139708/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/",
+      "https://www.technologyreview.com/2018/10/03/139937/new-autonomous-farm-wants-to-produce-food-without-human-workers/",
+      "https://www.technologyreview.com/2018/10/04/139911/theres-no-google-maps-for-self-driving-cars-so-this-startup-is-building-it/",
+      "https://www.technologyreview.com/2018/09/28/139983/the-secret-data-collected-by-dockless-bikes-is-helping-cities-map-your-movement/",
+      "https://www.technologyreview.com/2018/08/22/140661/this-is-what-filter-bubbles-actually-look-like/",
+      "https://www.technologyreview.com/2018/08/08/141125/magic-leaps-headset-is-real-but-that-may-not-be-enough/",
+      "https://www.technologyreview.com/2018/05/23/142770/the-us-military-is-funding-an-effort-to-catch-deepfakes-and-other-ai-trickery/"
     ]
   },
   "parallels.com": {
-    "lastAt": 1758947335361,
+    "lastAt": 1759389954126,
     "urls": [
       "https://www.parallels.com/customers/consiglio-regionale-dell-abruzzo/",
       "https://www.parallels.com/tips/features/break-time-app/",
@@ -53959,7 +54083,17 @@
       "https://www.parallels.com/apps/excel/",
       "https://www.parallels.com/apps/quickbooks/",
       "https://www.parallels.com/apps/microsoft-office/",
-      "https://www.parallels.com/apps/arcgis/"
+      "https://www.parallels.com/apps/arcgis/",
+      "https://www.parallels.com/apps/power-bi/",
+      "https://www.parallels.com/apps/solidworks/",
+      "https://www.parallels.com/apps/vagrant/",
+      "https://www.parallels.com/apps/powerpoint/",
+      "https://www.parallels.com/apps/outlook/",
+      "https://www.parallels.com/apps/bluebeam-revu/",
+      "https://www.parallels.com/apps/visual-studio-code/",
+      "https://www.parallels.com/customers/",
+      "https://www.parallels.com/customers/aragorn/",
+      "https://www.parallels.com/customers/st-margarets-hospice-care/"
     ]
   },
   "podbean.com": {
