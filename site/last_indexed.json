@@ -10910,7 +10910,7 @@
     ]
   },
   "intel.com": {
-    "lastAt": 1759029596273,
+    "lastAt": 1759379170922,
     "urls": [
       "https://www.intel.com/content/www/us/en/ai-pc/business.html",
       "https://www.intel.com/content/www/us/en/ai-pc/business-showcase.html",
@@ -10924,23 +10924,23 @@
     ]
   },
   "imgur.com": {
-    "lastAt": 1759029596625,
+    "lastAt": 1759379171418,
     "urls": [
       "https://imgur.com/"
     ]
   },
   "t-online.de": {
-    "lastAt": 1759029598909,
+    "lastAt": 1759379173737,
     "urls": [
       "https://t-online.de/"
     ]
   },
   "tencent-cloud.net": {
-    "lastAt": 1759029657739,
+    "lastAt": 1759379232567,
     "urls": []
   },
   "jquery.com": {
-    "lastAt": 1759029658698,
+    "lastAt": 1759379233723,
     "urls": [
       "https://jquery.com/",
       "https://jquery.com/download/",
@@ -10957,13 +10957,13 @@
     ]
   },
   "fast.com": {
-    "lastAt": 1759029659207,
+    "lastAt": 1759379234399,
     "urls": [
       "https://fast.com/"
     ]
   },
   "trendmicro.com": {
-    "lastAt": 1759029665632,
+    "lastAt": 1759379239620,
     "urls": [
       "https://www.trendmicro.com/en_us/research.html",
       "https://www.trendmicro.com/en_us/security-intelligence/breaking-news.html",
@@ -11014,15 +11014,25 @@
       "https://www.trendmicro.com/en_us/security-intelligence/breaking-news/cyber-risk-index.html",
       "https://www.trendmicro.com/en_us/about/diversity-inclusion.html",
       "https://www.trendmicro.com/en_us/about/threat-research.html",
-      "https://www.trendmicro.com/en_us/forHome/products/personal-protection-suite.html"
+      "https://www.trendmicro.com/en_us/forHome/products/personal-protection-suite.html",
+      "https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html",
+      "https://www.trendmicro.com/en_us/about/legal/data-protection-policy.html",
+      "https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html",
+      "https://www.trendmicro.com/en_us/about/legal/appliance-differing-terms.html",
+      "https://www.trendmicro.com/en_us/about/legal.html",
+      "https://www.trendmicro.com/en_us/about/events.html",
+      "https://www.trendmicro.com/en_us/about/careers.html",
+      "https://www.trendmicro.com/en_us/about/trust-center/company.html",
+      "https://www.trendmicro.com/en_us/about/trust-center/privacy/individual-rights.html",
+      "https://www.trendmicro.com/en_us/about/trust-center/privacy/recruitment-notice.html"
     ]
   },
   "myqcloud.com": {
-    "lastAt": 1759029724481,
+    "lastAt": 1759379298468,
     "urls": []
   },
   "ft.com": {
-    "lastAt": 1759029739713,
+    "lastAt": 1759379314373,
     "urls": [
       "https://www.ft.com/content/c5e244a4-6262-11da-8dad-0000779e2340",
       "https://www.ft.com/content/7845fc22-f811-11e5-96db-fc683b5e52db",
@@ -11033,21 +11043,21 @@
     ]
   },
   "adform.net": {
-    "lastAt": 1759029743348,
+    "lastAt": 1759379318018,
     "urls": []
   },
   "byteglb.com": {
-    "lastAt": 1759029746650,
+    "lastAt": 1759379321275,
     "urls": []
   },
   "force.com": {
-    "lastAt": 1759029748134,
+    "lastAt": 1759379328965,
     "urls": [
       "https://force.com/"
     ]
   },
   "cnet.com": {
-    "lastAt": 1759029752527,
+    "lastAt": 1759379335596,
     "urls": [
       "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-you-can-keep-chicken-in-the-fridge/",
       "https://www.cnet.com/deals/walmart-deals-of-the-day-september-11/",
@@ -11098,21 +11108,31 @@
       "https://www.cnet.com/deals/best-apple-watch-deals/",
       "https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/",
       "https://www.cnet.com/deals/lego-nintendo-game-boy-is-the-perfect-set-for-ultimate-fans-order/",
-      "https://www.cnet.com/tech/gaming/best-handheld-gaming-device/"
+      "https://www.cnet.com/tech/gaming/best-handheld-gaming-device/",
+      "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-2/",
+      "https://www.cnet.com/tech/mobile/using-your-phone-on-the-toilet-could-contribute-to-hemorrhoids-study-finds/",
+      "https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-gets-another-price-hike-and-its-rough/",
+      "https://www.cnet.com/tech/computing/apple-ipad-pro-vision-pro-2-rumors-m5-chip-on-deck/",
+      "https://www.cnet.com/deals/act-fast-to-grab-lifetime-access-to-rosetta-stone-in-25-languages-for-just-149-with-code-lango/",
+      "https://www.cnet.com/tech/services-and-software/this-gmail-feature-is-like-a-magic-bullet-for-newsletter-overload-in-your-inbox/",
+      "https://www.cnet.com/tech/home-entertainment/take-control-of-your-streaming-with-directv/",
+      "https://www.cnet.com/gifts/best-gifts-under-50/",
+      "https://www.cnet.com/deals/best-galaxy-s25-deals/",
+      "https://www.cnet.com/deals/best-mattress-deals/"
     ]
   },
   "name-services.com": {
-    "lastAt": 1759029755676,
+    "lastAt": 1759379338644,
     "urls": []
   },
   "amazon.co.jp": {
-    "lastAt": 1759029780281,
+    "lastAt": 1759379350225,
     "urls": [
       "https://amazon.co.jp/"
     ]
   },
   "yahoodns.net": {
-    "lastAt": 1759029783287,
+    "lastAt": 1759379353274,
     "urls": []
   },
   "target.com": {
@@ -51746,7 +51766,7 @@
     ]
   },
   "starmakerstudios.com": {
-    "lastAt": 1758937351682,
+    "lastAt": 1759379364236,
     "urls": [
       "https://www.starmakerstudios.com/bn-IN/singer/xxxtentacion-songs/587236",
       "https://www.starmakerstudios.com/bn-IN/singer/%EC%86%A1%EC%A4%91%EA%B8%B0-songs/569081",
@@ -51787,19 +51807,29 @@
       "https://www.starmakerstudios.com/bn-IN/singer/lag-ja-gale-songs/2039876",
       "https://www.starmakerstudios.com/bn-IN/singer/titanic-songs/537768",
       "https://www.starmakerstudios.com/bn-IN/singer/perfect-songs/109297",
-      "https://www.starmakerstudios.com/bn-IN/singer/ne%C5%9Fet-erta%C5%9F-songs/637014"
+      "https://www.starmakerstudios.com/bn-IN/singer/ne%C5%9Fet-erta%C5%9F-songs/637014",
+      "https://www.starmakerstudios.com/bn-IN/singer/shreya-ghoshal-songs/593569",
+      "https://www.starmakerstudios.com/bn-IN/singer/warfaze-band-songs/4775224",
+      "https://www.starmakerstudios.com/bn-IN/singer/jos-songs/175121",
+      "https://www.starmakerstudios.com/bn-IN/singer/anuradha-sriram-songs/486108",
+      "https://www.starmakerstudios.com/bn-IN/singer/tere-bin-songs/1806838",
+      "https://www.starmakerstudios.com/bn-IN/singer/warfaze-songs/533582",
+      "https://www.starmakerstudios.com/bn-IN/singer/xnxx-songs/1870243",
+      "https://www.starmakerstudios.com/bn-IN/singer/freeze-songs/71370",
+      "https://www.starmakerstudios.com/bn-IN/singer/baul-songs/1735469",
+      "https://www.starmakerstudios.com/bn-IN/singer/kutta-songs/2756980"
     ]
   },
   "rackcdn.com": {
-    "lastAt": 1758937354656,
+    "lastAt": 1759379367183,
     "urls": []
   },
   "volces.com": {
-    "lastAt": 1758937357958,
+    "lastAt": 1759379370815,
     "urls": []
   },
   "prezi.com": {
-    "lastAt": 1758937362284,
+    "lastAt": 1759379376559,
     "urls": [
       "https://prezi.com/",
       "https://prezi.com/l/wall-street-presentation-template/",
@@ -51840,15 +51870,25 @@
       "https://prezi.com/l/quarterly-sales-presentation-template/",
       "https://prezi.com/l/stevens-institute-of-technology-presentation-template/",
       "https://prezi.com/l/strategic-acquisition-rationale-presentation-template/",
-      "https://prezi.com/l/simple-presentation-contract-template/"
+      "https://prezi.com/l/simple-presentation-contract-template/",
+      "https://prezi.com/l/template-presentation-senior-design-projects-ece/",
+      "https://prezi.com/l/template-presentation-software-developer/",
+      "https://prezi.com/l/template-presentation-for-big-medical-conferences/",
+      "https://prezi.com/l/quick-presentation-template/",
+      "https://prezi.com/l/workshop-presentation-proposal-template/",
+      "https://prezi.com/l/website-service-presentation-template/",
+      "https://prezi.com/l/security-startup-presentation-template-free/",
+      "https://prezi.com/l/template-presentation-web-developer/",
+      "https://prezi.com/l/rise-presentation-template-creative-market/",
+      "https://prezi.com/l/real-estate-agent-selling-presentation-template/"
     ]
   },
   "keydisk.ru": {
-    "lastAt": 1758937368210,
+    "lastAt": 1759379383389,
     "urls": []
   },
   "howstuffworks.com": {
-    "lastAt": 1758937371865,
+    "lastAt": 1759379387398,
     "urls": [
       "https://science.howstuffworks.com/tonnes-vs-tons.htm",
       "https://science.howstuffworks.com/math-concepts/types-of-data.htm",
@@ -51889,19 +51929,29 @@
       "https://science.howstuffworks.com/science-vs-myth/strange-creatures/orang-pendek.htm",
       "https://science.howstuffworks.com/environmental/earth/geology/types-of-rocks.htm",
       "https://science.howstuffworks.com/space/aliens-ufos/tall-whites.htm",
-      "https://science.howstuffworks.com/science-vs-myth/strange-creatures/la-lechuza.htm"
+      "https://science.howstuffworks.com/science-vs-myth/strange-creatures/la-lechuza.htm",
+      "https://science.howstuffworks.com/environmental/earth/mountain-ranges-in-california.htm",
+      "https://science.howstuffworks.com/science-vs-myth/strange-creatures/aswang.htm",
+      "https://science.howstuffworks.com/science-vs-myth/strange-creatures/skunk-ape.htm",
+      "https://science.howstuffworks.com/science-vs-myth/extrasensory-perceptions/how-to-manifest-something.htm",
+      "https://science.howstuffworks.com/environmental/earth/mountain-ranges-in-europe.htm",
+      "https://science.howstuffworks.com/life/inside-the-mind/human-brain/phineas-gage.htm",
+      "https://science.howstuffworks.com/life/biology-fields/central-heterochromia.htm",
+      "https://science.howstuffworks.com/environmental/earth/steppe.htm",
+      "https://science.howstuffworks.com/environmental/earth/mountain-ranges-in-the-us.htm",
+      "https://science.howstuffworks.com/environmental/earth/lake-natron.htm"
     ]
   },
   "java.com": {
-    "lastAt": 1758937375285,
+    "lastAt": 1759379390622,
     "urls": []
   },
   "tranplanet.com": {
-    "lastAt": 1758937378672,
+    "lastAt": 1759379394020,
     "urls": []
   },
   "audible.com": {
-    "lastAt": 1758937383349,
+    "lastAt": 1759379399519,
     "urls": [
       "https://www.audible.com/pd/De-fordomtes-legion-Audiobook/B01GODA7DQ",
       "https://audible.com/",
@@ -51942,15 +51992,25 @@
       "https://www.audible.com/pd/Cocked-Unsheathed-Audiobook/B0777Q72C3",
       "https://www.audible.com/es_US/pd/Project-Mastodon-Audiolibro/B01MZ6O7XB",
       "https://www.audible.com/pd/Project-Mastodon-Audiobook/B01MZ6O7XB",
-      "https://www.audible.com/es_US/pd/Ghosts-of-Tsavo-Audiolibro/B01MTFEZ2Q"
+      "https://www.audible.com/es_US/pd/Ghosts-of-Tsavo-Audiolibro/B01MTFEZ2Q",
+      "https://www.audible.com/pd/Ghosts-of-Tsavo-Audiobook/B01MTFEZ2Q",
+      "https://www.audible.com/es_US/pd/Estructura-de-Argumento-Structure-of-Argument-Audiolibro/B07N99MK54",
+      "https://www.audible.com/es_US/pd/Mercy-Blade-Audiolibro/B004GHJMPW",
+      "https://www.audible.com/pd/Mercy-Blade-Audiobook/B004GHJMPW",
+      "https://www.audible.com/pd/Estructura-de-Argumento-Structure-of-Argument-Audiobook/B07N99MK54",
+      "https://www.audible.com/es_US/pd/Three-Daughters-of-Eve-Audiolibro/B06ZY7M8SD",
+      "https://www.audible.com/pd/Three-Daughters-of-Eve-Audiobook/B06ZY7M8SD",
+      "https://www.audible.com/es_US/podcast/Extraterrestrial-Oceans-StarTalk-Live/B0B3D8DC1H",
+      "https://www.audible.com/podcast/Extraterrestrial-Oceans-StarTalk-Live/B0B3D8DC1H",
+      "https://www.audible.com/es_US/pd/The-Real-Sherlock-Holmes-Audiolibro/B008O4ZT8C"
     ]
   },
   "qpic.cn": {
-    "lastAt": 1758937442163,
+    "lastAt": 1759379458372,
     "urls": []
   },
   "elastic.co": {
-    "lastAt": 1758937447637,
+    "lastAt": 1759379464860,
     "urls": [
       "https://www.elastic.co/about/our-source-code",
       "https://www.elastic.co/kibana/features",
@@ -51991,17 +52051,27 @@
       "https://www.elastic.co/what-is/retrieval-augmented-generation",
       "https://www.elastic.co/licensing/elastic-license/faq",
       "https://www.elastic.co/getting-started/enterprise-search/add-search-to-your-website",
-      "https://www.elastic.co/what-is/mcp"
+      "https://www.elastic.co/what-is/mcp",
+      "https://www.elastic.co/getting-started/enterprise-search/build-chatbot-rag-app",
+      "https://www.elastic.co/what-is/security-analytics",
+      "https://www.elastic.co/getting-started/security",
+      "https://www.elastic.co/getting-started/observability",
+      "https://www.elastic.co/getting-started/observability/collect-and-analyze-logs",
+      "https://www.elastic.co/what-is/application-performance-monitoring",
+      "https://www.elastic.co/what-is/security-operations-center",
+      "https://www.elastic.co/what-is/operational-resilience",
+      "https://www.elastic.co/what-is/soar",
+      "https://www.elastic.co/what-is/sentiment-analysis"
     ]
   },
   "vogue.com": {
-    "lastAt": 1758937458328,
+    "lastAt": 1759379470832,
     "urls": [
       "https://vogue.com/"
     ]
   },
   "hoster.kz": {
-    "lastAt": 1758937461244,
+    "lastAt": 1759379475468,
     "urls": [
       "https://hoster.kz/",
       "https://hoster.kz/about/",
@@ -52013,11 +52083,21 @@
       "https://hoster.kz/policy/",
       "https://hoster.kz/domains/",
       "https://hoster.kz/registration/",
-      "https://hoster.kz/servers/"
+      "https://hoster.kz/servers/",
+      "https://hoster.kz/ssl/",
+      "https://hoster.kz/support/detail.php",
+      "https://hoster.kz/support/",
+      "https://hoster.kz/support/section.php",
+      "https://hoster.kz/whois/",
+      "https://hoster.kz/about/applications-sample/",
+      "https://hoster.kz/about/docs/",
+      "https://hoster.kz/cloud/admin-price/",
+      "https://hoster.kz/cloud/free-support/",
+      "https://hoster.kz/cloud/licenses/"
     ]
   },
   "bbtec.net": {
-    "lastAt": 1758937520053,
+    "lastAt": 1759379534325,
     "urls": []
   },
   "huntress.io": {
