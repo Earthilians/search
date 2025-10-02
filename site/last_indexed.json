@@ -18964,11 +18964,11 @@
     "urls": []
   },
   "aiv-delivery.net": {
-    "lastAt": 1759084305331,
+    "lastAt": 1759439959011,
     "urls": []
   },
   "segment.io": {
-    "lastAt": 1759084312090,
+    "lastAt": 1759439964742,
     "urls": [
       "https://segment.com/",
       "https://segment.com/cdp-week-2024/",
@@ -18996,7 +18996,7 @@
     ]
   },
   "whitehouse.gov": {
-    "lastAt": 1759084315595,
+    "lastAt": 1759439967319,
     "urls": [
       "https://www.whitehouse.gov/news/",
       "https://whitehouse.gov/",
@@ -19047,21 +19047,31 @@
       "https://www.whitehouse.gov/presidential-actions/2025/01/nominations-transmitted-to-the-senate/",
       "https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments/",
       "https://www.whitehouse.gov/presidential-actions/2025/01/executive-grant-of-clemency-for-andrew-zabavsky/",
-      "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-ansar-allah-as-a-foreign-terrorist-organization/"
+      "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-ansar-allah-as-a-foreign-terrorist-organization/",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/executive-grant-of-clemency-for-terence-sutton/",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/federal-recognition-of-the-lumbee-tribe-of-north-carolina/",
+      "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trump-call-with-crown-prince-mohammad-bin-salman/",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/presidents-council-of-advisors-on-science-and-technology/",
+      "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-takes-action-to-enhance-americas-ai-leadership/",
+      "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-president-bukele/",
+      "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/",
+      "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-launches-pcast-to-restore-american-leadership-in-science-and-technology/"
     ]
   },
   "mckinsey.com": {
-    "lastAt": 1759084384405,
+    "lastAt": 1759440036130,
     "urls": []
   },
   "shopeemobile.com": {
-    "lastAt": 1759084387177,
+    "lastAt": 1759440038195,
     "urls": [
       "https://shopeemobile.com/"
     ]
   },
   "netgear.com": {
-    "lastAt": 1759084392918,
+    "lastAt": 1759440044332,
     "urls": [
       "https://www.netgear.com/home/wired/powerline/pl1000/",
       "https://www.netgear.com/home/wired/powerline/pl1200/",
@@ -19111,11 +19121,20 @@
       "https://www.netgear.com/home/wifi/mesh/ms90/",
       "https://www.netgear.com/home/wifi/mesh/orbi-challenge/",
       "https://www.netgear.com/home/wifi/mesh/rbe370/",
-      "https://www.netgear.com/home/wifi/mesh/rbe372/"
+      "https://www.netgear.com/home/wifi/mesh/rbe372/",
+      "https://www.netgear.com/home/wifi/mesh/rbe374/",
+      "https://www.netgear.com/home/wifi/mesh/rbe373/",
+      "https://www.netgear.com/home/wifi/mesh/rbe772/",
+      "https://www.netgear.com/home/wifi/mesh/rbe870/",
+      "https://www.netgear.com/home/wifi/mesh/rbe770/",
+      "https://www.netgear.com/home/wifi/mesh/rbe773/",
+      "https://www.netgear.com/home/wifi/mesh/rbe870b/",
+      "https://www.netgear.com/home/wifi/mesh/rbe872/",
+      "https://www.netgear.com/home/wifi/mesh/rbe873/"
     ]
   },
   "arcgis.com": {
-    "lastAt": 1759084396890,
+    "lastAt": 1759440048861,
     "urls": [
       "https://www.arcgis.com/home/item.html?id=001e16838f9842ff81f72b49e60f1662",
       "https://www.arcgis.com/home/item.html?id=00451276b9614ca58fc4b88ba12f5d21",
@@ -19166,11 +19185,21 @@
       "https://www.arcgis.com/home/item.html?id=01ae1f2879ab407da3e9022cd532f637",
       "https://www.arcgis.com/home/item.html?id=01e743c9cfc14876b57c37d3b62fdd28",
       "https://www.arcgis.com/home/item.html?id=024776feeabf4d48ab05f5ae3e07328f",
-      "https://www.arcgis.com/home/item.html?id=026593f318af4423852344b2c7ae060d"
+      "https://www.arcgis.com/home/item.html?id=026593f318af4423852344b2c7ae060d",
+      "https://www.arcgis.com/home/item.html?id=0228904b93fe46a19b5240a6be96cd35",
+      "https://www.arcgis.com/home/item.html?id=026238702e6a4ddd91bff9c026970e62",
+      "https://www.arcgis.com/home/item.html?id=0264f8a738ae4634b0a6eeb234d97fd2",
+      "https://www.arcgis.com/home/item.html?id=02aadf93039a4323b5aef39d526c50d3",
+      "https://www.arcgis.com/home/item.html?id=029931d599f04f12ab614cbede80fbc7",
+      "https://www.arcgis.com/home/item.html?id=030653c0677a4a719954ad28670f4ac4",
+      "https://www.arcgis.com/home/item.html?id=03228c784dd449c6a4ad46b90bd424c0",
+      "https://www.arcgis.com/home/item.html?id=034076cced8c4321b78484d63e7e12d9",
+      "https://www.arcgis.com/home/item.html?id=03416bc2182d4102a2a98e69049c6116",
+      "https://www.arcgis.com/home/item.html?id=0341785c43194af5b6b3fa5f7be23d48"
     ]
   },
   "linklist.bio": {
-    "lastAt": 1759084400723,
+    "lastAt": 1759440052513,
     "urls": [
       "https://linklist.bio/link-na-bio",
       "https://linklist.bio/",
@@ -19221,11 +19250,21 @@
       "https://linklist.bio/pousadabrisamares",
       "https://linklist.bio/caxingosdecore",
       "https://linklist.bio/drantoninomoita",
-      "https://linklist.bio/paraisodabarra"
+      "https://linklist.bio/paraisodabarra",
+      "https://linklist.bio/depositodobinga",
+      "https://linklist.bio/postonsremedios",
+      "https://linklist.bio/dr.nereucosta",
+      "https://linklist.bio/restaurantechicoizaura",
+      "https://linklist.bio/davidsoaresvereador",
+      "https://linklist.bio/premier.engenharia",
+      "https://linklist.bio/sanchamiranda",
+      "https://linklist.bio/biancakos",
+      "https://linklist.bio/studiomellosbeauty",
+      "https://linklist.bio/brasilcacauparnaiba"
     ]
   },
   "google.fr": {
-    "lastAt": 1759084402205,
+    "lastAt": 1759440053853,
     "urls": [
       "https://google.fr/",
       "https://www.google.com/intl/hr/gmail/about/",
@@ -19250,27 +19289,27 @@
     ]
   },
   "pexels.com": {
-    "lastAt": 1759084405709,
+    "lastAt": 1759440057215,
     "urls": []
   },
   "web.de": {
-    "lastAt": 1759084407697,
+    "lastAt": 1759440059869,
     "urls": [
       "https://web.de/"
     ]
   },
   "huffingtonpost.com": {
-    "lastAt": 1759084409360,
+    "lastAt": 1759440061363,
     "urls": [
       "https://huffingtonpost.com/"
     ]
   },
   "prodregistryv2.org": {
-    "lastAt": 1759084412346,
+    "lastAt": 1759440064280,
     "urls": []
   },
   "kargo.com": {
-    "lastAt": 1759084414738,
+    "lastAt": 1759440066897,
     "urls": [
       "https://www.kargo.com/home",
       "https://www.kargo.com/about",
@@ -19321,11 +19360,21 @@
       "https://www.kargo.com/news-blog/black-owned-media-nonprofit-bomesi-is-breaking-down-barriers-to-monetization",
       "https://www.kargo.com/news-blog/kargo-eyes-connected-tv-and-video-tech-for-future-acquisitions",
       "https://www.kargo.com/news-blog/kargo-buys-parsec-to-build-attention-based-mobile-currency",
-      "https://www.kargo.com/news-blog/tblack-owned-media-equity-and-sustainability-institute-bomesi-partners-with-fabrik"
+      "https://www.kargo.com/news-blog/tblack-owned-media-equity-and-sustainability-institute-bomesi-partners-with-fabrik",
+      "https://www.kargo.com/news-blog/the-attention-dimension-why-ssps-see-value-in-attention-metrics",
+      "https://www.kargo.com/news-blog/how-ai-will-change-media-planning-strategy",
+      "https://www.kargo.com/news-blog/brand-storytelling-with-ctv-a-qa-with-kargo-and-disqo-fhyw4-nk4yj",
+      "https://www.kargo.com/news-blog/revealed-all-the-winners-grinders-from-the-bt-awards-2021",
+      "https://www.kargo.com/news-blog/https/stoppressconz/news/kargo-and-adelaide-team-up-to-deliver-better-media-quality-metrics-for-brands-and-publishers",
+      "https://www.kargo.com/news-blog/kargo-acquires-e-commerce-ad-tech-firm-for-64-million",
+      "https://www.kargo.com/news-blog/2021/7/13/clean-up-on-aisle-ad-tech-how-we-can-fix-the-supply-chain",
+      "https://www.kargo.com/news-blog/2021/8/4/mobile-advertising-company-kargo-announces-new-hires-following-h1-growth-in-apac",
+      "https://www.kargo.com/news-blog/what-cookiepocolypse-advertisers-stick-with-the-tried-and-true",
+      "https://www.kargo.com/news-blog/2021/9/14/yasss-part-two-of-the-bampt-awards-2021-shortlist-is-here"
     ]
   },
   "realtor.com": {
-    "lastAt": 1759084426432,
+    "lastAt": 1759440076886,
     "urls": [
       "https://www.realtor.com/mortgage/va-home-loan-center/",
       "https://www.realtor.com/mortgage/tools/rent-or-buy-calculator/",
@@ -19361,17 +19410,24 @@
       "https://www.realtor.com/mortgage/rates/Minnesota",
       "https://www.realtor.com/mortgage/rates/Mississippi",
       "https://www.realtor.com/mortgage/rates/Missouri",
-      "https://www.realtor.com/mortgage/rates/Montana"
+      "https://www.realtor.com/mortgage/rates/Montana",
+      "https://www.realtor.com/mortgage/rates/Nebraska",
+      "https://www.realtor.com/mortgage/rates/Nevada",
+      "https://www.realtor.com/mortgage/rates/New-Hampshire",
+      "https://www.realtor.com/mortgage/rates/New-Jersey",
+      "https://www.realtor.com/mortgage/rates/New-Mexico",
+      "https://www.realtor.com/mortgage/rates/New-York",
+      "https://www.realtor.com/mortgage/rates/North-Carolina"
     ]
   },
   "openstreetmap.org": {
-    "lastAt": 1759084428351,
+    "lastAt": 1759440079129,
     "urls": [
       "https://openstreetmap.org/"
     ]
   },
   "sedo.com": {
-    "lastAt": 1759084434691,
+    "lastAt": 1759440088901,
     "urls": [
       "https://sedo.com/us/",
       "https://sedo.com/us/buy-domains/",
@@ -19419,25 +19475,27 @@
       "https://sedo.com/us/about-us/policies-gmbh/agb-fuer-den-transfer-und-treuhandservice/",
       "https://sedo.com/us/about-us/policies-gmbh/",
       "https://sedo.com/us/what-we-offer/price-list/",
-      "https://sedo.com/us/about-us/policies/protecting-your-privacy/"
+      "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
+      "https://sedo.com/us/about-us/policies/partner-program-agreement/",
+      "https://sedo.com/us/services/broker-service/"
     ]
   },
   "daum.net": {
-    "lastAt": 1759084438316,
+    "lastAt": 1759440091427,
     "urls": [
       "https://daum.net/"
     ]
   },
   "nhk.or.jp": {
-    "lastAt": 1759084442597,
+    "lastAt": 1759440095721,
     "urls": []
   },
   "kickstarter.com": {
-    "lastAt": 1759084446308,
+    "lastAt": 1759440099142,
     "urls": []
   },
   "dribbble.com": {
-    "lastAt": 1759084450343,
+    "lastAt": 1759440103663,
     "urls": [
       "https://dribbble.com/search/portfolio",
       "https://dribbble.com/search/logo",
@@ -19488,33 +19546,43 @@
       "https://dribbble.com/search/mobile",
       "https://dribbble.com/search/e%20commerce",
       "https://dribbble.com/search/branding",
-      "https://dribbble.com/search/navigation"
+      "https://dribbble.com/search/navigation",
+      "https://dribbble.com/search/steps",
+      "https://dribbble.com/search/pricing",
+      "https://dribbble.com/search/finance",
+      "https://dribbble.com/search/contact%20us",
+      "https://dribbble.com/search/music",
+      "https://dribbble.com/search/real%20estate",
+      "https://dribbble.com/search/logo%20design",
+      "https://dribbble.com/search/settings",
+      "https://dribbble.com/search/loading",
+      "https://dribbble.com/search/dropdown"
     ]
   },
   "vkuseraudio.net": {
-    "lastAt": 1759084455963,
+    "lastAt": 1759440110778,
     "urls": []
   },
   "bluehost.com": {
-    "lastAt": 1759086947418,
+    "lastAt": 1759440114756,
     "urls": []
   },
   "wshifen.com": {
-    "lastAt": 1759086951014,
+    "lastAt": 1759440118646,
     "urls": []
   },
   "geobasket.ru": {
-    "lastAt": 1759086956810,
+    "lastAt": 1759440123801,
     "urls": []
   },
   "ubnt.com": {
-    "lastAt": 1759086960128,
+    "lastAt": 1759440126739,
     "urls": [
       "https://ubnt.com/"
     ]
   },
   "pbs.org": {
-    "lastAt": 1759086971779,
+    "lastAt": 1759440134389,
     "urls": [
       "https://pbs.org/",
       "https://www.pbs.org/video/10thirtysix-403-margaret-hoover-01xroa/",
@@ -19565,15 +19633,25 @@
       "https://www.pbs.org/video/10thirtysix-310-sherman-park-update-camphero-fkefm5/",
       "https://www.pbs.org/video/10thirtysix-308-june-2019-ghrtls/",
       "https://www.pbs.org/video/10thirtysix-309-milwaukees-moon-mission-qz7kyy/",
-      "https://www.pbs.org/video/10thirtysix-307-april-2019-the-man-out-front-sglruo/"
+      "https://www.pbs.org/video/10thirtysix-307-april-2019-the-man-out-front-sglruo/",
+      "https://www.pbs.org/video/10thirtysix-305-february-2019-uhpgup/",
+      "https://www.pbs.org/video/10thirtysix-302-november-2018-6ihvie/",
+      "https://www.pbs.org/video/10thirtysix-306-march-2019-the-man-out-front-4dt75e/",
+      "https://www.pbs.org/video/10thirtysix-303-december-2018-alv7bu/",
+      "https://www.pbs.org/video/10thirtysix-304-january-2019-congolese-refugees-8aaysq/",
+      "https://www.pbs.org/video/10thirtysix-301-dn7dw5/",
+      "https://www.pbs.org/video/10thirtysix-212-cuhzig/",
+      "https://www.pbs.org/video/10thirtysix-111-vietnam-jjpbos/",
+      "https://www.pbs.org/video/10thirtysix-109-jfcktm/",
+      "https://www.pbs.org/video/10thirtysix-110-kwdbsq/"
     ]
   },
   "presage.io": {
-    "lastAt": 1759086979441,
+    "lastAt": 1759440141784,
     "urls": []
   },
   "seznam.cz": {
-    "lastAt": 1759086987584,
+    "lastAt": 1759440149872,
     "urls": [
       "https://www.seznam.cz/stitek/behani-1",
       "https://www.seznam.cz/stitek/veda-6",
@@ -19624,11 +19702,21 @@
       "https://www.seznam.cz/stitek/pro-zeny-49",
       "https://www.seznam.cz/stitek/rodina-48",
       "https://www.seznam.cz/stitek/pro-muze-52",
-      "https://www.seznam.cz/stitek/kariera-53"
+      "https://www.seznam.cz/stitek/kariera-53",
+      "https://www.seznam.cz/stitek/psychologie-54",
+      "https://www.seznam.cz/stitek/finance-58",
+      "https://www.seznam.cz/stitek/zvirata-55",
+      "https://www.seznam.cz/stitek/marketing-56",
+      "https://www.seznam.cz/stitek/media-57",
+      "https://www.seznam.cz/stitek/architektura-59",
+      "https://www.seznam.cz/stitek/komentar-60",
+      "https://www.seznam.cz/stitek/design-62",
+      "https://www.seznam.cz/stitek/divadlo-61",
+      "https://www.seznam.cz/stitek/pocasi-263"
     ]
   },
   "epa.gov": {
-    "lastAt": 1759086993535,
+    "lastAt": 1759440155396,
     "urls": [
       "https://epa.gov/"
     ]
