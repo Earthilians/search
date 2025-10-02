@@ -12253,21 +12253,21 @@
     ]
   },
   "t-mobile.com": {
-    "lastAt": 1759048015814,
+    "lastAt": 1759403877234,
     "urls": []
   },
   "awsglobalaccelerator.com": {
-    "lastAt": 1759048018792,
+    "lastAt": 1759403880217,
     "urls": []
   },
   "deepl.com": {
-    "lastAt": 1759048020002,
+    "lastAt": 1759403881452,
     "urls": [
       "https://deepl.com/"
     ]
   },
   "ikea.com": {
-    "lastAt": 1759048029960,
+    "lastAt": 1759403891714,
     "urls": [
       "https://ikea.com/",
       "https://www.ikea.com/ph/en/p/ytterskaer-privacy-screen-outdoor-gray-90509485/",
@@ -12318,21 +12318,31 @@
       "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-oak-effect-00571368/",
       "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-90273581/",
       "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-40273588/",
-      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-30273584/"
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-30273584/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-00273585/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-matte-white-30273579/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-90456057/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-70456063/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-90456062/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-50456064/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-50456059/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-70456058/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-10456061/",
+      "https://www.ikea.com/ph/en/p/voxtorp-drawer-front-dark-gray-30456055/"
     ]
   },
   "ovscdns.com": {
-    "lastAt": 1759048033323,
+    "lastAt": 1759403896653,
     "urls": []
   },
   "g.co": {
-    "lastAt": 1759048034424,
+    "lastAt": 1759403897675,
     "urls": [
       "https://g.co/"
     ]
   },
   "ca.gov": {
-    "lastAt": 1759048036142,
+    "lastAt": 1759403899429,
     "urls": [
       "https://www.ca.gov/",
       "https://www.ca.gov/about/sitemap/",
@@ -12374,7 +12384,7 @@
     ]
   },
   "dnsimple.com": {
-    "lastAt": 1759048038113,
+    "lastAt": 1759403901300,
     "urls": [
       "https://dnsimple.com/contact",
       "https://dnsimple.com/",
@@ -12425,17 +12435,27 @@
       "https://dnsimple.com/tlds/best-domains",
       "https://dnsimple.com/tlds/bet-domains",
       "https://dnsimple.com/tlds/bible-domains",
-      "https://dnsimple.com/tlds/bid-domains"
+      "https://dnsimple.com/tlds/bid-domains",
+      "https://dnsimple.com/tlds/bike-domains",
+      "https://dnsimple.com/tlds/black-domains",
+      "https://dnsimple.com/tlds/bingo-domains",
+      "https://dnsimple.com/tlds/bio-domains",
+      "https://dnsimple.com/tlds/biz-domains",
+      "https://dnsimple.com/tlds/blog-domains",
+      "https://dnsimple.com/tlds/bond-domains",
+      "https://dnsimple.com/tlds/blackfriday-domains",
+      "https://dnsimple.com/tlds/boston-domains",
+      "https://dnsimple.com/tlds/blue-domains"
     ]
   },
   "samsungapps.com": {
-    "lastAt": 1759048040212,
+    "lastAt": 1759403903653,
     "urls": [
       "https://samsungapps.com/"
     ]
   },
   "conviva.com": {
-    "lastAt": 1759048042898,
+    "lastAt": 1759403906295,
     "urls": [
       "https://www.conviva.com/resource/time-state-analytics-conviva-cidr/",
       "https://www.conviva.com/resources/",
@@ -12486,21 +12506,31 @@
       "https://www.conviva.com/resource/the-road-to-ott-balancing-innovation-with-profitability/",
       "https://www.conviva.com/resource/5-mistakes-in-streaming-video-analytics-and-how-to-avoid-them/",
       "https://www.conviva.com/resource/the-holy-grail-of-live-sports-streaming/",
-      "https://www.conviva.com/resource/time-state-analytics-why-everyone-should-care/"
+      "https://www.conviva.com/resource/time-state-analytics-why-everyone-should-care/",
+      "https://www.conviva.com/resource/introducing-vyas-sekar-conviva-chief-scientist/",
+      "https://www.conviva.com/resource/was-the-2022-world-cup-final-the-biggest-live-streaming-event-in-history/",
+      "https://www.conviva.com/resource/why-behavioral-segmentation-is-crucial-for-streaming-platforms/",
+      "https://www.conviva.com/resource/netflix-and-squid-game-using-viewership-data-to-win-the-war-on-engagement/",
+      "https://www.conviva.com/resource/anatomy-of-a-metric/",
+      "https://www.conviva.com/resource/ott-101-top-5-metrics-that-matter-for-tech-ops/",
+      "https://www.conviva.com/resource/ott-101-your-guide-to-streaming-metrics-that-matter/",
+      "https://www.conviva.com/resource/the-history-and-future-of-ott-streaming/",
+      "https://www.conviva.com/resource/benchmark-the-performance-of-every-stream/",
+      "https://www.conviva.com/resource/customer-story-delivering-flawless-live-sports-quality-at-scale/"
     ]
   },
   "accuweather.com": {
-    "lastAt": 1759048046886,
+    "lastAt": 1759403909261,
     "urls": []
   },
   "ted.com": {
-    "lastAt": 1759048048350,
+    "lastAt": 1759403910803,
     "urls": [
       "https://ted.com/"
     ]
   },
   "loc.gov": {
-    "lastAt": 1759048051382,
+    "lastAt": 1759403913264,
     "urls": [
       "https://www.loc.gov/about/awards-and-honors/",
       "https://www.loc.gov/about/about-the-librarian/",
@@ -12551,21 +12581,31 @@
       "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2016/",
       "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2019/",
       "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2017/",
-      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2018/"
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2018/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2024/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2022/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2020/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2021/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/reports/fiscal-year-2023/",
+      "https://www.loc.gov/about/preguntas-frecuentes/",
+      "https://www.loc.gov/about/reports-and-budgets/",
+      "https://www.loc.gov/about/office-of-the-inspector-general/strategic-plan/",
+      "https://www.loc.gov/about/reports-and-budgets/annual-reports/",
+      "https://www.loc.gov/about/reports-and-budgets/congressional-budget-justifications/"
     ]
   },
   "2gis.com": {
-    "lastAt": 1759048055292,
+    "lastAt": 1759403916980,
     "urls": [
       "https://2gis.com/"
     ]
   },
   "shutterstock.com": {
-    "lastAt": 1759048073944,
+    "lastAt": 1759403934709,
     "urls": []
   },
   "avito.ru": {
-    "lastAt": 1759048086429,
+    "lastAt": 1759403944275,
     "urls": [
       "https://www.avito.ru/stavropolskiy_kray_mihaylovsk/predlozheniya_uslug/transport_perevozki/arenda_spetstekhniki/podyomnaya_tekhnika/avtokran-ASgBAgICBESYC8SfAZoL3J8B7o4O8qSNA~raEuCkjQM",
       "https://www.avito.ru/chelyabinskaya_oblast/predlozheniya_uslug?q=%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D0%BD+55+%D1%82%D0%BE%D0%BD%D0%BD",
@@ -12581,29 +12621,29 @@
     ]
   },
   "easebar.com": {
-    "lastAt": 1759048090418,
+    "lastAt": 1759403948655,
     "urls": []
   },
   "twimg.com": {
-    "lastAt": 1759048093367,
+    "lastAt": 1759403951902,
     "urls": []
   },
   "cookielaw.org": {
-    "lastAt": 1759048096900,
+    "lastAt": 1759403955214,
     "urls": [
       "https://cookielaw.org/"
     ]
   },
   "adobedtm.com": {
-    "lastAt": 1759048099858,
+    "lastAt": 1759403958158,
     "urls": []
   },
   "chinamobile.com": {
-    "lastAt": 1759048158669,
+    "lastAt": 1759404016973,
     "urls": []
   },
   "klaviyo.com": {
-    "lastAt": 1759048164508,
+    "lastAt": 1759404022423,
     "urls": [
       "https://www.klaviyo.com/b2c-crm",
       "https://www.klaviyo.com/about",
@@ -12647,11 +12687,18 @@
       "https://www.klaviyo.com/customers/case-studies/arizona-beverages-email-revenue",
       "https://www.klaviyo.com/customers/case-studies/aura-bora-revenue-growth",
       "https://www.klaviyo.com/customers/case-studies/balanced-rock",
-      "https://www.klaviyo.com/customers/case-studies/balsam-hill"
+      "https://www.klaviyo.com/customers/case-studies/balsam-hill",
+      "https://www.klaviyo.com/customers/case-studies/bearpaw",
+      "https://www.klaviyo.com/customers/case-studies/beauty-ecommerce-sms-marketing-case-study",
+      "https://www.klaviyo.com/customers/case-studies/beekman-1802-bfcm",
+      "https://www.klaviyo.com/customers/case-studies/beyond-yoga-case-study",
+      "https://www.klaviyo.com/customers/case-studies/blenders-eyewear-hyper-growth",
+      "https://www.klaviyo.com/customers/case-studies/boat-outfitters",
+      "https://www.klaviyo.com/customers/case-studies/brava-fabrics"
     ]
   },
   "gdemoideti.ru": {
-    "lastAt": 1759051226889,
+    "lastAt": 1759404030929,
     "urls": [
       "https://gdemoideti.ru/",
       "https://gdemoideti.ru/semejnyj-lokator",
@@ -12659,17 +12706,17 @@
     ]
   },
   "tapad.com": {
-    "lastAt": 1759051227824,
+    "lastAt": 1759404031871,
     "urls": [
       "https://tapad.com/"
     ]
   },
   "ozone.ru": {
-    "lastAt": 1759051234390,
+    "lastAt": 1759404039034,
     "urls": []
   },
   "wattpad.com": {
-    "lastAt": 1759051239864,
+    "lastAt": 1759404044238,
     "urls": [
       "https://www.wattpad.com/stories/romance?locale=en_US",
       "https://www.wattpad.com/stories/fanfiction?locale=en_US",
@@ -12719,15 +12766,24 @@
       "https://www.wattpad.com/story/315404098-%C3%B6l%C3%BC-ruhlar-senatosu-",
       "https://www.wattpad.com/story/317032952-i-wanna-be-your-prince-",
       "https://www.wattpad.com/story/69810073-b-e-a-u-t-y-slow-updates-unedited",
-      "https://www.wattpad.com/story/161865194-mas-suami"
+      "https://www.wattpad.com/story/161865194-mas-suami",
+      "https://www.wattpad.com/story/286461171-cinta-a-dan-s-bab-yg-hilang-dlm-proses-revisi",
+      "https://www.wattpad.com/story/282142545-boy-in-luv-completed",
+      "https://www.wattpad.com/story/177780516-bittersweet-stalker",
+      "https://www.wattpad.com/story/239835507--bloodhowl-%CA%99%E1%B4%9Bs-jjk-omegaverse-",
+      "https://www.wattpad.com/story/287489659-meu-alfa-um-romance-narusasu",
+      "https://www.wattpad.com/story/288604626-spare-me",
+      "https://www.wattpad.com/story/296742077-%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D0%B8%D1%83%D0%BC-%D1%82%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%B2-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%B1%D1%83%D1%82%D0%BE%D0%BD",
+      "https://www.wattpad.com/story/301713974-recu%C3%A9rdame-la-tormenta-",
+      "https://www.wattpad.com/story/303175674-sold-to-the-mafia-boss-son-alpha-x-omega"
     ]
   },
   "live.net": {
-    "lastAt": 1759051242731,
+    "lastAt": 1759404047112,
     "urls": []
   },
   "cbsnews.com": {
-    "lastAt": 1759051245842,
+    "lastAt": 1759404050380,
     "urls": [
       "https://www.cbsnews.com/chicago/news/chicago-weather-forecast-7-day-radar/",
       "https://www.cbsnews.com/chicago/news/weapons-charges-gun-ammunition-traffic-stop-aurora-illinois/",
@@ -12778,15 +12834,25 @@
       "https://www.cbsnews.com/losangeles/news/5-freeway-burbank-pedestrian-fatality/",
       "https://www.cbsnews.com/sacramento/news/palms-apartments-arden-arcade-residents-claim-renovicted/",
       "https://www.cbsnews.com/sacramento/news/wacha-6-shutout-royals-top-athletics-4-2/",
-      "https://www.cbsnews.com/losangeles/news/joseph-paintsils-first-half-hat-trick-leads-galaxy-over-sporting-kc-4-1/"
+      "https://www.cbsnews.com/losangeles/news/joseph-paintsils-first-half-hat-trick-leads-galaxy-over-sporting-kc-4-1/",
+      "https://www.cbsnews.com/pittsburgh/news/pittsburgh-dry-weather-continues-thursday-through-weekend/",
+      "https://www.cbsnews.com/newyork/news/nj-turnpike-bus-fire-secaucus/",
+      "https://www.cbsnews.com/news/sword-trump-king-charles-eisenhower-library/",
+      "https://www.cbsnews.com/detroit/news/heres-how-a-federal-government-shutdown-will-impact-michigan/",
+      "https://www.cbsnews.com/chicago/news/manchester-synagogue-stabbing-uk-england-as-jews-mark-yom-kippur/",
+      "https://www.cbsnews.com/minnesota/news/federal-government-shutdown-minnesota-impact/",
+      "https://www.cbsnews.com/news/retirement-savings-more-americans-paycheck-to-paycheck-goldman-sachs/",
+      "https://www.cbsnews.com/newyork/news/bank-call-zelle-transfer-scheme/",
+      "https://www.cbsnews.com/boston/news/fall-foliage-map-new-england-weather/",
+      "https://www.cbsnews.com/pittsburgh/news/pittsburgh-2025-gingerbread-house-competition-registration/"
     ]
   },
   "browser-intake-datadoghq.com": {
-    "lastAt": 1759051248896,
+    "lastAt": 1759404053450,
     "urls": []
   },
   "cncdn.com": {
-    "lastAt": 1759051254274,
+    "lastAt": 1759404058645,
     "urls": []
   },
   "optimizely.com": {
