@@ -52895,11 +52895,13 @@
     "urls": []
   },
   "axon.ai": {
-    "lastAt": 1758942112240,
-    "urls": []
+    "lastAt": 1759386793502,
+    "urls": [
+      "https://axon.ai/"
+    ]
   },
   "citrix.com": {
-    "lastAt": 1758942116022,
+    "lastAt": 1759386796778,
     "urls": [
       "https://citrix.com/",
       "https://www.citrix.com/platform/citrix-analytics-security/form/ebook-security-analytics.html",
@@ -52940,17 +52942,27 @@
       "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/enabling-a-productive-remote-workspace-with-nvidia-citrix-hdx-webinar.html",
       "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/simplify-retail-it-secure-pii-and-mobilize-your-workforce-with-citrix-daas-and-chrome-os-video.html",
       "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/dive-into-desktop-as-a-service-kit.html",
-      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/em-digital-first-transforming-manufacturing-for-the-age-of-agility-ebook.html"
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/em-digital-first-transforming-manufacturing-for-the-age-of-agility-ebook.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/form/healthcares-journey-to-achieving-success-with-citrix-wp.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/citrix-virtual-apps-and-desktops-upgrade.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/compare/",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/compare/microsoft-azure.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/feature-matrix.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/compare/vmware.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/resources/citrix-features-explained-citrix-daas.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/resources/the-tei-of-the-citrix-daas.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/resources/how-daas-is-modernizing-traditional-vdi-models-for-it-ebook.html",
+      "https://www.citrix.com/platform/citrix-app-and-desktop-virtualization/resources/migrating-to-citrix-daas.html"
     ]
   },
   "notion.site": {
-    "lastAt": 1758943884252,
+    "lastAt": 1759386797503,
     "urls": [
       "https://notion.site/"
     ]
   },
   "semanticscholar.org": {
-    "lastAt": 1758943891456,
+    "lastAt": 1759386804756,
     "urls": [
       "https://www.semanticscholar.org/author/R.-Gansevoort/51975835",
       "https://www.semanticscholar.org/author/W.-Markesbery/5599752",
@@ -52991,11 +53003,21 @@
       "https://www.semanticscholar.org/author/E.-Schlieckau/4673296",
       "https://www.semanticscholar.org/author/K.-Knutson/35205561",
       "https://www.semanticscholar.org/author/J.-Qu/153162449",
-      "https://www.semanticscholar.org/author/F.-Guillemin/145141684"
+      "https://www.semanticscholar.org/author/F.-Guillemin/145141684",
+      "https://www.semanticscholar.org/author/Mircea-R.-Stan/1741387",
+      "https://www.semanticscholar.org/author/U.-Siebenlist/47079268",
+      "https://www.semanticscholar.org/author/A.-Prat/145594196",
+      "https://www.semanticscholar.org/author/C.-Boer/143876531",
+      "https://www.semanticscholar.org/author/S.-Schneider/2288817104",
+      "https://www.semanticscholar.org/author/F.-Colombo/49364162",
+      "https://www.semanticscholar.org/author/X.-Loyer/7963805",
+      "https://www.semanticscholar.org/author/I.-Dolgachev/51370899",
+      "https://www.semanticscholar.org/author/R.-Pink/37931647",
+      "https://www.semanticscholar.org/author/J.-N.-Shelton/9190933"
     ]
   },
   "ubisoft.com": {
-    "lastAt": 1758943898455,
+    "lastAt": 1759386809036,
     "urls": [
       "https://ubisoft.com/",
       "https://www.ubisoft.com/es-es/entertainment/film-tv/fellowship",
@@ -53036,11 +53058,21 @@
       "https://www.ubisoft.com/ru-ru/game/trackmania/trackmania/tournament-license",
       "https://www.ubisoft.com/ko-kr/game/trackmania/trackmania/tournament-license",
       "https://www.ubisoft.com/en-ca/game/trackmania/trackmania/tournament-license/applications",
-      "https://www.ubisoft.com/en-gb/game/trackmania/trackmania/tournament-license/applications"
+      "https://www.ubisoft.com/en-gb/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/es-mx/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/en-us/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/pl-pl/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/it-it/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/pt-br/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/ru-ru/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/fr-ca/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/fr-fr/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/ko-kr/game/trackmania/trackmania/tournament-license/applications",
+      "https://www.ubisoft.com/zh-tw/game/trackmania/trackmania/tournament-license/applications"
     ]
   },
   "connectad.io": {
-    "lastAt": 1758943902119,
+    "lastAt": 1759386811700,
     "urls": [
       "https://connectad.io/",
       "https://connectad.io/blog/the-open-web-a-vital-counterbalance-to-the-disinformation-crisis/",
@@ -53079,13 +53111,13 @@
     ]
   },
   "macomnet.ru": {
-    "lastAt": 1758943914110,
+    "lastAt": 1759386815199,
     "urls": [
       "https://macomnet.ru/"
     ]
   },
   "nielsen.com": {
-    "lastAt": 1758943919715,
+    "lastAt": 1759386822081,
     "urls": [
       "https://www.nielsen.com/",
       "https://nielsen.com/",
@@ -53126,19 +53158,29 @@
       "https://www.nielsen.com/insights/2022/in-the-cookie-less-era-essential-risks-that-marketers-must-grasp20220419/",
       "https://www.nielsen.com/insights/2022/era-of-alignment/",
       "https://www.nielsen.com/insights/2022/streaming-is-the-future-of-tv-but-abundance-of-platform-choice-is-overwhelming-for-viewers/",
-      "https://www.nielsen.com/insights/2022/playing-the-game-breaking-the-bias-with-women-influencers-in-sports-and-gaming/"
+      "https://www.nielsen.com/insights/2022/playing-the-game-breaking-the-bias-with-women-influencers-in-sports-and-gaming/",
+      "https://www.nielsen.com/insights/2022/breakthebias-how-illuminative-founder-crystal-echo-hawk-is-fighting-erasure-of-native-americans-in-media/",
+      "https://www.nielsen.com/insights/2022/women-are-driving-significant-gains-in-podcast-engagement/",
+      "https://www.nielsen.com/insights/2022/advertising-emotions-increase-sales/",
+      "https://www.nielsen.com/insights/2022/breaking-the-bias-against-womens-sport-the-impact-of-equal-opportunity-for-athletes-fans-and-sponsors/",
+      "https://www.nielsen.com/insights/2022/measuring-advertising-effectiveness-with-a-focus-on-people-base-in-a-cookie-less-environment-20220405/",
+      "https://www.nielsen.com/insights/2022/beyond-svod-2/",
+      "https://www.nielsen.com/insights/2022/black-owned-media-making-the-case-for-better-brand-partnerships/",
+      "https://www.nielsen.com/insights/2022/marketers-can-foster-greater-representation-in-media/",
+      "https://www.nielsen.com/insights/2022/tuning-into-radios-potential-the-power-of-black-owned-radio/",
+      "https://www.nielsen.com/insights/2022/consumer-behavior-shifts-and-new-experiences-are-broadening-fan-engagement/"
     ]
   },
   "drupal.org": {
-    "lastAt": 1758943923541,
+    "lastAt": 1759386825493,
     "urls": []
   },
   "privacy-center.org": {
-    "lastAt": 1758943926836,
+    "lastAt": 1759386828685,
     "urls": []
   },
   "traffmonetizer.com": {
-    "lastAt": 1758943929555,
+    "lastAt": 1759386831181,
     "urls": [
       "https://traffmonetizer.com/unlock-the-secrets-to-making-money-from-home-without-any-investment/",
       "https://traffmonetizer.com/discover-how-to-earn-money-from-home-without-any-investment/",
@@ -53165,7 +53207,7 @@
     ]
   },
   "lg.com": {
-    "lastAt": 1758943987589,
+    "lastAt": 1759386878318,
     "urls": [
       "https://lg.com/",
       "https://www.lg.com/ae/65-inch-tvs",
@@ -53206,29 +53248,39 @@
       "https://www.lg.com/ae/about-lg/press-media/evolution-of-lgs-curved-smartphone-unveiled-at-ces-2015",
       "https://www.lg.com/ae/about-lg/press-media/expanded-lg-xboom-audio-lineup-takes-center-stage-at-ifa-2018",
       "https://www.lg.com/ae/about-lg/press-media/experience-a-unique-and-state-of-the-art-living-experience-with-lg-signature",
-      "https://www.lg.com/ae/about-lg/press-media/evolving-modern-washing-machine-trends-the-re-engineered-laundry-expert"
+      "https://www.lg.com/ae/about-lg/press-media/evolving-modern-washing-machine-trends-the-re-engineered-laundry-expert",
+      "https://www.lg.com/ae/about-lg/press-media/kitchen-smarter",
+      "https://www.lg.com/ae/about-lg/press-media/internet-of-things-ushering-in-a-period-of-technological-revolution-reiterates-lg",
+      "https://www.lg.com/ae/about-lg/press-media/international-debut-of-lgs-cloi-robot-sparks-high-interest-and-excitement-among-consumers-in-mea",
+      "https://www.lg.com/ae/about-lg/press-media/laundry-gets-a-new-dimension-with-the-latest-ultra-premium-lg-signature-twinwash-washing-machine",
+      "https://www.lg.com/ae/about-lg/press-media/leading-digital-signage-products-from-lg-deliver-optimized-vertical-solutions-for-businesses",
+      "https://www.lg.com/ae/about-lg/press-media/lg-360cam",
+      "https://www.lg.com/ae/about-lg/press-media/lg-aims-to-add-to-its-success-in-the-premium-tv-market-with-new-4k-oled-tvs",
+      "https://www.lg.com/ae/about-lg/press-media/lg-acquires-global-premium-automotove-lighting-company-zkw-group",
+      "https://www.lg.com/ae/about-lg/press-media/lg-and-honeywell-demo-automotive-cybersecurity-solution",
+      "https://www.lg.com/ae/about-lg/press-media/lg-aims-to-help-the-region-to-grow-smarter-together-with-energy-efficient-solutions-for-homes"
     ]
   },
   "slgnt.eu": {
-    "lastAt": 1758943990759,
+    "lastAt": 1759386881309,
     "urls": []
   },
   "congress.gov": {
-    "lastAt": 1758943994706,
+    "lastAt": 1759386885207,
     "urls": []
   },
   "epluscdn.com": {
-    "lastAt": 1758943998839,
+    "lastAt": 1759386889196,
     "urls": []
   },
   "yammer.com": {
-    "lastAt": 1758943999276,
+    "lastAt": 1759386890059,
     "urls": [
       "https://yammer.com/"
     ]
   },
   "google.pl": {
-    "lastAt": 1758944000565,
+    "lastAt": 1759386891308,
     "urls": [
       "https://google.pl/",
       "https://www.google.com/intl/tr/gmail/about/policy/",
@@ -53243,7 +53295,7 @@
     ]
   },
   "dns.pt": {
-    "lastAt": 1758944005528,
+    "lastAt": 1759386895394,
     "urls": [
       "https://dns.pt/pt/procurar/",
       "https://dns.pt/en/search/",
@@ -53284,21 +53336,31 @@
       "https://dns.pt/pt/dnssec/ambito/",
       "https://dns.pt/en/dnssec/public-key/",
       "https://dns.pt/pt/dnssec/chave-publica/",
-      "https://dns.pt/en/quality-and-security/"
+      "https://dns.pt/en/quality-and-security/",
+      "https://dns.pt/en/terms-of-use/",
+      "https://dns.pt/en/legal-notices/",
+      "https://dns.pt/pt/avisos-legais/",
+      "https://dns.pt/pt/termos-de-utilizacao/",
+      "https://dns.pt/pt/qualidade-e-seguranca/",
+      "https://dns.pt/en/factsheet/",
+      "https://dns.pt/pt/ficha-tecnica/",
+      "https://dns.pt/en/glossary-2/",
+      "https://dns.pt/pt/glossario-2/",
+      "https://dns.pt/en/documentation/"
     ]
   },
   "tmall.com": {
-    "lastAt": 1758944008739,
+    "lastAt": 1759386898682,
     "urls": [
       "https://tmall.com/"
     ]
   },
   "meta.com": {
-    "lastAt": 1758944013443,
+    "lastAt": 1759386903358,
     "urls": []
   },
   "kochava.com": {
-    "lastAt": 1758944024446,
+    "lastAt": 1759386913961,
     "urls": [
       "https://www.kochava.com/blog/",
       "https://kochava.com/",
@@ -53335,21 +53397,30 @@
       "https://www.kochava.com/blog/incrementality-tests-vs-marketing-mix-modeling/",
       "https://www.kochava.com/blog/advanced-marketing-analytics-will-transform-the-gaming-industry-in-2025/",
       "https://www.kochava.com/blog/snap-modeled-attribution-update/",
-      "https://www.kochava.com/blog/ctv-performance-and-momentum-in-2025-webinar-qa/"
+      "https://www.kochava.com/blog/ctv-performance-and-momentum-in-2025-webinar-qa/",
+      "https://www.kochava.com/blog/firebase-dynamic-links-deprecation-2025-switching-to-an-fdl-replacement/",
+      "https://www.kochava.com/blog/11-favorite-learnings-from-11th-kochava-summit/",
+      "https://www.kochava.com/blog/super-bowl-lix-streaming-and-advertising-mania/",
+      "https://www.kochava.com/blog/data-clean-rooms-transforming-privacy-durable-measurement-and-activation/",
+      "https://www.kochava.com/blog/level-up-roas-get-your-gaming-growth-guide-for-2025-and-beyond-2/",
+      "https://www.kochava.com/blog/enhancements-to-meta-aem-improve-ios-performance/",
+      "https://www.kochava.com/blog/optimizing-ctv-performance-with-lg-ad-solutions-and-kochava/",
+      "https://www.kochava.com/blog/device-link-enhanced-cross-device-attribution/",
+      "https://www.kochava.com/blog/level-up-roas-get-your-gaming-growth-guide-for-2025-and-beyond/"
     ]
   },
   "emxdgt.com": {
-    "lastAt": 1758944025492,
+    "lastAt": 1759386915014,
     "urls": [
       "https://emxdgt.com/"
     ]
   },
   "drmgms.com": {
-    "lastAt": 1758944028880,
+    "lastAt": 1759386918298,
     "urls": []
   },
   "nodejs.org": {
-    "lastAt": 1758944030552,
+    "lastAt": 1759386919869,
     "urls": [
       "https://nodejs.org/",
       "https://nodejs.org/en/eol",
@@ -53390,33 +53461,43 @@
       "https://nodejs.org/en/learn/getting-started/the-v8-javascript-engine",
       "https://nodejs.org/en/learn/getting-started/websocket",
       "https://nodejs.org/en/learn/diagnostics/flame-graphs",
-      "https://nodejs.org/en/learn/diagnostics/user-journey"
+      "https://nodejs.org/en/learn/diagnostics/user-journey",
+      "https://nodejs.org/en/learn/diagnostics/memory/using-gc-traces",
+      "https://nodejs.org/en/learn/diagnostics/poor-performance",
+      "https://nodejs.org/en/learn/diagnostics/memory",
+      "https://nodejs.org/en/learn/diagnostics/poor-performance/using-linux-perf",
+      "https://nodejs.org/en/learn/diagnostics/memory/understanding-and-tuning-memory",
+      "https://nodejs.org/en/learn/diagnostics/memory/using-heap-snapshot",
+      "https://nodejs.org/en/learn/diagnostics/memory/using-heap-profiler",
+      "https://nodejs.org/en/learn/diagnostics/live-debugging",
+      "https://nodejs.org/en/learn/command-line/accept-input-from-the-command-line-in-nodejs",
+      "https://nodejs.org/en/learn/diagnostics/live-debugging/using-inspector"
     ]
   },
   "ubc.ca": {
-    "lastAt": 1758944031776,
+    "lastAt": 1759386921167,
     "urls": [
       "https://ubc.ca/"
     ]
   },
   "disney.com": {
-    "lastAt": 1758944035336,
+    "lastAt": 1759386924380,
     "urls": []
   },
   "perplexity.ai": {
-    "lastAt": 1758944041727,
+    "lastAt": 1759386929693,
     "urls": []
   },
   "p-cdn.us": {
-    "lastAt": 1758944044715,
+    "lastAt": 1759386932880,
     "urls": []
   },
   "crowsember.com": {
-    "lastAt": 1758944048053,
+    "lastAt": 1759386936009,
     "urls": []
   },
   "thewsoral.com": {
-    "lastAt": 1758944049453,
+    "lastAt": 1759386937045,
     "urls": [
       "https://thewsoral.com/"
     ]
