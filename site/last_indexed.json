@@ -13440,7 +13440,7 @@
     "urls": []
   },
   "brave.com": {
-    "lastAt": 1759054992360,
+    "lastAt": 1759411795363,
     "urls": [
       "https://brave.com/learn/using-chrome-extensions-in-brave/",
       "https://brave.com/whats-new/playlist/",
@@ -13491,15 +13491,25 @@
       "https://brave.com/whats-new/vpn-killswitch-proxy/",
       "https://brave.com/whats-new/leo-personalization/",
       "https://brave.com/learn/how-to-choose-vpn/",
-      "https://brave.com/search/api/guides/using-brave-search-api/"
+      "https://brave.com/search/api/guides/using-brave-search-api/",
+      "https://brave.com/ai/intro-to-machine-learning/",
+      "https://brave.com/ai/what-is-natural-language-processing/",
+      "https://brave.com/search/api/guides/what-sets-brave-search-api-apart/",
+      "https://brave.com/web3/set-up-crypto-wallet/",
+      "https://brave.com/web3/intro-to-crypto-custody/",
+      "https://brave.com/web3/versus-web1-and-web2/",
+      "https://brave.com/web3/built-on-web3/",
+      "https://brave.com/learn/how-search-engines-work/",
+      "https://brave.com/learn/delete-iphone-history/",
+      "https://brave.com/learn/how-to-setup-twitch-donations/"
     ]
   },
   "ups.com": {
-    "lastAt": 1759055061169,
+    "lastAt": 1759411864171,
     "urls": []
   },
   "livejournal.com": {
-    "lastAt": 1759055069164,
+    "lastAt": 1759411871111,
     "urls": [
       "https://www.livejournal.com/abuse/policy-en.bml",
       "https://www.livejournal.com/abuse/policy-ru.bml",
@@ -13550,43 +13560,53 @@
       "https://www.livejournal.com/support/faq/136.html",
       "https://www.livejournal.com/support/faq/135.html",
       "https://www.livejournal.com/support/faq/137.html",
-      "https://www.livejournal.com/support/faq/139.html"
+      "https://www.livejournal.com/support/faq/139.html",
+      "https://www.livejournal.com/support/faq/14.html",
+      "https://www.livejournal.com/support/faq/143.html",
+      "https://www.livejournal.com/support/faq/145.html",
+      "https://www.livejournal.com/support/faq/149.html",
+      "https://www.livejournal.com/support/faq/15.html",
+      "https://www.livejournal.com/support/faq/150.html",
+      "https://www.livejournal.com/support/faq/151.html",
+      "https://www.livejournal.com/support/faq/155.html",
+      "https://www.livejournal.com/support/faq/156.html",
+      "https://www.livejournal.com/support/faq/157.html"
     ]
   },
   "gm.com": {
-    "lastAt": 1759055069710,
+    "lastAt": 1759411871706,
     "urls": [
       "https://gm.com/"
     ]
   },
   "1rx.io": {
-    "lastAt": 1759055072829,
+    "lastAt": 1759411874598,
     "urls": []
   },
   "cdnhwc1.com": {
-    "lastAt": 1759055077066,
+    "lastAt": 1759411880256,
     "urls": []
   },
   "crwdcntrl.net": {
-    "lastAt": 1759055135893,
+    "lastAt": 1759411939082,
     "urls": []
   },
   "gandi-ns.fr": {
-    "lastAt": 1759055139567,
+    "lastAt": 1759411942753,
     "urls": []
   },
   "bytefcdn-ttpeu.com": {
-    "lastAt": 1759055142983,
+    "lastAt": 1759411946311,
     "urls": []
   },
   "warnerbros.com": {
-    "lastAt": 1759055144252,
+    "lastAt": 1759411947230,
     "urls": [
       "https://warnerbros.com/"
     ]
   },
   "techcrunch.com": {
-    "lastAt": 1759055147064,
+    "lastAt": 1759411949571,
     "urls": [
       "https://techcrunch.com/",
       "https://techcrunch.com/newsletters/strictlyvc/",
@@ -13637,41 +13657,51 @@
       "https://techcrunch.com/video/coop-is-a-smart-chicken-coop-for-beginners/",
       "https://techcrunch.com/video/scaling-startups-in-the-european-market/",
       "https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/",
-      "https://techcrunch.com/video/these-investors-are-betting-on-greeces-founders/"
+      "https://techcrunch.com/video/these-investors-are-betting-on-greeces-founders/",
+      "https://techcrunch.com/video/why-californias-new-ai-safety-law-succeeded-where-sb-1047-failed/",
+      "https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/",
+      "https://techcrunch.com/video/openai-may-be-developing-its-own-social-platform-but-whos-it-for/",
+      "https://techcrunch.com/video/skype-shuts-down-after-23-years/",
+      "https://techcrunch.com/video/is-starbase-a-modern-company-town/",
+      "https://techcrunch.com/video/stop-hiring-humans-startup-artisan-hires-humans/",
+      "https://techcrunch.com/video/greece-is-having-a-big-tech-moment/",
+      "https://techcrunch.com/video/mark-zuckerberg-really-wants-to-make-facebook-cool-again/",
+      "https://techcrunch.com/video/how-kalshi-helped-prediction-markets-go-mainstream/",
+      "https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/"
     ]
   },
   "vidaahub.com": {
-    "lastAt": 1759055150289,
+    "lastAt": 1759411952767,
     "urls": []
   },
   "telekom.net": {
-    "lastAt": 1759055152541,
+    "lastAt": 1759411954660,
     "urls": [
       "https://telekom.net/"
     ]
   },
   "hostgator.com": {
-    "lastAt": 1759055155913,
+    "lastAt": 1759411958272,
     "urls": []
   },
   "noaa.gov": {
-    "lastAt": 1759055159121,
+    "lastAt": 1759411961435,
     "urls": []
   },
   "amazon.fr": {
-    "lastAt": 1759055164051,
+    "lastAt": 1759411966183,
     "urls": []
   },
   "hath.network": {
-    "lastAt": 1759055169134,
+    "lastAt": 1759411971131,
     "urls": []
   },
   "rackspace.net": {
-    "lastAt": 1759055227948,
+    "lastAt": 1759412029946,
     "urls": []
   },
   "marriott.com": {
-    "lastAt": 1759055232192,
+    "lastAt": 1759412035380,
     "urls": [
       "https://www.marriott.com/luxury",
       "https://marriott.com/",
@@ -13722,15 +13752,25 @@
       "https://www.marriott.com/luxury/explore-luxury-suites/hotel-imperial-vienna",
       "https://www.marriott.com/luxury/explore-luxury-suites/prince-de-galles-paris",
       "https://www.marriott.com/luxury/explore-luxury-suites/w-budapest",
-      "https://www.marriott.com/luxury/explore-luxury-suites/hotel-grande-bretagne-athens"
+      "https://www.marriott.com/luxury/explore-luxury-suites/hotel-grande-bretagne-athens",
+      "https://www.marriott.com/luxury/explore-luxury-suites/reykjavik-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-berlin",
+      "https://www.marriott.com/luxury/explore-luxury-suites/ritz-carlton-san-francisco",
+      "https://www.marriott.com/luxury/explore-luxury-suites/w-costa-navarino",
+      "https://www.marriott.com/luxury/explore-luxury-suites/jw-marriott-masai-mara-lodge",
+      "https://www.marriott.com/luxury/explore-luxury-suites/santo-mauro-madrid",
+      "https://www.marriott.com/luxury/explore-luxury-suites/the-santa-maria-panama",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-punta-mita",
+      "https://www.marriott.com/luxury/explore-luxury-suites/sanya-edition",
+      "https://www.marriott.com/luxury/explore-luxury-suites/st-regis-kanai-riviera-maya"
     ]
   },
   "bamgrid.com": {
-    "lastAt": 1759055235389,
+    "lastAt": 1759412038539,
     "urls": []
   },
   "cloudns.net": {
-    "lastAt": 1759055238021,
+    "lastAt": 1759412040878,
     "urls": [
       "https://www.cloudns.net/",
       "https://www.cloudns.net/managed-dns/",
@@ -13781,15 +13821,25 @@
       "https://www.cloudns.net/private-dns-servers-es/",
       "https://www.cloudns.net/private-dns-servers-bg/",
       "https://www.cloudns.net/private-dns-servers-pt/",
-      "https://www.cloudns.net/private-dns-servers-za/"
+      "https://www.cloudns.net/private-dns-servers-za/",
+      "https://www.cloudns.net/ddos-protected-private-dns-servers-ca/",
+      "https://www.cloudns.net/ddos-protected-private-dns-servers-va-us/",
+      "https://www.cloudns.net/ddos-protected-private-dns-servers-de/",
+      "https://www.cloudns.net/ddos-protected-private-dns-servers-fr/",
+      "https://www.cloudns.net/ddos-protected-private-dns-servers-ro/",
+      "https://www.cloudns.net/payment-methods/",
+      "https://www.cloudns.net/domain-parking/",
+      "https://www.cloudns.net/for-resellers/",
+      "https://www.cloudns.net/ssl-certificates/",
+      "https://www.cloudns.net/ripe-ncc/"
     ]
   },
   "quantserve.com": {
-    "lastAt": 1759055241942,
+    "lastAt": 1759412045119,
     "urls": []
   },
   "anydesk.com": {
-    "lastAt": 1759058195252,
+    "lastAt": 1759412048636,
     "urls": [
       "https://anydesk.com/en/abuse-prevention",
       "https://anydesk.com/en/all-platforms",
@@ -13840,27 +13890,37 @@
       "https://anydesk.com/en/contact-anydesk-today",
       "https://anydesk.com/en/contact-anydesk-today/thank-you",
       "https://anydesk.com/en/contact-anydesk/billing/thank-you",
-      "https://anydesk.com/en/contact-anydesk/billing"
+      "https://anydesk.com/en/contact-anydesk/billing",
+      "https://anydesk.com/en/contact-anydesk/sales/thank-you",
+      "https://anydesk.com/en/contact-anydesk/general/thank-you",
+      "https://anydesk.com/en/contact-anydesk/general",
+      "https://anydesk.com/en/contact-anydesk/send-report",
+      "https://anydesk.com/en/contact-anydesk/sales",
+      "https://anydesk.com/en/contact-anydesk/send-report/thank-you",
+      "https://anydesk.com/en/contact-anydesk/support/thank-you",
+      "https://anydesk.com/en/contact-anydesk/support",
+      "https://anydesk.com/en/contact-anydesk/tv-switch-1/thank-you",
+      "https://anydesk.com/en/contact-anydesk/tv-switch-1"
     ]
   },
   "dfn.nl": {
-    "lastAt": 1759058199771,
+    "lastAt": 1759412053289,
     "urls": []
   },
   "substack.com": {
-    "lastAt": 1759058202801,
+    "lastAt": 1759412056308,
     "urls": []
   },
   "amazon.ca": {
-    "lastAt": 1759058205980,
+    "lastAt": 1759412059429,
     "urls": []
   },
   "fb.com": {
-    "lastAt": 1759058209639,
+    "lastAt": 1759412062837,
     "urls": []
   },
   "cambridge.org": {
-    "lastAt": 1759058221228,
+    "lastAt": 1759412071963,
     "urls": [
       "https://www.cambridge.org/highereducation/books/the-origins-of-the-first-world-war/F1F0321D2E082F6CC0FBB0F9F744F0A4/listing",
       "https://www.cambridge.org/highereducation/forms/flippingtheclassroom",
@@ -13897,17 +13957,24 @@
       "https://www.cambridge.org/highereducation/subjects/psychology",
       "https://www.cambridge.org/highereducation/services/instructors/textbooks",
       "https://www.cambridge.org/highereducation/subjects/statistics-and-probability",
-      "https://www.cambridge.org/highereducation/subjects/sociology"
+      "https://www.cambridge.org/highereducation/subjects/sociology",
+      "https://www.cambridge.org/highereducation/services/instructors/request-a-trial",
+      "https://www.cambridge.org/highereducation/services/instructors/request-an-exam-copy",
+      "https://www.cambridge.org/highereducation/services/instructors/access-options",
+      "https://www.cambridge.org/highereducation/services/instructors/other-related-products",
+      "https://www.cambridge.org/highereducation/services/instructors/affordability",
+      "https://www.cambridge.org/highereducation/services/instructors/accessibility",
+      "https://www.cambridge.org/highereducation/services/instructors/sustainability"
     ]
   },
   "cloudflareinsights.com": {
-    "lastAt": 1759058221488,
+    "lastAt": 1759412072240,
     "urls": [
       "https://cloudflareinsights.com/"
     ]
   },
   "alidns.com": {
-    "lastAt": 1759058224896,
+    "lastAt": 1759412075524,
     "urls": [
       "https://alidns.com/"
     ]
