@@ -18192,20 +18192,20 @@
     ]
   },
   "themeforest.net": {
-    "lastAt": 1759079929620,
+    "lastAt": 1759436702972,
     "urls": [
       "https://themeforest.net/",
       "https://themeforest.net/category/site-templates"
     ]
   },
   "deltaork.com": {
-    "lastAt": 1759079930458,
+    "lastAt": 1759436703374,
     "urls": [
       "https://deltaork.com/"
     ]
   },
   "edna.ru": {
-    "lastAt": 1759079939341,
+    "lastAt": 1759436713266,
     "urls": [
       "https://edna.ru/news/",
       "https://edna.ru/news/kakie-tehnologii-pomogayut-ne-dopustit-moshennichestva-s-dublirovaniem-esim-i-krazhi-deneg-v-onlajn-banke/",
@@ -18256,11 +18256,21 @@
       "https://edna.ru/news/motivirujte-klientov-na-povtornye-zakazy-i-podnimajte-prodazhi-s-rassylkami-whatsapp/",
       "https://edna.ru/news/edna-primet-uchastie-v-vebinare-ot-yandeks-supportai/",
       "https://edna.ru/news/integracziya-chat-czentra-edna-s-mis-infoklinika-pozvolila-sokratit-vremya-ozhidaniya-otveta-operatorov-kontakt-czentra/",
-      "https://edna.ru/news/edna-predstavila-novye-servisy-dlya-e-commerce-na-mezhdunarodnom-plas-forume-onlineoffline-retail/"
+      "https://edna.ru/news/edna-predstavila-novye-servisy-dlya-e-commerce-na-mezhdunarodnom-plas-forume-onlineoffline-retail/",
+      "https://edna.ru/news/kak-whatsapp-pomogaet-ozhivit-kommunikacziyu-s-klientami-v-period-letnego-spada-prodazh/",
+      "https://edna.ru/news/edna-na-ifin-2021-aktualnye-resheniya-dlya-biznesa-i-trendy-v-czifrovizaczii/",
+      "https://edna.ru/news/kak-effektivnaya-klientskaya-kommunikacziya-vliyaet-na-pribyl-kejsy-i-czifry/",
+      "https://edna.ru/news/darim-promokod-na-konferencziyu-pro-ai/",
+      "https://edna.ru/news/ne-tolko-programmisty-edna-o-professii-menedzhera-po-prodazham-v-it/",
+      "https://edna.ru/news/sberbank-perejdet-na-push-uvedomleniya/",
+      "https://edna.ru/news/zavershena-integracziya-platformy-edna-s-bitriks24-2/",
+      "https://edna.ru/news/edna-i-finam-kak-vyrastit-populyarnyj-chat/",
+      "https://edna.ru/news/skidka-20-na-poseshhenie-konferenczii-ccwf/",
+      "https://edna.ru/news/sokrashhajte-nedozvony-i-podnimajte-konversiyu-lidov-s-whatsapp-business-api/"
     ]
   },
   "figma.com": {
-    "lastAt": 1759079942842,
+    "lastAt": 1759436716585,
     "urls": [
       "https://www.figma.com/",
       "https://www.figma.com/contact/",
@@ -18311,11 +18321,21 @@
       "https://www.figma.com/best-practices/tips-for-a-better-developer-workflow/",
       "https://www.figma.com/solutions/ai-product-website-builder/",
       "https://www.figma.com/customers/ruggable-reimagines-design-to-development-10x-faster-with-figma/",
-      "https://www.figma.com/webinars/design-dev-collab/"
+      "https://www.figma.com/webinars/design-dev-collab/",
+      "https://www.figma.com/solutions/ai-animated-prototype-generator/",
+      "https://www.figma.com/dictionary/hero-image/",
+      "https://www.figma.com/best-practices/guides/",
+      "https://www.figma.com/mcp-catalog/",
+      "https://www.figma.com/scaling-design/the-case-for-an-open-design-system/",
+      "https://www.figma.com/demos/dev-mode-design/",
+      "https://www.figma.com/customers/figma-helps-amadeus-design-10-times-faster/",
+      "https://www.figma.com/solutions/ai-marketing-website-builder/",
+      "https://www.figma.com/solutions/prompt-to-app/",
+      "https://www.figma.com/reports/supercharging-design-in-korea/"
     ]
   },
   "digitalocean.com": {
-    "lastAt": 1759079945502,
+    "lastAt": 1759436719845,
     "urls": [
       "https://digitalocean.com/",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-install-apache-tomcat",
@@ -18366,21 +18386,31 @@
       "https://www.digitalocean.com/community/tutorial-collections/how-to-install-python-3-and-set-up-a-programming-environment",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-configure-gitlab",
       "https://www.digitalocean.com/community/tutorial-collections/how-to-configure-jenkins-with-ssl-using-an-nginx-reverse-proxy",
-      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-hadoop-in-stand-alone-mode"
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-hadoop-in-stand-alone-mode",
+      "https://www.digitalocean.com/community/tutorial-collections/using-lvm-to-manage-storage",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-use-composer",
+      "https://www.digitalocean.com/community/tutorial-collections/install-the-latest-mysql",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-rewrite-urls-with-mod_rewrite-for-apache",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-install-ruby-on-rails-with-rbenv",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-set-up-an-nfs-mount",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-move-a-postgresql-data-directory-to-a-new-location",
+      "https://www.digitalocean.com/community/tutorial-collections/how-to-enable-sftp-without-shell-access"
     ]
   },
   "nintendo.net": {
-    "lastAt": 1759079948562,
+    "lastAt": 1759436723035,
     "urls": []
   },
   "onet.pl": {
-    "lastAt": 1759079950973,
+    "lastAt": 1759436726589,
     "urls": [
       "https://onet.pl/"
     ]
   },
   "networkadvertising.org": {
-    "lastAt": 1759079955542,
+    "lastAt": 1759436731139,
     "urls": [
       "https://thenai.org/policy-news/blog/",
       "https://thenai.org/advertisers-claim-iphones-new-anti-tracking-tech-will-lead-to-dramatic-decrease-in-free-apps/",
@@ -18431,19 +18461,29 @@
       "https://thenai.org/nai-expands-requirements-for-sensor-data-collection-bans-behavioral-targeting-of-users/",
       "https://thenai.org/nai-expands-requirements-for-sensor-data-collection-bans-behavioral-targeting-of-users-2/",
       "https://thenai.org/nai-publishes-2020-code-of-conduct/",
-      "https://thenai.org/nai-bans-behavioral-targeting-of-users-under-16/"
+      "https://thenai.org/nai-bans-behavioral-targeting-of-users-under-16/",
+      "https://thenai.org/ana-iab-form-privacy-for-america-coalition-propose-national-data-laws/",
+      "https://thenai.org/ftc-hearings-12-the-ftcs-approach-to-consumer-privacy-day-1/",
+      "https://thenai.org/twitter-vet-will-carty-the-nais-new-public-policy-veep-is-no-fan-of-regulation/",
+      "https://thenai.org/iab-other-ad-groups-urge-ftc-to-focus-on-concrete-harms/",
+      "https://thenai.org/certification-for-media-iq-fastpay-buys-anchorops/",
+      "https://thenai.org/lobbying-world/",
+      "https://thenai.org/media-iq-awarded-two-elite-designations-for-online-safety-and-security/",
+      "https://thenai.org/twitter-lobbyist-jumps-to-network-advertising-initiative/",
+      "https://thenai.org/consumers-believe-brands-have-a-role-in-breaking-gender-stereotypes-in-digital-advertising-according-to-choozle-gender-stereotyping-in-advertising-survey/",
+      "https://thenai.org/active-international-and-almondnet-group-form-long-term-strategic-business-partnership/"
     ]
   },
   "ctdns.cn": {
-    "lastAt": 1759079959654,
+    "lastAt": 1759436735448,
     "urls": []
   },
   "markmonitor.com": {
-    "lastAt": 1759079962851,
+    "lastAt": 1759436738710,
     "urls": []
   },
   "smartthings.com": {
-    "lastAt": 1759079967123,
+    "lastAt": 1759436742289,
     "urls": [
       "https://smartthings.com/",
       "https://partners.smartthings.com/partners/a-d-medical",
@@ -18494,29 +18534,39 @@
       "https://partners.smartthings.com/partners/daewoo",
       "https://partners.smartthings.com/partners/danalock",
       "https://partners.smartthings.com/partners/danfoss",
-      "https://partners.smartthings.com/partners/dome"
+      "https://partners.smartthings.com/partners/dome",
+      "https://partners.smartthings.com/partners/diplomat",
+      "https://partners.smartthings.com/partners/ecolink",
+      "https://partners.smartthings.com/partners/econet-controls",
+      "https://partners.smartthings.com/partners/eaton",
+      "https://partners.smartthings.com/partners/ecobee",
+      "https://partners.smartthings.com/partners/ecosmart",
+      "https://partners.smartthings.com/partners/edishine",
+      "https://partners.smartthings.com/partners/ehong",
+      "https://partners.smartthings.com/partners/elegrp",
+      "https://partners.smartthings.com/partners/elko-ep"
     ]
   },
   "midea.com.cn": {
-    "lastAt": 1759079975977,
+    "lastAt": 1759436750973,
     "urls": []
   },
   "mailchi.mp": {
-    "lastAt": 1759079976578,
+    "lastAt": 1759436751701,
     "urls": [
       "https://mailchi.mp/"
     ]
   },
   "cdnhwc2.com": {
-    "lastAt": 1759079981669,
+    "lastAt": 1759436756893,
     "urls": []
   },
   "samsungosp.com": {
-    "lastAt": 1759079986902,
+    "lastAt": 1759436762040,
     "urls": []
   },
   "cursor.sh": {
-    "lastAt": 1759079989137,
+    "lastAt": 1759436764319,
     "urls": [
       "https://cursor.sh/",
       "https://cursor.com/en/cookie-table",
@@ -18567,11 +18617,21 @@
       "https://cursor.com/docs/agent/hooks",
       "https://cursor.com/docs/agent/modes",
       "https://cursor.com/docs/agent/overview",
-      "https://cursor.com/docs/agent/planning"
+      "https://cursor.com/docs/agent/planning",
+      "https://cursor.com/docs/agent/terminal",
+      "https://cursor.com/docs/agent/browser",
+      "https://cursor.com/docs/agent/tools",
+      "https://cursor.com/docs/agent/review",
+      "https://cursor.com/docs/agent/security",
+      "https://cursor.com/docs/background-agent",
+      "https://cursor.com/docs/background-agent/api/overview",
+      "https://cursor.com/docs/background-agent/api/endpoints",
+      "https://cursor.com/docs/background-agent/api/webhooks",
+      "https://cursor.com/docs/background-agent/web-and-mobile"
     ]
   },
   "name.com": {
-    "lastAt": 1759079992360,
+    "lastAt": 1759436767129,
     "urls": [
       "https://www.name.com/",
       "https://www.name.com/titan-email",
@@ -18622,11 +18682,21 @@
       "https://www.name.com/aboutus",
       "https://www.name.com/careers",
       "https://www.name.com/newsroom",
-      "https://www.name.com/good"
+      "https://www.name.com/good",
+      "https://www.name.com/whois-lookup",
+      "https://www.name.com/ip",
+      "https://www.name.com/abuse",
+      "https://www.name.com/domains",
+      "https://www.name.com/aftermarket",
+      "https://www.name.com/domains/net",
+      "https://www.name.com/domains/org",
+      "https://www.name.com/domains/me",
+      "https://www.name.com/domains/co",
+      "https://www.name.com/domains/online"
     ]
   },
   "youku.com": {
-    "lastAt": 1759080000126,
+    "lastAt": 1759436775251,
     "urls": [
       "https://youku.tv/",
       "https://youku.com/",
@@ -18667,23 +18737,33 @@
       "https://youku.tv/channel/webcomic?lang=es_ES",
       "https://youku.tv/channel/webchild?lang=es_ES",
       "https://youku.tv/channel/webmovie?lang=es_ES",
-      "https://youku.tv/channel/webculture?lang=es_ES"
+      "https://youku.tv/channel/webculture?lang=es_ES",
+      "https://youku.tv/channel/webchild?lang=ms_MY",
+      "https://youku.tv/channel/webtv?lang=ms_MY",
+      "https://youku.tv/channel/webzy?lang=ms_MY",
+      "https://youku.tv/channel/webcomic?lang=ms_MY",
+      "https://youku.tv/channel/webmovie?lang=ms_MY",
+      "https://youku.tv/channel/webculture?lang=ms_MY",
+      "https://youku.tv/channel/webtv?lang=pt_BR",
+      "https://youku.tv/channel/webzy?lang=pt_BR",
+      "https://youku.tv/channel/webcomic?lang=pt_BR",
+      "https://youku.tv/channel/webmovie?lang=pt_BR"
     ]
   },
   "threads.com": {
-    "lastAt": 1759080000975,
+    "lastAt": 1759436776263,
     "urls": [
       "https://threads.com/"
     ]
   },
   "otto.de": {
-    "lastAt": 1759080003359,
+    "lastAt": 1759436778729,
     "urls": [
       "https://otto.de/"
     ]
   },
   "intentiq.com": {
-    "lastAt": 1759080009886,
+    "lastAt": 1759436785457,
     "urls": [
       "https://www.intentiq.com/soapbox-innovation-now-for-a-cookie-less-future-logins-are-not-the-answer/",
       "https://www.intentiq.com/blog/",
@@ -18728,11 +18808,11 @@
     ]
   },
   "fbsbx.com": {
-    "lastAt": 1759080013351,
+    "lastAt": 1759436788748,
     "urls": []
   },
   "onesignal.com": {
-    "lastAt": 1759084155049,
+    "lastAt": 1759436795274,
     "urls": [
       "https://onesignal.com/",
       "https://onesignal.com/careers",
@@ -18773,15 +18853,25 @@
       "https://onesignal.com/case-studies/nrl-case-study",
       "https://onesignal.com/case-studies/usa-today-case-study",
       "https://onesignal.com/case-studies/mutesix-x-inspire-uplift-case-study",
-      "https://onesignal.com/case-studies/radio-free-europe-case-study"
+      "https://onesignal.com/case-studies/radio-free-europe-case-study",
+      "https://onesignal.com/case-studies/joe-case-study",
+      "https://onesignal.com/case-studies/future-case-study",
+      "https://onesignal.com/case-studies/stadium-goods-uses-onesignal",
+      "https://onesignal.com/case-studies/lbc-studios-case-study",
+      "https://onesignal.com/case-studies/softonic-case-study",
+      "https://onesignal.com/case-studies/palisades-tahoe-case-study",
+      "https://onesignal.com/case-studies/eatstreet",
+      "https://onesignal.com/case-studies/producthunt",
+      "https://onesignal.com/case-studies/evino-case-study",
+      "https://onesignal.com/case-studies/kinsta"
     ]
   },
   "166.com": {
-    "lastAt": 1759084213911,
+    "lastAt": 1759436854086,
     "urls": []
   },
   "biblegateway.com": {
-    "lastAt": 1759084218944,
+    "lastAt": 1759436858742,
     "urls": [
       "https://www.biblegateway.com/",
       "https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV",
@@ -18832,21 +18922,31 @@
       "https://www.biblegateway.com/passage/?search=Genesis%2045&version=NIV",
       "https://www.biblegateway.com/passage/?search=Genesis%2044&version=NIV",
       "https://www.biblegateway.com/passage/?search=Genesis%2046&version=NIV",
-      "https://www.biblegateway.com/passage/?search=Genesis%2047&version=NIV"
+      "https://www.biblegateway.com/passage/?search=Genesis%2047&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%201&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%202&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Genesis%2048&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Genesis%2050&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Genesis%2049&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%203&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%205&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%204&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%207&version=NIV",
+      "https://www.biblegateway.com/passage/?search=Exodus%206&version=NIV"
     ]
   },
   "hm.com": {
-    "lastAt": 1759084287757,
+    "lastAt": 1759436927551,
     "urls": []
   },
   "lowes.com": {
-    "lastAt": 1759084289240,
+    "lastAt": 1759436928639,
     "urls": [
       "https://lowes.com/"
     ]
   },
   "kick.com": {
-    "lastAt": 1759084295339,
+    "lastAt": 1759436934430,
     "urls": [
       "https://kick.com/",
       "https://kick.com/category/slots",
@@ -18856,11 +18956,11 @@
     ]
   },
   "redd.it": {
-    "lastAt": 1759084298774,
+    "lastAt": 1759436937418,
     "urls": []
   },
   "adgrx.com": {
-    "lastAt": 1759084301948,
+    "lastAt": 1759436940475,
     "urls": []
   },
   "aiv-delivery.net": {
