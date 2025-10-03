@@ -21106,15 +21106,15 @@
     ]
   },
   "columbia.edu": {
-    "lastAt": 1759094357467,
+    "lastAt": 1759455829492,
     "urls": []
   },
   "caixa.gov.br": {
-    "lastAt": 1759094426274,
+    "lastAt": 1759455898299,
     "urls": []
   },
   "alphonso.tv": {
-    "lastAt": 1759094432290,
+    "lastAt": 1759455904671,
     "urls": [
       "https://alphonso.tv/privacy/smart-tvs/site-privacy/",
       "https://alphonso.tv/privacy/user-opt-out/",
@@ -21159,23 +21159,30 @@
       "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-spanish/",
       "https://alphonso.tv/privacy/smart-tvs/privacy-policy-canada-traditional-chinese/",
       "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-french/",
-      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-simplified-chinese/"
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-simplified-chinese/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-traditional-chinese/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-ch-simplified/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-ch-traditional/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-bulgarian/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-croatian/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-czech/",
+      "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-danish/"
     ]
   },
   "heytapmobi.com": {
-    "lastAt": 1759094434966,
+    "lastAt": 1759455907466,
     "urls": [
       "https://heytapmobi.com/"
     ]
   },
   "utorrent.com": {
-    "lastAt": 1759094437195,
+    "lastAt": 1759455912368,
     "urls": [
       "https://utorrent.com/"
     ]
   },
   "linode.com": {
-    "lastAt": 1759094459145,
+    "lastAt": 1759455951478,
     "urls": [
       "https://www.linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/",
       "https://www.linode.com/blog/devops/cloud-portability-strategy-benefits/",
@@ -21226,21 +21233,31 @@
       "https://www.linode.com/blog/compute/the-dangers-of-the-never-expiring-jwt/",
       "https://www.linode.com/blog/compute/optimizing-web-usability-with-text-fragments/",
       "https://www.linode.com/blog/security/security-in-your-devops-pipeline/",
-      "https://www.linode.com/blog/security/pointless-may-not-be-harmless-login-page-security-vulnerabilities/"
+      "https://www.linode.com/blog/security/pointless-may-not-be-harmless-login-page-security-vulnerabilities/",
+      "https://www.linode.com/blog/linode/enterprise-data-ingestion-with-low-latency-akamais-proven-solutions-for-financial-institutions/",
+      "https://www.linode.com/blog/security/in-the-dark-about-shadow-apis/",
+      "https://www.linode.com/blog/networking/how-to-build-a-nat-gateway-in-a-vpc-with-linode/",
+      "https://www.linode.com/blog/security/pay-attention-to-your-non-production-subdomains/",
+      "https://www.linode.com/blog/compute/maximizing-financial-performance-how-financial-institutions-can-achieve-low-latency-and-high-throughput-with-nats-io-and-akamai/",
+      "https://www.linode.com/blog/linode/migrating-from-client-side-to-server-side-adaptive-bitrate-streaming/",
+      "https://www.linode.com/blog/cloud-storage/introducing-new-akamai-object-storage-endpoints/",
+      "https://www.linode.com/blog/security/authentication-isnt-everything/",
+      "https://www.linode.com/blog/security/pad-credit-card-information-to-protect-your-customers-wallets/",
+      "https://www.linode.com/blog/compute/deepseek-why-it-matters-and-what-the-press-got-wrong/"
     ]
   },
   "rayjump.com": {
-    "lastAt": 1759094517961,
+    "lastAt": 1759456010334,
     "urls": []
   },
   "skyhigh.cloud": {
-    "lastAt": 1759094519494,
+    "lastAt": 1759456011297,
     "urls": [
       "https://skyhigh.cloud/"
     ]
   },
   "ancestry.com": {
-    "lastAt": 1759094523539,
+    "lastAt": 1759456014720,
     "urls": [
       "https://www.ancestry.com/last-name-meaning/strelecki",
       "https://www.ancestry.com/last-name-meaning/dulmage",
@@ -21291,15 +21308,25 @@
       "https://www.ancestry.com/last-name-meaning/borman",
       "https://www.ancestry.com/last-name-meaning/coslow",
       "https://www.ancestry.com/last-name-meaning/mazzo",
-      "https://www.ancestry.com/last-name-meaning/coonradt"
+      "https://www.ancestry.com/last-name-meaning/coonradt",
+      "https://www.ancestry.com/last-name-meaning/wintour",
+      "https://www.ancestry.com/last-name-meaning/kite",
+      "https://www.ancestry.com/last-name-meaning/bradberry",
+      "https://www.ancestry.com/last-name-meaning/schoenbeck",
+      "https://www.ancestry.com/last-name-meaning/fitzharris",
+      "https://www.ancestry.com/last-name-meaning/westmorland",
+      "https://www.ancestry.com/last-name-meaning/dossetter",
+      "https://www.ancestry.com/last-name-meaning/appelt",
+      "https://www.ancestry.com/last-name-meaning/meitz",
+      "https://www.ancestry.com/last-name-meaning/puff"
     ]
   },
   "epicgames.dev": {
-    "lastAt": 1759094527108,
+    "lastAt": 1759456018249,
     "urls": []
   },
   "jetbrains.com": {
-    "lastAt": 1759094528539,
+    "lastAt": 1759456020310,
     "urls": [
       "https://jetbrains.com/",
       "https://www.jetbrains.com/products/compare/?product=idea-ce&product=pycharm",
@@ -21350,11 +21377,21 @@
       "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=clion",
       "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=appcode",
       "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=rider",
-      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=resharper"
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=resharper",
+      "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=resharper-cpp",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=goland",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=phpstorm",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=datagrip",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=webstorm",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=dataspell",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=clion",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=appcode",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=rider",
+      "https://www.jetbrains.com/products/compare/?product=rubymine&product=resharper"
     ]
   },
   "leparisien.fr": {
-    "lastAt": 1759094534489,
+    "lastAt": 1759456025672,
     "urls": [
       "https://www.leparisien.fr/faits-divers/dysfonctionnements-graves-locaux-indignes-un-ehpad-ferme-par-les-autorites-dans-les-bouches-du-rhone-12-09-2025-S523UQ3LHBHOFFDV5SBRVFXAE4.php",
       "https://www.leparisien.fr/faits-divers/il-etait-gentil-avec-tout-le-monde-mort-dans-laccident-de-funiculaire-de-lisbonne-il-avait-laisse-sa-place-a-sa-femme-12-09-2025-QCBAJTSBK5GCNGCZ3JDDPJJWRA.php",
@@ -21405,11 +21442,21 @@
       "https://www.leparisien.fr/culture-loisirs/fashion-week-lultime-collection-de-de-giorgio-armani-decede-il-y-a-peu-presentee-a-milan-28-09-2025-6HVJBAPJKFBGDG3WYSUCN6D4K4.php",
       "https://www.leparisien.fr/culture-loisirs/un-musee-a-ciel-ouvert-un-jardin-gratuit-abritant-des-sculptures-de-picasso-va-voir-le-jour-a-paris-en-2030-28-09-2025-WXGGLDBLRBCJBNPN4WM5CKYI4Q.php",
       "https://www.leparisien.fr/sports/football/ligue-1/lille-lyon-0-1-tous-les-week-ends-il-y-a-des-problemes-olivier-letang-fustige-larbitrage-28-09-2025-WQUKQC75OVEC3IAPRGTECL6KVI.php",
-      "https://www.leparisien.fr/sports/football/ligue-1/rennes-lens-la-video-de-lexpulsion-de-jonathan-gradit-apres-moins-dune-minute-de-jeu-28-09-2025-BWXKX3R5GJFG7IVP4R7JJFTJSI.php"
+      "https://www.leparisien.fr/sports/football/ligue-1/rennes-lens-la-video-de-lexpulsion-de-jonathan-gradit-apres-moins-dune-minute-de-jeu-28-09-2025-BWXKX3R5GJFG7IVP4R7JJFTJSI.php",
+      "https://www.leparisien.fr/international/etats-unis/apres-des-frappes-au-large-du-venezuela-donald-trump-declare-les-etats-unis-en-conflit-arme-avec-les-cartels-de-la-drogue-02-10-2025-WEAMFCJP55FR5PR2RAPT3SR4LU.php",
+      "https://www.leparisien.fr/faits-divers/royaume-uni-attaque-au-couteau-a-lexterieur-dune-synagogue-a-manchester-02-10-2025-7GDVGO5EBFCPNJEGS64QR3TFSU.php",
+      "https://www.leparisien.fr/culture-loisirs/cinema/il-est-comme-nous-en-fait-tres-touchant-a-caen-les-fans-dorelsan-valident-son-nouveau-film-yoroi-03-10-2025-CXFU7Y2PF5C55G43QK76MFDWT4.php",
+      "https://www.leparisien.fr/societe/il-ny-avait-plus-ame-qui-vive-camille-senon-centenaire-qui-avait-echappe-au-massacre-doradour-sur-glane-est-morte-02-10-2025-FJLFCRFQFNGSLL2ZJKXI373YQY.php",
+      "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-adidas-devoile-le-ballon-officiel-de-la-competition-03-10-2025-P7YQDYHT5NE2TBQLZIKV3IETUU.php",
+      "https://www.leparisien.fr/international/maroc-apres-une-nuit-de-violences-meurtrieres-la-generation-z-appelle-a-des-mobilisations-pacifiques-02-10-2025-DLZVMKHTYNHYDGFM27RUU2FLVI.php",
+      "https://www.leparisien.fr/oise-60/jai-secoue-mon-bebe-une-mere-de-loise-condamnee-pour-linfirmite-permanente-causee-a-son-enfant-02-10-2025-O2U7ZFP2QNHDXBJ6LVF7W4BGZA.php",
+      "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/la-ratp-lance-une-campagne-electrochoc-contre-les-comportements-a-risque-02-10-2025-4VVHUA7PFVD77PBGPN4LP3QI6U.php",
+      "https://www.leparisien.fr/paris-75/flottille-pour-gaza-quelques-milliers-de-personnes-rassemblees-a-paris-quelques-tensions-place-de-la-republique-02-10-2025-HJGHFSHVGBG3RKYCBAQNEKKEYE.php",
+      "https://www.leparisien.fr/sports/football/lyon-salzbourg-2-0-les-lyonnais-poursuivent-leur-sans-faute-en-ligue-europa-grace-au-1er-but-du-fils-de-patrick-kluivert-02-10-2025-4FAO6ZEA7JFLDHB7BVFKCJE5EQ.php"
     ]
   },
   "google.ca": {
-    "lastAt": 1759094538951,
+    "lastAt": 1759456026759,
     "urls": [
       "https://google.ca/",
       "https://www.google.com/intl/ar_eg/drive/download/",
@@ -21464,7 +21511,7 @@
     ]
   },
   "docker.io": {
-    "lastAt": 1759094546008,
+    "lastAt": 1759456033079,
     "urls": [
       "https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/",
       "https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/",
@@ -21515,11 +21562,21 @@
       "https://www.docker.com/blog/screaming-in-the-cloud-with-corey-quinn-and-docker-ceo-scott-johnston/",
       "https://www.docker.com/blog/multi-arch-build-what-about-circleci/",
       "https://www.docker.com/blog/docker-desktop-3-0-0-smaller-faster-releases/",
-      "https://www.docker.com/blog/addressing-time-drift-in-docker-desktop-for-mac/"
+      "https://www.docker.com/blog/addressing-time-drift-in-docker-desktop-for-mac/",
+      "https://www.docker.com/blog/docker-extensions-preview/",
+      "https://www.docker.com/blog/last-call-register-for-our-next-community-all-hands-on-march-31st/",
+      "https://www.docker.com/blog/open-container-project-foundation/",
+      "https://www.docker.com/blog/docker-raises-series-c-build-share-run/",
+      "https://www.docker.com/blog/automating-your-containers-security-scanning/",
+      "https://www.docker.com/blog/simplify-your-deployments-using-the-rust-official-image/",
+      "https://www.docker.com/blog/new-docker-extensions-february-2023/",
+      "https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/",
+      "https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/",
+      "https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/"
     ]
   },
   "split.io": {
-    "lastAt": 1759094547310,
+    "lastAt": 1759456033826,
     "urls": [
       "https://split.io/",
       "https://www.split.io/",
@@ -21536,29 +21593,29 @@
     ]
   },
   "bol.com": {
-    "lastAt": 1759094555048,
+    "lastAt": 1759456041408,
     "urls": []
   },
   "lavanguardia.com": {
-    "lastAt": 1759094556920,
+    "lastAt": 1759456043054,
     "urls": [
       "https://lavanguardia.com/"
     ]
   },
   "fbpigeon.com": {
-    "lastAt": 1759094559885,
+    "lastAt": 1759456046453,
     "urls": []
   },
   "ttlivecdn.com": {
-    "lastAt": 1759094562892,
+    "lastAt": 1759456049674,
     "urls": []
   },
   "docomo.ne.jp": {
-    "lastAt": 1759094567347,
+    "lastAt": 1759456054934,
     "urls": []
   },
   "frontiersin.org": {
-    "lastAt": 1759094580010,
+    "lastAt": 1759456066609,
     "urls": [
       "https://frontiersin.org/",
       "https://www.frontiersin.org/research-topics/74106/the-fmr1-premutation-expanding-the-clinical-and-molecular-spectrum/impact",
@@ -21609,17 +21666,27 @@
       "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies/impact",
       "https://www.frontiersin.org/research-topics/74560/molecular-host-pathogen-interactions-in-veterinary-infectious-diseases-from-pathogenesis-to-immunomodulatory-therapies/articles",
       "https://www.frontiersin.org/research-topics/74282/cytoskeletal-dynamics-and-membrane-trafficking-in-renal-physiology-and-disease/articles",
-      "https://www.frontiersin.org/research-topics/74282/cytoskeletal-dynamics-and-membrane-trafficking-in-renal-physiology-and-disease"
+      "https://www.frontiersin.org/research-topics/74282/cytoskeletal-dynamics-and-membrane-trafficking-in-renal-physiology-and-disease",
+      "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/authors",
+      "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/articles",
+      "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/impact",
+      "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance",
+      "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms",
+      "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/authors",
+      "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/articles",
+      "https://www.frontiersin.org/research-topics/73742/advancing-fertility-preservation-in-endometrial-cancer-the-transformative-role-of-molecular-classification",
+      "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/impact",
+      "https://www.frontiersin.org/research-topics/73742/advancing-fertility-preservation-in-endometrial-cancer-the-transformative-role-of-molecular-classification/articles"
     ]
   },
   "cbc.ca": {
-    "lastAt": 1759094581499,
+    "lastAt": 1759456069446,
     "urls": [
       "https://cbc.ca/"
     ]
   },
   "tinkoff.ru": {
-    "lastAt": 1759097994247,
+    "lastAt": 1759456076724,
     "urls": [
       "https://www.tbank.ru/bank/help/apps/eng/",
       "https://www.tbank.ru/bank/help/apps/uz/",
@@ -21663,19 +21730,26 @@
       "https://www.tbank.ru/business/help/checkout-connect/",
       "https://www.tbank.ru/invest/help/urgent-funds/",
       "https://www.tbank.ru/invest/help/situation/all-funds/",
-      "https://www.tbank.ru/bank/help/coupons/"
+      "https://www.tbank.ru/bank/help/coupons/",
+      "https://www.tbank.ru/invest/help/lot/",
+      "https://www.tbank.ru/invest/help/unlisted-shares/",
+      "https://www.tbank.ru/invest/help/diluted-eps/",
+      "https://www.tbank.ru/invest/help/market-price/",
+      "https://www.tbank.ru/invest/help/register-of-shareholders/",
+      "https://www.tbank.ru/invest/help/issue-income/",
+      "https://www.tbank.ru/invest/help/common-swap/"
     ]
   },
   "transsion-os.com": {
-    "lastAt": 1759097997607,
+    "lastAt": 1759456080652,
     "urls": []
   },
   "konami.net": {
-    "lastAt": 1759098000799,
+    "lastAt": 1759456083953,
     "urls": []
   },
   "note.com": {
-    "lastAt": 1759098007411,
+    "lastAt": 1759456097745,
     "urls": [
       "https://note.com/recommend",
       "https://note.com/",
@@ -21716,11 +21790,19 @@
       "https://note.com/lycbiz",
       "https://note.com/d2c_opecen",
       "https://note.com/ichibyo3",
-      "https://note.com/rushgaming"
+      "https://note.com/rushgaming",
+      "https://note.com/tsugumakazuki",
+      "https://note.com/sionnet",
+      "https://note.com/kawata_note",
+      "https://note.com/ethna2",
+      "https://note.com/note_games",
+      "https://note.com/atusko0713",
+      "https://note.com/dfmwin",
+      "https://note.com/dentetsu"
     ]
   },
   "rapid7.com": {
-    "lastAt": 1759098011197,
+    "lastAt": 1759456101287,
     "urls": [
       "https://www.rapid7.com/about/leadership/",
       "https://rapid7.com/",
@@ -21771,21 +21853,31 @@
       "https://www.rapid7.com/customers/anglo-eastern/",
       "https://www.rapid7.com/customers/amn-healthcare-partners/",
       "https://www.rapid7.com/customers/atn-international/",
-      "https://www.rapid7.com/customers/arcadis/"
+      "https://www.rapid7.com/customers/arcadis/",
+      "https://www.rapid7.com/customers/brooks/",
+      "https://www.rapid7.com/customers/camden-national-bank/",
+      "https://www.rapid7.com/customers/bauer-kompressoren/",
+      "https://www.rapid7.com/customers/bioventus/",
+      "https://www.rapid7.com/customers/blue-valley-school/",
+      "https://www.rapid7.com/customers/capital-on-tap/",
+      "https://www.rapid7.com/customers/chemung-canal-trust-company/",
+      "https://www.rapid7.com/customers/citywide-service-solutions/",
+      "https://www.rapid7.com/customers/cradlepoint/",
+      "https://www.rapid7.com/customers/clatterbridge-cancer-center/"
     ]
   },
   "gamepass.com": {
-    "lastAt": 1759098015376,
+    "lastAt": 1759456105439,
     "urls": []
   },
   "redfin.com": {
-    "lastAt": 1759098071187,
+    "lastAt": 1759456118420,
     "urls": [
       "https://redfin.com/"
     ]
   },
   "interia.pl": {
-    "lastAt": 1759098074361,
+    "lastAt": 1759456120802,
     "urls": [
       "https://interia.pl/"
     ]

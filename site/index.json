@@ -308845,5 +308845,649 @@
     "title": "���������: ������� �� �����, ������, �������, ���� � �������� � ��� ����� | ������",
     "description": "������� ���������� �� ���� ���������. ������ ����, �������������� ������, �������� ���� � �����. ���",
     "text": "��������: ���� ����\n�����, ����������, 2D\n������ ����� ������\n�������� ������: ���������� ����� ����"
+  },
+  {
+    "id": "e7df2bb458f1c144955574a2330d59545b584218",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-traditional-chinese/",
+    "title": "Smart TV Privacy Policy Traditional Chinese – Alphonso",
+    "description": "",
+    "text": "English\nFrench\nSimplified Chinese\nSpanish\nTraditional Chinese\n最後更新時間：2024 年 1 月\n以下原則適用於美國的智慧電視使用者。\nA"
+  },
+  {
+    "id": "f0a71912f5cfbb7f9f0185b6412f63df663158f5",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-ch-simplified/",
+    "title": "Smart TV Alphonso ACR Software Terms of Service –  Simplified Chinese – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nChinese (Simplified)\nChinese (Traditional)\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFi"
+  },
+  {
+    "id": "f427f41d570212551d2fd87429291edc0392d1db",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-tos-ch-traditional/",
+    "title": "Smart TV Alphonso ACR Software Terms of Service – Traditional Chinese – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nChinese (Simplified)\nChinese (Traditional)\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFi"
+  },
+  {
+    "id": "be65f1e0ad8a698725a2c9850da9e316d5633c36",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-bulgarian/",
+    "title": "Smart TV Privacy Policy – EU – Bulgarian – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFinnish\nFrench\nGaelic\nGerman\nGreek\nHungarian\n"
+  },
+  {
+    "id": "a5b1aa13ea21b0134e9d1ee4cbe473ff225d8b3a",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-croatian/",
+    "title": "Smart TV Privacy Policy – EU – Croatian – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFinnish\nFrench\nGaelic\nGerman\nGreek\nHungarian\n"
+  },
+  {
+    "id": "a1044c1c8eddc0c3c76cbb7f3c6b8e31c153ee4d",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-czech/",
+    "title": "Smart TV Privacy Policy – EU – Czech – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFinnish\nFrench\nGaelic\nGerman\nGreek\nHungarian\n"
+  },
+  {
+    "id": "a67ec1b1d53c96b05ec9a64cb061772bfaff094a",
+    "url": "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu-danish/",
+    "title": "Smart TV Privacy Policy – EU – Danish – Alphonso",
+    "description": "",
+    "text": "Bulgarian\nCroation\nCzech\nDanish\nDutch\nEnglish\nEstonian\nFinnish\nFrench\nGaelic\nGerman\nGreek\nHungarian\n"
+  },
+  {
+    "id": "a102fcf99ad6e167bbd2c6e24e59518f0907b3eb",
+    "url": "https://www.linode.com/blog/linode/enterprise-data-ingestion-with-low-latency-akamais-proven-solutions-for-financial-institutions/",
+    "title": "Enterprise Data Ingestion with Low Latency | Akamai",
+    "description": "Developers in finance value speed and reliability. Learn how Akamai assisted in handling high data v",
+    "text": "If you’re a developer at a financial institution or bank, you know that speed and reliability aren’t"
+  },
+  {
+    "id": "61398b1f8d8994462427977b2db5824915829871",
+    "url": "https://www.linode.com/blog/security/in-the-dark-about-shadow-apis/",
+    "title": "In the Dark about Shadow APIs? | Akamai",
+    "description": "Shadow APIs aren’t typically a risk you would think about when developing APIs. See real-world examp",
+    "text": "I’m often asked about shadow APIs and shadow API parameters—even by people with a lot of experience "
+  },
+  {
+    "id": "d937c7c35ee49d85bd07c778035c5a5dd816b3a4",
+    "url": "https://www.linode.com/blog/networking/how-to-build-a-nat-gateway-in-a-vpc-with-linode/",
+    "title": "How to Build a NAT Gateway in a VPC with Linode | Akamai",
+    "description": "Enhance cloud security with Linode’s NAT Gateway in a VPC. Learn how to access the internet without ",
+    "text": "One of our customers that handles sensitive customer data needed a secure cloud infrastructure for t"
+  },
+  {
+    "id": "e4b273d25076c32f460b2dc8d6765acf18279c5d",
+    "url": "https://www.linode.com/blog/security/pay-attention-to-your-non-production-subdomains/",
+    "title": "Pay Attention to Your Non-Production Subdomains | Akamai",
+    "description": "Security teams often focus on an organization's main production domain. Learn why paying attention t",
+    "text": "It’s common for security teams to focus their best efforts on an organization’s primary production d"
+  },
+  {
+    "id": "fd7c75b3b9b06c42cdcffebc7a7475640873374d",
+    "url": "https://www.linode.com/blog/compute/maximizing-financial-performance-how-financial-institutions-can-achieve-low-latency-and-high-throughput-with-nats-io-and-akamai/",
+    "title": "Optimize Performance with NATS.io and Akamai | Akamai",
+    "description": "We explain how to build a highly distributed, low-latency, and consistent system that meets the rigo",
+    "text": "Financial institutions need to process a massive amount of transactions per second. Because these tr"
+  },
+  {
+    "id": "1bda987c2e16b6b32b54a7423a0dcd591d98e1c6",
+    "url": "https://www.linode.com/blog/linode/migrating-from-client-side-to-server-side-adaptive-bitrate-streaming/",
+    "title": "Client-Side to Server-Side Adaptive Bitrate Streaming | Akamai",
+    "description": "We explore the technical aspects of transitioning from client-side to server-side ABR, focusing on i",
+    "text": "Streaming platforms scale to accommodate millions of concurrent viewers across diverse devices and n"
+  },
+  {
+    "id": "41a7d857127daf05c699bd9f9c95b59bf5a0f238",
+    "url": "https://www.linode.com/blog/cloud-storage/introducing-new-akamai-object-storage-endpoints/",
+    "title": "Introducing New Akamai Object Storage Endpoints | Akamai",
+    "description": "We just released the latest update to Object Storage, delivering a 4x improvement in data workload p",
+    "text": "We just released the latest update to Object Storage, delivering a 4x improvement in data workload p"
+  },
+  {
+    "id": "5013c357207683247f00b49fb223adc04b342d70",
+    "url": "https://www.linode.com/blog/security/authentication-isnt-everything/",
+    "title": "Authentication Isn’t Everything | Akamai",
+    "description": "Alex Leung explains why fortifying one's login API and loosening other parts of one's security postu",
+    "text": "Throughout history, countless failures have occurred due to planners being overconfident in the qual"
+  },
+  {
+    "id": "bc94427ca7eebe83c13d8cca731a50c396cdb4c2",
+    "url": "https://www.linode.com/blog/security/pad-credit-card-information-to-protect-your-customers-wallets/",
+    "title": "Pad Credit Card Information to Protect Your Customers’ Wallets | Akamai",
+    "description": "We take a look at a recently-assessed API, to see how it avoided the problem that helped the Allies ",
+    "text": "Not every day can you apply lessons from Second World War cryptanalysis to your own web applications"
+  },
+  {
+    "id": "79f1c45d12f3821a1c18a8a05794e6b076b92dba",
+    "url": "https://www.linode.com/blog/compute/deepseek-why-it-matters-and-what-the-press-got-wrong/",
+    "title": "Deepseek: Why it Matters and What the Press Got Wrong | Akamai",
+    "description": "DeepSeek recently made waves in the technology world with their new AI model, R1. This model showcas",
+    "text": "DeepSeek recently made waves in the technology world with their new AI model, R1. This model showcas"
+  },
+  {
+    "id": "e48d0bdf431cb8239e0c3d85a1947a633e77ea80",
+    "url": "https://www.ancestry.com/last-name-meaning/wintour",
+    "title": "Wintour Surname Meaning & Wintour Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Wintour surname on Ancestry®. Find your family's origin in the United St",
+    "text": "see Winter.\nSource: The Oxford Dictionary of Family Names in Britain and Ireland, 2016\nHint: Try sea"
+  },
+  {
+    "id": "eb8ca2480c7392a68a62d5f7871cdfe0aba4ae1e",
+    "url": "https://www.ancestry.com/last-name-meaning/kite",
+    "title": "Kite Surname Meaning & Kite Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Kite surname on Ancestry®. Find your family's origin in the United State",
+    "text": "English: nickname from Middle English kete  kyte ‘kite’ (the bird of prey) perhaps a nickname for a "
+  },
+  {
+    "id": "05fc33eec93da01b0b71b96437d129df63e3ae7c",
+    "url": "https://www.ancestry.com/last-name-meaning/bradberry",
+    "title": "Bradberry Surname Meaning & Bradberry Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Bradberry surname on Ancestry®. Find your family's origin in the United ",
+    "text": "English (Yorkshire): variant of Bradbury.\nSource: Dictionary of American Family Names 2nd edition, 2"
+  },
+  {
+    "id": "233931cf960e7fcfe286d0883b4f762ccca490b8",
+    "url": "https://www.ancestry.com/last-name-meaning/schoenbeck",
+    "title": "Schoenbeck Surname Meaning & Schoenbeck Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Schoenbeck surname on Ancestry®. Find your family's origin in the United",
+    "text": "North German (Schönbeck): topographic name from Middle Low German schōne ‘beautiful’ + beke ‘creek’ "
+  },
+  {
+    "id": "7601f1c48659243caa3b626283b38b22e1890892",
+    "url": "https://www.ancestry.com/last-name-meaning/fitzharris",
+    "title": "Fitzharris Surname Meaning & Fitzharris Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Fitzharris surname on Ancestry®. Find your family's origin in the United",
+    "text": "Irish: from Anglo-Norman French fi(t)z ‘son’ (see Fitz) + the personal name Harry ‘son of Harry’.\nMa"
+  },
+  {
+    "id": "60924e53200a210513f4661441cb88e781145ecd",
+    "url": "https://www.ancestry.com/last-name-meaning/westmorland",
+    "title": "Westmorland Surname Meaning & Westmorland Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Westmorland surname on Ancestry®. Find your family's origin in the Unite",
+    "text": "English (northern): variant of Westmoreland.\nSource: Dictionary of American Family Names 2nd edition"
+  },
+  {
+    "id": "add64c5726509a584c5deed949db0cc80e5cc78c",
+    "url": "https://www.ancestry.com/last-name-meaning/dossetter",
+    "title": "Dossetter Surname Meaning & Dossetter Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Dossetter surname on Ancestry®. Find your family's origin in the United ",
+    "text": "variant of Dorchester.\nSource: The Oxford Dictionary of Family Names in Britain and Ireland, 2016\nHi"
+  },
+  {
+    "id": "3aa3b92899510ca107776098f784fe09d1f9ed1b",
+    "url": "https://www.ancestry.com/last-name-meaning/appelt",
+    "title": "Appelt Surname Meaning & Appelt Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Appelt surname on Ancestry®. Find your family's origin in the United Sta",
+    "text": "German: from the personal name Appel  with the addition of a post-medieval -t. See Appel\nSource: Dic"
+  },
+  {
+    "id": "07ccc42aeb584026d182b9b9457c6528731b4eb3",
+    "url": "https://www.ancestry.com/last-name-meaning/meitz",
+    "title": "Meitz Surname Meaning & Meitz Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Meitz surname on Ancestry®. Find your family's origin in the United Stat",
+    "text": "German: habitational name from any of several places called Meitz or Meitze.\nSource: Dictionary of A"
+  },
+  {
+    "id": "3a3d91f037d4879ed750aaf72bad5430ecb2cbb3",
+    "url": "https://www.ancestry.com/last-name-meaning/puff",
+    "title": "Puff Surname Meaning & Puff Family History at Ancestry.com®",
+    "description": "Discover the meaning of the Puff surname on Ancestry®. Find your family's origin in the United State",
+    "text": "German:: nickname for a violent aggressive person from buff ‘push shove’. from a pet form of a perso"
+  },
+  {
+    "id": "93fd1a89f1840b79571affd91b454c3b23429633",
+    "url": "https://www.jetbrains.com/products/compare/?product=pycharm-ce&product=resharper-cpp",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f1ee212580e0e47ea760a9dd01b9f63b64d4eb66",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=goland",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "f2b48c55f168690aafd266f78b6e2d34f39594da",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=phpstorm",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "482c3e8fff13425376fb830e6ff45d191860357d",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=datagrip",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "fd92cc3ae132c905391cab695b4370e453309bcd",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=webstorm",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "bb2acc49d417fa95d79f6c4fc0856fc07540d6d0",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=dataspell",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "4f1cdc636806e492b4c767a401e80708462a0bb1",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=clion",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "db7d36fb3543991adeaf8211cb3f784924cfd9dc",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=appcode",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "a14e04e4923dc84c116c44aa49c9549240eff2d1",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=rider",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "2a3ee5a002c3713bafc4f6c4ad631bb29aa7f2b4",
+    "url": "https://www.jetbrains.com/products/compare/?product=rubymine&product=resharper",
+    "title": "JetBrains Products Comparison",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "35e53da08795a28e9d10d0add3ece33bf1e03dcf",
+    "url": "https://www.leparisien.fr/international/etats-unis/apres-des-frappes-au-large-du-venezuela-donald-trump-declare-les-etats-unis-en-conflit-arme-avec-les-cartels-de-la-drogue-02-10-2025-WEAMFCJP55FR5PR2RAPT3SR4LU.php",
+    "title": "Après des frappes au large du Venezuela, Donald Trump déclare les États-Unis en « conflit armé » ave",
+    "description": "Cette notice intervient après le déploiement fin août de plusieurs navires militaires dans la mer de",
+    "text": "Cette notice intervient après le déploiement fin août de plusieurs navires militaires dans la mer de"
+  },
+  {
+    "id": "a0d61b20b1244d0885ddd10057ac14cd57233504",
+    "url": "https://www.leparisien.fr/faits-divers/royaume-uni-attaque-au-couteau-a-lexterieur-dune-synagogue-a-manchester-02-10-2025-7GDVGO5EBFCPNJEGS64QR3TFSU.php",
+    "title": "Trois morts dont l’assaillant, trois blessés graves, trois interpellations… Ce que l’on sait de l’at",
+    "description": "Un homme au volant d’une voiture a percuté la foule ce jeudi matin à Crumpsall, au nord de la ville,",
+    "text": "Un homme au volant d’une voiture a percuté la foule ce jeudi matin à Crumpsall, au nord de la ville,"
+  },
+  {
+    "id": "6f0528c18af9b54df497d09310e5263db644ec62",
+    "url": "https://www.leparisien.fr/culture-loisirs/cinema/il-est-comme-nous-en-fait-tres-touchant-a-caen-les-fans-dorelsan-valident-son-nouveau-film-yoroi-03-10-2025-CXFU7Y2PF5C55G43QK76MFDWT4.php",
+    "title": "« Il est comme nous en fait, très touchant » : à Caen, les fans d’Orelsan valident son nouveau film ",
+    "description": "Nous avons assisté ce jeudi à la toute première avant-première de « Yoroï », le film co-écrit par Or",
+    "text": "Nous avons assisté ce jeudi à la toute première avant-première de « Yoroï », le film co-écrit par Or"
+  },
+  {
+    "id": "6ccba7d6b5d729df26863512a6f78c168482567b",
+    "url": "https://www.leparisien.fr/societe/il-ny-avait-plus-ame-qui-vive-camille-senon-centenaire-qui-avait-echappe-au-massacre-doradour-sur-glane-est-morte-02-10-2025-FJLFCRFQFNGSLL2ZJKXI373YQY.php",
+    "title": "« Il n’y avait plus âme qui vive » : Camille Senon, centenaire qui avait échappé au massacre d’Orado",
+    "description": "Celle qui était devenue responsable syndicale et militante féministe après la Seconde Guerre mondial",
+    "text": "Celle qui était devenue responsable syndicale et militante féministe après la Seconde Guerre mondial"
+  },
+  {
+    "id": "e455248a5ba795b31646b9406a927660dce133c3",
+    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-adidas-devoile-le-ballon-officiel-de-la-competition-03-10-2025-P7YQDYHT5NE2TBQLZIKV3IETUU.php",
+    "title": "Coupe du monde 2026 : Adidas dévoile le ballon officiel de la compétition - Le Parisien",
+    "description": "Le « Trionda » représente les trois pays hôte du tournoi : les États-Unis, le Canada et le Mexique.",
+    "text": "Le « Trionda » représente les trois pays hôte du tournoi : les États-Unis, le Canada et le Mexique.\n"
+  },
+  {
+    "id": "bbf13ae3585f14505477dc5c167c75e21cff631a",
+    "url": "https://www.leparisien.fr/international/maroc-apres-une-nuit-de-violences-meurtrieres-la-generation-z-appelle-a-des-mobilisations-pacifiques-02-10-2025-DLZVMKHTYNHYDGFM27RUU2FLVI.php",
+    "title": "Maroc : après une nuit de violences meurtrières, des rassemblements de la génération Z sans heurts c",
+    "description": "Pour le sixième jour consécutif, des rassemblements étaient organisés ce jeudi dans 13 villes maroca",
+    "text": "Pour le sixième jour consécutif, des rassemblements étaient organisés ce jeudi dans 13 villes maroca"
+  },
+  {
+    "id": "de0fb59a7c6b4c42898719cfd663c898ce529243",
+    "url": "https://www.leparisien.fr/oise-60/jai-secoue-mon-bebe-une-mere-de-loise-condamnee-pour-linfirmite-permanente-causee-a-son-enfant-02-10-2025-O2U7ZFP2QNHDXBJ6LVF7W4BGZA.php",
+    "title": "« J’ai secoué mon bébé » : une mère de l’Oise condamnée pour l’infirmité permanente causée à son enf",
+    "description": "La cour criminelle de l’Oise a condamné ce jeudi 2 octobre une mère de famille à 5 ans de prison ave",
+    "text": "La cour criminelle de l’Oise a condamné ce jeudi 2 octobre une mère de famille à 5 ans de prison ave"
+  },
+  {
+    "id": "fcf471773430dcc8b27736f3b94cc5037eddf4db",
+    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/la-ratp-lance-une-campagne-electrochoc-contre-les-comportements-a-risque-02-10-2025-4VVHUA7PFVD77PBGPN4LP3QI6U.php",
+    "title": "La RATP lance une campagne « électrochoc » contre les comportements à risque - Le Parisien",
+    "description": "Depuis le 1er octobre, la régie des transports parisiens étale sur les quais et publie sur les résea",
+    "text": "Depuis le 1er octobre, la régie des transports parisiens étale sur les quais et publie sur les résea"
+  },
+  {
+    "id": "fb3f7fe95f63d2672f26f7d3b5e1cc416c4f70e6",
+    "url": "https://www.leparisien.fr/paris-75/flottille-pour-gaza-quelques-milliers-de-personnes-rassemblees-a-paris-quelques-tensions-place-de-la-republique-02-10-2025-HJGHFSHVGBG3RKYCBAQNEKKEYE.php",
+    "title": "Flottille pour Gaza : quelques milliers de personnes rassemblées à Paris, des tensions place de la R",
+    "description": "Quelques milliers de personnes se sont rassemblées sur la place de la République. Elles ont été disp",
+    "text": "Quelques milliers de personnes se sont rassemblées sur la place de la République. Elles ont été disp"
+  },
+  {
+    "id": "b87795b4cb8cb3f36dffeb987d25ef115311a69b",
+    "url": "https://www.leparisien.fr/sports/football/lyon-salzbourg-2-0-les-lyonnais-poursuivent-leur-sans-faute-en-ligue-europa-grace-au-1er-but-du-fils-de-patrick-kluivert-02-10-2025-4FAO6ZEA7JFLDHB7BVFKCJE5EQ.php",
+    "title": "Lyon-Salzbourg (2-0) : les Lyonnais poursuivent leur sans-faute en Ligue Europa grâce au 1er but du ",
+    "description": "Auteur du 2e but de la rencontre après l’ouverture du score de Satriano, Ruben Kluivert a libéré les",
+    "text": "Auteur du 2e but de la rencontre après l’ouverture du score de Satriano, Ruben Kluivert a libéré les"
+  },
+  {
+    "id": "241b1fe533d7a4e80d02c76e227b0d2738ae300c",
+    "url": "https://www.docker.com/blog/docker-extensions-preview/",
+    "title": "Docker Extensions Preview | Docker",
+    "description": "Learn from Docker experts to simplify and advance your app development and management with Docker. S",
+    "text": "Amy Bass\nHave you ever found that you had too many developer tools to integrate together? At the Doc"
+  },
+  {
+    "id": "ef76dfd5413bc5c5755e191735b4b41c4712c35f",
+    "url": "https://www.docker.com/blog/last-call-register-for-our-next-community-all-hands-on-march-31st/",
+    "title": "Last Call: Register for our next Community All Hands on March 31st | Docker",
+    "description": "Learn from Docker experts to simplify and advance your app development and management with Docker. S",
+    "text": "Eva Bojorges\nThis Thursday is our next Community All Hands event, on March 31st at 8am PST/5pm CET. "
+  },
+  {
+    "id": "77f81671db3ab4521adb598deae69446d8c9f8bb",
+    "url": "https://www.docker.com/blog/open-container-project-foundation/",
+    "title": "Docker and Broad Industry Coalition Unite to Create Open Container Project | Docker",
+    "description": "Learn from Docker experts to simplify and advance your app development and management with Docker. S",
+    "text": "Ben Golub\nThis morning, Docker, along with a broad coalition of vendors, users, start-ups, and indus"
+  },
+  {
+    "id": "78ee3e61ac70dc5309b6765a34c235a1ff644428",
+    "url": "https://www.docker.com/blog/docker-raises-series-c-build-share-run/",
+    "title": "Docker Raises Series C: More Build, More Share, More Run | Docker",
+    "description": "Learn from Docker experts to simplify and advance your app development and management with Docker. S",
+    "text": "Scott Johnston\nToday we’re announcing Docker’s closing of $105 million in Series C financing to acce"
+  },
+  {
+    "id": "989eaeaefba772a3f05a7523b9f7960dd7050555",
+    "url": "https://www.docker.com/blog/automating-your-containers-security-scanning/",
+    "title": "Automating Your Containers' Security Scanning | Docker",
+    "description": "Vulnerabilities impact containers, but trusted images can help. Learn how Docker’s native Snyk integ",
+    "text": "Alyssa Shames\nApplication development is complex. Teams must juggle numerous processes, gather all d"
+  },
+  {
+    "id": "0e535346fbf52c21374d3d3f468eb9420a25d9ed",
+    "url": "https://www.docker.com/blog/simplify-your-deployments-using-the-rust-official-image/",
+    "title": "Simplify Your Deployments Using the Rust Official Image | Docker",
+    "description": "Deploying your Rust application doesn't have to be complicated. Learn how to use the Rust Official I",
+    "text": "Tyler Charboneau\nWe previously tackled how to deploy your web applications quicker with the Caddy 2 "
+  },
+  {
+    "id": "33f45fed17c21159d0a6ff0f0fdfed82626bd891",
+    "url": "https://www.docker.com/blog/new-docker-extensions-february-2023/",
+    "title": "February Extensions: Kubescape, Gefyra, and more | Docker",
+    "description": "Find out what’s new this month in the Docker Extension Marketplace, including connecting local conta",
+    "text": "Britney Blodget\nAlthough February is the shortest month of the year, we’ve been busy at Docker and w"
+  },
+  {
+    "id": "ddf09b290784ad0ccf8e553c81b8c6a87edcf622",
+    "url": "https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/",
+    "title": "Strategic Imperative of AI in 2024 | Docker",
+    "description": "We examine the incredible growth of AI and explore its potential power to transform industries and h",
+    "text": "Mark Hinkle\nThe winds of change are sweeping across industries, propelled by the transformative powe"
+  },
+  {
+    "id": "ad1c156ba001d1379d5353121f0f7eb29e07403e",
+    "url": "https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/",
+    "title": "Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfile",
+    "description": "What are Docker ADD/COPY instructions and when should you use them? We explain the differences betwe",
+    "text": "Jay Schmidt\nCOPY vs. ADD tl;dr:\nWhen you search for “Dockerfile best practices,” one of the suggesti"
+  },
+  {
+    "id": "10b3aff579e1961fc381317870eca8c07aafeae0",
+    "url": "https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/",
+    "title": "Master Docker and VS Code: Supercharge Your Dev Workflow | Docker",
+    "description": "Get step-by-step instructions on how to pair VS Code and Docker to streamline your development proce",
+    "text": "Vladimir Mikhalev\nHey there, fellow developers and DevOps champions! I’m excited to share a workflow"
+  },
+  {
+    "id": "bb70a191631b1ff0ebee4a18d55dc1b42007a4f4",
+    "url": "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/authors",
+    "title": "Frontiers | Bioactive Compounds for Neuroinflammation and Neuropathic Pain Management: Molecular and",
+    "description": "The field of neuroinflammation plays a critical role in the pathophysiology of central nervous syste",
+    "text": "Submit your idea\nYou will be redirected to our submission process.\nThe Research Topic has been launc"
+  },
+  {
+    "id": "c3beaa58bd3c7b37a18aadfff68d9c89d1824f4e",
+    "url": "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/articles",
+    "title": "Frontiers | Bioactive Compounds for Neuroinflammation and Neuropathic Pain Management: Molecular and",
+    "description": "The field of neuroinflammation plays a critical role in the pathophysiology of central nervous syste",
+    "text": "Submit your idea\nYou will be redirected to our submission process.\nThe Research Topic has been launc"
+  },
+  {
+    "id": "fc8d67db7dff452bbebd7a14e3ecf37af80d1a02",
+    "url": "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms/impact",
+    "title": "Frontiers | Bioactive Compounds for Neuroinflammation and Neuropathic Pain Management: Molecular and",
+    "description": "The field of neuroinflammation plays a critical role in the pathophysiology of central nervous syste",
+    "text": "Submit your idea\nYou will be redirected to our submission process.\nManuscripts can be submitted to t"
+  },
+  {
+    "id": "727db18655787e76194b479e130b29130e870799",
+    "url": "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance",
+    "title": "Frontiers | Rewiring the Cancer Cell: Metabolic Networks Driving Tumor Plasticity, Immune Evasion, a",
+    "description": "Metabolic reprogramming is a fundamental hallmark of cancer, directly influencing tumor cell plastic",
+    "text": "14\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nSubm"
+  },
+  {
+    "id": "d1d8dba14726383cdc1282cdae870193c932d466",
+    "url": "https://www.frontiersin.org/research-topics/73300/bioactive-compounds-for-neuroinflammation-and-neuropathic-pain-management-molecular-and-cellular-mechanisms",
+    "title": "Frontiers | Bioactive Compounds for Neuroinflammation and Neuropathic Pain Management: Molecular and",
+    "description": "The field of neuroinflammation plays a critical role in the pathophysiology of central nervous syste",
+    "text": "Submit your idea\nYou will be redirected to our submission process.\nSubmission deadlines\nManuscript S"
+  },
+  {
+    "id": "9990cbaba3388c248d726ec16c705c7194f0aae3",
+    "url": "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/authors",
+    "title": "Frontiers | Rewiring the Cancer Cell: Metabolic Networks Driving Tumor Plasticity, Immune Evasion, a",
+    "description": "Metabolic reprogramming is a fundamental hallmark of cancer, directly influencing tumor cell plastic",
+    "text": "14\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nThe "
+  },
+  {
+    "id": "5abae46161776f40ef2266477e98c22bd58975c0",
+    "url": "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/articles",
+    "title": "Frontiers | Rewiring the Cancer Cell: Metabolic Networks Driving Tumor Plasticity, Immune Evasion, a",
+    "description": "Metabolic reprogramming is a fundamental hallmark of cancer, directly influencing tumor cell plastic",
+    "text": "14\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nThe "
+  },
+  {
+    "id": "98518cc15019885c359985c8c2a2571b1a3e7e03",
+    "url": "https://www.frontiersin.org/research-topics/73742/advancing-fertility-preservation-in-endometrial-cancer-the-transformative-role-of-molecular-classification",
+    "title": "Frontiers | Advancing Fertility Preservation in Endometrial Cancer: The Transformative Role of Molec",
+    "description": "The landscape of gynecological oncology is experiencing a paradigm shift, with increasing emphasis o",
+    "text": "23\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nSubm"
+  },
+  {
+    "id": "0ab6ee5cea077fd38b97c69c50d8ee67e15559c8",
+    "url": "https://www.frontiersin.org/research-topics/72448/rewiring-the-cancer-cell-metabolic-networks-driving-tumor-plasticity-immune-evasion-and-therapeutic-resistance/impact",
+    "title": "Frontiers | Rewiring the Cancer Cell: Metabolic Networks Driving Tumor Plasticity, Immune Evasion, a",
+    "description": "Metabolic reprogramming is a fundamental hallmark of cancer, directly influencing tumor cell plastic",
+    "text": "14\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nManu"
+  },
+  {
+    "id": "69ee6e711649a05e5160420da0db570db06953ec",
+    "url": "https://www.frontiersin.org/research-topics/73742/advancing-fertility-preservation-in-endometrial-cancer-the-transformative-role-of-molecular-classification/articles",
+    "title": "Frontiers | Advancing Fertility Preservation in Endometrial Cancer: The Transformative Role of Molec",
+    "description": "The landscape of gynecological oncology is experiencing a paradigm shift, with increasing emphasis o",
+    "text": "23\nTotal views and downloads\nSubmit your idea\nYou will be redirected to our submission process.\nThe "
+  },
+  {
+    "id": "ee6cd3888f499ef6bcfa84f9b276169f111b075d",
+    "url": "https://www.tbank.ru/invest/help/lot/",
+    "title": "Что такое лот на фондовой бирже",
+    "description": "Что представляет собой лот и как он используется на фондовом рынке. Какую роль играет лот в управлен",
+    "text": "Лот — это определенное количество акций, валюты, облигаций или любых других ценных бумаг, которые мо"
+  },
+  {
+    "id": "ec38258dfa8e3e5fd0b981cd88ad2af266902138",
+    "url": "https://www.tbank.ru/invest/help/unlisted-shares/",
+    "title": "Что такое некотировальные акции",
+    "description": "В чем отличия некотировальных акций от обычных. Как несписочные акции могут повлиять на финансовое с",
+    "text": "Некотировальные акции, или несписочные, — это акции, не включенные ни в один из уровней котировально"
+  },
+  {
+    "id": "9e119ae1acc26ee59b4efe68d91f980cf28e6175",
+    "url": "https://www.tbank.ru/invest/help/diluted-eps/",
+    "title": "Что означает понятие разводненная прибыль",
+    "description": "В чем сущность разводненной прибыли и ее значение для инвесторов. Как она влияет на оценку инвестици",
+    "text": "Разводненная прибыль на акцию (Diluted Earnings Per Share, EPS) — показывает, какая была бы прибыль "
+  },
+  {
+    "id": "ba4b79328e7e1413c234f6cea356cb11bbbcfa22",
+    "url": "https://www.tbank.ru/invest/help/market-price/",
+    "title": "Как определяется рыночная цена акции",
+    "description": "Что означает понятие рыночная цена акции. Какие факторы влияют на ее изменение на фондовом рынке. По",
+    "text": "Рыночная цена акции — это цена, по которой акция покупается или продается на бирже в настоящий момен"
+  },
+  {
+    "id": "8946fbf2da7676f8d7bb7f0e8904b572445b0789",
+    "url": "https://www.tbank.ru/invest/help/register-of-shareholders/",
+    "title": "Что такое реестр акционеров",
+    "description": "Для чего нужен реестр акционеров и когда он используется. Какие данные содержатся в реестре. Чем отл",
+    "text": "Реестр акционеров — это список всех владельцев ценных бумаг конкретного акционерного общества. В нем"
+  },
+  {
+    "id": "17bf18e3d716c62c5e67b757d61ffdd533fa433f",
+    "url": "https://www.tbank.ru/invest/help/issue-income/",
+    "title": "Что такое эмиссионный доход",
+    "description": "Определение и значение понятия эмиссионный доход. Его влияние на экономику, финансовые процессы, инф",
+    "text": "Эмиссионный доход — это разница между номинальной стоимостью ценной бумаги, которую устанавливает эм"
+  },
+  {
+    "id": "b1d1b8aa1ad85c2e44eb246b42d24db145e224a3",
+    "url": "https://www.tbank.ru/invest/help/common-swap/",
+    "title": "Что такое своп обыкновенных акций",
+    "description": "Какими характеристиками обладает своп обыкновенных акций. В чем суть деривативов. Какие возможности ",
+    "text": "Своп обыкновенных акций — это процесс, при котором происходит обмен акций одной компании на акции др"
+  },
+  {
+    "id": "06f9aee35f747154af05a17a36dfa407f7b00bf8",
+    "url": "https://note.com/tsugumakazuki",
+    "title": "津隈 和樹｜note",
+    "description": "妻と長女と次女の4人家族 /夫婦でマーケター/夫婦で一緒にMBA同級生になり一緒に卒業/元マイクロソフト/効率厨/ゲームと動画が好き",
+    "text": "2023年9月に0歳&3歳を連れてグアム旅行に行きました\n「あとで読む」から\n「あとで読む」から"
+  },
+  {
+    "id": "50eeeb10df540656f730db98d4d96123307ca7e0",
+    "url": "https://note.com/sionnet",
+    "title": "株式会社シオン｜note",
+    "description": "ぐるナイ、さんま御殿、ニノさん、突破ファイル、マツコの知らない世界、ミラクル9などのテレビ番組から、LINEヤフー、明治、小学館などの企業広告、キャスティングサービス、SNS、YouTube、ライブ制",
+    "text": "≪帰ってきた人気企画！！≫スマホのカメラロールに入っている“お気に入りのごはん写真”をシオンの社員から大募集！普段よく食べているものから業界人ならでは!?のグルメな写真までワクワクするごはん写真を紹介"
+  },
+  {
+    "id": "4abf183caf0e46bbc61b0825075b7f0fe3c71205",
+    "url": "https://note.com/kawata_note",
+    "title": "加和太建設株式会社　- 静岡県東部のまちづくりで「元気」をつくる会社 -｜note",
+    "description": "静岡県三島市で「つくっているのは、元気です」というスローガンを掲げて、まちづくりに取り組む建設会社です。静岡県東部の元気をつくる、まちづくりのアクションを発信します！",
+    "text": "加和太建設コーポレートサイト\n土木・建築の力、暮らしやサービスの力を統合させて、多くの人たちとともに地域の元気をつくる会社です\n採用情報\n「世界が注目する元気なまちをつくる」仲間を募集しています\n三島"
+  },
+  {
+    "id": "ba3343910bac16ec9c72b510a3990d10481d3b06",
+    "url": "https://note.com/ethna2",
+    "title": "ethna2｜note",
+    "description": "",
+    "text": ""
+  },
+  {
+    "id": "178782c232ccd345ce2a53fcd688aceb0db61255",
+    "url": "https://note.com/note_games",
+    "title": "noteゲーム｜note",
+    "description": "note公式のnoteゲームです。noteに投稿された素敵なゲーム記事の紹介や、マガジンなどを提供していきます！",
+    "text": "note公式のグランブルファンタジー（グラブル）マガジンです。\n皆さんが書いてくださった素敵な記事をまとめていきます！\nnote公式のバトルスピリッツ（バトスピ）マガジンです。\n皆さんが書いてくださっ"
+  },
+  {
+    "id": "7c6e6ddea4e0c09909a9c4ed5d839403d76577e2",
+    "url": "https://note.com/atusko0713",
+    "title": "あつこ｜note",
+    "description": "",
+    "text": "企業の情報発信に役立つnoteをピックアップしたマガジンです。\nいろいろな会社の事業開発関連の記事や事業開発に役立つ記事をまとめています。\n今取り組んでいるお仕事や、働く上で大事にしていることを書いて"
+  },
+  {
+    "id": "0a0a5e0fd59955a11b26fa65d66fa11720e6e567",
+    "url": "https://note.com/dfmwin",
+    "title": "DetonatioN FocusMe｜note",
+    "description": "『DetonatioN FocusMe』は世界大会の出場経験がある日本国内トップレベルのプロeスポーツチームです。\n昨年12月にTEAM GAMEWITHと合併し、DetonatioN Gamingか",
+    "text": ""
+  },
+  {
+    "id": "d91a2cdc7dea0fac24575448ac9c784808fefdf1",
+    "url": "https://note.com/dentetsu",
+    "title": "テレ東電鉄（テレビ東京公式）｜note",
+    "description": "そして電鉄へ・・・テレビ東京とJR東日本がみんなの旅・街歩きを盛り上げます！旅・街歩きをもっと面白くするヒントが満載！なかなか外出・外食ができない状況にありますが、せめてテレビ・デジタルで「こんな旅し",
+    "text": "10/19～投稿。そして電鉄へ・・・テレビ東京とJR東日本がみんなの旅・街歩きを盛り上げます！旅・街歩きをもっと面白くするヒントが満載！なかなか外出・外食ができない状況にありますが、せめてテレビ・デジ"
+  },
+  {
+    "id": "3cbc87e3cea1d7ca6b592c06f73610f606255caa",
+    "url": "https://www.rapid7.com/customers/brooks/",
+    "title": "Brooks Relies on Rapid7 SOAR Solution for Automation - Rapid7",
+    "description": "Learn how Brooks is able to scale and be efficient with InsightConnect. It allows them to accelerate",
+    "text": "Brooks, a 108-year old American sports equipment company designs and markets high-performance runnin"
+  },
+  {
+    "id": "89293970dd4b84643a357c91db51daa38c287b9b",
+    "url": "https://www.rapid7.com/customers/camden-national-bank/",
+    "title": "Visibility + Accessibility with Rapid7 Leads to Efficiency, Confidence - Rapid7",
+    "description": "Camden Bank wasn’t happy with their previous cybersecurity-as-a-service provider. They felt they had",
+    "text": "Keith Gosselin is the Vice-President of Information and Cybersecurity at Camden National Bank. Found"
+  },
+  {
+    "id": "c64de79c49a9341cae822ebd4fb4035bf998b62a",
+    "url": "https://www.rapid7.com/customers/bauer-kompressoren/",
+    "title": "Bauer Kompressoren: Breathing Easy w/ R7's 24/7 Cybersecurity - Rapid7",
+    "description": "Bauer Kompressoren trusts Rapid7's SOC to be a valued partner capable of protecting their assets 24x",
+    "text": "Thomas Müller was awakened early one morning last year with an urgent message. The security consulta"
+  },
+  {
+    "id": "b94a9b13ba0b611dfc7079966ba66b888a4b0ec5",
+    "url": "https://www.rapid7.com/customers/bioventus/",
+    "title": "Bioventus Relies on Rapid7 to Secure Critical Patient Data - Rapid7",
+    "description": "Learn how Rapid7 solutions help Bioventus secure their large distributed workforce, multiple clouds,",
+    "text": "Bioventus, a global leader in innovations for active healing and surgical orthobiologics works with "
+  },
+  {
+    "id": "fc685a2b85c2235bcfc37dcdea0fc4b77bdf3e08",
+    "url": "https://www.rapid7.com/customers/blue-valley-school/",
+    "title": "Blue Valley School District Uses R7 to Mitigate Ransomware - Rapid7",
+    "description": "Read how Blue Valley School District partners with Rapid7 Insight Platform to oversee and protect th",
+    "text": "Blue Valley Unified School District in Kansas encompasses more than 23,000 students and 3,100 staff "
+  },
+  {
+    "id": "185b1e4828dcebe6190229736bcfa3b2adecbfc2",
+    "url": "https://www.rapid7.com/customers/capital-on-tap/",
+    "title": "Good to Great: Capital on Tap's Security Transformation with Rapid7",
+    "description": "See how UK FinTech Capital on Tap scaled their security with Rapid7, cutting through vulnerability n",
+    "text": "For Capital on Tap, a UK-based FinTech serving small and medium-sized businesses, security isn't jus"
+  },
+  {
+    "id": "ea68e632c8535eed7ed49de7ac043fb63388d501",
+    "url": "https://www.rapid7.com/customers/chemung-canal-trust-company/",
+    "title": "How Chemung Canal Trust Company Fortifies Security w/ Rapid7 - Rapid7",
+    "description": "Implementing Rapid7's solutions transformed Chemung Canal Trust's security posture from disparate sy",
+    "text": "\"No organization is bulletproof... but with Rapid7, we've got a trusted partner by our side.\"\nMeet C"
+  },
+  {
+    "id": "749c50930708c1e5cf6afbd030666a7578f15733",
+    "url": "https://www.rapid7.com/customers/citywide-service-solutions/",
+    "title": "Citywide Service Solutions Case Study - Rapid7 - Rapid7",
+    "description": "For the past 28  years, Citywide Service Solutions Pty has been providing a range of physical and in",
+    "text": "For the past 28 years, Citywide Service Solutions Pty has been providing a range of physical and ind"
+  },
+  {
+    "id": "167f99c7d3e932ee0e1aa3482503428c30071614",
+    "url": "https://www.rapid7.com/customers/cradlepoint/",
+    "title": "Rapid7's MDR Secures Remote Working for Cradlepoint - Rapid7",
+    "description": "Learn how Cradlepoint is leveraging Rapid7 MDR and InsightVM to address existing security challenges",
+    "text": "Cradlepoint is one of the world’s leading providers of wireless network edge solutions. Founded near"
+  },
+  {
+    "id": "a9c1bf85e0b1ed8776edc20cd50cfa0d30c82f17",
+    "url": "https://www.rapid7.com/customers/clatterbridge-cancer-center/",
+    "title": "Clatterbridge Cancer Center Trusts R7 to Secure Patient Data - Rapid7",
+    "description": "Clatterbridge Cancer Center trusts Rapid7 InsightIDR, a cloud-native SIEM solution which allows his ",
+    "text": "The Clatterbridge Cancer Centre is one of the UK's leading cancer centers providing highly specializ"
   }
 ]
